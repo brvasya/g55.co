@@ -6,7 +6,7 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'inde
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>&#9654; Play <?php echo h($title); ?> Games on <?php bloginfo('name'); ?></title>
+<title><?php echo h($title); ?> Games &#9654; Play Now</title>
 <meta name="description" content="<?php echo h($metaDesc); ?>">
 <link rel="canonical" href="<?php echo home_url($wp->request); ?>/">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
