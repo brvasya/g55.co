@@ -41,7 +41,7 @@ gtag('config', 'G-BV72Y8RMLN');
 </td>
 </tr>
 </table>
-<table id="content" style="background-image: url(<?php echo h($imageSrc); ?>);">
+<table id="content">
 <tr id="gradient-top">
 <td id="gradient-bottom">
 <div id="container">
