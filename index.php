@@ -14,15 +14,22 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'inde
 <link rel="preload" href="/icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <script src="/mason.min.js"></script>
-<?php include 'ads/ga.php' ?>
+<?php include '/ads/ga.php' ?>
 </head>
 
 <body>
-<?php include 'header.php' ?>
+<table id="header">
+<tr>
+<td id="header-left">
+<div class="gcse-searchbox-only"></div>
+<a id="logo" href="/" title="G55.CO" target="_top"></a>
+</td>
+<td id="header-right"></td>
+</tr>
+</table>
 <table id="title">
 <tr>
 <td id="title-left">
-<span id="counter"><?php echo number_format($wp_query->found_posts); ?></span>
 <h1><?php echo h($title); ?> Games</h1>
 </td>
 </tr>
