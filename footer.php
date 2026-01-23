@@ -14,7 +14,7 @@
 <tr>
 <td id="footer-left"></td>
 <td id="footer-right">
-<span>Copyright &#169; <?php echo date('Y'); ?> <a href="<?php echo home_url(); ?>/" title="<?php bloginfo('name'); ?>" target="_top"><?php bloginfo('name'); ?></a> | <a href="mailto:crazygames888@gmail.com" title="Contact Us" target="_top">Contact Us</a> | <a href="<?php echo home_url(); ?>/privacy-policy/" title="Privacy Policy" target="_top">Privacy Policy</a> | All Rights Reserved.</span>
+<span>Copyright &#169; <?php echo date('Y'); ?> <a href="/" title="G55.CO" target="_top">G55.CO</a> | <a href="mailto:crazygames888@gmail.com" title="Contact Us" target="_top">Contact Us</a> | <a href="/privacy-policy.php" title="Privacy Policy" target="_top">Privacy Policy</a> | All Rights Reserved.</span>
 </td>
 </tr>
 </table>
