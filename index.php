@@ -43,8 +43,8 @@ gtag('config', 'G-BV72Y8RMLN');
 </tr>
 </table>
 <table id="content">
-<tr id="gradient-top">
-<td id="gradient-bottom">
+<tr>
+<td>
 <div id="games">
 <div class="games">
 <?php foreach ($gridItems as $it): ?>

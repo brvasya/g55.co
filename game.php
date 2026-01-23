@@ -42,8 +42,8 @@ gtag('config', 'G-BV72Y8RMLN');
 </tr>
 </table>
 <table id="content">
-<tr id="gradient-top">
-<td id="gradient-bottom">
+<tr>
+<td>
 <div id="container">
 <div id="tower_l" class="block"><script async src="/js/160x600.js"></script></div>
 <div id="game" class="block">

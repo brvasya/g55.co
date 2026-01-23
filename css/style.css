@@ -69,15 +69,6 @@ body {
 }
 #content {
     height: fit-content;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-#gradient-top {
-    backdrop-filter: blur(5px);
-}
-#gradient-bottom {
-    background-image: linear-gradient(to bottom, transparent, #111), linear-gradient(to top, transparent, #111);
 }
 .block {
     background-color: #333;
