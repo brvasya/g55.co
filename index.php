@@ -32,10 +32,9 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'inde
 <td id="gradient-bottom">
 <div id="games">
 <div class="games">
-<?php while (have_posts()) : the_post(); ?>
-<?php include 'thumbnail.php' ?>
-<?php endwhile; ?>
-<?php wp_reset_query(); ?>
+<?php foreach ($gridItems as $it): ?>
+<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>" title="<?php echo h($it['title']); ?>" target="_top"><span class="caption"><?php echo h($it['title']); ?></span></a>
+<?php endforeach; ?>
 </div>
 </div>
 </td>
