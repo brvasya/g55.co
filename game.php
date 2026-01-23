@@ -42,8 +42,7 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'game
 <button id="fullscreen" onclick="document.querySelector('#game iframe, #game ruffle-embed')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe sandbox="allow-scripts allow-same-origin allow-pointer-lock" src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
-<ul id="tower_r" class="block">
-<li id="ads" class="block"><script async src="/ads/336x280.js"></script></li>
+<ul id="tower_r" class="block"><li id="ads" class="block"><script async src="/ads/336x280.js"></script></li>
 <?php foreach ($similar as $p): ?>
 <li><a class="tag" style="background-image: url(<?php echo h('/wp-content/uploads/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>" title="<?php echo h($p['title']); ?>" target="_top"><?php echo h($p['title']); ?></a></li>
 <?php endforeach; ?>
