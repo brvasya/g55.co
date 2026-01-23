@@ -7,11 +7,6 @@
 
 "categories": [
 {
-"id": "exclusive",
-"name": "Exclusive",
-"description": "Exclusive ad free games developed exclusively for G55.CO. Enjoy premium shooter and driving games built for smooth performance fast loading and uninterrupted gameplay. Every title is carefully developed for G55.CO players offering responsive controls optimized mechanics and a clean gaming experience without banners popups or forced breaks. Play instantly in your browser and experience focused action racing and combat designed for pure entertainment."
-},
-{
 "id": "io",
 "name": ".IO",
 "description": ".IO Games on G55.CO offer fast, competitive multiplayer experiences where you battle players from around the world in real time. These games are easy to jump into but hard to master, featuring simple controls and addictive gameplay. Whether you're growing your snake in a massive arena, controlling a tank in a chaotic battlefield, or building your base while defending it from others, .IO Games test your strategy, reflexes, and survival instincts. With quick rounds, leaderboards, and constant action, they're perfect for short breaks or long sessions. Play the best free .IO Games now on G55.CO and dominate the leaderboard!"
@@ -120,6 +115,21 @@
 "id": "driving",
 "name": "Driving",
 "description": "Driving Games on G55.CO put you behind the wheel for exciting, fast-paced experiences across a variety of vehicles and environments. Whether you're racing sports cars, parking trucks, or navigating city traffic, these games test your precision, speed, and driving skills. With realistic physics, diverse challenges, and multiple game modes, there's something for every car enthusiast. Choose from action-packed races, off-road adventures, or skill-based parking missions, all designed to keep you entertained and engaged. Play free Driving Games now on G55.CO and prove you've got what it takes to handle the road!"
+},
+{
+"id": "educational",
+"name": "Educational",
+"description": "Educational Games on G55.CO combine fun and learning to help players develop valuable skills while enjoying interactive gameplay. These games cover a wide range of subjects, including math, science, language, logic, and creativity, making them perfect for kids, students, and curious minds of all ages. Whether you're solving math puzzles, practicing spelling, exploring science experiments, or improving memory and focus, each game is designed to be both entertaining and educational. With colorful graphics, engaging challenges, and rewarding progress, Educational Games on G55.CO make learning exciting and enjoyable. Start playing now and boost your brainpower while having fun!"
+},
+{
+"id": "escape",
+"name": "Escape",
+"description": "Escape Games on G55.CO offer thrilling, brain-teasing adventures where players must solve puzzles, find hidden clues, and unlock secrets to break free from locked rooms, mysterious dungeons, or dangerous situations. These games challenge your logic, observation skills, and creativity as you race against time to escape. Whether you're defusing a bomb, escaping a haunted house, or unraveling a mystery in an abandoned lab, each level provides a unique and immersive experience. With a variety of scenarios, from horror-themed escapes to futuristic missions, there's something for every fan of mystery and suspense. Play free Escape Games now on G55.CO and test your wits in the ultimate digital escape challenge!"
+},
+{
+"id": "exclusive",
+"name": "Exclusive",
+"description": "Exclusive ad free games developed exclusively for G55.CO. Enjoy premium shooter and driving games built for smooth performance fast loading and uninterrupted gameplay. Every title is carefully developed for G55.CO players offering responsive controls optimized mechanics and a clean gaming experience without banners popups or forced breaks. Play instantly in your browser and experience focused action racing and combat designed for pure entertainment."
 }
 ]
 }
