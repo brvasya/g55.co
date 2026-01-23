@@ -8,4 +8,4 @@ function resize() {
 		gutter: 5
 	});
 }
-document.addEventListener("DOMContentLoaded", function() { resize(); });
+resize();
