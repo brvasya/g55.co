@@ -1,5 +1,5 @@
 <?php
-// app/page_pre.php
+// app/game_pre.php
 require_once __DIR__ . DIRECTORY_SEPARATOR . 'common.php';
 
 $index = load_site_index();
@@ -51,8 +51,9 @@ $pageTitle = $page['title'];
 $title = $pageTitle;
 
 $metaDesc = $page['description'];
-$canonical = 'https://coloring.g55.co/page.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
-$imageSrc = '/categories/' . $cid . '/' . $page['id'] . '.png';
+$canonical = 'https://g55.co/game.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
+$imageSrc = '/wp-content/uploads/' . $page['id'] . '.png';
+$iframeSrc = $page['iframe'];
 
 $h1 = $pageTitle;
 $desc = $page['description'];
@@ -74,6 +75,5 @@ if ($limit > 0) {
   }
 }
 
-$moreText = 'More ' . $cat['name'];
+$moreText = 'More ' . $cat['name'] . ' Games';
 $moreHref = '/?c=' . rawurlencode($cid);
-$moreTitle = 'Similar Free Printable ' . $cat['name'] . ' You May Like';
