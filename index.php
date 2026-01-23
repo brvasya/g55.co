@@ -14,7 +14,15 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'inde
 <link rel="preload" href="/icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <script src="/mason.min.js"></script>
-<?php include '/ads/ga.php' ?>
+<script async src="https://cse.google.com/cse.js?cx=f088a66cef0354852"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6180203036822393" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BV72Y8RMLN"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-BV72Y8RMLN');
+</script>
 </head>
 
 <body>
