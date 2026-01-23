@@ -10,11 +10,19 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'inde
 <meta name="description" content="<?php echo h($metaDesc); ?>">
 <link rel="canonical" href="<?php echo h($canonical); ?>">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
-<link rel="stylesheet" href="/style.css">
-<link rel="preload" href="/icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-<script src="/mason.min.js"></script>
-<?php include 'ads/ga.php' ?>
+<link rel="stylesheet" href="/css/style.css">
+<link rel="preload" href="/css/icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script src="/js/mason.min.js"></script>
+<script async src="https://cse.google.com/cse.js?cx=f088a66cef0354852"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6180203036822393" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BV72Y8RMLN"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-BV72Y8RMLN');
+</script>
 </head>
 
 <body>
@@ -54,7 +62,26 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'inde
 </td>
 </tr>
 </table>
-<?php include 'footer.php' ?>
-<script src="/resize.js"></script>
+<table id="menu">
+<tr>
+<td>
+<h2>Discover All Games</h2>
+<ul class="menu">
+<?php foreach ($categories as $c): ?>
+<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>" title="<?php echo h($c['name']); ?>" target="_top"><?php echo h($c['name']); ?></a></li>
+<?php endforeach; ?>
+</ul>
+</td>
+</tr>
+</table>
+<table id="footer">
+<tr>
+<td id="footer-left"></td>
+<td id="footer-right">
+<span>Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com" title="Contact Us" target="_top">Contact Us</a> | <a href="/privacy-policy.php" title="Privacy Policy" target="_top">Privacy Policy</a> | All Rights Reserved.</span>
+</td>
+</tr>
+</table>
+<script src="/js/resize.js"></script>
 </body>
 </html>

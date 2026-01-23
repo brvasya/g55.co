@@ -11,9 +11,17 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'game
 <link rel="canonical" href="<?php echo h($canonical); ?>">
 <link rel="image_src" href="<?php echo h($imageSrc); ?>">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
-<link rel="stylesheet" href="/style.css">
-<link rel="preload" href="/icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<?php include 'ads/ga.php' ?>
+<link rel="stylesheet" href="/css/style.css">
+<link rel="preload" href="/css/icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<script async src="https://cse.google.com/cse.js?cx=f088a66cef0354852"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6180203036822393" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BV72Y8RMLN"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-BV72Y8RMLN');
+</script>
 </head>
 
 <body>
@@ -37,12 +45,12 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'game
 <tr id="gradient-top">
 <td id="gradient-bottom">
 <div id="container">
-<div id="tower_l" class="block"><script async src="/ads/160x600.js"></script></div>
+<div id="tower_l" class="block"><script async src="/js/160x600.js"></script></div>
 <div id="game" class="block">
 <button id="fullscreen" onclick="document.querySelector('#game iframe, #game ruffle-embed')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe sandbox="allow-scripts allow-same-origin allow-pointer-lock" src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
-<ul id="tower_r" class="block"><li id="ads" class="block"><script async src="/ads/336x280.js"></script></li>
+<ul id="tower_r" class="block"><li id="ads" class="block"><script async src="/js/336x280.js"></script></li>
 <?php foreach ($similar as $p): ?>
 <li><a class="tag" style="background-image: url(<?php echo h('/wp-content/uploads/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>" title="<?php echo h($p['title']); ?>" target="_top"><?php echo h($p['title']); ?></a></li>
 <?php endforeach; ?>
@@ -60,6 +68,25 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'game
 </td>
 </tr>
 </table>
-<?php include 'footer.php' ?>
+<table id="menu">
+<tr>
+<td>
+<h2>Discover All Games</h2>
+<ul class="menu">
+<?php foreach ($categories as $c): ?>
+<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>" title="<?php echo h($c['name']); ?>" target="_top"><?php echo h($c['name']); ?></a></li>
+<?php endforeach; ?>
+</ul>
+</td>
+</tr>
+</table>
+<table id="footer">
+<tr>
+<td id="footer-left"></td>
+<td id="footer-right">
+<span>Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com" title="Contact Us" target="_top">Contact Us</a> | <a href="/privacy-policy.php" title="Privacy Policy" target="_top">Privacy Policy</a> | All Rights Reserved.</span>
+</td>
+</tr>
+</table>
 </body>
 </html>
