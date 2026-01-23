@@ -30,7 +30,7 @@ if ($hasC) {
     $gridItems[] = [
       'id' => $p['id'],
       'title' => $p['title'],
-      'image' => '/categories/' . $cid . '/' . $p['id'] . '.png',
+      'image' => '/wp-content/uploads/' . $p['id'] . '.png',
       'category' => $cid
     ];
   }
@@ -41,7 +41,7 @@ if ($hasC) {
 
   $title = $h1;
   $metaDesc = $desc;
-  $canonical = 'https://coloring.g55.co/?c=' . rawurlencode($cid);
+  $canonical = 'https://g55.co/?c=' . rawurlencode($cid);
 } else {
   $totalCount = 0;
   $gridItems = [];
@@ -56,7 +56,7 @@ if ($hasC) {
     $gridItems[] = [
       'id' => $newest['id'],
       'title' => $newest['title'],
-      'image' => '/categories/' . $catId . '/' . $newest['id'] . '.png',
+      'image' => '/wp-content/uploads/' . $newest['id'] . '.png',
       'category' => $catId
     ];
   }
@@ -66,5 +66,5 @@ if ($hasC) {
 
   $title = $h1;
   $metaDesc = $desc;
-  $canonical = 'https://coloring.g55.co/';
+  $canonical = 'https://g55.co/';
 }
