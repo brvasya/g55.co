@@ -1,11 +1,10 @@
 <table id="menu">
 <tr>
 <td>
-<?php echo is_single() ? '<h3>Discover All Games</h3>' : '<h2>Discover All Games</h2>'; ?>
-
+<h2>Discover All Games</h2>
 <ul class="menu">
-<?php $categories = get_categories(array('hide_empty' => false, 'parent' => 0)); foreach ($categories as $category) : $category_link = get_category_link($category->term_id); ?>
-<li><a class="tag" id="<?php echo $category->slug; ?>" href="<?php echo $category_link; ?>" title="<?php echo $category->name; ?>" target="_top"><?php echo $category->name; ?></a></li>
+<?php foreach ($categories as $c): ?>
+<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>" title="<?php echo h($c['name']); ?>" target="_top"><?php echo h($c['name']); ?></a></li>
 <?php endforeach; ?>
 </ul>
 </td>
