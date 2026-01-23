@@ -64,7 +64,7 @@ foreach ($pages as $p) {
   $pool[] = $p;
 }
 
-$limit = min(4, count($pool));
+$limit = min(6, count($pool));
 $similar = [];
 
 if ($limit > 0) {
