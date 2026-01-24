@@ -29,7 +29,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <tr>
 <td id="header-left">
 <div class="gcse-searchbox-only"></div>
-<a id="logo" href="/" target="_top"></a>
+<a id="logo" href="/"></a>
 </td>
 <td id="header-right"></td>
 </tr>
@@ -47,7 +47,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <div id="games">
 <div class="games">
 <?php foreach ($gridItems as $it): ?>
-<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>" target="_top"><span class="caption" id="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
+<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="caption" id="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
 </div>
 </div>
@@ -67,7 +67,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <h2>Discover All Games</h2>
 <ul class="menu">
 <?php foreach ($categories as $c): ?>
-<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>" target="_top"><?php echo h($c['name']); ?></a></li>
+<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
 <?php endforeach; ?>
 </ul>
 </td>
@@ -77,7 +77,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <tr>
 <td id="footer-left"></td>
 <td id="footer-right">
-<span>Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com" target="_top">Contact Us</a> | <a href="/privacy-policy.php" target="_top">Privacy Policy</a> | All Rights Reserved.</span>
+<span>Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com">Contact Us</a> | <a href="/privacy-policy.php">Privacy Policy</a> | All Rights Reserved.</span>
 </td>
 </tr>
 </table>
