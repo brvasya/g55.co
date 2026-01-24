@@ -267,6 +267,9 @@ li {
 .menu > li > .tag {
     background-position: 10px;
 }
+.menu #exclusive {
+    background-color: #bfae3a;
+}
 #fullscreen {
     all: unset;
     cursor: pointer;
