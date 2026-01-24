@@ -47,7 +47,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <div id="games">
 <div class="games">
 <?php foreach ($gridItems as $it): ?>
-<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>" title="<?php echo h($it['title']); ?>" target="_top"><span class="caption"><?php echo h($it['title']); ?></span></a>
+<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>" title="<?php echo h($it['title']); ?>" target="_top"><span class="caption" id="<?php echo rawurlencode($c['id']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
 </div>
 </div>
