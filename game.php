@@ -28,7 +28,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <tr>
 <td id="header-left">
 <div class="gcse-searchbox-only"></div>
-<a id="logo" href="/" title="G55.CO" target="_top"></a>
+<a id="logo" href="/" target="_top"></a>
 </td>
 <td id="header-right"></td>
 </tr>
@@ -51,9 +51,9 @@ gtag('config', 'G-BV72Y8RMLN');
 </div>
 <ul id="tower_r" class="block"><li id="ads" class="block"><script async src="/js/336x280.js"></script></li>
 <?php foreach ($similar as $p): ?>
-<li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/wp-content/uploads/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>" title="<?php echo h($p['title']); ?>" target="_top"><?php echo h($p['title']); ?></a></li>
+<li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/wp-content/uploads/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>" target="_top"><?php echo h($p['title']); ?></a></li>
 <?php endforeach; ?>
-<li><a class="tag" id="<?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>" title="<?php echo h($moreText); ?>" target="_top"><?php echo h($moreText); ?></a></li>
+<li><a class="tag" id="<?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>" target="_top"><?php echo h($moreText); ?></a></li>
 </ul>
 </div>
 </td>
@@ -73,7 +73,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <h2>Discover All Games</h2>
 <ul class="menu">
 <?php foreach ($categories as $c): ?>
-<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>" title="<?php echo h($c['name']); ?>" target="_top"><?php echo h($c['name']); ?></a></li>
+<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>" target="_top"><?php echo h($c['name']); ?></a></li>
 <?php endforeach; ?>
 </ul>
 </td>
@@ -83,7 +83,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <tr>
 <td id="footer-left"></td>
 <td id="footer-right">
-<span>Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com" title="Contact Us" target="_top">Contact Us</a> | <a href="/privacy-policy.php" title="Privacy Policy" target="_top">Privacy Policy</a> | All Rights Reserved.</span>
+<span>Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com" target="_top">Contact Us</a> | <a href="/privacy-policy.php" target="_top">Privacy Policy</a> | All Rights Reserved.</span>
 </td>
 </tr>
 </table>
