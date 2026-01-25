@@ -46,7 +46,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <div id="container">
 <div id="tower_l" class="block"><script async src="/js/160x600.js"></script></div>
 <div id="game" class="block">
-<button id="fullscreen" onclick="document.querySelector('#game iframe, #game ruffle-embed')?.requestFullscreen();" title="Fullscreen"></button>
+<button id="fullscreen" onclick="document.querySelector('#game iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe sandbox="allow-scripts allow-same-origin allow-pointer-lock" src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
 <ul id="tower_r" class="block"><li id="ads" class="block"><script async src="/js/336x280.js"></script></li>
