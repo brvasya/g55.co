@@ -1,5 +1,4 @@
 Header always unset X-Frame-Options
 RewriteEngine On
-ErrorDocument 404 /404.html
-# /c/<category>/ -> /?c=<category>
 RewriteRule ^c/([^/]+)/?$ /?c=$1 [R=301,L]
+ErrorDocument 404 /404.html
