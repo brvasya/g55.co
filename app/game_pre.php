@@ -52,7 +52,7 @@ $title = $pageTitle;
 
 $metaDesc = $page['description'];
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
-$imageSrc = 'https://cdn.g55.co/wp-content/uploads/' . $page['id'] . '.png';
+$imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
 $iframeSrc = $page['iframe'];
 
 $h1 = $pageTitle;

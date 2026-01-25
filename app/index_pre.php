@@ -30,7 +30,7 @@ if ($hasC) {
     $gridItems[] = [
       'id' => $p['id'],
       'title' => $p['title'],
-      'image' => 'https://cdn.g55.co/wp-content/uploads/' . $p['id'] . '.png',
+      'image' => 'https://cdn.g55.co/' . $p['id'] . '.png',
       'category' => $cid
     ];
   }
@@ -56,7 +56,7 @@ if ($hasC) {
     $gridItems[] = [
       'id' => $newest['id'],
       'title' => $newest['title'],
-      'image' => 'https://cdn.g55.co/wp-content/uploads/' . $newest['id'] . '.png',
+      'image' => 'https://cdn.g55.co/' . $newest['id'] . '.png',
       'category' => $catId
     ];
   }
