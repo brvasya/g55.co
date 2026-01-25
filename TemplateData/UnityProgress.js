@@ -19,7 +19,7 @@ function UnityProgress(gameInstance, progress) {
 	
 	gameInstance.progress.thumb = document.createElement("div");
 	gameInstance.progress.thumb.className = "thumb";
-	gameInstance.progress.thumb.style.backgroundImage = "url(//cdn.g55.co/wp-content/uploads/"+img+".png)";
+	gameInstance.progress.thumb.style.backgroundImage = "url(//cdn.g55.co/"+img+".png)";
 	gameInstance.progress.appendChild(gameInstance.progress.thumb);
 	
 	gameInstance.progress.gameName = document.createElement("p");
