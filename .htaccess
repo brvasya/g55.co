@@ -1,4 +1,4 @@
 Header always unset X-Frame-Options
 RewriteEngine On
 RewriteRule ^c/([^/]+)/?$ /?c=$1 [R=301,L]
-ErrorDocument 404 /404.html
+ErrorDocument 404 /404.php
