@@ -41,6 +41,13 @@ gtag('config', 'G-BV72Y8RMLN');
 </td>
 </tr>
 </table>
+<table id="description">
+<tr>
+<td>
+<p class="description" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
+</td>
+</tr>
+</table>
 <table id="content">
 <tr>
 <td>
@@ -51,13 +58,6 @@ gtag('config', 'G-BV72Y8RMLN');
 <?php endforeach; ?>
 </div>
 </div>
-</td>
-</tr>
-</table>
-<table id="description">
-<tr>
-<td>
-<p class="description" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
 </td>
 </tr>
 </table>
