@@ -54,6 +54,7 @@ $metaDesc = $page['description'];
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
 $imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
 $iframeSrc = $page['iframe'];
+$sandbox = str_ends_with(parse_url($iframeSrc, PHP_URL_HOST), 'g55.co') ? '' : ' sandbox="allow-scripts allow-same-origin allow-pointer-lock"';
 
 $h1 = $pageTitle;
 $desc = $page['description'];
