@@ -98,8 +98,9 @@ a, a:visited {
     -webkit-box-orient: vertical;
 }
 .description.c {
-    width: calc(100% - 190px);
-    padding-left: 90px;
+    width: calc(100% - 170px);
+    padding-left: 70px;
+    background-size: 50px;
     background-repeat: no-repeat;
     background-position: left;
 }
