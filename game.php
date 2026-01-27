@@ -70,7 +70,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <table id="menu">
 <tr>
 <td>
-<h3>Discover All Games</h3>
+<h3>Browse More Games</h3>
 <ul class="menu">
 <?php foreach ($categories as $c): ?>
 <li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
