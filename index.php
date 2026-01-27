@@ -44,7 +44,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <table id="description">
 <tr>
 <td>
-<p class="description" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
+<p class="description<?php echo (!empty($cid)) ? ' c' : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
 </td>
 </tr>
 </table>

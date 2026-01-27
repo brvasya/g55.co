@@ -97,6 +97,12 @@ a, a:visited {
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
+.description.c {
+    width: calc(100% - 190px);
+    padding-left: 90px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
 .description.exp {
     -webkit-line-clamp: unset;
 }
