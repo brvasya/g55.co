@@ -50,7 +50,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <tr>
 <td class="games">
 <?php foreach ($gridItems as $it): ?>
-<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="caption" id="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
+<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span id="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
 </td>
 </tr>

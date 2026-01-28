@@ -40,8 +40,7 @@ gtag('config', 'G-BV72Y8RMLN');
 </table>
 <table id="content">
 <tr>
-<td>
-<div id="container">
+<td id="container">
 <div id="tower_l" class="block"><script async src="/js/160x600.js"></script></div>
 <div id="game" class="block">
 <button id="fullscreen" onclick="document.querySelector('#game iframe')?.requestFullscreen();" title="Fullscreen"></button>
@@ -53,7 +52,6 @@ gtag('config', 'G-BV72Y8RMLN');
 <?php endforeach; ?>
 <li><a class="tag" id="<?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a></li>
 </ul>
-</div>
 </td>
 </tr>
 </table>
