@@ -156,7 +156,7 @@ h2, h3, h4 {
     height: 128px;
     float: left;
     overflow: hidden;
-    border-radius: 5px;
+    border-radius: 10px;
     border: 3px solid #111;
     box-sizing: border-box;
     background-size: cover;
