@@ -1,6 +1,4 @@
-<?php
-require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'game_pre.php';
-?>
+<?php require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'game_pre.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -82,9 +80,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <table id="footer">
 <tr>
 <td id="footer-left"></td>
-<td id="footer-right">
-<span>Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com">Contact Us</a> | <a href="/privacy-policy.php">Privacy Policy</a> | All Rights Reserved.</span>
-</td>
+<td id="footer-right">Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com">Contact Us</a> | <a href="/privacy-policy.php">Privacy Policy</a> | All Rights Reserved.</td>
 </tr>
 </table>
 </body>
