@@ -106,7 +106,7 @@ a, a:visited {
 .description.exp {
     -webkit-line-clamp: unset;
 }
-#description, #menu {
+#description, #menu, #games {
     padding-top: 25px;
 }
 #tower_l {
@@ -157,8 +157,9 @@ h2, h3, h4 {
     height: 600px;
 }
 #games {
-    padding: 15px;
-    display: flow-root;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .thumbnail {
     width: 170px;
