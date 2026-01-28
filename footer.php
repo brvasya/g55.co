@@ -6,4 +6,4 @@
 <?php endforeach; ?>
 </ul>
 </div>
-<div id="footer">&#169; <?php echo date('Y'); ?> G55.CO <a href="mailto:crazygames888@gmail.com">Contact Us</a> <a href="/privacy-policy.php">Privacy Policy</a></div>
+<div id="footer">&#169; <?php echo date('Y'); ?> G55.CO <a href="/privacy-policy.php">Privacy Policy</a> <a href="mailto:crazygames888@gmail.com">Contact Us</a></div>
