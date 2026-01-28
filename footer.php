@@ -8,5 +8,5 @@
 </div>
 <div id="footer">
 <div id="footer-left"></div>
-<div id="footer-right">Copyright &#169; <?php echo date('Y'); ?> G55.CO <a href="mailto:crazygames888@gmail.com">Contact Us</a> <a href="/privacy-policy.php">Privacy Policy</a> All Rights Reserved.</div>
+<div id="footer-right">Copyright &#169; <?php echo date('Y'); ?> G55.CO <a href="mailto:crazygames888@gmail.com">Contact Us</a> <a href="/privacy-policy.php">Privacy Policy</a></div>
 </div>
