@@ -155,10 +155,8 @@ h2, h3, h4 {
     height: 600px;
 }
 #games {
-    margin: 0 20px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    margin: 0 13px 0 21px;
+    display: flow-root;
 }
 .thumbnail {
     width: 170px;
