@@ -24,8 +24,8 @@ gtag('config', 'G-BV72Y8RMLN');
 <body>
 <div id="header">
 <div id="header-left">
-<div class="gcse-searchbox-only"></div>
 <a id="logo" href="/"></a>
+<div class="gcse-searchbox-only"></div>
 </div>
 <div id="header-right"></div>
 </div>
