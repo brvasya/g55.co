@@ -43,7 +43,6 @@ body {
 }
 #footer {
     display: flex;
-    padding-top: 25px;
     box-shadow: 0 100vmax 0 100vmax #222;
 }
 #footer-left {
@@ -106,7 +105,7 @@ a, a:visited {
 .description.exp {
     -webkit-line-clamp: unset;
 }
-#description, #menu, #games {
+#description, #menu, #games, #footer {
     padding-top: 25px;
 }
 #tower_l {
