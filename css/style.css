@@ -18,7 +18,7 @@ body {
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAAA/CAYAAADNPAUHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAhJJREFUeNrs3UFuwjAUBcDY4kg5kw/FmbiTKyRYtGoCVRPjb88sukLwcHiJDU2Saq0LMKbL/c+6rnuP6W0PkDrONnruVmrQMag9ZbvdbksONtBLKSXklEPusOV+dww+lXvzda/X627Bzd2Z/cgdJffm62flRkmGyF3fLbhyo9wxc9dXBVdulDt27rpVcOVGSXbcv5UOkrv+LLhyo9xjlPtbzuxzBuPuRBUcBqbgoOCAggMKDig4oODAlssRT1JKCfnm5Y5rhm13P92zi4I/wqSIAy53XC3H4Mgdyh9y//u/5kzRwRocUHBAwYE2LjO/+ce3lEee/pfkxhF8XK5OgoIrudwouJLLTYdr8LM/JClQWVLQkluTO4J/RrA7hDiSo+Cm63Kj4EouNwpuaSE3Cg4KDig4oOCAggMKDig4TCz6+eCp1e+0R1zhcoDcKHhbDa+sWeXGFB1QcCDmFH13fWlNCMHX4C/Wl9aEYIoOdHEEP+Eyvu9ynnWs3If9ctD4Mxc1tyM47Tgn3hQdUHBAwUHBAQUHFBxQcKBhwUPci6qUEnKQ5f5VqPufreu6ROxKjjLgz8ANz6OW+/zcSn7ujjnlCAOuJEPnjnon0xBdyb0HV5Ipciv5Sdsu9xxcSabKreQnbLvca3AlmTK3kh+87XKPwZVk6txKfuC2S7XW5wP2nqd2PGA16IaeNbfxaZjtS4ABAKJ04U5ThTiQAAAAAElFTkSuQmCC);
 }
 #title {
-    width: 70%;
+    width: calc(70% - 60px);
     height: 60px;
     position: relative;
 }
@@ -28,9 +28,12 @@ body {
 }
 #header {
     height: 90px;
+    display: flex;
 }
 #header-left {
     width: 70%;
+    display: flex;
+    align-items: center;
     background-color: #666;
 }
 #header-right {
@@ -39,6 +42,8 @@ body {
     border-left: 90px solid #666;
 }
 #footer {
+    display: flex;
+    padding-top: 25px;
     box-shadow: 0 100vmax 0 100vmax #222;
 }
 #footer-left {
@@ -48,7 +53,10 @@ body {
 }
 #footer-right {
     width: 70%;
+    display: flex;
+    align-items: center;
     background-color: #222;
+    justify-content: space-around;
 }
 #container {
     width: calc(100% - 50px);
@@ -56,9 +64,6 @@ body {
     margin: 0 auto;
     padding: 25px 0;
     display: flex;
-}
-#content {
-    height: fit-content;
 }
 .block {
     background-color: #333;
@@ -101,7 +106,7 @@ a, a:visited {
 .description.exp {
     -webkit-line-clamp: unset;
 }
-#description, #menu, #footer {
+#description, #menu {
     padding-top: 25px;
 }
 #tower_l {
@@ -153,6 +158,7 @@ h2, h3, h4 {
 }
 .games {
     padding: 15px;
+    display: flow-root;
 }
 .thumbnail {
     width: 170px;
@@ -212,6 +218,7 @@ li {
 }
 #___gcse_0 {
     margin-left: 250px;
+    width: 100%;
 }
 .gsc-search-button {
     width: 75px !important;

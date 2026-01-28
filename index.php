@@ -23,56 +23,29 @@ gtag('config', 'G-BV72Y8RMLN');
 </head>
 
 <body>
-<table id="header">
-<tr>
-<td id="header-left">
+<div id="header">
+<div id="header-left">
 <div class="gcse-searchbox-only"></div>
 <a id="logo" href="/"></a>
-</td>
-<td id="header-right"></td>
-</tr>
-</table>
-<table id="title">
-<tr>
-<td id="title-left">
+</div>
+<div id="header-right"></div>
+</div>
+<div id="title">
+<div id="title-left">
 <h1><?php echo h($title); ?> Games</h1>
-</td>
-</tr>
-</table>
-<table id="description">
-<tr>
-<td>
+</div>
+</div>
+<div id="description">
 <p<?php echo (!empty($cid)) ? ' id="'.$cid.'"' : ''; ?> class="description<?php echo (!empty($cid)) ? ' c' : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
-</td>
-</tr>
-</table>
-<table id="content">
-<tr>
-<td class="games">
+</div>
+<div id="content">
+<div class="games">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span id="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
-</td>
-</tr>
-</table>
-<table id="menu">
-<tr>
-<td>
-<h2>Browse More Games</h2>
-<ul class="menu">
-<?php foreach ($categories as $c): ?>
-<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
-<?php endforeach; ?>
-</ul>
-</td>
-</tr>
-</table>
-<table id="footer">
-<tr>
-<td id="footer-left"></td>
-<td id="footer-right">Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com">Contact Us</a> | <a href="/privacy-policy.php">Privacy Policy</a> | All Rights Reserved.</td>
-</tr>
-</table>
+</div>
+</div>
+<?php include 'footer.php'; ?>
 <script src="/js/resize.js"></script>
 </body>
 </html>

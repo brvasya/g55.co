@@ -22,25 +22,19 @@ gtag('config', 'G-BV72Y8RMLN');
 </head>
 
 <body>
-<table id="header">
-<tr>
-<td id="header-left">
+<div id="header">
+<div id="header-left">
 <div class="gcse-searchbox-only"></div>
 <a id="logo" href="/"></a>
-</td>
-<td id="header-right"></td>
-</tr>
-</table>
-<table id="title">
-<tr>
-<td id="title-left">
+</div>
+<div id="header-right"></div>
+</div>
+<div id="title">
+<div id="title-left">
 <h1>Play <?php echo h($h1); ?></h1>
-</td>
-</tr>
-</table>
-<table id="content">
-<tr>
-<td id="container">
+</div>
+</div>
+<div id="container">
 <div id="tower_l" class="block"><script async src="/js/160x600.js"></script></div>
 <div id="game" class="block">
 <button id="fullscreen" onclick="document.querySelector('#game iframe')?.requestFullscreen();" title="Fullscreen"></button>
@@ -52,34 +46,11 @@ gtag('config', 'G-BV72Y8RMLN');
 <?php endforeach; ?>
 <li><a class="tag" id="<?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a></li>
 </ul>
-</td>
-</tr>
-</table>
-<table id="description">
-<tr>
-<td>
+</div>
+<div id="description">
 <h2>What is <?php echo h($h1); ?></h2>
 <p class="description" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
-</td>
-</tr>
-</table>
-<table id="menu">
-<tr>
-<td>
-<h3>Browse More Games</h3>
-<ul class="menu">
-<?php foreach ($categories as $c): ?>
-<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
-<?php endforeach; ?>
-</ul>
-</td>
-</tr>
-</table>
-<table id="footer">
-<tr>
-<td id="footer-left"></td>
-<td id="footer-right">Copyright &#169; <?php echo date('Y'); ?> G55.CO | <a href="mailto:crazygames888@gmail.com">Contact Us</a> | <a href="/privacy-policy.php">Privacy Policy</a> | All Rights Reserved.</td>
-</tr>
-</table>
+</div>
+<?php include 'footer.php'; ?>
 </body>
 </html>
