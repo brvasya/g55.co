@@ -42,7 +42,7 @@ body {
     border-left: 90px solid #666;
 }
 #footer {
-    gap: 40px;
+    gap: 30px;
     height: 60px;
     display: flex;
     align-items: center;
