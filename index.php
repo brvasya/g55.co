@@ -38,12 +38,10 @@ gtag('config', 'G-BV72Y8RMLN');
 <div id="description">
 <p<?php echo (!empty($cid)) ? ' id="'.$cid.'"' : ''; ?> class="description<?php echo (!empty($cid)) ? ' c' : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
 </div>
-<div id="content">
-<div class="games">
+<div id="games">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span id="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
-</div>
 </div>
 <?php include 'footer.php'; ?>
 <script src="/js/resize.js"></script>

@@ -1,5 +1,5 @@
 function resize() {
-	$(".games").mason({
+	$("#games").mason({
 		itemSelector: ".thumbnail",
 		ratio: 1.31,
 		sizes: [[1,1]],
