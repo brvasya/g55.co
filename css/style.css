@@ -43,6 +43,7 @@ body {
 }
 #footer {
     gap: 30px;
+    padding-left: 30px;
     height: 60px;
     display: flex;
     align-items: center;
