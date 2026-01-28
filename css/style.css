@@ -165,9 +165,6 @@ h2, h3, h4 {
     width: calc(100% - 516px);
     height: 600px;
 }
-#games {
-    height: fit-content;
-}
 .games {
     padding: 15px;
 }
