@@ -171,7 +171,7 @@ h2, h3, h4 {
     border: 3px solid #fff;
     transform: scale(1.02);
 }
-span {
+.thumbnail span {
     height: calc(100% - 20px);
     padding: 10px;
     display: flex;
@@ -182,14 +182,14 @@ span {
     background-size: 32px;
     background-repeat: no-repeat;
 }
-span:before {
+.thumbnail span:before {
     inset: 0;
     content: "";
     z-index: -1;
     position: absolute;
     background-image: linear-gradient(to bottom, transparent, #000);
 }
-span:hover {
+.thumbnail span:hover {
     opacity: 1;
 }
 iframe {
