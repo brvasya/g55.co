@@ -156,12 +156,12 @@ h2, h3, h4 {
 }
 #games {
     margin: 0 20px;
-    display: flex;
-    flex-wrap: wrap;
+    display: flow-root;
 }
 .thumbnail {
     width: 170px;
     height: 128px;
+    float: left;
     overflow: hidden;
     border-radius: 5px;
     border: 3px solid #111;
