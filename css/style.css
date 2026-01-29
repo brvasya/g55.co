@@ -45,6 +45,37 @@ footer {
     background-color: #222;
     box-shadow: 0 100vmax 0 100vmax #222;
 }
+iframe {
+    border: 0;
+    border-radius: 5px;
+    width: 100%;
+    height: 600px;
+}
+li {
+    display: block;
+    flex: auto;
+    margin: 5px;
+}
+h1 {
+    font-weight: inherit;
+    font-size: 20px;
+    margin: 0;
+    top: 18px;
+    left: 25px;
+    position: absolute;
+}
+h2 {
+    font-weight: inherit;
+    padding-bottom: 20px;
+    font-size: 20px;
+    margin: 0 auto;
+    width: calc(100% - 50px);
+}
+a, a:visited {
+    color: #fff;
+    text-decoration: none;
+    pointer-events: auto;
+}
 .logo {
     width: 200px;
     height: 50px;
@@ -84,11 +115,6 @@ footer {
     overflow: hidden;
     border-radius: 5px;
 }
-a, a:visited {
-    color: #fff;
-    text-decoration: none;
-    pointer-events: auto;
-}
 .description, .categories {
     width: calc(100% - 40px);
     margin: 0 auto;
@@ -119,9 +145,6 @@ a, a:visited {
 .description.exp {
     -webkit-line-clamp: unset;
 }
-section {
-    margin-top: 25px;
-}
 .tower_l {
     width: 160px;
     height: 600px !important;
@@ -149,21 +172,6 @@ section {
 }
 .tower_r li:last-child .tag {
     background-position: 10px;
-}
-h1 {
-    font-weight: inherit;
-    font-size: 20px;
-    margin: 0;
-    top: 18px;
-    left: 25px;
-    position: absolute;
-}
-h2, h3, h4 {
-    font-weight: inherit;
-    padding-bottom: 20px;
-    font-size: 20px;
-    margin: 0 auto;
-    width: calc(100% - 50px);
 }
 .game {
     width: calc(100% - 516px);
@@ -209,17 +217,6 @@ h2, h3, h4 {
 }
 .thumbnail span:hover {
     opacity: 1;
-}
-iframe {
-    border: 0;
-    border-radius: 5px;
-    width: 100%;
-    height: 600px;
-}
-li {
-    display: block;
-    flex: auto;
-    margin: 5px;
 }
 #___gcse_0 {
     width: calc(100% - 250px);
