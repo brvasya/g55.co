@@ -6,18 +6,7 @@
 <title><?php echo h($title); ?> Games &#9654; Play Free on G55.CO</title>
 <meta name="description" content="<?php echo h($metaDesc); ?>">
 <link rel="canonical" href="<?php echo h($canonical); ?>">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
-<link rel="stylesheet" href="/css/style.css">
-<link rel="preload" href="/css/icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<script async src="https://cse.google.com/cse.js?cx=f088a66cef0354852"></script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4677496585017452" crossorigin="anonymous"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BV72Y8RMLN"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-BV72Y8RMLN');
-</script>
+<?php include 'head.php'; ?>
 </head>
 
 <body>
@@ -29,9 +18,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <h1><?php echo h($title); ?> Games</h1>
 </div>
 </div>
-<div class="shared">
 <p class="description<?php echo (!empty($cid)) ? ' c ' . $cid : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
-</div>
 <div class="grid">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
