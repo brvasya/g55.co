@@ -22,7 +22,7 @@
 <div class="container">
 <div class="tower_l block"><script async src="/js/160x600.js"></script></div>
 <div class="game block">
-<button class="fullscreen" onclick="document.querySelector('#game iframe')?.requestFullscreen();" title="Fullscreen"></button>
+<button class="fullscreen" onclick="document.querySelector('.game iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe<?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
 <ul class="tower_r block"><li class="block"><script async src="/js/336x280.js"></script></li>
