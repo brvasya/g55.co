@@ -263,7 +263,7 @@ li {
 .categories > li > .tag {
     background-position: 10px;
 }
-.categories #exclusive {
+.categories .exclusive {
     background-color: #bfae3a;
 }
 #fullscreen {
