@@ -1,4 +1,4 @@
-<section id="categories">
+<section>
 <h2>Browse More Games</h2>
 <nav aria-label="game categories">
 <ul class="categories">
@@ -9,4 +9,4 @@
 </nav>
 </section>
 </main>
-<footer id="footer">&#169; <?php echo date('Y'); ?> G55.CO <a href="/privacy-policy.php">Privacy Policy</a> <a href="mailto:crazygames888@gmail.com">Contact Us</a></footer>
+<footer>&#169; <?php echo date('Y'); ?> G55.CO <a href="/privacy-policy.php">Privacy Policy</a> <a href="mailto:crazygames888@gmail.com">Contact Us</a></footer>

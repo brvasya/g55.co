@@ -24,19 +24,19 @@ gtag('config', 'G-BV72Y8RMLN');
 <body>
 <?php include 'header.php'; ?>
 <main>
-<section id="play">
-<div id="title">
-<div id="title-left">
+<section>
+<div class="title">
+<div class="title-left">
 <h1>Play <?php echo h($h1); ?></h1>
 </div>
 </div>
-<div id="container">
-<div id="tower_l" class="block"><script async src="/js/160x600.js"></script></div>
-<div id="game" class="block">
-<button id="fullscreen" onclick="document.querySelector('#game iframe')?.requestFullscreen();" title="Fullscreen"></button>
+<div class="container">
+<div class="tower_l block"><script async src="/js/160x600.js"></script></div>
+<div class="game block">
+<button class="fullscreen" onclick="document.querySelector('#game iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe<?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
-<ul id="tower_r" class="block"><li id="ads" class="block"><script async src="/js/336x280.js"></script></li>
+<ul class="tower_r block"><li class="block"><script async src="/js/336x280.js"></script></li>
 <?php foreach ($similar as $p): ?>
 <li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a></li>
 <?php endforeach; ?>
@@ -44,7 +44,7 @@ gtag('config', 'G-BV72Y8RMLN');
 </ul>
 </div>
 </section>
-<section id="description">
+<section>
 <h2>What is <?php echo h($h1); ?></h2>
 <p class="description" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
 </section>

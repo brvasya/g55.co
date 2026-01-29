@@ -23,16 +23,16 @@ gtag('config', 'G-BV72Y8RMLN');
 <body>
 <?php include 'header.php'; ?>
 <main>
-<section id="games">
-<div id="title">
-<div id="title-left">
+<section>
+<div class="title">
+<div class="title-left">
 <h1><?php echo h($title); ?> Games</h1>
 </div>
 </div>
-<div id="description">
+<div class="shared">
 <p class="description<?php echo (!empty($cid)) ? ' c ' . $cid : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
 </div>
-<div id="grid">
+<div class="grid">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>

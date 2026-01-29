@@ -1,7 +1,7 @@
-<header id="header">
-<div id="header-left">
-<a id="logo" href="/"></a>
+<header>
+<div class="header-left">
+<a class="logo" href="/"></a>
 <div class="gcse-searchbox-only"></div>
 </div>
-<div id="header-right"></div>
+<div class="header-right"></div>
 </header>
