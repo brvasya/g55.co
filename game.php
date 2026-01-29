@@ -22,13 +22,9 @@ gtag('config', 'G-BV72Y8RMLN');
 </head>
 
 <body>
-<div id="header">
-<div id="header-left">
-<a id="logo" href="/"></a>
-<div class="gcse-searchbox-only"></div>
-</div>
-<div id="header-right"></div>
-</div>
+<?php include 'header.php'; ?>
+<main>
+<section>
 <div id="title">
 <div id="title-left">
 <h1>Play <?php echo h($h1); ?></h1>
@@ -47,10 +43,11 @@ gtag('config', 'G-BV72Y8RMLN');
 <li><a class="tag" id="<?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a></li>
 </ul>
 </div>
-<div id="description">
+</section>
+<section id="description">
 <h2>What is <?php echo h($h1); ?></h2>
 <p class="description" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
-</div>
+</section>
 <?php include 'footer.php'; ?>
 </body>
 </html>

@@ -21,13 +21,9 @@ gtag('config', 'G-BV72Y8RMLN');
 </head>
 
 <body>
-<div id="header">
-<div id="header-left">
-<a id="logo" href="/"></a>
-<div class="gcse-searchbox-only"></div>
-</div>
-<div id="header-right"></div>
-</div>
+<?php include 'header.php'; ?>
+<main>
+<section>
 <div id="title">
 <div id="title-left">
 <h1><?php echo h($title); ?> Games</h1>
@@ -41,6 +37,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span id="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
 </div>
+</section>
 <?php include 'footer.php'; ?>
 </body>
 </html>
