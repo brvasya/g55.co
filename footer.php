@@ -1,9 +1,9 @@
-<section id="menu">
+<section id="categories">
 <h2>Browse More Games</h2>
 <nav aria-label="game categories">
-<ul class="menu">
+<ul class="categories">
 <?php foreach ($categories as $c): ?>
-<li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
+<li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
 <?php endforeach; ?>
 </ul>
 </nav>

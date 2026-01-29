@@ -89,7 +89,7 @@ a, a:visited {
     text-decoration: none;
     pointer-events: auto;
 }
-.description, .menu {
+.description, .categories {
     width: calc(100% - 40px);
     margin: 0 auto;
     padding: 0;
@@ -119,7 +119,7 @@ a, a:visited {
 .description.exp {
     -webkit-line-clamp: unset;
 }
-#description, #container, #games, #menu, #footer {
+#description, #container, #games, #categories, #footer {
     margin-top: 25px;
 }
 #tower_l {
@@ -260,10 +260,10 @@ li {
 .tag:hover {
     transform: scale(1.02);
 }
-.menu > li > .tag {
+.categories > li > .tag {
     background-position: 10px;
 }
-.menu #exclusive {
+.categories #exclusive {
     background-color: #bfae3a;
 }
 #fullscreen {
