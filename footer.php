@@ -1,6 +1,6 @@
 <section id="menu">
 <h2>Browse More Games</h2>
-<nav aria-label="Game Categories">
+<nav aria-label="game categories">
 <ul class="menu">
 <?php foreach ($categories as $c): ?>
 <li><a class="tag" id="<?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
