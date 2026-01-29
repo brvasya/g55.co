@@ -119,7 +119,7 @@ a, a:visited {
 .description.exp {
     -webkit-line-clamp: unset;
 }
-#description, #container, #games, #categories, #footer {
+#description, #container, #grid, #categories, #footer {
     margin-top: 25px;
 }
 #tower_l {
@@ -169,7 +169,7 @@ h2, h3, h4 {
     width: calc(100% - 516px);
     height: 600px;
 }
-#games {
+#grid {
     padding: 0 22px;
     display: flex;
     flex-wrap: wrap;
