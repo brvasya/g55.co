@@ -24,7 +24,7 @@ gtag('config', 'G-BV72Y8RMLN');
 <body>
 <?php include 'header.php'; ?>
 <main>
-<section>
+<section id="play">
 <div id="title">
 <div id="title-left">
 <h1>Play <?php echo h($h1); ?></h1>
