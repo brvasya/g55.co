@@ -131,14 +131,14 @@ a, a:visited {
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
-.description.c {
+.description .c {
     width: calc(100% - 175px);
     padding-left: 75px;
     background-size: 50px;
     background-repeat: no-repeat;
     background-position: left;
 }
-.description.exp {
+.description .exp {
     -webkit-line-clamp: unset;
 }
 .tower_l {
@@ -152,12 +152,11 @@ a, a:visited {
     margin: 0 0 0 10px;
     flex-direction: column;
     display: flex;
-    padding: unset;
 }
 .tower_r .ads {
     height: 280px !important;
 }
-.tower_r .tag:not(:first-child) {
+.tower_r .tag {
     margin-top: auto;
 }
 .tower_r .tag:last-child {
