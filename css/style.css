@@ -219,7 +219,7 @@ a, a:visited {
 }
 .gsc-search-button {
     width: 75px !important;
-    height: 27.4px;
+    height: 30px;
     cursor: pointer;
     margin-left: 0 !important;
     border-radius: 0 5px 5px 0 !important;
@@ -230,7 +230,7 @@ a, a:visited {
     opacity: 0.9;
 }
 .gsc-input {
-    height: 27.4px;
+    height: 30px;
     padding-right: 0 !important;
 }
 .gsc-input-box {
