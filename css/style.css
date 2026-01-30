@@ -150,14 +150,12 @@ a, a:visited {
     width: 336px;
     height: 600px;
     margin: 0 0 0 10px;
-    flex-direction: column;
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .tower_r .ads {
     height: 280px !important;
-}
-.tower_r .tag {
-    margin-top: auto;
 }
 .tower_r .tag:last-child {
     background-position: 10px;
