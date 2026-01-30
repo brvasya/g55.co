@@ -20,17 +20,20 @@
 </div>
 </div>
 <div class="container">
-<div class="tower_l"><script async src="/js/160x600.js"></script></div>
+<aside class="tower_l">
+<script async src="/js/160x600.js"></script>
+</aside>
 <div class="game">
 <button class="fullscreen" onclick="document.querySelector('.game iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe<?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
-<ul class="tower_r"><li class="ads"><script async src="/js/336x280.js"></script></li>
+<aside class="tower_r">
+<div class="ads"><script async src="/js/336x280.js"></script></div>
 <?php foreach ($similar as $p): ?>
-<li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a></li>
+<a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a>
 <?php endforeach; ?>
-<li><a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a></li>
-</ul>
+<a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
+</aside>
 </div>
 </section>
 <section>
