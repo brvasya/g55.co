@@ -1,4 +1,4 @@
-<?php require_once __DIR__ . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'game_pre.php'; ?>
+<?php require_once 'app/game_pre.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
