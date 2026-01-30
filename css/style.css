@@ -229,6 +229,9 @@ a, a:visited {
 .gsc-search-button:hover {
     opacity: 0.9;
 }
+.gsc-search-box {
+    margin: 0 !important;
+}
 .gsc-input {
     height: 30px;
     padding-right: 0 !important;
