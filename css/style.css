@@ -157,14 +157,10 @@ a, a:visited {
 .tower_r .ads {
     height: 280px !important;
 }
-.tower_r li {
-    margin: unset;
-    flex: unset;
-}
-.tower_r li:not(:first-child) {
+.tower_r .tag:not(:first-child) {
     margin-top: auto;
 }
-.tower_r li:last-child .tag {
+.tower_r .tag:last-child {
     background-position: 10px;
 }
 .game {
