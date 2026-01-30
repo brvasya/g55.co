@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title><?php echo h($title); ?> Games &#9654; Play Free on G55.CO</title>
+<title><?php echo h($title); ?> &#9654; Play Free on G55.CO</title>
 <meta name="description" content="<?php echo h($metaDesc); ?>">
 <link rel="canonical" href="<?php echo h($canonical); ?>">
 <?php include 'head.php'; ?>
@@ -15,7 +15,7 @@
 <section>
 <div class="title">
 <div class="title-left">
-<h1><?php echo h($title); ?> Games</h1>
+<h1><?php echo h($title); ?></h1>
 </div>
 </div>
 <p class="description<?php echo (!empty($cid)) ? ' c ' . $cid : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
