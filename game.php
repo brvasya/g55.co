@@ -20,12 +20,12 @@
 </div>
 </div>
 <div class="container">
-<div class="tower_l block"><script async src="/js/160x600.js"></script></div>
-<div class="game block">
+<div class="tower_l"><script async src="/js/160x600.js"></script></div>
+<div class="game">
 <button class="fullscreen" onclick="document.querySelector('.game iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe<?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
-<ul class="tower_r"><li class="ads block"><script async src="/js/336x280.js"></script></li>
+<ul class="tower_r"><li class="ads"><script async src="/js/336x280.js"></script></li>
 <?php foreach ($similar as $p): ?>
 <li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a></li>
 <?php endforeach; ?>
