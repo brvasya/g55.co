@@ -38,8 +38,8 @@ header {
 }
 footer {
     gap: 30px;
+    margin-top: 30px;
     padding-left: 30px;
-    margin-top: 25px;
     height: 60px;
     display: flex;
     align-items: center;
@@ -88,6 +88,7 @@ a, a:visited {
     width: calc(70% - 60px);
     height: 60px;
     position: relative;
+    padding-bottom: 25px;
 }
 .title-left {
     border-top: 60px solid #000;
@@ -180,7 +181,7 @@ a, a:visited {
     height: 600px;
 }
 .grid {
-    padding: 0 22px;
+    padding: 25px 22px 0;
     display: flex;
     flex-wrap: wrap;
     gap: 5px;
