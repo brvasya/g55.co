@@ -131,14 +131,14 @@ a, a:visited {
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
-.description .c {
+.description.c {
     width: calc(100% - 175px);
     padding-left: 75px;
     background-size: 50px;
     background-repeat: no-repeat;
     background-position: left;
 }
-.description .exp {
+.description.exp {
     -webkit-line-clamp: unset;
 }
 .tower_l {
