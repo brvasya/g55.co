@@ -9,4 +9,8 @@
 </nav>
 </section>
 </main>
-<footer>&#169; <?php echo date('Y'); ?> G55.CO <a href="/privacy-policy.php">Privacy Policy</a> <a href="mailto:crazygames888@gmail.com">Contact Us</a></footer>
+<footer>
+<span>&#169; <?php echo date('Y'); ?> G55.CO</span>
+<a href="/privacy-policy.php">Privacy Policy</a>
+<a href="mailto:crazygames888@gmail.com">Contact Us</a>
+</footer>
