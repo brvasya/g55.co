@@ -37,7 +37,7 @@
 </div>
 </section>
 <section>
-<h2>What is <?php echo h($h1); ?></h2>
+<h2>Game Details</h2>
 <p class="description" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
 </section>
 <?php include 'footer.php'; ?>
