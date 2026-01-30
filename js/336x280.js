@@ -5,5 +5,5 @@ adBanner336.style.width = "336px";
 adBanner336.style.height = "280px";
 adBanner336.setAttribute("data-ad-client", "ca-pub-4677496585017452");
 adBanner336.setAttribute("data-ad-slot", "4703899167");
-document.getElementById("ads").appendChild(adBanner336);
+document.getElementsByClassName("ads").appendChild(adBanner336);
 (adsbygoogle = window.adsbygoogle || []).push({});
