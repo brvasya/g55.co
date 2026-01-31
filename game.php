@@ -13,7 +13,7 @@
 <body>
 <?php include 'header.php'; ?>
 <main>
-<section>
+<article>
 <div class="title">
 <div class="title-left">
 <h1>Play <?php echo h($h1); ?></h1>
@@ -35,7 +35,7 @@
 <a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
 </aside>
 </div>
-</section>
+</article>
 <section>
 <h2>Game Details</h2>
 <p class="description" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
