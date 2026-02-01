@@ -15,10 +15,10 @@
 <section>
 <div class="title">
 <div class="title-left">
-<h1><?php echo h($title); ?></h1>
+<h1><?php echo h($h1); ?></h1>
 </div>
 </div>
-<p class="description<?php echo (!empty($cid)) ? ' c ' . $cid : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($metaDesc); ?></p>
+<p class="description<?php echo (!empty($cid)) ? ' c ' . $cid : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
 <div class="grid">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
