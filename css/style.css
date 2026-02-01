@@ -120,7 +120,7 @@ a, a:visited {
 .tower_r {
     width: 336px;
     height: 600px;
-    margin: 0 0 0 10px;
+    margin-left: 10px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -302,6 +302,6 @@ h1 {
     gap: 10px;
     width: unset;
     height: unset;
-    margin: 25px 0 0 0;
+    margin-top: 25px;
 }
 }
