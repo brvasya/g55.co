@@ -14,11 +14,7 @@
 <?php include 'header.php'; ?>
 <main>
 <article>
-<div class="title">
-<div class="title-left">
 <h1>Play <?php echo h($h1); ?></h1>
-</div>
-</div>
 <div class="container">
 <aside class="tower_l">
 <script async src="/js/160x600.js"></script>

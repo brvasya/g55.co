@@ -13,11 +13,7 @@
 <?php include 'header.php'; ?>
 <main>
 <section>
-<div class="title">
-<div class="title-left">
 <h1><?php echo h($h1); ?></h1>
-</div>
-</div>
 <p class="description<?php echo (!empty($cid)) ? ' c ' . $cid : ''; ?>" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
 <div class="grid">
 <?php foreach ($gridItems as $it): ?>
