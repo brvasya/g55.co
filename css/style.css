@@ -33,8 +33,19 @@ body {
     overflow-x: hidden;
 }
 header {
+    width: 70%;
     height: 90px;
     display: flex;
+    position: relative;
+    align-items: center;
+    background-color: #666;
+}
+header:after {
+    content: "";
+    right: -90px;
+    position: absolute;
+    border-left: 90px solid #666;
+    border-bottom: 90px solid transparent;
 }
 footer {
     gap: 30px;
@@ -84,17 +95,6 @@ a, a:visited {
 .title-left {
     border-top: 60px solid #000;
     border-right: 60px solid transparent;
-}
-.header-left {
-    width: 70%;
-    display: flex;
-    align-items: center;
-    background-color: #666;
-}
-.header-right {
-    width: 30%;
-    border-bottom: 90px solid transparent;
-    border-left: 90px solid #666;
 }
 .container {
     height: 600px;
