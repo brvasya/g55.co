@@ -44,8 +44,8 @@ header:after {
     content: "";
     right: -90px;
     position: absolute;
-    border-left: 90px solid #666;
-    border-bottom: 90px solid transparent;
+    border-top: 90px solid #666;
+    border-right: 90px solid transparent;
 }
 footer {
     gap: 30px;
