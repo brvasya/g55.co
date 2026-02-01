@@ -280,9 +280,12 @@ header:after, h1:after, .tower_l, .ads {
     display: none;
 }
 h1 {
-    width: 100%;
-    padding-left: unset;
+    width: calc(100% - 50px);
+    padding: 0 25px;
+    overflow: hidden;
     text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .grid, .categories {
     flex-wrap: unset;
