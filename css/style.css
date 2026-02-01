@@ -284,9 +284,6 @@ h1 {
     padding-left: unset !important;
     text-align: center;
 }
-h2 {
-    text-align: center;
-}
 .grid, .categories {
     flex-wrap: unset !important;
     flex-direction: column;
