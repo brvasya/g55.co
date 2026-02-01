@@ -268,37 +268,37 @@ flex-basis: calc((100% - (8 - 1) * 5px) / 8);
 
 @media screen and (max-width: 768px) {
 .logo {
-    margin: 0 auto !important;
+    margin: 0 auto;
 }
 #___gcse_0 {
-    display: none !important;
+    display: none;
 }
 header {
-    width: 100% !important;
+    width: 100%;
 }
 header:after, h1:after, .tower_l, .ads {
     display: none;
 }
 h1 {
-    width: 100% !important;
-    padding-left: unset !important;
+    width: 100%;
+    padding-left: unset;
     text-align: center;
 }
 .grid, .categories {
-    flex-wrap: unset !important;
+    flex-wrap: unset;
     flex-direction: column;
 }
 .container {
-    height: unset !important;
+    height: unset;
     flex-direction: column;
 }
 .game {
-    width: 100% !important;
+    width: 100%;
 }
 .tower_r {
-    width: unset !important;
-    height: unset !important;
-    margin: 25px 0 0 0 !important;
+    width: unset;
+    height: unset;
+    margin: 25px 0 0 0;
     gap: 10px;
 }
 }
