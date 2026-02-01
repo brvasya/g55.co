@@ -87,7 +87,6 @@ footer {
 li {
     display: block;
     flex: auto;
-    margin: 5px;
 }
 h1 {
     width: calc(70% - 85px);
@@ -135,10 +134,11 @@ a, a:visited {
     border-radius: 5px;
 }
 .categories {
-    margin: 0 20px;
+    margin: 0 25px;
     padding: 0;
     display: flex;
     flex-wrap: wrap;
+    gap: 10px;
 }
 .description {
     margin: 0 25px;
