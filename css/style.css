@@ -293,5 +293,15 @@ h2 {
 }
 .container {
     height: unset !important;
+    flex-direction: column;
+}
+.game {
+    width: 100% !important;
+}
+.tower_r {
+    width: unset !important;
+    height: unset !important;
+    margin: 25px 0 0 0 !important;
+    gap: 10px;
 }
 }
