@@ -285,6 +285,7 @@ h1 {
     text-align: center;
 }
 .grid, .categories {
+    gap: 15px;
     flex-wrap: unset;
     flex-direction: column;
 }
@@ -296,9 +297,9 @@ h1 {
     width: 100%;
 }
 .tower_r {
+    gap: 15px;
     width: unset;
     height: unset;
     margin: 25px 0 0 0;
-    gap: 10px;
 }
 }
