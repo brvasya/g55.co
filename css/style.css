@@ -6,6 +6,24 @@
 #___gcse_0 {
     display: none !important;
 }
+header {
+    width: 100% !important;
+}
+header:after, h1:after {
+    display: none;
+}
+h1 {
+    width: 100% !important;
+    padding-left: unset !important;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.grid, .categories {
+    flex-wrap: unset !important;
+    flex-direction: column;
+}
 }
 
 @media (min-width:480px) {
