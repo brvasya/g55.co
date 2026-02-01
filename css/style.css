@@ -52,7 +52,6 @@ li {
     margin: 5px;
 }
 h1 {
-    font-weight: inherit;
     font-size: 20px;
     margin: 0;
     top: 18px;
@@ -60,11 +59,9 @@ h1 {
     position: absolute;
 }
 h2 {
-    font-weight: inherit;
     padding: 20px 0;
     font-size: 20px;
-    margin: 0 auto;
-    width: calc(100% - 50px);
+    margin: 0 25px;
 }
 a, a:visited {
     color: #fff;
