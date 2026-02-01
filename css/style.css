@@ -108,7 +108,8 @@ a, a:visited {
     border-radius: 5px;
 }
 .description, .categories {
-    margin: 0 20px;
+    width: calc(100% - 40px);
+    margin: 0 auto;
     padding: 0;
     text-align: justify;
     display: flex;
