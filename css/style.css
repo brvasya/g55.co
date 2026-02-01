@@ -97,9 +97,8 @@ a, a:visited {
     border-left: 90px solid #666;
 }
 .container {
-    width: calc(100% - 50px);
     height: 600px;
-    margin: 0 auto;
+    margin: 0 25px;
     display: flex;
 }
 .tower_l, .game, .ads {
@@ -109,8 +108,7 @@ a, a:visited {
     border-radius: 5px;
 }
 .description, .categories {
-    width: calc(100% - 40px);
-    margin: 0 auto;
+    margin: 0 20px;
     padding: 0;
     text-align: justify;
     display: flex;
