@@ -284,12 +284,9 @@ h1 {
 .logo {
     margin: 0 auto;
 }
-.grid, .categories {
-    flex-wrap: unset;
-    flex-direction: column;
-}
-.container {
+.grid, .container, .categories {
     height: unset;
+    flex-wrap: unset;
     flex-direction: column;
 }
 .game {
