@@ -267,16 +267,10 @@ flex-basis: calc((100% - (8 - 1) * 5px) / 8);
 }
 
 @media screen and (max-width: 768px) {
-.logo {
-    margin: 0 auto;
-}
-#___gcse_0 {
-    display: none;
-}
 header {
     width: 100%;
 }
-header:after, h1:after, .tower_l, .ads {
+header:after, h1:after, .tower_l, .ads, #___gcse_0 {
     display: none;
 }
 h1 {
@@ -286,6 +280,9 @@ h1 {
     text-align: center;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+.logo {
+    margin: 0 auto;
 }
 .grid, .categories {
     flex-wrap: unset;
