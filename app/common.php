@@ -51,9 +51,7 @@ function load_category_pages(string $cid): array {
 }
 
 function sort_categories_alpha(array $cats): array {
-  usort($cats, function($a, $b) {
-    return strcasecmp($a['name'], $b['name']);
-  });
+  usort($cats, fn($a,$b)=>($a['id']=='exclusive'? -1:($b['id']=='exclusive'?1:strcasecmp($a['name'],$b['name']))));
   return $cats;
 }
 
