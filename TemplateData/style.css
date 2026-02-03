@@ -99,7 +99,6 @@ canvas {
 .name {
     position: absolute;
     top: 10px;
-    margin: 0;
     width: calc(100% - 125px);
     overflow: hidden;
     text-overflow: ellipsis;
@@ -109,7 +108,6 @@ canvas {
     position: absolute;
     top: 10px;
     right: 10px;
-    margin: 0;
 }
 a, a:hover, a:visited {
     color: #fff;
