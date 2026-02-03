@@ -114,7 +114,7 @@ a, a:hover, a:visited {
     text-decoration: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
 .percentage {
     display: none;
 }
