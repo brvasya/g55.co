@@ -100,6 +100,10 @@ canvas {
     position: absolute;
     top: 10px;
     margin: 0;
+    width: calc(100% - 125px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .percentage {
     position: absolute;
@@ -110,4 +114,10 @@ canvas {
 a, a:hover, a:visited {
     color: #fff;
     text-decoration: none;
+}
+
+@media (max-width: 768px) {
+.percentage {
+    display: none;
+}
 }

@@ -22,12 +22,12 @@ function UnityProgress(gameInstance, progress) {
 	gameInstance.progress.thumb.style.backgroundImage = "url(//cdn.g55.co/"+img+".png)";
 	gameInstance.progress.appendChild(gameInstance.progress.thumb);
 	
-	gameInstance.progress.gameName = document.createElement("p");
+	gameInstance.progress.gameName = document.createElement("span");
 	gameInstance.progress.gameName.className = "name";
 	gameInstance.progress.gameName.innerHTML = document.getElementsByTagName("title")[0].textContent;
 	gameInstance.progress.appendChild(gameInstance.progress.gameName);
 	
-	gameInstance.progress.percentage = document.createElement("p");
+	gameInstance.progress.percentage = document.createElement("span");
 	gameInstance.progress.percentage.className = "percentage";
 	gameInstance.progress.appendChild(gameInstance.progress.percentage);
 	
