@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "kaboom-miner",
+"title": "Kaboom Miner",
+"iframe": "https://html5.gamedistribution.com/d43ed595d14e47a1ac6a4ff7456fd3b5/",
+"description": "Kaboom Miner is a fast paced arcade mining game where players dig deep underground to collect valuable resources while avoiding hazards and managing limited space and time. Smash through layers of rock, uncover hidden treasures, and trigger explosive chain reactions to clear paths and maximize your score as each run becomes more intense and rewarding. With simple controls, colorful visuals, and addictive gameplay loops, Kaboom Miner offers quick action sessions perfect for players who enjoy arcade style challenges focused on timing, strategy, and satisfying destruction. Play instantly in your browser and keep upgrading your mining skills to discover bigger rewards and reach new depths."
+},
+{
 "id": "fruit-catcher",
 "title": "Fruit Catcher",
 "iframe": "https://html5.gamedistribution.com/5ca38504001d4177bce9e5651d267a5d/",
