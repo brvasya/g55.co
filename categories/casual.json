@@ -1,6 +1,12 @@
 {
   "pages": [
     {
+      "id": "falling-dummy",
+      "title": "Falling Dummy",
+      "iframe": "https://html5.gamedistribution.com/bb3deebf6a6b43dd97ded3010fa16a00/",
+      "description": "Falling Dummy is a fun casual physics game where players guide a ragdoll character through wild falling challenges filled with obstacles, platforms, and unpredictable impacts. Time your drops, bounce off objects, and navigate tricky layouts to reach the goal while enjoying humorous ragdoll reactions and satisfying crash mechanics. With simple controls, quick levels, and entertaining physics action, Falling Dummy is perfect for players looking for a light, addictive game to enjoy during short breaks on desktop or mobile."
+    },
+    {
       "id": "perfect-piano-magic-105447",
       "title": "Perfect Piano Magic",
       "iframe": "https://html5.gamedistribution.com/1de0e17bc5374b849c7ac01581d6189d/",
