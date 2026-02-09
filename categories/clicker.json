@@ -1,6 +1,12 @@
 {
   "pages": [
     {
+      "id": "popcat-clicker",
+      "title": "Popcat Clicker",
+      "iframe": "https://html5.gamedistribution.com/bdb160e732fb44179c3691e5d934c6a2/",
+      "description": "Popcat Clicker is a fun and addictive clicker game where players tap to score points, unlock upgrades, and watch the famous Popcat react with every click. Increase your clicking power, earn bonuses, and compete for higher scores as you progress through simple yet satisfying gameplay. Perfect for quick play sessions, this casual idle clicker game is easy to learn and enjoyable for players of all ages on both desktop and mobile devices."
+    },
+    {
       "id": "clicker-hero",
       "title": "Clicker Hero",
       "iframe": "https://html5.gamedistribution.com/8f137bff27e24f159677fcba28b2d2f4/",
