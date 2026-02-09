@@ -1,6 +1,12 @@
 {
   "pages": [
     {
+      "id": "capybara-block-blast",
+      "title": "Capybara Block Blast",
+      "iframe": "https://html5.gamedistribution.com/9d02893a1314432eaf578c18cc00c63a/",
+      "description": "Capybara Block Blast is a relaxing and addictive puzzle game where players place and clear colorful blocks to keep the board open and score high points. Featuring charming capybara themed visuals and easy to learn gameplay, the game challenges you to strategically fit different block shapes, create full lines, and trigger satisfying clears. Each move requires smart planning as the board gradually fills, rewarding careful decisions and quick thinking. Perfect for casual players of all ages, this puzzle game offers endless replay value, smooth controls, and calming gameplay sessions ideal for short breaks or long relaxing play."
+    },
+    {
       "id": "color-water-puzzle",
       "title": "Color Water Puzzle",
       "iframe": "https://html5.gamedistribution.com/0ea7b7e7316a47c38ac5c98ddd42ec4a/",
