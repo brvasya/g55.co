@@ -35,9 +35,12 @@ if ($cat === null) {
 list($_, $pages) = load_category_pages($cid);
 
 $page = null;
-foreach ($pages as $p) {
-  if ($p['id'] === $id) {
-    $page = $p;
+$pageIndex = -1;
+
+for ($i = 0; $i < count($pages); $i++) {
+  if (($pages[$i]['id'] ?? '') === $id) {
+    $page = $pages[$i];
+    $pageIndex = $i;
     break;
   }
 }
@@ -59,9 +62,26 @@ $sandbox = str_ends_with(parse_url($iframeSrc, PHP_URL_HOST), 'g55.co') ? '' : '
 $h1 = $pageTitle;
 $desc = $page['description'];
 
+$prevPage = null;
+$nextPage = null;
+$prevUrl = null;
+$nextUrl = null;
+
+if ($pageIndex !== -1) {
+  if ($pageIndex > 0) {
+    $prevPage = $pages[$pageIndex - 1];
+    $prevUrl = '/game.php?id=' . rawurlencode($prevPage['id']) . '&c=' . rawurlencode($cid);
+  }
+
+  if ($pageIndex < count($pages) - 1) {
+    $nextPage = $pages[$pageIndex + 1];
+    $nextUrl = '/game.php?id=' . rawurlencode($nextPage['id']) . '&c=' . rawurlencode($cid);
+  }
+}
+
 $pool = [];
 foreach ($pages as $p) {
-  if ($p['id'] === $id) continue;
+  if (($p['id'] ?? '') === $id) continue;
   $pool[] = $p;
 }
 
@@ -71,6 +91,7 @@ $similar = [];
 if ($limit > 0) {
   $keys = array_rand($pool, $limit);
   if (!is_array($keys)) $keys = [$keys];
+
   foreach ($keys as $k) {
     $similar[] = $pool[$k];
   }
