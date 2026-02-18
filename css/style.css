@@ -90,9 +90,10 @@ a, a:visited {
     gap: 10px;
 }
 .pagination {
-    padding-bottom: 0;
+    padding: 25px 0 0;
 }
 .pagination .tag {
+    padding: 10px;
     flex: auto;
 }
 .description {
