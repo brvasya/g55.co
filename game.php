@@ -33,6 +33,14 @@
 </aside>
 </div>
 </article>
+<nav class="pagination">
+<?php if ($prevUrl): ?>
+<a class="tag" href="<?php echo h($prevUrl) ?>">Prev Game</a>
+<?php endif; ?>
+<?php if ($nextUrl): ?>
+<a class="tag" href="<?php echo h($nextUrl) ?>">Next Game</a>
+<?php endif; ?>
+</nav>
 <section>
 <h2>Game Details</h2>
 <p class="description" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
