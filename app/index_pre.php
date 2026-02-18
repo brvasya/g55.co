@@ -72,7 +72,7 @@ if ($hasC) {
   }
 
   $count = count($pages);
-  $h1 = ($count > 0 ? number_format($count) . ' ' : '') . $cat['name'] . ' Coloring Pages';
+  $h1 = ($count > 0 ? number_format($count) . ' ' : '') . $cat['name'] . ' Games';
   if ($pageNum > 1) $h1 .= ' Page ' . $pageNum;
 
   $desc = $cat['description'];
