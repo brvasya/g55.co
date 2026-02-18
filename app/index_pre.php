@@ -11,7 +11,7 @@ foreach ($categories as $c) {
   $catMap[$c['id']] = $c;
 }
 
-function category_pages_pagination(array $allPages, int $perPage = 60, string $pageParam = 'p'): array {
+function category_pages_pagination(array $allPages, int $perPage = 64, string $pageParam = 'p'): array {
   $totalItems = count($allPages);
   $totalPages = max(1, (int) ceil($totalItems / $perPage));
 
@@ -54,7 +54,7 @@ if ($hasC) {
 
   list($_, $pages) = load_category_pages($cid);
 
-  $pager = category_pages_pagination($pages, 60, 'p');
+  $pager = category_pages_pagination($pages, 64, 'p');
   $pageNum = $pager['page'];
 
   $canonical = category_url($cid, $pageNum);
@@ -66,7 +66,7 @@ if ($hasC) {
     $gridItems[] = [
       'id' => $p['id'],
       'title' => $p['title'],
-      'image' => 'https://cdn.g55.co/' . $cid . '/' . $p['id'] . '.png',
+      'image' => 'https://cdn.g55.co/' . $p['id'] . '.png',
       'category' => $cid
     ];
   }
@@ -93,7 +93,7 @@ if ($hasC) {
     $gridItems[] = [
       'id' => $newest['id'],
       'title' => $newest['title'],
-      'image' => 'https://cdn.g55.co/' . $catId . '/' . $newest['id'] . '.png',
+      'image' => 'https://cdn.g55.co/' . $newest['id'] . '.png',
       'category' => $catId
     ];
   }
