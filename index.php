@@ -22,6 +22,16 @@
 <?php endforeach; ?>
 </div>
 </section>
+<?php if (!empty($pager) && $pager['total_pages'] > 1): ?>
+<nav class="pagination">
+<?php if ($pager['has_prev']): ?>
+<a class="tag" href="<?php echo h($prevUrl) ?>">Prev Page</a>
+<?php endif; ?>
+<?php if ($pager['has_next']): ?>
+<a class="tag" href="<?php echo h($nextUrl) ?>">Next Page</a>
+<?php endif; ?>
+</nav>
+<?php endif; ?>
 <?php include 'footer.php'; ?>
 </body>
 </html>
