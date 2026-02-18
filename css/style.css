@@ -82,12 +82,18 @@ a, a:visited {
     overflow: hidden;
     border-radius: 5px;
 }
-.categories {
+.categories, .pagination {
     margin: 0 25px;
     padding: 0;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+}
+.pagination {
+    padding-bottom: 0;
+}
+.pagination .tag {
+    flex: auto;
 }
 .description {
     margin: 0 25px;
