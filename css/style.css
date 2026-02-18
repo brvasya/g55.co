@@ -95,6 +95,7 @@ a, a:visited {
 .pagination .tag {
     padding: 10px;
     flex: auto;
+    text-align: center;
 }
 .description {
     margin: 0 25px;
