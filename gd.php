@@ -57,15 +57,43 @@ function pick_iframe(array $item): string {
     }
     if (!empty($item['Md5']) && is_string($item['Md5'])) {
         $md5 = trim($item['Md5']);
-        if ($md5 !== '') {
-            return "https://html5.gamedistribution.com/" . $md5 . "/";
-        }
+        if ($md5 !== '') return "https://html5.gamedistribution.com/" . $md5 . "/";
     }
     return '';
 }
 
+function read_category_ids(string $path): array {
+    if (!is_file($path)) return [[], "file_not_found"];
+    $raw = @file_get_contents($path);
+    if ($raw === false || $raw === '') return [[], "read_failed"];
+
+    $json = json_decode($raw, true);
+    if (!is_array($json)) return [[], "invalid_json"];
+
+    $pages = null;
+
+    if (isset($json['pages']) && is_array($json['pages'])) {
+        $pages = $json['pages'];
+    } elseif (isset($json['items']) && is_array($json['items'])) {
+        $pages = $json['items'];
+    } elseif (array_is_list($json)) {
+        $pages = $json;
+    } else {
+        $pages = [];
+    }
+
+    $ids = [];
+    foreach ($pages as $p) {
+        if (!is_array($p)) continue;
+        $id = isset($p['id']) ? trim((string)$p['id']) : '';
+        if ($id !== '') $ids[$id] = true;
+    }
+
+    return [$ids, "ok"];
+}
+
 $base = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
-$url  = $base . '?categories=' . rawurlencode($category) . '&page=' . $page;
+$sourceUrl = $base . '?categories=' . rawurlencode($category) . '&page=' . $page;
 
 $ctx = stream_context_create([
     'http' => [
@@ -75,11 +103,11 @@ $ctx = stream_context_create([
     ]
 ]);
 
-$body = @file_get_contents($url, false, $ctx);
+$body = @file_get_contents($sourceUrl, false, $ctx);
 
 if ($body === false || $body === '') {
     http_response_code(502);
-    echo json_encode(["ok" => false, "error" => "fetch_failed", "url" => $url], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    echo json_encode(["ok" => false, "error" => "fetch_failed", "source_url" => $sourceUrl], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
@@ -89,15 +117,18 @@ if (!is_array($data)) {
     http_response_code(502);
     echo json_encode([
         "ok" => false,
-        "error" => "invalid_json",
-        "url" => $url,
+        "error" => "invalid_source_json",
+        "source_url" => $sourceUrl,
         "body_preview" => substr($body, 0, 500)
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
-$candidates = [];
-$seenIds = [];
+$categoryFile = __DIR__ . '/categories/' . $category . '.json';
+list($existingIds, $categoryReadStatus) = read_category_ids($categoryFile);
+
+$pages = [];
+$seenIdsInRun = [];
 
 foreach ($data as $item) {
     if (!is_array($item)) continue;
@@ -108,10 +139,8 @@ foreach ($data as $item) {
     $id = make_id_from_title($title);
     if ($id === '') continue;
 
-    if (isset($seenIds[$id])) {
-        continue;
-    }
-    $seenIds[$id] = true;
+    if (isset($seenIdsInRun[$id])) continue;
+    $seenIdsInRun[$id] = true;
 
     $iframe = pick_iframe($item);
     if ($iframe === '') continue;
@@ -119,19 +148,37 @@ foreach ($data as $item) {
     $description = isset($item['Description']) ? trim((string)$item['Description']) : '';
     if ($description === '') $description = $title;
 
-    $candidates[] = [
+    $isDuplicate = isset($existingIds[$id]);
+
+    $pages[] = [
         "id" => $id,
         "title" => $title,
         "iframe" => $iframe,
-        "description" => $description
+        "description" => $description,
+        "duplicate_in_category" => $isDuplicate
     ];
+}
+
+$dupIds = [];
+$newIds = [];
+
+foreach ($pages as $p) {
+    if (!empty($p['duplicate_in_category'])) $dupIds[] = $p['id'];
+    else $newIds[] = $p['id'];
 }
 
 echo json_encode([
     "ok" => true,
     "category" => $category,
     "page" => $page,
-    "source_url" => $url,
-    "count" => count($candidates),
-    "items" => $candidates
+    "source_url" => $sourceUrl,
+    "category_file" => $categoryFile,
+    "category_read_status" => $categoryReadStatus,
+    "existing_ids_count" => count($existingIds),
+    "candidates_count" => count($pages),
+    "duplicates_count" => count($dupIds),
+    "new_count" => count($newIds),
+    "duplicate_ids" => $dupIds,
+    "new_ids" => $newIds,
+    "pages" => $pages
 ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
