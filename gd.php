@@ -25,6 +25,29 @@ if ($page < 1 || $page > 500) {
     exit;
 }
 
+function slugify(string $s): string {
+    $s = trim($s);
+    if ($s === '') return '';
+
+    $s = mb_strtolower($s, 'UTF-8');
+
+    if (function_exists('iconv')) {
+        $t = @iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $s);
+        if ($t !== false && $t !== '') $s = $t;
+    }
+
+    $s = preg_replace('/[^a-z0-9]+/i', '-', $s);
+    $s = trim($s, '-');
+    $s = preg_replace('/-+/', '-', $s);
+
+    if (strlen($s) > 120) {
+        $s = substr($s, 0, 120);
+        $s = rtrim($s, '-');
+    }
+
+    return $s;
+}
+
 $base = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
 $url  = $base . '?categories=' . rawurlencode($category) . '&page=' . $page;
 
@@ -61,31 +84,24 @@ echo "category: {$category}\n";
 echo "page: {$page}\n";
 echo "items_count: " . count($data) . "\n\n";
 
-$itemIndex = 0;
+$idx = 0;
 
 foreach ($data as $item) {
     if (!is_array($item)) continue;
 
-    $itemIndex++;
-    echo "============================\n";
-    echo "ITEM {$itemIndex}\n";
-    echo "============================\n";
+    $title = isset($item['Title']) ? trim((string)$item['Title']) : '';
+    if ($title === '') continue;
 
-    foreach ($item as $key => $value) {
+    $slug = slugify($title);
+    if ($slug === '') continue;
 
-        echo "KEY: {$key}\n";
+    $id = $slug;
 
-        if (is_array($value)) {
-            echo "TYPE: array\n";
-            echo "VALUE:\n";
-            print_r($value);
-        } else {
-            echo "TYPE: " . gettype($value) . "\n";
-            echo "VALUE: " . $value . "\n";
-        }
+    $idx++;
+    echo "candidate: {$idx}\n";
+    echo "Title: {$title}\n";
+    echo "slug: {$slug}\n";
+    echo "id: {$id}\n\n";
 
-        echo "\n";
-    }
-
-    echo "\n";
+    if ($idx >= 50) break;
 }
