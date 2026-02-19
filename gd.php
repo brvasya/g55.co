@@ -207,6 +207,95 @@ function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): arr
     return [true, "ok"];
 }
 
+function read_pool_lines(string $path): array {
+    if (!is_file($path)) return [];
+    $raw = (string)@file_get_contents($path);
+    if ($raw === '') return [];
+
+    $lines = preg_split("/\r\n|\n|\r/", $raw);
+    $out = [];
+    foreach ($lines as $line) {
+        $line = trim($line);
+        if ($line === '') continue;
+        if ($line[0] === '#') continue;
+        $out[] = $line;
+    }
+    return $out;
+}
+
+function pick_one_stable(array $arr, int &$seed): string {
+    $n = count($arr);
+    if ($n === 0) return '';
+    $seed = (int)(($seed * 1103515245 + 12345) & 0x7fffffff);
+    $idx = $seed % $n;
+    return (string)$arr[$idx];
+}
+
+function pool_base_dir(): string {
+    return __DIR__ . '/categories';
+}
+
+function load_gd_pools(string $category): array {
+    $base = pool_base_dir();
+
+    $p = [];
+    $p['openers'] = read_pool_lines($base . '/common/openers.txt');
+    $p['value_props'] = read_pool_lines($base . '/common/value_props.txt');
+    $p['cta'] = read_pool_lines($base . '/common/cta.txt');
+
+    $catDir = $base . '/' . $category;
+    $p['modes'] = read_pool_lines($catDir . '/modes.txt');
+    $p['skills'] = read_pool_lines($catDir . '/skills.txt');
+    $p['adjectives'] = read_pool_lines($catDir . '/adjectives.txt');
+
+    return $p;
+}
+
+function normalize_category_label(string $category): string {
+    $c = strtolower($category);
+    $c = str_replace('_', ' ', $c);
+    return $c;
+}
+
+function generate_gd_description(string $category, string $title, string $id): string {
+    $pools = load_gd_pools($category);
+
+    $seed = (int)(crc32($category . '|' . $id) & 0x7fffffff);
+
+    $catLabel = normalize_category_label($category);
+
+    $adj = pick_one_stable($pools['adjectives'], $seed);
+    $mode = pick_one_stable($pools['modes'], $seed);
+    $skill = pick_one_stable($pools['skills'], $seed);
+    $opener = pick_one_stable($pools['openers'], $seed);
+    $vp = pick_one_stable($pools['value_props'], $seed);
+    $cta = pick_one_stable($pools['cta'], $seed);
+
+    $text = '';
+
+    if ($opener !== '') $text .= $opener . ' ';
+
+    if ($mode !== '') {
+        $focus = ($skill !== '') ? $skill : 'your strategy';
+        $text .= 'Enjoy ' . $mode . ' and focus on ' . $focus . '. ';
+    }
+
+    if ($vp !== '') $text .= $vp . ' ';
+    if ($cta !== '') $text .= $cta;
+
+    $text = trim($text);
+
+    $text = str_replace(
+        ['{title}', '{category}', '{adj}'],
+        [$title, $catLabel, $adj !== '' ? $adj : 'fun'],
+        $text
+    );
+
+    $text = preg_replace('/\s+/', ' ', $text);
+
+    return $text;
+}
+
 $sourceBase = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
 $sourceUrl  = $sourceBase . '?categories=' . rawurlencode($category) . '&page=' . $page;
 
@@ -286,8 +375,7 @@ foreach ($data as $item) {
     $iframe = pick_iframe($item);
     if ($iframe === '') continue;
 
-    $description = isset($item['Description']) ? trim((string)$item['Description']) : '';
-    if ($description === '') $description = $title;
+    $description = generate_gd_description($category, $title, $id);
 
     $assetUrl = pick_asset_512x384($item);
     if ($assetUrl === '') {
