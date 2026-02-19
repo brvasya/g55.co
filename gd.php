@@ -1,12 +1,15 @@
 <?php
 declare(strict_types=1);
 
-header('Content-Type: text/plain; charset=utf-8');
+header('Content-Type: application/json; charset=utf-8');
 
 if (!isset($_GET['c']) || !isset($_GET['p'])) {
     http_response_code(400);
-    echo "error: missing_parameters\n";
-    echo "usage: gd.php?c=CATEGORY_NAME&p=PAGE_NUMBER\n";
+    echo json_encode([
+        "ok" => false,
+        "error" => "missing_parameters",
+        "usage" => "gd.php?c=CATEGORY_NAME&p=PAGE_NUMBER"
+    ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
@@ -15,18 +18,18 @@ $page     = (int)$_GET['p'];
 
 if ($category === '' || !preg_match('/^[a-z0-9_]+$/i', $category)) {
     http_response_code(400);
-    echo "error: invalid_category\n";
+    echo json_encode(["ok" => false, "error" => "invalid_category"], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
 if ($page < 1 || $page > 500) {
     http_response_code(400);
-    echo "error: invalid_page\n";
+    echo json_encode(["ok" => false, "error" => "invalid_page"], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
-function slugify(string $s): string {
-    $s = trim($s);
+function make_id_from_title(string $title): string {
+    $s = trim($title);
     if ($s === '') return '';
 
     $s = mb_strtolower($s, 'UTF-8');
@@ -48,6 +51,19 @@ function slugify(string $s): string {
     return $s;
 }
 
+function pick_iframe(array $item): string {
+    if (!empty($item['Url']) && is_string($item['Url'])) {
+        return trim($item['Url']);
+    }
+    if (!empty($item['Md5']) && is_string($item['Md5'])) {
+        $md5 = trim($item['Md5']);
+        if ($md5 !== '') {
+            return "https://html5.gamedistribution.com/" . $md5 . "/";
+        }
+    }
+    return '';
+}
+
 $base = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
 $url  = $base . '?categories=' . rawurlencode($category) . '&page=' . $page;
 
@@ -63,8 +79,7 @@ $body = @file_get_contents($url, false, $ctx);
 
 if ($body === false || $body === '') {
     http_response_code(502);
-    echo "error: fetch_failed\n";
-    echo "url: {$url}\n";
+    echo json_encode(["ok" => false, "error" => "fetch_failed", "url" => $url], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
@@ -72,19 +87,17 @@ $data = json_decode($body, true);
 
 if (!is_array($data)) {
     http_response_code(502);
-    echo "error: invalid_json\n";
-    echo "url: {$url}\n";
-    $snippet = substr($body, 0, 500);
-    echo "body_preview:\n{$snippet}\n";
+    echo json_encode([
+        "ok" => false,
+        "error" => "invalid_json",
+        "url" => $url,
+        "body_preview" => substr($body, 0, 500)
+    ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
-echo "status: ok\n";
-echo "category: {$category}\n";
-echo "page: {$page}\n";
-echo "items_count: " . count($data) . "\n\n";
-
-$idx = 0;
+$candidates = [];
+$seenIds = [];
 
 foreach ($data as $item) {
     if (!is_array($item)) continue;
@@ -92,16 +105,33 @@ foreach ($data as $item) {
     $title = isset($item['Title']) ? trim((string)$item['Title']) : '';
     if ($title === '') continue;
 
-    $slug = slugify($title);
-    if ($slug === '') continue;
+    $id = make_id_from_title($title);
+    if ($id === '') continue;
 
-    $id = $slug;
+    if (isset($seenIds[$id])) {
+        continue;
+    }
+    $seenIds[$id] = true;
 
-    $idx++;
-    echo "candidate: {$idx}\n";
-    echo "Title: {$title}\n";
-    echo "slug: {$slug}\n";
-    echo "id: {$id}\n\n";
+    $iframe = pick_iframe($item);
+    if ($iframe === '') continue;
 
-    if ($idx >= 50) break;
+    $description = isset($item['Description']) ? trim((string)$item['Description']) : '';
+    if ($description === '') $description = $title;
+
+    $candidates[] = [
+        "id" => $id,
+        "title" => $title,
+        "iframe" => $iframe,
+        "description" => $description
+    ];
 }
+
+echo json_encode([
+    "ok" => true,
+    "category" => $category,
+    "page" => $page,
+    "source_url" => $url,
+    "count" => count($candidates),
+    "items" => $candidates
+], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
