@@ -62,38 +62,153 @@ function pick_iframe(array $item): string {
     return '';
 }
 
-function read_category_ids(string $path): array {
-    if (!is_file($path)) return [[], "file_not_found"];
-    $raw = @file_get_contents($path);
-    if ($raw === false || $raw === '') return [[], "read_failed"];
+function pick_asset_512x384(array $item): string {
+    if (empty($item['Asset']) || !is_array($item['Asset'])) return '';
+    $assets = $item['Asset'];
 
-    $json = json_decode($raw, true);
-    if (!is_array($json)) return [[], "invalid_json"];
-
-    $pages = null;
-
-    if (isset($json['pages']) && is_array($json['pages'])) {
-        $pages = $json['pages'];
-    } elseif (isset($json['items']) && is_array($json['items'])) {
-        $pages = $json['items'];
-    } elseif (array_is_list($json)) {
-        $pages = $json;
-    } else {
-        $pages = [];
+    foreach ($assets as $a) {
+        if (!is_string($a)) continue;
+        if (strpos($a, '512x384') !== false) return trim($a);
     }
 
+    foreach ($assets as $a) {
+        if (is_string($a) && trim($a) !== '') return trim($a);
+    }
+
+    return '';
+}
+
+function read_category_json(string $path): array {
+    if (!is_file($path)) return [null, "file_not_found"];
+    $raw = @file_get_contents($path);
+    if ($raw === false || $raw === '') return [null, "read_failed"];
+    $json = json_decode($raw, true);
+    if (!is_array($json)) return [null, "invalid_json"];
+    return [$json, "ok"];
+}
+
+function extract_pages_array(array $json): array {
+    if (isset($json['pages']) && is_array($json['pages'])) return $json['pages'];
+    if (isset($json['items']) && is_array($json['items'])) return $json['items'];
+    if (array_is_list($json)) return $json;
+    return [];
+}
+
+function pages_to_id_set(array $pages): array {
     $ids = [];
     foreach ($pages as $p) {
         if (!is_array($p)) continue;
         $id = isset($p['id']) ? trim((string)$p['id']) : '';
         if ($id !== '') $ids[$id] = true;
     }
-
-    return [$ids, "ok"];
+    return $ids;
 }
 
-$base = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
-$sourceUrl = $base . '?categories=' . rawurlencode($category) . '&page=' . $page;
+function http_get_bytes(string $url, int $timeoutSeconds = 20, int $maxBytes = 8000000): array {
+    if (!function_exists('curl_init')) return [null, "curl_missing"];
+
+    $ch = curl_init($url);
+    if ($ch === false) return [null, "curl_init_failed"];
+
+    $data = '';
+    $err = null;
+
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_MAXREDIRS => 5,
+        CURLOPT_TIMEOUT => $timeoutSeconds,
+        CURLOPT_CONNECTTIMEOUT => 10,
+        CURLOPT_USERAGENT => 'g55-gd-bot/1.0',
+        CURLOPT_HTTPHEADER => ['Accept: image/*,*/*;q=0.8'],
+        CURLOPT_SSL_VERIFYPEER => true,
+        CURLOPT_SSL_VERIFYHOST => 2,
+        CURLOPT_WRITEFUNCTION => function($ch, $chunk) use (&$data, &$err, $maxBytes) {
+            $len = strlen($chunk);
+            if (strlen($data) + $len > $maxBytes) {
+                $err = "image_too_large";
+                return 0;
+            }
+            $data .= $chunk;
+            return $len;
+        },
+    ]);
+
+    $ok = curl_exec($ch);
+    $code = (int)curl_getinfo($ch, CURLINFO_RESPONSE_CODE);
+
+    if ($ok === false) {
+        $e = curl_error($ch);
+        curl_close($ch);
+        return [null, $err ? $err : ("curl_error:" . $e)];
+    }
+
+    curl_close($ch);
+
+    if ($code < 200 || $code >= 300) return [null, "http_status:" . $code];
+    if ($data === '') return [null, "empty_body"];
+
+    return [$data, "ok"];
+}
+
+function image_from_bytes(string $bytes): array {
+    if (!function_exists('imagecreatefromstring')) return [null, "gd_missing"];
+    $im = @imagecreatefromstring($bytes);
+    if ($im === false) return [null, "image_decode_failed"];
+    return [$im, "ok"];
+}
+
+function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): array {
+    $srcW = imagesx($srcIm);
+    $srcH = imagesy($srcIm);
+    if ($srcW <= 0 || $srcH <= 0) return [false, "bad_source_dimensions"];
+
+    $srcAspect = $srcW / $srcH;
+    $dstAspect = $dstW / $dstH;
+
+    if ($srcAspect > $dstAspect) {
+        $cropH = $srcH;
+        $cropW = (int)round($srcH * $dstAspect);
+        $srcX = (int)floor(($srcW - $cropW) / 2);
+        $srcY = 0;
+    } else {
+        $cropW = $srcW;
+        $cropH = (int)round($srcW / $dstAspect);
+        $srcX = 0;
+        $srcY = (int)floor(($srcH - $cropH) / 2);
+    }
+
+    $dstIm = imagecreatetruecolor($dstW, $dstH);
+    if ($dstIm === false) return [false, "dst_create_failed"];
+
+    imagealphablending($dstIm, false);
+    imagesavealpha($dstIm, true);
+    $transparent = imagecolorallocatealpha($dstIm, 0, 0, 0, 127);
+    imagefilledrectangle($dstIm, 0, 0, $dstW, $dstH, $transparent);
+
+    $ok = imagecopyresampled($dstIm, $srcIm, 0, 0, $srcX, $srcY, $dstW, $dstH, $cropW, $cropH);
+    if (!$ok) {
+        imagedestroy($dstIm);
+        return [false, "resample_failed"];
+    }
+
+    $dir = dirname($outPath);
+    if (!is_dir($dir)) {
+        if (!@mkdir($dir, 0755, true) && !is_dir($dir)) {
+            imagedestroy($dstIm);
+            return [false, "mkdir_failed"];
+        }
+    }
+
+    $saved = @imagepng($dstIm, $outPath, 6);
+    imagedestroy($dstIm);
+
+    if (!$saved) return [false, "png_save_failed"];
+    return [true, "ok"];
+}
+
+$sourceBase = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
+$sourceUrl  = $sourceBase . '?categories=' . rawurlencode($category) . '&page=' . $page;
 
 $ctx = stream_context_create([
     'http' => [
@@ -125,10 +240,25 @@ if (!is_array($data)) {
 }
 
 $categoryFile = __DIR__ . '/categories/' . $category . '.json';
-list($existingIds, $categoryReadStatus) = read_category_ids($categoryFile);
+list($categoryJson, $categoryReadStatus) = read_category_json($categoryFile);
 
-$pages = [];
+$existingPages = [];
+if (is_array($categoryJson)) $existingPages = extract_pages_array($categoryJson);
+$existingIds = pages_to_id_set($existingPages);
+
+$cdnDir = '/var/www/webroot/cdn';
+$thumbW = 170;
+$thumbH = 128;
+
 $seenIdsInRun = [];
+$publishPages = [];
+
+$created = 0;
+$skippedExistingId = 0;
+$skippedExistingThumb = 0;
+$errors = 0;
+
+$results = [];
 
 foreach ($data as $item) {
     if (!is_array($item)) continue;
@@ -142,29 +272,68 @@ foreach ($data as $item) {
     if (isset($seenIdsInRun[$id])) continue;
     $seenIdsInRun[$id] = true;
 
+    if (isset($existingIds[$id])) {
+        $skippedExistingId++;
+        continue;
+    }
+
+    $outPath = rtrim($cdnDir, '/') . '/' . $id . '.png';
+    if (is_file($outPath) && filesize($outPath) > 0) {
+        $skippedExistingThumb++;
+        continue;
+    }
+
     $iframe = pick_iframe($item);
     if ($iframe === '') continue;
 
     $description = isset($item['Description']) ? trim((string)$item['Description']) : '';
     if ($description === '') $description = $title;
 
-    $isDuplicate = isset($existingIds[$id]);
+    $assetUrl = pick_asset_512x384($item);
+    if ($assetUrl === '') {
+        $errors++;
+        $results[] = ["id" => $id, "status" => "error", "error" => "missing_asset_512x384"];
+        continue;
+    }
 
-    $pages[] = [
+    list($bytes, $st) = http_get_bytes($assetUrl, 20, 8000000);
+    if ($bytes === null) {
+        $errors++;
+        $results[] = ["id" => $id, "status" => "error", "error" => $st, "asset" => $assetUrl];
+        continue;
+    }
+
+    list($srcIm, $st2) = image_from_bytes($bytes);
+    if ($srcIm === null) {
+        $errors++;
+        $results[] = ["id" => $id, "status" => "error", "error" => $st2, "asset" => $assetUrl];
+        continue;
+    }
+
+    list($okSave, $st3) = resize_cover_to_png($srcIm, $thumbW, $thumbH, $outPath);
+    imagedestroy($srcIm);
+
+    if (!$okSave) {
+        $errors++;
+        $results[] = ["id" => $id, "status" => "error", "error" => $st3, "thumb" => $outPath];
+        continue;
+    }
+
+    $created++;
+
+    $publishPages[] = [
         "id" => $id,
         "title" => $title,
         "iframe" => $iframe,
-        "description" => $description,
-        "duplicate_in_category" => $isDuplicate
+        "description" => $description
     ];
-}
 
-$dupIds = [];
-$newIds = [];
-
-foreach ($pages as $p) {
-    if (!empty($p['duplicate_in_category'])) $dupIds[] = $p['id'];
-    else $newIds[] = $p['id'];
+    $results[] = [
+        "id" => $id,
+        "status" => "created_thumbnail",
+        "thumb" => $outPath,
+        "asset" => $assetUrl
+    ];
 }
 
 echo json_encode([
@@ -175,10 +344,13 @@ echo json_encode([
     "category_file" => $categoryFile,
     "category_read_status" => $categoryReadStatus,
     "existing_ids_count" => count($existingIds),
-    "candidates_count" => count($pages),
-    "duplicates_count" => count($dupIds),
-    "new_count" => count($newIds),
-    "duplicate_ids" => $dupIds,
-    "new_ids" => $newIds,
-    "pages" => $pages
+    "thumbnail_size" => [$thumbW, $thumbH],
+    "cdn_dir" => $cdnDir,
+    "created_thumbnails" => $created,
+    "skipped_existing_id" => $skippedExistingId,
+    "skipped_existing_thumbnail" => $skippedExistingThumb,
+    "errors" => $errors,
+    "candidates_for_publishing_count" => count($publishPages),
+    "pages" => $publishPages,
+    "thumbnail_results" => $results
 ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
