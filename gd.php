@@ -223,11 +223,15 @@ function read_pool_lines(string $path): array {
     return $out;
 }
 
+function next_seed(int &$seed): int {
+    $seed = (int)(($seed * 1103515245 + 12345) & 0x7fffffff);
+    return $seed;
+}
+
 function pick_one_stable(array $arr, int &$seed): string {
     $n = count($arr);
     if ($n === 0) return '';
-    $seed = (int)(($seed * 1103515245 + 12345) & 0x7fffffff);
-    $idx = $seed % $n;
+    $idx = next_seed($seed) % $n;
     return (string)$arr[$idx];
 }
 
@@ -268,7 +272,6 @@ function generate_gd_description(string $category, string $title, string $id): s
     $pools = load_gd_pools($category);
 
     $seed = (int)(crc32($category . '|' . $id) & 0x7fffffff);
-
     $catLabel = normalize_category_label($category);
 
     $patterns = [
@@ -282,16 +285,7 @@ function generate_gd_description(string $category, string $title, string $id): s
 
     $patternIndex = 0;
     if (count($patterns) > 0) {
-        $tmpSeed = $seed;
-        $pick = pick_one_stable($patterns, $tmpSeed);
-        if (is_array($pick)) {
-            for ($i = 0; $i < count($patterns); $i++) {
-                if ($patterns[$i] === $pick) {
-                    $patternIndex = $i;
-                    break;
-                }
-            }
-        }
+        $patternIndex = next_seed($seed) % count($patterns);
     }
     $pattern = $patterns[$patternIndex];
 
@@ -314,7 +308,6 @@ function generate_gd_description(string $category, string $title, string $id): s
     }
 
     $ease = ensure_sentence($vp);
-
     $benefit = ensure_sentence($cta);
 
     $parts = [
