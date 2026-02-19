@@ -257,6 +257,13 @@ function normalize_category_label(string $category): string {
     return $c;
 }
 
+function ensure_sentence(string $s): string {
+    $s = trim($s);
+    if ($s === '') return '';
+    if (!preg_match('/[.!?]$/', $s)) $s .= '.';
+    return $s;
+}
+
 function generate_gd_description(string $category, string $title, string $id): string {
     $pools = load_gd_pools($category);
 
@@ -264,30 +271,72 @@ function generate_gd_description(string $category, string $title, string $id): s
 
     $catLabel = normalize_category_label($category);
 
+    $patterns = [
+        ['intro', 'usage', 'ease', 'benefit'],
+        ['intro', 'usage', 'benefit', 'ease'],
+        ['intro', 'ease', 'usage', 'benefit'],
+        ['intro', 'ease', 'benefit', 'usage'],
+        ['intro', 'benefit', 'usage', 'ease'],
+        ['intro', 'benefit', 'ease', 'usage'],
+    ];
+
+    $patternIndex = 0;
+    if (count($patterns) > 0) {
+        $tmpSeed = $seed;
+        $pick = pick_one_stable($patterns, $tmpSeed);
+        if (is_array($pick)) {
+            for ($i = 0; $i < count($patterns); $i++) {
+                if ($patterns[$i] === $pick) {
+                    $patternIndex = $i;
+                    break;
+                }
+            }
+        }
+    }
+    $pattern = $patterns[$patternIndex];
+
     $adj = pick_one_stable($pools['adjectives'], $seed);
+    if ($adj === '') $adj = 'fun';
+
     $mode = pick_one_stable($pools['modes'], $seed);
     $skill = pick_one_stable($pools['skills'], $seed);
+
     $opener = pick_one_stable($pools['openers'], $seed);
     $vp = pick_one_stable($pools['value_props'], $seed);
     $cta = pick_one_stable($pools['cta'], $seed);
 
-    $text = '';
+    $intro = ensure_sentence($opener);
 
-    if ($opener !== '') $text .= $opener . ' ';
-
+    $usage = '';
     if ($mode !== '') {
         $focus = ($skill !== '') ? $skill : 'your strategy';
-        $text .= 'Enjoy ' . $mode . ' and focus on ' . $focus . '. ';
+        $usage = ensure_sentence('Enjoy ' . $mode . ' and focus on ' . $focus);
     }
 
-    if ($vp !== '') $text .= $vp . ' ';
-    if ($cta !== '') $text .= $cta;
+    $ease = ensure_sentence($vp);
 
-    $text = trim($text);
+    $benefit = ensure_sentence($cta);
+
+    $parts = [
+        'intro' => $intro,
+        'usage' => $usage,
+        'ease' => $ease,
+        'benefit' => $benefit,
+    ];
+
+    $out = [];
+    foreach ($pattern as $key) {
+        if (!isset($parts[$key])) continue;
+        $v = trim((string)$parts[$key]);
+        if ($v === '') continue;
+        $out[] = $v;
+    }
+
+    $text = trim(implode(' ', $out));
 
     $text = str_replace(
         ['{title}', '{category}', '{adj}'],
-        [$title, $catLabel, $adj !== '' ? $adj : 'fun'],
+        [$title, $catLabel, $adj],
         $text
     );
 
