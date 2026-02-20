@@ -1,7 +1,10 @@
-# G55.CO POOL PRODUCTION RULES
+# G55.CO POOL PRODUCTION RULES v2
 
 Architecture: Option B  
-Structure patterns rotate between intro, usage, ease, benefit  
+Description built from rotating pattern:
+intro → usage → ease → benefit
+
+All segments must be standalone and order independent.
 
 ────────────────────────────────
 
@@ -9,14 +12,15 @@ Structure patterns rotate between intro, usage, ease, benefit
 
 ✔ Full standalone sentences  
 ✔ Must include {title}  
-✔ Use: {adj} {category} gameplay/action/challenges/combat  
+✔ Use: {adj} {category} gameplay/action/challenges/combat/sessions  
 ✔ No articles before {adj}  
-✔ No singular nouns like “adventure” or “game” after {adj}  
+✔ No singular nouns like “game” or “adventure” after {adj}  
 ✔ Must end with period  
 
-Avoid  
+Forbidden  
 ✘ a {adj} {category} game  
-✘ dependent sentences  
+✘ pronoun dependent sentences  
+✘ “this game” or “it offers”  
 
 ────────────────────────────────
 
@@ -26,12 +30,10 @@ Avoid
 ✔ No articles  
 ✔ No punctuation  
 ✔ Must work with gameplay/action/challenges/combat  
-✔ Short phrases only  
+✔ No singular noun dependency  
+✔ No near duplicates unless intentionally weighted  
 
-Valid examples  
-fast paced  
-skill focused  
-adrenaline filled  
+Minimum per category: 12+
 
 ────────────────────────────────
 
@@ -40,60 +42,82 @@ adrenaline filled
 ✔ Noun phrases only  
 ✔ No verbs  
 ✔ No punctuation  
-✔ Must work in: “Enjoy {mode}”  
 ✔ Prefer plural or mass nouns  
+✔ Must work in:
+  Enjoy {mode}.
+  Take on {mode}.
+  Compete in {mode}.
+  Play through {mode}.
 
-Valid examples  
-quick matches  
-arena combat  
-survival challenges  
+✔ Must not require article
+
+Minimum per category: 12+
 
 ────────────────────────────────
 
 ## SKILLS POOL
 
 ✔ Noun phrases only  
-✔ Must work in: “focus on {skill}”  
+✔ Must work in:
+  focus on {skill}
+  improve {skill}
+  sharpen {skill}
+  strengthen {skill}
+  build {skill}
+
 ✔ No verbs  
 ✔ No punctuation  
+✔ No article dependency  
 
-Valid examples  
-aiming accuracy  
-map awareness  
-reaction speed  
+Minimum per category: 12+
 
 ────────────────────────────────
 
-## VALUE PROPS POOL
+## USAGE TEMPLATES (GLOBAL)
 
-✔ Full standalone sentences  
+✔ Must contain both {mode} and {skill}  
+✔ Standalone sentence  
+✔ Must not assume genre  
+✔ Must not introduce articles before placeholders  
+✔ Must remain compatible with all modes and skills  
+✔ Keep single clause depth only  
+
+Must include:
+✔ Mode-first structures  
+✔ Skill-first structures  
+✔ Prepositional variation (during, through, in, throughout, while, by)
+
+Minimum: 15+
+
+────────────────────────────────
+
+## VALUE PROPS (GLOBAL)
+
+✔ Standalone sentence  
 ✔ No {title}  
-✔ No brand mention  
+✔ No brand  
 ✔ No category mention  
 ✔ Must end with period  
-
-Focus on  
-performance  
-replayability  
-controls  
-progress  
+✔ Genre neutral  
 
 ────────────────────────────────
 
-## CTA POOL
+## CTA (GLOBAL)
 
-✔ Full standalone sentences  
+✔ Standalone sentence  
 ✔ Must include {title}  
 ✔ Must include G55.CO  
 ✔ Must end with period  
-✔ Strong action verbs  
 ✔ Maintain verb diversity  
+✔ Avoid structural duplication  
+
+Minimum: 20+
 
 ────────────────────────────────
 
 ## PATTERN RULES
 
-Allowed description patterns:
+Allowed rotations:
 
 1. intro → usage → ease → benefit  
 2. intro → usage → benefit → ease  
@@ -102,14 +126,64 @@ Allowed description patterns:
 5. intro → benefit → usage → ease  
 6. intro → benefit → ease → usage  
 
-Pattern requirements:
+Requirements:
 
-✔ Intro must always be first  
-✔ All segments must be standalone sentences  
-✔ No segment may depend on previous sentence  
-✔ No pronouns like “it” or “this game”  
+✔ Intro always first  
+✔ All segments standalone  
+✔ No pronoun dependency  
+✔ No order dependency  
 ✔ Description must read naturally in any allowed order  
-✔ No grammatical break when segments rotate  
+
+────────────────────────────────
+
+## CATEGORY ISOLATION RULE
+
+✔ Category pools must not contain cross-genre terminology  
+✔ No mixing racing terms in puzzle pool  
+✔ No mixing survival terms in sports pool  
+✔ Global pools must remain genre neutral  
+
+────────────────────────────────
+
+## SCALE SAFETY RULES
+
+✔ No structural drift when expanding pools  
+✔ No mixing sentence fragments with full sentences  
+✔ No mixing noun phrases with verb phrases  
+✔ No silent grammar pattern changes  
+
+✔ Review pools every 10k pages generated  
+
+────────────────────────────────
+
+## SEMANTIC REPETITION CONTROL
+
+✔ Avoid duplicates  
+✔ Avoid excessive same-root word repetition  
+✔ Expand pools in batches of 5+ entries  
+✔ Re-test 10 random combinations after any update  
+
+────────────────────────────────
+
+## URL & CANONICAL SAFETY
+
+✔ Game identity must not depend on category parameter  
+✔ Canonical must be stable and unique  
+✔ Page 1 category canonical must normalize  
+✔ No duplicate URL paths  
+
+────────────────────────────────
+
+## FUTURE PROOFING CHECK
+
+Before approving any new pool entry:
+
+1. Test with 5 random usage templates  
+2. Test with 5 random modes  
+3. Test with 5 random skills  
+4. Test across all pattern rotations  
+
+If any combination sounds unnatural → reject.
 
 ────────────────────────────────
 
@@ -118,7 +192,9 @@ Pattern requirements:
 All pools must exist.  
 No empty lines.  
 No article conflicts.  
-All entries must be grammar safe independently.  
-All pattern rotations must read naturally.
+All segments standalone.  
+All pattern rotations safe.
 
-When these pass, pools are production locked.
+When all conditions pass:
+
+Production Locked.
