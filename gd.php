@@ -8,13 +8,24 @@ if (!isset($_GET['c']) || !isset($_GET['p'])) {
     echo json_encode([
         "ok" => false,
         "error" => "missing_parameters",
-        "usage" => "gd.php?c=CATEGORY_NAME&p=PAGE_NUMBER"
+        "usage" => "gd.php?c=CATEGORY_NAME&p=PAGE_NUMBER&type=categories|tags"
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
 $category = trim((string)$_GET['c']);
 $page     = (int)$_GET['p'];
+
+$type = isset($_GET['type']) ? trim((string)$_GET['type']) : 'categories';
+if (!in_array($type, ['categories', 'tags'], true)) {
+    http_response_code(400);
+    echo json_encode([
+        "ok" => false,
+        "error" => "invalid_type",
+        "allowed" => ["categories", "tags"]
+    ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    exit;
+}
 
 if ($category === '' || !preg_match('/^[a-z0-9_]+$/i', $category)) {
     http_response_code(400);
@@ -389,10 +400,7 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
     }
 
     $appended = count($filtered);
-
-    if ($appended > 0) {
-        $pages = array_merge($filtered, $pages);
-    }
+    if ($appended > 0) $pages = array_merge($filtered, $pages);
 
     if (isset($catJson['pages']) && is_array($catJson['pages'])) {
         $catJson['pages'] = $pages;
@@ -410,12 +418,11 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
     @fclose($lockFp);
 
     if (!$okWrite) return [false, $stWrite, $appended, count($pages)];
-
     return [true, "ok", $appended, count($pages)];
 }
 
 $sourceBase = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
-$sourceUrl  = $sourceBase . '?categories=' . rawurlencode($category) . '&page=' . $page;
+$sourceUrl  = $sourceBase . '?' . $type . '=' . rawurlencode($category) . '&page=' . $page;
 
 $ctx = stream_context_create([
     'http' => [
@@ -551,6 +558,7 @@ echo json_encode([
     "ok" => $appendOk ? true : false,
     "category" => $category,
     "page" => $page,
+    "type" => $type,
     "source_url" => $sourceUrl,
     "category_file" => $categoryFile,
     "category_read_status" => $categoryReadStatus,
