@@ -255,6 +255,7 @@ function load_gd_pools(string $category): array {
     $p['openers'] = read_pool_lines($base . '/common/openers.txt');
     $p['value_props'] = read_pool_lines($base . '/common/value_props.txt');
     $p['cta'] = read_pool_lines($base . '/common/cta.txt');
+    $p['usage_templates'] = read_pool_lines($base . '/common/usage_templates.txt');
 
     $catDir = $base . '/' . $category;
     $p['modes'] = read_pool_lines($catDir . '/modes.txt');
@@ -307,7 +308,9 @@ function generate_gd_description(string $category, string $title, string $id): s
 
     $intro = ensure_sentence($opener);
 
-    $usage = ensure_sentence('Enjoy ' . $mode . ' and focus on ' . $skill);
+    $usageTpl = pick_one_stable($pools['usage_templates'], $seed);
+    $usageRaw = str_replace(['{mode}', '{skill}'], [$mode, $skill], $usageTpl);
+    $usage = ensure_sentence($usageRaw);
 
     $ease = ensure_sentence($vp);
     $benefit = ensure_sentence($cta);
