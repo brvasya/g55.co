@@ -52,9 +52,7 @@ function make_id_from_title(string $title): string {
 }
 
 function pick_iframe(array $item): string {
-    if (!empty($item['Url']) && is_string($item['Url'])) {
-        return trim($item['Url']);
-    }
+    if (!empty($item['Url']) && is_string($item['Url'])) return trim($item['Url']);
     if (!empty($item['Md5']) && is_string($item['Md5'])) {
         $md5 = trim($item['Md5']);
         if ($md5 !== '') return "https://html5.gamedistribution.com/" . $md5 . "/";
@@ -78,7 +76,7 @@ function pick_asset_512x384(array $item): string {
     return '';
 }
 
-function read_category_json(string $path): array {
+function read_json_file(string $path): array {
     if (!is_file($path)) return [null, "file_not_found"];
     $raw = @file_get_contents($path);
     if ($raw === false || $raw === '') return [null, "read_failed"];
@@ -284,9 +282,7 @@ function generate_gd_description(string $category, string $title, string $id): s
     ];
 
     $patternIndex = 0;
-    if (count($patterns) > 0) {
-        $patternIndex = next_seed($seed) % count($patterns);
-    }
+    if (count($patterns) > 0) $patternIndex = next_seed($seed) % count($patterns);
     $pattern = $patterns[$patternIndex];
 
     $adj = pick_one_stable($pools['adjectives'], $seed);
@@ -338,6 +334,86 @@ function generate_gd_description(string $category, string $title, string $id): s
     return $text;
 }
 
+function atomic_write_json(string $path, array $data): array {
+    $json = json_encode($data, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    if (!is_string($json)) return [false, "json_encode_failed"];
+
+    $json .= "\n";
+
+    $dir = dirname($path);
+    if (!is_dir($dir)) {
+        if (!@mkdir($dir, 0755, true) && !is_dir($dir)) return [false, "mkdir_failed"];
+    }
+
+    $tmp = $path . '.tmp.' . getmypid() . '.' . bin2hex(random_bytes(4));
+    $ok = @file_put_contents($tmp, $json, LOCK_EX);
+    if ($ok === false) return [false, "write_tmp_failed"];
+
+    if (!@rename($tmp, $path)) {
+        @unlink($tmp);
+        return [false, "rename_failed"];
+    }
+
+    return [true, "ok"];
+}
+
+function append_pages_with_lock_top(string $categoryFile, array $newPages): array {
+    $lockPath = $categoryFile . '.lock';
+    $lockFp = @fopen($lockPath, 'c+');
+    if ($lockFp === false) return [false, "lock_open_failed", 0, 0];
+
+    $locked = @flock($lockFp, LOCK_EX);
+    if (!$locked) {
+        @fclose($lockFp);
+        return [false, "lock_failed", 0, 0];
+    }
+
+    list($catJson, $st) = read_json_file($categoryFile);
+
+    if (!is_array($catJson)) {
+        $catJson = ["pages" => []];
+    }
+
+    $pages = extract_pages_array($catJson);
+    $existingIds = pages_to_id_set($pages);
+
+    $filtered = [];
+    foreach ($newPages as $p) {
+        if (!is_array($p)) continue;
+        $id = isset($p['id']) ? trim((string)$p['id']) : '';
+        if ($id === '') continue;
+        if (isset($existingIds[$id])) continue;
+
+        $filtered[] = $p;
+        $existingIds[$id] = true;
+    }
+
+    $appended = count($filtered);
+
+    if ($appended > 0) {
+        $pages = array_merge($filtered, $pages);
+    }
+
+    if (isset($catJson['pages']) && is_array($catJson['pages'])) {
+        $catJson['pages'] = $pages;
+    } elseif (isset($catJson['items']) && is_array($catJson['items'])) {
+        $catJson['items'] = $pages;
+    } elseif (array_is_list($catJson)) {
+        $catJson = $pages;
+    } else {
+        $catJson['pages'] = $pages;
+    }
+
+    list($okWrite, $stWrite) = atomic_write_json($categoryFile, $catJson);
+
+    @flock($lockFp, LOCK_UN);
+    @fclose($lockFp);
+
+    if (!$okWrite) return [false, $stWrite, $appended, count($pages)];
+
+    return [true, "ok", $appended, count($pages)];
+}
+
 $sourceBase = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
 $sourceUrl  = $sourceBase . '?categories=' . rawurlencode($category) . '&page=' . $page;
 
@@ -371,7 +447,7 @@ if (!is_array($data)) {
 }
 
 $categoryFile = __DIR__ . '/categories/' . $category . '.json';
-list($categoryJson, $categoryReadStatus) = read_category_json($categoryFile);
+list($categoryJson, $categoryReadStatus) = read_json_file($categoryFile);
 
 $existingPages = [];
 if (is_array($categoryJson)) $existingPages = extract_pages_array($categoryJson);
@@ -418,11 +494,12 @@ foreach ($data as $item) {
     if ($iframe === '') continue;
 
     $description = generate_gd_description($category, $title, $id);
+    if (trim($description) === '') continue;
 
     $assetUrl = pick_asset_512x384($item);
     if ($assetUrl === '') {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => "missing_asset_512x384"];
+        $results[] = ["id" => $id, "status" => "error", "error" => "missing_asset_image"];
         continue;
     }
 
@@ -466,8 +543,12 @@ foreach ($data as $item) {
     ];
 }
 
+list($appendOk, $appendStatus, $appendedCount, $totalAfter) = append_pages_with_lock_top($categoryFile, $publishPages);
+
+if (!$appendOk) http_response_code(502);
+
 echo json_encode([
-    "ok" => true,
+    "ok" => $appendOk ? true : false,
     "category" => $category,
     "page" => $page,
     "source_url" => $sourceUrl,
@@ -481,6 +562,9 @@ echo json_encode([
     "skipped_existing_thumbnail" => $skippedExistingThumb,
     "errors" => $errors,
     "candidates_for_publishing_count" => count($publishPages),
+    "append_status" => $appendStatus,
+    "appended_count" => $appendedCount,
+    "total_pages_after_append" => $totalAfter,
     "pages" => $publishPages,
     "thumbnail_results" => $results
 ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
