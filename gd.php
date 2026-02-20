@@ -297,7 +297,6 @@ function generate_gd_description(string $category, string $title, string $id): s
     $pattern = $patterns[$patternIndex];
 
     $adj = pick_one_stable($pools['adjectives'], $seed);
-    if ($adj === '') $adj = 'fun';
 
     $mode = pick_one_stable($pools['modes'], $seed);
     $skill = pick_one_stable($pools['skills'], $seed);
@@ -308,11 +307,7 @@ function generate_gd_description(string $category, string $title, string $id): s
 
     $intro = ensure_sentence($opener);
 
-    $usage = '';
-    if ($mode !== '') {
-        $focus = ($skill !== '') ? $skill : 'your strategy';
-        $usage = ensure_sentence('Enjoy ' . $mode . ' and focus on ' . $focus);
-    }
+    $usage = ensure_sentence('Enjoy ' . $mode . ' and focus on ' . $skill);
 
     $ease = ensure_sentence($vp);
     $benefit = ensure_sentence($cta);
