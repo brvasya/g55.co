@@ -33,8 +33,27 @@ function load_site_index(): array {
   return read_json($path);
 }
 
+function is_valid_category_id(string $cid): bool {
+  return (bool) preg_match('/^(?:\.[a-z0-9_-]+|[a-z0-9_-]+)$/i', $cid);
+}
+
+function clean_category_id($s): string {
+  $cid = trim((string)$s);
+
+  // keep dot, letters, numbers, underscore, hyphen only
+  $cid = preg_replace('/[^\.a-z0-9_-]/i', '', $cid);
+
+  // compress leading dots to a single dot
+  if ($cid !== '' && $cid[0] === '.') {
+    $cid = '.' . ltrim($cid, '.');
+  }
+
+  if ($cid === '' || !is_valid_category_id($cid)) return '';
+  return $cid;
+}
+
 function load_category_pages(string $cid): array {
-  if ($cid === '' || !preg_match('/^[a-z0-9_-]+$/i', $cid)) {
+  if ($cid === '' || !is_valid_category_id($cid)) {
     http_response_code(400);
     exit;
   }
