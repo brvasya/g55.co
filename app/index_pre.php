@@ -44,7 +44,7 @@ function category_url(string $cid, ?int $p = null): string {
 $hasC = isset($_GET['c']);
 
 if ($hasC) {
-  $cid = clean_category_id($_GET['c']);
+  $cid = clean_slug($_GET['c']);
   if ($cid === '' || !isset($catMap[$cid])) {
     header('Location: /', true, 302);
     exit;

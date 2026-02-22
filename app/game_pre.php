@@ -12,7 +12,7 @@ if (!isset($_GET['id'], $_GET['c'])) {
 }
 
 $id = clean_slug($_GET['id']);
-$cid = clean_category_id($_GET['c']);
+$cid = clean_slug($_GET['c']);
 
 if ($id === '' || $cid === '') {
   header('Location: /', true, 302);
