@@ -1,7 +1,6 @@
 <?php
 // app/game_pre.php
-require_once __DIR__ . '/common.php';
-require_once __DIR__ . '/desc.php';
+require_once 'common.php';
 
 $index = load_site_index();
 $site = $index['site'];
@@ -54,18 +53,14 @@ if ($page === null) {
 $pageTitle = $page['title'];
 $title = $pageTitle;
 
-$metaDesc = trim((string)($page['description'] ?? ''));
-if ($metaDesc === '' && function_exists('generate_gd_description')) {
-  $metaDesc = generate_gd_description($cid, $pageTitle, $id);
-}
-
+$metaDesc = $page['description'];
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
 $imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
 $iframeSrc = $page['iframe'];
 $sandbox = str_ends_with(parse_url($iframeSrc, PHP_URL_HOST), 'g55.co') ? '' : ' sandbox="allow-scripts allow-same-origin allow-pointer-lock"';
 
 $h1 = $pageTitle;
-$desc = $metaDesc;
+$desc = $page['description'];
 
 $prevPage = null;
 $nextPage = null;
