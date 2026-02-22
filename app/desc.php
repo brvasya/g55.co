@@ -31,18 +31,15 @@ if (!function_exists('generate_gd_description')) {
         return (string)$arr[$idx];
     }
 
-    function pool_base_dir(): string {
-        return dirname(__DIR__) . '/categories';
-    }
-
     function load_gd_pools(string $category): array {
-        $base = pool_base_dir();
+        $base = dirname(__DIR__) . '/categories';
+        $app = dirname(__DIR__) . '/app';
 
         $p = [];
-        $p['openers'] = read_pool_lines($base . '/common/openers.txt');
-        $p['value_props'] = read_pool_lines($base . '/common/value_props.txt');
-        $p['cta'] = read_pool_lines($base . '/common/cta.txt');
-        $p['usage_templates'] = read_pool_lines($base . '/common/usage_templates.txt');
+        $p['openers'] = read_pool_lines($app . '/common/openers.txt');
+        $p['value_props'] = read_pool_lines($app . '/common/value_props.txt');
+        $p['cta'] = read_pool_lines($app . '/common/cta.txt');
+        $p['usage_templates'] = read_pool_lines($app . '/common/usage_templates.txt');
 
         $catDir = $base . '/' . $category;
         $p['modes'] = read_pool_lines($catDir . '/modes.txt');
