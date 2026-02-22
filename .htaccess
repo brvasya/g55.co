@@ -1,4 +1,6 @@
 Header always unset X-Frame-Options
 RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/categories/\.IO/ [NC]
+RewriteRule (^|/)\.. - [F,L]
 RewriteRule ^c/([^/]+)/?$ /?c=$1 [R=301,L]
 ErrorDocument 404 /404.php
