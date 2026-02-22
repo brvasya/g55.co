@@ -1,7 +1,7 @@
 <?php
 // app/game_pre.php
-require_once 'common.php';
-require_once 'desc.php';
+require_once __DIR__ . '/common.php';
+require_once __DIR__ . '/desc.php';
 
 $index = load_site_index();
 $site = $index['site'];
