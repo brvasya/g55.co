@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "spider-soli",
+            "title": "Spider Soli",
+            "iframe": "https://html5.gamedistribution.com/05fb0c07c7aa46c180953dbc1913f47d/",
+            "description": "Play Spider Soli now and explore turn based solitaire gameplay made for replay. Start your next session of Spider Soli online for free on G55.CO. Structured challenges encourage steady improvement. Prove your move evaluation during skill trials."
+        },
+        {
             "id": "solitaire-social",
             "title": "Solitaire Social",
             "iframe": "https://html5.gamedistribution.com/13ac29d5b1714635a8430a940931504f/",
