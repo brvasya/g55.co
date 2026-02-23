@@ -13,7 +13,8 @@ if (!isset($_GET['c']) || !isset($_GET['p'])) {
     exit;
 }
 
-$category = trim((string)$_GET['c']);
+$categoryRaw = trim((string)$_GET['c']);
+$category = str_replace('+', '-', $categoryRaw);
 $page     = (int)$_GET['p'];
 
 $type = isset($_GET['type']) ? trim((string)$_GET['type']) : 'categories';
@@ -27,7 +28,7 @@ if (!in_array($type, ['categories', 'tags'], true)) {
     exit;
 }
 
-if ($category === '' || !preg_match('/^[a-z0-9_]+$/i', $category)) {
+if ($category === '' || !preg_match('/^[a-z0-9\-]+$/i', $category)) {
     http_response_code(400);
     echo json_encode(["ok" => false, "error" => "invalid_category"], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
@@ -417,7 +418,7 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
 }
 
 $sourceBase = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
-$sourceUrl  = $sourceBase . '?' . $type . '=' . rawurlencode($category) . '&page=' . $page;
+$sourceUrl  = $sourceBase . '?' . $type . '=' . rawurlencode($categoryRaw) . '&page=' . $page;
 
 $ctx = stream_context_create([
     'http' => [
