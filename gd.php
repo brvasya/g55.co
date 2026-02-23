@@ -17,7 +17,7 @@ $categoryRaw = trim((string)$_GET['c']);
 $categoryRaw = strtolower($categoryRaw);
 $categoryMap = [
 'tower'      => 'tower-defense',
-'defense'    => 'tower-defense',
+'defence'    => 'tower-defense',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
 $category = str_replace(' ', '-', $category);
