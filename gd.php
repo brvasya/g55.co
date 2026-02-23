@@ -18,6 +18,8 @@ $categoryRaw = strtolower($categoryRaw);
 $categoryMap = [
 'tower'      => 'tower-defense',
 'defence'    => 'tower-defense',
+'amongus'    => 'among-us',
+'2players'   => '2-player',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
 $category = str_replace(' ', '-', $category);
