@@ -15,6 +15,7 @@ if (!isset($_GET['c']) || !isset($_GET['p'])) {
 
 $categoryRaw = trim((string)$_GET['c']);
 $category = str_replace(' ', '-', $categoryRaw);
+$category = ltrim($category, '.');
 $page     = (int)$_GET['p'];
 
 $type = isset($_GET['type']) ? trim((string)$_GET['type']) : 'categories';
