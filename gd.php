@@ -14,7 +14,13 @@ if (!isset($_GET['c']) || !isset($_GET['p'])) {
 }
 
 $categoryRaw = trim((string)$_GET['c']);
-$category = str_replace(' ', '-', $categoryRaw);
+$categoryRaw = strtolower($categoryRaw);
+$categoryMap = [
+    'tower' => 'tower-defence',
+    'defence'   => 'tower-defence',
+];
+$category = $categoryMap[$categoryRaw] ?? $categoryRaw;
+$category = str_replace(' ', '-', $category);
 $category = ltrim($category, '.');
 $page     = (int)$_GET['p'];
 
