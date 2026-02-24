@@ -34,7 +34,7 @@ Forbidden
 ✔ No near duplicates unless intentionally weighted  
 ✔ Category adjectives must not contain the exact category keyword as a whole word
 
-Minimum per category: 20+
+Minimum per category: 20
 
 ────────────────────────────────
 
@@ -52,7 +52,7 @@ Minimum per category: 20+
 
 ✔ Must not require article
 
-Minimum per category: 20+
+Minimum per category: 20
 
 ────────────────────────────────
 
@@ -70,7 +70,7 @@ Minimum per category: 20+
 ✔ No punctuation  
 ✔ No article dependency  
 
-Minimum per category: 20+
+Minimum per category: 20
 
 ────────────────────────────────
 
@@ -88,7 +88,7 @@ Must include:
 ✔ Skill-first structures  
 ✔ Prepositional variation (during, through, in, throughout, while, by)
 
-Minimum: 20+
+Minimum: 20
 
 ────────────────────────────────
 
@@ -101,6 +101,8 @@ Minimum: 20+
 ✔ Must end with period  
 ✔ Genre neutral  
 
+Minimum: 20
+
 ────────────────────────────────
 
 ## CTA (GLOBAL)
@@ -112,7 +114,7 @@ Minimum: 20+
 ✔ Maintain verb diversity  
 ✔ Avoid structural duplication  
 
-Minimum: 20+
+Minimum: 20
 
 ────────────────────────────────
 
