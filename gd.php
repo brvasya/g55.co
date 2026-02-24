@@ -21,6 +21,7 @@ $categoryMap = [
 'amongus'    => 'among-us',
 '2players'   => '2-player',
 'cards'      => 'card',
+'jewels'     => 'bejeweled',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
 $category = str_replace(' ', '-', $category);
