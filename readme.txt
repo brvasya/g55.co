@@ -32,8 +32,9 @@ Forbidden
 ✔ Must work with gameplay/action/challenges/combat  
 ✔ No singular noun dependency  
 ✔ No near duplicates unless intentionally weighted  
+✔ Category adjectives must not contain the exact category keyword as a whole word
 
-Minimum per category: 12+
+Minimum per category: 20+
 
 ────────────────────────────────
 
@@ -51,7 +52,7 @@ Minimum per category: 12+
 
 ✔ Must not require article
 
-Minimum per category: 12+
+Minimum per category: 20+
 
 ────────────────────────────────
 
@@ -69,7 +70,7 @@ Minimum per category: 12+
 ✔ No punctuation  
 ✔ No article dependency  
 
-Minimum per category: 12+
+Minimum per category: 20+
 
 ────────────────────────────────
 
@@ -87,7 +88,7 @@ Must include:
 ✔ Skill-first structures  
 ✔ Prepositional variation (during, through, in, throughout, while, by)
 
-Minimum: 15+
+Minimum: 20+
 
 ────────────────────────────────
 
