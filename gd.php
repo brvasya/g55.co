@@ -22,6 +22,7 @@ $categoryMap = [
 '2players'   => '2-player',
 'cards'      => 'card',
 'jewels'     => 'bejeweled',
+'guns'       => 'gun',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
 $category = str_replace(' ', '-', $category);
