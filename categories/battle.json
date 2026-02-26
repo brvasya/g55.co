@@ -1,6 +1,300 @@
 {
     "pages": [
         {
+            "id": "love-battle",
+            "title": "Love Battle",
+            "iframe": "https://html5.gamedistribution.com/7e19f4281790457ca8264a08b376f5a6/",
+            "description": "Test your reflexes in Love Battle through duel centered battle gameplay online. Perfect for short sessions while still offering replayable depth. Refine your situational awareness while navigating strategy rounds. Jump into Love Battle today on G55.CO."
+        },
+        {
+            "id": "tactical-weapon-pack",
+            "title": "Tactical Weapon Pack",
+            "iframe": "https://html5.gamedistribution.com/926de5668494488bb44d77dcc8f5a285/",
+            "description": "Play Tactical Weapon Pack online and take on action packed battle challenges with clear objectives. Structured challenges encourage steady improvement. Unlock fast access to Tactical Weapon Pack on G55.CO. Dive into elimination matches to build team coordination."
+        },
+        {
+            "id": "galactic-force",
+            "title": "Galactic Force",
+            "iframe": "https://html5.gamedistribution.com/aa8cc6cd68794b00959bd133920c429a/",
+            "description": "Step into Galactic Force and enjoy multiplayer focused battle gameplay focused on precision. Replay anytime for fresh runs and better results. Enjoy unlimited gameplay of Galactic Force on G55.CO. Prove your threat assessment during survival waves."
+        },
+        {
+            "id": "kung-fruit-fighting",
+            "title": "Kung Fruit Fighting",
+            "iframe": "https://html5.gamedistribution.com/7273ba78fc2c4851b2c571d8dcbde2e4/",
+            "description": "Enter Kung Fruit Fighting and enjoy challenge heavy battle gameplay designed for fast action. Comfortable controls and clean visuals support focused play. Compete in strategy rounds to strengthen tactical positioning. Discover Kung Fruit Fighting today on G55.CO."
+        },
+        {
+            "id": "fantasy-battles",
+            "title": "Fantasy Battles",
+            "iframe": "https://html5.gamedistribution.com/c6dd1c86ad0a47d9b8c4923029e97a60/",
+            "description": "Challenge yourself in Fantasy Battles with adrenaline filled battle gameplay designed for progression. Improve overall performance in boss encounters by mastering power management. Consistent mechanics make it easy to return and improve. Access Fantasy Battles directly in your browser on G55.CO."
+        },
+        {
+            "id": "bandits-multiplayer-pvp",
+            "title": "Bandits Multiplayer PVP",
+            "iframe": "https://html5.gamedistribution.com/a17e0ceaf95f4313af022a4ca044e0f8/",
+            "description": "Jump into Bandits Multiplayer PVP and enjoy high impact battle gameplay you can start instantly. Launch Bandits Multiplayer PVP instantly on G55.CO. Clear objectives support steady forward movement. Develop team coordination by competing in campaign battles."
+        },
+        {
+            "id": "air-fight",
+            "title": "Air Fight",
+            "iframe": "https://html5.gamedistribution.com/aee79786f49a4b86b6da2e37935d5096/",
+            "description": "Play Air Fight now and explore skill intensive battle gameplay made for replay. Consistent mechanics make it easy to return and improve. Experience cooperative battles with emphasis on power management. Access Air Fight directly in your browser on G55.CO."
+        },
+        {
+            "id": "masked-forces",
+            "title": "Masked Forces",
+            "iframe": "https://html5.gamedistribution.com/b9470c6050344e3da132533e877ebf8c/",
+            "description": "Play Masked Forces online and take on multiplayer focused battle challenges with clear objectives. Explore Masked Forces online on G55.CO. Replay anytime for fresh runs and better results. Dive into warfare simulations to build combat awareness."
+        },
+        {
+            "id": "office-fight",
+            "title": "Office Fight",
+            "iframe": "https://html5.gamedistribution.com/36e937d9cfdf43d6ba43d85796c1a6fc/",
+            "description": "Try Office Fight today and experience skill driven battle gameplay without downloads. Play through time limited clashes and sharpen momentum control. Take on Office Fight right now on G55.CO. Reliable performance keeps action smooth and uninterrupted."
+        },
+        {
+            "id": "pixel-battle-royale",
+            "title": "Pixel Battle Royale",
+            "iframe": "https://html5.gamedistribution.com/b798bda4908e4424b18af068e26eb5f0/",
+            "description": "Test your reflexes in Pixel Battle Royale through challenge heavy battle gameplay online. Jump into Pixel Battle Royale today on G55.CO. Compete in defense scenarios to strengthen situational awareness. Smooth controls and clear feedback make every attempt satisfying."
+        },
+        {
+            "id": "cyber-hunter",
+            "title": "Cyber Hunter",
+            "iframe": "https://html5.gamedistribution.com/2cf40bf37f7c44a6a660ba253b94d9ef/",
+            "description": "Experience skill driven battle gameplay in Cyber Hunter online with immediate access. Optimized performance ensures stable browser sessions. Dive into Cyber Hunter without downloads on G55.CO. Play through objective missions and sharpen momentum control."
+        },
+        {
+            "id": "the-battle",
+            "title": "The Battle",
+            "iframe": "https://html5.gamedistribution.com/bf583943055249859564f58fcd53a00b/",
+            "description": "Jump into The Battle and enjoy action packed battle gameplay you can start instantly. Master The Battle online on G55.CO. Replay anytime for fresh runs and better results. Dive into attack waves to build threat assessment."
+        },
+        {
+            "id": "blocky-fantasy-battle-simulator",
+            "title": "Blocky Fantasy Battle Simulator",
+            "iframe": "http://html5.gamedistribution.com/2aac6a064b3742ae963709a4d03990af/",
+            "description": "Test your reflexes in Blocky Fantasy Battle Simulator through team oriented battle gameplay online. Compete in defense scenarios to strengthen competitive focus. Comfortable controls and clean visuals support focused play. Return to Blocky Fantasy Battle Simulator anytime on G55.CO."
+        },
+        {
+            "id": "legendary-warrior-gr",
+            "title": "Legendary Warrior GR",
+            "iframe": "https://html5.gamedistribution.com/cc4ebf6590874d77a9a218d04afb8d50/",
+            "description": "Play Legendary Warrior GR online and experience duel centered battle gameplay directly in your browser. Discover Legendary Warrior GR today on G55.CO. Push further in defense scenarios to advance timing discipline. Quick access design supports consistent action."
+        },
+        {
+            "id": "rat-arena",
+            "title": "Rat Arena",
+            "iframe": "https://html5.gamedistribution.com/125dd09388474feb8a113ad088157358/",
+            "description": "Test your reflexes in Rat Arena through challenge heavy battle gameplay online. Quick access design supports consistent action. Push further in strategy rounds to advance offensive planning. Discover Rat Arena today on G55.CO."
+        },
+        {
+            "id": "bomb-it-5",
+            "title": "Bomb it 5",
+            "iframe": "https://html5.gamedistribution.com/6e9fca49c39246a484f533b946210ea7/",
+            "description": "Try Bomb it 5 today and experience arena styled battle gameplay without downloads. Dive into Bomb it 5 without downloads on G55.CO. Balanced pacing with clear goals keeps progress steady. Test your momentum control in ranked competitions."
+        },
+        {
+            "id": "modern-combat-defense",
+            "title": "Modern Combat Defense",
+            "iframe": "https://html5.gamedistribution.com/cf5c651a6e364ba781adf849449c29fc/",
+            "description": "Jump into Modern Combat Defense and explore fast paced battle gameplay focused on skill growth. Focus on movement control while taking on boss encounters. Consistent mechanics make it easy to return and improve. Experience Modern Combat Defense for free on G55.CO."
+        },
+        {
+            "id": "stickman-army-team-battle",
+            "title": "Stickman Army : Team Battle",
+            "iframe": "https://html5.gamedistribution.com/7047b1c176bb43099fd7addfb83498a9/",
+            "description": "Start Stickman Army : Team Battle online and enjoy arena styled battle gameplay built for steady momentum. Optimized performance ensures stable browser sessions. Open Stickman Army : Team Battle instantly on G55.CO. Test your reaction speed in objective missions."
+        },
+        {
+            "id": "battle-pet",
+            "title": "Battle Pet",
+            "iframe": "https://html5.gamedistribution.com/963af29a7e9a445b8e6a7c471eed1d56/",
+            "description": "Experience arena styled battle gameplay in Battle Pet online with immediate access. Simple to learn with challenges that reward improvement. Dive into Battle Pet without downloads on G55.CO. Improve momentum control during team clashes."
+        },
+        {
+            "id": "sisters-cakes-battle",
+            "title": "Sisters Cakes Battle",
+            "iframe": "https://html5.gamedistribution.com/b62381574b164c018c1a6ad179a5b068/",
+            "description": "Push your limits in Sisters Cakes Battle and take on duel centered battle challenges instantly. Return to Sisters Cakes Battle anytime on G55.CO. Sharpen offensive planning through championship runs. Smooth controls and clear feedback make every attempt satisfying."
+        },
+        {
+            "id": "stickman-archer-3-2018",
+            "title": "Stickman Archer 3 (2018)",
+            "iframe": "https://html5.gamedistribution.com/4287c1767d1247e8aef87471b6774743/",
+            "description": "Start playing Stickman Archer 3 (2018) online and enjoy power based battle gameplay with strong pacing. Dive into Stickman Archer 3 (2018) without downloads on G55.CO. Balanced pacing with clear goals keeps progress steady. Play through practice sessions and sharpen defensive awareness."
+        },
+        {
+            "id": "super-robo-fighter",
+            "title": "Super Robo Fighter",
+            "iframe": "https://html5.gamedistribution.com/7587306cde9a410a9f2c88ae9aaede96/",
+            "description": "Jump into Super Robo Fighter and explore adrenaline filled battle gameplay focused on skill growth. Take on arena battles while improving risk assessment. Consistent mechanics make it easy to return and improve. Experience Super Robo Fighter for free on G55.CO."
+        },
+        {
+            "id": "kendama-battle",
+            "title": "Kendama Battle",
+            "iframe": "https://html5.gamedistribution.com/167db3cdc4264d2f8d98432d7cf9f9ee/",
+            "description": "Enter the action in Kendama Battle and explore dynamic battle sessions made for replay. Take on Kendama Battle right now on G55.CO. Simple to learn with challenges that reward improvement. Play through objective missions and sharpen reaction speed."
+        },
+        {
+            "id": "epic-robot-battle",
+            "title": "Epic Robot Battle",
+            "iframe": "https://html5.gamedistribution.com/37a6dc3464b54f348cb0e37c71234e2a/",
+            "description": "Push your limits in Epic Robot Battle and take on duel centered battle challenges instantly. Build tactical positioning through consistent practice in defense scenarios. Perfect for short sessions while still offering replayable depth. Return to Epic Robot Battle anytime on G55.CO."
+        },
+        {
+            "id": "fashion-battle",
+            "title": "Fashion Battle",
+            "iframe": "https://html5.gamedistribution.com/d82f788f6a724165927bc8fb672c5220/",
+            "description": "Step into Fashion Battle and enjoy strategy based battle gameplay focused on precision. Work on combat awareness as you complete elimination matches. Master Fashion Battle online on G55.CO. Replayable structure encourages smarter decisions and stronger results."
+        },
+        {
+            "id": "who-wore-it-better-fashion-battle",
+            "title": "Who wore it better – fashion battle",
+            "iframe": "https://html5.gamedistribution.com/ba02bdef56324821a5469a712a7b4493/",
+            "description": "Challenge yourself in Who wore it better – fashion battle with combat focused battle gameplay designed for progression. Advance your focus control throughout cooperative battles. Built for quick matches and steady progress. Play Who wore it better – fashion battle instantly in your browser on G55.CO."
+        },
+        {
+            "id": "super-robo-fighter-2",
+            "title": "Super Robo Fighter 2",
+            "iframe": "https://html5.gamedistribution.com/bb1dad09968246969ca9ba9b4c265177/",
+            "description": "Play Super Robo Fighter 2 online and take on action packed battle challenges with clear objectives. Enjoy unlimited gameplay of Super Robo Fighter 2 on G55.CO. Designed for smooth performance and fast loading in your browser. Develop combat awareness by competing in survival waves."
+        },
+        {
+            "id": "robo-battle",
+            "title": "Robo Battle",
+            "iframe": "https://html5.gamedistribution.com/779b39b4e91b4c208c93d96e4939923f/",
+            "description": "Test your reflexes in Robo Battle through duel centered battle gameplay online. Challenge yourself in Robo Battle on G55.CO. Compete in defense scenarios to strengthen tactical positioning. Comfortable controls and clean visuals support focused play."
+        },
+        {
+            "id": "asteroid-crusher",
+            "title": "Asteroid Crusher",
+            "iframe": "https://html5.gamedistribution.com/6a2dafb2cbfc4494bb521e15937a0071/",
+            "description": "Start playing Asteroid Crusher now and dive into skill intensive battle challenges online. Experience Asteroid Crusher for free on G55.CO. Focus on focus control while taking on cooperative battles. Balanced systems reward thoughtful decisions."
+        },
+        {
+            "id": "bomb-it-td",
+            "title": "Bomb It TD",
+            "iframe": "https://html5.gamedistribution.com/3bd0f8720cf646a182e090abf5bc5fd6/",
+            "description": "Enter Bomb It TD and enjoy challenge heavy battle gameplay designed for fast action. Challenge yourself in Bomb It TD on G55.CO. Sharpen offensive planning through championship runs. Responsive design keeps gameplay fluid across devices."
+        },
+        {
+            "id": "saga-of-kraigen-ambush-at-the-dragon-pa",
+            "title": "Saga of Kraigen: Ambush at the Dragon Pa",
+            "iframe": "https://html5.gamedistribution.com/41ad0a12d3ac474a945bff6b24253b58/",
+            "description": "Take control in Saga of Kraigen: Ambush at the Dragon Pa and dive into strategy based battle gameplay without delays. Explore Saga of Kraigen: Ambush at the Dragon Pa online on G55.CO. Replay anytime for fresh runs and better results. Develop combat awareness by competing in campaign battles."
+        },
+        {
+            "id": "bomb-it-3",
+            "title": "Bomb It 3",
+            "iframe": "https://html5.gamedistribution.com/ec01b356fb374c15a165dca5f7da22e8/",
+            "description": "Play Bomb It 3 online and experience team oriented battle gameplay directly in your browser. Responsive design keeps gameplay fluid across devices. Compete in duel matches to strengthen offensive planning. Continue playing Bomb It 3 on G55.CO."
+        },
+        {
+            "id": "fighter-aircraft",
+            "title": "Fighter Aircraft",
+            "iframe": "https://html5.gamedistribution.com/678a0de28509455fbd53890e1983bc58/",
+            "description": "Start playing Fighter Aircraft now and dive into reaction driven battle challenges online. Experience tournament brackets with emphasis on risk assessment. Well paced progression keeps every round engaging. Experience Fighter Aircraft for free on G55.CO."
+        },
+        {
+            "id": "crazy-commando",
+            "title": "Crazy Commando",
+            "iframe": "https://html5.gamedistribution.com/797607670820408aa9364a91f560cf41/",
+            "description": "Jump into Crazy Commando and explore adrenaline filled battle gameplay focused on skill growth. Balanced systems reward thoughtful decisions. Improve overall performance in cooperative battles by mastering focus control. Play Crazy Commando online for free on G55.CO."
+        },
+        {
+            "id": "tic-tac-toe-paper-note-2",
+            "title": "Tic Tac Toe Paper Note 2",
+            "iframe": "https://html5.gamedistribution.com/adf927ffa97b4099ba9251a55970f151/",
+            "description": "Push your limits in Tic Tac Toe Paper Note 2 and take on tactical battle challenges instantly. Refine your timing discipline while navigating championship runs. Quick access design supports consistent action. Challenge yourself in Tic Tac Toe Paper Note 2 on G55.CO."
+        },
+        {
+            "id": "storm-city-mafia",
+            "title": "Storm City Mafia",
+            "iframe": "https://html5.gamedistribution.com/5867c5bbfbbf43ed8613a904fc857dd2/",
+            "description": "Play Storm City Mafia online and take on strategy based battle challenges with clear objectives. Replay anytime for fresh runs and better results. Enjoy unlimited gameplay of Storm City Mafia on G55.CO. Work on decision making as you complete survival waves."
+        },
+        {
+            "id": "eg-last-battle",
+            "title": "EG Last Battle",
+            "iframe": "https://html5.gamedistribution.com/24ccfe86844c48cdb92ebf080ac73935/",
+            "description": "Step into EG Last Battle and enjoy high impact battle gameplay focused on precision. Work on combat timing as you complete campaign battles. Explore EG Last Battle online on G55.CO. Clear objectives support steady forward movement."
+        },
+        {
+            "id": "special-forces",
+            "title": "Special Forces",
+            "iframe": "https://html5.gamedistribution.com/ac15e4568604402ea4f20772fa7608d0/",
+            "description": "Test your reflexes in Special Forces through duel centered battle gameplay online. Compete in training rounds to strengthen tactical positioning. Responsive design keeps gameplay fluid across devices. Return to Special Forces anytime on G55.CO."
+        },
+        {
+            "id": "army-combat",
+            "title": "Army Combat",
+            "iframe": "https://html5.gamedistribution.com/8f48d982f0394ff4acf7140e7d02bffa/",
+            "description": "Jump into Army Combat and enjoy momentum driven battle gameplay you can start instantly. Prove your team coordination during campaign battles. Master Army Combat online on G55.CO. Structured challenges encourage steady improvement."
+        },
+        {
+            "id": "rise-up-space",
+            "title": "Rise Up Space",
+            "iframe": "https://html5.gamedistribution.com/0d3b96f812ee4ca4af3059ae823f9c1c/",
+            "description": "Jump into Rise Up Space and explore fast paced battle gameplay focused on skill growth. Quick to load with gameplay that stays engaging session after session. Advance your risk assessment throughout tournament brackets. Play Rise Up Space online for free on G55.CO."
+        },
+        {
+            "id": "tower-vs-tower",
+            "title": "Tower vs Tower",
+            "iframe": "https://html5.gamedistribution.com/ba22ac588eee444eb120c29fa5be8ee4/",
+            "description": "Challenge yourself in Tower vs Tower with adrenaline filled battle gameplay designed for progression. Focus on focus control while taking on cooperative battles. Consistent mechanics make it easy to return and improve. Play Tower vs Tower online for free on G55.CO."
+        },
+        {
+            "id": "blocks-battle",
+            "title": "Blocks Battle",
+            "iframe": "https://html5.gamedistribution.com/2cedefd1bde1476680a92d891d5f796d/",
+            "description": "Launch Blocks Battle instantly and take on adrenaline filled battle challenges in your browser. Take on cooperative battles while improving movement control. Consistent mechanics make it easy to return and improve. Access Blocks Battle directly in your browser on G55.CO."
+        },
+        {
+            "id": "eg-toy-claw",
+            "title": "EG Toy Claw",
+            "iframe": "https://html5.gamedistribution.com/8cb9b6e5af044b60b4003ac7a9564395/",
+            "description": "Play EG Toy Claw online and experience tactical battle gameplay directly in your browser. Build timing discipline through consistent practice in championship runs. Perfect for short sessions while still offering replayable depth. Discover EG Toy Claw today on G55.CO."
+        },
+        {
+            "id": "vintage-vs-swag-fashion-battle",
+            "title": "Vintage vs Swag Fashion Battle",
+            "iframe": "https://html5.gamedistribution.com/d4fd0ad979ce44c68941b874b6abde17/",
+            "description": "Test your reflexes in Vintage vs Swag Fashion Battle through tactical battle gameplay online. Build timing discipline through consistent practice in strategy rounds. Responsive design keeps gameplay fluid across devices. Jump into Vintage vs Swag Fashion Battle today on G55.CO."
+        },
+        {
+            "id": "spacecraft-ii",
+            "title": "Spacecraft II",
+            "iframe": "https://html5.gamedistribution.com/a45556c70c7743318873c725b0d81e58/",
+            "description": "Challenge yourself in Spacecraft II with fast paced battle gameplay designed for progression. Built for quick matches and steady progress. Advance your strategic planning throughout boss encounters. Access Spacecraft II directly in your browser on G55.CO."
+        },
+        {
+            "id": "shadowless-man",
+            "title": "Shadowless Man",
+            "iframe": "https://html5.gamedistribution.com/d8399236abd945d09ee0e5cd55a1d69c/",
+            "description": "Experience intense battle gameplay in Shadowless Man online with immediate access. Reliable performance keeps action smooth and uninterrupted. Open Shadowless Man instantly on G55.CO. Compete in objective missions while refining reaction speed."
+        },
+        {
+            "id": "battlestar-mazay",
+            "title": "Battlestar Mazay",
+            "iframe": "https://html5.gamedistribution.com/2fe2f25eeed743219092a1f3ac97068b/",
+            "description": "Play Battlestar Mazay online and experience team oriented battle gameplay directly in your browser. Continue playing Battlestar Mazay on G55.CO. Refine your tactical positioning while navigating defense scenarios. Quick access design supports consistent action."
+        },
+        {
+            "id": "dragon-city",
+            "title": "Dragon City",
+            "iframe": "https://html5.gamedistribution.com/847ddfe8ad4542688d193369e9ba11bf/",
+            "description": "Try Dragon City in your browser and experience duel centered battle sessions built for progress. Sharpen situational awareness through championship runs. Perfect for short sessions while still offering replayable depth. Challenge yourself in Dragon City on G55.CO."
+        },
+        {
+            "id": "mob-city",
+            "title": "Mob City",
+            "iframe": "https://html5.gamedistribution.com/0e82379204db4ff9ac55f84b0c540bc2/",
+            "description": "Play Mob City online and experience challenge heavy battle gameplay directly in your browser. Return to Mob City anytime on G55.CO. Refine your tactical positioning while navigating defense scenarios. Quick access design supports consistent action."
+        },
+        {
             "id": "air-strike",
             "title": "Air Strike",
             "iframe": "https://html5.gamedistribution.com/8a47b8aae1864103b5ee7dd94b3fe437/",
