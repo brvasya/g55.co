@@ -22,6 +22,7 @@ $categoryMap = [
 '2players'   => '2-player',
 'cards'      => 'card',
 'jewels'     => 'bejeweled',
+'squidgame'  => 'squid-game',
 'guns'       => 'gun',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
