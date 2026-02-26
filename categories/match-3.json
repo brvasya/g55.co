@@ -1,6 +1,30 @@
 {
     "pages": [
         {
+            "id": "fruit-pop",
+            "title": "Fruit Pop",
+            "iframe": "https://html5.gamedistribution.com/b3de01f161214a7f8d6a65ddb315cf38/",
+            "description": "Play Fruit Pop now and explore challenge driven match-3 gameplay made for replay. Access Fruit Pop directly in your browser on G55.CO. Advance your precision control throughout level challenges. Quick to load with gameplay that stays engaging session after session."
+        },
+        {
+            "id": "circles",
+            "title": "Circles",
+            "iframe": "https://html5.gamedistribution.com/016fc432beed445cb953b2d5172f80c9/",
+            "description": "Take control in Circles and dive into puzzle driven match-3 gameplay without delays. Master Circles online on G55.CO. Designed for smooth performance and fast loading in your browser. Develop logical thinking by competing in event challenges."
+        },
+        {
+            "id": "frosty-donuts",
+            "title": "Frosty Donuts",
+            "iframe": "https://html5.gamedistribution.com/25df790acc154934a752b53dc14b2381/",
+            "description": "Take control in Frosty Donuts and dive into progression focused match-3 gameplay without delays. Enjoy challenge stages and focus on logical thinking. Enjoy unlimited gameplay of Frosty Donuts on G55.CO. Clear objectives support steady forward movement."
+        },
+        {
+            "id": "gold-strike",
+            "title": "Gold Strike",
+            "iframe": "https://html5.gamedistribution.com/7a150efd02ca4ba285ef56be1367210e/",
+            "description": "Try Gold Strike in your browser and experience casual friendly match-3 sessions built for progress. Challenge yourself in Gold Strike on G55.CO. Refine your performance consistency while navigating progression stages. Perfect for short sessions while still offering replayable depth."
+        },
+        {
             "id": "fish-world-match",
             "title": "Fish World Match",
             "iframe": "https://html5.gamedistribution.com/555a2046c5aa485e81b2efdb401f8f5a/",
