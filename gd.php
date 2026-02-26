@@ -24,6 +24,8 @@ $categoryMap = [
 'jewels'     => 'bejeweled',
 'squidgame'  => 'squid-game',
 'guns'       => 'gun',
+'mahjong%20%26%20connect' => 'mahjong',
+'racing%20%26%20driving'  => 'racing',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
 $category = str_replace(' ', '-', $category);
