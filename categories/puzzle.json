@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "soda-block-jam",
+            "title": "Soda Block Jam",
+            "iframe": "https://html5.gamedistribution.com/f4cf848dffd54e94832f2810618a17e1/",
+            "description": "Play Soda Block Jam online and take on balanced puzzle challenges with clear objectives. Dive into advanced stages to build pattern recognition. Master Soda Block Jam online on G55.CO. Designed for smooth performance and fast loading in your browser."
+        },
+        {
             "id": "numbers-sliding-puzzle",
             "title": "Numbers Sliding Puzzle",
             "iframe": "https://html5.gamedistribution.com/fc60d1e35a5c4ee1989c559259272d7b/",
