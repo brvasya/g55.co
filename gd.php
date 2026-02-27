@@ -24,7 +24,6 @@ $categoryMap = [
 'jewels'     => 'bejeweled',
 'squidgame'  => 'squid-game',
 'guns'       => 'gun',
-'art'        => 'coloring',
 'agility'    => 'action',
 'mahjong & connect' => 'mahjong',
 'racing & driving'  => 'racing',
