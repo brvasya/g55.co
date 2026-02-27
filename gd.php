@@ -361,8 +361,6 @@ function atomic_write_json(string $path, array $data): array {
     $json = json_encode($data, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     if (!is_string($json)) return [false, "json_encode_failed"];
 
-    $json .= "\n";
-
     $dir = dirname($path);
     if (!is_dir($dir)) {
         if (!@mkdir($dir, 0755, true) && !is_dir($dir)) return [false, "mkdir_failed"];
