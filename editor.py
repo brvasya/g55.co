@@ -32,11 +32,37 @@ def normalize_loaded_json(loaded):
         return loaded, None
     raise ValueError("Unsupported JSON format. Expected {\"pages\": [...]} or a list.")
 
+
+def load_json_file(path: str):
+    with open(path, "r", encoding="utf-8") as f:
+        loaded = json.load(f)
+    pages, wrapper = normalize_loaded_json(loaded)
+    cleaned = []
+    for it in pages:
+        if isinstance(it, dict):
+            cleaned.append({
+                "id": str(it.get("id", "")).strip(),
+                "title": str(it.get("title", "")).strip(),
+                "iframe": str(it.get("iframe", "")).strip(),
+                "description": str(it.get("description", "")).strip(),
+            })
+    return cleaned, wrapper
+
+def save_json_file(path: str, pages: list, wrapper):
+    if wrapper is None:
+        payload = pages
+    else:
+        wrapper["pages"] = pages
+        payload = wrapper
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=4)
+
+
 class JsonGui(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("JSON Pages Editor")
-        self.geometry("920x620")
+        self.state("zoomed")
 
         self.current_file = None
         self.pages = []
@@ -131,6 +157,22 @@ class JsonGui(tk.Tk):
         search_entry.bind("<Return>", lambda e: self.search_by_id())
         ttk.Button(search, text="Find", command=self.search_by_id).grid(row=1, column=1, sticky="e")
 
+        movef = ttk.LabelFrame(right, text="Move to category", padding=10)
+        movef.pack(fill="x", pady=(10, 0))
+
+        ttk.Label(movef, text="Target file").grid(row=0, column=0, sticky="w")
+
+        self.move_file_var = tk.StringVar(value="")
+        self.move_combo = ttk.Combobox(
+            movef,
+            textvariable=self.move_file_var,
+            values=[],
+            state="readonly",
+            width=40,
+        )
+        self.move_combo.grid(row=1, column=0, sticky="we", padx=(0, 6))
+        ttk.Button(movef, text="Move", command=self.move_selected_page).grid(row=1, column=1, sticky="e")
+
         self.status_var = tk.StringVar(value="")
         ttk.Label(right, textvariable=self.status_var).pack(anchor="w", pady=(10, 0))
 
@@ -168,20 +210,7 @@ class JsonGui(tk.Tk):
         if not path:
             return
         try:
-            with open(path, "r", encoding="utf-8") as f:
-                loaded = json.load(f)
-
-            pages, wrapper = normalize_loaded_json(loaded)
-
-            cleaned = []
-            for it in pages:
-                if isinstance(it, dict):
-                    cleaned.append({
-                        "id": str(it.get("id", "")).strip(),
-                        "title": str(it.get("title", "")).strip(),
-                        "iframe": str(it.get("iframe", "")).strip(),
-                        "description": str(it.get("description", "")).strip(),
-                    })
+            cleaned, wrapper = load_json_file(path)
 
             self.pages = cleaned
             self.wrapper = wrapper
@@ -189,6 +218,7 @@ class JsonGui(tk.Tk):
             self.selected_index = None
             self.refresh_list()
             self.new_template()
+            self.update_move_dropdown()
             self.set_status(f"Loaded {len(self.pages)} pages")
         except Exception as e:
             self.pages = []
@@ -276,6 +306,76 @@ class JsonGui(tk.Tk):
             return
 
         self.goto_index(idx)
+
+
+    def update_move_dropdown(self):
+        if not hasattr(self, "move_combo"):
+            return
+        if not self.files or not self.current_file:
+            self.move_combo["values"] = []
+            self.move_file_var.set("")
+            return
+
+        current_name = os.path.basename(self.current_file)
+        choices = [f for f in self.files if f != current_name]
+        self.move_combo["values"] = choices
+
+        cur = self.move_file_var.get().strip()
+        if cur not in choices:
+            self.move_file_var.set(choices[0] if choices else "")
+
+    def move_selected_page(self):
+        if not self.current_file:
+            messagebox.showwarning("No file", "Select a JSON file first.")
+            return
+        if self.selected_index is None:
+            messagebox.showwarning("Nothing selected", "Select a page to move.")
+            return
+
+        target_name = self.move_file_var.get().strip()
+        if not target_name:
+            messagebox.showwarning("No target", "Choose a target category file.")
+            return
+
+        current_name = os.path.basename(self.current_file)
+        if target_name == current_name:
+            messagebox.showwarning("Same target", "Target file is the same as the current file.")
+            return
+
+        target_path = os.path.join(CATEGORIES_DIR, target_name)
+
+        page = self.pages[self.selected_index]
+        page_id = str(page.get("id", "")).strip()
+        if not page_id:
+            messagebox.showwarning("Missing id", "Selected page has no id.")
+            return
+
+        try:
+            target_pages, target_wrapper = load_json_file(target_path)
+
+            for it in target_pages:
+                if str(it.get("id", "")).strip() == page_id:
+                    messagebox.showerror("Duplicate id", f"Target file already contains id:\n{page_id}")
+                    return
+
+            target_pages.insert(0, page)
+
+            # Save target first so we don't lose the page if current save fails.
+            save_json_file(target_path, target_pages, target_wrapper)
+
+            # Remove from current and save.
+            del self.pages[self.selected_index]
+            self.selected_index = None
+            save_json_file(self.current_file, self.pages, self.wrapper)
+
+            self.refresh_list()
+            self.new_template()
+            self.update_move_dropdown()
+            self.set_status(f"Moved id {page_id} to {target_name}")
+            messagebox.showinfo("Moved", f"Moved:\n{page_id}\n\nTo:\n{target_name}")
+        except Exception as e:
+            messagebox.showerror("Move failed", f"Could not move page:\n{e}")
+            self.set_status("Move failed")
 
     def add_page(self):
         it = self.read_form()
