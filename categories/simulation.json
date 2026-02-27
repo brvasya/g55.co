@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "piano-online",
+            "title": "Piano Online",
+            "iframe": "https://html5.gamedistribution.com/c1709855a72e4ca18a6638448a99b767/",
+            "description": "Jump into Piano Online and enjoy color themed simulation gameplay you can start instantly. Unlock fast access to Piano Online on G55.CO. Designed for smooth performance and fast loading in your browser. Enjoy progression art stages and focus on shape recognition."
+        },
+        {
             "id": "real-piano-online",
             "title": "Real Piano Online",
             "iframe": "https://html5.gamedistribution.com/4f8753946da741ecbcf034fb38fe8072/",
