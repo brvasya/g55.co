@@ -121,6 +121,16 @@ class JsonGui(tk.Tk):
         ttk.Button(btn_row, text="Update", command=self.update_page).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Delete", command=self.delete_page).pack(side="left", padx=6)
 
+        search = ttk.LabelFrame(right, text="Find by id", padding=10)
+        search.pack(fill="x", pady=(10, 0))
+
+        ttk.Label(search, text="Id").grid(row=0, column=0, sticky="w")
+        self.search_id_var = tk.StringVar()
+        search_entry = ttk.Entry(search, textvariable=self.search_id_var, width=36)
+        search_entry.grid(row=1, column=0, sticky="we", padx=(0, 6))
+        search_entry.bind("<Return>", lambda e: self.search_by_id())
+        ttk.Button(search, text="Find", command=self.search_by_id).grid(row=1, column=1, sticky="e")
+
         self.status_var = tk.StringVar(value="")
         ttk.Label(right, textvariable=self.status_var).pack(anchor="w", pady=(10, 0))
 
@@ -243,6 +253,29 @@ class JsonGui(tk.Tk):
             if str(it.get("id", "")).strip() == page_id:
                 return idx
         return None
+
+    def goto_index(self, idx: int):
+        if idx < 0 or idx >= len(self.pages):
+            return
+        self.listbox.selection_clear(0, tk.END)
+        self.listbox.selection_set(idx)
+        self.listbox.see(idx)
+        self.selected_index = idx
+        self.write_form(self.pages[idx])
+        self.set_status(f"Selected page {idx + 1} of {len(self.pages)}")
+
+    def search_by_id(self):
+        page_id = self.search_id_var.get().strip()
+        if not page_id:
+            messagebox.showwarning("Missing id", "Enter an id to search.")
+            return
+
+        idx = self.find_duplicate_id(page_id)
+        if idx is None:
+            messagebox.showinfo("Not found", f"No page found with id:\n{page_id}")
+            return
+
+        self.goto_index(idx)
 
     def add_page(self):
         it = self.read_form()
