@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "flight-sim",
+            "title": "Flight Sim",
+            "iframe": "https://html5.gamedistribution.com/0dbc76176c774fcdb4185e292f8d6287/",
+            "description": "Load Flight Sim instantly and take on decorative simulation challenges at your own pace. Designed for smooth performance and fast loading in your browser. Enjoy unlimited gameplay of Flight Sim on G55.CO. Prove your color coordination during daily art challenges."
+        },
+        {
             "id": "money-clicker",
             "title": "Money Clicker",
             "iframe": "https://html5.gamedistribution.com/ac11aff094464feea4ff33abe66ab951/",
