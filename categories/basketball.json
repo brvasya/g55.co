@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "head-basketball",
+            "title": "Head Basketball",
+            "iframe": "https://html5.gamedistribution.com/607ec46bdc9842b2b22395601bbf4872/",
+            "description": "Discover Head Basketball and explore round based 2players gameplay built for quick sessions. Experience unlimited browser gameplay with Head Basketball on G55.CO. Sharpen quick decision making through versus rounds. Balanced mechanics reward thoughtful decisions."
+        },
+        {
             "id": "ketchapp-basketball",
             "title": "Ketchapp Basketball",
             "iframe": "https://html5.gamedistribution.com/4f384b2820144c25a8a8a2f351e87a28/",
