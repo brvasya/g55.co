@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "maido",
+            "title": "Maido",
+            "iframe": "https://html5.gamedistribution.com/d644c8ad5da0410cab699b29b09b21ea/",
+            "description": "Try Maido in your browser and experience automation driven idle sessions built for progress. Perfect for short sessions while still offering replayable depth. Push further in optimization challenges to advance long term strategy. Challenge yourself in Maido on G55.CO."
+        },
+        {
             "id": "dunk-idle",
             "title": "Dunk Idle",
             "iframe": "https://html5.gamedistribution.com/3abbba90bf5d4a5b99f80fadf20f927f/",
