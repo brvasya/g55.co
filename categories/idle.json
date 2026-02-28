@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "energy-factory-idle",
+            "title": "Energy Factory Idle",
+            "iframe": "https://html5.gamedistribution.com/edd5ca4613f745e991fe13019f29ef93/",
+            "description": "Play Energy Factory Idle online and experience easy to learn idle gameplay directly in your browser. Challenge yourself in Energy Factory Idle on G55.CO. Build visual tracking through consistent practice in score challenges. Comfortable controls and clean visuals support focused play."
+        },
+        {
             "id": "maido",
             "title": "Maido",
             "iframe": "https://html5.gamedistribution.com/d644c8ad5da0410cab699b29b09b21ea/",
