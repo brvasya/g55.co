@@ -32,7 +32,6 @@ if ($category === '' || !preg_match('/^[a-z0-9\-]+$/i', $category)) {
 
 $amount = isset($_GET['amount']) ? (int)$_GET['amount'] : 10;
 if ($amount < 1) $amount = 10;
-if ($amount > 50) $amount = 50;
 
 function make_id_from_title(string $title, string $suffix = ''): string {
     $s = trim($title);
