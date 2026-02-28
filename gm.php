@@ -17,7 +17,8 @@ $categoryRaw = trim((string)$_GET['c']);
 $categoryRaw = strtolower($categoryRaw);
 
 $categoryMap = [
-'hypercasual' => 'casual',
+'1'          => 'io',
+'11'         => 'casual',
 ];
 
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
