@@ -72,6 +72,31 @@ def tokenize_slug(s: str) -> list[str]:
     return parts
 
 
+def singularize_token(t: str) -> str:
+    t = (t or "").strip().lower()
+    if len(t) < 4:
+        return t
+
+    if t.endswith("ies") and len(t) > 4:
+        return t[:-3] + "y"
+
+    if t.endswith("es") and len(t) > 4:
+        base = t[:-2]
+        if base.endswith(("s", "x", "z")) or base.endswith(("ch", "sh")):
+            return base
+
+    if t.endswith("s") and not t.endswith("ss") and len(t) > 3:
+        return t[:-1]
+
+    return t
+
+
+def maybe_singularize_tokens(tokens: list[str], enabled: bool) -> list[str]:
+    if not enabled:
+        return tokens
+    return [singularize_token(x) for x in tokens]
+
+
 def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[int]:
     if not tokens or not key_tokens or len(key_tokens) > len(tokens):
         return []
@@ -87,7 +112,7 @@ class CategorizerApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Category Candidate Finder")
-        self.state("zoomed")
+        self.geometry("1100x670")
 
         self.files = list_json_files(CATEGORIES_DIR)
 
@@ -117,6 +142,9 @@ class CategorizerApp(tk.Tk):
         self.only_unique_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Only unique best match", variable=self.only_unique_var).pack(side="left", padx=10)
 
+        self.plurals_var = tk.BooleanVar(value=False)
+        ttk.Checkbutton(top, text="Plural keywords", variable=self.plurals_var).pack(side="left", padx=10)
+
         self.min_tokens_var = tk.IntVar(value=1)
         ttk.Label(top, text="Min keyword tokens").pack(side="left", padx=(12, 4))
         ttk.Spinbox(top, from_=1, to=5, width=3, textvariable=self.min_tokens_var).pack(side="left")
@@ -132,7 +160,7 @@ class CategorizerApp(tk.Tk):
         mid.pack(fill="both", expand=True)
 
         cols = ("id", "title", "match_keyword", "suggested_file", "score")
-        self.tree = ttk.Treeview(mid, columns=cols, show="headings", height=24)
+        self.tree = ttk.Treeview(mid, columns=cols, show="headings", height=25)
         self.tree.heading("id", text="id")
         self.tree.heading("title", text="title")
         self.tree.heading("match_keyword", text="matched keyword")
@@ -194,7 +222,7 @@ class CategorizerApp(tk.Tk):
         for item in self.tree.get_children():
             self.tree.delete(item)
 
-    def build_keyword_map(self):
+    def build_keyword_map(self, plural_enabled: bool):
         keywords = []
         for fn in self.files:
             if fn == self.current_file:
@@ -203,6 +231,7 @@ class CategorizerApp(tk.Tk):
             if not slug:
                 continue
             tokens = tokenize_slug(slug)
+            tokens = maybe_singularize_tokens(tokens, plural_enabled)
             keywords.append({"file": fn, "slug": slug, "tokens": tokens})
 
         keywords.sort(key=lambda k: (len(k["tokens"]), len(k["slug"])), reverse=True)
@@ -215,14 +244,16 @@ class CategorizerApp(tk.Tk):
 
         min_tokens = int(self.min_tokens_var.get() or 1)
         only_unique = bool(self.only_unique_var.get())
+        plural_enabled = bool(self.plurals_var.get())
 
-        keywords = self.build_keyword_map()
+        keywords = self.build_keyword_map(plural_enabled)
         if not keywords:
             messagebox.showinfo("No keywords", "No other categories found to use as keywords.")
             return
 
         current_slug = slug_from_filename(self.current_file)
         current_tokens = tokenize_slug(current_slug)
+        current_tokens = maybe_singularize_tokens(current_tokens, plural_enabled)
 
         self.clear_results()
 
@@ -235,6 +266,7 @@ class CategorizerApp(tk.Tk):
                 continue
 
             id_tokens = tokenize_slug(gid)
+            id_tokens = maybe_singularize_tokens(id_tokens, plural_enabled)
 
             if current_tokens and find_all_subseq_positions(id_tokens, current_tokens):
                 skipped_self += 1
