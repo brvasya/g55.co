@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "dart-hero",
+            "title": "Dart Hero",
+            "iframe": "https://html5.gamedistribution.com/1412394a892d49f5a41763899ca6354e/",
+            "description": "Play Dart Hero online and experience colorful casual gameplay directly in your browser. Perfect for short sessions while still offering replayable depth. Push further in fun rounds to advance concentration skills. Jump into Dart Hero today on G55.CO."
+        },
+        {
             "id": "tea-treatment",
             "title": "Tea Treatment",
             "iframe": "https://html5.gamedistribution.com/89ff1bc2b1e746d1ab03216f296f8e50/",
