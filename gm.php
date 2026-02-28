@@ -63,13 +63,7 @@ function make_id_from_title(string $title, string $suffix = ''): string {
 }
 
 function pick_iframe(array $item): string {
-    if (!empty($item['url']) && is_string($item['url'])) return trim($item['url']);
-    if (!empty($item['Url']) && is_string($item['Url'])) return trim($item['Url']);
-    if (!empty($item['Md5']) && is_string($item['Md5'])) {
-        $md5 = trim($item['Md5']);
-        if ($md5 !== '') return "https://html5.gamedistribution.com/" . $md5 . "/";
-    }
-    return '';
+    return str_replace('html5.gamemonetize.com', 'html5.gamemonetize.games', $item['url']);
 }
 
 function pick_thumb(array $item): string {
