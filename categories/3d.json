@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "color-it-in-3d",
+            "title": "Color It in 3D",
+            "iframe": "https://html5.gamedistribution.com/59a4c032529d478b936dcfa1490ede76/",
+            "description": "Color It in 3D is the ultimate 3D coloring book experience that allows you to unleash your creativity and immerse yourself in the world of art! This relaxing and fun app lets you draw and color amazing 3D character designs, from fantasy creatures to anime action figures and cartoon characters.\r\n\r\nWhether you're a fan of detailed illustrations or love creating your own masterpieces, Color It in 3D offers a wide variety of designs to explore. The 3D features bring your artwork to life, giving you a unique and dynamic coloring experience like never before. Customize your creations with vibrant colors, shading, and textures, and bring your imagination to reality in this interactive and creative platform. Perfect for anyone looking to unwind, get inspired, and enjoy the therapeutic process of coloring and designing in 3D!"
+        },
+        {
             "id": "pixel-art-3d",
             "title": "Pixel Art 3D",
             "iframe": "https://html5.gamedistribution.com/b11a7a53d98d4cbcbc053abaebe8b144/",

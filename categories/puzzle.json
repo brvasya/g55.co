@@ -1,6 +1,48 @@
 {
     "pages": [
         {
+            "id": "tiles-puzzle",
+            "title": "Tiles Puzzle",
+            "iframe": "https://html5.gamedistribution.com/67f309ee25374e48913cff06f81cf4e4/",
+            "description": "Test your reflexes in Tiles Puzzle through relaxing coloring gameplay online. Perfect for short sessions while still offering replayable depth. Compete in decorating challenges to strengthen task completion skills. Return to Tiles Puzzle anytime on G55.CO."
+        },
+        {
+            "id": "liquids-sort-puzzle",
+            "title": "Liquids Sort Puzzle",
+            "iframe": "https://html5.gamedistribution.com/501d0041c83c41018d1a849df524b6b3/",
+            "description": "Try Liquids Sort Puzzle in your browser and experience progression based coloring sessions built for progress. Challenge yourself in Liquids Sort Puzzle on G55.CO. Sharpen attention to detail through holiday art sessions. Comfortable controls and clean visuals support focused play."
+        },
+        {
+            "id": "color-maze-puzzle",
+            "title": "Color Maze Puzzle",
+            "iframe": "https://html5.gamedistribution.com/8c3b1e9c2ab840028f4cbdeccf1df7ab/",
+            "description": "Step into Color Maze Puzzle and enjoy soothing coloring gameplay focused on precision. Prove your artistic expression during visual design challenges. Launch Color Maze Puzzle instantly on G55.CO. Structured challenges encourage steady improvement."
+        },
+        {
+            "id": "neon-circles-color-sort-puzzle",
+            "title": "Neon Circles & Color Sort Puzzle",
+            "iframe": "https://html5.gamedistribution.com/7453292b37744eae82b460fdb9242e2c/",
+            "description": "Play Neon Circles & Color Sort Puzzle online and take on art focused coloring challenges with clear objectives. Work on artistic expression as you complete visual design challenges. Enjoy unlimited gameplay of Neon Circles & Color Sort Puzzle on G55.CO. Structured challenges encourage steady improvement."
+        },
+        {
+            "id": "word-art-color-book-puzzle",
+            "title": "Word Art – Color Book Puzzle",
+            "iframe": "https://html5.gamedistribution.com/f9fa626b2cf54efeb39b476bd6abc07a/",
+            "description": "Word Art – Color Book Puzzle offers a delightful and engaging experience that merges the fun of word puzzles with the satisfaction of creating beautiful artwork. In this unique game, your journey revolves around solving word puzzles to unlock vibrant colors and bring stunning illustrations to life. Each level presents a fresh challenge, where finding the right words not only tests your vocabulary skills but also rewards you with an ever-expanding palette of colors. As you solve puzzles, you'll gradually unveil intricate designs, transforming black-and-white sketches into stunning, colorful masterpieces. The game encourages creativity and problem-solving, making it perfect for players of all ages. Whether you're a puzzle lover or an art enthusiast, Word Art – Color Book Puzzle delivers hours of entertainment, providing a perfect blend of mental stimulation and artistic expression. Get ready to dive into a world where words open doors to creativity, offering a relaxing yet rewarding experience that you’ll want to revisit again and again."
+        },
+        {
+            "id": "sticker-book-puzzle-color-by-number",
+            "title": "Sticker Book Puzzle: Color By Number",
+            "iframe": "https://html5.gamedistribution.com/7c8c2d77e8cc4ab59ecfb79a28d88e2f/",
+            "description": "Sticker Book Puzzle: Color By Number is a creative and relaxing puzzle game that combines the joy of coloring with the satisfaction of solving puzzles. Dive into a world of calming artwork where each piece is brought to life by matching stickers to their correct spots. As you solve each brain-teasing challenge, beautiful images begin to take shape, giving you a sense of accomplishment and creative expression. The game offers a unique spin on traditional color-by-number experiences, blending soothing visuals with puzzle-solving fun. Whether you’re matching colors, placing stickers, or watching your masterpiece come to life, every moment is designed to help you unwind and enjoy. With its intuitive gameplay and peaceful atmosphere, Sticker Book Puzzle is perfect for adults and kids alike looking to relax, focus, and enjoy a splash of creativity. Let your mind rest as your imagination takes over—match, color, and reveal stunning sticker-filled artworks one piece at a time!"
+        },
+        {
+            "id": "art-puzzle-fun",
+            "title": "Art Puzzle Fun",
+            "iframe": "https://html5.gamedistribution.com/f3b44a281cdb476d815ea3092036ec54/",
+            "description": "Art Puzzle Fun offers an engaging and enjoyable experience for puzzle enthusiasts of all ages. This free online game presents players with the task of assembling various figures using provided squares within a set time limit. With its simple yet captivating gameplay, players must strategically arrange the squares to form complete images before the countdown timer expires.\r\n\r\nIdeal for children seeking to enhance their cognitive abilities, Art Puzzle Fun serves as a stimulating exercise for intelligence development. By encouraging players to think critically and problem-solve within a time-constrained environment, the game promotes the cultivation of superb thinking skills in an entertaining manner.\r\n\r\nWith a multitude of levels available, Art Puzzle Fun ensures continuous challenges to keep players engaged and motivated. Whether you're a puzzle aficionado or a beginner looking to sharpen your mental agility, this game offers endless opportunities for enjoyment and skill refinement."
+        },
+        {
             "id": "little-princess-puzzle-games",
             "title": "Little Princess Puzzle Games",
             "iframe": "https://html5.gamedistribution.com/94c9d19016a24ba7bf2d3f2f7c90f076/",
