@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "bubble-classic",
+            "title": "Bubble classic",
+            "iframe": "https://html5.gamedistribution.com/380a1a96d7744c9b8ce28fd0e7eceaa2/",
+            "description": "Try Bubble classic today and experience skill focused bubble-shooter gameplay without downloads. Easy to start and rewarding to master with responsive controls and clear visuals. Dive into Bubble classic without downloads on G55.CO. Improve movement precision during arcade rounds."
+        },
+        {
             "id": "devil-bubble-shooter",
             "title": "Devil Bubble Shooter",
             "iframe": "https://html5.gamedistribution.com/4e79a949c57943368b931b241e5df48c/",
