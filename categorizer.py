@@ -112,7 +112,7 @@ class CategorizerApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Category Candidate Finder")
-        self.geometry("1100x670")
+        self.state("zoomed")
 
         self.files = list_json_files(CATEGORIES_DIR)
 
