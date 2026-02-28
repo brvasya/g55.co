@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "sprunki-challenge",
+            "title": "Sprunki Challenge",
+            "iframe": "https://html5.gamedistribution.com/b21ecd2488a5406ab3eee6843fcc1690/",
+            "description": "Master Sprunki Challenge online and experience fast paced 2players gameplay built for skill growth. Smooth controls and clear feedback make every attempt satisfying. Enjoy unlimited browser gameplay of Sprunki Challenge online for free on G55.CO. Challenge yourself in survival rounds to refine risk versus reward strategy."
+        },
+        {
             "id": "sprunki-mini-games",
             "title": "Sprunki Mini Games",
             "iframe": "https://html5.gamedistribution.com/faab3705c7ee4e77902afe18221d7fda/",

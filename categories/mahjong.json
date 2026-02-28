@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "mahjong-masters",
+            "title": "Mahjong Masters",
+            "iframe": "https://html5.gamedistribution.com/96e353740a4140a396486afafa0d57fd/",
+            "description": "Jump into Mahjong Masters and explore multiplayer 2players gameplay focused on skill. Responsive design keeps gameplay smooth across devices. Start playing Mahjong Masters for free in your browser on G55.CO. Challenge yourself in local multiplayer sessions to refine strategic planning."
+        },
+        {
             "id": "arkadium-s-mahjong",
             "title": "Arkadium's Mahjong",
             "iframe": "https://html5.gamedistribution.com/aef0fd368bca407a9a9dd97fc0fc411e/",
