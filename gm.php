@@ -476,11 +476,7 @@ foreach ($items as $item) {
     $title = isset($item['title']) ? trim((string)$item['title']) : (isset($item['Title']) ? trim((string)$item['Title']) : '');
     if ($title === '') continue;
 
-    $suffix = '';
-    if (isset($item['id']) && is_string($item['id'])) $suffix = trim($item['id']);
-    if (isset($item['id']) && is_int($item['id'])) $suffix = (string)$item['id'];
-
-    $id = make_id_from_title($title, $suffix);
+    $id = make_id_from_title($title);
     if ($id === '') continue;
 
     if (isset($seenIdsInRun[$id])) continue;
