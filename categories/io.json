@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "pixelforces-io",
+            "title": "PixelForces.io",
+            "iframe": "https://html5.gamedistribution.com/f52f0c6bf06c48ea8839543a0a72bbe9/",
+            "description": "Test your reflexes in PixelForces.io through control based sniper gameplay online. Compete in target practice rounds to strengthen situational awareness. Smooth controls and clear feedback make every attempt satisfying. Jump into PixelForces.io today on G55.CO."
+        },
+        {
             "id": "amogus-io",
             "title": "Amogus.io",
             "iframe": "https://html5.gamedistribution.com/1b0532236f5f4b709b6f59e3dd47690b/",

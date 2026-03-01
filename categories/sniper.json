@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "zombie-town-sniper",
+            "title": "Zombie Town Sniper",
+            "iframe": "https://games.g55.co/zombie-town-sniper.unity3d",
+            "description": "Zombie Town Sniper is a thrilling first-person shooter game that puts players in the shoes of the last surviving human in a town overrun by zombies. The game is set in a post-apocalyptic world where a deadly virus has turned most of the population into brain-hungry zombies. As the only survivor in the town, the player's mission is to use their trusty sniper rifle to take down as many zombies as possible in order to survive and successfully escape the infected area. The game features realistic graphics and sound effects that add to the intense atmosphere of the game. Players must carefully aim and shoot at the zombies, taking into consideration factors such as wind speed and bullet drop, to ensure each shot is precise and effective. As the player progresses through the game, they will encounter increasingly challenging levels with more and tougher zombies to defeat. Zombie Town Sniper is a game that requires quick reflexes and excellent marksmanship skills. Players must also be strategic in their approach, taking advantage of the environment and using obstacles to their advantage to stay alive. Overall, Zombie Town Sniper is an exciting and challenging game that will keep players on the edge of their seats as they battle their way through hordes of zombies to survive and escape the infected town."
+        },
+        {
             "id": "sniper-hero-operation-kargil",
             "title": "Sniper Hero Operation Kargil",
             "iframe": "https://games.g55.co/sniper-hero-operation-kargil.unity3d",
@@ -103,28 +109,10 @@
             "description": "Start playing Sniper Stag Hunter now and dive into disciplined sniper challenges online. Begin your next session of Sniper Stag Hunter on G55.CO. Take on mission stages while improving patience discipline. Well paced progression keeps every round engaging."
         },
         {
-            "id": "boar-hunting-jigsaw",
-            "title": "BOAR HUNTING JIGSAW",
-            "iframe": "https://html5.gamedistribution.com/f63d0905ef9c414597456000557cb57c/",
-            "description": "Enter the action in BOAR HUNTING JIGSAW and explore target driven sniper sessions made for replay. Optimized performance ensures stable browser sessions. Revisit BOAR HUNTING JIGSAW and keep progressing on G55.CO. Play through timed challenges and sharpen decision making."
-        },
-        {
             "id": "sniper-master-city-hunter-shooting-game",
             "title": "Sniper Master City Hunter shooting game",
             "iframe": "https://html5.gamedistribution.com/0c382ba7d91747a996f82e7fb572c4d6/",
             "description": "Challenge yourself in Sniper Master City Hunter shooting game with accurate sniper gameplay designed for progression. Begin your next session of Sniper Master City Hunter shooting game on G55.CO. Advance your long range calculation throughout accuracy tournaments. Consistent mechanics make it easy to return and improve."
-        },
-        {
-            "id": "deadly-dinosaur-hunter-shooter",
-            "title": "DEADLY Dinosaur Hunter Shooter",
-            "iframe": "https://html5.gamedistribution.com/c0818ed0b4e94eab85c4f7465b816611/",
-            "description": "Experience target driven sniper gameplay in DEADLY Dinosaur Hunter Shooter online with immediate access. Start DEADLY Dinosaur Hunter Shooter now for free on G55.CO. Reliable performance keeps action smooth and uninterrupted. Play through timed challenges and sharpen target tracking."
-        },
-        {
-            "id": "pixelforces-io",
-            "title": "PixelForces.io",
-            "iframe": "https://html5.gamedistribution.com/f52f0c6bf06c48ea8839543a0a72bbe9/",
-            "description": "Test your reflexes in PixelForces.io through control based sniper gameplay online. Compete in target practice rounds to strengthen situational awareness. Smooth controls and clear feedback make every attempt satisfying. Jump into PixelForces.io today on G55.CO."
         },
         {
             "id": "cs-clone",
@@ -175,12 +163,6 @@
             "description": "Experience stealth oriented sniper gameplay in Legendary Sniper online with immediate access. Balanced pacing with clear goals keeps progress steady. Start Legendary Sniper now for free on G55.CO. Challenge yourself in practice rounds to refine focus control."
         },
         {
-            "id": "rebel-attack-shooter",
-            "title": "Rebel Attack Shooter",
-            "iframe": "https://html5.gamedistribution.com/d2ebecf721ae4d1491eb8fc250269bf9/",
-            "description": "Start playing Rebel Attack Shooter online and enjoy stealth oriented sniper gameplay with strong pacing. Improve trajectory estimation during timed challenges. Take on Rebel Attack Shooter right now on G55.CO. Reliable performance keeps action smooth and uninterrupted."
-        },
-        {
             "id": "sniper-3d-target-shooting",
             "title": "Sniper 3D Target Shooting",
             "iframe": "https://html5.gamedistribution.com/23b2629de33a46d48e5602380a6c6be7/",
@@ -199,28 +181,10 @@
             "description": "Challenge yourself in Angry Bull Fight with accurate sniper gameplay designed for progression. Consistent mechanics make it easy to return and improve. Improve overall performance in precision challenges by mastering reaction speed. Experience Angry Bull Fight for free on G55.CO."
         },
         {
-            "id": "hit-targets-shooting-2",
-            "title": "Hit Targets Shooting 2",
-            "iframe": "https://html5.gamedistribution.com/55f0e8f672f94153b7fe028b639da46b/",
-            "description": "Try Hit Targets Shooting 2 in your browser and experience control based sniper sessions built for progress. Perfect for short sessions while still offering replayable depth. Refine your performance consistency while navigating target practice rounds. Jump into Hit Targets Shooting 2 today on G55.CO."
-        },
-        {
             "id": "commando-attack",
             "title": "Commando Attack",
             "iframe": "https://html5.gamedistribution.com/38d96203a07244e8b5e5af386768ecd8/",
             "description": "Experience calculated sniper gameplay in Commando Attack online with immediate access. Test your map awareness in skill trials. Take on Commando Attack right now on G55.CO. Simple to learn with challenges that reward improvement."
-        },
-        {
-            "id": "hit-targets-shooting",
-            "title": "Hit Targets Shooting",
-            "iframe": "https://html5.gamedistribution.com/0e38e52d77954f599e29741e49945606/",
-            "description": "Step into Hit Targets Shooting and enjoy intense sniper gameplay focused on precision. Dive into ranked competitions to build strategic positioning. Launch Hit Targets Shooting instantly on G55.CO. Clear objectives support steady forward movement."
-        },
-        {
-            "id": "turkey-shooter",
-            "title": "Turkey Shooter",
-            "iframe": "https://html5.gamedistribution.com/d7b04b7a97684226bca8abb5657553de/",
-            "description": "Enter Turkey Shooter and enjoy mission oriented sniper gameplay designed for fast action. Smooth controls and clear feedback make every attempt satisfying. Push further in target practice rounds to advance steady control. Discover Turkey Shooter today on G55.CO."
         },
         {
             "id": "mad-combat-marines",
