@@ -19,7 +19,8 @@ $categoryMap = [
 '1'          => 'io',
 '2'          => '2-player',
 '3'          => '3d',
-'11'         => 'casual',
+'hypercasual'=> 'casual',
+'puzzles'    => 'puzzle',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
 $category = str_replace(' ', '-', $category);
