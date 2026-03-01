@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "teen-runner",
+            "title": "Teen Runner",
+            "iframe": "https://html5.gamedistribution.com/887b8bfe17d24d8e803f9dadaa672efc/",
+            "description": "Start Teen Runner online and enjoy arcade styled bejeweled gameplay that keeps you moving. Refine your focus control while navigating pattern solving rounds. Optimized performance ensures stable browser sessions. Open Teen Runner instantly in your browser at G55.CO."
+        },
+        {
             "id": "among-stacky-runner",
             "title": "Among Stacky Runner",
             "iframe": "https://html5.gamedistribution.com/f223d345ed0349c3b6d0f4f1f4604141/",
