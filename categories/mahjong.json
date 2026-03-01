@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "among-mahjong-tiles",
+            "title": "Among Mahjong Tiles",
+            "iframe": "https://html5.gamedistribution.com/5fc82264a7b9473fa6375dd0be7a6402/",
+            "description": "Among Mahjong Tiles is an immersive mahjong-connect game that incorporates the beloved Among theme. Engage in the classic tile-matching gameplay by identifying and matching pairs of identical tiles to eliminate them from the board. Your objective is to clear all tiles within the given time limit, so swift decision-making and quick actions are key.\r\n\r\nTo successfully match tiles, you can only select pairs that have their left or right side accessible and unobstructed. Careful observation and strategic moves will aid you in clearing the board efficiently.\r\n\r\nRemember, time is of the essence, urging you to swiftly find and pair up matching tiles. Utilize the helpful tools at your disposal – the Hints and Shuffles buttons – to overcome challenging moments and advance through the game.\r\n\r\nImmerse yourself in the delightful Among theme while testing your tile-matching skills, and strive to clear the tiles with speed and precision before the countdown expires."
+        },
+        {
             "id": "among-impostor-mahjong-connect",
             "title": "Among Impostor Mahjong Connect",
             "iframe": "https://html5.gamedistribution.com/e99c3122c3814c3e95bfb9162030b922/",
