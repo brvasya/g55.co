@@ -1,6 +1,24 @@
 {
     "pages": [
         {
+            "id": "aeroplane-escape",
+            "title": "Aeroplane Escape",
+            "iframe": "https://html5.gamedistribution.com/f22bdf9162e5448b94299155f6e3c43b/",
+            "description": "Launch Aeroplane Escape instantly and take on competitive shooter challenges in your browser. Experience tactical missions with emphasis on target tracking. Quick to load with gameplay that stays engaging session after session. Access Aeroplane Escape directly in your browser on G55.CO."
+        },
+        {
+            "id": "escape-fast",
+            "title": "Escape Fast",
+            "iframe": "http://html5.gamedistribution.com/91b32ebbe3e2437a99142b6678a914e6/",
+            "description": "Jump into Escape Fast and explore momentum based shooter gameplay focused on skill growth. Consistent mechanics make it easy to return and improve. Experience quick matches with emphasis on reaction speed. Begin your next session of Escape Fast on G55.CO."
+        },
+        {
+            "id": "flakboy-escape",
+            "title": "FlakBoy Escape",
+            "iframe": "http://html5.gamedistribution.com/c72b47733de44b299f63bddca7a35c27/",
+            "description": "Play FlakBoy Escape now and explore competitive shooter gameplay made for replay. Play FlakBoy Escape instantly in your browser on G55.CO. Take on team battles while improving timing coordination. Built for quick matches and steady progress."
+        },
+        {
             "id": "flood-escape",
             "title": "Flood Escape",
             "iframe": "https://html5.gamedistribution.com/835680f40ac345849de6f2b5f714037c/",
