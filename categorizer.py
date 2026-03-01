@@ -192,6 +192,10 @@ class CategorizerApp(tk.Tk):
     def set_status(self, text: str):
         self.status_var.set(text)
 
+    def clear_results(self):
+        for item in self.tree.get_children():
+            self.tree.delete(item)
+
     def load_source(self):
         fn = self.src_var.get().strip()
         if not fn:
@@ -201,13 +205,16 @@ class CategorizerApp(tk.Tk):
             loaded = load_json_any(path)
             pages, wrapper = normalize_loaded_json(loaded)
             cleaned = [clean_page(p) for p in pages if isinstance(p, dict)]
+
             self.current_file = fn
             self.current_pages = cleaned
             self.current_wrapper = wrapper
             self.target_cache = {}
-            self.clear_results()
+
             self.preview_var.set("Click a row to preview the suggested category")
-            self.set_status(f"Loaded {fn} with {len(self.current_pages)} pages")
+
+            self.scan()
+
         except Exception as e:
             messagebox.showerror("Load failed", f"Could not load source JSON:\n{e}")
             self.current_file = None
@@ -217,10 +224,6 @@ class CategorizerApp(tk.Tk):
             self.clear_results()
             self.preview_var.set("")
             self.set_status("Load failed")
-
-    def clear_results(self):
-        for item in self.tree.get_children():
-            self.tree.delete(item)
 
     def build_keyword_map(self, plural_enabled: bool):
         keywords = []
