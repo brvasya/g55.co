@@ -1,6 +1,30 @@
 {
     "pages": [
         {
+            "id": "mahjong-flowers",
+            "title": "Mahjong Flowers",
+            "iframe": "https://html5.gamedistribution.com/03b0c01d44604fee97f605908b562a85/",
+            "description": "Push your limits in Mahjong Flowers and take on calculated solitaire challenges instantly. Experience progression levels with emphasis on decision making. Clear objectives help maintain steady progress. Launch Mahjong Flowers now and play online for free on G55.CO."
+        },
+        {
+            "id": "mahjong-master-2",
+            "title": "Mahjong Master 2",
+            "iframe": "https://html5.gamedistribution.com/604f6557346e41a9931994a18157f928/",
+            "description": "Unlock new momentum in Mahjong Master 2 with turn based solitaire challenges in your browser. The gameplay is built for quick matches and steady progress. Return to Mahjong Master 2 and continue playing for free on G55.CO. Work on move evaluation as you complete classic layouts."
+        },
+        {
+            "id": "madcap-mahjong",
+            "title": "Madcap Mahjong",
+            "iframe": "http://html5.gamedistribution.com/379b5cc08cbf402ba2538de6f7d062bf/",
+            "description": "Start playing Madcap Mahjong online and enjoy calculated solitaire gameplay with strong pacing. Experience card sequencing stages with emphasis on logical thinking. The experience is designed for smooth performance and fast loading in your browser. Start Madcap Mahjong online for free on G55.CO and challenge yourself."
+        },
+        {
+            "id": "classic-mahjong",
+            "title": "Classic Mahjong",
+            "iframe": "https://html5.gamedistribution.com/1733bf71bb4d4db0aca75e16ea034c8f/",
+            "description": "Start Classic Mahjong online and enjoy brain focused solitaire gameplay that keeps you moving. Access Classic Mahjong directly in your browser on G55.CO. Take on challenge stages while improving sequence planning. This game is a strong choice for casual play while still rewarding skill."
+        },
+        {
             "id": "chinese-new-year-mahjong",
             "title": "Chinese New Year Mahjong",
             "iframe": "https://html5.gamedistribution.com/87885d2ffe084d6684b8d0c161566bb5/",
