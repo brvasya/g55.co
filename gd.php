@@ -23,6 +23,7 @@ $categoryMap = [
 'cards'      => 'card',
 'jewels'     => 'bejeweled',
 'squidgame'  => 'squid-game',
+'boardgames' => 'board',
 'guns'       => 'gun',
 'mahjong & connect' => 'mahjong',
 'racing & driving'  => 'racing',
