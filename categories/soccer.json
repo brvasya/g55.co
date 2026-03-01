@@ -1,6 +1,24 @@
 {
     "pages": [
         {
+            "id": "soccer-io",
+            "title": "Soccer.io",
+            "iframe": "https://html5.gamedistribution.com/9818ef9d563e432cb7bb49f86a84182f/",
+            "description": "Jump into Soccer.io and enjoy challenge driven multiplayer gameplay you can start instantly. Dive into event matches to build quick decision making. Master Soccer.io online on G55.CO. Structured challenges encourage steady improvement."
+        },
+        {
+            "id": "3d-soccer-champions",
+            "title": "3D Soccer Champions",
+            "iframe": "https://html5.gamedistribution.com/a14422bfdbf246648318620d01defd08/",
+            "description": "Jump into 3D Soccer Champions and explore team oriented football gameplay focused on skill growth. Balanced systems reward thoughtful decisions. Advance your reaction speed throughout multiplayer matches. Play 3D Soccer Champions online for free on G55.CO."
+        },
+        {
+            "id": "soccer-shoot-3d",
+            "title": "Soccer Shoot 3D",
+            "iframe": "https://html5.gamedistribution.com/a0abfb88584744f9bc455442eee01973/",
+            "description": "Try Soccer Shoot 3D today and experience progression based football gameplay without downloads. Challenge yourself in skill practice rounds to refine performance consistency. Open Soccer Shoot 3D instantly on G55.CO. Simple to learn with challenges that reward improvement."
+        },
+        {
             "id": "squid-soccer-game",
             "title": "Squid Soccer Game",
             "iframe": "https://html5.gamemonetize.games/v3z21n5t5mu1ixvsmgvbizqhf36tnz7g/",

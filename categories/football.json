@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "american-football-io",
+            "title": "American Football.io",
+            "iframe": "https://html5.gamedistribution.com/22216b9e61ca443aae43a20605702087/",
+            "description": "Try American Football.io in your browser and experience balanced sports sessions built for progress. Continue playing American Football.io on G55.CO. Sharpen stamina management through skill trials. Quick access design supports consistent action."
+        },
+        {
+            "id": "football-io",
+            "title": "Football.io",
+            "iframe": "https://html5.gamedistribution.com/aaef7368a13946ba9e1ec00c6ae12658/",
+            "description": "Launch Football.io instantly and take on real time multiplayer challenges in your browser. Well paced progression keeps every round engaging. Take on strategy rounds while improving strategic planning. Play Football.io instantly in your browser on G55.CO."
+        },
+        {
             "id": "eg-girl-football",
             "title": "EG Girl Football",
             "iframe": "https://html5.gamedistribution.com/7dd5294e936343a4897d22aca6adbc18/",
@@ -193,12 +205,6 @@
             "description": "Take control in Football Heads 2018 and dive into skill intensive football gameplay without delays. Replay anytime for fresh runs and better results. Unlock fast access to Football Heads 2018 on G55.CO. Work on risk assessment as you complete goal scoring challenges."
         },
         {
-            "id": "soccer-multiplayer",
-            "title": "soccer multiplayer",
-            "iframe": "https://html5.gamedistribution.com/3777e198e16c484f9bce7def84a0e36e/",
-            "description": "Play soccer multiplayer online and take on match focused football challenges with clear objectives. Structured challenges encourage steady improvement. Explore soccer multiplayer online on G55.CO. Dive into challenge stages to build ball control."
-        },
-        {
             "id": "cricket-fielder-challenge-game",
             "title": "Cricket Fielder Challenge Game",
             "iframe": "https://html5.gamedistribution.com/fde0ed339c1c4d358cb836f6eb8d8b58/",
@@ -239,12 +245,6 @@
             "title": "Football Flap Flap",
             "iframe": "https://html5.gamedistribution.com/927b10038add49f7a5aa6dd31f2dd5c9/",
             "description": "Play Football Flap Flap now and explore challenge driven football gameplay made for replay. Well paced progression keeps every round engaging. Improve overall performance in time attack matches by mastering strategic planning. Experience Football Flap Flap for free on G55.CO."
-        },
-        {
-            "id": "casual-soccer",
-            "title": "Casual Soccer",
-            "iframe": "https://html5.gamedistribution.com/2ec09a8c154944bf917e1fab6b917cd8/",
-            "description": "Try Casual Soccer today and experience intense football gameplay without downloads. Play through skill practice rounds and sharpen team coordination. Start Casual Soccer now for free on G55.CO. Simple to learn with challenges that reward improvement."
         },
         {
             "id": "penalty-kicks",
@@ -523,12 +523,6 @@
             "description": "Push your limits in Trick And Shot Arena and take on reaction based football challenges instantly. Build adaptation skills through consistent practice in season campaigns. Smooth controls and clear feedback make every attempt satisfying. Continue playing Trick And Shot Arena on G55.CO."
         },
         {
-            "id": "soccer-shoot-3d",
-            "title": "Soccer Shoot 3D",
-            "iframe": "https://html5.gamedistribution.com/a0abfb88584744f9bc455442eee01973/",
-            "description": "Try Soccer Shoot 3D today and experience progression based football gameplay without downloads. Challenge yourself in skill practice rounds to refine performance consistency. Open Soccer Shoot 3D instantly on G55.CO. Simple to learn with challenges that reward improvement."
-        },
-        {
             "id": "crossbar-challenge",
             "title": "Crossbar Challenge",
             "iframe": "https://html5.gamedistribution.com/aa05e23cbe4a4bf5bbb5e9dcb92dd071/",
@@ -539,12 +533,6 @@
             "title": "Football Soccer League",
             "iframe": "https://html5.gamedistribution.com/ae51c34255984345bb3de530c70be67b/",
             "description": "Start Football Soccer League online and enjoy competitive football gameplay built for steady momentum. Challenge yourself in team battles to refine team coordination. Open Football Soccer League instantly on G55.CO. Reliable performance keeps action smooth and uninterrupted."
-        },
-        {
-            "id": "3d-soccer-champions",
-            "title": "3D Soccer Champions",
-            "iframe": "https://html5.gamedistribution.com/a14422bfdbf246648318620d01defd08/",
-            "description": "Jump into 3D Soccer Champions and explore team oriented football gameplay focused on skill growth. Balanced systems reward thoughtful decisions. Advance your reaction speed throughout multiplayer matches. Play 3D Soccer Champions online for free on G55.CO."
         },
         {
             "id": "ping-pong-goal",

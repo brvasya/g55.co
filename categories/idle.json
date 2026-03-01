@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "idle-lumberjack-3d",
+            "title": "Idle Lumberjack 3D",
+            "iframe": "https://html5.gamedistribution.com/b5034a0654e94c6a888af9c64aa0897d/",
+            "description": "Start playing Idle Lumberjack 3D online and enjoy skill based simulation gameplay with strong pacing. Test your problem solving in ranked competitions. Revisit Idle Lumberjack 3D and keep progressing on G55.CO. Balanced pacing with clear goals keeps progress steady."
+        },
+        {
             "id": "idle-trade-routes",
             "title": "Idle Trade Routes",
             "iframe": "https://html5.gamedistribution.com/0058833cabd24958945d843073257855/",
@@ -143,12 +149,6 @@
             "title": "Gold Rush",
             "iframe": "https://html5.gamedistribution.com/ccff6463240d4f45a9a3a52a2da66c6b/",
             "description": "Start playing Gold Rush now and dive into incremental idle challenges online. Play Gold Rush online for free on G55.CO with no downloads required. Focused gameplay design supports long term replay value. Prove your resource management during idle sessions."
-        },
-        {
-            "id": "merge-car",
-            "title": "Merge Car",
-            "iframe": "https://html5.gamedistribution.com/964bd01391cf43909374d5a6e37622f6/",
-            "description": "Start playing Merge Car now and dive into optimization focused idle challenges online. Clear objectives help maintain steady progress. Access Merge Car instantly and play online for free on G55.CO. Work on optimization planning as you complete growth sessions."
         },
         {
             "id": "tap-for-money-restaurant",
