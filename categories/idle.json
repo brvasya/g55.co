@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "idle-pet",
+            "title": "IDLE Pet",
+            "iframe": "https://html5.gamedistribution.com/314d2d7d80a948e4946251066b956a19/",
+            "description": "Jump into IDLE Pet and explore educational animal gameplay focused on skill. Challenge yourself in pet care sessions to refine task prioritization. Enjoy unlimited browser gameplay of IDLE Pet online for free on G55.CO. The game is quick to load with gameplay that stays engaging session after session."
+        },
+        {
             "id": "energy-factory-idle",
             "title": "Energy Factory Idle",
             "iframe": "https://html5.gamedistribution.com/edd5ca4613f745e991fe13019f29ef93/",

@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "truck-soccer",
+            "title": "Truck Soccer",
+            "iframe": "https://html5.gamedistribution.com/db3f3bbfa4054a3ba9fd98a662c3a743/",
+            "description": "Jump into Truck Soccer and enjoy precision driven car action you can start instantly. Access fast action in Truck Soccer online at G55.CO. Designed for quick access and consistent action. Enjoy free roam sessions and focus on reaction speed."
+        },
+        {
+            "id": "soccer-cars",
+            "title": "Soccer Cars",
+            "iframe": "https://html5.gamedistribution.com/584197113c0b40718cf62d02b1f37a2f/",
+            "description": "Play Soccer Cars online and experience high energy car gameplay directly in your browser. Push further in open world driving sessions to advance precision control. Smooth controls and clear feedback make every attempt satisfying. Enjoy Soccer Cars online for free on G55.CO and improve your skills."
+        },
+        {
             "id": "soccer-physics",
             "title": "Soccer Physics",
             "iframe": "https://games.g55.co/soccer-physics.unity3d",
