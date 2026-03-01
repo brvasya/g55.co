@@ -124,20 +124,47 @@ class CategorizerApp(tk.Tk):
         self.build_ui()
 
         if self.files:
-            self.src_var.set(self.files[0])
-            self.load_source()
+            self.select_category_by_index(0)
         else:
             messagebox.showwarning("No JSON files", f"No .json files found in:\n{CATEGORIES_DIR}")
 
     def build_ui(self):
-        top = ttk.Frame(self, padding=10)
+        outer = ttk.Frame(self, padding=10)
+        outer.pack(fill="both", expand=True)
+
+        paned = ttk.Panedwindow(outer, orient="horizontal")
+        paned.pack(fill="both", expand=True)
+
+        left = ttk.Frame(paned, padding=(0, 0, 10, 0))
+        paned.add(left, weight=0)
+
+        ttk.Label(left, text="Categories").pack(anchor="w")
+
+        list_frame = ttk.Frame(left)
+        list_frame.pack(fill="both", expand=True, pady=(6, 0))
+
+        self.cat_listbox = tk.Listbox(list_frame, activestyle="none", exportselection=False)
+        self.cat_listbox.pack(side="left", fill="both", expand=True)
+
+        lscroll = ttk.Scrollbar(list_frame, orient="vertical", command=self.cat_listbox.yview)
+        lscroll.pack(side="right", fill="y")
+        self.cat_listbox.configure(yscrollcommand=lscroll.set)
+
+        for fn in self.files:
+            self.cat_listbox.insert("end", fn)
+
+        self.cat_listbox.bind("<<ListboxSelect>>", self.on_category_select)
+        self.cat_listbox.bind("<Return>", self.on_category_select)
+        self.cat_listbox.bind("<Double-Button-1>", self.on_category_select)
+
+        right = ttk.Frame(paned)
+        paned.add(right, weight=1)
+
+        top = ttk.Frame(right, padding=(0, 0, 0, 10))
         top.pack(fill="x")
 
-        ttk.Label(top, text="Current category").pack(side="left")
-        self.src_var = tk.StringVar(value=self.files[0] if self.files else "")
-        self.src_combo = ttk.Combobox(top, textvariable=self.src_var, values=self.files, state="readonly", width=45)
-        self.src_combo.pack(side="left", padx=8)
-        self.src_combo.bind("<<ComboboxSelected>>", lambda e: self.load_source())
+        self.current_label_var = tk.StringVar(value="Current category: ")
+        ttk.Label(top, textvariable=self.current_label_var).pack(side="left")
 
         self.only_unique_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Only unique best match", variable=self.only_unique_var).pack(side="left", padx=10)
@@ -156,7 +183,7 @@ class CategorizerApp(tk.Tk):
         self.status_var = tk.StringVar(value="")
         ttk.Label(top, textvariable=self.status_var).pack(side="right")
 
-        mid = ttk.Frame(self, padding=10)
+        mid = ttk.Frame(right)
         mid.pack(fill="both", expand=True)
 
         cols = ("id", "title", "match_keyword", "suggested_file", "score")
@@ -179,7 +206,7 @@ class CategorizerApp(tk.Tk):
         yscroll.pack(side="right", fill="y")
         self.tree.configure(yscrollcommand=yscroll.set)
 
-        bottom = ttk.Frame(self, padding=10)
+        bottom = ttk.Frame(right, padding=(0, 10, 0, 0))
         bottom.pack(fill="x")
 
         self.preview_var = tk.StringVar(value="Click a row to preview the suggested category")
@@ -196,8 +223,35 @@ class CategorizerApp(tk.Tk):
         for item in self.tree.get_children():
             self.tree.delete(item)
 
-    def load_source(self):
-        fn = self.src_var.get().strip()
+    def get_selected_category_filename(self) -> str:
+        sel = self.cat_listbox.curselection()
+        if not sel:
+            return ""
+        idx = int(sel[0])
+        if idx < 0 or idx >= len(self.files):
+            return ""
+        return self.files[idx]
+
+    def select_category_by_index(self, idx: int):
+        if not self.files:
+            return
+        idx = max(0, min(idx, len(self.files) - 1))
+        self.cat_listbox.selection_clear(0, "end")
+        self.cat_listbox.selection_set(idx)
+        self.cat_listbox.activate(idx)
+        self.cat_listbox.see(idx)
+        self.load_source(self.files[idx])
+
+    def on_category_select(self, event=None):
+        fn = self.get_selected_category_filename()
+        if not fn:
+            return
+        if fn == self.current_file:
+            return
+        self.load_source(fn)
+
+    def load_source(self, fn: str):
+        fn = (fn or "").strip()
         if not fn:
             return
         path = os.path.join(CATEGORIES_DIR, fn)
@@ -211,6 +265,7 @@ class CategorizerApp(tk.Tk):
             self.current_wrapper = wrapper
             self.target_cache = {}
 
+            self.current_label_var.set(f"Current category: {fn}")
             self.preview_var.set("Click a row to preview the suggested category")
 
             self.scan()
@@ -223,6 +278,7 @@ class CategorizerApp(tk.Tk):
             self.target_cache = {}
             self.clear_results()
             self.preview_var.set("")
+            self.current_label_var.set("Current category: ")
             self.set_status("Load failed")
 
     def build_keyword_map(self, plural_enabled: bool):
