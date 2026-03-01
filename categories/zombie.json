@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "zombie-diary",
+            "title": "Zombie Diary",
+            "iframe": "https://games.g55.co/zombie-diary.unity3d",
+            "description": "Zombie Diary is a thrilling and intense game that challenges players to survive in a dark and ominous forest overrun by zombies. The objective of the game is to run around the forest and use your weapons to shoot all of the zombies as quickly as possible, while also conserving your ammunition in order to make it through each level. As you progress through the game, the levels become increasingly difficult, with more and more zombies appearing and attacking you from all angles. You must use your quick reflexes and strategic thinking to stay alive, dodging obstacles and avoiding getting bitten by the zombie hordes. One of the key strategies in Zombie Diary is to carefully manage your ammunition. You must aim your shots carefully, taking out as many zombies as possible with each bullet in order to conserve your limited supply. Overall, Zombie Diary is an exciting and fast-paced game that will keep you on the edge of your seat. With its challenging gameplay, creepy atmosphere, and intense action, it is sure to provide hours of entertainment for zombie fans and gamers alike."
+        },
+        {
+            "id": "zombie-zone",
+            "title": "Zombie Zone",
+            "iframe": "https://games.g55.co/zombie-zone.unity3d",
+            "description": "Zombie Zone is an action-packed shooting game that will have you on the edge of your seat as you fight off waves of incoming zombies. The objective of the game is to survive as long as possible and complete each level by shooting all the zombies and reaching the end point. The game is set in a post-apocalyptic world where zombies have taken over the cities and the remaining survivors are fighting for their lives. As a player, you take on the role of a survivor armed with a basic gun, and your mission is to shoot down hordes of zombies that are coming your way. To progress through the game, you need to shoot and kill as many zombies as possible. The more zombies you kill, the more money you earn, which you can use to purchase new and more powerful weapons from the in-game store. These weapons range from shotguns and machine guns to flamethrowers and rocket launchers, each with its own unique capabilities and advantages. As you progress through the levels, the difficulty increases, and you'll face more challenging zombies that are harder to kill. The game also features boss battles at the end of each level, where you'll face off against a massive and powerful zombie that requires skill and strategy to defeat. Zombie Zone is a thrilling and addictive shooting game that offers hours of entertainment. With its intense action, challenging gameplay, and a variety of weapons and upgrades, it's a must-play for fans of zombie-themed games."
+        },
+        {
             "id": "garage-apocalypse",
             "title": "Garage Apocalypse",
             "iframe": "https://html5.gamedistribution.com/535eb61608cb40008bc5720084654ed2/",
