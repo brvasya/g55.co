@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "animal-hunters",
+            "title": "Animal Hunters",
+            "iframe": "https://html5.gamedistribution.com/69445ec5065e4eeba73c9e7103c58643/",
+            "description": "Animal Hunters is a first-person shooter game where players take on the role of a skilled hunter tasked with tracking and hunting down various animals in the wild. Equipped with a powerful sniper rifle, players must use their sharpshooting skills and keen instincts to take down their prey and earn money. The game features a range of different animals to hunt, from deer and rabbits to wolves and bears, each with their own unique behaviors and traits. Players will need to learn the habits of their quarry and use their knowledge of the terrain to get into position for the perfect shot. As players progress through the game and earn money from their kills, they can use their earnings to upgrade their weapons and equipment, giving them an edge in the hunt. From improved scopes and ammunition to more powerful rifles and hunting gear, players can customize their loadout to suit their play style and preferences. Animal Hunters also features a range of different environments to explore, from dense forests and grassy plains to rugged mountains and frozen tundras. Each environment presents its own challenges and opportunities, and players will need to adapt their tactics and approach to succeed. Overall, Animal Hunters offers a thrilling and immersive hunting experience, with stunning graphics, realistic animal behavior, and a wide range of customization options. Whether you're a seasoned hunter or a newcomer to the sport, this game is sure to provide hours of entertainment and excitement."
+        },
+        {
             "id": "find-animals-v",
             "title": "Find Animals V",
             "iframe": "https://html5.gamedistribution.com/a9245e6ad6e34d2a90085b4f46549344/",
