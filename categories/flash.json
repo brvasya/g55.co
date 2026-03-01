@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "samurai-flash",
+            "title": "Samurai Flash",
+            "iframe": "https://html5.gamedistribution.com/83553d6898b6436ebe9321dc632749d4/",
+            "description": "Challenge yourself in Samurai Flash with skill intensive stickman gameplay designed for progression. Take on elimination rounds while improving momentum management. Consistent mechanics make it easy to return and improve. Access Samurai Flash directly in your browser on G55.CO."
+        },
+        {
             "id": "tank-storm-4",
             "title": "Tank Storm 4",
             "iframe": "https://g55.co/wp-content/uploads/tank-storm-4.swf",

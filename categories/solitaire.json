@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "peg-solitaire-79134",
+            "title": "Peg Solitaire",
+            "iframe": "https://html5.gamedistribution.com/757a88beefc943348b573d512a75d996/",
+            "description": "Peg Solitaire is a classic puzzle game that challenges your mind with strategic thinking and planning. The goal is straightforward yet demanding: clear the board by jumping pegs over each other until only one peg remains. This timeless game offers various levels of difficulty to engage players of all skill levels. Whether you're a beginner or a seasoned strategist, Peg Solitaire provides a satisfying mental workout, making it a favorite for puzzle enthusiasts worldwide."
+        },
+        {
             "id": "jixora-jigsaw-solitaire-puzzle",
             "title": "Jixora – Jigsaw Solitaire Puzzle",
             "iframe": "https://html5.gamedistribution.com/c22dd33f66654986bf42e494c5934308/",
@@ -277,12 +283,6 @@
             "description": "Load King of FreeCell instantly and take on card focused solitaire challenges at your own pace. Smooth controls and clear feedback make every attempt satisfying. Take on tri peaks rounds while improving resource management. Play King of FreeCell online for free on G55.CO."
         },
         {
-            "id": "6-cards-to-win",
-            "title": "6 Cards To Win",
-            "iframe": "https://html5.gamedistribution.com/3385d58a438d44cd869d6c5b8aede1ae/",
-            "description": "Play 6 Cards To Win online and take on challenge packed solitaire challenges with clear objectives. Unlock fast browser access to 6 Cards To Win on G55.CO. Push further in challenge stages to advance resource management. Structured challenges encourage steady improvement."
-        },
-        {
             "id": "21-solitaire",
             "title": "21 Solitaire",
             "iframe": "https://html5.gamedistribution.com/7eb9064c218a491090ee39cb3778b7c9/",
@@ -329,12 +329,6 @@
             "title": "Hot Air Solitaire",
             "iframe": "https://html5.gamedistribution.com/98c1eaab1f97445491af14a52bda168a/",
             "description": "Push your limits in Hot Air Solitaire and take on strategic solitaire challenges instantly. Smooth controls and clear feedback make every attempt satisfying. Advance your precision control throughout freecell sessions. Experience Hot Air Solitaire instantly online for free at G55.CO."
-        },
-        {
-            "id": "reinarte-cards",
-            "title": "Reinarte Cards",
-            "iframe": "https://html5.gamedistribution.com/ab33078c48e64b91a5942a293732c276/",
-            "description": "Start Reinarte Cards online and enjoy brain focused solitaire gameplay that keeps you moving. Balanced mechanics reward thoughtful decisions. Advance your probability assessment throughout advanced layouts. Open Reinarte Cards on G55.CO and play online for free instantly."
         },
         {
             "id": "classic-klondike-solitaire",
@@ -389,12 +383,6 @@
             "title": "Solitaire Classic Games",
             "iframe": "https://html5.gamedistribution.com/4f9171ac050d49bb9bd53ce7d0c0680d/",
             "description": "Step into Solitaire Classic Games and enjoy skill focused solitaire gameplay focused on precision. Smooth controls and clear feedback make every attempt satisfying. Compete in freecell sessions to strengthen precision control. Start Solitaire Classic Games online for free on G55.CO and challenge yourself."
-        },
-        {
-            "id": "2048-cards",
-            "title": "2048 Cards",
-            "iframe": "https://html5.gamedistribution.com/823ae62e275a4b82a07a1d9d2272e7e4/",
-            "description": "Try 2048 Cards in your browser and experience classic solitaire sessions built for progress. This game is a strong choice for casual play while still rewarding skill. Jump into 2048 Cards online for free on G55.CO. Develop efficiency planning by competing in practice sessions."
         },
         {
             "id": "solitaire-master",
