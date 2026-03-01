@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "sniper-vs-zombies",
+            "title": "Sniper vs Zombies",
+            "iframe": "https://html5.gamedistribution.com/cede49b730094c53bd61198c2f6dc3c4/",
+            "description": "Test your reflexes in Sniper vs Zombies through high intensity zombie gameplay online. Take on Sniper vs Zombies online for free right now on G55.CO. Sharpen timing coordination through survival missions. Designed for smooth performance and fast loading in your browser."
+        },
+        {
             "id": "zombie-town-sniper",
             "title": "Zombie Town Sniper",
             "iframe": "https://games.g55.co/zombie-town-sniper.unity3d",

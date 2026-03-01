@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "animal-tower",
+            "title": "Animal Tower",
+            "iframe": "https://html5.gamedistribution.com/91efb0b724724df9933c7f3b49e560b1/",
+            "description": "Challenge yourself in Animal Tower with strategic tower-defense gameplay designed for progression. Access Animal Tower instantly and play online for free on G55.CO. The game is perfect for short sessions while still offering replayable depth. Enjoy multiplayer sessions and focus on decision making."
+        },
+        {
             "id": "wild-animal-hunting",
             "title": "Wild animal hunting",
             "iframe": "https://html5.gamedistribution.com/2d12e019394b41b4b46a49220b32bcfc/",

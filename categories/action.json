@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "ranger-action",
+            "title": "Ranger Action",
+            "iframe": "https://html5.gamedistribution.com/2608745abb3146f88b8781ffbfd3b0ff/",
+            "description": "Start playing Ranger Action now and dive into intense zombie challenges online. Responsive design keeps gameplay smooth across devices. Launch into Ranger Action now for free on G55.CO. Play through wave based battles and sharpen quick decision making."
+        },
+        {
             "id": "action-henk-demo",
             "title": "Action Henk Demo",
             "iframe": "https://games.g55.co/action-henk-demo.unity3d",
