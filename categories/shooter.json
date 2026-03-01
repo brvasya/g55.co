@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "insect-shooter",
+            "title": "Insect Shooter",
+            "iframe": "https://games.g55.co/insect-shooter.unity3d",
+            "description": "Insect Shooter is an action-packed game set in a remote and hostile planet that is infested with swarms of aggressive and dangerous insects. In this game, you assume the role of a space marine who has been sent on a mission to this planet, and you are the only one capable of facing this insect invasion. Your primary objective in this game is to shoot and eliminate all incoming insects while trying to survive as long as possible. The gameplay is intense and challenging, as you will have to use different types of weapons to deal with various insect types, each with their own unique abilities and strengths. The game's setting is an isolated and abandoned base on the red planet, where you must fight off endless waves of insects that are coming at you from all directions. The insects vary in size, shape, and ability, with some of them flying, crawling, or even burrowing underground. To succeed in Insect Shooter, you will need to use your skills and quick reflexes to dodge incoming attacks, choose the right weapon for the job, and conserve your ammo as much as possible. You will also have to navigate through the base's maze-like corridors and rooms while fending off swarms of insects. The game features multiple levels, each with its own unique challenges and obstacles, culminating in a final boss battle that will test your skills to the limit. With its fast-paced action, challenging gameplay, and stunning graphics, Insect Shooter is an exciting and adrenaline-fueled game that will keep you on the edge of your seat from start to finish."
+        },
+        {
             "id": "moorhuhn-pirates",
             "title": "Moorhuhn Pirates",
             "iframe": "https://html5.gamedistribution.com/3ceba4ca1f4445278513232043d103ae/",

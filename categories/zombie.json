@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "zombie-strike",
+            "title": "Zombie Strike",
+            "iframe": "https://games.g55.co/zombie-strike.unity3d",
+            "description": "Zombie Strike is a thrilling and intense survival game that plunges you into a world overrun by the undead. You find yourself trapped in a desolate farm, surrounded by a never-ending horde of zombies who crave your flesh. Your only goal is to stay alive for 10 long minutes, while using your wits and a massive arsenal of weapons to fight off the unrelenting zombie onslaught. In Zombie Strike, you'll have access to a wide variety of firearms and explosives to take out the zombies. From pistols and shotguns to assault rifles and grenades, every weapon in your arsenal can be upgraded and customized to help you survive the deadly waves of zombies. You'll need to use all of your tactical skills to carefully choose your weapons, ammo, and equipment to maximize your chances of survival. The farm is a sprawling and dangerous environment, with plenty of places for the zombies to ambush you. You'll need to stay on the move, using cover and obstacles to stay alive and avoid getting surrounded. But you won't be alone in your fight – you'll have allies to help you out, including fellow survivors and powerful AI-controlled soldiers who can provide cover fire and help you hold the line against the undead hordes. As the minutes tick by, the zombie attacks will only get more intense and more desperate. You'll need to stay focused and keep your cool under pressure if you want to make it to the end of the game. With stunning graphics and immersive sound effects, Zombie Strike will keep you on the edge of your seat as you fight for survival against an army of the undead."
+        },
+        {
+            "id": "soldier-zombie-hunting",
+            "title": "Soldier Zombie Hunting",
+            "iframe": "https://games.g55.co/soldier-zombie-hunting.unity3d",
+            "description": "Soldier Zombie Hunting is an action-packed game where players must use their skills and strategy to survive against waves of undead zombies. In this game, the player assumes the role of a skilled soldier tasked with protecting a helicopter from hordes of zombies. The game features a variety of weapons, each with its own unique attributes and abilities, which players can choose from to fight against the incoming zombie waves. As the waves progress, the zombies become more difficult to kill, requiring players to adapt and upgrade their weapons to stay alive. The objective of the game is to prevent the zombies from reaching the helicopter, which serves as the player's only means of escape. If the zombies manage to reach the helicopter, the game is over and the player must restart from the beginning. To successfully survive each wave of enemies, players must use their weapons strategically and conserve their ammunition. The game features various power-ups and upgrades that can be collected to enhance the player's performance and increase their chances of survival. Soldier Zombie Hunting offers a challenging and intense gaming experience, with fast-paced action and high-stakes gameplay. With its impressive graphics, engaging gameplay mechanics, and intuitive controls, this game is sure to provide hours of entertainment for zombie hunting enthusiasts."
+        },
+        {
             "id": "zombie-diary",
             "title": "Zombie Diary",
             "iframe": "https://games.g55.co/zombie-diary.unity3d",

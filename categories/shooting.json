@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "shooting-star",
+            "title": "Shooting Star",
+            "iframe": "https://games.g55.co/shooting-star.unity3d",
+            "description": "Shooting Star is an exciting archery game that requires precision and accuracy. In this game, the player must use their bow and arrows to shoot all the stars on the target range to complete each level successfully. The target range is set up with a variety of obstacles and challenges that make it more difficult to hit the stars. Some levels have moving targets, while others have stationary targets that are placed at different distances from the player. The player must carefully aim and adjust the power of their shot to hit each star accurately. As the player progresses through the levels, the difficulty increases, and they will encounter more obstacles and challenges. The game requires a steady hand, quick reflexes, and good aim to succeed. Overall, Shooting Star is a fun and challenging game that tests the player's archery skills. With its colorful graphics and engaging gameplay, it is sure to keep players entertained for hours on end."
+        },
+        {
             "id": "wild-west-gold-rush",
             "title": "Wild West: Gold Rush",
             "iframe": "https://html5.gamemonetize.games/t9behg99ms1vq4tjw2h5tf5lk2jjm6gt/",

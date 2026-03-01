@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "time-clickers",
+            "title": "Time Clickers",
+            "iframe": "https://games.g55.co/time-clickers.unity3d",
+            "description": "Time Clickers is a fast-paced shooting game that challenges players to take aim at a series of biospheres that appear on each level. Players use their trusty click pistol to shoot these targets and rack up points in order to win the game. The game is set in a futuristic world, with each level taking place in a different environment that is filled with obstacles and enemies. As players progress through the levels, they will encounter tougher targets and more challenging obstacles, making it essential to master their shooting skills and timing. In Time Clickers, players must balance their aim and speed in order to hit the targets and rack up points quickly. As the game progresses, players can earn power-ups and upgrades to their click pistol, allowing them to take on tougher challenges and reach even higher scores. Overall, Time Clickers is an addictive and challenging shooting game that requires skill, strategy, and quick reflexes. Whether you're a seasoned gamer or a newcomer to the genre, Time Clickers offers hours of fast-paced fun and endless replayability."
+        },
+        {
+            "id": "click-click-clicker",
+            "title": "Click Click Clicker",
+            "iframe": "https://html5.gamedistribution.com/dcd7af4a07514cdea7f7b7ca60537daf/",
+            "description": "Start playing Click Click Clicker online and enjoy performance optimized 3d gameplay with strong pacing. Compete in quick matches while refining performance consistency. Dive into Click Click Clicker without downloads on G55.CO. Simple to learn with challenges that reward improvement."
+        },
+        {
             "id": "find-the-intruder",
             "title": "Find the Intruder",
             "iframe": "https://html5.gamemonetize.games/9b1kjwz4qya40ukb5s8fg9v27oh90jmb/",

@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "omg-operation-machine-gun",
+            "title": "OMG Operation Machine Gun",
+            "iframe": "https://games.g55.co/omg-operation-machine-gun.unity3d",
+            "description": "OMG Operation Machine Gun is an action-packed shooting game that puts players in control of a powerful machine gun. The objective of the game is to survive as long as possible against hordes of incoming enemies and vehicles. As the player, you will need to use your quick reflexes, accurate aiming, and strategic use of grenades and power-ups to fend off the relentless onslaught of enemies. The game takes place in various intense environments, such as war-torn cities, desert landscapes, and industrial zones. The enemies come in various forms, ranging from foot soldiers armed with rifles to heavily armored tanks and helicopters. As you progress through the levels, the enemies become stronger and more challenging to defeat, requiring you to constantly adapt your strategies. To help you in your fight, there are a variety of power-ups scattered throughout the game. These can provide you with additional ammunition, health boosts, and other useful bonuses that can give you an edge over your enemies. Grenades can also be used to clear out large groups of enemies or take out tough-to-beat foes. OMG Operation Machine Gun is a thrilling shooting game that offers fast-paced, adrenaline-fueled gameplay. With its stunning graphics and immersive sound effects, players will feel like they are right in the middle of a warzone. Whether you're a fan of action-packed shooting games or just looking for an exciting way to pass the time, OMG Operation Machine Gun is sure to provide hours of thrilling entertainment."
+        },
+        {
+            "id": "gun-rider",
+            "title": "Gun Rider",
+            "iframe": "https://games.g55.co/gun-rider.unity3d",
+            "description": "Gun Rider is an adrenaline-fueled racing game that puts players in control of an armored offroad vehicle, as they navigate through a dangerous desert road. The objective of the game is to overcome all obstacles on the way and safely reach the finish line in order to win. Players must drive their vehicle through treacherous terrain, including steep inclines, sharp turns, and hazardous obstacles such as rocks, cacti, and other vehicles. The vehicle is equipped with a powerful machine gun, which players can use to blast their way through obstacles and take out enemy vehicles that attempt to block their path. The game features stunning 3D graphics and immersive sound effects that create an intense and engaging atmosphere. The gameplay is challenging, with players needing to use skillful driving and accurate shooting to overcome the obstacles and enemies that stand in their way. As players progress through the levels, the difficulty increases, with more challenging obstacles and enemies to overcome. The game also features various power-ups and upgrades that players can collect along the way, such as extra ammunition and improved armor, which can help them to complete the levels more easily. Overall, Gun Rider is an exciting and action-packed racing game that will test players' driving and shooting skills, as they race against the clock to reach the finish line and emerge victorious."
+        },
+        {
             "id": "desert-skeet",
             "title": "Desert Skeet",
             "iframe": "https://html5.gamedistribution.com/0b54705ec8cf47b8a377713b77efadb6/",

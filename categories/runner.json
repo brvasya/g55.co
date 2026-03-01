@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "teeth-runner",
+            "title": "Teeth Runner!",
+            "iframe": "https://html5.gamedistribution.com/8703ed76cd4c4d508187d6c094480315/",
+            "description": "Launch Teeth Runner! instantly and take on detail oriented 3d challenges in your browser. Well paced progression keeps every round engaging. Experience practice sessions with emphasis on map awareness. Experience Teeth Runner! for free on G55.CO."
+        },
+        {
             "id": "fruits-juice-runner",
             "title": "Fruits Juice Runner",
             "iframe": "https://html5.gamemonetize.games/32vfyhwp47yx2bybh3azqfih81n7fbhj/",

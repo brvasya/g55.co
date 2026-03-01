@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "rogue-shark-arcade",
+            "title": "Rogue Shark Arcade",
+            "iframe": "https://games.g55.co/rogue-shark-arcade.unity3d",
+            "description": "Rogue Shark Arcade is an exciting and thrilling arcade game that puts you in the role of a deadly shark on a mission to eat everything in your path and collect powerful upgrades to survive and travel the longest distance possible. The game is designed to keep you on the edge of your seat as you explore the depths of the ocean and encounter a variety of different obstacles and challenges. As the rogue shark, you have the power to swim at incredible speeds and launch devastating attacks on unsuspecting prey. Your ultimate goal is to eat as many fish, divers, and other sea creatures as possible to increase your score and move further along in the game. You'll need to stay sharp, though, as there are other predators lurking in the waters that can pose a serious threat to your survival. In addition to eating and attacking, you can also collect various power-ups that will help you along your journey. These can include things like extra health, speed boosts, and invincibility shields, which can give you an edge when facing tougher opponents or navigating tricky environments. As you progress through the game, you'll encounter increasingly difficult challenges and obstacles that will test your skills and strategy. You'll need to use your wits and your speed to avoid dangerous mines, navigate through narrow passages, and outmaneuver aggressive predators that are looking to take you down. Overall, Rogue Shark Arcade is a fast-paced and exciting arcade game that is sure to keep you entertained for hours on end. With its thrilling gameplay, stunning graphics, and addictive soundtrack, it's the perfect game for anyone looking to experience the thrill of being a deadly predator in the depths of the ocean."
+        },
+        {
             "id": "ball-wall",
             "title": "Ball Wall",
             "iframe": "https://html5.gamedistribution.com/05b0549af3364182a6f20094b7b21626/",

@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "bike-rivals",
+            "title": "Bike Rivals",
+            "iframe": "https://games.g55.co/bike-rivals.unity3d",
+            "description": "Bike Rivals is an exciting and challenging racing game where you ride your dirtbike on treacherous mountain roads filled with obstacles and traps. The game features stunning graphics and realistic physics that will test your skills as a rider. As you navigate through each level, you must overcome various obstacles such as steep hills, sharp turns, and dangerous jumps. You will also encounter traps such as spikes, bombs, and other hazards that you must avoid in order to reach the finish line. The game offers a range of bikes to choose from, each with their own unique characteristics, such as speed, handling, and durability. You can also upgrade your bike's performance by collecting coins and other rewards scattered throughout the levels. With dozens of levels to complete, each with its own unique challenges, Bike Rivals is sure to keep you entertained for hours. So hop on your dirtbike and take on the mountain roads, but be careful not to crash or get caught in any traps along the way!"
+        },
+        {
+            "id": "bike-ride-parking-game",
+            "title": "Bike Ride Parking Game",
+            "iframe": "https://html5.gamedistribution.com/7feb84382a634f62a9e322e315948b4d/",
+            "description": "Push your limits in Bike Ride Parking Game and take on high fidelity 3d challenges instantly. Perfect for short sessions while still offering replayable depth. Build decision making through consistent practice in strategy rounds. Challenge yourself in Bike Ride Parking Game on G55.CO."
+        },
+        {
             "id": "stunt-bike-rider-bros",
             "title": "Stunt Bike Rider Bros",
             "iframe": "https://html5.gamedistribution.com/d8a38a68810146fb99594ae0e0b96645/",
