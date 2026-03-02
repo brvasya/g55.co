@@ -16,15 +16,7 @@ if (!isset($_GET['c']) || !isset($_GET['p'])) {
 $categoryRaw = trim((string)$_GET['c']);
 $categoryRaw = strtolower($categoryRaw);
 $categoryMap = [
-'tower'      => 'tower-defense',
-'defence'    => 'tower-defense',
-'amongus'    => 'among-us',
-'2players'   => '2-player',
-'cards'      => 'card',
-'jewels'     => 'bejeweled',
-'squidgame'  => 'squid-game',
 'boardgames' => 'board',
-'guns'       => 'gun',
 'mahjong & connect' => 'mahjong',
 'racing & driving'  => 'racing',
 ];
