@@ -64,7 +64,7 @@ function make_id_from_title(string $title, string $suffix = ''): string {
 }
 
 function pick_iframe(array $item): string {
-    return str_replace('html5.gamemonetize.com', 'html5.gamemonetize.games', $item['url']);
+    return str_replace('html5.gamemonetize.co', 'html5.gamemonetize.games', $item['url']);
 }
 
 function pick_thumb(array $item): string {
