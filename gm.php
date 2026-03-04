@@ -368,8 +368,16 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
 
     list($catJson, $st) = read_json_file($categoryFile);
 
+    if ($st === "file_not_found") {
+        @flock($lockFp, LOCK_UN);
+        @fclose($lockFp);
+        return [false, "category_file_not_found", 0, 0];
+    }
+
     if (!is_array($catJson)) {
-        $catJson = ["pages" => []];
+        @flock($lockFp, LOCK_UN);
+        @fclose($lockFp);
+        return [false, $st, 0, 0];
     }
 
     $pages = extract_pages_array($catJson);
@@ -452,6 +460,17 @@ if (!array_is_list($items)) {
 
 $categoryFile = __DIR__ . '/categories/' . $category . '.json';
 list($categoryJson, $categoryReadStatus) = read_json_file($categoryFile);
+
+if ($categoryReadStatus === "file_not_found") {
+    http_response_code(404);
+    echo json_encode([
+        "ok" => false,
+        "error" => "category_file_not_found",
+        "category" => $category,
+        "category_file" => $categoryFile
+    ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    exit;
+}
 
 $existingPages = [];
 if (is_array($categoryJson)) $existingPages = extract_pages_array($categoryJson);
