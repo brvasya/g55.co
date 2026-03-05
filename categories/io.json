@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "2048-mayhem-io",
+            "title": "2048 Mayhem.io",
+            "iframe": "https://html5.gamedistribution.com/055561e9c9da4e69b8a724d06500fdd6/",
+            "description": "Launch 2048 Mayhem.io instantly and take on real time io challenges in your browser. Quick to load with gameplay that stays engaging session after session. Focus on pressure handling while taking on speed rounds. Experience 2048 Mayhem.io for free on G55.CO."
+        },
+        {
             "id": "draw-lines-io",
             "title": "draw lines.io",
             "iframe": "https://html5.gamemonetize.games/c9mw59zzrbnc1zdmcbcxypmfqlqxiueq/",
