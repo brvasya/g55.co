@@ -327,7 +327,7 @@ class CategorizerApp(tk.Tk):
             id_tokens = tokenize_slug(gid)
             id_tokens = maybe_singularize_tokens(id_tokens, plural_enabled)
 
-            if current_tokens and find_all_subseq_positions(id_tokens, current_tokens):
+            if current_slug != "3d" and current_tokens and find_all_subseq_positions(id_tokens, current_tokens):
                 skipped_self += 1
                 continue
 

@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "sniper-training-3d",
+            "title": "Sniper Training 3D",
+            "iframe": "https://games.g55.co/sniper-training-3d.unity3d",
+            "description": "Sniper Training 3D is an engaging and challenging shooting game that is designed to test and improve your sniper shooting skills. In this game, you will take on the role of a highly skilled sniper and your mission is to hit all the targets within a specified time limit. Each level will present you with a new set of targets that you must hit in order to progress to the next level. The game is set in a 3D environment, which adds to the realism and immersion of the gameplay. You will be equipped with a powerful sniper rifle and you must use your accuracy and precision to hit each target with a single shot. The game features a range of different targets, including stationary objects, moving targets, and even targets that are partially obscured by obstacles. As you progress through the levels, the difficulty will increase, with targets becoming smaller and more difficult to hit. You will also be required to shoot from different positions, including standing, crouching, and prone. Additionally, you will have to take into account external factors such as wind speed and direction, which will affect the trajectory of your bullet. Sniper Training 3D is a great game for anyone who enjoys shooting games and wants to improve their sniper skills. With its realistic graphics, challenging gameplay, and variety of targets, it is sure to provide hours of entertainment and excitement. Whether you are a beginner or an experienced sniper, this game will test your skills and help you become a better marksman."
+        },
+        {
+            "id": "sniper-sim-3d",
+            "title": "Sniper Sim 3D",
+            "iframe": "https://games.g55.co/sniper-sim-3d.unity3d",
+            "description": "Sniper Sim 3D is an exciting and challenging shooting game that focuses on honing your sniper rifle skills. In this game, you play as a skilled sniper who must complete various levels by hitting all the targets within a specified time frame. Each level becomes progressively more difficult, with more targets to hit and less time to do it in. The game features realistic 3D graphics that make you feel like you're really on a shooting range. You can choose from a variety of sniper rifles, each with their own unique attributes, such as range and accuracy, to help you complete the levels. The game also includes wind and distance calculations, which make the game even more challenging. As you progress through the game, you'll encounter different types of targets, each with their own behavior and movement patterns. Some targets may be stationary, while others move around, making it even more challenging to hit them accurately. You'll need to be quick and accurate if you want to complete each level and earn a high score. Overall, Sniper Sim 3D is a thrilling and addictive shooting game that will test your sniping skills and keep you entertained for hours. Whether you're a seasoned sniper or just starting, this game is sure to provide hours of fun and excitement."
+        },
+        {
             "id": "block-sniper",
             "title": "Block Sniper",
             "iframe": "https://html5.gamedistribution.com/c458262283b944e3b57c8a26b241a0fc/",
