@@ -18,6 +18,9 @@ $categoryRaw = strtolower($categoryRaw);
 $categoryMap = [
 'cards'      => 'card',
 'boardgames' => 'board',
+'art'        => 'casual',
+'agility'    => 'casual',
+'care'       => 'casual',
 'mahjong & connect' => 'mahjong',
 'racing & driving'  => 'racing',
 ];
