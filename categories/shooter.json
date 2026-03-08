@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "zindex",
+            "title": "Zindex",
+            "iframe": "https://html5.gamedistribution.com/a084e6ab82f9420bbe89bbe5c1b150fc/",
+            "description": "Launch Zindex instantly and take on dynamic shooter challenges in your browser. Experience tactical missions with emphasis on target tracking. Consistent mechanics make it easy to return and improve. Begin your next session of Zindex on G55.CO."
+        },
+        {
             "id": "aircraft-shooter",
             "title": "Aircraft Shooter",
             "iframe": "https://html5.gamemonetize.games/3ca2r07eyx8wxpelwwit1uvpept15p5o/",
