@@ -62,6 +62,32 @@ def save_json_file(path: str, pages: list, wrapper):
         json.dump(payload, f, ensure_ascii=False, indent=4)
 
 
+def category_keyword_from_filename(name: str) -> str:
+    name = os.path.splitext((name or "").strip())[0]
+    return name.lower().replace("-", " ").strip()
+
+
+def count_title_keyword_matches(pages, keyword: str) -> int:
+    keyword = (keyword or "").strip().lower().replace("-", " ")
+    if not keyword:
+        return 0
+
+    count = 0
+    for it in pages:
+        title = str(it.get("title", "")).strip().lower()
+        if keyword in title:
+            count += 1
+    return count
+
+
+def title_matches_keyword(title: str, keyword: str) -> bool:
+    keyword = (keyword or "").strip().lower().replace("-", " ")
+    title = (title or "").strip().lower()
+    if not keyword:
+        return False
+    return keyword in title
+
+
 class JsonGui(tk.Tk):
     def __init__(self):
         super().__init__()
@@ -200,6 +226,17 @@ class JsonGui(tk.Tk):
     def set_status(self, text: str):
         self.status_var.set(text)
 
+    def update_page_match_status(self, prefix: str = ""):
+        file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
+        keyword = category_keyword_from_filename(file_name)
+        total = len(self.pages)
+        matched = count_title_keyword_matches(self.pages, keyword)
+
+        if prefix:
+            self.set_status(f"{prefix}  Pages: {total} ({matched} matched)")
+        else:
+            self.set_status(f"Pages: {total} ({matched} matched)")
+
     def refresh_category_list(self):
         current_name = os.path.basename(self.current_file) if self.current_file else ""
         self.cat_listbox.delete(0, tk.END)
@@ -271,7 +308,7 @@ class JsonGui(tk.Tk):
             self.refresh_list()
             self.new_template()
             self.update_move_dropdown()
-            self.set_status(f"Loaded {len(self.pages)} pages")
+            self.update_page_match_status("Loaded")
         except Exception as e:
             self.pages = []
             self.wrapper = None
@@ -296,7 +333,7 @@ class JsonGui(tk.Tk):
             with open(self.current_file, "w", encoding="utf-8") as f:
                 json.dump(payload, f, ensure_ascii=False, indent=4)
 
-            self.set_status(f"Auto saved ({len(self.pages)} pages)")
+            self.set_status("Auto saved")
             return True
         except Exception:
             self.set_status("Save failed")
@@ -307,9 +344,16 @@ class JsonGui(tk.Tk):
 
     def refresh_list(self):
         self.listbox.delete(0, tk.END)
-        for it in self.pages:
+
+        file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
+        keyword = category_keyword_from_filename(file_name)
+
+        for idx, it in enumerate(self.pages):
             label = it.get("title") or it.get("id") or "(empty)"
             self.listbox.insert(tk.END, label)
+
+            if not title_matches_keyword(it.get("title", ""), keyword):
+                self.listbox.itemconfig(idx, bg="#ffe5e5", fg="#a00000")
 
     def read_form(self):
         return {
@@ -329,7 +373,7 @@ class JsonGui(tk.Tk):
     def new_template(self):
         self.selected_index = None
         self.write_form(TEMPLATE.copy())
-        self.set_status(f"New page (loaded {len(self.pages)} pages)")
+        self.update_page_match_status("New page")
 
     def find_duplicate_id(self, page_id, ignore_index=None):
         for idx, it in enumerate(self.pages):
@@ -347,7 +391,7 @@ class JsonGui(tk.Tk):
         self.listbox.see(idx)
         self.selected_index = idx
         self.write_form(self.pages[idx])
-        self.set_status(f"Selected page {idx + 1} of {len(self.pages)}")
+        self.update_page_match_status(f"Selected page {idx + 1} of {len(self.pages)}")
 
     def search_by_title(self):
         title_query = self.search_title_var.get().strip().lower()
@@ -428,7 +472,7 @@ class JsonGui(tk.Tk):
             self.refresh_list()
             self.new_template()
             self.update_move_dropdown()
-            self.set_status(f"Moved id {page_id} to {target_name}")
+            self.update_page_match_status(f"Moved id {page_id} to {target_name}")
             messagebox.showinfo("Moved", f"Moved:\n{page_id}\n\nTo:\n{target_name}")
         except Exception as e:
             messagebox.showerror("Move failed", f"Could not move page:\n{e}")
@@ -447,16 +491,13 @@ class JsonGui(tk.Tk):
 
         self.pages.insert(0, it)
         self.refresh_list()
-        self.listbox.selection_clear(0, tk.END)
-        self.listbox.selection_set(0)
-        self.listbox.see(0)
-        self.selected_index = 0
+        self.goto_index(0)
 
         if not self.autosave():
             messagebox.showerror("Auto save failed", "Could not auto save after add.")
             return
 
-        self.set_status(f"Added and auto saved, total {len(self.pages)} pages")
+        self.update_page_match_status("Added and auto saved")
 
     def update_page(self):
         if self.selected_index is None:
@@ -476,15 +517,13 @@ class JsonGui(tk.Tk):
         self.pages[self.selected_index] = it
         keep = self.selected_index
         self.refresh_list()
-        self.listbox.selection_set(keep)
-        self.listbox.see(keep)
-        self.selected_index = keep
+        self.goto_index(keep)
 
         if not self.autosave():
             messagebox.showerror("Auto save failed", "Could not auto save after update.")
             return
 
-        self.set_status(f"Updated and auto saved, total {len(self.pages)} pages")
+        self.update_page_match_status("Updated and auto saved")
 
     def delete_page(self):
         if self.selected_index is None:
@@ -505,7 +544,7 @@ class JsonGui(tk.Tk):
             messagebox.showerror("Auto save failed", "Could not auto save after delete.")
             return
 
-        self.set_status(f"Deleted and auto saved, total {len(self.pages)} pages")
+        self.update_page_match_status("Deleted and auto saved")
 
     def pick_from_list(self):
         sel = self.listbox.curselection()
@@ -515,7 +554,7 @@ class JsonGui(tk.Tk):
         if idx < len(self.pages):
             self.selected_index = idx
             self.write_form(self.pages[idx])
-            self.set_status(f"Selected page {idx + 1} of {len(self.pages)}")
+            self.update_page_match_status(f"Selected page {idx + 1} of {len(self.pages)}")
 
 
 if __name__ == "__main__":
