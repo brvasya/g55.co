@@ -19,6 +19,7 @@ $categoryMap = [
 '1'          => 'io',
 '2'          => '2-player',
 '3'          => '3d',
+'bejeweled'  => 'jewel',
 'hypercasual'=> 'casual',
 'boys'       => 'casual',
 'puzzles'    => 'puzzle',
