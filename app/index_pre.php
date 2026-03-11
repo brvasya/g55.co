@@ -54,7 +54,7 @@ if ($hasC) {
 
   list($_, $pages) = load_category_pages($cid);
 
-  $pager = category_pages_pagination($pages, 64, 'p');
+  $pager = category_pages_pagination($pages, 96, 'p');
   $pageNum = $pager['page'];
 
   $canonical = category_url($cid);
