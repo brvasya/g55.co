@@ -11,7 +11,7 @@ foreach ($categories as $c) {
   $catMap[$c['id']] = $c;
 }
 
-function category_pages_pagination(array $allPages, int $perPage = 64, string $pageParam = 'p'): array {
+function category_pages_pagination(array $allPages, int $perPage = 96, string $pageParam = 'p'): array {
   $totalItems = count($allPages);
   $totalPages = max(1, (int) ceil($totalItems / $perPage));
 
