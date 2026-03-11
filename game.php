@@ -35,10 +35,10 @@
 </article>
 <nav class="pagination">
 <?php if ($prevUrl): ?>
-<a class="tag" href="<?php echo h($prevUrl) ?>">Prev Game</a>
+<a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
 <?php endif; ?>
 <?php if ($nextUrl): ?>
-<a class="tag" href="<?php echo h($nextUrl) ?>">Next Game</a>
+<a class="tag" href="<?php echo h($nextUrl); ?>">Next: <?php echo h($nextTitle); ?></a>
 <?php endif; ?>
 </nav>
 <section>

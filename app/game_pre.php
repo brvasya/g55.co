@@ -67,6 +67,10 @@ $nextPage = null;
 $prevUrl = null;
 $nextUrl = null;
 
+function get_nav_game_title(?array $page): string {
+  return trim((string)($page['title']));
+}
+
 if ($pageIndex !== -1) {
   if ($pageIndex > 0) {
     $prevPage = $pages[$pageIndex - 1];
@@ -78,6 +82,9 @@ if ($pageIndex !== -1) {
     $nextUrl = '/game.php?id=' . rawurlencode($nextPage['id']) . '&c=' . rawurlencode($cid);
   }
 }
+
+$prevTitle = get_nav_game_title($prevPage);
+$nextTitle = get_nav_game_title($nextPage);
 
 $pool = [];
 foreach ($pages as $p) {
