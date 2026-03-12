@@ -57,7 +57,7 @@ def slug_from_filename(fn: str) -> str:
 
 
 def tokenize_slug(s: str) -> list[str]:
-    s = (s or "").strip().lower()
+    s = (s or "").strip().lower().replace("-", " ")
     parts = []
     cur = ""
     for ch in s:
@@ -103,7 +103,7 @@ def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[
     hits = []
     k = len(key_tokens)
     for i in range(0, len(tokens) - k + 1):
-        if tokens[i : i + k] == key_tokens:
+        if tokens[i:i + k] == key_tokens:
             hits.append(i)
     return hits
 
@@ -321,13 +321,14 @@ class CategorizerApp(tk.Tk):
 
         for page in self.current_pages:
             gid = page.get("id", "")
-            if not gid:
+            title = page.get("title", "")
+            if not title:
                 continue
 
-            id_tokens = tokenize_slug(gid)
-            id_tokens = maybe_singularize_tokens(id_tokens, plural_enabled)
+            title_tokens = tokenize_slug(title)
+            title_tokens = maybe_singularize_tokens(title_tokens, plural_enabled)
 
-            if current_slug != "3d" and current_tokens and find_all_subseq_positions(id_tokens, current_tokens):
+            if current_slug != "3d" and current_tokens and find_all_subseq_positions(title_tokens, current_tokens):
                 skipped_self += 1
                 continue
 
@@ -340,7 +341,7 @@ class CategorizerApp(tk.Tk):
                 if len(kt) < min_tokens:
                     continue
 
-                hits = find_all_subseq_positions(id_tokens, kt)
+                hits = find_all_subseq_positions(title_tokens, kt)
                 if not hits:
                     continue
 
@@ -361,7 +362,7 @@ class CategorizerApp(tk.Tk):
             self.tree.insert(
                 "",
                 "end",
-                values=(gid, page.get("title", ""), best["slug"], best["file"], str(best_score)),
+                values=(gid, title, best["slug"], best["file"], str(best_score)),
             )
             candidates += 1
 

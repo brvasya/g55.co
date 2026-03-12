@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "colorsforms",
+            "title": "Colors&Forms",
+            "iframe": "https://html5.gamedistribution.com/7bd113a339b0492baac80d9416889c45/",
+            "description": "Get ready for fast-paced, colorful fun in Colors&Forms! This dynamic game lets you dive into a vibrant world of puzzles where each level is a visual delight. You’ll need quick thinking and swift reflexes as you navigate through different game modes, each one offering its own unique set of challenges. The core objective is to interact with the objects that appear on the screen, whether they’re falling pieces or interactive elements, all while completing missions and passing levels. The levels change in color palettes, making each stage feel fresh and exciting.\r\n\r\nAs you progress, the game introduces more complex mechanics and elements that will test your skills and timing. Some levels include falling objects that you must catch, dodge, or interact with in specific ways, making the gameplay constantly evolving. To keep things interesting, the levels differ not only in their color schemes but also in the type of puzzles and obstacles you’ll face. Whether you're matching shapes, completing patterns, or simply surviving the chaos, Colors&Forms always keeps you on your toes.\r\n\r\nAfter accumulating enough pieces from the various challenges, you'll unlock Infinity mode, which allows you to keep playing without the constraints of levels. Here, you can choose your favorite stage and continue collecting pieces to outscore your opponents. Whether you’re competing for the highest score or just enjoying the colorful puzzles, Colors&Forms offers a dynamic experience for puzzle lovers and casual gamers alike. How fast can you complete each stage and collect all the pieces? Dive into this endless puzzle adventure and find out!"
+        },
+        {
             "id": "color-water-trucks",
             "title": "Color Water Trucks",
             "iframe": "https://html5.gamedistribution.com/8e3c014192594a67a4b6d1280cf3634b/",
