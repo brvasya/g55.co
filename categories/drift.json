@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "arcade-drift",
+            "title": "Arcade Drift",
+            "iframe": "https://html5.gamemonetize.games/z177dg23eabh9otwx6cyydy7h97c63z6/",
+            "description": "Arcade Drift is an exciting racing game that brings the thrill of drifting to your fingertips. With multiple cars to choose from and two unique environments, this game offers players the chance to test their drifting skills in a variety of exciting tracks. The fun drift physics add a layer of challenge and enjoyment, allowing you to slide around corners with precision while maintaining control of your car. Whether you're drifting through city streets or winding country roads, the game provides an adrenaline-filled experience that’s both engaging and satisfying.\r\n\r\nThe controls are designed to be easy to learn but challenging to master, making it perfect for both casual players and experienced racers. As you progress, you can unlock more cars and upgrade them to enhance their performance, making each drift even more thrilling. The vibrant graphics and smooth animations ensure that every race is visually stunning, while the dynamic environments offer a variety of obstacles and turns to keep you on your toes.\r\n\r\nArcade Drift is a perfect game for those who love fast-paced, action-packed racing with a focus on skillful drifting. With its combination of fun physics, customizable cars, and exciting environments, it provides hours of entertainment for racing enthusiasts looking for a high-energy challenge."
+        },
+        {
             "id": "police-chase-drifter",
             "title": "Police Chase Drifter",
             "iframe": "https://html5.gamedistribution.com/854f498c48134cbb9da539efabf1e7f2/",
