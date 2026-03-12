@@ -103,12 +103,8 @@ a, a:visited {
     border-radius: 5px;
     background-color: #222;
     overflow: hidden;
-    cursor: pointer;
     text-align: justify;
     white-space: pre-line;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
 }
 .description.c {
     width: calc(100% - 175px);
@@ -116,9 +112,6 @@ a, a:visited {
     background-size: 50px;
     background-repeat: no-repeat;
     background-position: left;
-}
-.description.exp {
-    -webkit-line-clamp: unset;
 }
 .tower_l {
     width: 160px;
