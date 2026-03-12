@@ -15,13 +15,7 @@ if (!isset($_GET['c'])) {
 
 $categoryRaw = trim((string)$_GET['c']);
 $categoryMap = [
-'1'          => 'io',
-'2'          => '2-player',
-'3'          => '3d',
-'bejeweled'  => 'jewel',
-'hypercasual'=> 'casual',
 'All'        => 'casual',
-'puzzles'    => 'puzzle',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
 $category = str_replace(' ', '-', $category);
