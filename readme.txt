@@ -1,203 +1,181 @@
-# G55.CO POOL PRODUCTION RULES v2
+CATEGORY DESCRIPTION GENERATOR RULE
 
-Architecture: Option B  
-Description built from rotating pattern:
-intro → usage → ease → benefit
+Goal
+Generate a handcrafted AI written category description for G55.CO in a style similar to top browser game portals.
 
-All segments must be standalone and order independent.
+Input Variables
+- Category name: {CATEGORY_NAME}
+- Category type: {CATEGORY_TYPE}
+- Audience: casual gamers, teens, kids, desktop players
+- Tone: friendly, expert, concise, natural
 
-────────────────────────────────
+Output Structure
+1. One intro paragraph
+2. One "Key Features" section
+3. 4 to 6 bullet points
 
-## OPENERS POOL
+Main Writing Rules
+- Write exactly 1 paragraph before the feature list
+- Paragraph length should be 60 to 90 words
+- Make it sound like a human gaming editor, not a template
+- Explain what players do in this category
+- Explain why this category is fun or appealing
+- Mention gameplay mechanics naturally
+- Keep keyword use natural, no stuffing
+- Use simple, clean language
+- Make the text suitable for a browser games portal
+- Do not use bold text
+- Do not use dashes in prose
+- Keep the tone informative, not salesy
 
-✔ Full standalone sentences  
-✔ Must include {title}  
-✔ Use: {adj} {category} gameplay/action/challenges/combat/sessions  
-✔ No articles before {adj}  
-✔ No singular nouns like “game” or “adventure” after {adj}  
-✔ Must end with period  
+Key Features Rules
+- Title must be exactly: Key Features
+- Include 4 to 6 bullet points
+- Each bullet should be short and specific
+- Focus on gameplay mechanics, player experience, and category traits
+- Avoid generic claims like "fun gameplay" or "great graphics"
+- Avoid repeating the category name in every bullet
 
-Forbidden  
-✘ a {adj} {category} game  
-✘ pronoun dependent sentences  
-✘ “this game” or “it offers”  
+Do Not Use
+- "best games"
+- "ultimate collection"
+- "wide variety of games"
+- "something for everyone"
+- "hours of fun"
+- "endless fun"
+- exaggerated marketing tone
+- obvious SEO filler
+- robotic phrasing
+- empty adjectives without meaning
 
-────────────────────────────────
+Category Type Guidance
+Use the category type to shape the paragraph naturally
 
-## ADJECTIVES POOL
+- Genre
+  Focus on core gameplay loop and player goals
+  Examples: Adventure, Strategy, Puzzle, Survival
 
-✔ Lowercase only  
-✔ No articles  
-✔ No punctuation  
-✔ Must work with gameplay/action/challenges/combat  
-✔ No singular noun dependency  
-✔ No near duplicates unless intentionally weighted  
-✔ Category adjectives must not contain the exact category keyword as a whole word
+- Mechanic
+  Focus on actions and systems
+  Examples: Match 3, Clicker, Platform, FPS, Tower Defense
 
-Minimum per category: 20
+- Theme
+  Focus on setting, characters, fantasy, or visual identity
+  Examples: Zombie, Princess, Monster, Space, Noob
 
-────────────────────────────────
+- Vehicle
+  Focus on control, speed, precision, and simulation
+  Examples: Car, Racing, Drift, Parking, Truck
 
-## MODES POOL
+- Classic
+  Focus on timeless gameplay and familiar rules
+  Examples: Chess, Sudoku, Solitaire, Mahjong, Snake
 
-✔ Noun phrases only  
-✔ No verbs  
-✔ No punctuation  
-✔ Prefer plural or mass nouns  
-✔ Must work in:
-  Enjoy {mode}.
-  Take on {mode}.
-  Compete in {mode}.
-  Play through {mode}.
+- Kids / Casual
+  Focus on accessible play, colorful design, and relaxed gameplay
+  Examples: Coloring, Baby, Cooking, Doctor, Dress Up
 
-✔ Must not require article
+Style Model
+Write like a concise editor for a large gaming portal.
+The paragraph should feel handcrafted, readable, and category specific.
 
-Minimum per category: 20
+Preferred Output Format
 
-────────────────────────────────
+{PARAGRAPH}
 
-## SKILLS POOL
+Key Features
 
-✔ Noun phrases only  
-✔ Must work in:
-  focus on {skill}
-  improve {skill}
-  sharpen {skill}
-  strengthen {skill}
-  build {skill}
+• feature
+• feature
+• feature
+• feature
 
-✔ No verbs  
-✔ No punctuation  
-✔ No article dependency  
+Quality Check Before Output
+- Is the paragraph 60 to 90 words?
+- Does it describe the category clearly?
+- Does it avoid filler and keyword stuffing?
+- Do the bullets feel specific to the category?
+- Does it sound natural and portal ready?
 
-Minimum per category: 20
 
-────────────────────────────────
+INDIVIDUAL GAME DESCRIPTION GENERATOR RULE
 
-## USAGE TEMPLATES (GLOBAL)
+Goal
+Generate a handcrafted AI written description for a single browser game on G55.CO.
+The description must feel editorial, natural, and specific to the game, similar to top portals.
 
-✔ Must contain both {mode} and {skill}  
-✔ Standalone sentence  
-✔ Must not assume genre  
-✔ Must not introduce articles before placeholders  
-✔ Must remain compatible with all modes and skills  
-✔ Keep single clause depth only  
+Input Variables
+- Game title: {GAME_TITLE}
+- Primary category: {CATEGORY}
+- Core mechanic: {MECHANIC}
+- Theme or setting: {THEME}
+- Player goal: {GOAL}
+- Target audience: casual gamers, teens, kids
 
-Must include:
-✔ Mode-first structures  
-✔ Skill-first structures  
-✔ Prepositional variation (during, through, in, throughout, while, by)
+Output Structure
+1. One intro paragraph
+2. One "Key Features" section
+3. 3 to 5 bullet points
 
-Minimum: 20
+Main Writing Rules
+- Write exactly 1 paragraph before the feature list
+- Paragraph length should be 40 to 70 words
+- Describe what the player actually does in this game
+- Mention the core mechanic naturally
+- Mention the theme or setting if relevant
+- Explain the main objective or challenge
+- Keep language simple, clear, and human
+- Avoid repeating the game title excessively
+- Do not use bold text
+- Do not use dashes in prose
+- Do not use filler or generic marketing tone
 
-────────────────────────────────
+Key Features Rules
+- Title must be exactly: Key Features
+- Include 3 to 5 bullet points
+- Each bullet must reflect real gameplay elements
+- Focus on mechanics, progression, controls, challenge, or mode
+- Avoid generic bullets like "fun gameplay" or "great graphics"
+- Do not repeat the same structure for every game
 
-## VALUE PROPS (GLOBAL)
+Do Not Use
+- "best game"
+- "ultimate experience"
+- "hours of fun"
+- "amazing graphics"
+- "exciting adventure" without specifics
+- obvious SEO stuffing
+- template sounding phrases
+- vague statements without gameplay meaning
 
-✔ Standalone sentence  
-✔ No {title}  
-✔ No brand  
-✔ No category mention  
-✔ Must end with period  
-✔ Genre neutral  
+Style Guidance
+- Write like a concise gaming portal editor
+- Prioritize clarity over hype
+- Make each description feel unique
+- Reflect the specific gameplay loop
+- Prefer concrete verbs such as jump, shoot, build, match, drive, manage
 
-Minimum: 20
+Optional Variation Rule
+If the game has progression or modes, you may include a short second sentence about:
+- level progression
+- score system
+- upgrades or unlocks
+- survival duration
 
-────────────────────────────────
+Preferred Output Format
 
-## CTA (GLOBAL)
+{PARAGRAPH}
 
-✔ Standalone sentence  
-✔ Must include {title}  
-✔ Must include G55.CO  
-✔ Must end with period  
-✔ Maintain verb diversity  
-✔ Avoid structural duplication  
+Key Features
 
-Minimum: 20
+• feature
+• feature
+• feature
+• feature
 
-────────────────────────────────
-
-## PATTERN RULES
-
-Allowed rotations:
-
-1. intro → usage → ease → benefit  
-2. intro → usage → benefit → ease  
-3. intro → ease → usage → benefit  
-4. intro → ease → benefit → usage  
-5. intro → benefit → usage → ease  
-6. intro → benefit → ease → usage  
-
-Requirements:
-
-✔ Intro always first  
-✔ All segments standalone  
-✔ No pronoun dependency  
-✔ No order dependency  
-✔ Description must read naturally in any allowed order  
-
-────────────────────────────────
-
-## CATEGORY ISOLATION RULE
-
-✔ Category pools must not contain cross-genre terminology  
-✔ No mixing racing terms in puzzle pool  
-✔ No mixing survival terms in sports pool  
-✔ Global pools must remain genre neutral  
-
-────────────────────────────────
-
-## SCALE SAFETY RULES
-
-✔ No structural drift when expanding pools  
-✔ No mixing sentence fragments with full sentences  
-✔ No mixing noun phrases with verb phrases  
-✔ No silent grammar pattern changes  
-
-✔ Review pools every 10k pages generated  
-
-────────────────────────────────
-
-## SEMANTIC REPETITION CONTROL
-
-✔ Avoid duplicates  
-✔ Avoid excessive same-root word repetition  
-✔ Expand pools in batches of 5+ entries  
-✔ Re-test 10 random combinations after any update  
-
-────────────────────────────────
-
-## URL & CANONICAL SAFETY
-
-✔ Game identity must not depend on category parameter  
-✔ Canonical must be stable and unique  
-✔ Page 1 category canonical must normalize  
-✔ No duplicate URL paths  
-
-────────────────────────────────
-
-## FUTURE PROOFING CHECK
-
-Before approving any new pool entry:
-
-1. Test with 5 random usage templates  
-2. Test with 5 random modes  
-3. Test with 5 random skills  
-4. Test across all pattern rotations  
-
-If any combination sounds unnatural → reject.
-
-────────────────────────────────
-
-## DEPLOYMENT RULE
-
-All pools must exist.  
-No empty lines.  
-No article conflicts.  
-All segments standalone.  
-All pattern rotations safe.
-
-When all conditions pass:
-
-Production Locked.
+Quality Check Before Output
+- Is the paragraph specific to THIS game?
+- Is the length between 40 and 70 words?
+- Does it explain what the player does?
+- Do the bullets reflect real mechanics?
+- Does it avoid generic portal filler?
