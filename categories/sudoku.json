@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "sudoku-brain-blocks",
+            "title": "Sudoku Brain Blocks",
+            "iframe": "https://html5.gamedistribution.com/cd86994bb8a44da48354779bdc56e8f8/",
+            "description": "Push your limits in Sudoku Brain Blocks and take on precision driven bejeweled challenges instantly. Open Sudoku Brain Blocks instantly in your browser at G55.CO. Improve overall performance in score attack modes by mastering quick thinking. Smooth controls and clear feedback make every attempt satisfying."
+        },
+        {
+            "id": "sudoku-blocks",
+            "title": "Sudoku Blocks",
+            "iframe": "https://html5.gamedistribution.com/cefdee07fa214ae0b94da28b7f9d4058/",
+            "description": "Sudoku Blocks is an engaging and addictive puzzle game that combines the mechanics of a classic wood block puzzle with the logic and challenge of Sudoku. Designed to put your brainpower and IQ to the test, this game provides hours of entertainment and mental stimulation.\r\n\r\nThe objective of Sudoku Blocks is to strategically place wooden blocks within a 9x9 square grid, similar to the traditional Sudoku layout. The twist is that instead of numbers, you utilize different-shaped wooden blocks to fill the grid. These blocks come in various sizes and configurations, adding an extra layer of complexity to the gameplay.\r\n\r\nYour ultimate goal is to carefully arrange the blocks in a way that fills the entire grid without running out of space. Each block must fit snugly within the available spaces, without overlapping or leaving any gaps. With limited room to maneuver, you'll need to plan your moves carefully and consider the shape and orientation of each block to ensure a successful placement.\r\n\r\nSudoku Blocks challenges your problem-solving skills, spatial awareness, and ability to think ahead. As you progress through the levels, the puzzles become increasingly difficult, pushing you to sharpen your logical thinking and visualization abilities. It's a delightful combination of strategic planning and puzzle-solving, offering a unique and satisfying gameplay experience.\r\n\r\nCan you rise to the top and become the Woodoku champion? Challenge yourself, hone your skills, and see if you have what it takes to conquer the increasingly complex and intricate Sudoku Blocks puzzles. Prepare to immerse yourself in a world of wooden shapes and numerical logic as you strive for mastery in this captivating puzzle game."
+        },
+        {
             "id": "sudoku-classicsudokupuzzle",
             "title": "Sudoku-ClassicSudokuPuzzle",
             "iframe": "https://html5.gamemonetize.games/bmdk637yux3ii6hllhtv1o519ls6ag8b/",

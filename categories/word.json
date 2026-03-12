@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "word-rush",
+            "title": "Word Rush",
+            "iframe": "https://html5.gamedistribution.com/5e44fd0e53ee4513b39f179b9e1c6576/",
+            "description": "Word Rush brings together the best of solitaire mechanics and word puzzles for a fun and addictive experience! Clear lettered cards by forming words and draw new cards from the deck to create high-scoring combinations. Each move opens up fresh opportunities for better plays, keeping the game dynamic and exciting.\r\n\r\nWith endless word possibilities, Word Rush offers something for everyone, from casual players to word puzzle enthusiasts. Challenge your vocabulary, strategy skills, and quick thinking as you race to clear the cards and rack up points. Can you master the word combinations and make your way to the top of the leaderboard?"
+        },
+        {
             "id": "word-finder-board-game",
             "title": "Word Finder Board Game",
             "iframe": "https://html5.gamedistribution.com/06f2049a0e14444eace08ead61b295aa/",
