@@ -15,7 +15,7 @@
 <main>
 <section>
 <h1><?php echo h($h1); ?></h1>
-<p class="description <?php echo (!empty($cid)) ? $cid : 'play'; ?>" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
+<p class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
 <div class="grid">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
