@@ -14,14 +14,13 @@ if (!isset($_GET['c'])) {
 }
 
 $categoryRaw = trim((string)$_GET['c']);
-$categoryRaw = strtolower($categoryRaw);
 $categoryMap = [
 '1'          => 'io',
 '2'          => '2-player',
 '3'          => '3d',
 'bejeweled'  => 'jewel',
 'hypercasual'=> 'casual',
-'all'        => 'casual',
+'All'        => 'casual',
 'puzzles'    => 'puzzle',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
