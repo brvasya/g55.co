@@ -21,7 +21,7 @@ $categoryMap = [
 '3'          => '3d',
 'bejeweled'  => 'jewel',
 'hypercasual'=> 'casual',
-'All'        => 'casual',
+'all'        => 'casual',
 'puzzles'    => 'puzzle',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
