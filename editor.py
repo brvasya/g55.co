@@ -5,11 +5,18 @@ from tkinter import ttk, messagebox
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
+ROOT_CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "categories.json")
 
-TEMPLATE = {
+PAGE_TEMPLATE = {
     "id": "",
     "title": "",
     "iframe": "",
+    "description": "",
+}
+
+CATEGORY_TEMPLATE = {
+    "id": "",
+    "name": "",
     "description": "",
 }
 
@@ -26,38 +33,75 @@ def list_json_files(folder: str) -> list[str]:
     return files
 
 
-def normalize_loaded_json(loaded):
+def list_all_editable_files() -> list[str]:
+    files = []
+
+    if os.path.isfile(ROOT_CATEGORIES_FILE):
+        files.append("categories.json")
+
+    files.extend(list_json_files(CATEGORIES_DIR))
+    return files
+
+
+def normalize_loaded_json(loaded, file_name: str):
+    if file_name == "categories.json":
+        if isinstance(loaded, dict) and "categories" in loaded and isinstance(loaded["categories"], list):
+            return loaded["categories"], loaded, "categories"
+        raise ValueError('Unsupported categories.json format. Expected {"categories": [...]}')
+
     if isinstance(loaded, dict) and "pages" in loaded and isinstance(loaded["pages"], list):
-        return loaded["pages"], loaded
+        return loaded["pages"], loaded, "pages"
+
     if isinstance(loaded, list):
-        return loaded, None
+        return loaded, None, "pages"
+
     raise ValueError('Unsupported JSON format. Expected {"pages": [...]} or a list.')
 
 
 def load_json_file(path: str):
+    file_name = os.path.basename(path)
+
     with open(path, "r", encoding="utf-8") as f:
         loaded = json.load(f)
-    pages, wrapper = normalize_loaded_json(loaded)
+
+    items, wrapper, mode = normalize_loaded_json(loaded, file_name)
+
     cleaned = []
-    for it in pages:
-        if isinstance(it, dict):
-            cleaned.append(
-                {
-                    "id": str(it.get("id", "")).strip(),
-                    "title": str(it.get("title", "")).strip(),
-                    "iframe": str(it.get("iframe", "")).strip(),
-                    "description": str(it.get("description", "")).strip(),
-                }
-            )
-    return cleaned, wrapper
-
-
-def save_json_file(path: str, pages: list, wrapper):
-    if wrapper is None:
-        payload = pages
+    if mode == "categories":
+        for it in items:
+            if isinstance(it, dict):
+                cleaned.append(
+                    {
+                        "id": str(it.get("id", "")).strip(),
+                        "name": str(it.get("name", "")).strip(),
+                        "description": str(it.get("description", "")).strip(),
+                    }
+                )
     else:
-        wrapper["pages"] = pages
+        for it in items:
+            if isinstance(it, dict):
+                cleaned.append(
+                    {
+                        "id": str(it.get("id", "")).strip(),
+                        "title": str(it.get("title", "")).strip(),
+                        "iframe": str(it.get("iframe", "")).strip(),
+                        "description": str(it.get("description", "")).strip(),
+                    }
+                )
+
+    return cleaned, wrapper, mode
+
+
+def save_json_file(path: str, items: list, wrapper, mode: str):
+    if wrapper is None:
+        payload = items
+    else:
+        if mode == "categories":
+            wrapper["categories"] = items
+        else:
+            wrapper["pages"] = items
         payload = wrapper
+
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=4)
 
@@ -95,11 +139,12 @@ class JsonGui(tk.Tk):
         self.state("zoomed")
 
         self.current_file = None
-        self.pages = []
+        self.items = []
         self.wrapper = None
+        self.mode = "pages"
         self.selected_index = None
 
-        self.files = list_json_files(CATEGORIES_DIR)
+        self.files = list_all_editable_files()
 
         self.file_var = tk.StringVar(value="")
         self.status_var = tk.StringVar(value="")
@@ -108,7 +153,7 @@ class JsonGui(tk.Tk):
         if self.files:
             self.select_category_by_name(self.files[0])
         else:
-            messagebox.showwarning("No JSON files", f"No .json files found in:\n{CATEGORIES_DIR}")
+            messagebox.showwarning("No JSON files", f"No editable .json files found in:\n{SCRIPT_DIR}")
             self.set_status("No JSON files found")
 
     def build_ui(self):
@@ -117,7 +162,7 @@ class JsonGui(tk.Tk):
 
         ttk.Button(top, text="Reload list", command=self.reload_list).pack(side="left")
 
-        ttk.Label(top, text="Current category").pack(side="left", padx=(16, 6))
+        ttk.Label(top, text="Current file").pack(side="left", padx=(16, 6))
         ttk.Label(top, textvariable=self.file_var).pack(side="left")
 
         main = ttk.Frame(self, padding=10)
@@ -132,7 +177,7 @@ class JsonGui(tk.Tk):
         right = ttk.Frame(main)
         right.pack(side="right", fill="y", padx=(12, 0))
 
-        ttk.Label(sidebar, text="Categories").pack(anchor="w")
+        ttk.Label(sidebar, text="Files").pack(anchor="w")
 
         cat_frame = ttk.Frame(sidebar)
         cat_frame.pack(fill="y", expand=True, pady=(6, 0))
@@ -145,7 +190,7 @@ class JsonGui(tk.Tk):
         cat_scroll.pack(side="right", fill="y")
         self.cat_listbox.config(yscrollcommand=cat_scroll.set)
 
-        ttk.Label(mid, text="Pages").pack(anchor="w")
+        ttk.Label(mid, text="Items").pack(anchor="w")
 
         list_frame = ttk.Frame(mid)
         list_frame.pack(fill="both", expand=True, pady=(6, 0))
@@ -158,10 +203,11 @@ class JsonGui(tk.Tk):
         scroll.pack(side="right", fill="y")
         self.listbox.config(yscrollcommand=scroll.set)
 
-        form = ttk.LabelFrame(right, text="Template page", padding=10)
+        form = ttk.LabelFrame(right, text="Editor", padding=10)
         form.pack(fill="x")
 
-        ttk.Label(form, text="Title").grid(row=0, column=0, sticky="w")
+        self.name_title_label = ttk.Label(form, text="Title")
+        self.name_title_label.grid(row=0, column=0, sticky="w")
         self.title_var = tk.StringVar()
         ttk.Entry(form, textvariable=self.title_var, width=48).grid(
             row=1, column=0, columnspan=2, sticky="we", pady=(0, 8)
@@ -173,13 +219,14 @@ class JsonGui(tk.Tk):
             row=3, column=0, columnspan=2, sticky="we", pady=(0, 8)
         )
 
-        ttk.Label(form, text="Iframe").grid(row=4, column=0, sticky="w")
+        self.iframe_label = ttk.Label(form, text="Iframe")
+        self.iframe_label.grid(row=4, column=0, sticky="w")
         self.iframe_var = tk.StringVar()
-        ttk.Entry(form, textvariable=self.iframe_var, width=48).grid(
-            row=5, column=0, columnspan=2, sticky="we", pady=(0, 8)
-        )
+        self.iframe_entry = ttk.Entry(form, textvariable=self.iframe_var, width=48)
+        self.iframe_entry.grid(row=5, column=0, columnspan=2, sticky="we", pady=(0, 8))
 
-        ttk.Label(form, text="Description").grid(row=6, column=0, sticky="w")
+        self.desc_label = ttk.Label(form, text="Description")
+        self.desc_label.grid(row=6, column=0, sticky="w")
         self.desc_text = tk.Text(form, width=48, height=9, wrap="word")
         self.desc_text.grid(row=7, column=0, columnspan=2, sticky="we", pady=(0, 8))
 
@@ -187,9 +234,9 @@ class JsonGui(tk.Tk):
         btn_row.grid(row=8, column=0, columnspan=2, sticky="we")
 
         ttk.Button(btn_row, text="New", command=self.new_template).pack(side="left")
-        ttk.Button(btn_row, text="Add", command=self.add_page).pack(side="left", padx=6)
-        ttk.Button(btn_row, text="Update", command=self.update_page).pack(side="left", padx=6)
-        ttk.Button(btn_row, text="Delete", command=self.delete_page).pack(side="left", padx=6)
+        ttk.Button(btn_row, text="Add", command=self.add_item).pack(side="left", padx=6)
+        ttk.Button(btn_row, text="Update", command=self.update_item).pack(side="left", padx=6)
+        ttk.Button(btn_row, text="Delete", command=self.delete_item).pack(side="left", padx=6)
 
         search = ttk.LabelFrame(right, text="Find by title", padding=10)
         search.pack(fill="x", pady=(10, 0))
@@ -215,25 +262,60 @@ class JsonGui(tk.Tk):
             width=40,
         )
         self.move_combo.grid(row=1, column=0, sticky="we", padx=(0, 6))
-        ttk.Button(movef, text="Move", command=self.move_selected_page).grid(row=1, column=1, sticky="e")
-        ttk.Button(movef, text="Move all unmatched to casual", command=self.move_all_unmatched_to_casual).grid(
-            row=2, column=0, columnspan=2, sticky="we", pady=(8, 0)
+        self.move_btn = ttk.Button(movef, text="Move", command=self.move_selected_page)
+        self.move_btn.grid(row=1, column=1, sticky="e")
+        self.move_unmatched_btn = ttk.Button(
+            movef,
+            text="Move all unmatched to casual",
+            command=self.move_all_unmatched_to_casual
         )
+        self.move_unmatched_btn.grid(row=2, column=0, columnspan=2, sticky="we", pady=(8, 0))
 
         ttk.Label(right, textvariable=self.status_var).pack(anchor="w", pady=(10, 0))
 
         self.refresh_category_list()
         self.set_status("Ready")
         self.new_template()
+        self.update_mode_ui()
 
     def set_status(self, text: str):
         self.status_var.set(text)
 
+    def is_root_categories_mode(self) -> bool:
+        return self.mode == "categories"
+
+    def update_mode_ui(self):
+        if self.is_root_categories_mode():
+            self.name_title_label.config(text="Name")
+            self.iframe_label.grid_remove()
+            self.iframe_entry.grid_remove()
+            self.desc_label.grid()
+            self.desc_text.grid()
+            self.move_btn.state(["disabled"])
+            self.move_unmatched_btn.state(["disabled"])
+        else:
+            self.name_title_label.config(text="Title")
+            self.iframe_label.grid()
+            self.iframe_entry.grid()
+            self.desc_label.grid()
+            self.desc_text.grid()
+            self.move_btn.state(["!disabled"])
+            self.move_unmatched_btn.state(["!disabled"])
+
     def update_page_match_status(self, prefix: str = ""):
         file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
+
+        if self.is_root_categories_mode():
+            total = len(self.items)
+            if prefix:
+                self.set_status(f"{prefix}  Categories: {total}")
+            else:
+                self.set_status(f"Categories: {total}")
+            return
+
         keyword = category_keyword_from_filename(file_name)
-        total = len(self.pages)
-        matched = count_title_keyword_matches(self.pages, keyword)
+        total = len(self.items)
+        matched = count_title_keyword_matches(self.items, keyword)
 
         if prefix:
             self.set_status(f"{prefix}  Pages: {total} ({matched} matched)")
@@ -271,15 +353,16 @@ class JsonGui(tk.Tk):
 
     def reload_list(self):
         keep = os.path.basename(self.current_file) if self.current_file else ""
-        self.files = list_json_files(CATEGORIES_DIR)
+        self.files = list_all_editable_files()
 
         self.refresh_category_list()
 
         if not self.files:
             self.file_var.set("")
             self.current_file = None
-            self.pages = []
+            self.items = []
             self.wrapper = None
+            self.mode = "pages"
             self.selected_index = None
             self.refresh_list()
             self.new_template()
@@ -295,6 +378,8 @@ class JsonGui(tk.Tk):
         name = (name or "").strip()
         if not name:
             return None
+        if name == "categories.json":
+            return ROOT_CATEGORIES_FILE
         return os.path.join(CATEGORIES_DIR, name)
 
     def load_selected(self, file_name: str):
@@ -302,24 +387,28 @@ class JsonGui(tk.Tk):
         if not path:
             return
         try:
-            cleaned, wrapper = load_json_file(path)
-            self.pages = cleaned
+            cleaned, wrapper, mode = load_json_file(path)
+            self.items = cleaned
             self.wrapper = wrapper
+            self.mode = mode
             self.current_file = path
             self.selected_index = None
             self.file_var.set(os.path.basename(self.current_file))
             self.refresh_list()
             self.new_template()
             self.update_move_dropdown()
+            self.update_mode_ui()
             self.update_page_match_status("Loaded")
         except Exception as e:
-            self.pages = []
+            self.items = []
             self.wrapper = None
+            self.mode = "pages"
             self.current_file = path
             self.selected_index = None
             self.file_var.set(os.path.basename(self.current_file))
             self.refresh_list()
             self.new_template()
+            self.update_mode_ui()
             messagebox.showerror("Load failed", f"Could not load JSON:\n{e}")
             self.set_status("Load failed")
 
@@ -327,15 +416,7 @@ class JsonGui(tk.Tk):
         if not self.current_file:
             return False
         try:
-            if self.wrapper is None:
-                payload = self.pages
-            else:
-                self.wrapper["pages"] = self.pages
-                payload = self.wrapper
-
-            with open(self.current_file, "w", encoding="utf-8") as f:
-                json.dump(payload, f, ensure_ascii=False, indent=4)
-
+            save_json_file(self.current_file, self.items, self.wrapper, self.mode)
             self.set_status("Auto saved")
             return True
         except Exception:
@@ -348,10 +429,16 @@ class JsonGui(tk.Tk):
     def refresh_list(self):
         self.listbox.delete(0, tk.END)
 
+        if self.is_root_categories_mode():
+            for idx, it in enumerate(self.items):
+                label = it.get("name") or it.get("id") or "(empty)"
+                self.listbox.insert(tk.END, label)
+            return
+
         file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
         keyword = category_keyword_from_filename(file_name)
 
-        for idx, it in enumerate(self.pages):
+        for idx, it in enumerate(self.items):
             label = it.get("title") or it.get("id") or "(empty)"
             self.listbox.insert(tk.END, label)
 
@@ -359,6 +446,13 @@ class JsonGui(tk.Tk):
                 self.listbox.itemconfig(idx, bg="#ffe5e5", fg="#a00000")
 
     def read_form(self):
+        if self.is_root_categories_mode():
+            return {
+                "id": self.id_var.get().strip(),
+                "name": self.title_var.get().strip(),
+                "description": self.desc_text.get("1.0", "end").strip(),
+            }
+
         return {
             "id": self.id_var.get().strip(),
             "title": self.title_var.get().strip(),
@@ -368,33 +462,45 @@ class JsonGui(tk.Tk):
 
     def write_form(self, it):
         self.id_var.set(it.get("id", ""))
-        self.title_var.set(it.get("title", ""))
+        if self.is_root_categories_mode():
+            self.title_var.set(it.get("name", ""))
+        else:
+            self.title_var.set(it.get("title", ""))
+
         self.iframe_var.set(it.get("iframe", ""))
         self.desc_text.delete("1.0", "end")
         self.desc_text.insert("1.0", it.get("description", ""))
 
     def new_template(self):
         self.selected_index = None
-        self.write_form(TEMPLATE.copy())
-        self.update_page_match_status("New page")
+        if self.is_root_categories_mode():
+            self.write_form(CATEGORY_TEMPLATE.copy())
+            self.update_page_match_status("New category")
+        else:
+            self.write_form(PAGE_TEMPLATE.copy())
+            self.update_page_match_status("New page")
 
-    def find_duplicate_id(self, page_id, ignore_index=None):
-        for idx, it in enumerate(self.pages):
+    def find_duplicate_id(self, item_id, ignore_index=None):
+        for idx, it in enumerate(self.items):
             if ignore_index is not None and idx == ignore_index:
                 continue
-            if str(it.get("id", "")).strip() == page_id:
+            if str(it.get("id", "")).strip() == item_id:
                 return idx
         return None
 
     def goto_index(self, idx: int):
-        if idx < 0 or idx >= len(self.pages):
+        if idx < 0 or idx >= len(self.items):
             return
         self.listbox.selection_clear(0, tk.END)
         self.listbox.selection_set(idx)
         self.listbox.see(idx)
         self.selected_index = idx
-        self.write_form(self.pages[idx])
-        self.update_page_match_status(f"Selected page {idx + 1} of {len(self.pages)}")
+        self.write_form(self.items[idx])
+
+        if self.is_root_categories_mode():
+            self.update_page_match_status(f"Selected category {idx + 1} of {len(self.items)}")
+        else:
+            self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
 
     def search_by_title(self):
         title_query = self.search_title_var.get().strip().lower()
@@ -403,13 +509,16 @@ class JsonGui(tk.Tk):
             return
 
         matches = []
-        for idx, it in enumerate(self.pages):
-            title = str(it.get("title", "")).strip().lower()
+        for idx, it in enumerate(self.items):
+            if self.is_root_categories_mode():
+                title = str(it.get("name", "")).strip().lower()
+            else:
+                title = str(it.get("title", "")).strip().lower()
             if title_query in title:
                 matches.append(idx)
 
         if not matches:
-            messagebox.showinfo("Not found", f"No page found containing:\n{title_query}")
+            messagebox.showinfo("Not found", f"No item found containing:\n{title_query}")
             return
 
         self.goto_index(matches[0])
@@ -418,13 +527,13 @@ class JsonGui(tk.Tk):
     def update_move_dropdown(self):
         if not hasattr(self, "move_combo"):
             return
-        if not self.files or not self.current_file:
+        if not self.files or not self.current_file or self.is_root_categories_mode():
             self.move_combo["values"] = []
             self.move_file_var.set("")
             return
 
         current_name = os.path.basename(self.current_file)
-        choices = [f for f in self.files if f != current_name]
+        choices = [f for f in self.files if f != current_name and f != "categories.json"]
         self.move_combo["values"] = choices
 
         cur = self.move_file_var.get().strip()
@@ -432,6 +541,9 @@ class JsonGui(tk.Tk):
             self.move_file_var.set(choices[0] if choices else "")
 
     def move_selected_page(self):
+        if self.is_root_categories_mode():
+            return
+
         if not self.current_file:
             messagebox.showwarning("No file", "Select a category file first.")
             return
@@ -451,14 +563,14 @@ class JsonGui(tk.Tk):
 
         target_path = os.path.join(CATEGORIES_DIR, target_name)
 
-        page = self.pages[self.selected_index]
+        page = self.items[self.selected_index]
         page_id = str(page.get("id", "")).strip()
         if not page_id:
             messagebox.showwarning("Missing id", "Selected page has no id.")
             return
 
         try:
-            target_pages, target_wrapper = load_json_file(target_path)
+            target_pages, target_wrapper, target_mode = load_json_file(target_path)
 
             for it in target_pages:
                 if str(it.get("id", "")).strip() == page_id:
@@ -466,11 +578,11 @@ class JsonGui(tk.Tk):
                     return
 
             target_pages.insert(0, page)
-            save_json_file(target_path, target_pages, target_wrapper)
+            save_json_file(target_path, target_pages, target_wrapper, target_mode)
 
-            del self.pages[self.selected_index]
+            del self.items[self.selected_index]
             self.selected_index = None
-            save_json_file(self.current_file, self.pages, self.wrapper)
+            save_json_file(self.current_file, self.items, self.wrapper, self.mode)
 
             self.refresh_list()
             self.new_template()
@@ -482,6 +594,9 @@ class JsonGui(tk.Tk):
             self.set_status("Move failed")
 
     def move_all_unmatched_to_casual(self):
+        if self.is_root_categories_mode():
+            return
+
         if not self.current_file:
             messagebox.showwarning("No file", "Select a category file first.")
             return
@@ -498,7 +613,7 @@ class JsonGui(tk.Tk):
 
         keyword = category_keyword_from_filename(current_name)
         unmatched_indexes = [
-            idx for idx, it in enumerate(self.pages)
+            idx for idx, it in enumerate(self.items)
             if not title_matches_keyword(it.get("title", ""), keyword)
         ]
 
@@ -513,14 +628,14 @@ class JsonGui(tk.Tk):
             return
 
         try:
-            casual_pages, casual_wrapper = load_json_file(casual_path)
+            casual_pages, casual_wrapper, casual_mode = load_json_file(casual_path)
             existing_ids = {str(it.get("id", "")).strip() for it in casual_pages if str(it.get("id", "")).strip()}
 
             pages_to_move = []
             duplicate_count = 0
 
             for idx in unmatched_indexes:
-                page = self.pages[idx]
+                page = self.items[idx]
                 page_id = str(page.get("id", "")).strip()
 
                 if page_id and page_id in existing_ids:
@@ -539,19 +654,17 @@ class JsonGui(tk.Tk):
                 return
 
             casual_pages = pages_to_move + casual_pages
-            save_json_file(casual_path, casual_pages, casual_wrapper)
+            save_json_file(casual_path, casual_pages, casual_wrapper, casual_mode)
 
             moved_ids = {id(page) for page in pages_to_move}
-            self.pages = [page for page in self.pages if id(page) not in moved_ids]
+            self.items = [page for page in self.items if id(page) not in moved_ids]
             self.selected_index = None
-            save_json_file(self.current_file, self.pages, self.wrapper)
+            save_json_file(self.current_file, self.items, self.wrapper, self.mode)
 
             self.refresh_list()
             self.new_template()
             self.update_move_dropdown()
-            self.update_page_match_status(
-                f"Moved {len(pages_to_move)} unmatched to casual.json"
-            )
+            self.update_page_match_status(f"Moved {len(pages_to_move)} unmatched to casual.json")
 
             msg = f"Moved: {len(pages_to_move)} unmatched page(s) to casual.json"
             if duplicate_count:
@@ -562,18 +675,20 @@ class JsonGui(tk.Tk):
             messagebox.showerror("Move failed", f"Could not move unmatched pages:\n{e}")
             self.set_status("Move failed")
 
-    def add_page(self):
+    def add_item(self):
         it = self.read_form()
-        if not it["id"] or not it["title"]:
-            messagebox.showwarning("Missing fields", "Please fill Id and Title.")
+        label_value = it.get("name", "") if self.is_root_categories_mode() else it.get("title", "")
+
+        if not it["id"] or not label_value:
+            messagebox.showwarning("Missing fields", "Please fill Id and Name/Title.")
             return
 
         dup = self.find_duplicate_id(it["id"])
         if dup is not None:
-            messagebox.showerror("Duplicate id", f"A page with this id already exists at index {dup + 1}.")
+            messagebox.showerror("Duplicate id", f"An item with this id already exists at index {dup + 1}.")
             return
 
-        self.pages.insert(0, it)
+        self.items.insert(0, it)
         self.refresh_list()
         self.goto_index(0)
 
@@ -581,24 +696,29 @@ class JsonGui(tk.Tk):
             messagebox.showerror("Auto save failed", "Could not auto save after add.")
             return
 
-        self.update_page_match_status("Added and auto saved")
+        if self.is_root_categories_mode():
+            self.update_page_match_status("Added category and auto saved")
+        else:
+            self.update_page_match_status("Added page and auto saved")
 
-    def update_page(self):
+    def update_item(self):
         if self.selected_index is None:
-            messagebox.showwarning("Nothing selected", "Select a page to update.")
+            messagebox.showwarning("Nothing selected", "Select an item to update.")
             return
 
         it = self.read_form()
-        if not it["id"] or not it["title"]:
-            messagebox.showwarning("Missing fields", "Please fill Id and Title.")
+        label_value = it.get("name", "") if self.is_root_categories_mode() else it.get("title", "")
+
+        if not it["id"] or not label_value:
+            messagebox.showwarning("Missing fields", "Please fill Id and Name/Title.")
             return
 
         dup = self.find_duplicate_id(it["id"], ignore_index=self.selected_index)
         if dup is not None:
-            messagebox.showerror("Duplicate id", f"Another page already uses this id at index {dup + 1}.")
+            messagebox.showerror("Duplicate id", f"Another item already uses this id at index {dup + 1}.")
             return
 
-        self.pages[self.selected_index] = it
+        self.items[self.selected_index] = it
         keep = self.selected_index
         self.refresh_list()
         self.goto_index(keep)
@@ -607,19 +727,27 @@ class JsonGui(tk.Tk):
             messagebox.showerror("Auto save failed", "Could not auto save after update.")
             return
 
-        self.update_page_match_status("Updated and auto saved")
+        if self.is_root_categories_mode():
+            self.update_page_match_status("Updated category and auto saved")
+        else:
+            self.update_page_match_status("Updated page and auto saved")
 
-    def delete_page(self):
+    def delete_item(self):
         if self.selected_index is None:
-            messagebox.showwarning("Nothing selected", "Select a page to delete.")
+            messagebox.showwarning("Nothing selected", "Select an item to delete.")
             return
 
         idx = self.selected_index
-        title = self.pages[idx].get("title") or self.pages[idx].get("id")
-        if not messagebox.askyesno("Delete", f"Delete selected page?\n\n{title}"):
+        title = (
+            self.items[idx].get("name")
+            if self.is_root_categories_mode()
+            else self.items[idx].get("title")
+        ) or self.items[idx].get("id")
+
+        if not messagebox.askyesno("Delete", f"Delete selected item?\n\n{title}"):
             return
 
-        del self.pages[idx]
+        del self.items[idx]
         self.selected_index = None
         self.refresh_list()
         self.new_template()
@@ -628,17 +756,24 @@ class JsonGui(tk.Tk):
             messagebox.showerror("Auto save failed", "Could not auto save after delete.")
             return
 
-        self.update_page_match_status("Deleted and auto saved")
+        if self.is_root_categories_mode():
+            self.update_page_match_status("Deleted category and auto saved")
+        else:
+            self.update_page_match_status("Deleted page and auto saved")
 
     def pick_from_list(self):
         sel = self.listbox.curselection()
         if not sel:
             return
         idx = int(sel[0])
-        if idx < len(self.pages):
+        if idx < len(self.items):
             self.selected_index = idx
-            self.write_form(self.pages[idx])
-            self.update_page_match_status(f"Selected page {idx + 1} of {len(self.pages)}")
+            self.write_form(self.items[idx])
+
+            if self.is_root_categories_mode():
+                self.update_page_match_status(f"Selected category {idx + 1} of {len(self.items)}")
+            else:
+                self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
 
 
 if __name__ == "__main__":
