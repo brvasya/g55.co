@@ -78,7 +78,7 @@ if ($hasC) {
   $desc = $cat['description'];
 
   $title = $h1;
-  $metaDesc = $desc;
+  $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $desc)[0]));
 } else {
   $totalCount = 0;
   $gridItems = [];
@@ -102,6 +102,6 @@ if ($hasC) {
   $desc = $site['description'];
 
   $title = $h1;
-  $metaDesc = $desc;
+  $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $desc)[0]));
   $canonical = 'https://g55.co/';
 }
