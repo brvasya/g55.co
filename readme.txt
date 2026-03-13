@@ -166,3 +166,155 @@ Before output ensure:
 • No filler or repetition  
 
 END RULE
+
+
+MASTER INDIVIDUAL GAME DESCRIPTION GENERATOR RULE V2 (PRODUCTION)
+
+Goal
+Generate handcrafted editorial quality descriptions for individual browser games on G55.CO.
+Descriptions must improve SEO uniqueness, gameplay clarity, and engagement.
+Style must resemble high quality gaming portal editorial content.
+
+INPUT VARIABLES
+- Game title: {GAME_TITLE}
+- Primary category: {CATEGORY}
+- Core mechanic: {MECHANIC}
+- Theme or setting: {THEME}
+- Player goal: {GOAL}
+- Audience: casual gamers, teens, kids
+
+OUTPUT STRUCTURE (STRICT)
+
+1 Intro paragraph  
+2 "Key Features" section  
+3 Bullet list  
+
+Optional  
+Short second sentence allowed inside the paragraph for progression or mode.
+
+INTRO PARAGRAPH RULES
+
+• Write exactly ONE paragraph  
+• Length: 40 to 70 words  
+• First sentence MUST start with gameplay action  
+• Clearly describe what the player does in THIS game  
+• Mention the core mechanic naturally  
+• Mention the theme or setting when relevant  
+• Include the main objective or challenge  
+• Avoid repeating the game title more than once  
+• Avoid marketing tone  
+• Avoid filler phrases  
+• Avoid formal language  
+• Do not use bold text  
+• Do not use dashes in prose  
+• Must sound like human gaming portal editor  
+
+FIRST SENTENCE GAMEPLAY ACTION RULE
+
+Start with verbs or direct gameplay description.
+
+GOOD  
+Drive powerful tanks across battlefield missions  
+
+BAD  
+War Tanks Simulation is an exciting game  
+
+GAME SPECIFICITY RULE
+
+Paragraph must include at least ONE unique gameplay signal such as:
+
+vehicle type  
+weapon system  
+movement style  
+level progression  
+enemy type  
+mechanic variation  
+
+Avoid generic genre description.
+
+SOFT ADJECTIVE CONTROL RULE
+
+Limit words such as:
+
+fun  
+exciting  
+amazing  
+friendly  
+
+Use maximum 1 soft adjective.
+
+KEY FEATURES SECTION RULES
+
+Title must be exactly:
+
+Key Features
+
+• Include 3 to 5 bullets  
+• Ideal bullet length: 3 to 6 words  
+• Bullets must describe real gameplay elements  
+• Focus on mechanics, systems, progression, controls  
+• Avoid repeating the game title  
+• Avoid marketing language  
+• Avoid generic phrases  
+• Avoid full sentences  
+
+BULLET LINGUISTIC STRUCTURE
+
+Prefer concise mechanic entities.
+
+GOOD  
+Tank combat mission objectives  
+Realistic vehicle control physics  
+
+BAD  
+You will control tanks in missions  
+
+BULLET SEMANTIC DISTRIBUTION MODEL
+
+Each game bullet set should cover:
+
+1 Core mechanic  
+2 Player action or control  
+3 Challenge or progression  
+4 Optional mode or system  
+5 Optional theme signal  
+
+SEMANTIC ENRICHMENT RULE
+
+Include at least one long tail gameplay entity when natural.
+
+Examples  
+Arena survival scoring system  
+Upgrade based weapon progression  
+Physics driven vehicle handling  
+
+STYLE MODEL
+
+Write like concise professional gaming portal editor.  
+Not blog style.  
+Not marketing copy.  
+Not repetitive template.
+
+OUTPUT FORMAT EXAMPLE
+
+{PARAGRAPH}
+
+Key Features
+
+• feature  
+• feature  
+• feature  
+• feature  
+
+QUALITY VALIDATION CHECK
+
+Before output ensure:
+
+• First sentence gameplay focused  
+• Paragraph describes THIS game uniquely  
+• Length within limits  
+• Bullets reflect real mechanics  
+• Tone natural and editorial  
+• No filler or repetition  
+
+END RULE
