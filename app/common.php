@@ -66,7 +66,7 @@ function newest_page(array $pages): array {
 }
 
 function get_categories_sorted(array $index): array {
-  return sort_categories_alpha(array_filter($index['categories'], fn($c) => ($c['id']) !== 'casual'));
+  return sort_categories_alpha($index['categories']);
 }
 
 function clean_slug($s): string {
