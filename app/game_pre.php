@@ -53,7 +53,7 @@ if ($page === null) {
 $pageTitle = $page['title'];
 $title = $pageTitle;
 
-$metaDesc = $page['description'];
+$metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $page['description'])[0]));
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
 $imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
 $iframeSrc = $page['iframe'];
