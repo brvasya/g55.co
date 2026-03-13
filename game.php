@@ -43,7 +43,7 @@
 </nav>
 <section>
 <h2>Game Details</h2>
-<p class="description" onclick="this.classList.toggle('exp');"><?php echo h($desc); ?></p>
+<p class="description"><?php echo h($desc); ?></p>
 </section>
 <?php include 'footer.php'; ?>
 </body>
