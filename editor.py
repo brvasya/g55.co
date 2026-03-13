@@ -319,7 +319,7 @@ class JsonGui(tk.Tk):
         completed = count_items_with_bullets(self.items)
 
         if self.is_root_categories_mode():
-            text = f"Categories: {completed}/{total}"
+            text = f"Descriptions: {completed}/{total}"
             self.set_status(f"{prefix}  {text}" if prefix else text)
             return
 
@@ -327,7 +327,7 @@ class JsonGui(tk.Tk):
         keyword = category_keyword_from_filename(file_name)
         matched = count_title_keyword_matches(self.items, keyword)
 
-        text = f"Completed: {completed}/{total}   Match: {matched}/{total}"
+        text = f"Descriptions: {completed}/{total}   Titles: {matched}/{total}"
         self.set_status(f"{prefix}  {text}" if prefix else text)
 
     def refresh_category_list(self):
