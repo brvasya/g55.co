@@ -132,6 +132,18 @@ def title_matches_keyword(title: str, keyword: str) -> bool:
     return keyword in title
 
 
+def description_has_bullet(description: str) -> bool:
+    return "•" in str(description or "")
+
+
+def count_items_with_bullets(items) -> int:
+    count = 0
+    for it in items:
+        if description_has_bullet(it.get("description", "")):
+            count += 1
+    return count
+
+
 class JsonGui(tk.Tk):
     def __init__(self):
         super().__init__()
@@ -303,24 +315,20 @@ class JsonGui(tk.Tk):
             self.move_unmatched_btn.state(["!disabled"])
 
     def update_page_match_status(self, prefix: str = ""):
-        file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
+        total = len(self.items)
+        completed = count_items_with_bullets(self.items)
 
         if self.is_root_categories_mode():
-            total = len(self.items)
-            if prefix:
-                self.set_status(f"{prefix}  Categories: {total}")
-            else:
-                self.set_status(f"Categories: {total}")
+            text = f"Categories: {completed}/{total}"
+            self.set_status(f"{prefix}  {text}" if prefix else text)
             return
 
+        file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
         keyword = category_keyword_from_filename(file_name)
-        total = len(self.items)
         matched = count_title_keyword_matches(self.items, keyword)
 
-        if prefix:
-            self.set_status(f"{prefix}  Pages: {total} ({matched} matched)")
-        else:
-            self.set_status(f"Pages: {total} ({matched} matched)")
+        text = f"Completed: {completed}/{total}   Match: {matched}/{total}"
+        self.set_status(f"{prefix}  {text}" if prefix else text)
 
     def refresh_category_list(self):
         current_name = os.path.basename(self.current_file) if self.current_file else ""
@@ -433,6 +441,9 @@ class JsonGui(tk.Tk):
             for idx, it in enumerate(self.items):
                 label = it.get("name") or it.get("id") or "(empty)"
                 self.listbox.insert(tk.END, label)
+
+                if not description_has_bullet(it.get("description", "")):
+                    self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
             return
 
         file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
@@ -442,8 +453,13 @@ class JsonGui(tk.Tk):
             label = it.get("title") or it.get("id") or "(empty)"
             self.listbox.insert(tk.END, label)
 
-            if not title_matches_keyword(it.get("title", ""), keyword):
+            has_title_match = title_matches_keyword(it.get("title", ""), keyword)
+            has_bullet = description_has_bullet(it.get("description", ""))
+
+            if not has_title_match:
                 self.listbox.itemconfig(idx, bg="#ffe5e5", fg="#a00000")
+            elif not has_bullet:
+                self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
 
     def read_form(self):
         if self.is_root_categories_mode():
