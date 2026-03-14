@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "mfps",
+            "title": "M FPS",
+            "iframe": "https://games.g55.co/mfps/",
+            "description": "MFPS (Multiplayer First Person Shooter) is a fast-paced, online shooting game where players form teams to compete against each other in intense combat scenarios. The goal of the game is to eliminate as many players from the opposing team as possible while trying to stay alive. Players can choose from a variety of weapons, each with its own unique characteristics and advantages, and must use their skills and strategies to outsmart and outgun their opponents. The game features multiple game modes, including team deathmatch, capture the flag, and free-for-all, each with its own set of rules and objectives. To win in MFPS, players must work together with their teammates, communicate effectively, and utilize their weapons and surroundings to gain an advantage. Points are earned for each kill, and the team with the highest score at the end of the match wins. Overall, MFPS offers an exciting and challenging gaming experience for those who enjoy first-person shooter games and are looking for a competitive multiplayer experience."
+        },
+        {
+            "id": "mfps-2",
+            "title": "M FPS 2",
+            "iframe": "https://games.g55.co/mfps-2/",
+            "description": "MFPS 2 is a fast-paced, multiplayer first-person shooter game that challenges players to use their strategic thinking and shooting skills to eliminate their rivals and claim victory. The game features a variety of weapons, each with its own strengths and weaknesses, that players can choose from to engage in combat. The objective of the game is to score as many points as possible by shooting rival players while avoiding getting shot by them. Points are awarded based on the number of enemies eliminated and the accuracy of the shots fired. The player with the highest score at the end of the game is declared the winner. In addition to the weapons, the game also includes various power-ups and abilities that players can use to gain an advantage over their opponents. These power-ups include health kits to replenish health, shields to protect against enemy fire, and speed boosts to move quickly around the map. Overall, MFPS 2 is an exciting and challenging multiplayer shooter game that will keep players on the edge of their seats. With a wide range of weapons, power-ups, and abilities to choose from, players can customize their gameplay experience and devise unique strategies to outsmart their rivals and emerge victorious."
+        },
+        {
             "id": "command-strike-fps",
             "title": "Command Strike FPS",
             "iframe": "https://html5.gamedistribution.com/53cb97cc3c334a02b3b7dd4c66c6c45c/",
