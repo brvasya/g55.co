@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "ninjadash",
+            "title": "Ninja Dash",
+            "iframe": "https://html5.gamedistribution.com/65e44f1237b24683ae56896c6207d4c3/",
+            "description": "Try NinjaDash in your browser and experience pick up and play casual sessions built for progress. Smooth controls and clear feedback make every attempt satisfying. Build pattern recognition through consistent practice in practice rounds. Discover NinjaDash today on G55.CO."
+        },
+        {
             "id": "samurai-flash",
             "title": "Ninja Samurai Flash",
             "iframe": "https://html5.gamedistribution.com/83553d6898b6436ebe9321dc632749d4/",
