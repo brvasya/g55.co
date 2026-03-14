@@ -265,9 +265,9 @@
             "description": "Runner Games focus on guiding characters forward through continuous movement challenges, avoiding obstacles, and maintaining momentum across dynamic environments. Players time jumps, slide under hazards, and react to changing layouts using reflex driven control systems and pacing based progression loops. Gameplay often includes endless survival formats, score tracking objectives, or level based sequences that shape difficulty. These experiences highlight endless runner gameplay loops and fast reaction interaction systems suited for quick browser sessions.\n\nKey Features\n\n• Continuous forward movement mechanics\n• Reflex based obstacle challenges\n• Momentum driven navigation systems\n• Endless survival progression modes\n• Score tracking gameplay loops"
         },
         {
-            "id": "running",
-            "name": "Running",
-            "description": "Running Games focus on controlling characters that sprint through obstacle filled environments, maintaining pace and reacting to rapid changes in terrain or layout. Players time jumps, shift direction, and manage momentum using reflex driven movement systems and structured progression loops. Gameplay often includes endless survival modes, level based challenges, or score tracking objectives that shape pacing. These experiences highlight running gameplay loops and fast reaction interaction systems suited for quick browser sessions.\n\nKey Features\n\n• Sprint based movement mechanics\n• Reflex driven obstacle challenges\n• Momentum navigation gameplay systems\n• Endless survival progression modes\n• Score tracking objective loops"
+            "id": "farm",
+            "name": "Farm",
+            "description": "Farm Games focus on growing crops, caring for animals, and managing rural environments through simulation driven resource mechanics. Players plant seeds, harvest produce, and expand facilities using time based progression systems and strategic planning skills. Gameplay often includes production chains, market trading objectives, or land development challenges that shape long term advancement. These experiences highlight farming simulation gameplay loops and agricultural management interaction systems suited for relaxed browser sessions.\n\nKey Features\n\n• Crop cultivation simulation mechanics\n• Animal care gameplay systems\n• Production chain progression loops\n• Market trading challenge modes\n• Land development management objectives"
         },
         {
             "id": "shooter",
