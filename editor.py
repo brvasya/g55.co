@@ -156,6 +156,10 @@ class JsonGui(tk.Tk):
         self.mode = "pages"
         self.selected_index = None
 
+        self.search_matches = []
+        self.search_pos = -1
+        self.last_search_query = ""
+
         self.files = list_all_editable_files()
 
         self.file_var = tk.StringVar(value="")
@@ -372,6 +376,9 @@ class JsonGui(tk.Tk):
             self.wrapper = None
             self.mode = "pages"
             self.selected_index = None
+            self.search_matches = []
+            self.search_pos = -1
+            self.last_search_query = ""
             self.refresh_list()
             self.new_template()
             self.set_status("No JSON files found")
@@ -401,6 +408,9 @@ class JsonGui(tk.Tk):
             self.mode = mode
             self.current_file = path
             self.selected_index = None
+            self.search_matches = []
+            self.search_pos = -1
+            self.last_search_query = ""
             self.file_var.set(os.path.basename(self.current_file))
             self.refresh_list()
             self.new_template()
@@ -413,6 +423,9 @@ class JsonGui(tk.Tk):
             self.mode = "pages"
             self.current_file = path
             self.selected_index = None
+            self.search_matches = []
+            self.search_pos = -1
+            self.last_search_query = ""
             self.file_var.set(os.path.basename(self.current_file))
             self.refresh_list()
             self.new_template()
@@ -518,27 +531,37 @@ class JsonGui(tk.Tk):
         else:
             self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
 
+    def get_search_label(self, item):
+        if self.is_root_categories_mode():
+            return str(item.get("name", "")).strip().lower()
+        return str(item.get("title", "")).strip().lower()
+
     def search_by_title(self):
         title_query = self.search_title_var.get().strip().lower()
         if not title_query:
             messagebox.showwarning("Missing title", "Enter a title to search.")
             return
 
-        matches = []
-        for idx, it in enumerate(self.items):
-            if self.is_root_categories_mode():
-                title = str(it.get("name", "")).strip().lower()
-            else:
-                title = str(it.get("title", "")).strip().lower()
-            if title_query in title:
-                matches.append(idx)
+        if title_query != self.last_search_query:
+            self.search_matches = [
+                idx for idx, it in enumerate(self.items)
+                if title_query in self.get_search_label(it)
+            ]
+            self.search_pos = -1
+            self.last_search_query = title_query
 
-        if not matches:
+        if not self.search_matches:
             messagebox.showinfo("Not found", f"No item found containing:\n{title_query}")
+            self.set_status("No matches found")
             return
 
-        self.goto_index(matches[0])
-        self.set_status(f"Found {len(matches)} match(es)")
+        self.search_pos = (self.search_pos + 1) % len(self.search_matches)
+        target_idx = self.search_matches[self.search_pos]
+        self.goto_index(target_idx)
+
+        self.set_status(
+            f"Found {len(self.search_matches)} match(es)   Showing {self.search_pos + 1}/{len(self.search_matches)}"
+        )
 
     def update_move_dropdown(self):
         if not hasattr(self, "move_combo"):

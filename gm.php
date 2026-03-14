@@ -18,8 +18,6 @@ $categoryMap = [
 'All'        => 'casual',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
-$category = str_replace(' ', '-', $category);
-$category = ltrim($category, '.');
 
 if ($category === '' || !preg_match('/^[a-z0-9\-]+$/i', $category)) {
     http_response_code(400);

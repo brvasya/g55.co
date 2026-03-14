@@ -18,8 +18,6 @@ $categoryMap = [
 'All'        => 'casual',
 ];
 $category = $categoryMap[$categoryRaw] ?? $categoryRaw;
-$category = str_replace(' ', '-', $category);
-$category = ltrim($category, '.');
 $page     = (int)$_GET['p'];
 
 $type = isset($_GET['type']) ? trim((string)$_GET['type']) : 'categories';
