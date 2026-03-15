@@ -5,6 +5,11 @@
     },
     "categories": [
         {
+            "id": "sorting",
+            "name": "Sorting",
+            "description": "Sorting Games focus on organizing objects, arranging elements, and completing logic driven challenges through classification based mechanics. Players group items, manage categories, and progress through structured levels using pattern recognition systems and strategic planning skills. Gameplay often includes color sorting puzzles, sequence arrangement tasks, or space management challenges that shape pacing. These experiences highlight sorting gameplay loops and organization focused interaction systems suited for accessible browser sessions.\n\nKey Features\n\n• Object classification interaction mechanics\n• Pattern recognition gameplay systems\n• Sequence arrangement challenge loops\n• Space management progression modes\n• Logic driven sorting objectives"
+        },
+        {
             "id": "io",
             "name": ".IO",
             "description": ".IO Games focus on competing in real time multiplayer arenas where players grow stronger by collecting resources, eliminating opponents, and controlling space. Gameplay centers on survival loops, quick reactions, and tactical positioning within persistent browser based environments. These games often feature scalable progression systems and leaderboard driven objectives that reward continuous play. Simple controls combined with dynamic online ecosystems make the format ideal for fast competitive sessions and evolving player strategies.\n\nKey Features\n\n• Real time multiplayer arenas\n• Resource collection growth mechanics\n• Player versus player elimination\n• Leaderboard driven progression systems\n• Persistent browser based environments"
@@ -260,9 +265,9 @@
             "description": "Runner Games focus on guiding characters forward through continuous movement challenges, avoiding obstacles, and maintaining momentum across dynamic environments. Players time jumps, slide under hazards, and react to changing layouts using reflex driven control systems and pacing based progression loops. Gameplay often includes endless survival formats, score tracking objectives, or level based sequences that shape difficulty. These experiences highlight endless runner gameplay loops and fast reaction interaction systems suited for quick browser sessions.\n\nKey Features\n\n• Continuous forward movement mechanics\n• Reflex based obstacle challenges\n• Momentum driven navigation systems\n• Endless survival progression modes\n• Score tracking gameplay loops"
         },
         {
-            "id": "farm",
-            "name": "Farm",
-            "description": "Farm Games focus on growing crops, caring for animals, and managing rural environments through simulation driven resource mechanics. Players plant seeds, harvest produce, and expand facilities using time based progression systems and strategic planning skills. Gameplay often includes production chains, market trading objectives, or land development challenges that shape long term advancement. These experiences highlight farming simulation gameplay loops and agricultural management interaction systems suited for relaxed browser sessions.\n\nKey Features\n\n• Crop cultivation simulation mechanics\n• Animal care gameplay systems\n• Production chain progression loops\n• Market trading challenge modes\n• Land development management objectives"
+            "id": "farming",
+            "name": "Farming",
+            "description": "Farming Games focus on growing crops, caring for animals, and managing rural environments through simulation driven resource mechanics. Players plant seeds, harvest produce, and expand facilities using time based progression systems and strategic planning skills. Gameplay often includes production chains, market trading objectives, or land development challenges that shape long term advancement. These experiences highlight farming simulation gameplay loops and agricultural management interaction systems suited for relaxed browser sessions.\n\nKey Features\n\n• Crop cultivation simulation mechanics\n• Animal care gameplay systems\n• Production chain progression loops\n• Market trading challenge modes\n• Land development management objectives"
         },
         {
             "id": "shooter",
