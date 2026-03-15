@@ -111,6 +111,134 @@ def category_keyword_from_filename(name: str) -> str:
     return name.lower().replace("-", " ").strip()
 
 
+def tokenize_text(s: str) -> list[str]:
+    s = (s or "").strip().lower().replace("-", " ")
+    parts = []
+    cur = ""
+    for ch in s:
+        if ch.isalnum():
+            cur += ch
+        else:
+            if cur:
+                parts.append(cur)
+                cur = ""
+    if cur:
+        parts.append(cur)
+    return parts
+
+
+def singularize_token(t: str) -> str:
+    t = (t or "").strip().lower()
+    if len(t) < 4:
+        return t
+
+    if t.endswith("ies") and len(t) > 4:
+        return t[:-3] + "y"
+
+    if t.endswith("es") and len(t) > 4:
+        base = t[:-2]
+        if base.endswith(("s", "x", "z")) or base.endswith(("ch", "sh")):
+            return base
+
+    if t.endswith("s") and not t.endswith("ss") and len(t) > 3:
+        return t[:-1]
+
+    return t
+
+
+def gerund_to_base_token(t: str) -> str:
+    t = (t or "").strip().lower()
+    if len(t) < 6 or not t.endswith("ing"):
+        return t
+
+    stem = t[:-3]
+    if len(stem) < 3:
+        return t
+
+    if len(stem) >= 2 and stem[-1] == stem[-2] and stem[-1] not in "aeiou":
+        stem = stem[:-1]
+
+    if stem.endswith(("ac", "ag", "at", "iv", "iz", "us", "ov", "ul", "ur")):
+        return stem + "e"
+
+    return stem
+
+
+def agent_noun_to_base_token(t: str) -> str:
+    t = (t or "").strip().lower()
+    if len(t) < 5:
+        return t
+
+    if t.endswith("ier") and len(t) > 4:
+        return t[:-3] + "y"
+
+    if t.endswith("er") and len(t) > 4:
+        stem = t[:-2]
+
+        if len(stem) >= 2 and stem[-1] == stem[-2] and stem[-1] not in "aeiou":
+            stem = stem[:-1]
+
+        if stem.endswith(("ac", "ag", "at", "iv", "iz", "us", "ov", "ul", "ur")):
+            return stem + "e"
+
+        return stem
+
+    return t
+
+
+def normalize_token_variants(t: str) -> set[str]:
+    t = (t or "").strip().lower()
+    if not t:
+        return set()
+
+    out = {t}
+
+    s = singularize_token(t)
+    out.add(s)
+
+    g = gerund_to_base_token(t)
+    out.add(g)
+    out.add(singularize_token(g))
+
+    a = agent_noun_to_base_token(t)
+    out.add(a)
+    out.add(singularize_token(a))
+
+    return {x for x in out if x}
+
+
+def normalized_forms_for_text(s: str) -> list[set[str]]:
+    return [normalize_token_variants(tok) for tok in tokenize_text(s)]
+
+
+def keyword_matches_title(title: str, keyword: str) -> bool:
+    keyword_tokens = tokenize_text(keyword)
+    title_forms = normalized_forms_for_text(title)
+
+    if not keyword_tokens or not title_forms:
+        return False
+
+    if len(keyword_tokens) > len(title_forms):
+        return False
+
+    normalized_keyword_tokens = []
+    for tok in keyword_tokens:
+        variants = normalize_token_variants(tok)
+        normalized_keyword_tokens.append(variants)
+
+    k = len(normalized_keyword_tokens)
+    for i in range(0, len(title_forms) - k + 1):
+        ok = True
+        for j in range(k):
+            if title_forms[i + j].isdisjoint(normalized_keyword_tokens[j]):
+                ok = False
+                break
+        if ok:
+            return True
+
+    return False
+
+
 def count_title_keyword_matches(pages, keyword: str) -> int:
     keyword = (keyword or "").strip().lower().replace("-", " ")
     if not keyword:
@@ -118,18 +246,18 @@ def count_title_keyword_matches(pages, keyword: str) -> int:
 
     count = 0
     for it in pages:
-        title = str(it.get("title", "")).strip().lower()
-        if keyword in title:
+        title = str(it.get("title", "")).strip()
+        if keyword_matches_title(title, keyword):
             count += 1
     return count
 
 
 def title_matches_keyword(title: str, keyword: str) -> bool:
     keyword = (keyword or "").strip().lower().replace("-", " ")
-    title = (title or "").strip().lower()
+    title = (title or "").strip()
     if not keyword:
         return False
-    return keyword in title
+    return keyword_matches_title(title, keyword)
 
 
 def description_has_bullet(description: str) -> bool:

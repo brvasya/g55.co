@@ -91,10 +91,63 @@ def singularize_token(t: str) -> str:
     return t
 
 
-def maybe_singularize_tokens(tokens: list[str], enabled: bool) -> list[str]:
-    if not enabled:
-        return tokens
-    return [singularize_token(x) for x in tokens]
+def gerund_to_base_token(t: str) -> str:
+    t = (t or "").strip().lower()
+    if len(t) < 6 or not t.endswith("ing"):
+        return t
+
+    stem = t[:-3]
+    if len(stem) < 3:
+        return t
+
+    if len(stem) >= 2 and stem[-1] == stem[-2] and stem[-1] not in "aeiou":
+        stem = stem[:-1]
+
+    if stem.endswith(("ac", "ag", "at", "iv", "iz", "us", "ov", "ul", "ur")):
+        return stem + "e"
+
+    return stem
+
+
+def agent_noun_to_base_token(t: str) -> str:
+    t = (t or "").strip().lower()
+    if len(t) < 5:
+        return t
+
+    if t.endswith("ier") and len(t) > 4:
+        return t[:-3] + "y"
+
+    if t.endswith("er") and len(t) > 4:
+        stem = t[:-2]
+
+        if len(stem) >= 2 and stem[-1] == stem[-2] and stem[-1] not in "aeiou":
+            stem = stem[:-1]
+
+        if stem.endswith(("ac", "ag", "at", "iv", "iz", "us", "ov", "ul", "ur")):
+            return stem + "e"
+
+        return stem
+
+    return t
+
+
+def maybe_normalize_tokens(
+    tokens: list[str],
+    plural_enabled: bool,
+    gerund_enabled: bool,
+    agent_enabled: bool,
+) -> list[str]:
+    out = []
+    for x in tokens:
+        t = x
+        if gerund_enabled:
+            t = gerund_to_base_token(t)
+        if agent_enabled:
+            t = agent_noun_to_base_token(t)
+        if plural_enabled:
+            t = singularize_token(t)
+        out.append(t)
+    return out
 
 
 def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[int]:
@@ -171,6 +224,12 @@ class CategorizerApp(tk.Tk):
 
         self.plurals_var = tk.BooleanVar(value=False)
         ttk.Checkbutton(top, text="Plural keywords", variable=self.plurals_var).pack(side="left", padx=10)
+
+        self.gerunds_var = tk.BooleanVar(value=False)
+        ttk.Checkbutton(top, text="Gerund keywords", variable=self.gerunds_var).pack(side="left", padx=10)
+
+        self.agent_nouns_var = tk.BooleanVar(value=False)
+        ttk.Checkbutton(top, text="Agent noun keywords", variable=self.agent_nouns_var).pack(side="left", padx=10)
 
         self.min_tokens_var = tk.IntVar(value=1)
         ttk.Label(top, text="Min keyword tokens").pack(side="left", padx=(12, 4))
@@ -281,7 +340,12 @@ class CategorizerApp(tk.Tk):
             self.current_label_var.set("Current category: ")
             self.set_status("Load failed")
 
-    def build_keyword_map(self, plural_enabled: bool):
+    def build_keyword_map(
+        self,
+        plural_enabled: bool,
+        gerund_enabled: bool,
+        agent_enabled: bool,
+    ):
         keywords = []
         for fn in self.files:
             if fn == self.current_file:
@@ -290,7 +354,7 @@ class CategorizerApp(tk.Tk):
             if not slug:
                 continue
             tokens = tokenize_slug(slug)
-            tokens = maybe_singularize_tokens(tokens, plural_enabled)
+            tokens = maybe_normalize_tokens(tokens, plural_enabled, gerund_enabled, agent_enabled)
             keywords.append({"file": fn, "slug": slug, "tokens": tokens})
 
         keywords.sort(key=lambda k: (len(k["tokens"]), len(k["slug"])), reverse=True)
@@ -304,15 +368,17 @@ class CategorizerApp(tk.Tk):
         min_tokens = int(self.min_tokens_var.get() or 1)
         only_unique = bool(self.only_unique_var.get())
         plural_enabled = bool(self.plurals_var.get())
+        gerund_enabled = bool(self.gerunds_var.get())
+        agent_enabled = bool(self.agent_nouns_var.get())
 
-        keywords = self.build_keyword_map(plural_enabled)
+        keywords = self.build_keyword_map(plural_enabled, gerund_enabled, agent_enabled)
         if not keywords:
             messagebox.showinfo("No keywords", "No other categories found to use as keywords.")
             return
 
         current_slug = slug_from_filename(self.current_file)
         current_tokens = tokenize_slug(current_slug)
-        current_tokens = maybe_singularize_tokens(current_tokens, plural_enabled)
+        current_tokens = maybe_normalize_tokens(current_tokens, plural_enabled, gerund_enabled, agent_enabled)
 
         self.clear_results()
 
@@ -326,7 +392,7 @@ class CategorizerApp(tk.Tk):
                 continue
 
             title_tokens = tokenize_slug(title)
-            title_tokens = maybe_singularize_tokens(title_tokens, plural_enabled)
+            title_tokens = maybe_normalize_tokens(title_tokens, plural_enabled, gerund_enabled, agent_enabled)
 
             if current_slug != "3d" and current_tokens and find_all_subseq_positions(title_tokens, current_tokens):
                 skipped_self += 1
