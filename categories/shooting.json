@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "sling-shoot",
+            "title": "SLING & SHOOT!",
+            "iframe": "https://html5.gamedistribution.com/5e03b893d2584b59b2d6278d55b6abd7/",
+            "description": "SLING & SHOOT! is an exciting casual game that challenges players to showcase their precision and aim. As the player, you embark on a thrilling journey where you become a skilled slingshot master. The objective is simple: eliminate various targets using your slingshot skills. However, it's important to note that this task is far from easy.\r\n\r\nThe gameplay revolves around stretching your slingshot to launch projectiles at different targets strategically placed throughout the game's vibrant and dynamic environments. Each level presents a unique set of challenges and obstacles, requiring you to carefully plan your shots and adjust your aim accordingly. From stacked blocks to moving platforms, you'll encounter a wide array of hindrances that test your accuracy and problem-solving abilities.\r\n\r\nTo enhance your slingshot prowess, you have the opportunity to purchase the ultimate Slingshot and different types of ammo. These upgrades offer distinct advantages, such as increased power, better accuracy, or unique abilities that help you overcome the various obstacles in your path. Collecting coins during gameplay is the key to acquiring these upgrades, adding an extra layer of excitement and motivation to the game.\r\n\r\nSLING & SHOOT! provides an immersive and addictive experience, with its intuitive controls and visually appealing graphics. As you progress through the levels, the difficulty gradually increases, pushing you to refine your slingshot techniques and master the art of precision shooting. With each successful shot and target elimination, you'll feel a satisfying sense of accomplishment.\r\n\r\nSo, are you ready to take on the challenge? Gather your slingshot, prepare your aim, and embark on an exhilarating journey filled with obstacles, targets, and the ultimate satisfaction of becoming a slingshot champion in SLING & SHOOT!"
+        },
+        {
             "id": "duckshooting",
             "title": "Duck Shooting",
             "iframe": "https://html5.gamemonetize.games/t1g6oswl4f2oel5bq45enprxgzh43zix/",

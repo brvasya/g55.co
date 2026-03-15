@@ -200,9 +200,9 @@
             "description": "Mahjong Games focus on matching tiles, clearing layered layouts, and completing logic driven puzzles through pattern recognition mechanics. Players identify identical symbols, plan move sequences, and progress through structured boards using rule based interaction systems and spatial awareness skills. Gameplay often includes timed challenges, score tracking objectives, or themed tile sets that shape pacing. These experiences highlight tile matching gameplay loops and strategic board clearing systems suited for focused browser sessions.\n\nKey Features\n\n• Tile matching puzzle mechanics\n• Layered board interaction systems\n• Pattern recognition gameplay loops\n• Timed challenge progression modes\n• Symbol based strategic clearing"
         },
         {
-            "id": "match",
-            "name": "Match",
-            "description": "Match Games focus on aligning identical elements, forming combinations, and clearing structured grids through pattern recognition mechanics. Players swap pieces, create chain reactions, and complete objective driven levels using match based systems and timing influenced decisions. Gameplay often includes score tracking challenges, obstacle influenced layouts, or progression milestones that shape pacing. These experiences highlight matching gameplay loops and grid based interaction systems suited for accessible browser sessions.\n\nKey Features\n\n• Element matching puzzle mechanics\n• Chain reaction gameplay systems\n• Grid driven level progression\n• Score based challenge objectives\n• Obstacle influenced interaction loops"
+            "id": "matching",
+            "name": "Matching",
+            "description": "Matching Games focus on aligning identical elements, forming combinations, and clearing structured grids through pattern recognition mechanics. Players swap pieces, create chain reactions, and complete objective driven levels using match based systems and timing influenced decisions. Gameplay often includes score tracking challenges, obstacle influenced layouts, or progression milestones that shape pacing. These experiences highlight matching gameplay loops and grid based interaction systems suited for accessible browser sessions.\n\nKey Features\n\n• Element matching puzzle mechanics\n• Chain reaction gameplay systems\n• Grid driven level progression\n• Score based challenge objectives\n• Obstacle influenced interaction loops"
         },
         {
             "id": "match-3",
