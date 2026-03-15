@@ -120,9 +120,9 @@
             "description": "Driving Games focus on controlling vehicles across varied routes, managing speed, and navigating traffic or terrain through responsive simulation mechanics. Players steer, accelerate, and complete structured objectives using physics based control systems and situational awareness skills. Gameplay often includes delivery missions, free drive exploration modes, or time based challenges that shape progression. These experiences highlight vehicle operation gameplay loops and route navigation systems suited for engaging browser sessions.\n\nKey Features\n\n• Vehicle control simulation mechanics\n• Route navigation gameplay systems\n• Speed and traffic management\n• Mission based driving objectives\n• Terrain responsive movement dynamics"
         },
         {
-            "id": "educational",
-            "name": "Educational",
-            "description": "Educational Games focus on learning concepts, practicing skills, and completing knowledge based challenges through structured interactive mechanics. Players solve tasks, follow guided activities, and apply logic or memory using curriculum inspired systems and progression driven objectives. Gameplay often includes math puzzles, language exercises, or science themed simulations that support skill development. These experiences highlight learning focused gameplay loops and cognitive training structures suited for accessible browser sessions.\n\nKey Features\n\n• Knowledge based task systems\n• Logic and memory challenges\n• Curriculum inspired gameplay mechanics\n• Skill progression learning loops\n• Interactive educational simulations"
+            "id": "rush",
+            "name": "Rush",
+            "description": "Rush Games focus on reacting quickly to fast changing challenges, navigating intense environments, and completing time pressured objectives through reflex driven mechanics. Players accelerate actions, avoid hazards, and maintain momentum using real time control systems and rapid decision making skills. Gameplay often includes endless survival modes, timed level sequences, or score tracking challenges that shape pacing. These experiences highlight speed focused gameplay loops and reaction based interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Fast paced reaction mechanics\n• Time pressured challenge systems\n• Momentum driven gameplay loops\n• Endless survival progression modes\n• Score tracking objective formats"
         },
         {
             "id": "escape",
