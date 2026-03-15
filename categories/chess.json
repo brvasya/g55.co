@@ -1,6 +1,24 @@
 {
     "pages": [
         {
+            "id": "gbox-chessmazes",
+            "title": "GBox Chess Mazes",
+            "iframe": "https://html5.gamedistribution.com/d0a71c0e57ce4ee3b9c0496d037bfc4c/",
+            "description": "GBox ChessMazes is an intriguing puzzle game that puts a unique spin on traditional chess concepts. In this game, your objective is not to engage in a head-to-head battle with an opponent but rather to navigate a complex maze of chess pieces, delivering a crucial message from the King to the Castle.\r\n\r\nThe gameplay revolves around a novel concept where you must pass the message through a relay of chess pieces, each of which belongs to the opposite color. Your challenge is to strategically plan each move to create a clear path for the King to reach the Castle, all while adhering to the rules and movements associated with chess pieces.\r\n\r\nUnlike conventional chess, GBox ChessMazes offers a refreshing and thought-provoking puzzle experience, requiring players to demonstrate their problem-solving skills and chess knowledge to complete the maze and achieve the objective. It's a game that tests your ability to think multiple steps ahead and strategically maneuver your way through the intricate puzzle to deliver the King's message to its destination."
+        },
+        {
+            "id": "chessfield",
+            "title": "Chess Field",
+            "iframe": "https://html5.gamedistribution.com/a0383d2637904f0ea9e8b837b9c8acd1/",
+            "description": "Play ChessField online and take on timing based board challenges with clear objectives. Master ChessField online on G55.CO. Replayable structure encourages smarter decisions and stronger results. Prove your timing discipline during friendly competitions."
+        },
+        {
+            "id": "casual-chess",
+            "title": "Casual Chess",
+            "iframe": "https://html5.gamedistribution.com/0588f0ed6cf64c6288c27a33a4031aac/",
+            "description": "Take control in Casual Chess and dive into strategy rich board gameplay without delays. Clear objectives help maintain steady progress. Focus on risk assessment while taking on challenge stages. Launch Casual Chess now and play online for free on G55.CO."
+        },
+        {
             "id": "ai-chess-master",
             "title": "AI Chess Master",
             "iframe": "https://html5.gamemonetize.games/dznqe8bswj0hm6r1ql2eh0i522tptqmd/",
