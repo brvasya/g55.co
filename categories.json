@@ -310,9 +310,9 @@
             "description": "Solitaire Games focus on arranging cards, following rule based sequences, and completing structured layouts through turn based logic mechanics. Players draw from decks, organize stacks, and plan moves using pattern recognition systems and strategic decision making skills. Gameplay often includes classic rule variations, timed challenge modes, or score tracking objectives that shape pacing. These experiences highlight solo card gameplay loops and logical arrangement interaction systems suited for focused browser sessions.\n\nKey Features\n\n• Card arrangement logic mechanics\n• Turn based rule systems\n• Deck management gameplay loops\n• Timed challenge progression modes\n• Classic solitaire variation formats"
         },
         {
-            "id": "sports",
-            "name": "Sports",
-            "description": "Sports Games focus on competing in athletic challenges, controlling players or equipment, and completing match driven objectives through real time performance mechanics. Players manage timing, positioning, and strategic decisions using rule based systems and skill oriented progression loops. Gameplay often includes tournament formats, training challenges, or score based competitions that shape pacing. These experiences highlight sports gameplay loops and performance driven interaction systems suited for engaging browser sessions.\n\nKey Features\n\n• Athletic performance interaction mechanics\n• Player or equipment control systems\n• Match based competition loops\n• Tournament progression structures\n• Score driven challenge objectives"
+            "id": "2048",
+            "name": "2048",
+            "description": "2048 Games focus on sliding numbered tiles, combining matching values, and reaching higher totals through grid based logic mechanics. Players plan moves, control board space, and manage numerical progression using merge driven systems and pattern recognition skills. Gameplay often includes score driven challenges, endless puzzle modes, or level variations that shape pacing. These experiences highlight number merging gameplay loops and strategic grid management interaction systems suited for focused browser sessions.\n\nKey Features\n\n• Tile merging number mechanics\n• Grid based logic systems\n• Numerical progression gameplay loops\n• Score driven puzzle challenges\n• Strategic board management modes"
         },
         {
             "id": "fps",
