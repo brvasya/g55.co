@@ -220,16 +220,16 @@ class CategorizerApp(tk.Tk):
         ttk.Label(top, textvariable=self.current_label_var).pack(side="left")
 
         self.only_unique_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(top, text="Only unique best match", variable=self.only_unique_var).pack(side="left", padx=10)
+        ttk.Checkbutton(top, text="Unique", variable=self.only_unique_var).pack(side="left", padx=10)
 
         self.plurals_var = tk.BooleanVar(value=False)
-        ttk.Checkbutton(top, text="Plural keywords", variable=self.plurals_var).pack(side="left", padx=10)
+        ttk.Checkbutton(top, text="Plural", variable=self.plurals_var).pack(side="left", padx=10)
 
         self.gerunds_var = tk.BooleanVar(value=False)
-        ttk.Checkbutton(top, text="Gerund keywords", variable=self.gerunds_var).pack(side="left", padx=10)
+        ttk.Checkbutton(top, text="Gerund", variable=self.gerunds_var).pack(side="left", padx=10)
 
         self.agent_nouns_var = tk.BooleanVar(value=False)
-        ttk.Checkbutton(top, text="Agent noun keywords", variable=self.agent_nouns_var).pack(side="left", padx=10)
+        ttk.Checkbutton(top, text="Noun", variable=self.agent_nouns_var).pack(side="left", padx=10)
 
         self.min_tokens_var = tk.IntVar(value=1)
         ttk.Label(top, text="Min keyword tokens").pack(side="left", padx=(12, 4))

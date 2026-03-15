@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "jump-dash",
+            "title": "Jump Dash",
+            "iframe": "https://html5.gamedistribution.com/212dcfed3c2b4568b0069fcc346ad421/",
+            "description": "Jump Dash is a fast paced rhythm based platformer that challenges your timing and reflexes. Jump, glide, and flip through dangerous levels filled with spikes, traps, and nonstop obstacles. Each stage requires precise movement and quick reactions as the difficulty increases. With intense gameplay and a focus on skill, this action platform game delivers a thrilling arcade experience playable in your PC browser."
+        },
+        {
             "id": "pig-dasher",
             "title": "pig dasher",
             "iframe": "https://html5.gamemonetize.games/0hh1rikspiqq4pmk5ja7ioxwlhgvb2cc/",
