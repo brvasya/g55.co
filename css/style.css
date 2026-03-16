@@ -103,7 +103,6 @@ a, a:visited {
     border-radius: 5px;
     background-color: #222;
     overflow: hidden;
-    text-align: justify;
     white-space: pre-line;
 }
 .description.c {
