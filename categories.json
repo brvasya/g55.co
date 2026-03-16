@@ -330,9 +330,9 @@
             "description": "Stickman Games focus on controlling minimalist characters through action driven challenges, navigating obstacle filled levels, and engaging in combat or puzzle scenarios using simple visual mechanics. Players perform jumps, attacks, or strategic actions using responsive control systems and progression structured gameplay loops. Gameplay often includes platform encounters, battle challenges, or physics based tasks that shape pacing. These experiences highlight stick figure gameplay loops and accessible interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Minimalist character control mechanics\n• Platform and combat gameplay systems\n• Physics based challenge loops\n• Action driven progression modes\n• Simple visual interaction formats"
         },
         {
-            "id": "strategy",
-            "name": "Strategy",
-            "description": "Strategy Games focus on planning actions, managing resources, and achieving objectives through tactical decision making mechanics. Players analyze situations, deploy units or systems, and adapt to changing conditions using turn based or real time strategy structures. Gameplay often includes base development challenges, territory control scenarios, or mission driven progression that shapes outcomes. These experiences highlight strategic gameplay loops and resource management interaction systems suited for focused browser sessions.\n\nKey Features\n\n• Tactical planning interaction mechanics\n• Resource management gameplay systems\n• Unit deployment challenge loops\n• Territory control progression modes\n• Turn based or real time systems"
+            "id": "drawing",
+            "name": "Drawing",
+            "description": "Drawing Games focus on creating images, tracing outlines, and completing visual challenges through interactive artistic mechanics. Players use tools to sketch shapes, follow guides, and progress through structured activities using precision control systems and pattern recognition skills. Gameplay often includes creative tasks, puzzle based drawing objectives, or themed illustration sets that shape progression. These experiences highlight drawing gameplay loops and visual expression interaction systems suited for relaxed browser sessions.\n\nKey Features\n\n• Sketching interaction control mechanics\n• Outline tracing gameplay systems\n• Creative task progression loops\n• Puzzle driven drawing challenges\n• Themed illustration activity formats"
         },
         {
             "id": "tank",
