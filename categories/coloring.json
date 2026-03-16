@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "colors-runners",
+            "title": "Colors Runners",
+            "iframe": "https://html5.gamedistribution.com/b6e90972e80349bd9420f7af3b603ce0/",
+            "description": "Colors Runners is an exhilarating agility game that promises an engaging experience you won't want to pass up. In this captivating adventure, your objective is to slide across the vibrant landscape, gathering companions of matching colors as you dash towards the ultimate goal: the finishing line. But beware, the path to victory is fraught with peril! You must navigate with precision, ensuring that your movement mirrors the hue of your body. Deviate from the correct path, and you risk being swiftly targeted and eliminated, resulting in failure. Are you ready to take on the challenge of Colors Runners? Embark on this thrilling journey now and test your agility and reflexes to emerge victorious!"
+        },
+        {
             "id": "gaint-run-color-switch",
             "title": "Gaint Run Color Switch",
             "iframe": "https://html5.gamemonetize.games/jtck5h3kagy8axllo353cl0ch2hnu4v8/",
