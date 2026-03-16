@@ -229,7 +229,7 @@ class CategorizerApp(tk.Tk):
         ttk.Checkbutton(top, text="Gerund", variable=self.gerunds_var).pack(side="left", padx=10)
 
         self.agent_nouns_var = tk.BooleanVar(value=False)
-        ttk.Checkbutton(top, text="Noun", variable=self.agent_nouns_var).pack(side="left", padx=10)
+        ttk.Checkbutton(top, text="Er", variable=self.agent_nouns_var).pack(side="left", padx=10)
 
         self.min_tokens_var = tk.IntVar(value=1)
         ttk.Label(top, text="Min keyword tokens").pack(side="left", padx=(12, 4))
