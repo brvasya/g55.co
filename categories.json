@@ -5,6 +5,11 @@
     },
     "categories": [
         {
+            "id": "kids",
+            "name": "Kids",
+            "description": "Kids Games focus on completing simple challenges, exploring playful environments, and learning basic interactions through accessible gameplay mechanics. Players perform actions such as matching shapes, guiding characters, or solving light puzzles using intuitive control systems and structured progression loops. Gameplay often includes educational tasks, creative activities, or mini game formats that support early skill development. These experiences highlight child friendly gameplay loops and guided interaction systems suited for casual browser sessions.\n\nKey Features\n\n• Simple interaction control mechanics\n• Shape and pattern matching systems\n• Educational challenge gameplay loops\n• Creative activity progression modes\n• Guided learning objective formats"
+        },
+        {
             "id": "sorting",
             "name": "Sorting",
             "description": "Sorting Games focus on organizing objects, arranging elements, and completing logic driven challenges through classification based mechanics. Players group items, manage categories, and progress through structured levels using pattern recognition systems and strategic planning skills. Gameplay often includes color sorting puzzles, sequence arrangement tasks, or space management challenges that shape pacing. These experiences highlight sorting gameplay loops and organization focused interaction systems suited for accessible browser sessions.\n\nKey Features\n\n• Object classification interaction mechanics\n• Pattern recognition gameplay systems\n• Sequence arrangement challenge loops\n• Space management progression modes\n• Logic driven sorting objectives"
