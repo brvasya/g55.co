@@ -5,6 +5,16 @@
     },
     "categories": [
         {
+            "id": "stack",
+            "name": "Stack",
+            "description": "Stack Games focus on placing objects, balancing structures, and building vertical formations through timing driven precision mechanics. Players drop elements, align layers, and maintain stability using physics based interaction systems and spatial awareness skills. Gameplay often includes score driven challenges, endless progression modes, or level based stacking tasks that shape pacing. These experiences highlight stacking gameplay loops and balance focused interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Precision stacking control mechanics\n• Balance and stability systems\n• Physics driven placement gameplay\n• Score based challenge progression\n• Endless or level stacking modes"
+        },
+        {
+            "id": "rescue",
+            "name": "Rescue",
+            "description": "Rescue Games focus on saving characters, navigating hazardous environments, and completing mission driven objectives through action or strategy based mechanics. Players guide heroes, overcome obstacles, and manage timing using real time control systems and situational awareness skills. Gameplay often includes emergency response scenarios, puzzle based rescue tasks, or level progression challenges that shape pacing. These experiences highlight rescue mission gameplay loops and hazard management interaction systems suited for engaging browser sessions.\n\nKey Features\n\n• Mission based rescue mechanics\n• Hazard navigation gameplay systems\n• Real time response challenge loops\n• Puzzle driven objective formats\n• Hero guidance progression modes"
+        },
+        {
             "id": "kids",
             "name": "Kids",
             "description": "Kids Games focus on completing simple challenges, exploring playful environments, and learning basic interactions through accessible gameplay mechanics. Players perform actions such as matching shapes, guiding characters, or solving light puzzles using intuitive control systems and structured progression loops. Gameplay often includes educational tasks, creative activities, or mini game formats that support early skill development. These experiences highlight child friendly gameplay loops and guided interaction systems suited for casual browser sessions.\n\nKey Features\n\n• Simple interaction control mechanics\n• Shape and pattern matching systems\n• Educational challenge gameplay loops\n• Creative activity progression modes\n• Guided learning objective formats"
