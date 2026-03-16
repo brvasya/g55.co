@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "color-pixel-shooter",
+            "title": "Color Pixel Shooter",
+            "iframe": "https://html5.gamedistribution.com/622dfb5b67c7495999a456df61e5a19a/",
+            "description": "Color Pixel Shooter is an exhilarating and entertaining game that transports players into a vibrant pixelated world. As a player, you have the opportunity to select from a variety of enjoyable weapons to embark on an action-packed shooting adventure. Each weapon offers its unique characteristics and abilities, adding an element of strategy to the gameplay. The game is divided into different sections, each filled with a diverse array of pixel characters. These characters are drawn from both the pixel world and other beloved games, creating a nostalgic and visually appealing experience. Through your skillful shooting, your objective is to annihilate these pixel characters and progress further into the game. As you eliminate the pixel characters, they transform into satisfyingly shattering cubes, rewarding you with profits. These profits can be accumulated and utilized to enhance your gameplay experience. By collecting gold scattered throughout the game, you can boost your earnings and expedite your progress. With the accumulated funds, you have the exciting opportunity to purchase new weapons, unlocking a multitude of creative and powerful options. As you explore the vast arsenal of weapons available, you can tailor your playstyle to your preferences and experiment with different strategies. This progression system adds depth and replayability to the game, ensuring a constant sense of excitement and discovery. Color Pixel Shooter promises a delightful and immersive gaming experience, combining nostalgic pixel visuals with fast-paced shooting mechanics. Whether you're a fan of pixelated aesthetics or simply looking for an entertaining shooting game, Color Pixel Shooter offers endless hours of fun and enjoyment. So gear up, grab your favorite weapon, and get ready to immerse yourself in this colorful and thrilling pixel world!"
+        },
+        {
             "id": "pixel-shooter-io",
             "title": "Pixel Shooter.IO",
             "iframe": "https://html5.gamedistribution.com/3dff4457ec07485fa5f00920fcff4a9b/",
