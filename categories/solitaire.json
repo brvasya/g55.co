@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "spooky-tripeaks",
+            "title": "Spooky Tripeaks Solitaire",
+            "iframe": "https://html5.gamedistribution.com/01e4280eaa514cf28606f04cfae41599/",
+            "description": "Spooky Tripeaks is an engaging and eerie rendition of the classic Solitaire game, tailored perfectly for the Halloween season. Tasked with navigating through a staggering 100 levels, players find themselves immersed in a haunted atmosphere where strategy and skill are paramount.\r\n\r\nThe objective remains familiar: clear the cards from the board by forming sequences in ascending or descending order. However, what sets this version apart are the elements of suspense and thrill woven into the gameplay. To aid in this daunting endeavor, the game offers a lifeline in the form of jokers and assorted bonus cards that, when strategically used, can simplify the challenging journey ahead.\r\n\r\nWhat truly encapsulates the essence of Spooky Tripeaks are the spectral apparitions lurking within. Ghosts and other spooky characters populate the game interface, tempting players to interact with them. Upon clicking these spectral entities, bonus cards materialize, providing a boost to the player's arsenal. These bonus cards become indispensable tools, essential for overcoming the escalating difficulty of each level.\r\n\r\nAs the game progresses, the haunting ambiance intensifies, with eerie sound effects and haunting visuals immersing players deeper into the spine-chilling experience. The combination of the traditional Solitaire mechanics with a Halloween-themed backdrop, coupled with the suspense of uncovering bonus cards through ghostly interactions, makes Spooky Tripeaks a thrilling and addictive journey through the shadows of a haunted solitaire adventure."
+        },
+        {
             "id": "classic-solitaire-master",
             "title": "Classic Solitaire Master",
             "iframe": "https://html5.gamemonetize.games/zp0dlpa30e384e5eq9jlue2tilbcueo2/",
