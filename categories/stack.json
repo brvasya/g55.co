@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "stack-maze-puzzle",
+            "title": "Stack Maze Puzzle",
+            "iframe": "https://html5.gamedistribution.com/9c18d1fd710e4bdfb9320ca0afba483e/",
+            "description": "Stack Maze Puzzle is an engaging leisure game that offers players a captivating puzzle-solving experience at no cost. Participants embark on a journey where they must carefully select the optimal paths within the game's intricate mazes while collecting as many boards as they can, all accomplished through sliding maneuvers. With its diverse array of game modes, extensive level selection, and a plethora of maze variations, players are treated to a rich gaming experience that ensures ample enjoyment and satisfaction for aficionados of maze challenges."
+        },
+        {
             "id": "stack-blocks-3d",
             "title": "Stack Blocks 3D",
             "iframe": "https://html5.gamedistribution.com/78ec27d65f614debbd007605ff7faf29/",

@@ -236,7 +236,6 @@ class CategorizerApp(tk.Tk):
         ttk.Spinbox(top, from_=1, to=5, width=3, textvariable=self.min_tokens_var).pack(side="left")
 
         ttk.Button(top, text="Scan", command=self.scan).pack(side="left", padx=10)
-        ttk.Button(top, text="Sort A-Z", command=self.sort_matched_keywords_alphabetically).pack(side="left", padx=6)
         ttk.Button(top, text="Move selected", command=self.move_selected).pack(side="left", padx=6)
         ttk.Button(top, text="Move all", command=self.move_all).pack(side="left", padx=6)
 

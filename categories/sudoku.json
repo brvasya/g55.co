@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "queens-royal-sudoku-puzzle",
+            "title": "Queens Royal: Sudoku Puzzle",
+            "iframe": "https://html5.gamedistribution.com/60f0c13b4bbc412eb0c3bb9479f10fc4/",
+            "description": "Queens Royal: Sudoku Puzzle is a refined logic game that transforms the famous eight queens challenge into a modern puzzle experience with thousands of levels to enjoy. Your mission is to strategically place queens on the board so that none of them threaten each other—no shared rows, columns, diagonals, or color zones. Each level requires careful thought and precise moves, rewarding players who can think ahead and plan their placements with accuracy. With more than 5000 puzzles to solve, the game offers endless opportunities to sharpen your mind.\r\n\r\nThe design blends elegance with functionality, featuring clean visuals, smooth controls, and smart hint options that guide you when stuck without spoiling the challenge. Daily challenges keep the experience fresh, while the endless mode ensures there’s always another puzzle waiting. Each stage pushes you to refine your reasoning, making it both a relaxing pastime and a stimulating brain workout. Whether you’re new to logic puzzles or a seasoned strategist, the difficulty adapts to keep the experience engaging.\r\n\r\nPerfect for fans of Sudoku, chess-inspired puzzles, and brain-training games, Queens Royal: Sudoku Puzzle delivers a sophisticated take on classic logic challenges. Its blend of vast content, polished presentation, and strategic depth makes it ideal for quick sessions or long playtimes. Step into the royal court of puzzles, test your intellect, and prove you have the precision to master every level."
+        },
+        {
+            "id": "classic-sudoku-puzzle-77585",
+            "title": "Classic Sudoku Puzzle",
+            "iframe": "https://html5.gamemonetize.games/isuj52a72y7ju4j2g6ohjb2dj5aezh5i/",
+            "description": "Classic Sudoku Puzzle is a captivating number game designed to challenge your cognitive abilities. With its addictive gameplay, this puzzle will put your brainpower to the test. Your objective is to fill every space on the grid within the given time limit. Whether you're a beginner or a seasoned player, our game promises to provide a stimulating mental workout. So, dive in and exercise your mind with Classic Sudoku Puzzle!"
+        },
+        {
             "id": "classic-sudoku-puzzle",
             "title": "Classic Sudoku Puzzle",
             "iframe": "https://html5.gamedistribution.com/9ec319450435426daa47f50331d8e3dc/",
