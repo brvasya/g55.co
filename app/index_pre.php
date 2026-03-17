@@ -101,7 +101,7 @@ if ($hasC) {
   $h1 = ($totalCount > 0 ? number_format($totalCount) . ' ' : '') . $site['title'];
   $desc = $site['description'];
 
-  $title = $h1;
+  $title = $h1 . ' ▶ Play Now';
   $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $desc)[0]));
   $canonical = 'https://g55.co/';
 }
