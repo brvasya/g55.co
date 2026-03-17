@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "classic-sudoku-puzzle",
+            "title": "Classic Sudoku Puzzle",
+            "iframe": "https://html5.gamedistribution.com/9ec319450435426daa47f50331d8e3dc/",
+            "description": "Classic Sudoku Puzzle is a popular logic-based puzzle game that has been around for decades. The objective of the game is to fill a 9x9 grid with numbers from 1 to 9, such that each row, column, and 3x3 subgrid contains all the digits from 1 to 9 without repetition. The game is easy to understand, but it requires concentration, attention to detail, and a good memory to solve it. The game starts with a partially filled grid, and the player's task is to use logic and deduction to fill in the missing numbers. The player must ensure that each number they enter into the grid does not violate the game's rules of having no repeated numbers in any row, column, or subgrid. The game is won when the player successfully fills in all the missing numbers in the grid. Classic Sudoku Puzzle is a timeless game that can be played by people of all ages and skill levels. It's an excellent brain exercise that helps improve logical reasoning, problem-solving skills, and concentration. The game can be played at any time, anywhere, and is an excellent way to pass the time while waiting for an appointment or commuting. Overall, Classic Sudoku Puzzle is a fun, challenging, and addictive puzzle game that never gets old. It's a great way to keep your mind sharp and entertained, and once you start playing, you won't be able to stop!"
+        },
+        {
             "id": "brainrot-sudoku",
             "title": "Brainrot Sudoku",
             "iframe": "https://html5.gamemonetize.games/lfc6qibeu2mqgn8zzjyee01ldhfpo0qu/",
