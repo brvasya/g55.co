@@ -51,7 +51,7 @@ if ($page === null) {
 }
 
 $pageTitle = $page['title'];
-$title = $pageTitle . ' &#9654; Play Free ' . $cat['name'] . ' Game Online';
+$title = $pageTitle . ' ▶ Play Free ' . $cat['name'] . ' Game Online';
 
 $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $page['description'])[0]));
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
