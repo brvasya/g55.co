@@ -77,7 +77,7 @@ if ($hasC) {
 
   $desc = $cat['description'];
 
-  $title = $h1;
+  $title = $h1 . ' ▶ Play Free Online';
   $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $desc)[0]));
 } else {
   $totalCount = 0;
