@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "vortex-ball",
+            "title": "Vortex Ball",
+            "iframe": "https://html5.gamedistribution.com/22c23c982349439294e9a3d0d55b7a76/",
+            "description": "Challenge yourself in Vortex Ball with smooth paced casual gameplay designed for progression. Advance your decision making throughout light challenges. Consistent mechanics make it easy to return and improve. Begin your next session of Vortex Ball on G55.CO."
+        },
+        {
             "id": "pool-shooter-billiard-ball",
             "title": "Pool Shooter Billiard Ball",
             "iframe": "https://html5.gamedistribution.com/aa794fb1b2414b89b028be6fe3deaa75/",
