@@ -352,10 +352,13 @@ class JsonGui(tk.Tk):
 
         self.name_title_label = ttk.Label(form, text="Title")
         self.name_title_label.grid(row=0, column=0, sticky="w")
+
         self.title_var = tk.StringVar()
-        ttk.Entry(form, textvariable=self.title_var, width=48).grid(
-            row=1, column=0, columnspan=2, sticky="we", pady=(0, 8)
-        )
+        self.title_entry = ttk.Entry(form, textvariable=self.title_var, width=42)
+        self.title_entry.grid(row=1, column=0, sticky="we", pady=(0, 8), padx=(0, 6))
+
+        self.copy_title_btn = ttk.Button(form, text="Copy", command=self.copy_title, width=10)
+        self.copy_title_btn.grid(row=1, column=1, sticky="e", pady=(0, 8))
 
         ttk.Label(form, text="Id").grid(row=2, column=0, sticky="w")
         self.id_var = tk.StringVar()
@@ -417,6 +420,8 @@ class JsonGui(tk.Tk):
 
         ttk.Label(right, textvariable=self.status_var).pack(anchor="w", pady=(10, 0))
 
+        form.columnconfigure(0, weight=1)
+
         self.refresh_category_list()
         self.set_status("Ready")
         self.new_template()
@@ -424,6 +429,20 @@ class JsonGui(tk.Tk):
 
     def set_status(self, text: str):
         self.status_var.set(text)
+
+    def copy_title(self):
+        value = self.title_var.get().strip()
+        if not value:
+            self.set_status("Title is empty")
+            return
+
+        try:
+            self.clipboard_clear()
+            self.clipboard_append(value)
+            self.update_idletasks()
+            self.set_status("Title copied")
+        except Exception:
+            self.set_status("Copy failed")
 
     def is_root_categories_mode(self) -> bool:
         return self.mode == "categories"
