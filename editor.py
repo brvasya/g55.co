@@ -1,6 +1,7 @@
 import json
 import os
 import tkinter as tk
+import webbrowser
 from tkinter import ttk, messagebox
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -369,8 +370,11 @@ class JsonGui(tk.Tk):
         self.iframe_label = ttk.Label(form, text="Iframe")
         self.iframe_label.grid(row=4, column=0, sticky="w")
         self.iframe_var = tk.StringVar()
-        self.iframe_entry = ttk.Entry(form, textvariable=self.iframe_var, width=48)
-        self.iframe_entry.grid(row=5, column=0, columnspan=2, sticky="we", pady=(0, 8))
+        self.iframe_entry = ttk.Entry(form, textvariable=self.iframe_var, width=42)
+        self.iframe_entry.grid(row=5, column=0, sticky="we", pady=(0, 8), padx=(0, 6))
+
+        self.open_iframe_btn = ttk.Button(form, text="Open", command=self.open_iframe_url, width=10)
+        self.open_iframe_btn.grid(row=5, column=1, sticky="e", pady=(0, 8))
 
         self.desc_label = ttk.Label(form, text="Description")
         self.desc_label.grid(row=6, column=0, sticky="w")
@@ -444,6 +448,25 @@ class JsonGui(tk.Tk):
         except Exception:
             self.set_status("Copy failed")
 
+    def open_iframe_url(self):
+        if self.is_root_categories_mode():
+            self.set_status("Open is unavailable in categories mode")
+            return
+
+        url = self.iframe_var.get().strip()
+        if not url:
+            self.set_status("Iframe is empty")
+            return
+
+        if not (url.startswith("http://") or url.startswith("https://")):
+            url = "https://" + url
+
+        try:
+            webbrowser.open_new_tab(url)
+            self.set_status("Opened iframe URL")
+        except Exception:
+            self.set_status("Open failed")
+
     def is_root_categories_mode(self) -> bool:
         return self.mode == "categories"
 
@@ -452,6 +475,7 @@ class JsonGui(tk.Tk):
             self.name_title_label.config(text="Name")
             self.iframe_label.grid_remove()
             self.iframe_entry.grid_remove()
+            self.open_iframe_btn.grid_remove()
             self.desc_label.grid()
             self.desc_text.grid()
             self.move_btn.state(["disabled"])
@@ -460,6 +484,7 @@ class JsonGui(tk.Tk):
             self.name_title_label.config(text="Title")
             self.iframe_label.grid()
             self.iframe_entry.grid()
+            self.open_iframe_btn.grid()
             self.desc_label.grid()
             self.desc_text.grid()
             self.move_btn.state(["!disabled"])
