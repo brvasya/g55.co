@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "stick-war-adventure",
+            "title": "Stick War Adventure",
+            "iframe": "https://html5.gamedistribution.com/1c632c1cbb294308895ea3a3bc989ea2/",
+            "description": "Stick War Adventure is an action-packed game where you embark on an epic journey with a fearless stickman warrior. As the hero, your mission is to defeat waves of enemies that grow stronger with each level. Armed with various weapons and special abilities, you'll need to strategize and use your skills to overcome your foes. The game features a series of levels, each with unique challenges and enemy types. As you defeat enemies, you'll collect gold and items that can be used to upgrade your stickman. Upgrades include increased strength, enhanced weapons, and special attacks that provide an edge in battle. Between levels, you can visit the upgrade section to improve your character and prepare for the tougher battles ahead. The game also includes intense boss fights, where you'll face off against powerful enemies that require all your skills and strategy to defeat. Stick War Adventure's graphics are simple yet engaging, with smooth animations and dynamic combat scenes. The sound effects and music add to the excitement, creating an immersive experience. Whether you're a fan of action games or looking for a new adventure, Stick War Adventure offers hours of thrilling gameplay. Get ready to join the fight and become the ultimate stickman warrior!"
+        },
+        {
             "id": "strategy-of-war",
             "title": "Strategy of War",
             "iframe": "https://html5.gamedistribution.com/bf7c408186694fcf9f63024901828d81/",
