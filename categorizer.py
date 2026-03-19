@@ -427,7 +427,7 @@ class CategorizerApp(tk.Tk):
             title_tokens = tokenize_slug(title)
             title_tokens = maybe_normalize_tokens(title_tokens, plural_enabled, gerund_enabled, agent_enabled)
 
-            if current_slug != "3d" and current_tokens and find_all_subseq_positions(title_tokens, current_tokens):
+            if current_tokens and find_all_subseq_positions(title_tokens, current_tokens):
                 skipped_self += 1
                 continue
 
