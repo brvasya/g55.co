@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "math-block",
+            "title": "Math Block",
+            "iframe": "https://html5.gamedistribution.com/3696faedf5d14ccfa6abb23379f8a25b/",
+            "description": "Launch Math Block instantly and take on brain focused educational challenges in your browser. Begin your next session of Math Block on G55.CO. Focus on attention to detail while taking on memory training rounds. Built for quick matches and steady progress."
+        },
+        {
+            "id": "math-magic-battle",
+            "title": "Math Magic Battle",
+            "iframe": "https://html5.gamedistribution.com/fcf723f3ef6f452681156ff6e60eda4d/",
+            "description": "Enter Math Magic Battle and enjoy challenge heavy battle gameplay designed for fast action. Push further in strategy rounds to advance offensive planning. Quick access design supports consistent action. Jump into Math Magic Battle today on G55.CO."
+        },
+        {
             "id": "math-forest-match",
             "title": "Math Forest Match",
             "iframe": "https://html5.gamemonetize.games/wf0pb7lezxfo8z57yb9t7ba0je8j1r3n/",
