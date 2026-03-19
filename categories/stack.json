@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "cube-stack-2048",
+            "title": "Cube Stack 2048",
+            "iframe": "https://html5.gamedistribution.com/4986d09724854afaa85f89ed717f27bc/",
+            "description": "Step into Cube Stack 2048 and enjoy reflex based runner gameplay focused on precision. Dive into checkpoint runs to build spatial awareness. Master Cube Stack 2048 online on G55.CO. Replayable structure encourages smarter decisions and stronger results."
+        },
+        {
             "id": "stack-n-sort",
             "title": "Stack n Sort",
             "iframe": "https://html5.gamedistribution.com/3d150c1161674a72a4f1fdab9914b13b/",

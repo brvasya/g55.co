@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "ballrun2048",
+            "title": "Ball Run 2048",
+            "iframe": "https://html5.gamemonetize.games/yso6yuyo4enm6vdxz6rdjmyvxrjxo75m/",
+            "description": "Take control in BallRun2048 and dive into high score driven arcade gameplay without delays. Replay anytime for fresh runs and better results. Explore BallRun2048 online on G55.CO. Work on focus endurance as you complete challenge stages."
+        },
+        {
             "id": "vortex-ball",
             "title": "Vortex Ball",
             "iframe": "https://html5.gamedistribution.com/22c23c982349439294e9a3d0d55b7a76/",
