@@ -161,6 +161,22 @@ def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[
     return hits
 
 
+def build_match_priority(hits: list[int], key_tokens: list[str], slug: str) -> tuple[int, int, int, int]:
+    first_hit = min(hits)
+    return (
+        len(key_tokens),
+        -first_hit,
+        len(hits),
+        len(slug),
+    )
+
+
+def build_display_score(priority: tuple[int, int, int, int]) -> int:
+    token_count, negative_first_hit, hit_count, slug_len = priority
+    first_hit = -negative_first_hit
+    return (token_count * 1000) + (hit_count * 50) - first_hit + slug_len
+
+
 class CategorizerApp(tk.Tk):
     def __init__(self):
         super().__init__()
@@ -416,6 +432,7 @@ class CategorizerApp(tk.Tk):
                 continue
 
             best = None
+            best_priority = None
             best_score = -1
             ties = 0
 
@@ -428,13 +445,15 @@ class CategorizerApp(tk.Tk):
                 if not hits:
                     continue
 
-                score = (len(kt) * 100) + (len(hits) * 10)
+                priority = build_match_priority(hits, kt, kw["slug"])
+                score = build_display_score(priority)
 
-                if score > best_score:
+                if best_priority is None or priority > best_priority:
+                    best_priority = priority
                     best_score = score
                     best = kw
                     ties = 0
-                elif score == best_score:
+                elif priority == best_priority:
                     ties += 1
 
             if best is None:
