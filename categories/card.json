@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "battle-cards",
+            "title": "Battle Cards",
+            "iframe": "https://html5.gamemonetize.games/q4tsg2xlc5i3ba5obohyd8dqsapebylv/",
+            "description": "Battle Cards is an enthralling card roguelike that unfolds within the dynamic confines of a playing field. Players navigate their hero card strategically across the battleground, triggering collisions with adjacent cards that influence the course of their perilous journey. The game mechanics introduce an array of card types, each wielding distinctive properties that dictate the outcome of encounters.\r\n\r\nMonster cards and spike cards loom as menacing obstacles, threatening to deplete the health of your valiant card. Conversely, the presence of healing cards provides a lifeline, mending the wounds inflicted upon your hero. Gold cards, on the other hand, bestow a boon upon your endeavors by augmenting your game score.\r\n\r\nEvery movement within the game engenders a distinctive and challenging situation, forming a series of mini-puzzles that demand strategic acumen for resolution. The interplay of card collisions and their consequential effects ensures that each step in your hero's journey is a calculated maneuver, prompting players to engage in thoughtful decision-making to surmount the intricate challenges that lie ahead. Battle Cards beckons players into a realm where wit and strategy reign supreme, offering an immersive and dynamic card-based roguelike experience."
+        },
+        {
             "id": "stick-cards-war",
             "title": "Stick Cards War",
             "iframe": "https://html5.gamemonetize.games/5i0n78izpy4jmko3x83a5mu4nj9zwrnm/",

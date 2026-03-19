@@ -5,6 +5,11 @@
     },
     "categories": [
         {
+            "id": "monster-truck",
+            "name": "Monster Truck",
+            "description": "Crush obstacles, race across dirt arenas, and launch oversized vehicles through extreme stunt courses built around high impact driving challenges. Monster Truck games focus on throttle control, suspension physics, and terrain adaptation while completing event based objectives or freestyle scoring runs. Players navigate ramps, wreckage zones, and competitive circuits using real time vehicle handling systems designed for heavy duty off road performance and destructive stunt gameplay scenarios.\n\nKey Features\n\n• Heavy vehicle physics control\n• Off road stunt track design\n• Obstacle crushing gameplay loops\n• Freestyle event scoring systems\n• Competitive racing arena modes"
+        },
+        {
             "id": "stack",
             "name": "Stack",
             "description": "Stack Games focus on placing objects, balancing structures, and building vertical formations through timing driven precision mechanics. Players drop elements, align layers, and maintain stability using physics based interaction systems and spatial awareness skills. Gameplay often includes score driven challenges, endless progression modes, or level based stacking tasks that shape pacing. These experiences highlight stacking gameplay loops and balance focused interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Precision stacking control mechanics\n• Balance and stability systems\n• Physics driven placement gameplay\n• Score based challenge progression\n• Endless or level stacking modes"
@@ -63,11 +68,6 @@
             "id": "basketball",
             "name": "Basketball",
             "description": "Basketball Games focus on shooting, dribbling, and scoring points through competitive matches or skill based challenges on virtual courts. Players control movement, aim shots, and execute timing driven actions using arcade or simulation style mechanics. Gameplay often includes tournament progression systems, one on one match formats, or precision shooting modes that test coordination and reaction speed. These experiences highlight court based sports gameplay loops and scoring driven objectives designed for accessible browser play.\n\nKey Features\n\n• Shot aiming timing mechanics\n• Dribbling and movement control\n• Court based scoring systems\n• One on one match formats\n• Tournament progression structures"
-        },
-        {
-            "id": "battle",
-            "name": "Battle",
-            "description": "Battle Games focus on engaging opponents through combat driven encounters that test reaction speed, positioning, and tactical decision making. Players control characters, deploy attacks, and navigate arenas using real time action systems or structured mission objectives. Gameplay often includes weapon selection mechanics, enemy wave progression, and skill based survival challenges that shape each encounter. These experiences highlight combat focused gameplay loops and competitive engagement scenarios within fast paced browser sessions.\n\nKey Features\n\n• Real time combat interaction systems\n• Weapon selection gameplay mechanics\n• Enemy wave survival progression\n• Arena based engagement structures\n• Tactical positioning challenge loops"
         },
         {
             "id": "jewel",
