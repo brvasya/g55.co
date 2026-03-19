@@ -238,13 +238,13 @@ class CategorizerApp(tk.Tk):
         self.only_unique_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Unique", variable=self.only_unique_var).pack(side="left", padx=10)
 
-        self.plurals_var = tk.BooleanVar(value=False)
+        self.plurals_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Plural", variable=self.plurals_var).pack(side="left", padx=10)
 
-        self.gerunds_var = tk.BooleanVar(value=False)
+        self.gerunds_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Gerund", variable=self.gerunds_var).pack(side="left", padx=10)
 
-        self.agent_nouns_var = tk.BooleanVar(value=False)
+        self.agent_nouns_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Er", variable=self.agent_nouns_var).pack(side="left", padx=10)
 
         self.min_tokens_var = tk.IntVar(value=1)
