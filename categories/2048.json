@@ -1,6 +1,42 @@
 {
     "pages": [
         {
+            "id": "2048-runner",
+            "title": "2048 Runner",
+            "iframe": "https://html5.gamedistribution.com/a0265ff1e34c4a1cb92a9996b2787526/",
+            "description": "2048 Runner is an exhilarating arcade game that challenges players to navigate through a dynamic and ever-changing environment. In this fast-paced adventure, your goal is to reach the end of each level by maneuvering through a series of gates and cubes while merging with similar cubes along the way.\r\n\r\nAs you embark on this thrilling journey, you'll encounter gates that come in two types: negative and positive. Negative gates are obstacles to be avoided at all costs, as they hinder your progress. On the other hand, positive gates open up new possibilities for merging with cubes and advancing through the level.\r\n\r\nThe key strategy in 2048 Runner lies in merging with cubes of the same number. By combining identical cubes, their numbers will add up, creating a more powerful cube. However, you must be cautious and avoid cubes with different numbers, as merging with them is not possible.\r\n\r\nEach level in the game has an objective, represented by a target number. To successfully complete the level, you must merge cubes and navigate through the gates to reach a number that is greater than or equal to the objective. It requires both quick reflexes and strategic thinking to optimize your movements and ensure your number remains above the level's target.\r\n\r\nOne of the main challenges in 2048 Runner is managing the negative gates. These gates are associated with a numerical value, and as you pass through them, they gradually decrease. If the value reaches zero, it's game over. To overcome this obstacle, you need to make calculated decisions and carefully plan your route, avoiding the negative gates whenever possible.\r\n\r\nAs you progress through the game, the levels become progressively more difficult, introducing new obstacles and patterns that demand heightened skill and adaptability. Success in 2048 Runner relies on your ability to react swiftly to changing circumstances, plan your moves strategically, and maintain a balance between merging with cubes and avoiding the wrong ones.\r\n\r\nWith its captivating gameplay, vibrant visuals, and the addictive challenge of achieving high scores, 2048 Runner offers an engaging and immersive experience for both casual players and avid arcade enthusiasts. Prepare yourself for an adrenaline-fueled adventure that will put your reflexes and mental agility to the test as you strive to conquer each level and emerge victorious in this exciting game."
+        },
+        {
+            "id": "2048-run-gorgeous-balls",
+            "title": "2048 Run Gorgeous Balls",
+            "iframe": "https://html5.gamedistribution.com/1144b9340c2a4d359b2d03cb5ff1e3b7/",
+            "description": "2048 Run: Gorgeous Balls is a unique and exciting arcade game where you control colorful balls racing along a dynamic track, aiming to achieve the highest score possible. Inspired by the classic 2048 puzzle game, this game combines the thrill of racing with the challenge of merging identical balls to create larger, more powerful ones. The goal is to continue merging and upgrading your balls as you race along the track, collecting points and avoiding obstacles along the way.  \r\n\r\nThe game offers a fun, fast-paced experience with vibrant graphics and an engaging soundtrack, making each race an enjoyable adventure. As you progress, the track becomes more challenging with more obstacles and faster speeds, requiring quick reflexes and strategic planning to maintain your momentum.  \r\n\r\n2048 Run: Gorgeous Balls provides an enjoyable blend of puzzle-solving and arcade racing. Compete for high scores, merge balls, and navigate through increasingly tricky levels. Can you become the fastest and most skilled player in this colorful, action-packed race to the finish?"
+        },
+        {
+            "id": "2048-run-3d",
+            "title": "2048 Run 3D",
+            "iframe": "https://html5.gamedistribution.com/efd9e3f1a0b74cc6bcb24b05510b06e9/",
+            "description": "2048 Run 3D is an exciting, free online game tailored for boys seeking a casual yet engaging gaming experience. This newly introduced digital game invites players to navigate a ball through a dynamic environment, merging it with various numbers along the way. The primary goal is to combine balls that share the same number and color, ultimately aiming to achieve the coveted 2048 merge.\r\n\r\nWhile on this thrilling journey, players encounter numerous obstacles scattered across the pathway. Maneuvering the ball through these challenges requires strategy and precision. The game's ultimate score hinges on the merged number achieved during gameplay. As players successfully merge larger numbers, their scores elevate, offering a more rewarding and enriching gaming experience.\r\n\r\nGet ready to immerse yourself in this addictive game, where merging balls and navigating obstacles lead to an exhilarating adventure! Enjoy the challenge and have a blast playing 2048 Run 3D!"
+        },
+        {
+            "id": "2048-cube-runner-ultimate",
+            "title": "2048 Cube Runner ultimate",
+            "iframe": "https://html5.gamemonetize.games/lrjjbrw3q06ypjecioyavretjgv3luku/",
+            "description": "Step into 2048 Cube Runner ultimate and enjoy fun focused casual gameplay focused on precision. Work on rhythm awareness as you complete short rounds. Unlock fast access to 2048 Cube Runner ultimate on G55.CO. Replayable structure encourages smarter decisions and stronger results."
+        },
+        {
+            "id": "2048-cube-run",
+            "title": "2048 Cube Run",
+            "iframe": "https://html5.gamemonetize.games/ujlx1cbzxe7huntq9ph0kw76gwtxw3g6/",
+            "description": "2048 Cube Run is an exhilarating twist on the classic 2048 puzzle game, where fast-paced action meets strategic merging! In this dynamic runner, you’ll gather 2048 cubes while navigating through vibrant environments filled with challenges and obstacles. Your goal is to merge cubes of the same color and number, growing larger as you progress on your journey. The thrill of watching your collection expand will keep you hooked!\r\n\r\nAs you race through each level, aim for the ultimate challenge of reaching 2048 or beyond. The game features smooth controls and responsive mechanics, making it easy to maneuver and merge cubes effortlessly. The colorful graphics and lively animations add to the excitement, creating an immersive experience that captures the essence of fun and competition.\r\n\r\nWith each successful merge, you’ll feel a sense of accomplishment, pushing you to improve your skills and beat your high score. Perfect for players who enjoy both action and strategy, 2048 Cube Run offers endless hours of entertainment. Can you master the art of merging and conquer the cube-filled track? Get ready to run, merge, and dominate in this thrilling adventure!"
+        },
+        {
+            "id": "2048-abc-runner",
+            "title": "2048 ABC Runner",
+            "iframe": "https://html5.gamedistribution.com/c5c39da5654d41f69c3047a6975ad315/",
+            "description": "2048 ABC Runner is a unique agility game that blends letter-running with arcade-style gameplay. With its captivating 3D models and platform setup, players navigate a running race by controlling a shape-shifting letter. The key to success lies in dynamically altering the letter's form in real-time to maneuver through obstacles and secure victory. Opting for letters like O and X is recommended due to their swiftness in overcoming hurdles, ensuring the fastest speed possible. Stay composed, enjoy the challenge, and have a blast!"
+        },
+        {
             "id": "2048-3d-puzzle",
             "title": "2048 3D Puzzle",
             "iframe": "https://html5.gamemonetize.games/g010lkqx73y1pxhisye2hqccexjiyei6/",
