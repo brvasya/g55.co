@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "2048-defense",
+            "title": "2048 Defense",
+            "iframe": "https://html5.gamedistribution.com/fc7a011107794204878fd12c9a0ee804/",
+            "description": "2048 Defense is an exhilarating and addictive strategy game that will put your tactical skills to the test. In this game, you must assume the role of a valiant castle defender, entrusted with safeguarding your majestic fortress from relentless waves of enemies. Prepare for an epic battle as you face a myriad of challenging levels, each offering a distinct and engaging experience.\r\n\r\nAs the game progresses, you'll have the opportunity to select from a wide array of powerful tower options to fortify your defenses. These towers come in various shapes and sizes, each equipped with different abilities and functionalities. Among the choices available are red exploding projectiles that inflict massive damage upon impact, and blue freezing ones that slow down enemy advances, buying you precious time to strategize further.\r\n\r\nThe excitement doesn't end there. As you demonstrate your prowess in fending off enemy hordes, you'll unlock even more unique and potent towers. These extraordinary structures possess specialized shooting abilities that can be deployed strategically to counter the increasingly formidable waves of adversaries. Adaptability and quick thinking are crucial as the enemies grow stronger with each passing level.\r\n\r\nThe game's visually stunning graphics and captivating sound effects immerse you in an immersive medieval world, where you become the last line of defense against an unyielding onslaught. Your strategic decisions will determine the fate of the castle, and only by employing the right combination of towers and tactics will you emerge victorious.\r\n\r\nGet ready to embark on a thrilling adventure in 2048 Defense, where the fate of your castle rests solely in your hands. Are you up to the challenge of defending against relentless waves of enemies? Prove your worth as a master strategist and savior of the realm in this tower defense masterpiece!"
+        },
+        {
+            "id": "2048cardgame",
+            "title": "2048 Card Game",
+            "iframe": "https://html5.gamemonetize.games/lxqy56o0druzsiam4dj19m1cb58gw9ki/",
+            "description": "Take control in 2048CardGame and dive into pattern based puzzle gameplay without delays. Launch 2048CardGame instantly on G55.CO. Replay anytime for fresh runs and better results. Work on focus control as you complete multiplayer matches."
+        },
+        {
             "id": "2048-block-fusion",
             "title": "2048 Block Fusion",
             "iframe": "https://html5.gamedistribution.com/64f303f9d8fa4d34ae962b82d4f78af3/",
