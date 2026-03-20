@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "adventure-quiz",
+            "title": "Adventure Quiz",
+            "iframe": "https://html5.gamedistribution.com/8b890f29dd4241c08b6aaed700c3b2b1/",
+            "description": "Push your limits in Adventure Quiz and take on strategic quiz challenges instantly. Build topic awareness through consistent practice in practice sessions. Smooth controls and clear feedback make every attempt satisfying. Discover Adventure Quiz today on G55.CO."
+        },
+        {
             "id": "3d-quiz-fight-of-four",
             "title": "3D Quiz: Fight of Four",
             "iframe": "https://html5.gamemonetize.games/i7lz36rf9nv6dt5d0v957pp8oahyd5y2/",

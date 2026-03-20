@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "adventure-escape",
+            "title": "Adventure Escape",
+            "iframe": "https://html5.gamedistribution.com/ca25d084c5904061aad659eca5e7055d/",
+            "description": "Enter the action in Adventure Escape and explore clue packed escape sessions made for replay. Challenge yourself in mechanism unlocking rounds to refine time management. Revisit Adventure Escape and keep progressing on G55.CO. Optimized performance ensures stable browser sessions."
+        },
+        {
             "id": "sprunki-3d-escape",
             "title": "SPRUNKI 3D Escape",
             "iframe": "https://html5.gamedistribution.com/ca9c6fd4901141b5bbdb88eec1bee40a/",
