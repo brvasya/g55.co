@@ -527,7 +527,7 @@ class JsonGui(tk.Tk):
         matched = count_title_keyword_matches(self.items, keyword)
         duplicate_titles = count_duplicate_titles(self.items)
 
-        text = f"Descriptions: {completed}/{total}   Titles: {matched}/{total}   Duplicate titles: {duplicate_titles}"
+        text = f"Descriptions: {completed}/{total}   Titles: {matched}/{total}   Duplicates: {duplicate_titles}"
         self.set_status(f"{prefix}  {text}" if prefix else text)
 
     def refresh_category_list(self):
