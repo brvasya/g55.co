@@ -1,12 +1,6 @@
 {
     "pages": [
         {
-            "id": "battle-chess-puzzle",
-            "title": "Battle Chess: Puzzle",
-            "iframe": "https://html5.gamedistribution.com/8981a389fdbf4545b0a5c3acd6bbe7f1/",
-            "description": "Battle Chess: Puzzle is an exhilarating and captivating puzzle game that will ignite your strategic thinking and immerse you in a world of thrilling knight battles. With its amazing puzzles, the game challenges you to merge your knights while preventing your enemy from doing the same. Prepare for an intense mental workout as you devise clever strategies and outwit your opponent at every turn.\r\n\r\nThe heart of Battle Chess: Puzzle lies in the exciting battles between knights, ensuring that you are constantly engaged and entertained. Each move you make matters, as you must carefully consider the best approach to attack your enemy. The game pushes you to think critically and plan your moves ahead, anticipating your opponent's actions and adapting accordingly.\r\n\r\nWhat sets Battle Chess: Puzzle apart is the dynamic nature of the enemy chess moves. They mimic your own moves, making it crucial for you to think ahead and stay a step ahead of your adversary. To emerge victorious, you must make the most of your surroundings and use the environment to your advantage. In this chess-inspired battlefield, sacrifices may be necessary, as you strategically donate pieces to gain a tactical advantage and secure your path to victory.\r\n\r\nAs you progress through the game, you'll have the opportunity to gain strength and develop a personalized strategy. With each puzzle you solve, your skills will sharpen, allowing you to tackle even more challenging battles. Battle Chess: Puzzle is a game that rewards perseverance, careful planning, and adaptability.\r\n\r\nGet ready to embark on an exciting journey filled with mind-bending puzzles and thrilling knight battles. Engage your intellect, harness your strategic prowess, and emerge as the ultimate victor in Battle Chess: Puzzle!"
-        },
-        {
             "id": "3d-hartwig-chess",
             "title": "3D Hartwig Chess",
             "iframe": "https://html5.gamemonetize.games/02pcqevyodfkv6iyxkdwtoywn56htgeu/",
@@ -23,6 +17,12 @@
             "title": "3D Chess",
             "iframe": "https://html5.gamedistribution.com/e647aeb9a97f4ef089a1d23cc83d8f1c/",
             "description": "Test your reflexes in 3D Chess through fast paced multiplayer gameplay online. Jump into 3D Chess today on G55.CO. Refine your pressure handling while navigating challenge rounds. Comfortable controls and clean visuals support focused play."
+        },
+        {
+            "id": "battle-chess-puzzle",
+            "title": "Battle Chess: Puzzle",
+            "iframe": "https://html5.gamedistribution.com/8981a389fdbf4545b0a5c3acd6bbe7f1/",
+            "description": "Battle Chess: Puzzle is an exhilarating and captivating puzzle game that will ignite your strategic thinking and immerse you in a world of thrilling knight battles. With its amazing puzzles, the game challenges you to merge your knights while preventing your enemy from doing the same. Prepare for an intense mental workout as you devise clever strategies and outwit your opponent at every turn.\r\n\r\nThe heart of Battle Chess: Puzzle lies in the exciting battles between knights, ensuring that you are constantly engaged and entertained. Each move you make matters, as you must carefully consider the best approach to attack your enemy. The game pushes you to think critically and plan your moves ahead, anticipating your opponent's actions and adapting accordingly.\r\n\r\nWhat sets Battle Chess: Puzzle apart is the dynamic nature of the enemy chess moves. They mimic your own moves, making it crucial for you to think ahead and stay a step ahead of your adversary. To emerge victorious, you must make the most of your surroundings and use the environment to your advantage. In this chess-inspired battlefield, sacrifices may be necessary, as you strategically donate pieces to gain a tactical advantage and secure your path to victory.\r\n\r\nAs you progress through the game, you'll have the opportunity to gain strength and develop a personalized strategy. With each puzzle you solve, your skills will sharpen, allowing you to tackle even more challenging battles. Battle Chess: Puzzle is a game that rewards perseverance, careful planning, and adaptability.\r\n\r\nGet ready to embark on an exciting journey filled with mind-bending puzzles and thrilling knight battles. Engage your intellect, harness your strategic prowess, and emerge as the ultimate victor in Battle Chess: Puzzle!"
         },
         {
             "id": "chess-war",

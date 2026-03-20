@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "cards-2048",
+            "title": "Cards 2048",
+            "iframe": "https://html5.gamedistribution.com/5370293cd9434e4abe9084397f091ed6/",
+            "description": "Cards 2048 is a captivating blend of classic solitaire and the popular 2048 puzzle game, offering a fresh twist on familiar gameplay mechanics. This unique combination creates an engaging brain teaser that challenges your strategic thinking and problem-solving skills. As you merge cards with matching numbers, the game's difficulty increases, providing a true test of your abilities. Whether you're a fan of card games, puzzles, or both, Cards 2048 is sure to keep you entertained for hours.\r\n\r\nThe primary objective in Cards 2048 is to merge cards of the same value to create higher-numbered cards, ultimately aiming to reach the card with the value of 2048 or beyond. The game is played on a grid, similar to solitaire, where you must strategically place and merge cards to free up space and continue the game. Each move requires careful consideration, as the placement of one card can impact the availability of future moves and potential merges.\r\n\r\nThe gameplay in Cards 2048 is both intuitive and challenging. At the start of each game, you are presented with a deck of cards and a grid on which to place them. You draw cards one at a time, placing them on the grid with the goal of merging cards with the same number. When two cards of the same value are placed next to each other, they merge into a single card with double the value. For example, merging two cards with the value of 2 will create a card with the value of 4, merging two 4s will create an 8, and so on. The challenge lies in strategically positioning the cards to maximize merges and prevent the grid from filling up too quickly.\r\n\r\nAs you progress in Cards 2048, the game introduces new elements to keep the gameplay fresh and exciting. Special cards, such as wild cards or cards with unique abilities, can appear in the deck, offering opportunities to create powerful merges or clear space on the grid. Additionally, the game includes various power-ups and boosters that can help you overcome challenging situations. These power-ups can be earned through gameplay or purchased with in-game currency, adding an extra layer of strategy to the game.\r\n\r\nOne of the standout features of Cards 2048 is its visually appealing design. The game boasts clean and colorful graphics that make it easy to distinguish between different card values and plan your moves accordingly. The user interface is intuitive and user-friendly, allowing players to focus on the gameplay without any distractions. The cards themselves are designed with a sleek and modern aesthetic, enhancing the overall visual experience.\r\n\r\nThe game's sound design complements its visuals, with a relaxing and upbeat soundtrack that creates a pleasant gaming atmosphere. The sound effects, such as the satisfying chime when two cards merge, add to the overall enjoyment and make each successful move feel rewarding. Together, the graphics and sound design create an immersive and enjoyable experience that keeps players engaged.\r\n\r\nCards 2048 also includes various game modes and challenges to cater to different play styles and preferences. The classic mode offers the traditional card-merging gameplay, while other modes introduce unique twists and objectives. For example, timed challenges require you to reach specific card values within a set time limit, while puzzle modes present pre-arranged grids that must be solved with a limited number of moves. These additional game modes add variety and replay value, ensuring that there's always something new to discover and enjoy.\r\n\r\nFor competitive players, Cards 2048 features online leaderboards where you can compare your scores with players from around the world. Climbing the ranks on the leaderboards adds a competitive edge to the game, motivating players to refine their strategies and achieve higher scores. The game also includes daily and weekly challenges that offer special rewards for completing specific tasks or reaching certain milestones.\r\n\r\nIn addition to its competitive aspects, Cards 2048 offers a social component through its multiplayer mode. Players can challenge friends or other players to head-to-head matches, testing their skills in real-time. Multiplayer matches add an extra layer of excitement and strategy, as you must adapt to your opponent's moves and plan your own accordingly. This social element enhances the overall experience, making Cards 2048 not only a solo challenge but also a fun way to connect with others.\r\n\r\nCustomization options in Cards 2048 allow players to personalize their gaming experience. You can unlock different card designs, backgrounds, and themes through gameplay or in-app purchases, giving you the freedom to tailor the game's appearance to your liking. These customization options add a fun and creative aspect to the game, making each session feel unique and personalized.\r\n\r\nCards 2048 is designed to be accessible to players of all ages and skill levels. The game includes a helpful tutorial that guides new players through the basics, ensuring that everyone can jump in and start playing with ease. The gradually increasing difficulty provides a satisfying challenge for experienced players while still being approachable for newcomers.\r\n\r\nIn summary, Cards 2048 is an engaging and addictive game that combines the best elements of solitaire and 2048 puzzles. With its intuitive gameplay, visually appealing design, and variety of game modes and challenges, Cards 2048 offers hours of entertainment for players of all ages. Whether you're looking to sharpen your strategic thinking, compete with others, or simply enjoy a relaxing puzzle game, Cards 2048 is sure to provide a rewarding and enjoyable experience."
+        },
+        {
             "id": "battle-cards",
             "title": "Battle Cards",
             "iframe": "https://html5.gamemonetize.games/q4tsg2xlc5i3ba5obohyd8dqsapebylv/",
@@ -289,12 +295,6 @@
             "description": "Start playing Power Rangers Card Game online and enjoy adrenaline filled action gameplay with strong pacing. Revisit Power Rangers Card Game and keep progressing on G55.CO. Balanced pacing with clear goals keeps progress steady. Test your focus control in event challenges."
         },
         {
-            "id": "poppy-playtime-match-card",
-            "title": "Poppy Playtime Match Card",
-            "iframe": "https://html5.gamemonetize.games/9pcame2rekn2bvy0byxpdgsoj7yg1kl4/",
-            "description": "Launch Poppy Playtime Match Card instantly and take on interactive puzzle challenges in your browser. Begin your next session of Poppy Playtime Match Card on G55.CO. Experience beginner levels with emphasis on concentration skills. Consistent mechanics make it easy to return and improve."
-        },
-        {
             "id": "pac-man-card-match",
             "title": "Pac-Man Card Match",
             "iframe": "https://html5.gamemonetize.games/f7ta1ueaxsriud0xrg3rmc4mpzhnzcls/",
@@ -317,12 +317,6 @@
             "title": "Mickey Mouse Card Match",
             "iframe": "https://html5.gamemonetize.games/rczqpdgptl44iilk2plav52jjey7x9lq/",
             "description": "Start playing Mickey Mouse Card Match now and dive into analytical puzzle challenges online. Take on pattern challenges while improving precision control. Quick to load with gameplay that stays engaging session after session. Experience Mickey Mouse Card Match for free on G55.CO."
-        },
-        {
-            "id": "match-card",
-            "title": "Match Card",
-            "iframe": "https://html5.gamemonetize.games/h3heboxsl4hsd2ot943kclmwsxinbpbj/",
-            "description": "Challenge yourself in Match Card with progression based clicker gameplay designed for progression. Built for quick matches and steady progress. Experience ranked leaderboards with emphasis on speed optimization. Play Match Card instantly in your browser on G55.CO."
         },
         {
             "id": "mario-card-match",
@@ -359,12 +353,6 @@
             "title": "Golf of Cards",
             "iframe": "http://html5.gamedistribution.com/09e7f2288eb24198b7a1caba12551c84/",
             "description": "Play Golf of Cards online and experience hand focused card gameplay directly in your browser. Experience unlimited browser gameplay with Golf of Cards on G55.CO. Refine your combo planning while navigating practice rounds. Comfortable controls and clean visuals help you stay focused."
-        },
-        {
-            "id": "funny-match-card",
-            "title": "Funny Match Card",
-            "iframe": "https://html5.gamedistribution.com/295541aca4544c7da1ce8a12a6c51411/",
-            "description": "Start Funny Match Card online and enjoy multiplayer focused card gameplay that keeps you moving. You can replay anytime for fresh runs and better results. Refine your calculated decision making while navigating skill trials. Take control of Funny Match Card online for free at G55.CO."
         },
         {
             "id": "frozen-card-match",
@@ -563,12 +551,6 @@
             "title": "6 Cards To Win",
             "iframe": "https://html5.gamedistribution.com/3385d58a438d44cd869d6c5b8aede1ae/",
             "description": "Play 6 Cards To Win online and take on challenge packed solitaire challenges with clear objectives. Unlock fast browser access to 6 Cards To Win on G55.CO. Push further in challenge stages to advance resource management. Structured challenges encourage steady improvement."
-        },
-        {
-            "id": "4-colors-card-mania",
-            "title": "4 Colors Card Mania",
-            "iframe": "https://html5.gamedistribution.com/8e0b7f4d01b2421aa345de94d392a7bc/",
-            "description": "Discover 4 Colors Card Mania and explore fast paced card gameplay built for quick sessions. The game is perfect for short sessions while still offering replayable depth. Take on custom matches while improving calculated decision making. Enjoy 4 Colors Card Mania online for free on G55.CO and improve your skills."
         },
         {
             "id": "3-card-monte",
