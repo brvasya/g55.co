@@ -427,9 +427,13 @@ class CategorizerApp(tk.Tk):
             title_tokens = tokenize_slug(title)
             title_tokens = maybe_normalize_tokens(title_tokens, plural_enabled, gerund_enabled, agent_enabled)
 
-            if current_tokens and find_all_subseq_positions(title_tokens, current_tokens):
-                skipped_self += 1
-                continue
+            current_priority = None
+            current_hits = []
+
+            if current_tokens:
+                current_hits = find_all_subseq_positions(title_tokens, current_tokens)
+                if current_hits:
+                    current_priority = build_match_priority(current_hits, current_tokens, current_slug)
 
             best = None
             best_priority = None
@@ -458,6 +462,12 @@ class CategorizerApp(tk.Tk):
 
             if best is None:
                 continue
+
+            if current_priority is not None:
+                if current_priority >= best_priority:
+                    skipped_self += 1
+                    continue
+
             if only_unique and ties > 0:
                 continue
 
