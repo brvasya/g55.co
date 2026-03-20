@@ -273,6 +273,29 @@ def count_items_with_bullets(items) -> int:
     return count
 
 
+def normalize_title_for_duplicate_check(title: str) -> str:
+    return " ".join(str(title or "").strip().lower().split())
+
+
+def find_duplicate_title_indexes(items) -> set[int]:
+    groups = {}
+    for idx, it in enumerate(items):
+        title = normalize_title_for_duplicate_check(it.get("title", ""))
+        if not title:
+            continue
+        groups.setdefault(title, []).append(idx)
+
+    out = set()
+    for indexes in groups.values():
+        if len(indexes) > 1:
+            out.update(indexes)
+    return out
+
+
+def count_duplicate_titles(items) -> int:
+    return len(find_duplicate_title_indexes(items))
+
+
 class JsonGui(tk.Tk):
     def __init__(self):
         super().__init__()
@@ -502,8 +525,9 @@ class JsonGui(tk.Tk):
         file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
         keyword = category_keyword_from_filename(file_name)
         matched = count_title_keyword_matches(self.items, keyword)
+        duplicate_titles = count_duplicate_titles(self.items)
 
-        text = f"Descriptions: {completed}/{total}   Titles: {matched}/{total}"
+        text = f"Descriptions: {completed}/{total}   Titles: {matched}/{total}   Duplicate titles: {duplicate_titles}"
         self.set_status(f"{prefix}  {text}" if prefix else text)
 
     def refresh_category_list(self):
@@ -633,6 +657,7 @@ class JsonGui(tk.Tk):
 
         file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
         keyword = category_keyword_from_filename(file_name)
+        duplicate_indexes = find_duplicate_title_indexes(self.items)
 
         for idx, it in enumerate(self.items):
             label = it.get("title") or it.get("id") or "(empty)"
@@ -640,8 +665,11 @@ class JsonGui(tk.Tk):
 
             has_title_match = title_matches_keyword(it.get("title", ""), keyword)
             has_bullet = description_has_bullet(it.get("description", ""))
+            is_duplicate_title = idx in duplicate_indexes
 
-            if not has_title_match:
+            if is_duplicate_title:
+                self.listbox.itemconfig(idx, bg="#fff1b8", fg="#7a5200")
+            elif not has_title_match:
                 self.listbox.itemconfig(idx, bg="#ffe5e5", fg="#a00000")
             elif not has_bullet:
                 self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
