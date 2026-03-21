@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "hero-match",
+            "title": "Hero Match",
+            "iframe": "https://html5.gamedistribution.com/acb3296fec5a495c896cad6b2afea552/",
+            "description": "Load Hero Match instantly and take on engaging casual challenges at your own pace. Enjoy endless modes and focus on focus control. Launch Hero Match instantly on G55.CO. Replayable structure encourages smarter decisions and stronger results."
+        },
+        {
             "id": "molang-match-n-munch",
             "title": "Molang Match'n Munch",
             "iframe": "https://html5.gamedistribution.com/a5fe35ceaea34474b9a114792a53b338/",
