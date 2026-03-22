@@ -594,7 +594,6 @@ echo json_encode([
     "ok" => $appendOk ? true : false,
     "category" => "casual",
     "page" => $page,
-    "type" => "categories",
     "source_url" => $sourceUrl,
     "category_file" => $categoryFile,
     "category_read_status" => $categoryReadStatus,
