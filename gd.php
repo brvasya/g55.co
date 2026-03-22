@@ -1,45 +1,24 @@
 <?php
-declare(strict_types=1);
 
 header('Content-Type: application/json; charset=utf-8');
 
-if (!isset($_GET['c']) || !isset($_GET['p'])) {
+if (!isset($_GET['p'])) {
     http_response_code(400);
     echo json_encode([
         "ok" => false,
         "error" => "missing_parameters",
-        "usage" => "gd.php?c=CATEGORY_NAME&p=PAGE_NUMBER&type=categories|tags"
+        "usage" => "gd.php?p=1"
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
-$categoryRaw = trim((string)$_GET['c']);
-$categoryMap = [
-'All'        => 'casual',
-];
-$category = $categoryMap[$categoryRaw] ?? $categoryRaw;
-$page     = (int)$_GET['p'];
-
-$type = isset($_GET['type']) ? trim((string)$_GET['type']) : 'categories';
-if (!in_array($type, ['categories', 'tags'], true)) {
+$page = (int)$_GET['p'];
+if ($page < 1 || $page > 500) {
     http_response_code(400);
     echo json_encode([
         "ok" => false,
-        "error" => "invalid_type",
-        "allowed" => ["categories", "tags"]
+        "error" => "invalid_page"
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
-    exit;
-}
-
-if ($category === '' || !preg_match('/^[a-z0-9\-]+$/i', $category)) {
-    http_response_code(400);
-    echo json_encode(["ok" => false, "error" => "invalid_category"], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
-    exit;
-}
-
-if ($page < 1 || $page > 500) {
-    http_response_code(400);
-    echo json_encode(["ok" => false, "error" => "invalid_page"], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
@@ -68,15 +47,18 @@ function make_id_from_title(string $title): string {
 
 function pick_iframe(array $item): string {
     if (!empty($item['Url']) && is_string($item['Url'])) return trim($item['Url']);
+
     if (!empty($item['Md5']) && is_string($item['Md5'])) {
         $md5 = trim($item['Md5']);
         if ($md5 !== '') return "https://html5.gamedistribution.com/" . $md5 . "/";
     }
+
     return '';
 }
 
 function pick_asset_512x384(array $item): string {
     if (empty($item['Asset']) || !is_array($item['Asset'])) return '';
+
     $assets = $item['Asset'];
 
     foreach ($assets as $a) {
@@ -93,10 +75,13 @@ function pick_asset_512x384(array $item): string {
 
 function read_json_file(string $path): array {
     if (!is_file($path)) return [null, "file_not_found"];
+
     $raw = @file_get_contents($path);
     if ($raw === false || $raw === '') return [null, "read_failed"];
+
     $json = json_decode($raw, true);
     if (!is_array($json)) return [null, "invalid_json"];
+
     return [$json, "ok"];
 }
 
@@ -174,6 +159,7 @@ function image_from_bytes(string $bytes): array {
 function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): array {
     $srcW = imagesx($srcIm);
     $srcH = imagesy($srcIm);
+
     if ($srcW <= 0 || $srcH <= 0) return [false, "bad_source_dimensions"];
 
     $srcAspect = $srcW / $srcH;
@@ -217,22 +203,26 @@ function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): arr
     imagedestroy($dstIm);
 
     if (!$saved) return [false, "png_save_failed"];
+
     return [true, "ok"];
 }
 
 function read_pool_lines(string $path): array {
     if (!is_file($path)) return [];
+
     $raw = (string)@file_get_contents($path);
     if ($raw === '') return [];
 
     $lines = preg_split("/\r\n|\n|\r/", $raw);
     $out = [];
+
     foreach ($lines as $line) {
         $line = trim($line);
         if ($line === '') continue;
         if ($line[0] === '#') continue;
         $out[] = $line;
     }
+
     return $out;
 }
 
@@ -281,7 +271,6 @@ function ensure_sentence(string $s): string {
 
 function generate_gd_description(string $category, string $title, string $id): string {
     $pools = load_gd_pools($category);
-
     $seed = (int)(crc32($category . '|' . $id) & 0x7fffffff);
     $catLabel = normalize_category_label($category);
 
@@ -299,10 +288,8 @@ function generate_gd_description(string $category, string $title, string $id): s
     $pattern = $patterns[$patternIndex];
 
     $adj = pick_one_stable($pools['adjectives'], $seed);
-
     $mode = pick_one_stable($pools['modes'], $seed);
     $skill = pick_one_stable($pools['skills'], $seed);
-
     $opener = pick_one_stable($pools['openers'], $seed);
     $vp = pick_one_stable($pools['value_props'], $seed);
     $cta = pick_one_stable($pools['cta'], $seed);
@@ -332,13 +319,11 @@ function generate_gd_description(string $category, string $title, string $id): s
     }
 
     $text = trim(implode(' ', $out));
-
     $text = str_replace(
         ['{title}', '{category}', '{adj}'],
         [$title, $catLabel, $adj],
         $text
     );
-
     $text = preg_replace('/\s+/', ' ', $text);
 
     return $text;
@@ -377,7 +362,6 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
     }
 
     list($catJson, $st) = read_json_file($categoryFile);
-
     if ($st === "file_not_found") {
         @flock($lockFp, LOCK_UN);
         @fclose($lockFp);
@@ -399,12 +383,12 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
         $id = isset($p['id']) ? trim((string)$p['id']) : '';
         if ($id === '') continue;
         if (isset($existingIds[$id])) continue;
-
         $filtered[] = $p;
         $existingIds[$id] = true;
     }
 
     $appended = count($filtered);
+
     if ($appended > 0) $pages = array_merge($filtered, $pages);
 
     if (isset($catJson['pages']) && is_array($catJson['pages'])) {
@@ -427,13 +411,13 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
 }
 
 $sourceBase = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
-$sourceUrl  = $sourceBase . '?' . $type . '=' . rawurlencode($categoryRaw) . '&page=' . $page;
+$sourceUrl = $sourceBase . '?categories=All&page=' . $page;
 
 $ctx = stream_context_create([
     'http' => [
-        'method'  => 'GET',
+        'method' => 'GET',
         'timeout' => 20,
-        'header'  => "User-Agent: g55-gd-bot/1.0\r\nAccept: application/json, */*;q=0.8\r\n",
+        'header' => "User-Agent: g55-gd-bot/1.0\r\nAccept: application/json, */*;q=0.8\r\n",
     ]
 ]);
 
@@ -441,7 +425,11 @@ $body = @file_get_contents($sourceUrl, false, $ctx);
 
 if ($body === false || $body === '') {
     http_response_code(502);
-    echo json_encode(["ok" => false, "error" => "fetch_failed", "source_url" => $sourceUrl], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    echo json_encode([
+        "ok" => false,
+        "error" => "fetch_failed",
+        "source_url" => $sourceUrl
+    ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
@@ -458,15 +446,24 @@ if (!is_array($data)) {
     exit;
 }
 
-$categoryFile = __DIR__ . '/categories/' . $category . '.json';
-list($categoryJson, $categoryReadStatus) = read_json_file($categoryFile);
+$items = [];
+if (isset($data['games']) && is_array($data['games'])) {
+    $items = $data['games'];
+} elseif (isset($data['items']) && is_array($data['items'])) {
+    $items = $data['items'];
+} elseif (array_is_list($data)) {
+    $items = $data;
+}
 
+$categoryFile = __DIR__ . '/categories/casual.json';
+
+list($categoryJson, $categoryReadStatus) = read_json_file($categoryFile);
 if ($categoryReadStatus === "file_not_found") {
     http_response_code(404);
     echo json_encode([
         "ok" => false,
         "error" => "category_file_not_found",
-        "category" => $category,
+        "category" => "casual",
         "category_file" => $categoryFile
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
@@ -482,18 +479,22 @@ $thumbH = 128;
 
 $seenIdsInRun = [];
 $publishPages = [];
-
 $created = 0;
 $skippedExistingId = 0;
 $skippedExistingThumb = 0;
 $errors = 0;
-
 $results = [];
 
-foreach ($data as $item) {
+foreach ($items as $item) {
     if (!is_array($item)) continue;
 
-    $title = isset($item['Title']) ? trim((string)$item['Title']) : '';
+    $title = '';
+    if (isset($item['Title']) && is_string($item['Title'])) {
+        $title = trim($item['Title']);
+    } elseif (isset($item['title']) && is_string($item['title'])) {
+        $title = trim($item['title']);
+    }
+
     if ($title === '') continue;
 
     $id = make_id_from_title($title);
@@ -516,27 +517,41 @@ foreach ($data as $item) {
     $iframe = pick_iframe($item);
     if ($iframe === '') continue;
 
-    $description = generate_gd_description($category, $title, $id);
+    $description = generate_gd_description('casual', $title, $id);
     if (trim($description) === '') continue;
 
     $assetUrl = pick_asset_512x384($item);
     if ($assetUrl === '') {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => "missing_asset_image"];
+        $results[] = [
+            "id" => $id,
+            "status" => "error",
+            "error" => "missing_thumb_image"
+        ];
         continue;
     }
 
     list($bytes, $st) = http_get_bytes($assetUrl, 20, 8000000);
     if ($bytes === null) {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => $st, "asset" => $assetUrl];
+        $results[] = [
+            "id" => $id,
+            "status" => "error",
+            "error" => $st,
+            "asset" => $assetUrl
+        ];
         continue;
     }
 
     list($srcIm, $st2) = image_from_bytes($bytes);
     if ($srcIm === null) {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => $st2, "asset" => $assetUrl];
+        $results[] = [
+            "id" => $id,
+            "status" => "error",
+            "error" => $st2,
+            "asset" => $assetUrl
+        ];
         continue;
     }
 
@@ -545,7 +560,12 @@ foreach ($data as $item) {
 
     if (!$okSave) {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => $st3, "thumb" => $outPath];
+        $results[] = [
+            "id" => $id,
+            "status" => "error",
+            "error" => $st3,
+            "thumb" => $outPath
+        ];
         continue;
     }
 
@@ -572,9 +592,9 @@ if (!$appendOk) http_response_code(502);
 
 echo json_encode([
     "ok" => $appendOk ? true : false,
-    "category" => $category,
+    "category" => "casual",
     "page" => $page,
-    "type" => $type,
+    "type" => "categories",
     "source_url" => $sourceUrl,
     "category_file" => $categoryFile,
     "category_read_status" => $categoryReadStatus,
