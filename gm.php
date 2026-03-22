@@ -1,29 +1,18 @@
 <?php
-declare(strict_types=1);
 
 header('Content-Type: application/json; charset=utf-8');
 
-if (!isset($_GET['c'])) {
+if (!isset($_GET['amount'])) {
     http_response_code(400);
     echo json_encode([
         "ok" => false,
         "error" => "missing_parameters",
-        "usage" => "gm.php?c=CATEGORY_NAME&amount=10"
+        "usage" => "gm.php?amount=10"
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
-$categoryRaw = trim((string)$_GET['c']);
-$categoryMap = [
-'All'        => 'casual',
-];
-$category = $categoryMap[$categoryRaw] ?? $categoryRaw;
-
-if ($category === '' || !preg_match('/^[a-z0-9\-]+$/i', $category)) {
-    http_response_code(400);
-    echo json_encode(["ok" => false, "error" => "invalid_category"], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
-    exit;
-}
+$categoryRaw = 'All';
 
 $amount = isset($_GET['amount']) ? (int)$_GET['amount'] : 10;
 if ($amount < 1) $amount = 10;
@@ -63,6 +52,7 @@ function pick_iframe(array $item): string {
 function pick_thumb(array $item): string {
     if (!empty($item['thumb']) && is_string($item['thumb'])) return trim($item['thumb']);
     if (!empty($item['Thumb']) && is_string($item['Thumb'])) return trim($item['Thumb']);
+
     if (!empty($item['Asset']) && is_array($item['Asset'])) {
         foreach ($item['Asset'] as $a) {
             if (!is_string($a)) continue;
@@ -72,6 +62,7 @@ function pick_thumb(array $item): string {
             if (is_string($a) && trim($a) !== '') return trim($a);
         }
     }
+
     return '';
 }
 
@@ -79,8 +70,10 @@ function read_json_file(string $path): array {
     if (!is_file($path)) return [null, "file_not_found"];
     $raw = @file_get_contents($path);
     if ($raw === false || $raw === '') return [null, "read_failed"];
+
     $json = json_decode($raw, true);
     if (!is_array($json)) return [null, "invalid_json"];
+
     return [$json, "ok"];
 }
 
@@ -158,6 +151,7 @@ function image_from_bytes(string $bytes): array {
 function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): array {
     $srcW = imagesx($srcIm);
     $srcH = imagesy($srcIm);
+
     if ($srcW <= 0 || $srcH <= 0) return [false, "bad_source_dimensions"];
 
     $srcAspect = $srcW / $srcH;
@@ -201,22 +195,26 @@ function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): arr
     imagedestroy($dstIm);
 
     if (!$saved) return [false, "png_save_failed"];
+
     return [true, "ok"];
 }
 
 function read_pool_lines(string $path): array {
     if (!is_file($path)) return [];
+
     $raw = (string)@file_get_contents($path);
     if ($raw === '') return [];
 
     $lines = preg_split("/\r\n|\n|\r/", $raw);
     $out = [];
+
     foreach ($lines as $line) {
         $line = trim($line);
         if ($line === '') continue;
         if ($line[0] === '#') continue;
         $out[] = $line;
     }
+
     return $out;
 }
 
@@ -265,7 +263,6 @@ function ensure_sentence(string $s): string {
 
 function generate_gd_description(string $category, string $title, string $id): string {
     $pools = load_gd_pools($category);
-
     $seed = (int)(crc32($category . '|' . $id) & 0x7fffffff);
     $catLabel = normalize_category_label($category);
 
@@ -285,7 +282,6 @@ function generate_gd_description(string $category, string $title, string $id): s
     $adj = pick_one_stable($pools['adjectives'], $seed);
     $mode = pick_one_stable($pools['modes'], $seed);
     $skill = pick_one_stable($pools['skills'], $seed);
-
     $opener = pick_one_stable($pools['openers'], $seed);
     $vp = pick_one_stable($pools['value_props'], $seed);
     $cta = pick_one_stable($pools['cta'], $seed);
@@ -315,13 +311,11 @@ function generate_gd_description(string $category, string $title, string $id): s
     }
 
     $text = trim(implode(' ', $out));
-
     $text = str_replace(
         ['{title}', '{category}', '{adj}'],
         [$title, $catLabel, $adj],
         $text
     );
-
     $text = preg_replace('/\s+/', ' ', $text);
 
     return $text;
@@ -360,7 +354,6 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
     }
 
     list($catJson, $st) = read_json_file($categoryFile);
-
     if ($st === "file_not_found") {
         @flock($lockFp, LOCK_UN);
         @fclose($lockFp);
@@ -382,12 +375,12 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
         $id = isset($p['id']) ? trim((string)$p['id']) : '';
         if ($id === '') continue;
         if (isset($existingIds[$id])) continue;
-
         $filtered[] = $p;
         $existingIds[$id] = true;
     }
 
     $appended = count($filtered);
+
     if ($appended > 0) $pages = array_merge($filtered, $pages);
 
     if (isset($catJson['pages']) && is_array($catJson['pages'])) {
@@ -410,16 +403,13 @@ function append_pages_with_lock_top(string $categoryFile, array $newPages): arra
 }
 
 $sourceBase = 'https://rss.gamemonetize.com/rssfeed.php';
-$sourceUrl  = $sourceBase
-    . '?format=json'
-    . '&category=' . rawurlencode($categoryRaw)
-    . '&amount=' . (int)$amount;
+$sourceUrl = $sourceBase . '?format=json&category=All&amount=' . (int)$amount;
 
 $ctx = stream_context_create([
     'http' => [
-        'method'  => 'GET',
+        'method' => 'GET',
         'timeout' => 25,
-        'header'  => "User-Agent: g55-gm-bot/1.0\r\nAccept: application/json, */*;q=0.8\r\n",
+        'header' => "User-Agent: g55-gm-bot/1.0\r\nAccept: application/json, */*;q=0.8\r\n",
     ]
 ]);
 
@@ -427,7 +417,11 @@ $body = @file_get_contents($sourceUrl, false, $ctx);
 
 if ($body === false || $body === '') {
     http_response_code(502);
-    echo json_encode(["ok" => false, "error" => "fetch_failed", "source_url" => $sourceUrl], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    echo json_encode([
+        "ok" => false,
+        "error" => "fetch_failed",
+        "source_url" => $sourceUrl
+    ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
 }
 
@@ -446,20 +440,24 @@ if (!is_array($data)) {
 
 $items = $data;
 if (!array_is_list($items)) {
-    if (isset($data['games']) && is_array($data['games'])) $items = $data['games'];
-    elseif (isset($data['items']) && is_array($data['items'])) $items = $data['items'];
-    else $items = [];
+    if (isset($data['games']) && is_array($data['games'])) {
+        $items = $data['games'];
+    } elseif (isset($data['items']) && is_array($data['items'])) {
+        $items = $data['items'];
+    } else {
+        $items = [];
+    }
 }
 
-$categoryFile = __DIR__ . '/categories/' . $category . '.json';
-list($categoryJson, $categoryReadStatus) = read_json_file($categoryFile);
+$categoryFile = __DIR__ . '/categories/casual.json';
 
+list($categoryJson, $categoryReadStatus) = read_json_file($categoryFile);
 if ($categoryReadStatus === "file_not_found") {
     http_response_code(404);
     echo json_encode([
         "ok" => false,
         "error" => "category_file_not_found",
-        "category" => $category,
+        "category" => "casual",
         "category_file" => $categoryFile
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     exit;
@@ -475,12 +473,10 @@ $thumbH = 128;
 
 $seenIdsInRun = [];
 $publishPages = [];
-
 $created = 0;
 $skippedExistingId = 0;
 $skippedExistingThumb = 0;
 $errors = 0;
-
 $results = [];
 
 foreach ($items as $item) {
@@ -509,27 +505,41 @@ foreach ($items as $item) {
     $iframe = pick_iframe($item);
     if ($iframe === '') continue;
 
-    $description = generate_gd_description($category, $title, $id);
+    $description = generate_gd_description('casual', $title, $id);
     if (trim($description) === '') continue;
 
     $assetUrl = pick_thumb($item);
     if ($assetUrl === '') {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => "missing_thumb_image"];
+        $results[] = [
+            "id" => $id,
+            "status" => "error",
+            "error" => "missing_thumb_image"
+        ];
         continue;
     }
 
     list($bytes, $st) = http_get_bytes($assetUrl, 20, 8000000);
     if ($bytes === null) {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => $st, "asset" => $assetUrl];
+        $results[] = [
+            "id" => $id,
+            "status" => "error",
+            "error" => $st,
+            "asset" => $assetUrl
+        ];
         continue;
     }
 
     list($srcIm, $st2) = image_from_bytes($bytes);
     if ($srcIm === null) {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => $st2, "asset" => $assetUrl];
+        $results[] = [
+            "id" => $id,
+            "status" => "error",
+            "error" => $st2,
+            "asset" => $assetUrl
+        ];
         continue;
     }
 
@@ -538,7 +548,12 @@ foreach ($items as $item) {
 
     if (!$okSave) {
         $errors++;
-        $results[] = ["id" => $id, "status" => "error", "error" => $st3, "thumb" => $outPath];
+        $results[] = [
+            "id" => $id,
+            "status" => "error",
+            "error" => $st3,
+            "thumb" => $outPath
+        ];
         continue;
     }
 
@@ -565,7 +580,7 @@ if (!$appendOk) http_response_code(502);
 
 echo json_encode([
     "ok" => $appendOk ? true : false,
-    "category" => $category,
+    "category" => "casual",
     "amount" => $amount,
     "source_url" => $sourceUrl,
     "category_file" => $categoryFile,
