@@ -245,9 +245,9 @@
             "description": "Parkour Games focus on performing agile movements, traversing urban obstacles, and mastering momentum driven navigation through precision platform mechanics. Players jump across gaps, climb structures, and chain fluid actions using timing based control systems and spatial awareness skills. Gameplay often includes level based challenges, time trial modes, or free run environments that shape progression. These experiences highlight parkour movement gameplay loops and obstacle traversal interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Momentum based movement mechanics\n• Precision platform navigation systems\n• Urban obstacle traversal gameplay\n• Time trial challenge progression\n• Free run environment formats"
         },
         {
-            "id": "platformer",
-            "name": "Platformer",
-            "description": "Platformer Games focus on jumping across ledges, avoiding obstacles, and navigating structured levels through timing driven movement mechanics. Players control character positioning, execute precise jumps, and overcome hazards using reflex based systems and spatial awareness skills. Gameplay often includes enemy encounters, collectible objectives, or level progression challenges that shape pacing. These experiences highlight platform jumping gameplay loops and obstacle traversal interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Precision jumping control mechanics\n• Level based navigation systems\n• Obstacle avoidance gameplay loops\n• Enemy encounter challenge modes\n• Collectible driven progression objectives"
+            "id": "platform",
+            "name": "Platform",
+            "description": "Platform Games focus on jumping across ledges, avoiding obstacles, and navigating structured levels through timing driven movement mechanics. Players control character positioning, execute precise jumps, and overcome hazards using reflex based systems and spatial awareness skills. Gameplay often includes enemy encounters, collectible objectives, or level progression challenges that shape pacing. These experiences highlight platform jumping gameplay loops and obstacle traversal interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Precision jumping control mechanics\n• Level based navigation systems\n• Obstacle avoidance gameplay loops\n• Enemy encounter challenge modes\n• Collectible driven progression objectives"
         },
         {
             "id": "puzzle",
