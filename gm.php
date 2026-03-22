@@ -12,8 +12,6 @@ if (!isset($_GET['amount'])) {
     exit;
 }
 
-$categoryRaw = 'All';
-
 $amount = isset($_GET['amount']) ? (int)$_GET['amount'] : 10;
 if ($amount < 1) $amount = 10;
 
