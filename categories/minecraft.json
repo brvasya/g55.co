@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "minecraft-flappy-creeper",
+            "title": "Minecraft Flappy Creeper",
+            "iframe": "https://html5.g55.co/minecraft-flappy-creeper/",
+            "description": "Guide a bouncing creeper through narrow block gaps and survive endless side scrolling obstacle runs using tap based flight control. Use timing driven movement mechanics to avoid collisions, maintain altitude rhythm, and achieve high score objectives across pixelated cave environments. Later sections increase speed and obstacle density.\n\nKey Features\n\n• Tap controlled flight mechanics\n• Endless obstacle survival mode\n• High score progression system\n• Pixel cave environment setting\n• Increasing speed challenge scaling"
+        },
+        {
             "id": "minecraft-mario-jigsaw-puzzle",
             "title": "Minecraft Mario Jigsaw Puzzle",
             "iframe": "https://html5.gamemonetize.games/rrjohn1rsu29alfsktx50sro1qfjbgh3/",
