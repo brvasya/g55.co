@@ -265,9 +265,9 @@
             "description": "Racing Games focus on controlling vehicles at high speed, navigating tracks, and competing against opponents through precision driving mechanics. Players manage acceleration, steering, and timing using physics based control systems and situational awareness skills. Gameplay often includes circuit competitions, time trial challenges, or championship progression modes that shape competitive pacing. These experiences highlight vehicle racing gameplay loops and performance driven interaction systems suited for fast browser sessions.\n\nKey Features\n\n• High speed vehicle control\n• Track navigation gameplay systems\n• Circuit based competition loops\n• Time trial challenge modes\n• Championship progression structures"
         },
         {
-            "id": "running",
-            "name": "Running",
-            "description": "Running Games focus on guiding characters forward through continuous movement challenges, avoiding obstacles, and maintaining momentum across dynamic environments. Players time jumps, slide under hazards, and react to changing layouts using reflex driven control systems and pacing based progression loops. Gameplay often includes endless survival formats, score tracking objectives, or level based sequences that shape difficulty. These experiences highlight endless runner gameplay loops and fast reaction interaction systems suited for quick browser sessions.\n\nKey Features\n\n• Continuous forward movement mechanics\n• Reflex based obstacle challenges\n• Momentum driven navigation systems\n• Endless survival progression modes\n• Score tracking gameplay loops"
+            "id": "runner",
+            "name": "Runner",
+            "description": "Runner Games focus on guiding characters forward through continuous movement challenges, avoiding obstacles, and maintaining momentum across dynamic environments. Players time jumps, slide under hazards, and react to changing layouts using reflex driven control systems and pacing based progression loops. Gameplay often includes endless survival formats, score tracking objectives, or level based sequences that shape difficulty. These experiences highlight endless runner gameplay loops and fast reaction interaction systems suited for quick browser sessions.\n\nKey Features\n\n• Continuous forward movement mechanics\n• Reflex based obstacle challenges\n• Momentum driven navigation systems\n• Endless survival progression modes\n• Score tracking gameplay loops"
         },
         {
             "id": "farming",
