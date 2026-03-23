@@ -78,7 +78,7 @@ if ($hasC) {
   $desc = $cat['description'];
 
   $title = $h1 . ' ▶ Play Free Online';
-  $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $desc)[0]));
+  $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', strip_tags($desc))[0]));
 } else {
   $totalCount = 0;
   $gridItems = [];
@@ -102,6 +102,6 @@ if ($hasC) {
   $desc = $site['description'];
 
   $title = $h1 . ' ▶ Play Now';
-  $metaDesc = $desc;
+  $metaDesc = strip_tags($desc);
   $canonical = 'https://g55.co/';
 }
