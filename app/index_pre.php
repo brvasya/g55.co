@@ -102,6 +102,6 @@ if ($hasC) {
   $desc = $site['description'];
 
   $title = $h1 . ' ▶ Play Now';
-  $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $desc)[0]));
+  $metaDesc = $desc;
   $canonical = 'https://g55.co/';
 }
