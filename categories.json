@@ -5,6 +5,11 @@
     },
     "categories": [
         {
+            "id": "shooter",
+            "name": "Shooter",
+            "description": "Shooter games focus on aiming at targets, engaging enemies, and completing action driven challenges through precision based shooting mechanics. Players explore mission based scenarios in <a href='/?c=sniper'>sniper games</a>, fast reaction encounters in <a href='/?c=fps'>fps games</a>, and survival challenges found in <a href='/?c=zombie'>zombie games</a> and <a href='/?c=survival'>survival games</a>. Large scale conflicts appear in <a href='/?c=war'>war games</a> while weapon interaction systems remain central across <a href='/?c=gun'>gun games</a>. These browser shooter experiences highlight aim tracking systems, level progression loops, and real time targeting skills suited for fast paced online play.\n\nKey Features\n\n• Target aiming control mechanics\n• Real time shooting interaction\n• Weapon handling gameplay systems\n• Mission and survival modes\n• Precision timing challenge loops"
+        },
+        {
             "id": "puzzle",
             "name": "Puzzle",
             "description": "Puzzle games focus on solving logic challenges, manipulating elements, and completing structured objectives through reasoning driven mechanics. Players analyze patterns, plan moves, and progress through levels using rule based systems and cognitive skill loops. Matching gameplay connects to broader <a href='/?c=match-3'>match 3 games</a> mechanics, with tile strategy also seen in <a href='/?c=mahjong'>mahjong games</a> and visual assembly challenges reflected in <a href='/?c=jigsaw'>jigsaw games</a>. Numeric logic appears across <a href='/?c=2048'>2048 games</a> and deduction focused systems align with <a href='/?c=sudoku'>sudoku games</a>, while exploration puzzles connect to <a href='/?c=hidden-object'>hidden object games</a>. These browser puzzle experiences emphasize level progression loops, hint based assistance systems, and cognitive challenge pacing suited for relaxing online play.\n\nKey Features\n\n• Logic driven puzzle mechanics\n• Pattern analysis gameplay systems\n• Spatial reasoning challenge loops\n• Sequence based level progression\n• Cognitive skill development objectives"
@@ -18,11 +23,6 @@
             "id": "minecraft",
             "name": "Minecraft",
             "description": "Minecraft games focus on exploring block based worlds, gathering resources, and building structures through sandbox driven gameplay mechanics. Players craft tools, interact with environments, and progress through creative or survival scenarios while shaping landscapes and completing open ended objectives. Building systems connect to broader <a href='/?c=craft'>craft games</a> mechanics, character driven experiences appear across <a href='/?c=noob'>noob games</a>, and visual design styles align with <a href='/?c=pixel'>pixel games</a>. These browser minecraft experiences emphasize block construction loops, exploration progression pacing, and creative world interaction suited for engaging online play.\n\nKey Features\n\n• Block based sandbox gameplay mechanics\n• Resource gathering and crafting systems\n• Open world exploration progression loops\n• Creative building interaction formats\n• Pixel style environment design structures"
-        },
-        {
-            "id": "shooter",
-            "name": "Shooter",
-            "description": "Shooter games focus on aiming at targets, engaging enemies, and completing action driven challenges through precision based shooting mechanics. Players explore mission based scenarios in <a href='/?c=sniper'>sniper games</a>, fast reaction encounters in <a href='/?c=fps'>fps games</a>, and survival challenges found in <a href='/?c=zombie'>zombie games</a> and <a href='/?c=survival'>survival games</a>. Large scale conflicts appear in <a href='/?c=war'>war games</a> while weapon interaction systems remain central across <a href='/?c=gun'>gun games</a>. These browser shooter experiences highlight aim tracking systems, level progression loops, and real time targeting skills suited for fast paced online play.\n\nKey Features\n\n• Target aiming control mechanics\n• Real time shooting interaction\n• Weapon handling gameplay systems\n• Mission and survival modes\n• Precision timing challenge loops"
         },
         {
             "id": "monster-truck",
