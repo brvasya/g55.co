@@ -25,8 +25,6 @@ header:after {
 }
 footer {
     margin-top: 30px;
-    display: flex;
-    flex-direction: column;
     background-color: #222;
     box-shadow: 0 100vmax 0 100vmax #222;
 }
