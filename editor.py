@@ -411,6 +411,7 @@ class JsonGui(tk.Tk):
         ttk.Button(btn_row, text="Add", command=self.add_item).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Update", command=self.update_item).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Delete", command=self.delete_item).pack(side="left", padx=6)
+        ttk.Button(btn_row, text="Move to top", command=self.move_selected_to_top).pack(side="left", padx=6)
 
         search = ttk.LabelFrame(right, text="Find by title", padding=10)
         search.pack(fill="x", pady=(10, 0))
@@ -778,6 +779,32 @@ class JsonGui(tk.Tk):
         cur = self.move_file_var.get().strip()
         if cur not in choices:
             self.move_file_var.set(choices[0] if choices else "")
+
+    def move_selected_to_top(self):
+        if self.selected_index is None:
+            messagebox.showwarning("Nothing selected", "Select an item to move to the top.")
+            return
+
+        if self.selected_index == 0:
+            if self.is_root_categories_mode():
+                self.update_page_match_status("Category is already at the top")
+            else:
+                self.update_page_match_status("Page is already at the top")
+            return
+
+        item = self.items.pop(self.selected_index)
+        self.items.insert(0, item)
+        self.refresh_list()
+        self.goto_index(0)
+
+        if not self.autosave():
+            messagebox.showerror("Auto save failed", "Could not auto save after moving item to top.")
+            return
+
+        if self.is_root_categories_mode():
+            self.update_page_match_status("Moved category to top and auto saved")
+        else:
+            self.update_page_match_status("Moved page to top and auto saved")
 
     def move_selected_page(self):
         if self.is_root_categories_mode():
