@@ -82,7 +82,7 @@
         {
             "id": "offroad",
             "name": "Offroad",
-            "description": "Offroad games focus on driving vehicles across uneven terrain, navigating mud trails, and conquering natural landscapes through traction focused control mechanics. Players manage torque, balance suspension systems, and plan routes while progressing through endurance challenges and exploration missions. Terrain based gameplay connects to broader <a href='/?c=racing'>racing games</a> competition systems, with realistic control also seen in <a href='/?c=driving'>driving games</a> and precision sliding techniques reflected in <a href='/?c=drift'>drift games</a>. Vehicle encounters appear across <a href='/?c=car'>car games</a> and agile stunt scenarios in <a href='/?c=bike'>bike games</a>, while precision maneuvering aligns with <a href='/?c=parking'>parking games</a>. These browser offroad experiences emphasize terrain navigation loops, suspension mastery systems, and rugged progression pacing suited for adventurous online play.\n\nKey Features\n\n• Terrain adaptive vehicle physics\n• Traction focused driving mechanics\n• Natural landscape route navigation\n• Suspension based control systems\n• Endurance challenge mission structures"
+            "description": ""
         },
         {
             "id": "among-us",
@@ -362,7 +362,7 @@
         {
             "id": "truck",
             "name": "Truck",
-            "description": "Truck games focus on operating heavy vehicles, transporting cargo, and managing long distance routes through realism driven simulation mechanics. Players control acceleration, braking, and steering while navigating highways, terrain, and logistics challenges across structured delivery scenarios. Transport gameplay connects to broader <a href='/?c=simulator'>simulator games</a> systems, with economic scaling also seen in <a href='/?c=tycoon'>tycoon games</a> and resource cycles reflected in <a href='/?c=farming'>farming games</a>. Automation progression aligns with <a href='/?c=idle'>idle games</a> and incremental efficiency loops connect to <a href='/?c=clicker'>clicker games</a>. These browser truck experiences emphasize cargo transport loops, route planning pacing, and realistic vehicle operation suited for immersive online play.\n\nKey Features\n\n• Heavy vehicle control mechanics\n• Cargo transport simulation systems\n• Route planning gameplay loops\n• Logistics challenge progression modes\n• Realistic driving interaction formats"
+            "description": ""
         },
         {
             "id": "parking",
