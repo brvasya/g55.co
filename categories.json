@@ -5,6 +5,11 @@
     },
     "categories": [
         {
+            "id": "shooter",
+            "name": "Shooter",
+            "description": "Shooter games focus on aiming at targets, engaging enemies, and completing action driven challenges through precision based shooting mechanics. Players explore mission based scenarios in <a href='/?c=sniper'>sniper games</a>, fast reaction encounters in <a href='/?c=fps'>fps games</a>, and survival challenges found in <a href='/?c=zombie'>zombie games</a> and <a href='/?c=survival'>survival games</a>. Large scale conflicts appear in <a href='/?c=war'>war games</a> while weapon interaction systems remain central across <a href='/?c=gun'>gun games</a>. These browser shooter experiences highlight aim tracking systems, level progression loops, and real time targeting skills suited for fast paced online play.\n\nKey Features\n\n• Target aiming control mechanics\n• Real time shooting interaction\n• Weapon handling gameplay systems\n• Mission and survival modes\n• Precision timing challenge loops"
+        },
+        {
             "id": "monster-truck",
             "name": "Monster Truck",
             "description": "Crush obstacles, race across dirt arenas, and launch oversized vehicles through extreme stunt courses built around high impact driving challenges. Monster Truck games focus on throttle control, suspension physics, and terrain adaptation while completing event based objectives or freestyle scoring runs. Players navigate ramps, wreckage zones, and competitive circuits using real time vehicle handling systems designed for heavy duty off road performance and destructive stunt gameplay scenarios.\n\nKey Features\n\n• Heavy vehicle physics control\n• Off road stunt track design\n• Obstacle crushing gameplay loops\n• Freestyle event scoring systems\n• Competitive racing arena modes"
@@ -273,11 +278,6 @@
             "id": "farming",
             "name": "Farming",
             "description": "Farming games focus on managing crops, raising livestock, and maintaining resource cycles through structured simulation mechanics. Players plant seeds, harvest produce, and expand agricultural operations while progressing through seasonal tasks and productivity driven challenges. Resource cycle gameplay connects to broader <a href='/?c=simulator'>simulator games</a> systems, with economic management also seen in <a href='/?c=tycoon'>tycoon games</a>. Automation progression mechanics align with <a href='/?c=idle'>idle games</a> and incremental growth loops reflect <a href='/?c=clicker'>clicker games</a>, while logistics based transport scenarios connect to <a href='/?c=truck'>truck games</a>. These browser farming experiences emphasize cultivation loops, harvest optimization pacing, and long term land management progression suited for relaxing online play.\n\nKey Features\n\n• Crop cultivation simulation mechanics\n• Livestock management gameplay systems\n• Seasonal productivity challenge loops\n• Resource cycle progression structures\n• Agricultural expansion planning formats"
-        },
-        {
-            "id": "shooter",
-            "name": "Shooter",
-            "description": "Shooter games focus on aiming at targets, engaging enemies, and completing action driven challenges through precision based shooting mechanics. Players explore mission based scenarios in <a href='/?c=sniper'>sniper games</a>, fast reaction encounters in <a href='/?c=fps'>fps games</a>, and survival challenges found in <a href='/?c=zombie'>zombie games</a> and <a href='/?c=survival'>survival games</a>. Large scale conflicts appear in <a href='/?c=war'>war games</a> while weapon interaction systems remain central across <a href='/?c=gun'>gun games</a>. These browser shooter experiences highlight aim tracking systems, level progression loops, and real time targeting skills suited for fast paced online play.\n\nKey Features\n\n• Target aiming control mechanics\n• Real time shooting interaction\n• Weapon handling gameplay systems\n• Mission and survival modes\n• Precision timing challenge loops"
         },
         {
             "id": "tycoon",
