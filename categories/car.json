@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "carrush",
+            "title": "Car Rush",
+            "iframe": "https://html5.gamemonetize.games/rmn0lrs7cp5v4lrmm4doocr4bk21668f/",
+            "description": "Launch CarRush instantly and take on bright casual challenges in your browser. Quick to load with gameplay that stays engaging session after session. Focus on problem solving while taking on relaxed sessions. Experience CarRush for free on G55.CO."
+        },
+        {
             "id": "cars-with-guns-wasteland-showdown",
             "title": "Cars with Guns: Wasteland Showdown",
             "iframe": "https://html5.gamedistribution.com/0bd1e5d745554a4c9d1defd57dd91aa5/",
