@@ -24,6 +24,7 @@ header:after {
     border-right: 90px solid transparent;
 }
 main {
+    width: calc(100% - 250px);
     margin: 25px 0;
 }
 footer {
@@ -62,6 +63,10 @@ a, a:visited {
 p {
     margin: 0;
 }
+.nav {
+    width: 250px;
+    background-color: #000;
+}
 .logo {
     width: 200px;
     height: 50px;
@@ -84,7 +89,7 @@ p {
     margin: 0 25px;
     padding: 0;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 10px;
 }
 .pagination {
@@ -267,7 +272,7 @@ p {
 
 @media (min-width: 1320px) {
 .thumbnail {
---cols: 8;
+--cols: 6;
 }
 }
 
