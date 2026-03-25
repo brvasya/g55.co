@@ -5,6 +5,11 @@
     },
     "categories": [
         {
+            "id": "offroad",
+            "name": "Offroad",
+            "description": "Offroad games focus on navigating rugged terrain, controlling heavy vehicles, and overcoming environmental obstacles through physics driven driving mechanics. Players manage traction, balance throttle input, and adapt steering across hills, mud tracks, and uneven landscapes while progressing through challenge based terrain scenarios and endurance style routes. Terrain gameplay connects to broader <a href='/?c=truck'>truck games</a> systems, with large scale vehicle handling also seen in <a href='/?c=monster-truck'>monster truck games</a>. These browser offroad experiences emphasize terrain adaptation loops, heavy vehicle control progression, and environmental navigation challenges suited for immersive online play.\n\nKey Features\n\n• Terrain responsive vehicle control mechanics\n• Heavy vehicle balance and traction systems\n• Hill climb and obstacle navigation challenges\n• Endurance based route progression loops\n• Physics driven environmental interaction"
+        },
+        {
             "id": "shooter",
             "name": "Shooter",
             "description": "Shooter games focus on aiming at targets, engaging enemies, and completing action driven challenges through precision based shooting mechanics. Players explore mission based scenarios in <a href='/?c=sniper'>sniper games</a>, fast reaction encounters in <a href='/?c=fps'>fps games</a>, and survival challenges found in <a href='/?c=zombie'>zombie games</a> and <a href='/?c=survival'>survival games</a>. Large scale conflicts appear in <a href='/?c=war'>war games</a> while weapon interaction systems remain central across <a href='/?c=gun'>gun games</a>. These browser shooter experiences highlight aim tracking systems, level progression loops, and real time targeting skills suited for fast paced online play.\n\nKey Features\n\n• Target aiming control mechanics\n• Real time shooting interaction\n• Weapon handling gameplay systems\n• Mission and survival modes\n• Precision timing challenge loops"
@@ -78,11 +83,6 @@
             "id": "survival",
             "name": "Survival",
             "description": "Survival games focus on staying alive in hostile environments, gathering resources, and adapting to unpredictable conditions through strategy driven gameplay mechanics. Players craft tools, build shelters, and manage hunger, health, and temperature systems while exploring wilderness zones and abandoned landscapes. High risk scenarios connect to <a href='/?c=zombie'>zombie games</a> and threat driven encounters appear in broader <a href='/?c=shooter'>shooter games</a>, with fast reaction situations also seen in <a href='/?c=fps'>fps games</a> and precision challenges reflected in <a href='/?c=sniper'>sniper games</a>. Large scale conflicts appear across <a href='/?c=war'>war games</a> while weapon interaction overlaps with <a href='/?c=gun'>gun games</a>. These browser survival experiences emphasize environmental endurance loops, crafting progression systems, and long form exploration pacing suited for immersive online play.\n\nKey Features\n\n• Resource gathering survival mechanics\n• Hunger and temperature management\n• Crafting and shelter building systems\n• Open wilderness exploration modes\n• Environmental endurance challenge loops"
-        },
-        {
-            "id": "offroad",
-            "name": "Offroad",
-            "description": "Offroad games focus on navigating rugged terrain, controlling heavy vehicles, and overcoming environmental obstacles through physics driven driving mechanics. Players manage traction, balance throttle input, and adapt steering across hills, mud tracks, and uneven landscapes while progressing through challenge based terrain scenarios and endurance style routes. Terrain gameplay connects to broader <a href='/?c=truck'>truck games</a> systems, with large scale vehicle handling also seen in <a href='/?c=monster-truck'>monster truck games</a>. These browser offroad experiences emphasize terrain adaptation loops, heavy vehicle control progression, and environmental navigation challenges suited for immersive online play.\n\nKey Features\n\n• Terrain responsive vehicle control mechanics\n• Heavy vehicle balance and traction systems\n• Hill climb and obstacle navigation challenges\n• Endurance based route progression loops\n• Physics driven environmental interaction"
         },
         {
             "id": "among-us",
