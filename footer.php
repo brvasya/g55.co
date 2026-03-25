@@ -1,7 +1,7 @@
 <nav>
 <?php foreach ($grouped['clusters'] as $cluster): ?>
-<h2><?php echo h($cluster[0]['name']) ?> Games</h2>
 <ul class="categories">
+<h2><?php echo h($cluster[0]['name']) ?> Games</h2>
 <?php foreach ($cluster as $c): ?>
 <li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
 <?php endforeach; ?>
