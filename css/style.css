@@ -5,8 +5,12 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: bold;
     font-size: 13px;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
     color: #999;
     overflow-x: hidden;
+    display: flex;
+    justify-content: flex-end;
 }
 header {
     width: 70%;
