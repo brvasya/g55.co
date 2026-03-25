@@ -1,12 +1,12 @@
+<footer>
 <nav>
-<h2>Browse All Games</h2>
+<h2>Explore All Game Categories</h2>
 <ul class="categories">
 <?php foreach ($categories as $c): ?>
 <li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
 <?php endforeach; ?>
 </ul>
 </nav>
-<footer>
 <div>
 <span>&#169; <?php echo date('Y'); ?> G55.CO</span>
 <a href="/privacy-policy.php">Privacy Policy</a>
