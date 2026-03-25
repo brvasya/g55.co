@@ -45,7 +45,6 @@
 <h2>Game Details</h2>
 <p class="description"><?php echo h($desc); ?></p>
 </section>
-</main>
 <?php if (!empty($currentCluster)): ?>
 <nav>
 <h2>Explore <?php echo h($currentCluster[0]['name']) ?> Games</h2>
@@ -56,6 +55,7 @@
 </ul>
 </nav>
 <?php endif; ?>
+</main>
 <?php include 'footer.php'; ?>
 </body>
 </html>
