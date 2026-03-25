@@ -1,4 +1,4 @@
-<nav class="nav">
+<nav>
 <?php foreach ($grouped['clusters'] as $cluster): ?>
 <h2><?php echo h($cluster[0]['name']) ?> Games</h2>
 <ul class="categories">
