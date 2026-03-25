@@ -47,7 +47,7 @@
         {
             "id": "monster-truck",
             "name": "Monster Truck",
-            "description": "Crush obstacles, race across dirt arenas, and launch oversized vehicles through extreme stunt courses built around high impact driving challenges. Monster Truck games focus on throttle control, suspension physics, and terrain adaptation while completing event based objectives or freestyle scoring runs. Players navigate ramps, wreckage zones, and competitive circuits using real time vehicle handling systems designed for heavy duty off road performance and destructive stunt gameplay scenarios.\n\nKey Features\n\n• Heavy vehicle physics control\n• Off road stunt track design\n• Obstacle crushing gameplay loops\n• Freestyle event scoring systems\n• Competitive racing arena modes"
+            "description": "Monster truck games focus on controlling oversized vehicles, crushing obstacles, and performing terrain based driving maneuvers through physics driven mechanics. Players accelerate across rugged tracks, launch through ramps, and maintain balance while progressing through destruction challenges, stunt routes, and endurance driving scenarios. Heavy vehicle gameplay connects to broader <a href='/?c=offroad'>offroad games</a> systems, with transport scale control also seen in <a href='/?c=truck'>truck games</a>. These browser monster truck experiences emphasize obstacle crushing loops, suspension control progression, and large vehicle stunt dynamics suited for thrilling online play.\n\nKey Features\n\n• Oversized vehicle control mechanics\n• Obstacle crushing gameplay systems\n• Suspension balance and traction challenges\n• Terrain stunt progression loops\n• Physics driven heavy vehicle dynamics"
         },
         {
             "id": "stack",
@@ -82,7 +82,7 @@
         {
             "id": "offroad",
             "name": "Offroad",
-            "description": ""
+            "description": "Offroad games focus on navigating rugged terrain, controlling heavy vehicles, and overcoming environmental obstacles through physics driven driving mechanics. Players manage traction, balance throttle input, and adapt steering across hills, mud tracks, and uneven landscapes while progressing through challenge based terrain scenarios and endurance style routes. Terrain gameplay connects to broader <a href='/?c=truck'>truck games</a> systems, with large scale vehicle handling also seen in <a href='/?c=monster-truck'>monster truck games</a>. These browser offroad experiences emphasize terrain adaptation loops, heavy vehicle control progression, and environmental navigation challenges suited for immersive online play.\n\nKey Features\n\n• Terrain responsive vehicle control mechanics\n• Heavy vehicle balance and traction systems\n• Hill climb and obstacle navigation challenges\n• Endurance based route progression loops\n• Physics driven environmental interaction"
         },
         {
             "id": "among-us",
@@ -362,7 +362,7 @@
         {
             "id": "truck",
             "name": "Truck",
-            "description": ""
+            "description": "Truck games focus on operating heavy transport vehicles, managing cargo movement, and navigating large scale routes through physics driven driving mechanics. Players control acceleration, balance load stability, and maneuver oversized vehicles while progressing through transport challenges, terrain routes, and endurance based driving scenarios. Heavy vehicle gameplay connects to broader <a href='/?c=offroad'>offroad games</a> systems, with large scale stunt handling also seen in <a href='/?c=monster-truck'>monster truck games</a>. These browser truck experiences emphasize cargo transport loops, heavy vehicle mastery progression, and long route navigation pacing suited for focused online play.\n\nKey Features\n\n• Heavy transport vehicle control mechanics\n• Cargo stability and route navigation systems\n• Terrain endurance driving challenges\n• Load management progression loops\n• Physics based large vehicle handling"
         },
         {
             "id": "parking",
