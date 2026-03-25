@@ -7,7 +7,7 @@
         {
             "id": "educational",
             "name": "Educational",
-            "description": ""
+            "description": "Educational games focus on developing cognitive skills, improving academic abilities, and reinforcing structured learning through interactive problem solving mechanics. Players practice numerical reasoning, language comprehension, and knowledge recall while progressing through structured challenges that simulate classroom style learning environments. Cognitive training connects to numerical logic in <a href='/?c=math'>math games</a>, vocabulary development in <a href='/?c=word'>word games</a>, and knowledge testing scenarios across <a href='/?c=quiz'>quiz games</a>. These browser educational experiences emphasize skill progression loops, mental training systems, and structured learning pacing suited for focused online play.\n\nKey Features\n\n• Cognitive skill development mechanics\n• Structured learning progression systems\n• Academic challenge gameplay formats\n• Knowledge testing interaction loops\n• Mental training scenario structures"
         },
         {
             "id": "girls",
@@ -292,7 +292,7 @@
         {
             "id": "quiz",
             "name": "Quiz",
-            "description": "Quiz Games focus on answering questions, selecting correct options, and progressing through knowledge based challenges using rule driven interaction mechanics. Players interpret prompts, recall information, and complete structured rounds through timed decision systems and score tracking objectives. Gameplay often includes themed trivia sets, difficulty scaling modes, or competitive leaderboard formats that shape pacing. These experiences highlight question based gameplay loops and cognitive testing interaction systems suited for focused browser sessions.\n\nKey Features\n\n• Question answering interaction mechanics\n• Timed decision gameplay systems\n• Knowledge recall challenge loops\n• Score tracking progression modes\n• Themed trivia objective formats"
+            "description": "Quiz games focus on answering questions, testing knowledge, and reinforcing memory recall through structured challenge based gameplay mechanics. Players select correct responses, progress through topic based levels, and improve cognitive accuracy while engaging with educational themed content. Knowledge testing connects to broader <a href='/?c=educational'>educational games</a> systems, with numerical reasoning also seen in <a href='/?c=math'>math games</a> and language comprehension reflected in <a href='/?c=word'>word games</a>. These browser quiz experiences emphasize recall progression loops, topic mastery systems, and cognitive evaluation pacing suited for structured online learning.\n\nKey Features\n\n• Knowledge testing gameplay mechanics\n• Topic based question progression\n• Memory recall interaction systems\n• Cognitive accuracy challenge loops\n• Educational content evaluation formats"
         },
         {
             "id": "runner",
@@ -477,7 +477,7 @@
         {
             "id": "word",
             "name": "Word",
-            "description": "Word Games focus on forming words, solving language based challenges, and completing structured puzzles through vocabulary driven mechanics. Players arrange letters, identify patterns, and progress through levels using logic systems and cognitive skill development loops. Gameplay often includes timed challenges, crossword formats, or score tracking objectives that shape pacing. These experiences highlight language gameplay loops and lexical interaction systems suited for focused browser sessions.\n\nKey Features\n\n• Letter arrangement puzzle mechanics\n• Vocabulary challenge gameplay systems\n• Pattern recognition word loops\n• Timed language progression modes\n• Crossword style objective formats"
+            "description": "Word games focus on building vocabulary, improving language comprehension, and solving linguistic challenges through pattern recognition and spelling based gameplay mechanics. Players form words, decode letter sequences, and progress through structured puzzles that reinforce reading and writing skills. Language development connects to broader <a href='/?c=educational'>educational games</a> systems, with numerical reasoning also seen in <a href='/?c=math'>math games</a> and knowledge testing reflected in <a href='/?c=quiz'>quiz games</a>. These browser word experiences emphasize vocabulary expansion loops, spelling interaction systems, and cognitive language progression suited for focused online learning.\n\nKey Features\n\n• Vocabulary building gameplay mechanics\n• Letter sequence recognition systems\n• Spelling challenge progression loops\n• Linguistic pattern solving formats\n• Reading comprehension training scenarios"
         },
         {
             "id": "space",
@@ -497,7 +497,7 @@
         {
             "id": "math",
             "name": "Math",
-            "description": "Math Games focus on solving numerical problems, applying calculations, and completing logic driven challenges through interactive learning mechanics. Players perform operations, interpret number patterns, and progress through structured tasks using rule based systems and cognitive skill development loops. Gameplay often includes timed quizzes, puzzle solving formats, or equation based objectives that shape progression. These experiences highlight arithmetic gameplay loops and educational problem solving systems suited for accessible browser sessions.\n\nKey Features\n\n• Numerical problem solving mechanics\n• Calculation based gameplay systems\n• Logic driven challenge loops\n• Timed quiz progression modes\n• Equation focused task objectives"
+            "description": "Math games focus on solving numerical problems, developing arithmetic skills, and improving logical reasoning through structured calculation based gameplay mechanics. Players complete equations, identify number patterns, and progress through difficulty scaling challenges that reinforce mathematical understanding. Numerical learning connects to broader <a href='/?c=educational'>educational games</a> systems, with vocabulary logic also seen in <a href='/?c=word'>word games</a> and knowledge evaluation reflected in <a href='/?c=quiz'>quiz games</a>. These browser math experiences emphasize calculation progression loops, number recognition systems, and logical reasoning pacing suited for structured online learning.\n\nKey Features\n\n• Arithmetic problem solving mechanics\n• Number pattern recognition systems\n• Logical calculation progression loops\n• Difficulty scaling challenge formats\n• Structured equation gameplay scenarios"
         }
     ]
 }
