@@ -1,19 +1,3 @@
-<nav>
-<?php foreach ($grouped['clusters'] as $cluster): ?>
-<h2><?php echo h($cluster[0]['name']) ?> Games</h2>
-<ul class="categories">
-<?php foreach ($cluster as $c): ?>
-<li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
-<?php endforeach; ?>
-</ul>
-<?php endforeach; ?>
-<h2>Browse More Games</h2>
-<ul class="categories">
-<?php foreach ($grouped['browse_more'] as $c): ?>
-<li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
-<?php endforeach; ?>
-</ul>
-</nav>
 <footer>
 <div>
 <span>&#169; <?php echo date('Y'); ?> G55.CO</span>

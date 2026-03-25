@@ -180,3 +180,14 @@ function build_category_clusters(array $categories): array {
 function get_categories_clustered(array $index): array {
     return build_category_clusters($index['categories'] ?? []);
 }
+
+function find_cluster_for_category(array $clustered, string $categoryId): array {
+    foreach ($clustered['clusters'] as $cluster) {
+        foreach ($cluster as $cat) {
+            if ($cat['id'] === $categoryId) {
+                return $cluster;
+            }
+        }
+    }
+    return [];
+}

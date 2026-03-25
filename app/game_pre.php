@@ -6,6 +6,8 @@ $index = load_site_index();
 $site = $index['site'];
 $categories = get_categories_sorted($index);
 $grouped = get_categories_clustered($index);
+$currentCategory = $page['category'];
+$currentCluster = find_cluster_for_category($grouped, $currentCategory);
 
 if (!isset($_GET['id'], $_GET['c'])) {
   header('Location: /', true, 302);
