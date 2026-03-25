@@ -13,14 +13,14 @@
 <body>
 <?php include 'header.php'; ?>
 <main>
-<section>
+<article class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>">
 <h1><?php echo h($h1); ?></h1>
-<p class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>"><?php echo $desc; ?></p>
-<div class="grid">
+<p><?php echo $desc; ?></p>
+</article>
+<section class="grid">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
-</div>
 </section>
 <?php if (!empty($pager) && $pager['total_pages'] > 1): ?>
 <nav class="pagination">
