@@ -18,6 +18,14 @@
 <h1><?php echo h($h1); ?></h1>
 <p><?php echo h($desc); ?></p>
 </article>
+<nav class="pagination">
+<?php if ($prevUrl): ?>
+<a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
+<?php endif; ?>
+<?php if ($nextUrl): ?>
+<a class="tag" href="<?php echo h($nextUrl); ?>">Next: <?php echo h($nextTitle); ?></a>
+<?php endif; ?>
+</nav>
 <section class="container">
 <aside class="tower_l">
 <script async src="/js/160x600.js"></script>
@@ -34,14 +42,6 @@
 <a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
 </aside>
 </section>
-<nav class="pagination">
-<?php if ($prevUrl): ?>
-<a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
-<?php endif; ?>
-<?php if ($nextUrl): ?>
-<a class="tag" href="<?php echo h($nextUrl); ?>">Next: <?php echo h($nextTitle); ?></a>
-<?php endif; ?>
-</nav>
 </main>
 <?php include 'footer.php'; ?>
 </body>
