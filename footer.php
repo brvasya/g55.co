@@ -14,7 +14,6 @@
 <?php endforeach; ?>
 </ul>
 </nav>
-</main>
 <footer>
 <div>
 <span>&#169; <?php echo date('Y'); ?> G55.CO</span>

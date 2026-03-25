@@ -45,6 +45,7 @@
 <h2>Game Details</h2>
 <p class="description"><?php echo h($desc); ?></p>
 </section>
+</main>
 <?php include 'footer.php'; ?>
 </body>
 </html>
