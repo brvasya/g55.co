@@ -5,12 +5,8 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: bold;
     font-size: 13px;
-    flex-wrap: wrap;
-    flex-direction: row-reverse;
     color: #999;
     overflow-x: hidden;
-    display: flex;
-    justify-content: flex-end;
 }
 header {
     width: 70%;
@@ -26,10 +22,6 @@ header:after {
     position: absolute;
     border-top: 90px solid #666;
     border-right: 90px solid transparent;
-}
-main {
-    width: calc(100% - 250px);
-    margin: 25px 0;
 }
 footer {
     margin-top: 30px;
@@ -51,8 +43,21 @@ li {
     flex: auto;
 }
 h1 {
+    width: calc(70% - 85px);
+    height: 60px;
+    line-height: 60px;
     font-size: 20px;
-    margin: 0;
+    padding-left: 25px;
+    margin: 0 0 25px 0;
+    position: relative;
+    background-color: #000;
+}
+h1:after {
+    content: "";
+    right: -60px;
+    position: absolute;
+    border-top: 60px solid #000;
+    border-right: 60px solid transparent;
 }
 h2 {
     font-size: 20px;
@@ -63,13 +68,6 @@ a, a:visited {
     color: #fff;
     text-decoration: none;
     pointer-events: auto;
-}
-p {
-    margin: 0;
-}
-.nav {
-    width: 250px;
-    background-color: #000;
 }
 .logo {
     width: 200px;
@@ -93,11 +91,11 @@ p {
     margin: 0 25px;
     padding: 0;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     gap: 10px;
 }
 .pagination {
-    padding: 25px 0;
+    padding: 25px 0 0;
 }
 .pagination .tag {
     padding: 10px;
@@ -276,7 +274,7 @@ p {
 
 @media (min-width: 1320px) {
 .thumbnail {
---cols: 6;
+--cols: 8;
 }
 }
 
