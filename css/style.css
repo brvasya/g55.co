@@ -23,6 +23,9 @@ header:after {
     border-top: 90px solid #666;
     border-right: 90px solid transparent;
 }
+main {
+    margin: 25px 0;
+}
 footer {
     margin-top: 30px;
     background-color: #222;
@@ -55,6 +58,9 @@ a, a:visited {
     color: #fff;
     text-decoration: none;
     pointer-events: auto;
+}
+p {
+    margin: 0;
 }
 .logo {
     width: 200px;
