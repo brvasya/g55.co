@@ -11,6 +11,7 @@ body {
 header {
     width: 70%;
     height: 90px;
+    margin-bottom: 25px;
     display: flex;
     position: relative;
     align-items: center;
@@ -43,21 +44,8 @@ li {
     flex: auto;
 }
 h1 {
-    width: calc(70% - 85px);
-    height: 60px;
-    line-height: 60px;
     font-size: 20px;
-    padding-left: 25px;
-    margin: 0 0 25px 0;
-    position: relative;
-    background-color: #000;
-}
-h1:after {
-    content: "";
-    right: -60px;
-    position: absolute;
-    border-top: 60px solid #000;
-    border-right: 60px solid transparent;
+    margin: 0;
 }
 h2 {
     font-size: 20px;
@@ -68,6 +56,9 @@ a, a:visited {
     color: #fff;
     text-decoration: none;
     pointer-events: auto;
+}
+p {
+    margin: 0;
 }
 .logo {
     width: 200px;
