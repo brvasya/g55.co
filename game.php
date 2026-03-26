@@ -15,7 +15,7 @@
 <?php include 'header.php'; ?>
 <main>
 <article>
-<section class="description">
+<section class="description <?php echo rawurlencode($cid); ?>">
 <h1><?php echo h($h1); ?></h1>
 <p><?php echo h($desc); ?></p>
 </section>
