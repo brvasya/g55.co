@@ -26,11 +26,11 @@
 </ul>
 </nav>
 <?php endif; ?>
-<div class="grid">
+<section class="grid">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
-</div>
+</section>
 </article>
 <?php if (!empty($pager) && $pager['total_pages'] > 1): ?>
 <nav class="pagination">
