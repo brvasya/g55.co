@@ -287,7 +287,6 @@ header:after, .tower_l, .ads, #___gcse_0 {
 }
 h1 {
     overflow: hidden;
-    text-align: center;
     text-overflow: ellipsis;
     white-space: nowrap;
 }
