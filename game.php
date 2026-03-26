@@ -16,7 +16,7 @@
 <main>
 <article>
 <h1>Play <?php echo h($h1); ?></h1>
-<div class="container">
+<section class="container">
 <aside class="tower_l">
 <script async src="/js/160x600.js"></script>
 </aside>
@@ -31,20 +31,11 @@
 <?php endforeach; ?>
 <a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
 </aside>
-</div>
-</article>
+</section>
 <section>
 <h2>Game Details</h2>
 <p class="description"><?php echo h($desc); ?></p>
 </section>
-<nav class="pagination">
-<?php if ($prevUrl): ?>
-<a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
-<?php endif; ?>
-<?php if ($nextUrl): ?>
-<a class="tag" href="<?php echo h($nextUrl); ?>">Next: <?php echo h($nextTitle); ?></a>
-<?php endif; ?>
-</nav>
 <?php if (!empty($currentCluster)): ?>
 <nav>
 <h2>Explore <?php echo h($currentCluster[0]['name']) ?> Games</h2>
@@ -55,6 +46,15 @@
 </ul>
 </nav>
 <?php endif; ?>
+</article>
+<nav class="pagination">
+<?php if ($prevUrl): ?>
+<a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
+<?php endif; ?>
+<?php if ($nextUrl): ?>
+<a class="tag" href="<?php echo h($nextUrl); ?>">Next: <?php echo h($nextTitle); ?></a>
+<?php endif; ?>
+</nav>
 </main>
 <?php include 'footer.php'; ?>
 </body>
