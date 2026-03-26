@@ -291,6 +291,10 @@ h1 {
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+footer div {
+    flex-direction: column;
+    align-items: center;
+}
 .description {
     width: unset;
     padding: unset;
