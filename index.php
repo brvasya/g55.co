@@ -34,7 +34,7 @@
 <?php endif; ?>
 <?php if (!empty($currentCluster)): ?>
 <nav>
-<h2>Explore <?php echo h($currentCluster[0]['name']) ?> Games</h2>
+<h2>Related <?php echo h($currentCluster[0]['name']) ?> Game Categories</h2>
 <ul class="categories">
 <?php foreach ($currentCluster as $c): ?>
 <li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
