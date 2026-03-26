@@ -15,12 +15,16 @@
 <?php include 'header.php'; ?>
 <main>
 <article>
-<section class="container">
+<section class="description">
+<h1><?php echo h($h1); ?></h1>
+<p><?php echo h($desc); ?></p>
+</section>
+<section class="game">
 <aside class="tower_l">
 <script async src="/js/160x600.js"></script>
 </aside>
-<div class="game">
-<button class="fullscreen" onclick="document.querySelector('.game iframe')?.requestFullscreen();" title="Fullscreen"></button>
+<div class="embed">
+<button class="fullscreen" onclick="document.querySelector('.embed iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe<?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
 <aside class="tower_r">
@@ -31,12 +35,8 @@
 <a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
 </aside>
 </section>
-<section class="description">
-<h1><?php echo h($h1); ?></h1>
-<p><?php echo h($desc); ?></p>
-</section>
 <?php if (!empty($currentCluster)): ?>
-<nav>
+<nav class="cluster">
 <h2>Explore <?php echo h($currentCluster[0]['name']) ?> Games</h2>
 <ul class="categories">
 <?php foreach ($currentCluster as $c): ?>
