@@ -15,7 +15,6 @@
 <?php include 'header.php'; ?>
 <main>
 <article>
-<h1>Play <?php echo h($h1); ?></h1>
 <section class="container">
 <aside class="tower_l">
 <script async src="/js/160x600.js"></script>
@@ -32,9 +31,9 @@
 <a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
 </aside>
 </section>
-<section>
-<h2>Game Details</h2>
-<p class="description"><?php echo h($desc); ?></p>
+<section class="description">
+<h1><?php echo h($h1); ?></h1>
+<p><?php echo h($desc); ?></p>
 </section>
 <?php if (!empty($currentCluster)): ?>
 <nav>

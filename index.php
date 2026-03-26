@@ -14,8 +14,10 @@
 <?php include 'header.php'; ?>
 <main>
 <article>
+<section class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>">
 <h1><?php echo h($h1); ?></h1>
-<p class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>"><?php echo $desc; ?></p>
+<p><?php echo $desc; ?></p>
+</section>
 <?php if (!empty($currentCluster)): ?>
 <nav>
 <h2>Related <?php echo h($currentCluster[0]['name']) ?> Game Categories</h2>
