@@ -19,7 +19,7 @@
 <p><?php echo $desc; ?></p>
 </section>
 <?php if (!empty($currentCluster)): ?>
-<nav class="cluster">
+<nav class="cluster c">
 <h2>Related <?php echo h($currentCluster[0]['name']) ?> Game Categories</h2>
 <ul class="categories">
 <?php foreach ($currentCluster as $c): ?>
