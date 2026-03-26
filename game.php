@@ -33,6 +33,10 @@
 </aside>
 </div>
 </article>
+<section>
+<h2>Game Details</h2>
+<p class="description"><?php echo h($desc); ?></p>
+</section>
 <nav class="pagination">
 <?php if ($prevUrl): ?>
 <a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
@@ -41,10 +45,6 @@
 <a class="tag" href="<?php echo h($nextUrl); ?>">Next: <?php echo h($nextTitle); ?></a>
 <?php endif; ?>
 </nav>
-<section>
-<h2>Game Details</h2>
-<p class="description"><?php echo h($desc); ?></p>
-</section>
 <?php if (!empty($currentCluster)): ?>
 <nav>
 <h2>Explore <?php echo h($currentCluster[0]['name']) ?> Games</h2>

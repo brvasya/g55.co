@@ -13,25 +13,9 @@
 <body>
 <?php include 'header.php'; ?>
 <main>
-<section>
+<article>
 <h1><?php echo h($h1); ?></h1>
 <p class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>"><?php echo $desc; ?></p>
-<div class="grid">
-<?php foreach ($gridItems as $it): ?>
-<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
-<?php endforeach; ?>
-</div>
-</section>
-<?php if (!empty($pager) && $pager['total_pages'] > 1): ?>
-<nav class="pagination">
-<?php if ($pager['has_prev']): ?>
-<a class="tag" href="<?php echo h($prevUrl) ?>">Prev Page</a>
-<?php endif; ?>
-<?php if ($pager['has_next']): ?>
-<a class="tag" href="<?php echo h($nextUrl) ?>">Next Page</a>
-<?php endif; ?>
-</nav>
-<?php endif; ?>
 <?php if (!empty($currentCluster)): ?>
 <nav>
 <h2>Related <?php echo h($currentCluster[0]['name']) ?> Game Categories</h2>
@@ -40,6 +24,22 @@
 <li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
 <?php endforeach; ?>
 </ul>
+</nav>
+<?php endif; ?>
+<div class="grid">
+<?php foreach ($gridItems as $it): ?>
+<a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
+<?php endforeach; ?>
+</div>
+</article>
+<?php if (!empty($pager) && $pager['total_pages'] > 1): ?>
+<nav class="pagination">
+<?php if ($pager['has_prev']): ?>
+<a class="tag" href="<?php echo h($prevUrl) ?>">Prev Page</a>
+<?php endif; ?>
+<?php if ($pager['has_next']): ?>
+<a class="tag" href="<?php echo h($nextUrl) ?>">Next Page</a>
+<?php endif; ?>
 </nav>
 <?php endif; ?>
 </main>

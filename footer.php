@@ -1,6 +1,6 @@
 <footer>
 <nav>
-<h2>Explore All Game Categories</h2>
+<span>Explore All Game Categories</span>
 <ul class="categories">
 <?php foreach ($categories as $c): ?>
 <li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
