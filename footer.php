@@ -1,4 +1,3 @@
-<footer>
 <nav>
 <h2>Explore All Game Categories</h2>
 <ul class="categories">
@@ -7,6 +6,7 @@
 <?php endforeach; ?>
 </ul>
 </nav>
+<footer>
 <div>
 <span>&#169; <?php echo date('Y'); ?> G55.CO</span>
 <a href="/privacy-policy.php">Privacy Policy</a>
