@@ -5,6 +5,11 @@
     },
     "categories": [
         {
+            "id": "animal",
+            "name": "Animal",
+            "description": "Animal games focus on interacting with creatures, exploring nature themed environments, and completing activity driven challenges through character based gameplay mechanics. Players control animals, manage behaviors, and engage with different scenarios while progressing through structured tasks and open ended experiences. Theme based gameplay connects to focused interactions in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>, while care and simulation elements appear across <a href='/?c=pet'>pet games</a>. These browser animal experiences emphasize character interaction loops, environment exploration systems, and activity driven progression suited for engaging online play.\n\nKey Features\n\n• Animal interaction gameplay mechanics\n• Nature themed environment systems\n• Character behavior challenge loops\n• Activity based progression formats\n• Exploration driven gameplay scenarios"
+        },
+        {
             "id": "pet",
             "name": "Pet",
             "description": "Pet games focus on caring for animals, managing daily routines, and completing nurturing tasks through simulation driven interaction mechanics. Players feed, clean, and interact with virtual companions while progressing through structured scenarios and lifestyle based challenges. Care focused gameplay connects to broader <a href='/?c=animal'>animal games</a> systems, with specific character experiences also seen in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>. These browser pet experiences emphasize routine management loops, nurturing interaction systems, and progression based care scenarios suited for relaxed online play.\n\nKey Features\n\n• Animal care simulation mechanics\n• Routine management gameplay systems\n• Nurturing interaction challenge loops\n• Companion based progression formats\n• Lifestyle simulation gameplay scenarios"
@@ -168,11 +173,6 @@
             "id": "among-us",
             "name": "Among Us",
             "description": "Among Us games focus on social deception gameplay, identifying hidden opponents, and completing cooperative objectives through real time multiplayer interaction mechanics. Players communicate, observe behavioral patterns, and make strategic decisions while progressing through mission based scenarios and elimination driven challenges. Social interaction gameplay connects to broader <a href='/?c=multiplayer'>multiplayer games</a> systems, with real time arena encounters also seen in <a href='/?c=.io'>.io games</a> and local shared device challenges appearing across <a href='/?c=2-player'>2 player games</a>. These browser among us experiences emphasize trust evaluation loops, team coordination pacing, and deception based progression suited for engaging online play.\n\nKey Features\n\n• Social deception gameplay mechanics\n• Player interaction observation systems\n• Cooperative objective challenge formats\n• Elimination driven progression loops\n• Real time communication strategy structures"
-        },
-        {
-            "id": "animal",
-            "name": "Animal",
-            "description": "Animal games focus on interacting with creatures, exploring nature themed environments, and completing activity driven challenges through character based gameplay mechanics. Players control animals, manage behaviors, and engage with different scenarios while progressing through structured tasks and open ended experiences. Theme based gameplay connects to focused interactions in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>, while care and simulation elements appear across <a href='/?c=pet'>pet games</a>. These browser animal experiences emphasize character interaction loops, environment exploration systems, and activity driven progression suited for engaging online play.\n\nKey Features\n\n• Animal interaction gameplay mechanics\n• Nature themed environment systems\n• Character behavior challenge loops\n• Activity based progression formats\n• Exploration driven gameplay scenarios"
         },
         {
             "id": "sudoku",
