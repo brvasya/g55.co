@@ -10,14 +10,19 @@
             "description": "Animal games focus on interacting with creatures, exploring nature themed environments, and completing activity driven challenges through character based gameplay mechanics. Players control animals, manage behaviors, and engage with different scenarios while progressing through structured tasks and open ended experiences. Theme based gameplay connects to focused interactions in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>, while care and simulation elements appear across <a href='/?c=pet'>pet games</a>. These browser animal experiences emphasize character interaction loops, environment exploration systems, and activity driven progression suited for engaging online play.\n\nKey Features\n\n• Animal interaction gameplay mechanics\n• Nature themed environment systems\n• Character behavior challenge loops\n• Activity based progression formats\n• Exploration driven gameplay scenarios"
         },
         {
-            "id": "pet",
-            "name": "Pet",
-            "description": "Pet games focus on caring for animals, managing daily routines, and completing nurturing tasks through simulation driven interaction mechanics. Players feed, clean, and interact with virtual companions while progressing through structured scenarios and lifestyle based challenges. Care focused gameplay connects to broader <a href='/?c=animal'>animal games</a> systems, with specific character experiences also seen in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>. These browser pet experiences emphasize routine management loops, nurturing interaction systems, and progression based care scenarios suited for relaxed online play.\n\nKey Features\n\n• Animal care simulation mechanics\n• Routine management gameplay systems\n• Nurturing interaction challenge loops\n• Companion based progression formats\n• Lifestyle simulation gameplay scenarios"
+            "id": "cat",
+            "name": "Cat",
+            "description": "Cat games focus on controlling feline characters, performing playful actions, and completing activity driven challenges through agile movement and interaction mechanics. Players explore environments, engage with objects, and react to dynamic situations while progressing through scenario based gameplay. Character focused gameplay connects to broader <a href='/?c=animal'>animal games</a> systems, with companion interaction elements also seen in <a href='/?c=pet'>pet games</a> and parallel experiences reflected in <a href='/?c=dog'>dog games</a>. These browser cat experiences emphasize responsive movement loops, playful interaction systems, and scenario based progression suited for casual online play.\n\nKey Features\n\n• Feline character control mechanics\n• Playful interaction gameplay systems\n• Agile movement challenge loops\n• Object interaction scenarios\n• Activity driven progression formats"
         },
         {
             "id": "dog",
             "name": "Dog",
             "description": "Dog games focus on controlling canine characters, performing interactive tasks, and engaging in activity based gameplay through responsive movement and behavior mechanics. Players explore environments, complete objectives, and interact with different elements while progressing through structured scenarios. Character based gameplay connects to broader <a href='/?c=animal'>animal games</a> systems, with companion interaction also seen in <a href='/?c=pet'>pet games</a> and parallel experiences reflected in <a href='/?c=cat'>cat games</a>. These browser dog experiences emphasize movement interaction loops, task driven progression systems, and playful gameplay pacing suited for engaging online play.\n\nKey Features\n\n• Canine character control mechanics\n• Task based interaction gameplay systems\n• Movement driven activity loops\n• Scenario progression challenge formats\n• Playful engagement gameplay structures"
+        },
+        {
+            "id": "pet",
+            "name": "Pet",
+            "description": "Pet games focus on caring for animals, managing daily routines, and completing nurturing tasks through simulation driven interaction mechanics. Players feed, clean, and interact with virtual companions while progressing through structured scenarios and lifestyle based challenges. Care focused gameplay connects to broader <a href='/?c=animal'>animal games</a> systems, with specific character experiences also seen in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>. These browser pet experiences emphasize routine management loops, nurturing interaction systems, and progression based care scenarios suited for relaxed online play.\n\nKey Features\n\n• Animal care simulation mechanics\n• Routine management gameplay systems\n• Nurturing interaction challenge loops\n• Companion based progression formats\n• Lifestyle simulation gameplay scenarios"
         },
         {
             "id": "simulator",
@@ -213,11 +218,6 @@
             "id": "card",
             "name": "Card",
             "description": "Card Games focus on drawing, playing, and managing decks to complete strategic objectives through rule based turn systems. Players plan moves, anticipate opponent actions, and use probability driven decisions within structured match formats. Gameplay often includes classic rule sets, competitive head to head modes, or single player challenge progression that tests logic and foresight. These experiences highlight deck management gameplay loops and turn based tactical systems suited for focused browser sessions.\n\nKey Features\n\n• Turn based rule systems\n• Deck management mechanics\n• Strategic decision gameplay loops\n• Head to head match formats\n• Classic card rule structures"
-        },
-        {
-            "id": "cat",
-            "name": "Cat",
-            "description": "Cat games focus on controlling feline characters, performing playful actions, and completing activity driven challenges through agile movement and interaction mechanics. Players explore environments, engage with objects, and react to dynamic situations while progressing through scenario based gameplay. Character focused gameplay connects to broader <a href='/?c=animal'>animal games</a> systems, with companion interaction elements also seen in <a href='/?c=pet'>pet games</a> and parallel experiences reflected in <a href='/?c=dog'>dog games</a>. These browser cat experiences emphasize responsive movement loops, playful interaction systems, and scenario based progression suited for casual online play.\n\nKey Features\n\n• Feline character control mechanics\n• Playful interaction gameplay systems\n• Agile movement challenge loops\n• Object interaction scenarios\n• Activity driven progression formats"
         },
         {
             "id": "christmas",
