@@ -231,12 +231,10 @@ p {
 }
 .tag:hover {
     transform: scale(1.02);
+    background-color: #bfae3a;
 }
 .categories > li > .tag {
     background-position: 10px;
-}
-.categories .exclusive {
-    background-color: #bfae3a;
 }
 .fullscreen {
     all: unset;
