@@ -29,8 +29,8 @@ article {
     flex-direction: column;
 }
 footer {
-    gap: 25px;
-    margin: 25px 25px 0;
+    gap: 30px;
+    margin: 30px 25px 0;
     padding: 25px 0;
     display: flex;
     background-color: #222;
