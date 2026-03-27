@@ -1,6 +1,30 @@
 {
     "pages": [
         {
+            "id": "minecraft-creeper-survival-runner",
+            "title": "Minecraft Creeper Survival Runner",
+            "iframe": "https://html5.g55.co/minecraft-creeper-survival-runner/",
+            "description": "Sprint through blocky terrain as a fleeing creeper and survive endless obstacle runs using timing based runner mechanics. Use jump and dodge controls to avoid traps, outrun dangers, and maintain momentum while chasing high score objectives across pixelated landscapes. Later segments introduce tighter gaps and faster hazard patterns.\n\nKey Features\n\n• Endless runner survival gameplay\n• Timing based jump controls\n• Trap and hazard avoidance\n• High score progression system\n• Blocky terrain environment"
+        },
+        {
+            "id": "minecraft-flappy-creeper",
+            "title": "Minecraft Flappy Creeper",
+            "iframe": "https://html5.g55.co/minecraft-flappy-creeper/",
+            "description": "Guide a bouncing creeper through narrow block gaps and survive endless side scrolling obstacle runs using tap based flight control. Use timing driven movement mechanics to avoid collisions, maintain altitude rhythm, and achieve high score objectives across pixelated cave environments. Later sections increase speed and obstacle density.\n\nKey Features\n\n• Tap controlled flight mechanics\n• Endless obstacle survival mode\n• High score progression system\n• Pixel cave environment setting\n• Increasing speed challenge scaling"
+        },
+        {
+            "id": "pixel-space-shooter-survival",
+            "title": "Pixel Space Shooter Survival",
+            "iframe": "https://html5.g55.co/pixel-space-shooter-survival/",
+            "description": "Pilot a pixel starfighter through hostile space sectors and destroy incoming enemy waves using rapid fire shooting mechanics. Use survival based progression to dodge projectiles, manage limited shields, and secure high score objectives across scrolling cosmic battlefields. Later stages introduce denser formations and faster attack patterns.\n\nKey Features\n\n• Pixel starfighter survival combat\n• Rapid fire shooting system\n• Wave based enemy progression\n• Shield management mechanics\n• Scrolling space battlefield setting"
+        },
+        {
+            "id": "sniper-pixel-shooting",
+            "title": "Sniper Pixel Shooting",
+            "iframe": "https://html5.g55.co/sniper-pixel-shooting/",
+            "description": "Aim through pixelated scopes and eliminate hostile targets across compact urban battle zones. Use precision based shooting mechanics to manage distance, timing, and limited ammunition while progressing through escalating mission layouts. Each level introduces new enemy positions and tighter reaction windows that test steady aim and tactical awareness.\n\nKey Features\n\n• Pixel sniper combat missions\n• Scope based precision shooting\n• Timed enemy elimination challenges\n• Progressive level difficulty scaling\n• Urban rooftop battle setting"
+        },
+        {
             "id": "vice-city-mad-driving",
             "title": "Vice City Mad Driving",
             "iframe": "https://games.g55.co/vice-city-mad-driving-no-ads/",
