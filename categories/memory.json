@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "squid-game-memory-card-match",
+            "title": "Squid Game Memory Card Match",
+            "iframe": "https://html5.gamedistribution.com/a00888d72f744da685524e1706063c07/",
+            "description": "Squid Game Memory Card Match challenges your memory and focus as you dive into the world of Squid Game. This exciting card-matching puzzle game lets you flip over cards featuring iconic symbols and characters from the hit show. Your goal is to match pairs of identical cards as quickly as possible before time runs out. Each level presents a series of cards laid out in a grid, and you must remember the positions of the cards to successfully pair them. The pressure mounts as you work against the clock, testing your ability to recall the card locations and make the right moves under pressure. With each new round, the difficulty increases, introducing more cards and requiring sharper focus to succeed. The thrill of racing against the clock and matching cards before time runs out keeps you on the edge of your seat. You can challenge yourself to beat your own best time or compete with friends to see who has the best memory. Squid Game Memory Card Match is a fun and engaging way to test your cognitive skills while enjoying the intense atmosphere of the Squid Game universe. Can you match all the cards before time expires, or will the pressure get to you? Step up to the challenge and see if you have what it takes to succeed in this memory-testing game."
+        },
+        {
             "id": "space-memory",
             "title": "Space Memory",
             "iframe": "https://html5.gamedistribution.com/0edf2b36d839482898b2c7687428ac60/",

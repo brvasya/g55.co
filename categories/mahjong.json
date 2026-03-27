@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "squid-mahjong-connect-2",
+            "title": "Squid Mahjong Connect 2",
+            "iframe": "https://html5.gamedistribution.com/ea643f2e942a4b0eb2096e5c33fd5d83/",
+            "description": "Squid Mahjong Connect 2 is an engaging HTML5 game that challenges players to connect squid-themed mahjong tiles strategically. The goal is to match and eliminate all squid tiles from the board, showcasing an array of vibrant and intricately designed symbols that represent squids.\r\n\r\nPlayers navigate through various levels, exercising their observation skills and strategy as they link identical squid tiles with a clear path that doesn't exceed two turns. With each successful connection, the paired tiles vanish, gradually clearing the board.\r\n\r\nThe game intensifies as players progress, increasing in difficulty by adding more complex tile formations and intricate patterns. While the specific maximum level is not specified, the game typically advances in difficulty and complexity as players conquer each level, providing an increasingly challenging and enjoyable experience.\r\n\r\nSquid Mahjong Connect 2 offers an entertaining and visually appealing gameplay experience, encouraging players to strategize and think critically while enjoying the delightful squid-themed mahjong tiles."
+        },
+        {
+            "id": "squid-mahjong-connect",
+            "title": "Squid Mahjong Connect",
+            "iframe": "https://html5.gamedistribution.com/ecb7621a1dec4a928772ad3db23abe84/",
+            "description": "Squid Mahjong Connect is an engaging HTML5 mahjong-connect game that challenges players to connect all the squid-themed mahjong tiles to clear the board. The game follows the classic mahjong-connect rules, where players must match pairs of identical tiles by drawing a path between them with no more than two 90-degree angles.\r\n\r\nIn Squid Mahjong Connect, players are presented with an array of intricately designed squid-themed tiles arranged in various patterns. To progress through the game, players must strategically analyze the layout and identify pairs of matching tiles. Once a matching pair is found, players can click on one tile and then click on its matching counterpart to connect them, causing them to disappear from the board.\r\n\r\nThe game features progressively challenging levels, each with increasingly complex tile arrangements. As players successfully clear each level by connecting all the squid mahjong tiles, they advance to the next level, where the difficulty continues to escalate. The path between matching tiles must be clear of any obstacles or other tiles, and players must employ strategic thinking and keen observation skills to uncover all possible matches.\r\n\r\nWith its captivating gameplay and visually appealing squid-themed graphics, Squid Mahjong Connect offers players an immersive gaming experience that will keep them entertained for hours. The maximum level a player can reach in Squid Mahjong Connect ultimately depends on their skill level, strategic abilities, and determination to conquer each challenging level presented by the game."
+        },
+        {
             "id": "monster-mahjong",
             "title": "Monster Mahjong",
             "iframe": "https://html5.gamedistribution.com/a85a87d217204d08a704b1a22f70b9fb/",

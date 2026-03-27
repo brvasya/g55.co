@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "squid-game-io",
+            "title": "Squid Game.io",
+            "iframe": "https://html5.gamedistribution.com/8256a6e4d51c45c6abe055782066efed/",
+            "description": "Squid Game.io is a thrilling multiplayer survival experience inspired by the hit Netflix series, where you must outwit and outlast 30 rivals in fast-paced 7-minute matches. Each round throws you into a deadly mini-game that tests your reflexes, strategy, and ability to stay calm under pressure. The rules are simple—survive the challenge or face instant elimination at the hands of the Pink Soldiers.\r\n\r\nThe game captures the tension and excitement of the series by forcing you to adapt quickly to shifting scenarios. From nerve-racking timing puzzles to reflex-driven challenges, every mini-game requires a mix of skill and strategy to advance. The stakes get higher with each round as the pool of players shrinks, making every move and every second count.\r\n\r\nPerfect for fans of survival games, competitive multiplayer, and high-stakes action, Squid Game.io delivers a blend of suspense and fun that keeps you coming back for more. Its quick rounds and unpredictable gameplay make it easy to pick up but hard to master. Play Squid Game.io online and see if you have what it takes to be the last one standing."
+        },
+        {
             "id": "space-io",
             "title": "Space.io",
             "iframe": "https://html5.gamedistribution.com/01a2209f6b014104951400328089a30d/",
