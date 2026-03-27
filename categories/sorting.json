@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "food-card-sort",
+            "title": "Food Card Sort",
+            "iframe": "https://html5.gamedistribution.com/7226d1b082d84bf1a039cdebfd437fe4/",
+            "description": "Food Card Sort is a captivating 3D puzzle game designed to engage players' logic and reasoning abilities. Featuring an array of food cards, each adorned with a distinct type of cuisine, the game presents players with the task of sorting these cards into cohesive categories. To progress through the levels, players must strategically place similar food items together on the appropriate plate.\r\n\r\nAs players delve into the game, they encounter an assortment of food cards ranging from fruits and vegetables to meats and desserts. The challenge lies in discerning the subtle differences between each food type and arranging them accordingly. With each level presenting a new set of cards and increasingly complex arrangements, players must sharpen their observational skills and analytical thinking to succeed.\r\n\r\nThe immersive 3D environment enhances the gaming experience, allowing players to interact with the food cards and plates in a realistic and visually appealing manner. Whether it's grouping together tropical fruits or assembling a savory platter of meats and cheeses, Food Card Sort offers a stimulating and enjoyable way to exercise the mind while exploring the diverse world of cuisine.\r\n\r\nEmbark on a culinary journey filled with tantalizing challenges and satisfying solutions in Food Card Sort—a game that combines the love of food with the thrill of puzzle-solving."
+        },
+        {
+            "id": "card-shuffle-sort",
+            "title": "Card Shuffle Sort",
+            "iframe": "https://html5.gamedistribution.com/8fb79fbea47f417382e6b83fdfc39e37/",
+            "description": "Card Shuffle Sort is a captivating and mentally stimulating color-sorting game that will challenge your organizational skills and puzzle-solving prowess. The primary objective is straightforward: reorganize the cards displayed on the board so that they are neatly sorted by color. However, beneath its initial simplicity lies a progressively intricate series of levels that will test your abilities to the fullest. To succeed, you'll need to engage in meticulous planning and employ strategic thinking as the game presents increasingly complex challenges that will keep you hooked and entertained."
+        },
+        {
             "id": "goods-sort",
             "title": "Goods Sort",
             "iframe": "https://html5.gamemonetize.games/nijmk0kzyqgls4iarr10d4m9scmg2k98/",

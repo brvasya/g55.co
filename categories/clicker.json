@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "tcg-card-clicker",
+            "title": "TCG Card Clicker",
+            "iframe": "https://html5.gamedistribution.com/e18fdcf3108842acacb98106578bd03b/",
+            "description": "Step into TCG Card Clicker and enjoy responsive clicker gameplay focused on precision. Play TCG Card Clicker online for free on G55.CO. Experience reward loops with emphasis on reaction speed. Performance tuning keeps matches fluid and responsive."
+        },
+        {
             "id": "tap-candy-sweets-clicker",
             "title": "Tap Candy : Sweets Clicker",
             "iframe": "https://html5.gamedistribution.com/38e4a971c60e48fe851370f90b62e8a0/",
