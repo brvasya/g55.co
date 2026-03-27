@@ -137,7 +137,7 @@
         {
             "id": "kids",
             "name": "Kids",
-            "description": ""
+            "description": "Kids games focus on simple interactions, colorful environments, and age appropriate activities designed for safe and engaging play through easy to understand gameplay mechanics. Players complete basic tasks, explore friendly scenarios, and interact with characters while progressing through structured challenges suited for younger audiences. Age focused gameplay connects to care based activities in <a href='/?c=baby'>baby games</a> and roleplay learning scenarios across <a href='/?c=doctor'>doctor games</a>. Creative expression also appears in <a href='/?c=coloring'>coloring games</a> and <a href='/?c=drawing'>drawing games</a>. These browser kids experiences emphasize simple control loops, guided progression systems, and friendly gameplay pacing suited for casual online play.\n\nKey Features\n\n• Simple interaction gameplay mechanics\n• Age appropriate challenge structures\n• Colorful environment exploration systems\n• Guided progression activity loops\n• Safe and friendly gameplay formats"
         },
         {
             "id": "minecraft",
@@ -442,12 +442,12 @@
         {
             "id": "baby",
             "name": "Baby",
-            "description": ""
+            "description": "Baby games focus on caring for characters, completing routine activities, and interacting with simple environments through nurturing gameplay mechanics. Players feed, clean, and manage daily tasks while progressing through structured scenarios designed for younger audiences. Care based gameplay connects to broader <a href='/?c=kids'>kids games</a> experiences, with roleplay activities also appearing in <a href='/?c=doctor'>doctor games</a>. Creative interaction can be found in <a href='/?c=coloring'>coloring games</a> and <a href='/?c=drawing'>drawing games</a>. These browser baby experiences emphasize routine management loops, nurturing interaction systems, and gentle progression pacing suited for relaxed online play.\n\nKey Features\n\n• Care simulation gameplay mechanics\n• Routine based interaction systems\n• Nurturing task progression loops\n• Simple environment activity formats\n• Gentle gameplay challenge structures"
         },
         {
             "id": "doctor",
             "name": "Doctor",
-            "description": "Doctor Games focus on diagnosing patients, performing treatments, and managing medical scenarios through guided simulation mechanics. Players examine symptoms, use tools, and follow step based procedures within structured task systems that emphasize coordination and sequencing. Gameplay often includes clinic management objectives, surgery interaction challenges, or role based care activities that shape progression. These experiences highlight medical simulation gameplay loops and treatment focused interaction systems suited for accessible browser sessions.\n\nKey Features\n\n• Patient diagnosis interaction systems\n• Treatment procedure gameplay mechanics\n• Medical tool usage challenges\n• Clinic management progression loops\n• Step based care simulation"
+            "description": "Doctor games focus on performing basic medical tasks, helping characters, and completing roleplay scenarios through guided interaction mechanics. Players diagnose simple conditions, use tools, and follow step based objectives while progressing through structured activities. Roleplay gameplay connects to broader <a href='/?c=kids'>kids games</a> systems, with care interactions also seen in <a href='/?c=baby'>baby games</a>. Creative activities appear across <a href='/?c=coloring'>coloring games</a> and <a href='/?c=drawing'>drawing games</a>. These browser doctor experiences emphasize task based progression loops, guided interaction systems, and educational roleplay pacing suited for casual online play.\n\nKey Features\n\n• Medical roleplay gameplay mechanics\n• Step based task interaction systems\n• Tool usage activity loops\n• Guided progression challenge formats\n• Educational gameplay scenarios"
         },
         {
             "id": "pixel",
@@ -493,11 +493,6 @@
             "id": "word",
             "name": "Word",
             "description": "Word games focus on building vocabulary, improving language comprehension, and solving linguistic challenges through pattern recognition and spelling based gameplay mechanics. Players form words, decode letter sequences, and progress through structured puzzles that reinforce reading and writing skills. Language development connects to broader <a href='/?c=educational'>educational games</a> systems, with numerical reasoning also seen in <a href='/?c=math'>math games</a> and knowledge testing reflected in <a href='/?c=quiz'>quiz games</a>. These browser word experiences emphasize vocabulary expansion loops, spelling interaction systems, and cognitive language progression suited for focused online learning.\n\nKey Features\n\n• Vocabulary building gameplay mechanics\n• Letter sequence recognition systems\n• Spelling challenge progression loops\n• Linguistic pattern solving formats\n• Reading comprehension training scenarios"
-        },
-        {
-            "id": "space",
-            "name": "Space",
-            "description": "Space Games focus on piloting spacecraft, navigating cosmic environments, and completing mission driven objectives through real time control mechanics. Players manage movement, engage targets, and explore orbital scenarios using physics influenced systems and spatial awareness skills. Gameplay often includes shooting encounters, exploration challenges, or survival missions that shape progression. These experiences highlight space themed gameplay loops and vehicle navigation interaction systems suited for immersive browser sessions.\n\nKey Features\n\n• Spacecraft control interaction mechanics\n• Orbital navigation gameplay systems\n• Mission driven progression loops\n• Combat and exploration modes\n• Physics influenced movement dynamics"
         },
         {
             "id": "block",

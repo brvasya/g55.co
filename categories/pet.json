@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "space-pet-link",
+            "title": "Space Pet Link",
+            "iframe": "https://html5.gamedistribution.com/4dd24ad30e1d432097984166dee29280/",
+            "description": "Space Pet Link is an engaging puzzle game that transports players into a whimsical world inhabited by adorable and comical alien pets. The game presents a captivating challenge where these endearing creatures have been playfully scattered across the screen. Your objective is to connect these mismatched pets by matching them together, creating a delightful chain reaction of colorful combinations.\r\n\r\nWith a ticking timer adding a sense of urgency, you must swiftly strategize and solve the puzzles before it runs out. Space Pet Link offers two distinct modes to cater to players of all skill levels. In the easy mode, you can enjoy a relaxed and stress-free gaming experience, perfect for casual players looking to unwind and have some no-pressure puzzling fun. On the other hand, if you're seeking a more exhilarating test of your skills, the hard mode beckons, daring you to push your limits and prove your mastery of the game.\r\n\r\nAs you immerse yourself in Space Pet Link, the charming characters and engaging gameplay will keep you entertained, making it a captivating choice for both casual gamers and those seeking a challenging puzzle adventure. So, embark on this interstellar journey and see if you have what it takes to clear the field and unite these quirky space pets in a race against time."
+        },
+        {
             "id": "pets-master-simulator",
             "title": "Pets Master Simulator",
             "iframe": "https://html5.gamemonetize.games/ggr668wn2myn95wfwysmb27f2fzlpo5z/",

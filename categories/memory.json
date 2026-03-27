@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "space-memory",
+            "title": "Space Memory",
+            "iframe": "https://html5.gamedistribution.com/0edf2b36d839482898b2c7687428ac60/",
+            "description": "Load Space Memory instantly and take on logic based memory challenges at your own pace. Work on spatial awareness as you complete sequence challenges. Explore Space Memory online on G55.CO. Designed for smooth performance and fast loading in your browser."
+        },
+        {
+            "id": "outer-space-memory",
+            "title": "Outer Space Memory",
+            "iframe": "https://html5.gamedistribution.com/b0b08d973c76410a8a6486ddf2dd0e5c/",
+            "description": "Take control in Outer Space Memory and dive into precision based puzzle gameplay without delays. Dive into daily challenges to build visual analysis. Launch Outer Space Memory instantly on G55.CO. Replay anytime for fresh runs and better results."
+        },
+        {
             "id": "valentine-monster-memory",
             "title": "Valentine Monster Memory",
             "iframe": "https://html5.gamedistribution.com/0236922eba8a4b75a943102f5ff89f88/",

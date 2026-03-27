@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "spaces-solitaire",
+            "title": "Spaces Solitaire",
+            "iframe": "https://html5.gamedistribution.com/17225960b791439b885effd91a6d62b4/",
+            "description": "Spaces Solitaire is a captivating card game that challenges players to arrange all cards in suits and sequences from 2 to King. The objective is to strategically utilize empty spaces to maneuver cards and achieve the desired order.\r\n\r\nIn this game, players can move cards to spaces or vacant spots, provided the card being moved matches the color and is one rank higher than the card to the left of the space. This requires careful planning and foresight to effectively organize the cards and create seamless sequences.\r\n\r\nWith its simple yet engaging mechanics, Spaces Solitaire offers a stimulating mental workout that keeps players hooked as they strive to conquer each level and master the art of arranging cards in perfect order."
+        },
+        {
             "id": "cards-klondike-solitaire",
             "title": "Cards: Klondike Solitaire",
             "iframe": "https://html5.gamedistribution.com/a9ddfe71a4624aaba548115221ff8856/",
