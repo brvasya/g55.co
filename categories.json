@@ -5,6 +5,11 @@
     },
     "categories": [
         {
+            "id": "adventure",
+            "name": "Adventure",
+            "description": "Adventure games focus on exploring environments, completing objectives, and progressing through scenario driven challenges using interaction based gameplay mechanics. Players navigate levels, uncover paths, and solve tasks while advancing through structured journeys and evolving situations. Exploration gameplay connects to escape based challenges found in <a href='/?c=escape'>escape games</a>, where players solve puzzles and navigate confined environments, while objective driven missions appear across <a href='/?c=rescue'>rescue games</a>. These browser adventure experiences emphasize progression loops, environment interaction systems, and goal oriented gameplay pacing suited for immersive online play.\n\nKey Features\n\n• Exploration based gameplay mechanics\n• Objective driven progression systems\n• Environment interaction challenge loops\n• Scenario based journey formats\n• Task completion gameplay structures"
+        },
+        {
             "id": "animal",
             "name": "Animal",
             "description": "Animal games focus on interacting with creatures, exploring nature themed environments, and completing activity driven challenges through character based gameplay mechanics. Players control animals, manage behaviors, and engage with different scenarios while progressing through structured tasks and open ended experiences. Theme based gameplay connects to focused interactions in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>, while care and simulation elements appear across <a href='/?c=pet'>pet games</a>. These browser animal experiences emphasize character interaction loops, environment exploration systems, and activity driven progression suited for engaging online play.\n\nKey Features\n\n• Animal interaction gameplay mechanics\n• Nature themed environment systems\n• Character behavior challenge loops\n• Activity based progression formats\n• Exploration driven gameplay scenarios"
@@ -152,7 +157,7 @@
         {
             "id": "rescue",
             "name": "Rescue",
-            "description": "Rescue Games focus on saving characters, navigating hazardous environments, and completing mission driven objectives through action or strategy based mechanics. Players guide heroes, overcome obstacles, and manage timing using real time control systems and situational awareness skills. Gameplay often includes emergency response scenarios, puzzle based rescue tasks, or level progression challenges that shape pacing. These experiences highlight rescue mission gameplay loops and hazard management interaction systems suited for engaging browser sessions.\n\nKey Features\n\n• Mission based rescue mechanics\n• Hazard navigation gameplay systems\n• Real time response challenge loops\n• Puzzle driven objective formats\n• Hero guidance progression modes"
+            "description": "Rescue games focus on completing missions, saving characters, and achieving objectives through task driven gameplay mechanics. Players navigate environments, respond to challenges, and perform actions while progressing through structured scenarios and mission based levels. Objective gameplay connects to broader <a href='/?c=adventure'>adventure games</a> systems, with puzzle exploration also seen in <a href='/?c=escape'>escape games</a>. These browser rescue experiences emphasize task completion loops, mission progression systems, and goal oriented gameplay pacing suited for engaging online play.\n\nKey Features\n\n• Mission based gameplay mechanics\n• Objective completion interaction systems\n• Task driven progression loops\n• Scenario based challenge formats\n• Goal oriented gameplay structures"
         },
         {
             "id": "sorting",
@@ -242,7 +247,7 @@
         {
             "id": "escape",
             "name": "Escape",
-            "description": "Escape Games focus on solving puzzles, finding clues, and unlocking paths to exit confined environments through logic driven exploration mechanics. Players examine objects, combine items, and interpret hidden patterns using investigation systems and structured progression loops. Gameplay often includes room based challenges, narrative discovery elements, or timed escape objectives that shape pacing. These experiences highlight puzzle solving gameplay structures and clue driven interaction systems suited for focused browser sessions.\n\nKey Features\n\n• Clue discovery interaction mechanics\n• Puzzle solving progression systems\n• Item combination gameplay loops\n• Room based challenge structures\n• Timed escape objective modes"
+            "description": "Escape games focus on solving puzzles, navigating confined spaces, and finding exit paths through logic driven interaction mechanics. Players explore rooms, identify clues, and complete tasks while progressing through structured challenges that require observation and problem solving. Puzzle exploration gameplay connects to broader <a href='/?c=adventure'>adventure games</a> systems, with mission based objectives also appearing across <a href='/?c=rescue'>rescue games</a>. These browser escape experiences emphasize clue discovery loops, environment analysis systems, and step by step progression suited for engaging online play.\n\nKey Features\n\n• Puzzle solving interaction mechanics\n• Clue discovery gameplay systems\n• Room navigation challenge loops\n• Logical progression formats\n• Observation driven gameplay scenarios"
         },
         {
             "id": "exclusive",
@@ -333,11 +338,6 @@
             "id": "tycoon",
             "name": "Tycoon",
             "description": "Tycoon games focus on managing businesses, expanding economic systems, and optimizing profits through strategic simulation mechanics. Players build operations, allocate resources, and scale production while progressing through structured management scenarios and growth driven challenges. Economic gameplay connects to broader <a href='/?c=simulator'>simulator games</a> systems, with resource cycle management also seen in <a href='/?c=farming'>farming games</a>. Automation progression mechanics align with <a href='/?c=idle'>idle games</a> and incremental optimization loops reflect <a href='/?c=clicker'>clicker games</a>, reinforcing long term economic planning and efficiency driven growth strategies. These browser tycoon experiences emphasize business expansion loops, profit optimization pacing, and sustained management progression suited for focused online play.\n\nKey Features\n\n• Economic management simulation mechanics\n• Business expansion gameplay systems\n• Resource allocation optimization loops\n• Profit driven progression structures\n• Long term strategic planning formats"
-        },
-        {
-            "id": "skibidi",
-            "name": "Skibidi",
-            "description": "Skibidi Games focus on navigating chaotic meme inspired scenarios, engaging quirky characters, and completing fast paced objectives through action driven mechanics. Players react to unpredictable events, avoid hazards, and perform simple tasks using reflex based control systems and humorous interaction loops. Gameplay often includes chase sequences, platform challenges, or survival formats shaped by viral internet themes. These experiences highlight meme themed gameplay loops and rapid reaction interaction systems suited for casual browser sessions.\n\nKey Features\n\n• Meme themed action mechanics\n• Reflex driven challenge systems\n• Character chase gameplay loops\n• Platform and survival modes\n• Viral scenario interaction formats"
         },
         {
             "id": "sniper",
