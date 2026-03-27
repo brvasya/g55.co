@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "candy-word",
+            "title": "Candy Word",
+            "iframe": "https://html5.gamedistribution.com/79af492dac3a4369b5085bf21e5a62a6/",
+            "description": "Start Candy Word online and enjoy calm paced puzzle gameplay built for steady momentum. Take on Candy Word right now on G55.CO. Simple to learn with challenges that reward improvement. Challenge yourself in timed rounds to refine problem solving."
+        },
+        {
             "id": "word-safari",
             "title": "Word Safari",
             "iframe": "https://html5.gamemonetize.games/0njrzkkitzt7u8o1i78yekyatxkgtmev/",

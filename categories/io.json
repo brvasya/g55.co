@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "candyio",
+            "title": "Candy IO",
+            "iframe": "https://html5.gamedistribution.com/eceebc4946414da1b9bcce76801edc42/",
+            "description": "Start playing CandyIO now and dive into simple casual challenges online. Well paced progression keeps every round engaging. Improve overall performance in light challenges by mastering timing discipline. Access CandyIO directly in your browser on G55.CO."
+        },
+        {
             "id": "colorwars-io",
             "title": "ColorWars.io",
             "iframe": "https://html5.gamedistribution.com/eabf2a389dea46ed9b36fcb03482d443/",

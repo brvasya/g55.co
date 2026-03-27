@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "eg-candy-farm",
+            "title": "EG Candy Farm",
+            "iframe": "https://html5.gamedistribution.com/c88dc3b3b7c04ac6bd56a5799cf047c1/",
+            "description": "Start EG Candy Farm online and enjoy pattern based arcade gameplay built for steady momentum. Test your timing accuracy in marathon sessions. Dive into EG Candy Farm without downloads on G55.CO. Easy to start and rewarding to master with responsive controls and clear visuals."
+        },
+        {
             "id": "farm-animal-sort-puzzle",
             "title": "Farm Animal Sort Puzzle",
             "iframe": "https://html5.gamemonetize.games/9g5bi3ihzosg9yrxty43f4qytv0qpucr/",
