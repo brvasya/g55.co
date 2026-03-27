@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "monster-mahjong",
+            "title": "Monster Mahjong",
+            "iframe": "https://html5.gamedistribution.com/a85a87d217204d08a704b1a22f70b9fb/",
+            "description": "Push your limits in Monster Mahjong and take on calm paced mahjong challenges instantly. Responsive design keeps gameplay fluid across devices. Sharpen concentration skills through endless rounds. Discover Monster Mahjong today on G55.CO."
+        },
+        {
             "id": "candy-mahjong-tiles",
             "title": "Candy Mahjong Tiles",
             "iframe": "https://html5.gamedistribution.com/ca61e9edc4ff47f389cb3dc6ed0b3f17/",

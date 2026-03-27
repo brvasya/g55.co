@@ -470,11 +470,6 @@
             "description": "Snake Games focus on guiding a growing character across confined spaces, collecting items, and avoiding collisions through continuous movement mechanics. Players control direction, manage length expansion, and plan routes using reflex based systems and spatial awareness skills. Gameplay often includes score driven survival modes, grid based challenges, or level progression formats that shape pacing. These experiences highlight classic snake gameplay loops and path planning interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Continuous movement control mechanics\n• Length growth gameplay systems\n• Collision avoidance challenge loops\n• Grid based navigation modes\n• Score driven survival objectives"
         },
         {
-            "id": "monster",
-            "name": "Monster",
-            "description": "Monster Games focus on battling creatures, navigating hostile environments, and completing combat driven objectives through action based mechanics. Players control characters, deploy attacks, and manage survival strategies using real time engagement systems and progression focused challenges. Gameplay often includes boss encounters, wave survival modes, or exploration based missions that shape pacing. These experiences highlight creature combat gameplay loops and encounter driven interaction systems suited for fast browser sessions.\n\nKey Features\n\n• Creature battle interaction mechanics\n• Real time combat gameplay systems\n• Boss encounter challenge loops\n• Wave survival progression modes\n• Exploration driven mission objectives"
-        },
-        {
             "id": "jumping",
             "name": "Jumping",
             "description": "Jumping games focus on controlling characters that leap across gaps, avoid hazards, and navigate obstacle layouts through timing based movement mechanics. Players execute precise jumps, adjust positioning, and react to changing patterns while progressing through survival challenges and structured stage sequences. Movement gameplay connects to broader <a href='/?c=runner'>runner games</a> systems, with level navigation also seen in <a href='/?c=platform'>platform games</a> and rhythm based precision reflected in <a href='/?c=dash'>dash games</a>. Traversal mechanics appear across <a href='/?c=parkour'>parkour games</a>, while speed reaction challenges connect to <a href='/?c=rush'>rush games</a>. These browser jumping experiences emphasize timing control loops, reflex navigation systems, and accessible progression suited for quick online play.\n\nKey Features\n\n• Precision jumping control mechanics\n• Platform navigation gameplay systems\n• Reflex based timing challenges\n• Obstacle avoidance progression loops\n• Endless or level based modes"
@@ -508,11 +503,6 @@
             "id": "block",
             "name": "Block",
             "description": "Block Games focus on arranging, breaking, or constructing block based structures through logic driven mechanics and spatial interaction systems. Players manipulate shapes, align patterns, or navigate environments built from modular elements using timing, planning, and precision based controls. Gameplay often includes puzzle solving loops, stacking challenges, or sandbox building mechanics that reward strategic thinking and structured progression. These experiences highlight block interaction gameplay systems and level driven objectives suited for accessible browser sessions.\n\nKey Features\n\n• Block arrangement puzzle mechanics\n• Spatial planning interaction systems\n• Stacking and alignment challenges\n• Sandbox building gameplay loops\n• Modular level progression structures"
-        },
-        {
-            "id": "robot",
-            "name": "Robot",
-            "description": "Robot Games focus on controlling mechanical characters, engaging in combat or exploration, and completing mission driven objectives through action based mechanics. Players operate robotic abilities, manage upgrades, and navigate structured environments using real time interaction systems and progression focused challenges. Gameplay often includes battle encounters, platform tasks, or customization modes that shape pacing. These experiences highlight robotic gameplay loops and technology themed interaction systems suited for engaging browser sessions.\n\nKey Features\n\n• Robotic character control mechanics\n• Ability upgrade gameplay systems\n• Combat encounter challenge loops\n• Platform navigation progression modes\n• Technology themed environment design"
         },
         {
             "id": "math",

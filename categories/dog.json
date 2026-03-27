@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "robot-dog-city-simulator",
+            "title": "Robot Dog City Simulator",
+            "iframe": "https://games.g55.co/robot-dog-city-simulator/",
+            "description": "In Robot Dog City Simulator, you will have the opportunity to take on the role of a robot dog and explore a futuristic city. You will be given a variety of missions to complete, ranging from simple tasks like collecting items to more complex ones like rescuing people from dangerous situations. With your advanced robotic abilities, you will be able to navigate the city with ease, jump over obstacles, and use your powerful sensors to detect and analyze the environment. You will also be able to interact with other robots and people, which will help you complete your missions and uncover secrets about the city. The city is full of danger and you will have to be careful not to damage your robot dog. You will also have to deal with various hazards such as traffic, falling objects, and other obstacles. You will need to use your agility and quick reflexes to dodge obstacles and overcome challenges. With an intuitive control system and beautiful 3D graphics, Robot Dog City Simulator is an exciting and immersive experience. Whether you are a fan of robots or just enjoy exploring new worlds, this game is sure to provide hours of entertainment. So get ready to take control of your robot dog and prepare to accomplish a variety of exciting missions in the city."
+        },
+        {
             "id": "dog-simulator-3d",
             "title": "Dog Simulator 3D",
             "iframe": "https://html5.gamedistribution.com/9a02484ffcf2459b86a995c16c32b179/",
