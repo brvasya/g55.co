@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "blockgunner",
+            "title": "Block Gunner",
+            "iframe": "https://html5.gamemonetize.games/wgtse875nbqayqloxffdxxamck2dom3k/",
+            "description": "BlockGunner is an action-packed HTML5 war game designed for two players, offering intense battles and strategic gameplay. In this game, you and a friend will face off in thrilling combat across three different maps, each offering unique challenges and obstacles. The objective is simple: defeat your opponent by using a variety of weapons and tactics to outsmart them. With smooth gameplay and responsive controls, BlockGunner delivers an engaging and fast-paced experience for players of all skill levels.\r\n\r\nAs you progress, you’ll have access to three different weapons, each with its own strengths and weaknesses. The game features nine different costumes for you to unlock, giving you the opportunity to personalize your character and stand out in the battlefield. The winner of each match earns the highest rank and continues their journey to victory. Whether you’re playing with a friend or competing for the top spot, BlockGunner offers hours of competitive fun, testing your reflexes, strategy, and teamwork to become the ultimate champion."
+        },
+        {
             "id": "squid-gun-fest",
             "title": "Squid Gun Fest",
             "iframe": "https://html5.gamedistribution.com/78c1d094c2ec4a349da95f55567aa714/",

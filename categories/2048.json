@@ -1,6 +1,30 @@
 {
     "pages": [
         {
+            "id": "paper-block-2048",
+            "title": "Paper Block 2048",
+            "iframe": "https://html5.gamedistribution.com/0f328be6975e41b192dc0196dfd30fe5/",
+            "description": "Try Paper Block 2048 in your browser and experience thoughtful puzzle sessions built for progress. Sharpen move evaluation through quick matches. Comfortable controls and clean visuals support focused play. Discover Paper Block 2048 today on G55.CO."
+        },
+        {
+            "id": "m2-blocks-2048",
+            "title": "M2 BLOCKS 2048",
+            "iframe": "https://html5.gamemonetize.games/kspqjp4u64fwgdnq0v025uri509teye1/",
+            "description": "Enter the action in M2 BLOCKS 2048 and explore calm paced puzzle sessions made for replay. Challenge yourself in tournament brackets to refine decision making. Revisit M2 BLOCKS 2048 and keep progressing on G55.CO. Optimized performance ensures stable browser sessions."
+        },
+        {
+            "id": "join-blocks-2048-number-puzzle",
+            "title": "Join Blocks 2048 Number Puzzle",
+            "iframe": "https://html5.gamedistribution.com/0d30fa00a66f48b29bb7f4b1f8329a38/",
+            "description": "Join Blocks 2048 Number Puzzle presents an engaging and immersive puzzle experience, inviting players to indulge in its captivating challenges. This game stands out as a classic and free 2048 number puzzle, beckoning players to immerse themselves in its addictive gameplay. \r\n\r\nEscape into a tranquil and relaxing ambiance, where the primary objective is to merge and combine numbered blocks by simply tapping and strategically maneuvering them. The core mechanic involves the fusion of x2 blocks, gradually escalating in value until reaching the coveted 2048 and beyond.\r\n\r\nWith its user-friendly interface and intuitive controls, players can effortlessly navigate through the game's intricacies. The gameplay is designed to stimulate critical thinking, requiring players to strategize and plan their moves meticulously to achieve the ultimate goal of reaching the prized 2048 block.\r\n\r\nJoin Blocks 2048 Number Puzzle offers an enjoyable blend of challenge and relaxation, allowing players to unwind while engaging in a mentally stimulating activity. Each merge and combination brings a sense of accomplishment, motivating players to persist and aim for higher-numbered blocks.\r\n\r\nEmbark on a journey of merging, shooting, and joining blocks, as you gradually ascend through the numerical ranks. Whether played casually or with a competitive spirit, this game promises endless entertainment, making it an ideal choice for puzzle enthusiasts seeking a rewarding and captivating gaming experience."
+        },
+        {
+            "id": "block-blast-2048",
+            "title": "Block Blast 2048",
+            "iframe": "https://html5.gamedistribution.com/c9b43199b34a4ab4841b8800f8ad76bf/",
+            "description": "Block Blast 2048 is a highly addictive puzzle game that combines the thrill of merging numbers with the challenge of strategic block placement. Your goal is simple — match blocks with the same number to merge them into higher values, steadily working your way up toward the ultimate 2048 block. Each successful merge boosts your score, but as the board fills up, smart planning and quick thinking become essential for survival.\r\n\r\nThe gameplay starts easy but quickly ramps up in difficulty, pushing you to think ahead with every move. Positioning blocks carefully allows for chain reactions and bigger combos, giving you the chance to clear space while racking up massive points. Every round feels different, offering endless replayability as you try new strategies to outlast the rising challenge.\r\n\r\nWith its clean visuals, smooth mechanics, and satisfying progression, Block Blast 2048 delivers a perfect balance of fun and brain-teasing challenge. Whether you’re a casual player looking for a relaxing puzzle or a dedicated fan chasing the highest possible score, this game keeps you hooked. How far can you go before the board is full? Dive in, merge smart, and see if you can reach the ultimate block."
+        },
+        {
             "id": "space-quoit-2048",
             "title": "Space Quoit 2048",
             "iframe": "https://html5.gamemonetize.games/3z3tne4pget0610nycrv3syol6kkvhds/",

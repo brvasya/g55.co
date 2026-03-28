@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "bloxy-block-parkour",
+            "title": "Bloxy Block Parkour",
+            "iframe": "https://html5.gamedistribution.com/2b9191d9eb9b49908c922138b18e84b3/",
+            "description": "Bloxy Block Parkour is an exhilarating agility game designed to test and enhance your reflexes and precision. Set in a vibrant, block-themed world, players navigate through a series of increasingly challenging obstacle courses. Each level presents a unique array of platforms, jumps, and hazards that require quick thinking and deft maneuvers. As you progress, the difficulty ramps up, introducing new mechanics and more complex layouts to keep you on your toes. The game's colorful and dynamic environment, paired with its fast-paced gameplay, makes for an engaging and addictive experience. Perfect for those who love a good challenge, Bloxy Block Parkour is all about mastering the art of movement and agility."
+        },
+        {
+            "id": "block-parkour-trials",
+            "title": "Block Parkour Trials",
+            "iframe": "https://html5.gamedistribution.com/6f38d609768747a692974c6ef97b2514/",
+            "description": "Block Parkour Trials is an exciting free-to-play parkour game that challenges your agility, timing, and precision. The objective is straightforward – reach the glowing portal at the finish line – but the path is filled with tricky jumps, moving blocks, and challenging obstacles that will push your parkour skills to the limit. Every level demands careful control and sharp reflexes as you leap across platforms and avoid falling into the void. The simple mechanics make it easy to start playing, but mastering the movement requires practice and determination.\r\n\r\nAs you progress, the game steadily increases in difficulty, introducing new types of obstacles and tighter jumps that test your focus and patience. Each stage feels rewarding, offering a mix of fast-paced action and puzzle-like problem solving, as you figure out the best way to overcome each challenge. The blocky, minimalistic design gives the game a clean and engaging look, allowing you to fully concentrate on perfecting your runs without distraction.\r\n\r\nPerfect for fans of parkour games, obstacle courses, and skill-based platformers, Block Parkour Trials delivers hours of fun and challenge. Whether you’re a casual player looking for quick, entertaining levels or a dedicated gamer chasing flawless runs, this game offers the perfect balance of accessibility and difficulty. Jump, run, and conquer every obstacle as you prove your parkour mastery and make your way to the portal in Block Parkour Trials."
+        },
+        {
             "id": "squid-game-parkour",
             "title": "Squid Game Parkour",
             "iframe": "https://html5.gamemonetize.games/dukktgcyfwnk10icnq81rusdn36gc99b/",
