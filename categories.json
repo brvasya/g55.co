@@ -42,7 +42,7 @@
         {
             "id": "coloring-book",
             "name": "Coloring Book",
-            "description": "Coloring book games focus on completing detailed illustrations, filling structured scenes, and exploring themed collections through guided coloring mechanics. Players work through multi image sets, apply color combinations, and progress across organized content while enhancing visual consistency and creativity. Structured coloring gameplay connects to broader <a href='/?c=coloring'>coloring games</a> systems and freeform artistic interaction appears across <a href='/?c=drawing'>drawing games</a>. These browser coloring book experiences emphasize collection progression loops, detailed scene completion, and creative consistency suited for engaging online play.\n\nKey Features\n\n• Multi image coloring progression systems\n• Detailed scene completion mechanics\n• Structured illustration interaction loops\n• Themed collection gameplay formats\n• Creative consistency challenge structures"
+            "description": "Coloring book games focus on completing structured pages in <a href='/?c=coloring'>coloring games</a> where players fill predefined outlines, follow themes, and progress through organized visual scenes. These experiences emphasize guided creativity and detailed page interaction similar to <a href='/?c=drawing'>drawing games</a>, allowing players to explore color combinations within fixed compositions. Gameplay centers on completing images step by step while maintaining visual consistency and creative flow.\n\nKey Features\n\n• Structured page coloring systems\n• Predefined outline interaction mechanics\n• Themed image progression formats\n• Guided creativity gameplay loops\n• Step by step completion flow"
         },
         {
             "id": "sports",
@@ -367,7 +367,7 @@
         {
             "id": "drawing",
             "name": "Drawing",
-            "description": "Drawing games focus on creating images, sketching shapes, and expressing ideas through freeform artistic interaction mechanics. Players draw lines, form characters, and experiment with visual composition while progressing through creative challenges and open ended design scenarios. Artistic gameplay connects to broader <a href='/?c=coloring'>coloring games</a> systems and structured illustration activities appear across <a href='/?c=coloring-book'>coloring book games</a>. These browser drawing experiences emphasize freeform creativity loops, sketch based interaction systems, and visual expression progression suited for imaginative online play.\n\nKey Features\n\n• Freeform drawing interaction mechanics\n• Sketch creation gameplay systems\n• Visual composition challenge loops\n• Creative expression progression formats\n• Open ended artistic activity scenarios"
+            "description": "Drawing games focus on freeform creative expression in <a href='/?c=coloring'>coloring games</a> where players sketch, trace, and design visuals using interactive tools and open ended mechanics. These experiences emphasize creative freedom and visual experimentation similar to <a href='/?c=coloring-book'>coloring book games</a>, combining artistic input with interactive systems. Gameplay centers on creating original visuals while exploring tools, shapes, and composition techniques.\n\nKey Features\n\n• Freeform drawing interaction systems\n• Sketching and tracing mechanics\n• Tool based creative gameplay loops\n• Open ended design progression\n• Visual experimentation features"
         },
         {
             "id": "tank",
