@@ -157,7 +157,7 @@
         {
             "id": "rescue",
             "name": "Rescue",
-            "description": "Rescue games focus on completing missions, saving characters, and achieving objectives through task driven gameplay mechanics. Players navigate environments, respond to challenges, and perform actions while progressing through structured scenarios and mission based levels. Objective gameplay connects to broader <a href='/?c=adventure'>adventure games</a> systems, with puzzle exploration also seen in <a href='/?c=escape'>escape games</a>. These browser rescue experiences emphasize task completion loops, mission progression systems, and goal oriented gameplay pacing suited for engaging online play.\n\nKey Features\n\n• Mission based gameplay mechanics\n• Objective completion interaction systems\n• Task driven progression loops\n• Scenario based challenge formats\n• Goal oriented gameplay structures"
+            "description": "Rescue games focus on completing mission based objectives in <a href='/?c=adventure'>adventure games</a> where players locate targets, overcome obstacles, and guide characters or items to safety through structured scenarios. These experiences involve navigation and problem solving elements similar to <a href='/?c=escape'>escape games</a>, combining environmental awareness with goal focused progression. Gameplay centers on reaching objectives efficiently while adapting to changing situations and level layouts.\n\nKey Features\n\n• Objective focused mission gameplay\n• Target location and recovery tasks\n• Navigation based challenge systems\n• Scenario driven progression loops\n• Adaptive goal completion mechanics"
         },
         {
             "id": "sorting",
@@ -247,7 +247,7 @@
         {
             "id": "escape",
             "name": "Escape",
-            "description": "Escape games focus on solving puzzles, navigating confined spaces, and finding exit paths through logic driven interaction mechanics. Players explore rooms, identify clues, and complete tasks while progressing through structured challenges that require observation and problem solving. Puzzle exploration gameplay connects to broader <a href='/?c=adventure'>adventure games</a> systems, with mission based objectives also appearing across <a href='/?c=rescue'>rescue games</a>. These browser escape experiences emphasize clue discovery loops, environment analysis systems, and step by step progression suited for engaging online play.\n\nKey Features\n\n• Puzzle solving interaction mechanics\n• Clue discovery gameplay systems\n• Room navigation challenge loops\n• Logical progression formats\n• Observation driven gameplay scenarios"
+            "description": "Escape games focus on solving confined environment challenges in <a href='/?c=adventure'>adventure games</a> where players search for clues, unlock paths, and complete tasks to break out of rooms or restricted areas. These experiences emphasize puzzle driven progression similar to <a href='/?c=rescue'>rescue games</a>, requiring careful observation, logic, and interaction with objects to advance. Gameplay centers on structured escape scenarios that reward problem solving and step by step discovery.\n\nKey Features\n\n• Confined space puzzle challenges\n• Object interaction gameplay systems\n• Clue based progression mechanics\n• Logic driven escape sequences\n• Step by step solution paths"
         },
         {
             "id": "exclusive",
