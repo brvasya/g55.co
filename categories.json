@@ -177,7 +177,7 @@
         {
             "id": "survival",
             "name": "Survival",
-            "description": "Survival games focus on enduring challenges, managing resources, and staying alive through action based gameplay mechanics. Players navigate environments, face threats, and maintain progress while dealing with limited resources and increasing difficulty. Endurance gameplay connects to broader <a href='/?c=shooter'>shooter games</a> systems, with similar combat elements also seen in <a href='/?c=zombie'>zombie games</a>. These browser survival experiences emphasize resource management loops, endurance based interaction systems, and progression driven gameplay suited for engaging online play.\n\nKey Features\n\n• Survival gameplay mechanics\n• Resource management interaction systems\n• Endurance challenge loops\n• Threat response progression formats\n• Action driven gameplay structures"
+            "description": "Survival games focus on staying alive under pressure in <a href='/?c=shooter'>shooter games</a> where players manage threats, conserve resources, and eliminate enemies through sustained combat mechanics. These experiences emphasize endurance and adaptation similar to <a href='/?c=zombie'>zombie games</a>, requiring awareness and continuous response. Gameplay centers on lasting through encounters, managing danger, and progressing through escalating challenges.\n\nKey Features\n\n• Survival based gameplay systems\n• Resource and threat management\n• Continuous combat challenge loops\n• Endurance driven progression formats\n• Adaptive interaction mechanics"
         },
         {
             "id": "among-us",
@@ -267,7 +267,7 @@
         {
             "id": "gun",
             "name": "Gun",
-            "description": "Gun games focus on using different weapons, engaging targets, and progressing through combat scenarios using shooting based gameplay mechanics. Players select weapons, control firing, and react to enemies while advancing through levels or missions. Weapon focused gameplay connects to broader <a href='/?c=shooter'>shooter games</a> systems, with perspective combat also seen in <a href='/?c=fps'>fps games</a>. These browser gun experiences emphasize weapon handling loops, firing control systems, and action based progression suited for engaging online play.\n\nKey Features\n\n• Weapon based gameplay mechanics\n• Firing control interaction systems\n• Target engagement challenge loops\n• Action progression formats\n• Combat driven gameplay structures"
+            "description": "Gun games focus on weapon based combat in <a href='/?c=shooter'>shooter games</a> where players use different firearms, manage firing mechanics, and engage targets through action driven systems. These experiences emphasize weapon interaction and variety similar to <a href='/?c=fps'>fps games</a>, combining shooting with responsive controls. Gameplay centers on firing control, weapon handling, and combat encounters.\n\nKey Features\n\n• Weapon handling gameplay systems\n• Shooting interaction mechanics\n• Fire control challenge loops\n• Combat engagement formats\n• Action driven progression"
         },
         {
             "id": "halloween",
@@ -337,7 +337,7 @@
         {
             "id": "sniper",
             "name": "Sniper",
-            "description": "Sniper games focus on precision aiming, long range targeting, and eliminating enemies through controlled shooting gameplay mechanics. Players line up shots, adjust timing, and engage targets while progressing through mission based scenarios that reward accuracy and patience. Precision gameplay connects to broader <a href='/?c=shooter'>shooter games</a> systems, with similar combat elements also seen in <a href='/?c=fps'>fps games</a>. These browser sniper experiences emphasize accuracy control loops, timing based interaction systems, and mission driven progression suited for engaging online play.\n\nKey Features\n\n• Precision aiming gameplay mechanics\n• Long range targeting interaction systems\n• Accuracy based challenge loops\n• Timing control progression formats\n• Mission driven gameplay structures"
+            "description": "Sniper games focus on precision targeting in <a href='/?c=shooter'>shooter games</a> where players aim carefully, control timing, and eliminate targets from distance through scoped mechanics. These experiences emphasize accuracy and patience similar to <a href='/?c=fps'>fps games</a>, requiring controlled input and focus. Gameplay centers on long range shots, timing, and mission based objectives.\n\nKey Features\n\n• Precision aiming gameplay systems\n• Long range targeting mechanics\n• Timing based interaction loops\n• Accuracy driven challenge formats\n• Mission focused progression"
         },
         {
             "id": "soccer",
@@ -357,7 +357,7 @@
         {
             "id": "fps",
             "name": "FPS",
-            "description": "FPS games focus on first person perspective combat, aiming weapons, and engaging targets through immersive gameplay mechanics. Players navigate environments, track enemies, and react quickly while progressing through action scenarios and combat challenges. Perspective based gameplay connects to broader <a href='/?c=shooter'>shooter games</a> systems, with weapon focused encounters also seen in <a href='/?c=gun'>gun games</a> and precision targeting reflected in <a href='/?c=sniper'>sniper games</a>. These browser fps experiences emphasize first person aiming loops, reaction based combat systems, and immersive gameplay progression suited for engaging online play.\n\nKey Features\n\n• First person shooting gameplay mechanics\n• Aiming and targeting interaction systems\n• Enemy tracking challenge loops\n• Reaction based combat formats\n• Immersive gameplay progression structures"
+            "description": "FPS games focus on first person combat in <a href='/?c=shooter'>shooter games</a> where players aim, move, and engage enemies through perspective driven gameplay mechanics. These experiences emphasize fast reaction and targeting similar to <a href='/?c=sniper'>sniper games</a>, combining movement with precision aiming. Gameplay centers on real time combat, positioning, and continuous action driven encounters.\n\nKey Features\n\n• First person aiming mechanics\n• Real time combat gameplay systems\n• Movement and positioning loops\n• Reaction based challenge formats\n• Continuous action progression"
         },
         {
             "id": "stickman",
@@ -392,7 +392,7 @@
         {
             "id": "zombie",
             "name": "Zombie",
-            "description": "Zombie games focus on surviving waves of enemies, engaging targets, and progressing through combat scenarios using action driven gameplay mechanics. Players defend positions, eliminate threats, and manage resources while advancing through increasingly challenging encounters. Survival based gameplay connects to broader <a href='/?c=shooter'>shooter games</a> systems, with endurance mechanics also seen in <a href='/?c=survival'>survival games</a>. These browser zombie experiences emphasize wave based combat loops, resource management systems, and survival progression suited for engaging online play.\n\nKey Features\n\n• Wave based combat gameplay mechanics\n• Enemy elimination interaction systems\n• Survival challenge loops\n• Resource management progression formats\n• Action driven gameplay structures"
+            "description": "Zombie games focus on themed combat encounters in <a href='/?c=shooter'>shooter games</a> where players face waves of enemies, react quickly, and survive through action driven mechanics. These experiences emphasize pressure and repetition similar to <a href='/?c=survival'>survival games</a>, combining combat with endurance. Gameplay centers on wave clearing, positioning, and progression through increasing difficulty.\n\nKey Features\n\n• Wave based combat gameplay systems\n• Enemy elimination interaction loops\n• Reaction driven challenge formats\n• Survival oriented progression mechanics\n• Increasing difficulty structures"
         },
         {
             "id": "truck",
