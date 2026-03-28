@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "ball-eating-simulator",
+            "title": "Ball Eating Simulator",
+            "iframe": "https://html5.gamedistribution.com/fe35e6c4bc224b70ab0040a80074dbe3/",
+            "description": "Challenge yourself in Ball Eating Simulator with reaction based 2players gameplay designed for progression. Enjoy challenge rounds and focus on aim precision. Play Ball Eating Simulator instantly for free on G55.CO. The game is quick to load with gameplay that stays engaging session after session."
+        },
+        {
             "id": "block-eating-simulator",
             "title": "Block Eating Simulator",
             "iframe": "https://html5.gamedistribution.com/5fc3261d72e6452f91c9fbd224991222/",

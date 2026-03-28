@@ -1,6 +1,42 @@
 {
     "pages": [
         {
+            "id": "rainbow-balls-2048",
+            "title": "Rainbow Balls 2048",
+            "iframe": "https://html5.gamedistribution.com/c3b352633edf420ab130b951ecc6bfac/",
+            "description": "Rainbow Balls 2048 is an engaging casual game that falls within the popular genre of 2048, offering players the opportunity to strategically leverage game physics to emerge victorious. The primary objective of the game is to connect colorful balls and ultimately reach the coveted number 2048. \r\n\r\nPlayers must employ skill and strategy as they manipulate the balls, merging them strategically to progress towards the target number. Each successful merger increases the value of the balls, bringing them closer to the ultimate goal. \r\n\r\nMoreover, Rainbow Balls 2048 introduces an exciting booster feature, enhancing the gameplay experience by adding an extra layer of enjoyment and making progression through the game more enjoyable and accessible. Whether utilizing boosters to overcome challenging levels or simply enhancing the overall gaming experience, players are empowered to navigate the game with greater ease and enjoyment."
+        },
+        {
+            "id": "physical-balls-2048",
+            "title": "Physical Balls 2048",
+            "iframe": "https://html5.gamemonetize.games/s7zpyhhgknkfxjlm1icpief9qt7u2waf/",
+            "description": "Physical Balls 2048 is a captivating puzzle game that challenges players to strategically merge balls to reach the coveted number 2048. In this tactile and visually engaging game, players are presented with a grid filled with colorful balls, each bearing a numerical value. The objective is to slide and combine identical balls to create a new ball with a doubled value, gradually working towards the ultimate goal of reaching 2048.\r\n\r\nAs players slide the balls across the grid, they must carefully plan their moves to avoid overcrowding the board and ultimately running out of space. With each merge, the grid evolves, presenting new opportunities and challenges for players to navigate. The game requires a blend of foresight, spatial reasoning, and strategic thinking to successfully merge balls and progress towards the highest possible score.\r\n\r\nFeaturing intuitive controls and minimalist design, Physical Balls 2048 offers a seamless and immersive gaming experience. The crisp graphics and smooth animations enhance gameplay, while the satisfying sound effects add to the overall enjoyment. Whether played casually to pass the time or approached with a competitive mindset to achieve the highest score, Physical Balls 2048 provides endless hours of addictive and rewarding puzzle-solving fun."
+        },
+        {
+            "id": "new-years-balls-2048-in-3d",
+            "title": "New Years Balls 2048 in 3D",
+            "iframe": "https://html5.gamemonetize.games/1ea9qy0eyb6qo8tt6v1aj5rub735vfbo/",
+            "description": "Experience strategic puzzle gameplay in New Years Balls 2048 in 3D online with immediate access. Compete in timed rounds while refining structure analysis. Open New Years Balls 2048 in 3D instantly on G55.CO. Reliable performance keeps action smooth and uninterrupted."
+        },
+        {
+            "id": "balls-drop-2048",
+            "title": "Balls Drop 2048",
+            "iframe": "https://html5.gamedistribution.com/4c21d3612d0449469b5a6dd9eec59501/",
+            "description": "Balls Drop 2048 is an engaging puzzle game designed to challenge your strategic thinking. Within the game, you'll encounter a captivating scene filled with various objects waiting to be destroyed. Each object is adorned with a distinctive number, signifying the number of times the balls must come into contact with it to eliminate it from the playing field.\r\n\r\nThis game is tailored to provide entertainment for individuals aged six and above, making it suitable for both kids and adults seeking an enjoyable gaming experience. It offers a single-player mode, allowing you to delve into its intricacies and hone your skills independently. In Balls Drop 2048, you'll be tasked with calculating your moves, strategically choosing which objects to target, and aiming to achieve the highest score possible. Prepare for a fun-filled and challenging adventure as you attempt to conquer the puzzles and clear the objects from the scene."
+        },
+        {
+            "id": "balls2048",
+            "title": "Balls 2048",
+            "iframe": "https://html5.gamedistribution.com/c643559d4fa74ae9b5b6040a1999c99d/",
+            "description": "Balls2048 presents an engaging puzzle experience where the objective revolves around combining balls to attain the coveted number 2048. Commencing with the humble digit 2, the aim is to strategically slide and merge these balls, progressively escalating through the numbers 32, 128, 512, 1024, culminating in the ultimate goal of 2048. \r\n\r\nFor enthusiasts of numerical challenges, Balls2048 emerges as a captivating option among puzzle games. The gameplay involves connecting spheres bearing identical numbers, amalgamating them to yield a larger numerical value. The more connections established, the higher the score, enabling players to strive for the pinnacle and seize the illustrious winner's cup.\r\n\r\nThe game boasts an addictive nature, drawing players deeper into its intricacies and strategies. Its allure is further enhanced by a visually appealing and vibrant design, employing a palette of captivating colors that adorn the playing field, elevating the overall gaming experience."
+        },
+        {
+            "id": "ball-2048",
+            "title": "Ball 2048!",
+            "iframe": "https://html5.gamedistribution.com/39b5aad36f514342966fbf3431e5ba6c/",
+            "description": "Ball 2048 is an engaging agility game that challenges players to merge identical numbered balls to create larger ones. The objective is to strategically combine balls of the same number, progressively increasing their value until reaching the ultimate synthesis of 2048. By merging balls, players aim to achieve the highest numerical value possible while navigating the limited space available on the game board.\r\n\r\nAs players merge identical numbered balls, they create larger ones with double the value. The game requires quick thinking and careful planning to strategically position the balls for optimal combinations. Each successful merger contributes to the accumulation of points, driving the player towards the highest achievable score.\r\n\r\nThe game intensifies as the board fills up, demanding sharper focus and tactical decisions to prevent gridlock and maximize merging opportunities. Players must anticipate moves, align balls efficiently, and consolidate matching numbers to achieve the coveted 2048 ball.\r\n\r\nWith its addictive gameplay and pursuit of larger numbered balls, Ball 2048 challenges players to test their agility, numerical strategy, and perseverance to reach the pinnacle of 2048 while aiming for the highest score possible."
+        },
+        {
             "id": "paper-block-2048",
             "title": "Paper Block 2048",
             "iframe": "https://html5.gamedistribution.com/0f328be6975e41b192dc0196dfd30fe5/",

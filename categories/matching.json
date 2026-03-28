@@ -1,6 +1,18 @@
 {
     "pages": [
         {
+            "id": "balls-numbers-match",
+            "title": "Balls Numbers Match",
+            "iframe": "https://html5.gamedistribution.com/df01f93c47664feda87dc48ebbe41666/",
+            "description": "In Balls Numbers Match, players engage in a captivating puzzle game merging balls to reach the coveted 2048 target. A fusion of arcade and puzzle elements, this game guarantees an addictive blend of simplicity and amusement.\r\n\r\nThe gameplay revolves around shooting balls onto the field. When two balls possessing identical numbers occupy adjacent positions, they seamlessly merge, combining their respective numerical values. The primary objective is to strategically shoot and merge these balls, aiming for the ultimate goal of creating a ball bearing the number 2048.\r\n\r\nWith its straightforward mechanics and the engaging challenge of merging balls, Balls Numbers Match offers an entertaining experience that appeals to players seeking both casual fun and strategic puzzle-solving."
+        },
+        {
+            "id": "ball-match",
+            "title": "Ball_Match",
+            "iframe": "https://html5.gamemonetize.games/kcx5m8cy841287us2zkinrfy1bx40rlk/",
+            "description": "Enter Ball_Match and enjoy engaging puzzle gameplay designed for fast action. Jump into Ball_Match today on G55.CO. Refine your performance consistency while navigating ranked competitions. Perfect for short sessions while still offering replayable depth."
+        },
+        {
             "id": "x2-block-match",
             "title": "X2 Block Match",
             "iframe": "https://html5.gamedistribution.com/1cc306c4295d43e68d738805707242c9/",

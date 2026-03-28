@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "ball-battle",
+            "title": "Ball Battle",
+            "iframe": "https://html5.gamemonetize.games/6c9b7i8ldvh96corj6w8wm2pxiwafuym/",
+            "description": "Challenge yourself in Ball Battle with arena focused shooting gameplay designed for progression. Consistent mechanics make it easy to return and improve. Take on expert levels while improving quick decision making. Begin your next session of Ball Battle on G55.CO."
+        },
+        {
             "id": "gummy-blocks-battle",
             "title": "Gummy Blocks Battle",
             "iframe": "https://html5.gamedistribution.com/0b49ff1616b24ec4a7683bcdade13b15/",
