@@ -61,7 +61,7 @@ Title must be exactly:
 Key Features
 
 • Include exactly 5 bullets  
-• Ideal bullet length: 3 to 6 words  
+• Ideal bullet length 3 to 6 words  
 • Bullets must be gameplay entity phrases  
 • No marketing language  
 • No filler adjectives  
@@ -250,7 +250,7 @@ Title must be exactly:
 Key Features
 
 • Include exactly 5 bullets  
-• Ideal bullet length: 3 to 6 words  
+• Ideal bullet length 3 to 6 words  
 • Bullets must describe real gameplay elements  
 • Focus on mechanics, systems, progression, controls  
 • Avoid repeating the game title  
