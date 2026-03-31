@@ -5,6 +5,16 @@
     },
     "categories": [
         {
+            "id": "puzzle",
+            "name": "Puzzle",
+            "description": "Puzzle games focus on solving challenges, recognizing patterns, and completing logic driven tasks through structured gameplay mechanics. Players analyze situations, apply strategies, and interact with different systems while progressing through levels designed to test thinking and problem solving skills. Logical gameplay connects to number based challenges in <a href='/?c=sudoku'>sudoku games</a> and merging mechanics in <a href='/?c=2048'>2048 games</a>, while pattern recognition appears across <a href='/?c=mahjong'>mahjong games</a> and assembly tasks in <a href='/?c=jigsaw'>jigsaw games</a>. Strategic thinking extends into <a href='/?c=chess'>chess games</a> and card based logic challenges are featured in <a href='/?c=solitaire'>solitaire games</a>. These browser puzzle experiences emphasize cognitive interaction loops, structured progression systems, and problem solving gameplay suited for focused online play."
+        },
+        {
+            "id": "connect",
+            "name": "Connect",
+            "description": "Connect games focus on linking matching elements in <a href='/?c=puzzle'>puzzle games</a> where players draw paths, connect tiles, and complete patterns through structured interaction mechanics. These experiences emphasize visual linking and spatial logic similar to <a href='/?c=mahjong'>mahjong games</a>, requiring attention and planning to complete boards efficiently. Gameplay centers on forming connections, clearing layouts, and progressing through increasingly complex puzzles."
+        },
+        {
             "id": "adventure",
             "name": "Adventure",
             "description": "Adventure games focus on exploring environments, completing objectives, and progressing through scenario driven challenges using interaction based gameplay mechanics. Players navigate levels, uncover paths, and solve tasks while advancing through structured journeys and evolving situations. Exploration gameplay connects to escape based challenges found in <a href='/?c=escape'>escape games</a>, where players solve puzzles and navigate confined environments, while objective driven missions appear across <a href='/?c=rescue'>rescue games</a>. These browser adventure experiences emphasize progression loops, environment interaction systems, and goal oriented gameplay pacing suited for immersive online play."
@@ -113,11 +123,6 @@
             "id": "shooter",
             "name": "Shooter",
             "description": "Shooter games focus on aiming, firing weapons, and eliminating targets through action driven gameplay mechanics. Players engage enemies, manage positioning, and react quickly while progressing through combat scenarios and mission based challenges. Combat gameplay connects to perspective based action in <a href='/?c=fps'>fps games</a> and precision targeting in <a href='/?c=sniper'>sniper games</a>, while weapon focused encounters appear across <a href='/?c=gun'>gun games</a>. Survival based combat is reflected in <a href='/?c=survival'>survival games</a> and themed encounters appear in <a href='/?c=zombie'>zombie games</a>. These browser shooter experiences emphasize aiming control loops, reaction based combat systems, and progression driven gameplay suited for engaging online play."
-        },
-        {
-            "id": "puzzle",
-            "name": "Puzzle",
-            "description": "Puzzle games focus on solving challenges, recognizing patterns, and completing logic driven tasks through structured gameplay mechanics. Players analyze situations, apply strategies, and interact with different systems while progressing through levels designed to test thinking and problem solving skills. Logical gameplay connects to number based challenges in <a href='/?c=sudoku'>sudoku games</a> and merging mechanics in <a href='/?c=2048'>2048 games</a>, while pattern recognition appears across <a href='/?c=mahjong'>mahjong games</a> and assembly tasks in <a href='/?c=jigsaw'>jigsaw games</a>. Strategic thinking extends into <a href='/?c=chess'>chess games</a> and card based logic challenges are featured in <a href='/?c=solitaire'>solitaire games</a>. These browser puzzle experiences emphasize cognitive interaction loops, structured progression systems, and problem solving gameplay suited for focused online play."
         },
         {
             "id": "racing",
