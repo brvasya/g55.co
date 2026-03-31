@@ -5,6 +5,36 @@
     },
     "categories": [
         {
+            "id": "flash",
+            "name": "Flash",
+            "description": "Flash Games focus on playing classic browser titles built with legacy web technologies that shaped early online gaming experiences. Players explore diverse genres, complete simple objectives, and interact with compact gameplay systems designed for quick sessions. Gameplay often includes arcade challenges, puzzle formats, or action based mechanics preserved from original releases. These experiences highlight retro browser gameplay loops and historically significant design structures suited for nostalgic desktop play."
+        },
+        {
+            "id": "exclusive",
+            "name": "Exclusive",
+            "description": "Exclusive Games focus on playing original titles created exclusively for G55.CO, offering unique gameplay experiences without advertising interruptions. Players explore custom mechanics, progress through platform specific challenges, and engage with curated content designed for uninterrupted sessions. Gameplay often includes experimental formats, exclusive level structures, or original progression systems that shape long term engagement. These experiences highlight ad free gameplay loops and platform exclusive interaction systems suited for dedicated browser play."
+        },
+        {
+            "id": "3d",
+            "name": "3D",
+            "description": "3D Games focus on navigating interactive environments rendered with depth, perspective, and spatial movement. Players explore virtual spaces, control characters or vehicles, and complete objectives using camera based orientation and real time physics interactions. Gameplay often involves platforming, combat, or driving systems supported by immersive world design and dynamic viewpoint control. These experiences leverage three dimensional rendering engines to create scalable level structures and responsive gameplay loops suitable for desktop browser play."
+        },
+        {
+            "id": "christmas",
+            "name": "Christmas",
+            "description": "Christmas Games focus on completing festive themed challenges, guiding characters through winter environments, and interacting with seasonal objectives using simple control systems. Players collect gifts, solve light puzzles, or navigate snow covered levels through structured progression loops and event driven gameplay mechanics. Gameplay often blends platform navigation, match based tasks, or score driven challenges tied to holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
+        },
+        {
+            "id": "halloween",
+            "name": "Halloween",
+            "description": "Halloween Games focus on navigating spooky themed challenges, guiding characters through dark environments, and completing seasonal objectives using simple interaction mechanics. Players collect themed items, solve light puzzles, or avoid hazards within structured progression loops and event driven gameplay systems. Gameplay often includes platform navigation tasks, match based activities, or score oriented challenges shaped by holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
+        },
+        {
+            "id": "easter",
+            "name": "Easter",
+            "description": "Easter Games focus on collecting themed items, completing seasonal challenges, and guiding characters through spring inspired environments using simple interaction mechanics. Players gather eggs, solve light puzzles, or navigate festive levels within structured progression systems and event driven objectives. Gameplay often includes platform navigation tasks, match based activities, or score oriented challenges shaped by holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
+        },
+        {
             "id": "puzzle",
             "name": "Puzzle",
             "description": "Puzzle games focus on solving challenges, recognizing patterns, and completing logic driven tasks through structured gameplay mechanics. Players analyze situations, apply strategies, and interact with different systems while progressing through levels designed to test thinking and problem solving skills. Logical gameplay connects to number based challenges in <a href='/?c=sudoku'>sudoku games</a> and merging mechanics in <a href='/?c=2048'>2048 games</a>, while pattern recognition appears across <a href='/?c=mahjong'>mahjong games</a> and assembly tasks in <a href='/?c=jigsaw'>jigsaw games</a>. Strategic thinking extends into <a href='/?c=chess'>chess games</a> and card based logic challenges are featured in <a href='/?c=solitaire'>solitaire games</a>. These browser puzzle experiences emphasize cognitive interaction loops, structured progression systems, and problem solving gameplay suited for focused online play."
@@ -157,7 +187,7 @@
         {
             "id": "stack",
             "name": "Stack",
-            "description": "Stack Games focus on placing objects, balancing structures, and building vertical formations through timing driven precision mechanics. Players drop elements, align layers, and maintain stability using physics based interaction systems and spatial awareness skills. Gameplay often includes score driven challenges, endless progression modes, or level based stacking tasks that shape pacing. These experiences highlight stacking gameplay loops and balance focused interaction systems suited for fast browser sessions."
+            "description": "Stack games focus on building vertical structures in <a href='/?c=puzzle'>puzzle games</a> where players place objects, balance blocks, and align elements through precision timing mechanics. These experiences emphasize spatial arrangement and structure building similar to <a href='/?c=sorting'>sorting games</a>, requiring careful positioning and stability control. Gameplay centers on stacking elements correctly and progressing through increasingly difficult balance challenges."
         },
         {
             "id": "rescue",
@@ -225,11 +255,6 @@
             "description": "Car games focus on driving vehicles in <a href='/?c=racing'>racing games</a> where players navigate tracks, manage speed, and compete through structured driving mechanics. These experiences emphasize vehicle handling and movement similar to <a href='/?c=driving'>driving games</a>, combining control with speed. Gameplay centers on track navigation, vehicle performance, and progression through racing challenges."
         },
         {
-            "id": "christmas",
-            "name": "Christmas",
-            "description": "Christmas Games focus on completing festive themed challenges, guiding characters through winter environments, and interacting with seasonal objectives using simple control systems. Players collect gifts, solve light puzzles, or navigate snow covered levels through structured progression loops and event driven gameplay mechanics. Gameplay often blends platform navigation, match based tasks, or score driven challenges tied to holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
-        },
-        {
             "id": "cooking",
             "name": "Cooking",
             "description": "Cooking games focus on preparing meals and completing food based tasks in <a href='/?c=girls'>girls games</a> where players follow steps, combine ingredients, and manage timing through structured gameplay systems. These experiences emphasize process driven interaction and routine based progression without relying on styling mechanics. Gameplay centers on sequencing actions, completing recipes, and achieving task based outcomes."
@@ -255,16 +280,6 @@
             "description": "Escape games focus on solving confined environment challenges in <a href='/?c=adventure'>adventure games</a> where players search for clues, unlock paths, and complete tasks to break out of rooms or restricted areas. These experiences emphasize puzzle driven progression similar to <a href='/?c=rescue'>rescue games</a>, requiring careful observation, logic, and interaction with objects to advance. Gameplay centers on structured escape scenarios that reward problem solving and step by step discovery."
         },
         {
-            "id": "exclusive",
-            "name": "Exclusive",
-            "description": "Exclusive Games focus on playing original titles created exclusively for G55.CO, offering unique gameplay experiences without advertising interruptions. Players explore custom mechanics, progress through platform specific challenges, and engage with curated content designed for uninterrupted sessions. Gameplay often includes experimental formats, exclusive level structures, or original progression systems that shape long term engagement. These experiences highlight ad free gameplay loops and platform exclusive interaction systems suited for dedicated browser play."
-        },
-        {
-            "id": "flash",
-            "name": "Flash",
-            "description": "Flash Games focus on playing classic browser titles built with legacy web technologies that shaped early online gaming experiences. Players explore diverse genres, complete simple objectives, and interact with compact gameplay systems designed for quick sessions. Gameplay often includes arcade challenges, puzzle formats, or action based mechanics preserved from original releases. These experiences highlight retro browser gameplay loops and historically significant design structures suited for nostalgic desktop play."
-        },
-        {
             "id": "football",
             "name": "Football",
             "description": "Football games focus on strategic team based play in <a href='/?c=sports'>sports games</a> where players execute planned moves, advance across the field, and score through structured phases of gameplay. These experiences emphasize tactical coordination and positioning similar to <a href='/?c=soccer'>soccer games</a>, requiring timing, control, and decision making. Gameplay centers on structured progression, play execution, and competitive outcomes."
@@ -273,11 +288,6 @@
             "id": "gun",
             "name": "Gun",
             "description": "Gun games focus on weapon based combat in <a href='/?c=shooter'>shooter games</a> where players use different firearms, manage firing mechanics, and engage targets through action driven systems. These experiences emphasize weapon interaction and variety similar to <a href='/?c=fps'>fps games</a>, combining shooting with responsive controls. Gameplay centers on firing control, weapon handling, and combat encounters."
-        },
-        {
-            "id": "halloween",
-            "name": "Halloween",
-            "description": "Halloween Games focus on navigating spooky themed challenges, guiding characters through dark environments, and completing seasonal objectives using simple interaction mechanics. Players collect themed items, solve light puzzles, or avoid hazards within structured progression loops and event driven gameplay systems. Gameplay often includes platform navigation tasks, match based activities, or score oriented challenges shaped by holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
         },
         {
             "id": "idle",
@@ -390,11 +400,6 @@
             "description": "Tower defense games focus on structured defensive planning in <a href='/?c=war'>war games</a> where players place units, control paths, and stop enemy waves through tactical setup mechanics. These experiences emphasize strategic positioning and upgrade systems similar to <a href='/?c=defense'>defense games</a>, combining planning with progression. Gameplay centers on optimizing layouts, upgrading units, and managing increasing difficulty."
         },
         {
-            "id": "3d",
-            "name": "3D",
-            "description": "3D Games focus on navigating interactive environments rendered with depth, perspective, and spatial movement. Players explore virtual spaces, control characters or vehicles, and complete objectives using camera based orientation and real time physics interactions. Gameplay often involves platforming, combat, or driving systems supported by immersive world design and dynamic viewpoint control. These experiences leverage three dimensional rendering engines to create scalable level structures and responsive gameplay loops suitable for desktop browser play."
-        },
-        {
             "id": "zombie",
             "name": "Zombie",
             "description": "Zombie games focus on themed combat encounters in <a href='/?c=shooter'>shooter games</a> where players face waves of enemies, react quickly, and survive through action driven mechanics. These experiences emphasize pressure and repetition similar to <a href='/?c=survival'>survival games</a>, combining combat with endurance. Gameplay centers on wave clearing, positioning, and progression through increasing difficulty."
@@ -423,11 +428,6 @@
             "id": "ninja",
             "name": "Ninja",
             "description": "Ninja games focus on agile melee combat in <a href='/?c=fighting'>fighting games</a> where players strike quickly, evade attacks, and execute precise actions through skill based mechanics. These experiences emphasize speed and control similar to <a href='/?c=stickman'>stickman games</a>, combining movement with timing driven combat interactions. Gameplay centers on precision, reaction speed, and fluid combat sequences."
-        },
-        {
-            "id": "easter",
-            "name": "Easter",
-            "description": "Easter Games focus on collecting themed items, completing seasonal challenges, and guiding characters through spring inspired environments using simple interaction mechanics. Players gather eggs, solve light puzzles, or navigate festive levels within structured progression systems and event driven objectives. Gameplay often includes platform navigation tasks, match based activities, or score oriented challenges shaped by holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
         },
         {
             "id": "baby",
