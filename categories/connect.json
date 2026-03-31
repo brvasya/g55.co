@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "connect4",
+            "title": "Connect 4",
+            "iframe": "https://html5.gamedistribution.com/f9f91f263026413d9da2d51ad7766cd3/",
+            "description": "Start playing Connect4 now and dive into rewarding mahjong challenges online. Balanced systems reward thoughtful decisions. Focus on time management while taking on ranked competitions. Play Connect4 instantly in your browser on G55.CO."
+        },
+        {
             "id": "cross-connect-word",
             "title": "Cross Connect Word",
             "iframe": "https://html5.gamedistribution.com/c1c06a567d3348129ee4be8bb4cf4beb/",
