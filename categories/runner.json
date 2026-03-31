@@ -1,6 +1,24 @@
 {
     "pages": [
         {
+            "id": "middle-east-runner",
+            "title": "Middle Eastern Runner",
+            "iframe": "https://html5.gamedistribution.com/6a10b445deb04838893badb06d586506/",
+            "description": "Sprint through desert roads and ancient city passages using endless runner mechanics while guiding a traveler across a Middle East themed environment. Jump over barriers, dodge street obstacles, and collect coins while maintaining speed through continuously extending paths. Stay alert as the pace increases and push farther distances to achieve higher survival scores.\n\nKey Features\n\n• Endless runner obstacle gameplay\n• Jump and dodge controls\n• Desert city themed stages\n• Distance based score system\n• Increasing speed progression"
+        },
+        {
+            "id": "east-running-surfer-2d",
+            "title": "Eastern Runner Surfer 2D",
+            "iframe": "https://html5.gamemonetize.games/xcxzi26urha3vhnxetummfqzfgdyu5wa/",
+            "description": "Dash along busy desert streets using side scrolling endless runner mechanics while guiding a fast surfer through an eastern themed city environment. Jump over carts, slide under barriers, and collect coins scattered across the route while keeping momentum through each stretch of the path. React quickly to obstacles and extend your run distance as speed steadily increases.\n\nKey Features\n\n• Side scrolling endless runner\n• Jump and slide controls\n• Desert city street obstacles\n• Coin collection scoring system\n• Increasing speed progression"
+        },
+        {
+            "id": "east-endless-runner-game-prince-rash-adventure",
+            "title": "Eastern Endless Runner Game: Prince Rash Adventure",
+            "iframe": "https://html5.gamedistribution.com/bcf095c51ab94c769f07f5fdd699cfe9/",
+            "description": "Run across desert pathways and palace rooftops using endless runner mechanics while guiding a brave prince through an eastern themed adventure. Jump over traps, slide under barriers, and collect coins while racing through continuously generated paths. Survive longer distances, avoid hazards, and keep momentum as speed increases through each stretch of the journey.\n\nKey Features\n\n• Endless runner obstacle gameplay\n• Jump and slide controls\n• Desert palace themed stages\n• Increasing speed progression\n• Coin collection scoring system"
+        },
+        {
             "id": "plane-runner-3d",
             "title": "Plane Runner 3D",
             "iframe": "https://html5.gamemonetize.games/0rzv5mtnnhcgr62ohdbuh35cdespqssv/",
