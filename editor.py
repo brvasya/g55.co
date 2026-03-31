@@ -273,6 +273,19 @@ def count_items_with_bullets(items) -> int:
     return count
 
 
+def category_description_has_link(description: str) -> bool:
+    description = str(description or "").lower()
+    return "<a href=" in description
+
+
+def count_categories_with_links(items) -> int:
+    count = 0
+    for it in items:
+        if category_description_has_link(it.get("description", "")):
+            count += 1
+    return count
+
+
 def normalize_title_for_duplicate_check(title: str) -> str:
     return " ".join(str(title or "").strip().lower().split())
 
@@ -516,13 +529,14 @@ class JsonGui(tk.Tk):
 
     def update_page_match_status(self, prefix: str = ""):
         total = len(self.items)
-        completed = count_items_with_bullets(self.items)
 
         if self.is_root_categories_mode():
+            completed = count_categories_with_links(self.items)
             text = f"Descriptions: {completed}/{total}"
             self.set_status(f"{prefix}  {text}" if prefix else text)
             return
 
+        completed = count_items_with_bullets(self.items)
         file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
         keyword = category_keyword_from_filename(file_name)
         matched = count_title_keyword_matches(self.items, keyword)
@@ -652,7 +666,7 @@ class JsonGui(tk.Tk):
                 label = it.get("name") or it.get("id") or "(empty)"
                 self.listbox.insert(tk.END, label)
 
-                if not description_has_bullet(it.get("description", "")):
+                if not category_description_has_link(it.get("description", "")):
                     self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
             return
 
