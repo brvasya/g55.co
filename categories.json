@@ -5,11 +5,6 @@
     },
     "categories": [
         {
-            "id": "flash",
-            "name": "Flash",
-            "description": "Flash Games focus on playing classic browser titles built with legacy web technologies that shaped early online gaming experiences. Players explore diverse genres, complete simple objectives, and interact with compact gameplay systems designed for quick sessions. Gameplay often includes arcade challenges, puzzle formats, or action based mechanics preserved from original releases. These experiences highlight retro browser gameplay loops and historically significant design structures suited for nostalgic desktop play."
-        },
-        {
             "id": "exclusive",
             "name": "Exclusive",
             "description": "Exclusive Games focus on playing original titles created exclusively for G55.CO, offering unique gameplay experiences without advertising interruptions. Players explore custom mechanics, progress through platform specific challenges, and engage with curated content designed for uninterrupted sessions. Gameplay often includes experimental formats, exclusive level structures, or original progression systems that shape long term engagement. These experiences highlight ad free gameplay loops and platform exclusive interaction systems suited for dedicated browser play."
