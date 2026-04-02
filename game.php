@@ -35,6 +35,16 @@
 <a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
 </aside>
 </section>
+<?php if ($seriesLinks): ?>
+<nav class="cluster">
+<h2>More <?php echo h($currentSeriesTitle) ?> Games</h2>
+<ul class="categories">
+<?php foreach (array_slice($seriesLinks, 0, 6) as $p): ?>
+<li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a></li>
+<?php endforeach; ?>
+</ul>
+</nav>
+<?php endif; ?>
 <?php if (!empty($currentCluster)): ?>
 <nav class="cluster">
 <h2>Explore <?php echo h($currentCluster[0]['name']) ?> Games</h2>

@@ -195,3 +195,76 @@ function find_cluster_for_category(array $clustered, string $categoryId): array 
     }
     return [];
 }
+
+function normalize_game_series_title(string $title): string {
+    $title = strtolower(trim($title));
+    $title = html_entity_decode($title, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+    $title = preg_replace('/[^\p{L}\p{N}\s]+/u', ' ', $title);
+    return preg_replace('/\s+/', ' ', $title);
+}
+
+function detect_game_series_key(string $title): string {
+    $words = array_values(array_filter(explode(' ', normalize_game_series_title($title))));
+    $series = [];
+
+    foreach ($words as $word) {
+        if (preg_match('/^\d+$/', $word)) {
+            break;
+        }
+
+        $series[] = $word;
+
+        if (count($series) === 3) {
+            break;
+        }
+    }
+
+    if (count($series) >= 2) {
+        return implode(' ', $series);
+    }
+
+    if (count($series) === 1 && count($words) >= 2 && preg_match('/^\d+$/', $words[1])) {
+        return $series[0];
+    }
+
+    return '';
+}
+
+function build_game_series_clusters(array $pages): array {
+    $clusters = [];
+
+    foreach ($pages as $page) {
+        $key = detect_game_series_key($page['title']);
+
+        if ($key === '') {
+            continue;
+        }
+
+        $page['_series_key'] = $key;
+        $clusters[$key][] = $page;
+    }
+
+    foreach ($clusters as $key => $group) {
+        if (count($group) < 3) {
+            unset($clusters[$key]);
+        }
+    }
+
+    return array_values($clusters);
+}
+
+function find_series_cluster_for_page(array $clusters, string $pageId): array {
+    foreach ($clusters as $cluster) {
+        foreach ($cluster as $page) {
+            if ($page['id'] === $pageId) {
+                return $cluster;
+            }
+        }
+    }
+
+    return [];
+}
+
+function series_cluster_title(array $cluster): string {
+    return ucwords($cluster[0]['_series_key']);
+}

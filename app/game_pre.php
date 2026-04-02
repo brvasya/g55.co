@@ -53,6 +53,20 @@ if ($page === null) {
   exit;
 }
 
+$seriesClusters = build_game_series_clusters($pages);
+$currentSeriesCluster = find_series_cluster_for_page($seriesClusters, $page['id']);
+$currentSeriesTitle = $currentSeriesCluster ? series_cluster_title($currentSeriesCluster) : '';
+
+$seriesLinks = [];
+
+if ($currentSeriesCluster) {
+  foreach ($currentSeriesCluster as $p) {
+    if ($p['id'] !== $page['id']) {
+      $seriesLinks[] = $p;
+    }
+  }
+}
+
 $pageTitle = $page['title'];
 $title = $pageTitle . ' ▶ Play Free ' . $cat['name'] . ' Game Online';
 
