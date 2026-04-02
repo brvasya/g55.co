@@ -236,7 +236,7 @@ function build_game_series_clusters(array $pages): array {
     }
 
     foreach ($clusters as $key => $group) {
-        if (count($group) < 3) {
+        if (count($group) < 2) {
             unset($clusters[$key]);
         }
     }
