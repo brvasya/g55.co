@@ -205,26 +205,17 @@ function normalize_game_series_title(string $title): string {
 
 function detect_game_series_key(string $title): string {
     $words = array_values(array_filter(explode(' ', normalize_game_series_title($title))));
-    $series = [];
 
-    foreach ($words as $word) {
-        if (preg_match('/^\d+$/', $word)) {
-            break;
-        }
-
-        $series[] = $word;
-
-        if (count($series) === 3) {
-            break;
-        }
+    if (!$words) {
+        return '';
     }
 
-    if (count($series) >= 2) {
-        return implode(' ', $series);
+    if (count($words) >= 2 && preg_match('/^\d+$/', $words[1])) {
+        return $words[0];
     }
 
-    if (count($series) === 1 && count($words) >= 2 && preg_match('/^\d+$/', $words[1])) {
-        return $series[0];
+    if (count($words) >= 2) {
+        return $words[0] . ' ' . $words[1];
     }
 
     return '';
