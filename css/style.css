@@ -80,7 +80,7 @@ p {
     overflow: hidden;
     border-radius: 5px;
 }
-.categories, .pagination {
+.categories, .pagination, .series {
     margin: 0 25px;
     padding: 0;
     display: flex;
