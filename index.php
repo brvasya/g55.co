@@ -17,22 +17,18 @@
 <section class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>">
 <h1><?php echo h($h1); ?></h1>
 <p><?php echo $desc; ?></p>
-</section>
 <?php if ($pageNum === 1 && $seriesBlocks): ?>
-<nav class="cluster c">
 <h2><?php echo h($cat['name']); ?> Game Series</h2>
 <?php foreach ($seriesBlocks as $cluster): ?>
-<section>
 <h3><?php echo h(series_cluster_title($cluster)); ?> Games</h3>
 <ul class="series">
 <?php foreach (array_slice($cluster, 0, 6) as $p): ?>
 <li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a></li>
 <?php endforeach; ?>
 </ul>
-</section>
 <?php endforeach; ?>
-</nav>
 <?php endif; ?>
+</section>
 <?php if (!empty($currentCluster)): ?>
 <nav class="cluster c">
 <h2>Related <?php echo h($currentCluster[0]['name']) ?> Game Categories</h2>
