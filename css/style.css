@@ -108,6 +108,13 @@ p {
     overflow: hidden;
     order: 2;
 }
+.description.c .series, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+.description.c .tag {
+    background-color: #333;
+}
 .description.c, .cluster.c {
     order: unset;
 }
@@ -229,7 +236,7 @@ p {
 }
 .tag:hover {
     transform: scale(1.02);
-    background-color: #bfae3a;
+    background-color: #bfae3a !important;
 }
 .categories > li > .tag {
     background-position: 10px;
