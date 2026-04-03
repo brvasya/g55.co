@@ -108,7 +108,7 @@ p {
     overflow: hidden;
     order: 2;
 }
-.description.c .series, h2, h3 {
+.description.c h2, h3, .series {
     margin: 0;
     padding: 0;
 }
