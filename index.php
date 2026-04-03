@@ -22,7 +22,7 @@
 <?php foreach ($seriesBlocks as $cluster): ?>
 <h3><?php echo h(series_cluster_title($cluster)); ?> Games</h3>
 <ul class="series">
-<?php foreach (array_slice($cluster, 0, 6) as $p): ?>
+<?php foreach (array_slice($cluster, 0, 3) as $p): ?>
 <li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a></li>
 <?php endforeach; ?>
 </ul>
