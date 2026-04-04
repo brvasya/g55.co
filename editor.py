@@ -426,10 +426,10 @@ class JsonGui(tk.Tk):
         ttk.Button(btn_row, text="Delete", command=self.delete_item).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Move to top", command=self.move_selected_to_top).pack(side="left", padx=6)
 
-        search = ttk.LabelFrame(right, text="Find by title or iframe", padding=10)
+        search = ttk.LabelFrame(right, text="Find by title", padding=10)
         search.pack(fill="x", pady=(10, 0))
 
-        ttk.Label(search, text="Title or iframe").grid(row=0, column=0, sticky="w")
+        ttk.Label(search, text="Title").grid(row=0, column=0, sticky="w")
         self.search_title_var = tk.StringVar()
         search_entry = ttk.Entry(search, textvariable=self.search_title_var, width=36)
         search_entry.grid(row=1, column=0, sticky="we", padx=(0, 6))
@@ -746,30 +746,27 @@ class JsonGui(tk.Tk):
         else:
             self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
 
-    def get_search_haystack(self, item):
+    def get_search_label(self, item):
         if self.is_root_categories_mode():
             return str(item.get("name", "")).strip().lower()
-
-        title = str(item.get("title", "")).strip().lower()
-        iframe = str(item.get("iframe", "")).strip().lower()
-        return f"{title}\n{iframe}"
+        return str(item.get("title", "")).strip().lower()
 
     def search_by_title(self):
-        search_query = self.search_title_var.get().strip().lower()
-        if not search_query:
-            messagebox.showwarning("Missing search", "Enter title or iframe text to search.")
+        title_query = self.search_title_var.get().strip().lower()
+        if not title_query:
+            messagebox.showwarning("Missing title", "Enter a title to search.")
             return
 
-        if search_query != self.last_search_query:
+        if title_query != self.last_search_query:
             self.search_matches = [
                 idx for idx, it in enumerate(self.items)
-                if search_query in self.get_search_haystack(it)
+                if title_query in self.get_search_label(it)
             ]
             self.search_pos = -1
-            self.last_search_query = search_query
+            self.last_search_query = title_query
 
         if not self.search_matches:
-            messagebox.showinfo("Not found", f"No item found containing:\n{search_query}")
+            messagebox.showinfo("Not found", f"No item found containing:\n{title_query}")
             self.set_status("No matches found")
             return
 
