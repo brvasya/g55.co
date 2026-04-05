@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "mineblock-zombie-survival",
+            "title": "Mineblock Zombie Survival",
+            "iframe": "https://html5.g55.co/mineblock-zombie-survival/",
+            "description": "Fight through block style environments and survive waves of attacking zombies using weapons and quick movement. The core combat mechanic focuses on shooting enemies, managing positioning, and reacting to undead attacks across pixel inspired arenas. Stay alive by eliminating zombies and holding your ground as each encounter becomes more intense.\n\nKey Features\n\n• Block style zombie combat\n• Wave based survival battles\n• Weapon shooting mechanics\n• Undead enemy attack patterns\n• Progressive survival encounters"
+        },
+        {
             "id": "minecraft-creeper-escape",
             "title": "Minecraft Creeper Escape",
             "iframe": "https://html5.g55.co/minecraft-creeper-escape/",
