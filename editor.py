@@ -427,6 +427,7 @@ class JsonGui(tk.Tk):
         ttk.Button(btn_row, text="Delete", command=self.delete_item).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Move to top", command=self.move_selected_to_top).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Generate Desc", command=self.generate_description_with_openai).pack(side="left", padx=6)
+        ttk.Button(btn_row, text="Batch Generate Missing", command=self.batch_generate_missing_descriptions).pack(side="left", padx=6)
 
         search = ttk.LabelFrame(right, text="Find by title", padding=10)
         search.pack(fill="x", pady=(10, 0))
@@ -957,25 +958,8 @@ class JsonGui(tk.Tk):
             messagebox.showerror("Move failed", f"Could not move unmatched pages:\n{e}")
             self.set_status("Move failed")
 
-    def generate_description_with_openai(self):
-        if self.is_root_categories_mode():
-            messagebox.showwarning("Wrong mode", "This function is only for individual game pages.")
-            return
-
-        item = self.read_form()
-        game_title = item.get("title", "").strip()
-        category = category_keyword_from_filename(os.path.basename(self.current_file or ""))
-
-        if not game_title:
-            messagebox.showwarning("Missing title", "Enter game title first.")
-            return
-
-        api_key = os.environ.get("OPENAI_API_KEY", "").strip()
-        if not api_key:
-            messagebox.showerror("Missing API key", "Set OPENAI_API_KEY first.")
-            return
-
-        rule = f"""
+    def build_game_description_rule(self, game_title: str, category: str) -> str:
+        return f"""
 MASTER INDIVIDUAL GAME DESCRIPTION GENERATOR RULE V2 (PRODUCTION)
 
 Goal
@@ -1129,13 +1113,104 @@ Before output ensure:
 END RULE
 """.strip()
 
+    def generate_description_text(self, client, game_title: str, category: str) -> str:
+        rule = self.build_game_description_rule(game_title, category)
+        response = client.responses.create(
+            model="gpt-4.1-mini",
+            input=rule,
+        )
+        return (response.output_text or "").strip()
+
+    def batch_generate_missing_descriptions(self):
+        if self.is_root_categories_mode():
+            messagebox.showwarning("Wrong mode", "This function is only for individual game pages.")
+            return
+
+        api_key = os.environ.get("OPENAI_API_KEY", "").strip()
+        if not api_key:
+            messagebox.showerror("Missing API key", "Set OPENAI_API_KEY first.")
+            return
+
+        targets = [
+            idx for idx, it in enumerate(self.items)
+            if str(it.get("title", "")).strip() and not description_has_bullet(it.get("description", ""))
+        ]
+
+        if not targets:
+            messagebox.showinfo("Nothing to generate", "No pages found where description does not contain •")
+            return
+
+        if not messagebox.askyesno(
+            "Batch generate",
+            f"Generate descriptions for {len(targets)} page(s) where description does not contain •?"
+        ):
+            return
+
+        category = category_keyword_from_filename(os.path.basename(self.current_file or ""))
+        client = OpenAI(api_key=api_key)
+        generated = 0
+
+        for pos, idx in enumerate(targets, start=1):
+            game_title = str(self.items[idx].get("title", "")).strip()
+            if not game_title:
+                continue
+
+            self.set_status(f"Generating {pos}/{len(targets)}: {game_title}")
+            self.update_idletasks()
+
+            try:
+                text = self.generate_description_text(client, game_title, category)
+            except Exception as e:
+                messagebox.showerror(
+                    "Batch generation stopped",
+                    f"Failed on:\n{game_title}\n\n{e}"
+                )
+                self.refresh_list()
+                self.update_page_match_status(f"Generated {generated}/{len(targets)} before stop")
+                return
+
+            if not text:
+                messagebox.showerror("Batch generation stopped", f"No text returned for:\n{game_title}")
+                self.refresh_list()
+                self.update_page_match_status(f"Generated {generated}/{len(targets)} before stop")
+                return
+
+            self.items[idx]["description"] = text
+            generated += 1
+
+            if not self.autosave():
+                messagebox.showerror("Auto save failed", f"Generated but could not auto save after:\n{game_title}")
+                self.refresh_list()
+                self.update_page_match_status(f"Generated {generated}/{len(targets)} before stop")
+                return
+
+        self.refresh_list()
+        if self.selected_index is not None and 0 <= self.selected_index < len(self.items):
+            self.goto_index(self.selected_index)
+        self.update_page_match_status(f"Batch generated {generated} page(s) and auto saved")
+        messagebox.showinfo("Done", f"Generated and auto saved {generated} page(s).")
+
+    def generate_description_with_openai(self):
+        if self.is_root_categories_mode():
+            messagebox.showwarning("Wrong mode", "This function is only for individual game pages.")
+            return
+
+        item = self.read_form()
+        game_title = item.get("title", "").strip()
+        category = category_keyword_from_filename(os.path.basename(self.current_file or ""))
+
+        if not game_title:
+            messagebox.showwarning("Missing title", "Enter game title first.")
+            return
+
+        api_key = os.environ.get("OPENAI_API_KEY", "").strip()
+        if not api_key:
+            messagebox.showerror("Missing API key", "Set OPENAI_API_KEY first.")
+            return
+
         try:
             client = OpenAI(api_key=api_key)
-            response = client.responses.create(
-                model="gpt-4.1-mini",
-                input=rule,
-            )
-            text = (response.output_text or "").strip()
+            text = self.generate_description_text(client, game_title, category)
         except Exception as e:
             messagebox.showerror("OpenAI error", str(e))
             return
