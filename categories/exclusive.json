@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "minecraft-creeper-escape",
+            "title": "Minecraft Creeper Escape",
+            "iframe": "https://html5.g55.co/minecraft-creeper-escape/",
+            "description": "Jump across dangerous platforms and guide a Minecraft creeper through blocky escape levels filled with traps and gaps. Players time precise jumps, avoid falling obstacles, and move through pixel styled environments while navigating narrow paths and rising platforms. The goal is to reach the exit portal at the end of each stage without falling or getting trapped.\n\nKey Features\n\n• Platform jumping escape gameplay\n• Creeper character movement control\n• Block style pixel environments\n• Trap filled level design\n• Exit portal progression system"
+        },
+        {
             "id": "minecraft-creeper-survival-runner",
             "title": "Minecraft Creeper Survival Runner",
             "iframe": "https://html5.g55.co/minecraft-creeper-survival-runner/",
