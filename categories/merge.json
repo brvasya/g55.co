@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "fruit-merge-arena",
+            "title": "Fruit Merge Arena",
+            "iframe": "https://html5.gamemonetize.games/cjw6u4lhi9z5u9cn5q7x14d9uwaz60kj/",
+            "description": "Merge matching fruits strategically to clear the board and unlock new combinations. The game revolves around combining identical fruit clusters to form larger, more valuable items, testing players' planning skills with limited moves. Players aim to create the biggest merges possible before running out of space, all within a vibrant fruit-themed arena.\n\nKey Features\n\n• Cluster-based merge mechanic  \n• Tap and drag fruit controls  \n• Progressive board expansion  \n• Score multiplier system  \n• Colorful fruit arena setting"
+        },
+        {
             "id": "emoji-merge-madness",
             "title": "EMOJI MERGE MADNESS",
             "iframe": "https://html5.gamemonetize.games/4zc91pp65rxew6a2s7b6ouor6w5ezhtc/",

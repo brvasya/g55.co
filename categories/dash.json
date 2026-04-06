@@ -1,6 +1,12 @@
 {
     "pages": [
         {
+            "id": "duck-dash-pro",
+            "title": "Duck Dash Pro",
+            "iframe": "https://html5.gamemonetize.games/5yxry7nao6ny4gqw2lt1uihblafhagnn/",
+            "description": "Dash through colorful obstacle courses controlling a speedy duck character, reacting quickly to changing platforms and timing jumps with precision. The core mechanic revolves around fast-paced side scrolling paired with evasive movement through dynamic environments. Your goal is to reach the finish line while avoiding traps and collecting points to improve progression.\n\nKey Features\n\n• Precision timing based movement  \n• Varied platform obstacle layouts  \n• Score driven level advancement  \n• Responsive tap and swipe controls  \n• Bright cartoon-style visuals"
+        },
+        {
             "id": "zigzag-ball-dash",
             "title": "ZigZag Ball Dash",
             "iframe": "https://html5.gamedistribution.com/37e47591327349da8edb9d7ffca1373f/",
