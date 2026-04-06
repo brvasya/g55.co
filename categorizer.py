@@ -39,7 +39,7 @@ def save_json_any(path: str, pages: list[dict], wrapper):
         wrapper["pages"] = pages
         payload = wrapper
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=4)
+        json.dump(payload, f, ensure_ascii=False, indent=0)
 
 
 def clean_page(it: dict) -> dict:

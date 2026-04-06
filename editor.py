@@ -105,7 +105,7 @@ def save_json_file(path: str, items: list, wrapper, mode: str):
         payload = wrapper
 
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=4)
+        json.dump(payload, f, ensure_ascii=False, indent=0)
 
 
 def category_keyword_from_filename(name: str) -> str:
