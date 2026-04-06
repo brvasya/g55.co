@@ -209,6 +209,8 @@ function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): arr
 
 function atomic_write_json(string $path, array $data): array {
     $json = json_encode($data, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    $json = str_replace("    ", "", $json);
+
     if (!is_string($json)) return [false, "json_encode_failed"];
 
     $dir = dirname($path);
