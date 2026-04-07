@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "gunbattle",
+"title": "GunBattle: Battle Royale",
+"iframe": "https://html5.gamedistribution.com/f592442912da48a884e502efcd03ba3e/",
+"description": "Engage in fast-paced gunfights where positioning is key as you navigate shrinking battle zones. Use strategic aiming and timing to outlast opponents in this intense multiplayer showdown. Survival depends on mastering diverse weapon pickups scattered across the dynamic arena, while adapting tactics to ever-changing terrain.\n\nKey Features\n\n• Real-time aiming and shooting  \n• Dynamic shrinking playfield  \n• Weapon pickup and upgrades  \n• Solo and team gameplay modes  \n• Vibrant battle arena environments"
+},
+{
 "id": "air-battles",
 "title": "Air Battles",
 "iframe": "https://html5.gamemonetize.games/68wt6pzen1qr1cxxcj0nmaooah3tkd97/",
