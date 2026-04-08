@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "stickyconnect",
+"title": "Sticky Connect",
+"iframe": "https://html5.gamemonetize.games/jdaz00ja43out2x87orb5870xh9zld8m/",
+"description": "Link colored nodes by dragging sticky connectors across the grid to clear clusters and advance through increasingly complex puzzles. Players engage with a tactile connection mechanic that requires strategic planning to join dots without overlaps, testing spatial reasoning and timing. Challenging levels gradually introduce tighter spaces and color-based matching that add depth to the gameplay.\n\nKey Features\n\n• Drag and link node mechanic  \n• Overlap-free connection control  \n• Progressive puzzle difficulty  \n• Color cluster clearing system  \n• Grid-based spatial challenge"
+},
+{
 "id": "all-dot-connect-puzzle-game",
 "title": "All Dot Connect Puzzle Game",
 "iframe": "https://html5.gamemonetize.games/hnq8casa5a4ymwc9vod8vwn4hhgvgazh/",
