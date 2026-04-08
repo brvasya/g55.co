@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "color-snake-run",
+"title": "Color Snake Run",
+"iframe": "https://html5.gamemonetize.games/1y99emuy48db6fj22jllf24fk7apcsta/",
+"description": "Trace vibrant trails to fill growing snake segments with color in this casual coloring game. Players navigate a continuously extending snake, applying hues by running over scattered paint spots while managing precision movement to avoid collision. Progress intensifies as the snake grows longer, requiring steady control and strategic pathing to achieve maximum color coverage.\n\nKey Features\n\n• continuous snake movement control  \n• color collection and application  \n• increasing length challenge  \n• obstacle avoidance mechanics  \n• dynamic palette variation"
+},
+{
+"id": "color-bridge-builder-puzzle",
+"title": "Color Bridge Builder Puzzle",
+"iframe": "https://html5.gamemonetize.games/elcxuvtqmjbug5x08k5k85zwpaepu0p7/",
+"description": "Arrange colored bridges across increasingly complex patterns to connect matching tiles and solve spatial puzzles. Players build paths by aligning colored segments while navigating shape constraints, aiming to complete stages with limited moves. The gameplay combines precise color matching with strategic bridge placement, challenging casual gamers and young players to think ahead and optimize connections.\n\nKey Features\n\n• color-coded bridge building  \n• tile matching progression system  \n• limited move puzzle challenge  \n• spatial reasoning level design  \n• vibrant color pattern matching"
+},
+{
 "id": "ball-color-smash",
 "title": "Ball Color Smash",
 "iframe": "https://html5.gamemonetize.games/i1era5wdmuf9i55l5t9wvqd8cpev2grl/",

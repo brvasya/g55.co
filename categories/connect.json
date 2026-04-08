@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "all-dot-connect-puzzle-game",
+"title": "All Dot Connect Puzzle Game",
+"iframe": "https://html5.gamemonetize.games/hnq8casa5a4ymwc9vod8vwn4hhgvgazh/",
+"description": "Draw lines between dots to form continuous patterns while avoiding line overlaps in this connect puzzle game. The gameplay relies on strategic dot-linking to solve spatial challenges across increasingly complex levels. Players must connect all points by carefully planning connections to progress through a series of grid-based puzzles. This approach demands thoughtful arrangement and spatial reasoning.\n\nKey Features\n\n• Pattern completion mechanics  \n• Drag-and-connect controls  \n• Increasing puzzle complexity  \n• Grid-based level progression  \n• Minimalist dot and line visuals"
+},
+{
 "id": "connect4",
 "title": "Connect 4",
 "iframe": "https://html5.gamedistribution.com/f9f91f263026413d9da2d51ad7766cd3/",
