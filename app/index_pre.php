@@ -82,9 +82,11 @@ if ($hasC) {
 
   $title = $h1 . ' ▶ Play Free Online';
   $metaDesc = strip_tags($desc);
+
 } else {
   $totalCount = 0;
   $gridItems = [];
+  $featuredItems = [];
 
   foreach ($categories as $c) {
     $catId = $c['id'];
@@ -99,6 +101,19 @@ if ($hasC) {
       'image' => 'https://cdn.g55.co/' . $newest['id'] . '.png',
       'category' => $catId
     ];
+
+    foreach ($pages as $p) {
+      if (count($featuredItems) >= 12) break;
+
+      if (strpos($p['iframe'], 'html5.g55.co') !== false) {
+        $featuredItems[] = [
+          'id' => $p['id'],
+          'title' => $p['title'],
+          'image' => 'https://cdn.g55.co/' . $p['id'] . '.png',
+          'category' => $catId
+        ];
+      }
+    }
   }
 
   $h1 = ($totalCount > 0 ? number_format($totalCount) . ' ' : '') . $site['title'];
