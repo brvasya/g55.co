@@ -1,6 +1,72 @@
 {
 "pages": [
 {
+"id": "chiellini-pool-soccer",
+"title": "Chiellini Pool Soccer",
+"iframe": "https://html5.gamemonetize.games/z10go075jag7cm1s06lh4tuczpbmufs0/",
+"description": "Control players in precision pool-style shooting to score goals on a mini soccer table. The game blends aiming and ball curving mechanics with physics-based puck movement across a compact soccer pitch. Players must outmaneuver opponents by calculating angles and shot power to advance through challenging levels designed for casual sports action.\n\nKey Features\n\n• Precision ball aiming system  \n• Physics-based shot curving  \n• Opponent AI blocking tactics  \n• Level progression with difficulty  \n• Mini soccer table setting"
+},
+{
+"id": "pool-shooter-billiard-ball",
+"title": "Pool Shooter Billiard Ball",
+"iframe": "https://html5.gamedistribution.com/aa794fb1b2414b89b028be6fe3deaa75/",
+"description": "Shoot precision cue balls to clear clustered billiard balls from the table, using cue stick angle adjustments and shot power control. The game challenges players to plan each shot carefully to sink balls with limited attempts while navigating physical ball collisions. Gradually increasing difficulty adds multiple ball arrangements and tighter pockets for added challenge.\n\nKey Features\n\n• Cue angle and power control  \n• Physics-based ball collision system  \n• Level-based ball arrangement puzzles  \n• Limited shot attempts per round  \n• Classic billiard table setting"
+},
+{
+"id": "pool-shooter",
+"title": "Pool Shooter",
+"iframe": "https://html5.gamemonetize.games/6wuegi7z7tr73msj6vmwz6y43vm7cefj/",
+"description": "Shoot colored balls to clear the pool table by matching groups of three or more in this precision aiming game. Players must carefully control the cue ball’s trajectory, using limited shots to eliminate all target clusters and advance through challenging layouts. Timing and angle adjustment are crucial for conquering each level’s unique ball arrangement.\n\nKey Features\n\n• Precision aiming and shooting mechanic  \n• Cue ball trajectory control system  \n• Level-based ball clearing challenges  \n• Limited shot count progression  \n• Color matching puzzle elements"
+},
+{
+"id": "8-pool-shooter",
+"title": "8 Pool Shooter",
+"iframe": "https://html5.gamemonetize.games/zrcigvuyl0agb17kbv5lsk10iecuysxy/",
+"description": "Shoot moving targets using precise cue ball aiming in this skill-based pool shooter game. Players control shot angles and power to hit numbered balls and clear each level’s layout. The mix of accurate physics and strategic ball positioning challenges reflexes and planning with escalating difficulty across stages.\n\nKey Features\n\n• Precision cue ball aiming  \n• Adjustable shot power control  \n• Level-based target layouts  \n• Progressive difficulty scaling  \n• Realistic ball collision physics"
+},
+{
+"id": "pool-8-puzzle",
+"title": "Pool 8 Puzzle",
+"iframe": "https://html5.gamemonetize.games/yi7flpp6dahqaqw8cvgd37ezfvukvrku/",
+"description": "Arrange numbered balls in sequence by strategic cue ball positioning to clear the table efficiently. This puzzle challenges players to apply logic to pocket balls using spatial reasoning under limited moves. Progress through levels featuring varied ball layouts that demand precise planning and foresight for successful completion.\n\nKey Features\n\n• Sequential ball pocketing mechanic  \n• Precise cue ball aiming control  \n• Increasing puzzle difficulty tiers  \n• Limited shot count challenge  \n• Classic billiards-themed layout"
+},
+{
+"id": "8-ball-pool-multiplayer",
+"title": "8 Ball Pool Multiplayer",
+"iframe": "https://html5.gamemonetize.games/458lt7ogtg7d3yoscko40xjq0cykodr6/",
+"description": "Compete in fast-paced cue sports battles where precision aiming and shot power control define play. The game uses realistic physics to simulate ball movement on a classic pool table, challenging players to pocket all eight balls before their opponent does. Matches occur in multiplayer arenas where turn-based strategy and timing influence victory in casual settings.\n\nKey Features\n\n• Online multiplayer turn system  \n• Precision cue aiming mechanics  \n• Physics-based ball collision control  \n• Matchmaking with ranked progression  \n• Traditional pool table environment"
+},
+{
+"id": "real-pool-3d",
+"title": "Real Pool 3D",
+"iframe": "https://html5.gamemonetize.games/fvhev9nwtkye754njdlud8dut40swpng/",
+"description": "Strike precise shots on a virtual pool table using realistic ball physics to sink balls into pockets before your opponent. Players engage in turn-based cue control where spin and angle adjustments affect ball trajectories, challenging skill and strategy across varied table layouts. The game’s 3D visuals deliver an immersive billiards environment suited to casual players aiming to master each round.\n\nKey Features\n\n• Realistic cue ball spin control  \n• Adjustable shot power and angle  \n• Progressive match difficulty levels  \n• Turn-based multiplayer mode  \n• 3D billiards table environment"
+},
+{
+"id": "pool-master-3d",
+"title": "Pool Master 3D",
+"iframe": "https://html5.gamedistribution.com/b351d87a29bb42ae98df734cb70ee6d4/",
+"description": "Sink precision shots using realistic 3D cue stick controls in this immersive digital pool game. Players line up each shot carefully on various table layouts, aiming to pocket balls with subtle spins and power adjustments. The challenge is to master angle calculation and cue ball positioning across multiple round progressions.\n\nKey Features\n\n• Physics based cue control  \n• Shot power and spin adjustments  \n• Progressive match unlocking system  \n• Local multiplayer mode  \n• Classic pool table environments"
+},
+{
+"id": "pool-billiards-3d",
+"title": "Pool Billiards 3D",
+"iframe": "https://html5.gamemonetize.games/7d1bfp4wvmrum7vi4hdmniv056pbxyi4/",
+"description": "Strike precise shots to pocket balls using accurate cue ball control in a realistic 3D pool environment. The game features detailed physics for spin and shot angle adjustments, challenging players to plan and execute shots on various table layouts. Players can practice solo or compete in progressive matchups to improve precision and strategy.\n\nKey Features\n\n• Physics-based cue ball spin control  \n• Intuitive mouse aiming system  \n• Progressive opponent difficulty levels  \n• Solo practice and multiplayer modes  \n• Realistic 3D pool table environments"
+},
+{
+"id": "pool-3d",
+"title": "Pool 3D",
+"iframe": "https://html5.gamemonetize.games/qce8yaq1o5eq0m80r5q2xlaask5bsht8/",
+"description": "Line up precise shots to sink balls across three-dimensional pool tables, utilizing realistic cue control and ball physics. Players aim to sequence pockets strategically to clear each layout while managing angles and shot power. Various table designs and difficulty levels offer escalating challenges for casual players looking to sharpen aiming and planning skills.\n\nKey Features\n\n• Realistic cue stick aiming system  \n• Physics-based ball movement  \n• Progressive difficulty stages  \n• Single-player challenge mode  \n• Detailed 3D table environments"
+},
+{
+"id": "mini-pool-3d",
+"title": "Mini Pool 3D",
+"iframe": "https://html5.gamemonetize.games/ehi2vjrem0ya35imcjiofupvjerb5mhr/",
+"description": "Position and strike balls with precision cue control in a compact 3D pool environment designed for quick matches and casual play. Players use realistic aiming and force mechanics to pocket balls while strategizing shot sequences to clear the table efficiently. The game’s physics-based ball trajectories and varied cue angles challenge players to master timing and accuracy.\n\nKey Features\n\n• Precision cue aiming system  \n• Force based shot control  \n• Progressive table difficulty  \n• Solo and multiplayer modes  \n• Compact 3D pool room design"
+},
+{
 "id": "prime-snooker-showdown",
 "title": "Prime Snooker Showdown Pool",
 "iframe": "https://html5.gamemonetize.games/j1n9404d3c53xvf6a2xhfdmlh3eal3xu/",
