@@ -40,6 +40,11 @@
 </nav>
 <?php endif; ?>
 <section class="grid">
+<?php foreach ($featuredItems as $g): ?>
+<a class="thumbnail" style="background-image: url(<?php echo h($g['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($g['id']); ?>&c=<?php echo rawurlencode($g['category']); ?>"><span class="<?php echo rawurlencode($g['category']); ?>"><?php echo h($g['title']); ?></span></a>
+<?php endforeach; ?>
+</section>
+<section class="grid">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
