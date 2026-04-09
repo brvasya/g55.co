@@ -25,6 +25,11 @@
 "description": "Easter Games focus on collecting themed items, completing seasonal challenges, and guiding characters through spring inspired environments using simple interaction mechanics. Players gather eggs, solve light puzzles, or navigate festive levels within structured progression systems and event driven objectives. Gameplay often includes platform navigation tasks, match based activities, or score oriented challenges shaped by holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
 },
 {
+"id": "sports",
+"name": "Sports",
+"description": "Sports games focus on competing in structured athletic activities, controlling player actions, and achieving victory through skill based performance mechanics. Players pass, shoot, aim, and coordinate movements while progressing through match scenarios and score driven challenges across different sports environments. Competitive gameplay connects to team based action in <a href='/?c=soccer'>soccer games</a>, court based encounters in <a href='/?c=basketball'>basketball games</a>, and field strategy challenges across <a href='/?c=football'>football games</a>. Cue based precision challenges appear in <a href='/?c=pool'>pool games</a> where players line up shots and control angles to sink balls into pockets across classic billiards tables. Precision focused mechanics also appear in <a href='/?c=golf'>golf games</a> while timing driven rallies define <a href='/?c=tennis'>tennis games</a>. These browser sports experiences emphasize competitive progression loops, skill execution systems, and match based gameplay pacing suited for engaging online play."
+},
+{
 "id": "pool",
 "name": "Pool",
 "description": "Pool Games focus on cue based precision challenges where players aim shots, control ball angles, and plan sequences to clear the table across classic billiards style gameplay. Players line up the cue ball, calculate rebounds, and sink object balls into pockets while progressing through score based rounds and skill driven match scenarios. Strategic shot planning connects this category back to competitive experiences found in <a href='/?c=sports'>sports games</a>, while accurate aim and timing mechanics share similarities with target focused challenges in <a href='/?c=golf'>golf games</a>. These browser pool experiences emphasize controlled shot execution, table positioning strategies, and steady progression through increasingly difficult billiards style gameplay."
@@ -78,11 +83,6 @@
 "id": "coloring-book",
 "name": "Coloring Book",
 "description": "Coloring book games focus on completing structured pages in <a href='/?c=coloring'>coloring games</a> where players fill predefined outlines, follow themes, and progress through organized visual scenes. These experiences emphasize guided creativity and detailed page interaction similar to <a href='/?c=drawing'>drawing games</a>, allowing players to explore color combinations within fixed compositions. Gameplay centers on completing images step by step while maintaining visual consistency and creative flow."
-},
-{
-"id": "sports",
-"name": "Sports",
-"description": "Sports games focus on competing in structured athletic activities, controlling player actions, and achieving victory through skill based performance mechanics. Players pass, shoot, aim, and coordinate movements while progressing through match scenarios and score driven challenges across different sports environments. Competitive gameplay connects to team based action in <a href='/?c=soccer'>soccer games</a>, court based encounters in <a href='/?c=basketball'>basketball games</a>, and field strategy challenges across <a href='/?c=football'>football games</a>. Cue based precision challenges appear in <a href='/?c=pool'>pool games</a> where players line up shots and control angles to sink balls into pockets across classic billiards tables. Precision focused mechanics also appear in <a href='/?c=golf'>golf games</a> while timing driven rallies define <a href='/?c=tennis'>tennis games</a>. These browser sports experiences emphasize competitive progression loops, skill execution systems, and match based gameplay pacing suited for engaging online play."
 },
 {
 "id": "tennis",
