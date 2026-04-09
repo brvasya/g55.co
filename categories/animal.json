@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "animal-swipe",
+"title": "Animal Swipe",
+"iframe": "https://html5.gamedistribution.com/96936ee47199450096ce978ca8d287e3/",
+"description": "Swipe and match colorful animals across shifting tile grids to clear levels in this casual puzzle experience. Players manipulate groups of animal icons using strategic swiping to align combos and progress through increasingly complex boards. Each stage presents fresh layout challenges that require quick pattern recognition and thoughtful movement to achieve high scores and complete objectives.\n\nKey Features\n\n• Swipe-based matching mechanic  \n• Pattern alignment controls  \n• Progressive tile grid difficulty  \n• Combo multiplier system  \n• Vibrant animal iconography"
+},
+{
 "id": "dotanimals",
 "title": "Dot Animals",
 "iframe": "https://html5.gamemonetize.games/n47m2bqxmxub4hdktu6yyydfof15fhhe/",

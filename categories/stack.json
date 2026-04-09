@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "money-stack-runner-game",
+"title": "Money Stack Runner Game",
+"iframe": "https://html5.gamemonetize.games/17v2va5v1p9g7o464cgm5vo544hbnuba/",
+"description": "Stack bills precisely to build the highest tower possible while navigating a dynamic falling pattern. Players drop money layers with timing-based accuracy, testing spatial awareness and reaction speed to avoid collapse. The challenge increases with the pace, demanding tighter stacks to reach new heights and score multipliers that track progression through increasingly difficult stages.\n\nKey Features\n\n• Timing-based stacking mechanic  \n• Direct click or tap controls  \n• Increasing tower stability challenge  \n• Score multiplier progression system  \n• Urban money-themed visuals"
+},
+{
 "id": "ball-stack-3d",
 "title": "Ball Stack 3D",
 "iframe": "https://html5.gamedistribution.com/ecb0585a3da3414582c635309255c679/",
