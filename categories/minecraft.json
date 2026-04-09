@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "minecraft-flappy-creeper",
+"title": "Minecraft Flappy Creeper",
+"iframe": "https://html5.g55.co/minecraft-flappy-creeper/",
+"description": "Guide a bouncing creeper through narrow block gaps and survive endless side scrolling obstacle runs using tap based flight control. Use timing driven movement mechanics to avoid collisions, maintain altitude rhythm, and achieve high score objectives across pixelated cave environments. Later sections increase speed and obstacle density.\n\nKey Features\n\n• Tap controlled flight mechanics\n• Endless obstacle survival mode\n• High score progression system\n• Pixel cave environment setting\n• Increasing speed challenge scaling"
+},
+{
+"id": "minecraft-creeper-survival-runner",
+"title": "Minecraft Creeper Survival Runner",
+"iframe": "https://html5.g55.co/minecraft-creeper-survival-runner/",
+"description": "Sprint through blocky terrain as a fleeing creeper and survive endless obstacle runs using timing based runner mechanics. Use jump and dodge controls to avoid traps, outrun dangers, and maintain momentum while chasing high score objectives across pixelated landscapes. Later segments introduce tighter gaps and faster hazard patterns.\n\nKey Features\n\n• Endless runner survival gameplay\n• Timing based jump controls\n• Trap and hazard avoidance\n• High score progression system\n• Blocky terrain environment"
+},
+{
+"id": "minecraft-creeper-escape",
+"title": "Minecraft Creeper Escape",
+"iframe": "https://html5.g55.co/minecraft-creeper-escape/",
+"description": "Jump across dangerous platforms and guide a Minecraft creeper through blocky escape levels filled with traps and gaps. Players time precise jumps, avoid falling obstacles, and move through pixel styled environments while navigating narrow paths and rising platforms. The goal is to reach the exit portal at the end of each stage without falling or getting trapped.\n\nKey Features\n\n• Platform jumping escape gameplay\n• Creeper character movement control\n• Block style pixel environments\n• Trap filled level design\n• Exit portal progression system"
+},
+{
 "id": "one-block-for-minecraft",
 "title": "ONE BLOCK for Minecraft",
 "iframe": "https://html5.gamemonetize.games/xyrvoosjl9ff70zwdrysjvlc2gmp4n21/",
