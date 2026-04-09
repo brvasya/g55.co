@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "stickjump",
+"title": "Stick Jump",
+"iframe": "https://html5.gamemonetize.games/y495cxabjpk43d833bsm8acoay0l4n5a/",
+"description": "Leap across precarious platforms using precise timing in this stickman action game where the core mechanic centers on controlling jump momentum. Players aim to avoid falling as platform layouts shift unpredictably, testing reflex adaptation. Speed and accuracy are key to progressing through increasingly challenging stages filled with minimalist obstacles and vertical climbs.\n\nKey Features\n\n• Momentum-based jumping control  \n• Responsive tap and hold input  \n• Procedural platform arrangement  \n• Incremental difficulty scaling  \n• Minimalist stickman silhouette design"
+},
+{
 "id": "jumper-s-quest",
 "title": "Jumper's Quest",
 "iframe": "https://html5.gamedistribution.com/f0f4d71949e347249950f163cfb40d4b/",
