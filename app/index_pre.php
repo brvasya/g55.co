@@ -103,7 +103,7 @@ if ($hasC) {
     ];
 
     foreach ($pages as $p) {
-      if (count($featuredItems) >= 8) break;
+      if (count($featuredItems) >= 6) break;
 
       if (strpos($p['iframe'], 'html5.g55.co') !== false) {
         $featuredItems[] = [

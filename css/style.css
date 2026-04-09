@@ -112,9 +112,16 @@ p {
     margin: 0;
     padding: 0;
 }
-.description.c .series, .description.c .grid {
-    margin: 0;
+.description.c .grid {
     padding: 0;
+    flex-wrap: unset;
+}
+.description.c .thumbnail {
+    width: 170px;
+    flex: auto;
+}
+.description.c .series {
+    margin: 0;
 }
 .description.c .tag {
     background-color: #333;
