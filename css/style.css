@@ -105,7 +105,6 @@ p {
     background-color: #222;
     background-repeat: no-repeat;
     white-space: pre-line;
-    overflow: hidden;
     order: 2;
 }
 .description.c h2, h3 {
