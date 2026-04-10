@@ -180,7 +180,7 @@ p {
  --cols: 2;
 }
 .thumbnail:hover {
-    border: 3px solid #fff;
+    border: 3px solid #fff !important;
     transform: scale(1.02);
 }
 .thumbnail span {
