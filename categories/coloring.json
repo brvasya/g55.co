@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "meow-block-color-collect",
+"title": "Meow Block: Color Collect!",
+"iframe": "https://html5.gamedistribution.com/655318552fce44219adae25faa4c6629/",
+"description": "Tap and match colorful blocks to reveal vibrant patterns in this casual coloring puzzle. Players manipulate clusters by swapping adjacent tiles, aiming to complete palettes while navigating increasing grid complexity. Bonus challenges test speed and precision as the game gradually intensifies, blending block-matching action with creative color collection.\n\nKey Features\n\n• Tile swapping color mechanic  \n• Pattern completion objectives  \n• Progressive grid difficulty  \n• Timed challenge modes  \n• Bright color palette system"
+},
+{
+"id": "color-connect-3d",
+"title": "Color Connect 3D",
+"iframe": "https://html5.gamemonetize.games/gtjnliz2alf66y0ys8inzovvf4dvoxty/",
+"description": "Connect groups of matching colors on a three-dimensional puzzle grid using strategic line placement. Players rotate and link colored nodes to complete continuous pathways and fill the entire cube, testing spatial awareness and pattern recognition. Increasingly complex color arrangements provide escalating challenges that demand careful planning and efficient connection tactics.\n\nKey Features\n\n• 3D color node linking  \n• Rotational puzzle navigation  \n• Progressive connection complexity  \n• Path completion scoring system  \n• Minimalist geometric visual style"
+},
+{
 "id": "color-snake-run",
 "title": "Color Snake Run",
 "iframe": "https://html5.gamemonetize.games/1y99emuy48db6fj22jllf24fk7apcsta/",

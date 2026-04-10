@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "eq-test-puzzle",
+"title": "EQ Test Puzzle",
+"iframe": "https://html5.gamedistribution.com/6ff512507f1244b5812b84926aea6c40/",
+"description": "Match shapes and colors to solve increasing puzzle stages in this brain-teasing game. Players interact with a variety of pattern combinations that test logic and recognition skills. The challenge lies in completing each arrangement within limited moves, advancing through progressively harder levels designed to sharpen mental agility.\n\nKey Features\n\n• Pattern matching core mechanic  \n• Drag and drop tile controls  \n• Limited move challenge system  \n• Level-based puzzle progression  \n• Color and shape recognition tasks"
+},
+{
 "id": "toon-blast-puzzle",
 "title": "Toon Blast Puzzle",
 "iframe": "https://html5.gamemonetize.games/4slhd9gdl27v5h3stlcjqvdp96iyovfp/",
