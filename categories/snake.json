@@ -20,7 +20,7 @@
 },
 {
 "id": "3d-snake",
-"title": "3D SNAKE",
+"title": "SNAKE 3D",
 "iframe": "https://html5.gamedistribution.com/40caa9898a864a95a5bbbf4b7d0a8484/",
 "description": "Navigate a three-dimensional grid to control a growing snake that twists and turns across layers. Players must carefully maneuver the snake’s head using smooth directional inputs to collect items while avoiding collisions with itself and walls. Each level introduces tighter spaces that require precise timing and spatial awareness to keep the snake alive and reach high scores.\n\nKey Features\n\n• 3D grid movement mechanics  \n• Smooth multi-axis snake control  \n• Increasing spatial puzzle challenges  \n• Progressive snake growth system  \n• Layered environment navigation"
 },
