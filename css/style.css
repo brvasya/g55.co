@@ -293,7 +293,7 @@ p {
 }
 
 @media (max-width: 768px) {
-header {
+header, li {
     width: 100%;
 }
 header:after, .tower_l, .ads, #___gcse_0 {
