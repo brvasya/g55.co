@@ -1,6 +1,120 @@
 {
 "pages": [
 {
+"id": "fill-the-water",
+"title": "Fill Water Puzzle",
+"iframe": "https://html5.gamemonetize.games/b5utcmt95x17yyia8qh295aoxuoo6oki/",
+"description": "Manipulate water flow by rotating pipes to fill containers and complete puzzles in this tile-based challenge. The core mechanic revolves around strategic pipe alignment, requiring players to think ahead as water progressively fills the grid. Time-sensitive levels introduce increasing complexity, testing planning skills and spatial reasoning for casual players and younger audiences.\n\nKey Features\n\n• Rotational pipe placement mechanic  \n• Strategic flow path planning  \n• Progressive puzzle difficulty  \n• Time-based challenge mode  \n• Color-coded fluid containers"
+},
+{
+"id": "fill-the-glass-with-juice",
+"title": "Fill Glass With Juice Puzzle",
+"iframe": "https://html5.gamemonetize.games/2tuolwa5q08wcdroe0ugdv5tdn6e81sr/",
+"description": "Arrange and pour juice carefully to fill the glass perfectly in this physics-based puzzle challenge. Players manipulate fluid dynamics and container shapes to ensure precise filling without spilling. Each level increases difficulty with varied glass sizes and unconventional pouring mechanisms, requiring strategic timing and spatial reasoning for success.\n\nKey Features\n\n• Fluid dynamics pouring mechanic  \n• Tap and drag control system  \n• Progressive container complexity  \n• Time trial challenge mode  \n• Colorful kitchen-themed visuals"
+},
+{
+"id": "fill-the-glass",
+"title": "Fill Glass Puzzle",
+"iframe": "https://html5.gamedistribution.com/898c7698b9684a15a3dfefe1c8e90683/",
+"description": "Arrange colored liquids to fill glasses precisely by pouring between vessels. Players use a color sorting mechanic that tests logical planning and spatial awareness through progressive levels of increasing difficulty. The challenge lies in managing limited moves and glass capacity to achieve perfect separation for all colors in a minimal number of steps.\n\nKey Features\n\n• Color pouring and sorting mechanic  \n• Tap and drag liquid transfer controls  \n• Increasingly complex puzzle layouts  \n• Move limit and step tracking system  \n• Glass container visual theme"
+},
+{
+"id": "fill-the-gap",
+"title": "Fill Gap Puzzle",
+"iframe": "https://html5.gamemonetize.games/dx866yphumm5nb32dkmwltxd2invsyv1/",
+"description": "Arrange puzzle pieces to fill missing gaps on the board, testing spatial reasoning and pattern recognition. Players work through increasingly complex levels by fitting uniquely shaped fragments into targeted slots. The challenge lies in identifying correct placements under a time constraint, making each stage a practical exercise in logical deduction and shape manipulation.\n\nKey Features\n\n• Spatial gap filling mechanic  \n• Drag and drop control scheme  \n• Timed level progression  \n• Increasing shape complexity  \n• Minimalist abstract puzzle design"
+},
+{
+"id": "fill-the-fridge-game",
+"title": "Fill Fridge Puzzle 3D",
+"iframe": "https://html5.gamemonetize.games/ukn629709jmciggccw1cqecu0jrbr73i/",
+"description": "Arrange 3D food items strategically inside a refrigerator to maximize storage space and complete each level’s puzzle challenge. Players rotate and fit various shaped groceries into a confined fridge interior, testing spatial reasoning and planning under increasing complexity. The core mechanic revolves around precise object placement within a limited 3D environment to fill the fridge efficiently.\n\nKey Features\n\n• 3D spatial packing puzzles  \n• Drag and rotate item controls  \n• Progressive level difficulty  \n• Time-limited challenge mode  \n• Realistic kitchen fridge setting"
+},
+{
+"id": "fill-the-fridge",
+"title": "Fill Fridge Puzzle",
+"iframe": "https://html5.gamemonetize.games/98n0mk73z3de5o1pv5oxo2vq4e26qzf8/",
+"description": "Arrange colorful food items strategically to fit perfectly inside fridge compartments in this spatial logic puzzle. Players manipulate various shaped blocks to fill all available spaces without overlaps, testing spatial reasoning through increasingly complex fridge layouts. Completing each level unlocks new fridge designs, blending casual puzzle solving with pattern recognition challenges.\n\nKey Features\n\n• Block fitting spatial puzzles  \n• Drag and drop placement controls  \n• Progressive fridge layout complexity  \n• Unlockable compartment styles  \n• Color-coded food piece sets"
+},
+{
+"id": "fill-the-fridge-cool",
+"title": "Fill Fridge Cool Puzzle",
+"iframe": "https://html5.gamemonetize.games/2xdw9sd673pjbk5ko4gekv1akl7kowga/",
+"description": "Arrange colorful blocks strategically to fill the fridge compartments and complete each level’s puzzle challenge. Manipulate pieces with precise placement to maximize space usage and unlock new refrigerated layouts as difficulty rises. Timed stages test players’ spatial reasoning while casual modes offer relaxed puzzle solving for all skill levels.\n\nKey Features\n\n• Block fitting spatial puzzles  \n• Click and drag piece control  \n• Increasing compartment complexity  \n• Relaxed and timed modes  \n• Refrigerator interior design"
+},
+{
+"id": "fill-the-cups",
+"title": "Fill Cups Puzzle",
+"iframe": "https://html5.gamemonetize.games/f9duiayxq729rasw9ku9u4or1yj31qcc/",
+"description": "Arrange liquid streams to fill multiple cups precisely by controlling flow paths and timing. The game challenges players to balance the amount of liquid distributed among various containers to complete each level. Progression introduces increasingly complex cup arrangements demanding sharper coordination and planning.\n\nKey Features\n\n• liquid flow routing mechanic  \n• player-controlled stream direction  \n• incremental level complexity  \n• time-based score challenge  \n• casual puzzle cup setting"
+},
+{
+"id": "fill-the-cup",
+"title": "Fill Cup Puzzle",
+"iframe": "https://html5.gamemonetize.games/v1sk2rst2jjpcf6z0ztyn4pigj72onwn/",
+"description": "Fill cups with precise liquid flows to complete each level’s puzzle challenge. Players manage the flow dynamics to guide fluids into containers without spillage, testing timing and spatial reasoning. The game’s progression introduces new container shapes and flow controls, increasing difficulty through varied puzzle layouts suited for casual puzzle lovers.\n\nKey Features\n\n• Liquid flow control mechanics  \n• Precision timing and aiming  \n• Increasing puzzle complexity  \n• Multiple container shapes  \n• Casual puzzle challenge format"
+},
+{
+"id": "fill-the-coffee-cup",
+"title": "Fill Coffee Cup Puzzle",
+"iframe": "https://html5.gamemonetize.games/6uhr0yc5qht4vuiqrpf9b57kgfs5ljlt/",
+"description": "Match patterns to fill a coffee cup by sliding pieces across the grid in a spatial logic puzzle. Players maneuver shapes carefully to fit perfectly and avoid overflows, with each level increasing complexity and spatial constraints. The challenge evolves as new cup designs and puzzle shapes unlock, testing planning and problem-solving skills.\n\nKey Features\n\n• Sliding block puzzle mechanic  \n• Shape fitting and positioning control  \n• Progressive level difficulty scaling  \n• Unlockable cup designs and puzzles  \n• Minimalist coffee-themed visuals"
+},
+{
+"id": "fill-the-bottle",
+"title": "Fill Bottle Puzzle",
+"iframe": "https://html5.gamedistribution.com/779aee8b06b4435e9aabb3f124cbb1ae/",
+"description": "Arrange liquids in matching bottles by swapping and pouring to fill containers precisely in this puzzle challenge. Players manipulate differently sized bottles and juggle volumes to complete each level’s filling objectives. The gameplay advances through progressively complex bottle arrangements, testing spatial reasoning and strategic planning with limited moves. The minimalist design keeps focus on the careful liquid transfer and matching mechanic.\n\nKey Features\n\n• Bottle pouring and swapping  \n• Volume measurement puzzles  \n• Progressive level complexity  \n• Move-limited challenge system  \n• Minimalist visual presentation"
+},
+{
+"id": "fill-the-blocks",
+"title": "Fill Blocks Puzzle",
+"iframe": "https://html5.gamemonetize.games/v0w693ywfn71d1540lrnj355iu2t9f15/",
+"description": "Arrange colored blocks into complete rows to clear the board in this puzzle challenge. Players manipulate and fit various block shapes precisely to avoid stacking too high and ending the game. Strategic placement and quick decision-making drive success, while increasing difficulty introduces faster block drops, testing spatial awareness.\n\nKey Features\n\n• Shape fitting core mechanic  \n• Drag and rotate block controls  \n• Progressive speed increase  \n• Endless mode availability  \n• Minimalist block grid setting"
+},
+{
+"id": "fill-the-battery",
+"title": "Fill Battery Puzzle",
+"iframe": "https://html5.gamedistribution.com/cd66494ac9014c3691b711b63a340638/",
+"description": "Navigate a grid of batteries by swapping adjacent cells to connect power sources and fill circuits. Players rely on pattern matching to recharge all battery units and clear levels, gradually unlocking more complex puzzles that require strategic toggling of energy flows.\n\nKey Features\n\n• Grid swapping puzzle mechanic  \n• Circuit completion objectives  \n• Increasing puzzle difficulty tiers  \n• Time-limited challenge mode  \n• Battery-themed electrical visuals"
+},
+{
+"id": "fill-the-balls",
+"title": "Fill Balls Puzzle",
+"iframe": "https://html5.gamemonetize.games/8gwlnzm31der0exrl738csz2gos8sm90/",
+"description": "Match colored balls to clear the board in Fill Balls Puzzle, where strategic aiming and grouping mechanics challenge pattern recognition skills. Players carefully connect clusters of balls to trigger chain reactions and progress through increasingly complex levels. This casual puzzle experience focuses on spatial reasoning and tactical ball alignment for high scores.\n\nKey Features\n\n• Strategic ball grouping mechanic  \n• Precision aiming controls  \n• Progressive difficulty levels  \n• Chain reaction scoring system  \n• Casual puzzle setting"
+},
+{
+"id": "fill-ball",
+"title": "Fill Ball Puzzle",
+"iframe": "https://html5.gamemonetize.games/sw80tzcmn772xr84fdq1soke8rg3nfkf/",
+"description": "Align matching colored balls strategically to trigger cascading reactions and clear the board, testing color recognition and spatial planning skills. Players must carefully position balls in tight spaces to solve increasingly complex puzzles, relying on intuitive drag-and-drop controls. Progress through levels with varying grid shapes that challenge your pattern recognition and puzzle-solving speed.\n\nKey Features\n\n• Color matching core mechanic  \n• Drag-and-drop ball placement  \n• Increasing puzzle grid complexity  \n• Cascading reaction chain system  \n• Casual visual style for all ages"
+},
+{
+"id": "10x10-fill-the-grid",
+"title": "10x10 Fill Grid Puzzle",
+"iframe": "https://html5.gamedistribution.com/3bc5461b7a124c8ea7b15a1d17a1f3f7/",
+"description": "Arrange colored blocks to fill a 10 by 10 grid using strategic placement and spatial reasoning. The puzzle challenges players to fit shapes perfectly without gaps or overlaps, progressing through increasingly difficult layouts that test pattern recognition and planning skills. This casual puzzle offers a clear grid-filling goal suited for teens and kids.\n\nKey Features\n\n• Grid-based block placement  \n• Drag-and-drop control system  \n• Increasing layout complexity  \n• Progressive difficulty scaling  \n• Minimalistic puzzle presentation"
+},
+{
+"id": "tocca-puzzel-world",
+"title": "Tocca Puzzle World",
+"iframe": "https://html5.gamemonetize.games/l35np6x2hfg07oxjr6jl38anuopa3p9p/",
+"description": "Match shapes and colors by swapping tiles within a grid to clear levels and unlock new puzzles. This puzzle game challenges players with a tile-matching core mechanic where strategic positioning is key. Progression comes from increasingly complex board layouts demanding foresight and pattern recognition suitable for casual gamers and kids.\n\nKey Features\n\n• Tile swapping match mechanic  \n• Pattern recognition challenges  \n• Progressive level difficulty  \n• Unlockable puzzle stages  \n• Colorful grid design"
+},
+{
+"id": "puzzdot",
+"title": "Puzzle Dot",
+"iframe": "https://html5.gamedistribution.com/380f526eaf024f41b85a19d5f052b796/",
+"description": "Connect colored dots across challenging geometric grids in a minimalist puzzle environment. Players link sequences of matching colors using precise swiping gestures to clear levels and unlock increasingly complex board layouts. Timing and path optimization become critical as puzzle complexity grows, demanding both quick thinking and strategic planning from casual players. \n\nKey Features\n\n• Color matching chain mechanic  \n• Swipe-based puzzle controls  \n• Progressive level difficulty scaling  \n• Timed challenge modes  \n• Minimalist geometric design"
+},
+{
+"id": "bullet-overload-puzzels",
+"title": "Bullet Overload Puzzle",
+"iframe": "https://html5.gamemonetize.games/2ex5oj8pbsuecfj54jt0gu51l7cb3c56/",
+"description": "Match colored bullets strategically to clear the board in challenging puzzles. Manipulate clusters using tactical swapping to solve complex layouts through sequence planning. The game focuses on precision and combo creation to overcome increasing difficulty stages and unlock new puzzles.\n\nKey Features\n\n• Color matching swap mechanic  \n• Strategic cluster clearing  \n• Progressive puzzle difficulty  \n• Combo chain scoring system  \n• Casual color-based challenge"
+},
+{
 "id": "unpuzzle-master-tap-away",
 "title": "Un Puzzle Master Tap Away",
 "iframe": "https://html5.gamemonetize.games/1yx48beozcoye96896ki6hfzwj72h9x6/",

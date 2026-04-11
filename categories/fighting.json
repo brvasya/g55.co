@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "double-streetfight",
+"title": "Double Street Fight",
+"iframe": "https://html5.gamedistribution.com/a1ac5911d5b0458f826b851f9c282082/",
+"description": "Engage in fast-paced hand-to-hand combat using a variety of punches and kicks in this two-on-two street brawl. Players control fighters whose unique movement and combo systems define the clashes, aiming to outscore opponents through timed hits and positioning. Matches progress through increasingly difficult opponents on urban streets, testing reflexes and strategic attack timing.\n\nKey Features\n\n• Two-versus-two tag team combat  \n• Combo-based punch and kick system  \n• Timed scoring and hit chaining  \n• Progressive opponent difficulty  \n• Urban street fight environment"
+},
+{
+"id": "ancient-fighters",
+"title": "Ancient Fighter",
+"iframe": "https://html5.gamedistribution.com/ea0c374753534f47bc32ddb154bbedf5/",
+"description": "Master swift combos and timing to outmatch opponents in intense arena fights. This game tests your reflexes through special move chains and strategic blocking in one-on-one duels. As you face off against varied challengers, adapting to each fighter’s style is key to rising through ranks. Precise input and stamina management shape every bout’s outcome.\n\nKey Features\n\n• Combo based combat system  \n• Responsive timing controls  \n• Progressive AI difficulty curve  \n• Stamina bar energy management  \n• Duel arena battle stages"
+},
+{
 "id": "mad-city-matrix",
 "title": "Mad City Matrix Fighting",
 "iframe": "https://html5.gamemonetize.games/hvw3bkpx0nx4m5v3cigplk9uosae5ila/",
