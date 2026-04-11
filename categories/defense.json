@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "monster-defence-2d",
+"title": "Monster Defense 2D",
+"iframe": "https://html5.gamemonetize.games/wnb5idjbcdxnpeldc52xom38d4i1cc19/",
+"description": "Defend strategic positions by deploying turrets and managing resources against waves of monstrous creatures in this 2D defense challenge. Players adjust tower placements and upgrade abilities to counter increasingly tough enemies on a grid-based battlefield. Success depends on balancing offense and defense to survive escalating monster waves.\n\nKey Features\n\n• Turret placement strategy  \n• Resource management system  \n• Progressive enemy wave difficulty  \n• Upgradeable defense structures  \n• 2D grid-based battlefield"
+},
+{
+"id": "defence-wall",
+"title": "Defense Wall",
+"iframe": "https://html5.gamemonetize.games/lpmgjrafsc7mod4ef33pvhxd0pbplwzm/",
+"description": "Build and maintain defensive structures to repel waves of incoming attackers, balancing resource management and strategic turret placement. Players rely on timed upgrades and area control to hold the line through escalating enemy assaults. The challenge intensifies across progressively harder stages that test multitasking and quick decision making.\n\nKey Features\n\n• Tower placement and upgrade system  \n• Resource allocation mechanics  \n• Increasing enemy wave difficulty  \n• Strategic area control elements  \n• Classic turret defense setting"
+},
+{
 "id": "space-defense-idle",
 "title": "Space Defense Idle",
 "iframe": "https://html5.gamemonetize.games/ucr51gun030gsed5gj5mi4uwr4vq8csp/",
