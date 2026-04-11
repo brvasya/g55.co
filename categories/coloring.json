@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "color-pixel-flow",
+"title": "Color Pixel Flow",
+"iframe": "https://html5.gamemonetize.games/awnouc0jesu3jx493fp7zrmyoxs3o69w/",
+"description": "Match and fill pixel patterns by selecting colors to complete grid puzzles with timed flow mechanics. Players drag colors onto pixel clusters to unlock new designs and progress through increasing difficulty. The game challenges pattern recognition and color management in a minimalist, abstract setting that suits casual and younger players. Each level introduces new pixel shapes for variety and should be solved before the flow timer runs out.\n\nKey Features\n\n• pixel grid color-matching  \n• drag-and-drop color placement  \n• progressive puzzle difficulty  \n• timed flow challenge system  \n• abstract minimal pixel art style"
+},
+{
 "id": "meow-block-color-collect",
 "title": "Meow Block: Color Collect!",
 "iframe": "https://html5.gamedistribution.com/655318552fce44219adae25faa4c6629/",
