@@ -1,50 +1,56 @@
 {
 "pages": [
 {
+"id": "red-ball-vs-green-king",
+"title": "Red Ball vs Green King Platform",
+"iframe": "https://html5.gamedistribution.com/f779ce35fd4541d5b1d8eca6f99f8114/",
+"description": "Navigate a bouncing red ball through challenging platform levels where timing and precision jumps are key to avoiding traps and reaching the Green King. Players must master momentum-based rolling and jumping mechanics to overcome shifting platforms and hostile barricades. Levels progressively increase in complexity, demanding quick reflexes and strategic movement to claim victory.\n\nKey Features\n\n• Momentum-driven ball control  \n• Precision timing platform navigation  \n• Progressive difficulty levels  \n• Environmental hazards and obstacles  \n• Minimalistic color-coded world design"
+},
+{
 "id": "vex-challenges",
-"title": "VEX Platform Challenges",
+"title": "VEX Challenges Platform",
 "iframe": "https://html5.gamedistribution.com/b657d0d7da2e46919d24862aa1f3e758/",
 "description": "Navigate precise obstacle courses using timing and momentum to master challenging platform puzzles. Leap through intricate levels featuring moving platforms and spikes, testing reflexes and spatial awareness. Each stage demands careful jumps and avoidance tactics to reach the exit without falling or triggering traps.\n\nKey Features\n\n• Momentum-based jump mechanics  \n• Responsive directional controls  \n• Progressive obstacle difficulty  \n• Time attack trial mode  \n• Minimalist industrial level design"
 },
 {
 "id": "vex-9",
-"title": "Vex 9 Platform Game",
+"title": "Vex 9 Platform",
 "iframe": "https://html5.gamedistribution.com/8d034584a63642dcb89fa3d24ed6e1b1/",
 "description": "Navigate challenging obstacle courses using precise timing and momentum control in this platform game. The core mechanic revolves around fluid parkour-style movement through intricate levels filled with traps and hazards. Players must conquer increasingly difficult stages by mastering jumps and wall runs to reach the exit and avoid deadly obstacles.    \n\nKey Features\n\n• Momentum-based platforming mechanics  \n• Responsive jump and wall run controls  \n• Progressive level difficulty scaling  \n• Time trial and challenge modes  \n• Minimalist hazard-filled environments"
 },
 {
 "id": "vex-8",
-"title": "Vex 8 Platform Game",
+"title": "Vex 8 Platform",
 "iframe": "https://html5.gamedistribution.com/949009d40a2846f89f887de2285d6c28/",
 "description": "Leap and dash through intricate obstacle courses in this platform game, navigating hazardous traps and precise jumps to reach each level’s end. Players use fast-paced wall runs and timing-based leaps to overcome challenging terrain while competing against the clock. Early stages introduce tighter sequences, increasing pressure as you strive for flawless completions.\n\nKey Features\n\n• Precision wall-running mechanics  \n• Time-based level challenges  \n• Progressive obstacle course difficulty  \n• Responsive platforming controls  \n• Minimalistic level design"
 },
 {
 "id": "vex-7",
-"title": "Vex 7 Platform Game",
+"title": "Vex 7 Platform",
 "iframe": "https://html5.gamedistribution.com/0c454c9562d249d28ba3a2b50564042c/",
 "description": "Navigate through complex obstacle courses using precise jumps and quick reflexes in this challenging platform game. Players control a nimble character that maneuvers with fluid, momentum-based physics to overcome traps and reach the end of each level. The game tests timing and spatial accuracy across increasingly difficult stages designed to push platforming skills to the limit.\n\nKey Features\n\n• Momentum-driven character movement  \n• Precision jump timing mechanics  \n• Progressive obstacle difficulty scaling  \n• Time trial leaderboard tracking  \n• Minimalistic platforming environments"
 },
 {
 "id": "vex-6",
-"title": "Vex 6 Platform Game",
+"title": "Vex 6 Platform",
 "iframe": "https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/",
 "description": "Navigate agile stickman jumps through precision-timed obstacle courses in vibrant 2D levels to conquer tricky traps and reach each stage’s end. The platforming relies on reflex-based wall climbing and sliding mechanics, pushing players to master their movement while avoiding spikes and falling hazards. Each level escalates in difficulty, testing timing and spatial awareness.\n\nKey Features\n\n• Precision jump and slide controls  \n• Wall climb movement mechanic  \n• Increasingly complex level layouts  \n• Time trial challenge mode  \n• Minimalist stickman aesthetic"
 },
 {
 "id": "vex-5",
-"title": "Vex 5 Platform Game",
+"title": "Vex 5 Platform",
 "iframe": "https://html5.gamedistribution.com/f120262ab72743039fbce88c1f370df8/",
 "description": "Leap and dash through intricate obstacle courses featuring precise timing and momentum-based platforming challenges. The game focuses on quick reflexes with a grounded movement system that demands careful navigation of traps and hazards. Players face progressive levels increasing in complexity, aiming to master each stage’s jump sequences without a designated story or setting.\n\nKey Features\n\n• Momentum-based jumping mechanics  \n• Responsive character dash control  \n• Increasingly complex obstacle layouts  \n• Time trial mode for speedrunning  \n• Minimalistic abstract level design"
 },
 {
 "id": "vex-4",
-"title": "Vex 4 Platform Game",
+"title": "Vex 4 Platform",
 "iframe": "https://html5.gamedistribution.com/80e6a5ae477f4d4fbcd1ea293d10087d/",
 "description": "Navigate through intricate parkour challenges with precise timing and fast reflexes in this physics-based platform adventure. Players manipulate agile character movement to clear traps and enemies, advancing through progressively harder obstacle courses. Mastering momentum and jump accuracy is essential to overcome the increasingly complex levels and achieve the highest stage completions.\n\nKey Features\n\n• physics-driven character movement  \n• responsive jump and dash controls  \n• escalating obstacle course difficulty  \n• checkpoint and retry system  \n• minimalist hazard-themed environments"
 },
 {
 "id": "vex-3",
-"title": "Vex 3 Platform Game",
+"title": "Vex 3 Platform",
 "iframe": "https://html5.gamedistribution.com/762c932b4db74c6da0c1d101b2da8be6/",
 "description": "Navigate precise platforming challenges using fluid parkour moves and timed wall jumps to overcome diverse obstacle courses. Progress through increasingly complex levels featuring tight jumps and traps while reacting quickly to avoid hazards. The game emphasizes fast-paced reflexes and careful momentum control to master each stage’s demanding layout.\n\nKey Features\n\n• Precision wall jump mechanics  \n• Momentum-based platforming control  \n• Progressive obstacle complexity  \n• Time-sensitive challenge levels  \n• Minimalist level design style"
 },
