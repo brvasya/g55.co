@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "sokomatch",
+"title": "Soko Match",
+"iframe": "https://html5.gamemonetize.games/r4in7whqj17v1j0om49i6os2p2dng6z7/",
+"description": "Push crates around tight puzzle grids to line up matching blocks and clear levels. Matching mechanics revolve around strategic movement and spatial reasoning as players navigate compact rooms with limited space. Each stage challenges players to think several moves ahead to solve increasingly complex box arrangements and progress through new puzzle layouts.\n\nKey Features\n\n• Crate pushing puzzle mechanics  \n• Grid-based spatial movement  \n• Incremental level difficulty  \n• Limited move challenge system  \n• Minimalist, abstract puzzle setting"
+},
+{
+"id": "shapematcher",
+"title": "Shape Matcher",
+"iframe": "https://html5.gamedistribution.com/054bf2e6cb4a46afb3fca913cc74d643/",
+"description": "Match colorful shapes by dragging them to form correct pairs on a grid. The game challenges players to identify patterns under time pressure, using shape recognition as the core mechanic in a bright, casual environment. Levels increase in difficulty with more shapes and faster countdowns, encouraging quick thinking and precision matching.\n\nKey Features\n\n• Drag and drop matching mechanic  \n• Timed pattern recognition challenges  \n• Increasing shape variety per level  \n• Score multiplier for consecutive matches  \n• Casual color-based puzzle setting"
+},
+{
+"id": "mindmatch",
+"title": "Mind Match",
+"iframe": "https://html5.gamemonetize.games/igi0ieohonhbopdsg2kwmyz661ffkh84/",
+"description": "Match colorful tiles quickly by finding pairs under time pressure in this casual puzzle game. Players use pattern recognition and strategic memory to clear levels filled with various tile sets. The challenge increases through faster timers and diverse board layouts, providing mental agility tests for teens and kids who enjoy light but engaging matching tasks.\n\nKey Features\n\n• Timed tile pairing mechanic  \n• Click and drag match controls  \n• Increasing difficulty levels  \n• Memory streak bonus system  \n• Vibrant puzzle board designs"
+},
+{
+"id": "kittymatch",
+"title": "Kitty Match",
+"iframe": "https://html5.gamemonetize.games/qd2lv6xtkugdlyqjsoxwazaht1swrn0z/",
+"description": "Match colorful tiles by linking three or more identical kittens to clear the board and progress through increasingly tricky levels. Players use strategic swapping to form combo chains that unlock special bonuses and score multipliers. The game challenges pattern recognition and timing as matches get faster and more complex in each stage.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Combo chain scoring system  \n• Increasingly difficult level progression  \n• Special bonus unlocks  \n• Casual matching with cute kitty theme"
+},
+{
+"id": "capsulematch",
+"title": "Capsule Match",
+"iframe": "https://html5.gamemonetize.games/0yzibjxa0j3w8rhdsrgxb17umd8r0dev/",
+"description": "Match capsules by swapping adjacent pairs to clear the board and advance through puzzle stages. Players align colored capsules to trigger chain reactions within grid layouts, aiming to master increasingly complex arrangements. Timing swaps and predicting capsule drops are essential to overcoming escalating challenge levels in this casual matching experience.\n\nKey Features\n\n• swap based capsule matching  \n• grid layout puzzle progression  \n• chain reaction scoring system  \n• timer-based challenge rounds  \n• colorful capsule tile design"
+},
+{
 "id": "balls-numbers-match",
 "title": "Balls Numbers Match",
 "iframe": "https://html5.gamedistribution.com/df01f93c47664feda87dc48ebbe41666/",

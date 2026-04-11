@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "chistmas-matchup",
+"title": "Christmas Match Up",
+"iframe": "https://html5.gamemonetize.games/nsc7g9tbwyqvyzci3m8fi17cs7smjpiw/",
+"description": "Match colored Christmas ornaments by swapping adjacent pieces on a festive grid to create chains and clear levels. Players aim to complete challenges by triggering combo matches that fill a progress meter, advancing through holiday-themed stages with increasing difficulty. Timing and pattern recognition play crucial roles in this seasonal puzzle game.\n\nKey Features\n\n• Tile swapping matching mechanic  \n• Combo chain multiplier system  \n• Level-based progression map  \n• Timed challenge modes  \n• Holiday ornament themed tiles"
+},
+{
+"id": "christmasmatch",
+"title": "Christmas Match",
+"iframe": "https://html5.gamemonetize.games/vlt9ki4fjw2ixve2zg7c7vn1l5re5ut1/",
+"description": "Match festive tiles by swapping adjacent pieces to clear the board and earn points in this holiday-themed puzzle game. Use tile matching mechanics to create combos that unlock special bonus tiles and advance through winter-themed levels. The challenge lies in planning moves carefully to overcome limited swaps and achieve high scores as the snowy backdrop evolves.\n\nKey Features\n\n• Tile swapping puzzle mechanic  \n• Combo-based scoring system  \n• Limited move challenge stages  \n• Unlockable bonus tile effects  \n• Seasonal holiday visual theme"
+},
+{
 "id": "vex-3-xmas",
 "title": "VEX 3 Christmas",
 "iframe": "https://html5.gamedistribution.com/63137d6d920145f68f3efddfe0f45675/",
@@ -1613,12 +1625,6 @@
 "title": "Christmas Match n Craft",
 "iframe": "https://html5.gamedistribution.com/82321756569a4f349dc9557dc33b314e/",
 "description": "Swap matching tiles to clear levels in a festive puzzle environment filled with holiday-themed icons. Players connect three or more identical items to complete challenging stages, using strategic moves to advance through colorful Christmas settings. The game focuses on tile-matching precision and level progression, inviting casual gamers and younger audiences to solve puzzles at their own pace.\n\nKey Features\n\n• Match three tile mechanic  \n• Drag and swap control scheme  \n• Increasing stage difficulty  \n• Time-limited challenge modes  \n• Holiday-themed match objects"
-},
-{
-"id": "christmas-match",
-"title": "Christmas Match",
-"iframe": "https://html5.gamemonetize.games/c1lpeon36g1djgd6azihv8b84scwg3ss/",
-"description": "Match colorful holiday icons by swapping adjacent tiles in a grid to clear objectives and complete levels. This puzzle challenges players to think strategically with increasing difficulty and introduces festive seasonal backdrops to enhance the Christmas spirit. Precise tile matching and level progression create engaging gameplay suitable for casual players of all ages.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Strategic match sequence planning  \n• Progressive level difficulty scaling  \n• Time-limited challenge rounds  \n• Seasonal Christmas-themed visuals"
 },
 {
 "id": "christmas-mascots-memory",
