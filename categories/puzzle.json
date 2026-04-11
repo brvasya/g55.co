@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "pipe-connection",
+"title": "Pipe Connection Puzzle",
+"iframe": "https://html5.gamemonetize.games/w70zt157us6asdxfmrg5awv13r3vtdpd/",
+"description": "Rotate and connect varied pipe segments to establish a continuous flow in this puzzle challenge. Players must strategically align twists and bends while navigating increasing complexity across stages. Each level tasks casual gamers with completing functional networks under time constraints, encouraging logical thinking and careful planning.\n\nKey Features\n\n• Rotational pipe alignment mechanic  \n• Tap and drag segment controls  \n• Progressive level difficulty scaling  \n• Time-limited puzzle challenges  \n• Minimalist pipeline visual style"
+},
+{
+"id": "fish-connections",
+"title": "Fish Connections Puzzle",
+"iframe": "https://html5.gamemonetize.games/p3jfohnycil8lekec997cr1mvvthfkg8/",
+"description": "Match colored fish by swapping adjacent pieces in a grid-based puzzle that requires strategic planning and quick matching skills. Players clear groups of fish by connecting them in lines or clusters, progressing through levels with increasing complexity and limited moves. The underwater-themed challenge tests pattern recognition and spatial reasoning for casual players and kids alike.\n\nKey Features\n\n• Color swapping tile mechanic  \n• Grid-based puzzle layouts  \n• Level-based move restrictions  \n• Combo chain scoring system  \n• Underwater aquatic visuals"
+},
+{
+"id": "connector-game",
+"title": "Connector Puzzle",
+"iframe": "https://html5.gamemonetize.games/kolo5wlftn9rpxgbciyfceip3dvdau7v/",
+"description": "Slide tiles to create continuous paths connecting nodes and solve spatial logic puzzles. The game challenges players to rearrange intricate link segments across a grid, testing pattern recognition and planning skills. Progression unfolds through increasingly complex layouts requiring strategic moves and careful alignment of connectors.\n\nKey Features\n\n• Tile sliding path construction  \n• Grid-based spatial puzzles  \n• Step-limited move challenges  \n• Varied connector shapes system  \n• Casual puzzle progression levels"
+},
+{
+"id": "candy-connection",
+"title": "Candy Connection Puzzle",
+"iframe": "https://html5.gamedistribution.com/5b0d019d1054489e94e28aa68f2b2c16/",
+"description": "Match colorful candy pieces to clear puzzle boards filled with layered obstacles and earn points by creating special combo chains. Strategic swapping and pattern recognition shape the challenge as players unlock new levels with increasing complexity. Each stage offers unique layouts requiring careful planning to maximize clearing efficiency and advance through the sweet-themed progression.\n\nKey Features\n\n• Tile-matching puzzle mechanics  \n• Interactive candy swap controls  \n• Level-based obstacle challenges  \n• Unlockable puzzle stages  \n• Colorful confectionery visuals"
+},
+{
+"id": "connection",
+"title": "Connection Puzzle",
+"iframe": "https://html5.gamedistribution.com/530d41dfa3474f34bb3f51835391f384/",
+"description": "Link nodes to form seamless pathways in increasingly complex puzzles. Players rotate and connect diverse shape pieces, testing spatial logic through progressive grid layouts. The gameplay challenges quick thinking and planning as connections must perfectly align to complete each level and unlock more intricate boards.\n\nKey Features\n\n• Rotatable connection piece mechanic  \n• Tap and drag line controls  \n• Incremental level complexity  \n• Time trial challenge mode  \n• Abstract geometric visual style"
+},
+{
 "id": "fill-the-water",
 "title": "Fill Water Puzzle",
 "iframe": "https://html5.gamemonetize.games/b5utcmt95x17yyia8qh295aoxuoo6oki/",

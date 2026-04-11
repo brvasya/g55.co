@@ -1,6 +1,42 @@
 {
 "pages": [
 {
+"id": "kitten-connections",
+"title": "Kitten Connect",
+"iframe": "https://html5.gamemonetize.games/gwnsy729rjshxw240nb4aunlevdhix42/",
+"description": "Match identical kittens on a colorful grid by connecting pairs with unobstructed paths using strategic line bending. This tile-matching puzzle challenges players to clear all pairs against a time limit, enhancing pattern recognition and quick thinking. Levels increase in difficulty with more complex layouts and limited moves, inviting casual gamers and kids into a charming brain teaser.\n\nKey Features\n\n• Line connection matching mechanic  \n• Click and drag pair linking  \n• Timed progressive levels  \n• Move limit challenge system  \n• Cute kitten-themed tiles"
+},
+{
+"id": "frosty-connection-quest",
+"title": "Frosty Connect Quest",
+"iframe": "https://html5.gamedistribution.com/5a598ae104634014a65a0d7358cd259e/",
+"description": "Match colored tiles strategically to clear frosty puzzles in a grid-based connect game. Link identical icy elements by drawing continuous paths without overlaps to complete each level’s objective. The challenge ramps up through increasingly complex patterns, offering casual players a relaxing yet engaging tile-connecting experience.\n\nKey Features\n\n• tile connection path drawing  \n• pattern-based level progression  \n• overlap restriction mechanics  \n• timed and relaxed modes  \n• snowflake-themed grid puzzles"
+},
+{
+"id": "fishconnect",
+"title": "Fish Connect",
+"iframe": "https://html5.gamedistribution.com/dce5b0a6b05945c2abf0382ce7d0d852/",
+"description": "Link colorful fish tiles to clear the board in this pattern-matching puzzle. Players connect identical fish by drawing paths that cannot overlap, requiring careful planning as stages introduce new obstacles and tighter spaces. The aquatic theme enhances the relaxing yet strategic challenge, pushing players to complete each level within move limits.\n\nKey Features\n\n• Tile matching connection mechanic  \n• Path-drawing control system  \n• Increasing spatial puzzle difficulty  \n• Move-limited level progression  \n• Underwater visual theme"
+},
+{
+"id": "delicious-food-connection",
+"title": "Delicious Food Connect",
+"iframe": "https://html5.gamedistribution.com/12cb0daa4cdc4203bd1ce15dae770e68/",
+"description": "Match colorful tiles by linking pairs with clear paths in a grid layout, testing spatial planning and quick thinking. This connect puzzle challenges players to clear all paired food-themed icons before time runs out. Progress through increasingly complex boards with shorter linking routes and limited moves, appealing to casual players and younger audiences.\n\nKey Features\n\n• Line connection pairing mechanic  \n• Tap and drag matching controls  \n• Timed level completion challenges  \n• Progressive board difficulty scaling  \n• Food-themed tile designs"
+},
+{
+"id": "cosmic-connector",
+"title": "Cosmic Connect",
+"iframe": "https://html5.gamemonetize.games/r06okgzphshmn5yvb4wgdm5bs6li7fog/",
+"description": "Connect matching cosmic orbs to clear vibrant puzzles, using strategic alignment across a galactic grid. Players navigate shifting board layouts to form chains before space-time runs out, challenging their pattern recognition and planning in an evolving starfield environment.\n\nKey Features\n\n• Orb linking chain mechanic  \n• Grid navigation controls  \n• Time-limited puzzle stages  \n• Progressive pattern complexity  \n• Space-themed visual design"
+},
+{
+"id": "almond-connection-link-win",
+"title": "Almond Connect Link Win",
+"iframe": "https://html5.gamemonetize.games/qwzdad6rm2i86iklcn6m3yobkj5zz7sn/",
+"description": "Link matching puzzles require players to connect almond-shaped icons through strategic placement and timing to clear the board. Challenges increase as new patterns and obstacles emerge, demanding sharp planning and quick reflexes. Levels progressively introduce limited moves and combo multipliers, enhancing depth and replayability in this relaxing puzzle experience.\n\nKey Features\n\n• Almond icon link mechanic  \n• Timed connection challenges  \n• Progressive pattern complexity  \n• Combo scoring multipliers  \n• Casual puzzle board settings"
+},
+{
 "id": "stickyconnect",
 "title": "Sticky Connect",
 "iframe": "https://html5.gamemonetize.games/jdaz00ja43out2x87orb5870xh9zld8m/",
