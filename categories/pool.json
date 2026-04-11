@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "billiards-8-ball",
+"title": "Billiards 8 Ball Pool",
+"iframe": "https://html5.gamedistribution.com/5aa66028c43d4082bd9381012480b76a/",
+"description": "Aim and strike with precision to pocket balls in strategic turns using cue control and shot aiming mechanics. Players compete on a classic green felt table aiming to clear their set of balls before the opponent by mastering angles and force calibration. This pool simulation emphasizes shot planning and ball positioning to outscore rivals in a casual setting.\n\nKey Features\n\n• Precision cue aiming system  \n• Turn-based shot mechanics  \n• Ball collision and rebound physics  \n• Progressive scoring challenges  \n• Classic green felt pool table"
+},
+{
+"id": "billiard-8-ball",
+"title": "Billiard 8 Ball Pool",
+"iframe": "https://html5.gamedistribution.com/c49fa4681ef045999b52c09a00e0fd17/",
+"description": "Aim and strike with precise cue control to pocket balls in this digital 8 ball pool challenge. Players apply spin and angle adjustments to navigate ball collisions and table dynamics, competing to clear their assigned group before sinking the 8 ball. The game emphasizes skillful shot setup and rule adherence for each turn in a classic billiards environment.\n\nKey Features\n\n• Spin and angle shot mechanics  \n• Cue stick power adjustment  \n• Turn-based ball pocketing strategy  \n• Standard 8 ball rule enforcement  \n• Real-time physics ball collisions"
+},
+{
+"id": "9-ball-pro",
+"title": "9 Ball Pro Pool",
+"iframe": "https://html5.gamedistribution.com/6d0d23c11c304d4b8968762550181070/",
+"description": "Aim to pocket the nine ball using strategic shots that require precise angle calculation and cue control in this casual pool sim. Players focus on a variation involving nine balls, navigating turn-based play to outscore opponents. Game pacing depends on successful combos and avoiding fouls, adding a layer of tactical depth to familiar billiards gameplay.  \n\nKey Features\n\n• Nine ball rotation rule system  \n• Precision shot aiming controls  \n• Turn-based scoring challenges  \n• Multiplayer match progression  \n• Classic pool table visuals"
+},
+{
+"id": "8-ball-pro",
+"title": "8 Ball Pro Pool",
+"iframe": "https://html5.gamedistribution.com/20fa5406b00643128250478502fa5453/",
+"description": "Sink precise shots using spin and angle control in this classic cue sports game. Players must master the physics-based mechanics of ball collision and pocket positioning to clear the table before their opponent does. The game offers a straightforward pool hall setting where strategic shot selection and timing are key to winning frames and climbing through casual play modes.\n\nKey Features\n\n• Spin and angle aiming system  \n• Realistic ball collision physics  \n• Turn-based shot progression  \n• Multiplayer and solo match modes  \n• Traditional pool hall atmosphere"
+},
+{
 "id": "chiellini-pool-soccer",
 "title": "Chiellini Pool Soccer",
 "iframe": "https://html5.gamemonetize.games/z10go075jag7cm1s06lh4tuczpbmufs0/",
