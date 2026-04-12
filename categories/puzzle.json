@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "zoologic",
+"title": "Zoo Logic Puzzle",
+"iframe": "https://html5.gamemonetize.games/du46nkir44m4gi7454gnses9e8u37wrq/",
+"description": "Match colorful animal tiles to clear levels and unlock new puzzles in this tile-matching challenge. Rotate and swap pieces to form lines and activate cascade combos across a lively zoo-themed board. Players must solve intricate patterns and manage limited moves to progress through increasingly complex puzzles designed for casual gamers and kids.\n\nKey Features\n\n• Tile rotation and swapping system  \n• Pattern recognition challenges  \n• Move-limited level progression  \n• Combo chain scoring mechanic  \n• Zoo animal visual theme"
+},
+{
+"id": "save-the-monster",
+"title": "Save Monster Puzzle",
+"iframe": "https://html5.gamedistribution.com/2be57eddbc8949ad9b392e1776b59787/",
+"description": "Arrange colorful puzzle pieces to rescue trapped creatures by matching patterns and solving spatial challenges. The game uses tile-matching mechanics combined with obstacle-clearing strategies in vibrant puzzle levels. Players aim to free monsters hidden behind barriers, progressing through increasingly complex configurations and unlocking new puzzle variations.\n\nKey Features\n\n• Pattern-based tile matching  \n• Drag and drop puzzle controls  \n• Obstacle removal challenges  \n• Progressive difficulty scaling  \n• Creature rescue puzzle theme"
+},
+{
+"id": "save-the-ball",
+"title": "Save Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/0212a62aa8854e878b1bff831501988b/",
+"description": "Match colored balls strategically to clear the board and rescue trapped pieces in this puzzle challenge. Players manipulate clusters using spatial logic and timing to navigate increasingly complex levels that test pattern recognition. Each puzzle introduces new arrangements that require thoughtful moves to advance through stages and unlock rewards.\n\nKey Features\n\n• Color matching cluster mechanics  \n• Drag and drop ball controls  \n• Progressive puzzle difficulty  \n• Timed challenge levels  \n• Vibrant colorful ball visuals"
+},
+{
+"id": "save-the-ball-online",
+"title": "Save Ball Online Puzzle",
+"iframe": "https://html5.gamemonetize.games/nxzniyjtvzqmy047eqhdqzud7x5pqwix/",
+"description": "Manipulate colorful balls by swapping adjacent pieces to create chains and clear the board in this puzzle challenge. The core mechanic revolves around matching and strategic swapping to solve levels that increase in difficulty. Players must carefully plan moves to unlock new puzzles and achieve high scores within limited steps or time constraints.\n\nKey Features\n\n• Chain reaction ball matching  \n• Tile swapping control scheme  \n• Increasing puzzle difficulty levels  \n• Step-limited strategic challenges  \n• Vivid ball design and effects"
+},
+{
 "id": "pipe-connection",
 "title": "Pipe Connection Puzzle",
 "iframe": "https://html5.gamemonetize.games/w70zt157us6asdxfmrg5awv13r3vtdpd/",
