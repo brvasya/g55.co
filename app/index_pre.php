@@ -114,6 +114,8 @@ if ($hasC) {
     }
   }
 
+  shuffle($featuredItems);
+
   $h1 = ($totalCount > 0 ? number_format($totalCount) . ' ' : '') . $site['title'];
   $desc = $site['description'];
 
