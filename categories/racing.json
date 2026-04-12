@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "street-rider",
+"title": "Street Rider Racing",
+"iframe": "https://html5.gamedistribution.com/9be99c873fee49c997dc31ae805c711e/",
+"description": "Master intense street races by maneuvering agile motorcycles through urban tracks in this action-packed browser game. Players lean into sharp corners using responsive controls to outpace rivals in neon-lit environments, while striving to complete progressively challenging circuits. Timing boost activations and avoiding collisions are essential to maintaining top speed and claiming victory. \n\nKey Features\n\n• Responsive motorcycle leaning mechanic  \n• Precision boost timing system  \n• Progressive urban track challenges  \n• Time trial and versus race modes  \n• Neon city street racing atmosphere"
+},
+{
 "id": "rolling-ball-race",
 "title": "Rolling Ball Race",
 "iframe": "https://html5.gamemonetize.games/5swxfxpua5oif6lt9jp1po42300ormlq/",
