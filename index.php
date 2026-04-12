@@ -20,7 +20,7 @@
 <?php if (!empty($featuredItems)): ?>
 <h2>Featured Games</h2>
 <section class="grid">
-<?php foreach ($featuredItems as $g): ?>
+<?php foreach (array_slice($featuredItems, 0, 6) as $g): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($g['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($g['id']); ?>&c=<?php echo rawurlencode($g['category']); ?>"><span class="<?php echo rawurlencode($g['category']); ?>"><?php echo h($g['title']); ?></span></a>
 <?php endforeach; ?>
 </section>
