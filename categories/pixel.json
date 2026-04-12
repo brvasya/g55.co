@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "pixel-space-shooter-survival",
+"title": "Pixel Space Shooter Survival",
+"iframe": "https://html5.g55.co/pixel-space-shooter-survival/",
+"description": "Pilot a pixel starfighter through hostile space sectors and destroy incoming enemy waves using rapid fire shooting mechanics. Use survival based progression to dodge projectiles, manage limited shields, and secure high score objectives across scrolling cosmic battlefields. Later stages introduce denser formations and faster attack patterns.\n\nKey Features\n\n• Pixel starfighter survival combat\n• Rapid fire shooting system\n• Wave based enemy progression\n• Shield management mechanics\n• Scrolling space battlefield setting"
+},
+{
 "id": "pixel-zombie-survival",
 "title": "Pixel Zombie Survival",
 "iframe": "https://html5.gamemonetize.games/p1kzu5rt2ccr02gzr1sf5sarx8if93er/",
@@ -11,12 +17,6 @@
 "title": "Huggy Wuggy Pixel Nights",
 "iframe": "https://html5.gamemonetize.games/42qo8toh96152nt6uex5bi8jq4n9jzl2/",
 "description": "Move through dark pixel styled environments while confronting huggy themed enemies using survival shooting mechanics and constant movement to withstand sudden attacks. Use accurate aiming, route navigation, and spatial awareness to survive tense encounters across block based night arenas. The goal is to eliminate hostile threats, endure escalating pressure, and progress through increasingly intense survival combat scenarios.\n\nKey Features\n\n• Pixel styled survival shooting\n• Huggy enemy encounter system\n• Night arena navigation\n• Continuous movement survival\n• Progressive combat escalation"
-},
-{
-"id": "pixel-space-shooter-survival",
-"title": "Pixel Space Shooter Survival",
-"iframe": "https://html5.g55.co/pixel-space-shooter-survival/",
-"description": "Pilot a pixel starfighter through hostile space sectors and destroy incoming enemy waves using rapid fire shooting mechanics. Use survival based progression to dodge projectiles, manage limited shields, and secure high score objectives across scrolling cosmic battlefields. Later stages introduce denser formations and faster attack patterns.\n\nKey Features\n\n• Pixel starfighter survival combat\n• Rapid fire shooting system\n• Wave based enemy progression\n• Shield management mechanics\n• Scrolling space battlefield setting"
 },
 {
 "id": "pixel-dash-neon-run",
