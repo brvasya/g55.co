@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "colorpoly",
+"title": "Color Poly",
+"iframe": "https://html5.gamedistribution.com/7f2c24315f074c3d9fff7bbd91f41573/",
+"description": "Select colors and fill polygons to complete vivid digital designs in a grid-based coloring puzzle. Players tap or click to match shades with segmented shapes, aiming for precise coverage and seamless color transitions. The challenge lies in balancing contrasting hues while gradually unlocking more intricate geometric patterns for completion.\n\nKey Features\n\n• Polygon fill coloring mechanic  \n• Click and tap color placement  \n• Progressive pattern complexity  \n• Color matching precision challenge  \n• Geometric grid layout"
+},
+{
 "id": "color-pixel-flow",
 "title": "Color Pixel Flow",
 "iframe": "https://html5.gamemonetize.games/awnouc0jesu3jx493fp7zrmyoxs3o69w/",
