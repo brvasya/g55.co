@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "jigsolitaire",
+"title": "Jig Solitaire",
+"iframe": "https://html5.gamedistribution.com/ed8e3cbf265644258b1509ea239db2f9/",
+"description": "Arrange cards by suit and rank to clear the board in this solitaire variation. The game challenges players to strategically uncover hidden cards and build sequences with limited moves. It features classic card layout mechanics with a subtle twist on card manipulation to test patience and planning. The goal is to reveal all cards and sort them into foundation piles before running out of options.\n\nKey Features\n\n• Sequential card stacking system  \n• Drag-and-drop card controls  \n• Limited move challenge mode  \n• Undo and hint options  \n• Classic card design theme"
+},
+{
 "id": "spaces-solitaire",
 "title": "Spaces Solitaire",
 "iframe": "https://html5.gamedistribution.com/17225960b791439b885effd91a6d62b4/",

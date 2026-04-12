@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "break-the-block-there-brainrot",
+"title": "Break the block there, Brainrot Simulator",
+"iframe": "https://html5.gamedistribution.com/08d7ed5c17d14024b28223eebfc9049f/",
+"description": "Break the block there challenges players to strategically dismantle structures using precise block-breaking mechanics. Each level requires careful timing and placement of hits to clear obstacles and reveal hidden puzzles. The game tests spatial awareness and quick reflexes as players unlock subsequent stages with increasing complexity designed for casual gamers.\n\nKey Features\n\n• Precision block-breaking mechanic  \n• Tap and drag control scheme  \n• Progressive puzzle difficulty scaling  \n• Time-limited challenge modes  \n• Minimalist abstract visual style"
+},
+{
+"id": "spa-empire",
+"title": "Spa Empire Simulator",
+"iframe": "https://html5.gamedistribution.com/030529c9706547b09afbc75751bc577d/",
+"description": "Manage service stations and wellness facilities by balancing customer needs and staff efficiency in this simulator. Schedule treatments, upgrade amenities, and optimize spa layouts to attract visitors and boost reputation. Progression unfolds through unlocking advanced services and managing peak hours for a smooth spa experience.\n\nKey Features\n\n• Treatment scheduling system  \n• Staff task assignment controls  \n• Customer satisfaction metrics  \n• Facility upgrade progression  \n• Relaxation spa environment"
+},
+{
 "id": "car-simulator-3d",
 "title": "Game Simulator 3D",
 "iframe": "https://html5.gamemonetize.games/brxqmk9ejqx2rgurxhwcoz1s7f4u512r/",

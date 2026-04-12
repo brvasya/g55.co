@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "home-block-story",
+"title": "Home Block Story Puzzle",
+"iframe": "https://html5.gamedistribution.com/f32dfc95b9054cccbd6b187f9596e220/",
+"description": "Slide and rotate blocks strategically to clear all rows in a grid-based puzzle challenge. Players manipulate various shaped pieces to fit them into a confined space, focusing on spatial organization and timing. The game’s progression moves through increasingly complex layouts that test pattern recognition and planning skills.\n\nKey Features\n\n• Grid-based block placement  \n• Rotation and sliding controls  \n• Progressive puzzle difficulty  \n• Time-limited move challenges  \n• Abstract geometric environment"
+},
+{
+"id": "chroma-tower",
+"title": "Chroma Tower Puzzle",
+"iframe": "https://html5.gamedistribution.com/7b100acf319e45968794e858cdda392f/",
+"description": "Manipulate colorful blocks to match patterns and clear levels in this puzzle challenge. Players rotate and position shapes strategically to unlock subsequent stages with increasing difficulty. The game combines tile-matching mechanics with spatial reasoning under a vibrant thematic palette, pushing players to optimize each move while navigating complex arrangements.\n\nKey Features\n\n• Color block rotation mechanic  \n• Strategic tile placement control  \n• Progressive level difficulty scaling  \n• Pattern matching puzzle challenges  \n• Vibrant chromatic visual theme"
+},
+{
 "id": "zoologic",
 "title": "Zoo Logic Puzzle",
 "iframe": "https://html5.gamemonetize.games/du46nkir44m4gi7454gnses9e8u37wrq/",
