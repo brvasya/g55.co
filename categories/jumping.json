@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "temple-ball",
+"title": "Temple Ball Jumping",
+"iframe": "https://html5.gamedistribution.com/087d296e534a4bdaae09eb79dbf336e5/",
+"description": "Jump by timing leaps across precarious temple platforms to stay aloft in this vertical climbing challenge. The core mechanic requires precision jumps and strategic pauses amid crumbling stones to avoid falling, testing reflexes and spatial judgment as you ascend. Each level adds layers of complexity with shifting platforms demanding quick adaptation.\n\nKey Features\n\n• Precision jump timing  \n• Responsive tap controls  \n• Platform decay progression  \n• Increasing level difficulty  \n• Ancient temple climbing theme"
+},
+{
 "id": "monster-ball",
 "title": "Monster Ball Jumping",
 "iframe": "https://html5.gamedistribution.com/50d3acb8f39944bb8c67619f4982fe49/",

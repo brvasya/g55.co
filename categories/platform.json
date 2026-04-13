@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "super-neon-ball",
+"title": "Super Neon Ball Platformer",
+"iframe": "https://html5.gamedistribution.com/7451b2bb8d5547758d20fd622bbae746/",
+"description": "Navigate neon-lit platforms by controlling a glowing ball with precise jumps and momentum shifts. Players master timing and spatial awareness to overcome vibrant hazards and shifting levels, aiming to reach each stage’s end. The game features progressive difficulty through increasingly complex platform arrangements and introduces dynamic movement physics that challenge reflexes in a colorful digital world.\n\nKey Features\n\n• Momentum-based ball control  \n• Precision platforming challenges  \n• Progressive level difficulty  \n• Dynamic obstacle patterns  \n• Neon cyber-themed visuals"
+},
+{
+"id": "super-ball-dz",
+"title": "Super Ball DZ Platformer",
+"iframe": "https://html5.gamedistribution.com/727be9c7ddf6474c8efe6e5935b5662b/",
+"description": "Navigate moving platforms with precise ball control to avoid hazards and reach each stage’s goal. Players engage with momentum-based jumping mechanics blending timing and spatial awareness. Varied obstacle patterns test reflexes across increasingly tricky levels, creating a steady progression of challenge that suits casual players and younger audiences.\n\nKey Features\n\n• Momentum-driven ball control  \n• Precision platform navigation  \n• Gradual difficulty curve  \n• Timing-based obstacle patterns  \n• Minimalistic level design"
+},
+{
+"id": "tiles-hop-ball-master",
+"title": "Tiles Hop Ball Master Platformer",
+"iframe": "https://html5.gamedistribution.com/034e39d332ae4ce39e7af45465f5967e/",
+"description": "Hop across floating tiles with precise timing to keep the ball bouncing while navigating platform sequences. The game challenges you to maintain momentum over shifting surfaces through skillful jumps and controlled ball physics. Levels gradually increase in complexity, testing reflexes and timing in a vibrant, abstract environment designed for casual play.\n\nKey Features\n\n• Tile-based jumping mechanics  \n• Tap to control ball bounce  \n• Progressive platform difficulty  \n• Score tracking and replay mode  \n• Colorful minimalist visual style"
+},
+{
 "id": "roller-ball-x-bounce-ball",
 "title": "Roller Ball X: Bounce Ball Platform",
 "iframe": "https://html5.gamedistribution.com/5433c7bdb5cc4293a4dc258720d17ea3/",

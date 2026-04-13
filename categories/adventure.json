@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "super-heroes-ball",
+"title": "Super Heroes Ball Adventure",
+"iframe": "https://html5.gamedistribution.com/7e70abbf3be244649b594c3f72d97c13/",
+"description": "Navigate dynamic obstacle courses with a bouncing ball embodying superhero traits, leveraging precise timing to reach challenging checkpoints. Players control momentum and jumps to overcome vibrant levels filled with traps and platforms, aiming to complete stages while collecting unique power-ups.\n\nKey Features\n\n• Momentum-based ball physics  \n• Precise player jump control  \n• Progressive obstacle difficulty  \n• Collectible superhero abilities  \n• Colorful platform environments"
+},
+{
 "id": "dead-zone-adventure",
 "title": "Dead Zone Adventure",
 "iframe": "https://html5.gamemonetize.games/eg3buo91zqk0bjkikxvvapketbcop29i/",

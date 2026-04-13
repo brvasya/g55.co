@@ -1,6 +1,48 @@
 {
 "pages": [
 {
+"id": "throw-ball-in-the-hole",
+"title": "Throw Ball in the Hole Puzzle",
+"iframe": "https://html5.gamedistribution.com/d92e7e7417b54ff4a7fc6973e99950b2/",
+"description": "Launch colored balls with precise timing to land them into moving holes across increasingly complex puzzle layouts. Players must navigate obstacles and adjust trajectories using touch or mouse controls to complete levels. The game features physics-based motion challenges and gradually introduces new hole patterns and ball speeds to test aiming skills.\n\nKey Features\n\n• Physics-driven ball trajectory  \n• Precision timing controls  \n• Progressive hole pattern complexity  \n• Level-based puzzle progression  \n• Minimalistic geometric visuals"
+},
+{
+"id": "tappy-ball",
+"title": "Tappy Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/f0db7e7d0b5e46cdb3d77fdc5d0d1144/",
+"description": "Tap precise timing to launch balls and clear puzzle grids in this casual game. Each level challenges players to navigate obstacles by tapping to control ball drops and trigger chain reactions. Progression introduces increasing complexity with varied ball physics and scoring targets, inviting players to refine timing and strategic placement.\n\nKey Features\n\n• Tap-based ball release mechanic  \n• Timing-driven puzzle challenges  \n• Progressive difficulty levels  \n• Chain reaction scoring system  \n• Casual arcade puzzle setting"
+},
+{
+"id": "tap-tap-ball",
+"title": "Tap Tap Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/b93b21b6f69a4f4daec365e05b5a31bb/",
+"description": "Tap sequence matching balls to solve layered puzzles tests your timing and pattern recognition skills. Each level presents clustered ball groups requiring strategic taps to clear while managing limited moves. Progression unlocks increasingly intricate arrangements that demand sharper focus and dexterity for puzzle completion.\n\nKey Features\n\n• Sequential tap input mechanic  \n• Cluster clearing strategy control  \n• Move-limited puzzle challenges  \n• Stage-based difficulty scaling  \n• Color-coded ball grouping system"
+},
+{
+"id": "swipe-ball",
+"title": "Swipe Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/eaf79c1d4dcf454cb625ff7cd5aad29f/",
+"description": "Swipe tiles to navigate the sphere through increasingly complex puzzles, using precise swiping controls to match colors or patterns. Each level presents unique ball movement challenges and spatial reasoning tasks that test timing and strategy. Players progress by completing stages that demand careful manipulation within a minimalist puzzle environment.\n\nKey Features\n\n• Swipe-based ball navigation  \n• Precise tile movement controls  \n• Increasing puzzle complexity  \n• Stage progression system  \n• Minimalist puzzle design"
+},
+{
+"id": "super-brick-ball",
+"title": "Super Brick Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/a5a01a8849944e5a86cf44a32c6f4de9/",
+"description": "Match and clear colorful bricks by aiming ball shots with precision in a grid layout. The game revolves around a unique brick-breaking mechanic where strategic targeting influences the cascade of fallen bricks, challenging players to clear levels efficiently. Players encounter increasing brick toughness as they progress through puzzle stages designed for casual and young audiences.\n\nKey Features\n\n• Precision ball aiming controls  \n• Progressive brick durability system  \n• Chain reaction brick clearance  \n• Puzzle stage level design  \n• Casual arcade puzzle style"
+},
+{
+"id": "super-bouncing-ball",
+"title": "Super Bouncing Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/7ea337f570874322b84ff9f2ac59c638/",
+"description": "Bounce a ball through increasingly complex levels filled with platforms and obstacles using precise timing and angle control. Players manipulate momentum and surface interactions to navigate puzzles requiring careful planning and quick reflexes. The challenge ramps up with intricate layouts demanding skillful bounces to reach each level’s endpoint.\n\nKey Features\n\n• Momentum-based ball physics  \n• Angle and timing controls  \n• Progressive puzzle complexity  \n• Multi-surface bounce mechanics  \n• Casual arcade puzzle style"
+},
+{
+"id": "super-balls",
+"title": "Super Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/5de4c65d1f4f43d098cc700ff80b2db3/",
+"description": "Match and clear colorful balls by grouping three or more of the same color in a grid layout. Players trigger chain reactions through strategic ball swaps to solve increasingly complex puzzle arrangements. The game challenges players to think ahead as they manage limited moves and aim for high score combos.  \n\nKey Features\n\n• Color matching grid mechanic  \n• Swap-based ball movement  \n• Move-limited puzzle challenges  \n• Chain reaction combo system  \n• Vibrant ball color palette"
+},
+{
 "id": "unblock-the-ball",
 "title": "Unblock The Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/521498b757bb4256834c31e08361fcbd/",
