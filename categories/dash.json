@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "slope-ball",
+"title": "Slope Ball Dash",
+"iframe": "https://html5.gamedistribution.com/8591784201f445788946a1aaff65b11c/",
+"description": "Navigate a rolling ball through steep, twisting slopes where precise timing and careful control are critical to avoid falling off narrow pathways. The game uses gravity-based movement to challenge players as they dash through increasingly difficult levels filled with sharp turns and gaps. Fast reflexes and smooth adjustments provide the main challenge in this physics-driven arcade experience.\n\nKey Features\n\n• Gravity-based ball movement  \n• Responsive tilt and speed controls  \n• Increasingly complex slope layouts  \n• Time trial progression system  \n• Minimalist geometric visuals"
+},
+{
 "id": "geometry-missile",
 "title": "Geometry Missile Dash",
 "iframe": "https://html5.gamedistribution.com/4b8d5707d54e4c74b0cf631e7fff92db/",

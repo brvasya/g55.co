@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "speed-ball",
+"title": "Speed Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/10b8a4e663324d62909f6503304aaa89/",
+"description": "Match colorful balls by quickly swapping adjacent pieces to clear levels in Speed Ball Puzzle. Players manipulate a fast-paced tile grid, aiming to create chains of three or more identical balls to score points and advance through increasingly complex puzzles. Timing and pattern recognition challenge players as they progress through puzzle stages.\n\nKey Features\n\n• Fast-paced ball matching system  \n• Swap-based tile manipulation  \n• Increasing puzzle complexity  \n• Time-limited scoring mode  \n• Vivid color-themed grids"
+},
+{
+"id": "spartan-bouncing-ball",
+"title": "Spartan Bouncing Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/5ff5de1eb9864c159e271f4c0ffc1dfe/",
+"description": "Bounce the spartan ball through intricate puzzles that test timing and precision. Players manipulate the ball’s elastic movement to navigate obstacles and reach targets, advancing through increasingly complex levels. Levels feature varying layouts that challenge spatial reasoning, while subtle physics interactions add depth to each puzzle’s solution.\n\nKey Features\n\n• Elastic ball movement mechanic  \n• Precise timing-based controls  \n• Progressive puzzle complexity  \n• Level layouts with obstacles  \n• Minimalistic ancient warrior theme"
+},
+{
+"id": "slide-the-ball",
+"title": "Slide Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/d0579f9ea432481ba1f970fcadce1e21/",
+"description": "Slide numbered balls across interconnected pathways to clear puzzles by aligning them in sequential order. Players manipulate sliding blocks within a grid to create unblocked routes, requiring foresight and spatial reasoning. The game challenges players with increasingly complex layouts that test planning skills in a minimalist puzzle environment.\n\nKey Features\n\n• Sliding block route creation  \n• Sequential ball alignment mechanic  \n• Progressive puzzle difficulty  \n• Limited move challenge system  \n• Minimalist grid-based design"
+},
+{
 "id": "throw-ball-in-the-hole",
 "title": "Throw Ball in the Hole Puzzle",
 "iframe": "https://html5.gamedistribution.com/d92e7e7417b54ff4a7fc6973e99950b2/",
@@ -44,7 +62,7 @@
 },
 {
 "id": "unblock-the-ball",
-"title": "Unblock The Ball Puzzle",
+"title": "Unblock Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/521498b757bb4256834c31e08361fcbd/",
 "description": "Slide ball pieces on a grid to clear a path and free the trapped ball by unlocking movement blockers. Players interact with a spatial logic puzzle where sliding tiles shift entire rows or columns, requiring strategic planning to solve each increasingly complex layout. Levels introduce varying block types that restrict movement, creating layered challenges for casual players.\n\nKey Features\n\n• grid-based sliding mechanics  \n• intuitive drag control system  \n• progressive complexity stages  \n• multi-blocker puzzle obstacles  \n• minimalistic visual theme"
 },
@@ -392,7 +410,7 @@
 },
 {
 "id": "roll-the-ball-sliding-block-rolling-puzzle",
-"title": "Roll the Ball: Sliding Block Rolling Puzzle",
+"title": "Roll Ball: Sliding Block Rolling Puzzle",
 "iframe": "https://html5.gamemonetize.games/0hsnokbowvalz7f2wm95b2fjib42wx4y/",
 "description": "Slide tiles strategically to create a continuous path for the ball to roll from start to finish. This puzzle challenges players to rearrange blocks with sliding mechanics across increasingly complex grid layouts. Timed challenges and level progression add layers of difficulty as players unlock new boards. Suitable for casual gamers seeking spatial reasoning tests.\n\nKey Features\n\n• Sliding block rearrangement  \n• Continuous path creation  \n• Increasing puzzle complexity  \n• Timed challenge modes  \n• Grid-based level progression"
 },
@@ -632,7 +650,7 @@
 },
 {
 "id": "move-the-block-slide-puzzle",
-"title": "Move the Block: Slide Puzzle",
+"title": "Move Block: Slide Puzzle",
 "iframe": "https://html5.gamemonetize.games/ir6ncp9xvdkwgpqp1zjdqwsu85h2szyb/",
 "description": "Slide blocks within a confined grid to create clear paths and align pieces by moving one tile at a time. The puzzle challenges spatial reasoning as players strategically shift block positions to unlock the next board. Progression increases in complexity with tighter spaces and limited moves, keeping engagement fresh for casual players.\n\nKey Features\n\n• Sequential tile sliding mechanic  \n• Click and drag block controls  \n• Increasing puzzle complexity  \n• Time-based challenge mode  \n• Minimalist grid visual style"
 },
@@ -2732,7 +2750,7 @@
 },
 {
 "id": "rotate-the-circle-puzzle",
-"title": "Rotate The Circle Puzzle",
+"title": "Rotate Circle Puzzle",
 "iframe": "https://html5.gamemonetize.games/h4n4n6nblg1vpwno23tvmyuh36qp8c1c/",
 "description": "Rotate shapes strategically to align colored segments in this circular puzzle, challenging spatial reasoning. Players manipulate rings to synchronize patterns, advancing through increasingly complex compositions. The gameplay centers on precise rotation mechanics and pattern matching within a minimalist setting, aiming to complete each level by fully aligning all circle segments.\n\nKey Features\n\n• Ring rotation pattern matching  \n• Touch and drag ring controls  \n• Progressive level difficulty scaling  \n• Timed challenge modes  \n• Minimalist geometric visuals"
 },

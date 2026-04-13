@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "slime-ball",
+"title": "Slime Ball Pixel",
+"iframe": "https://html5.gamedistribution.com/e9a0509988db4c9e84638d131189ee5a/",
+"description": "Control a bouncing slime orb navigating pixelated obstacles while absorbing smaller blobs to grow larger and survive increasingly complex stages. The core mechanic revolves around precise timing and trajectory control within a colorful pixel environment. Players face the challenge of balancing growth and maneuverability to clear progressive levels packed with shifting hazards.\n\nKey Features\n\n• Physics-based slime bouncing  \n• Orb size growth system  \n• Obstacle avoidance gameplay  \n• Level progression with hazards  \n• Pixel art visual style"
+},
+{
 "id": "the-radioactive-ball",
 "title": "The Radioactive Ball Pixel",
 "iframe": "https://html5.gamedistribution.com/ab460f74653b4a8ca333b9ec6caff953/",

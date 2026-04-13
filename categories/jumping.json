@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "spike-and-ball",
+"title": "Spike and Ball Jumping",
+"iframe": "https://html5.gamedistribution.com/cd99022f55f2467fb52c7f3b506aa158/",
+"description": "Jump across rotating spikes and unstable platforms while timing each leap precisely to avoid falling or hitting obstacles. This skill-based jumping game challenges players to maintain momentum and spatial awareness through incrementally difficult stages with shifting hazards. The objective is to survive as long as possible, testing reflexes and coordination in a minimalistic yet tense environment.\n\nKey Features\n\n• Precision timing jump controls  \n• Rotating spike obstacle patterns  \n• Progressive difficulty stages  \n• Momentum-based platform movement  \n• Minimalist hazard avoidance system"
+},
+{
+"id": "sky-ball",
+"title": "Sky Ball Jumping",
+"iframe": "https://html5.gamedistribution.com/63b6c4f04866441280967240df02e6ec/",
+"description": "Leap through floating platforms to navigate challenging obstacles in this vertical jumping game. Players time their jumps carefully to land safely and ascend higher, balancing precision and momentum. The game features dynamic platform spacing that tests reflex and planning, with escalating difficulty to maintain engagement for casual gamers and younger players.\n\nKey Features\n\n• Precision jump timing mechanic  \n• Platform sequence navigation  \n• Increasing level difficulty scaling  \n• Momentum-based movement control  \n• Vertical skybound platform theme"
+},
+{
 "id": "temple-ball",
 "title": "Temple Ball Jumping",
 "iframe": "https://html5.gamedistribution.com/087d296e534a4bdaae09eb79dbf336e5/",

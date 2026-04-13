@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "sliding-ball",
+"title": "Sliding Ball Clicker",
+"iframe": "https://html5.gamedistribution.com/2e3c216885c34df4bb13ae9eb5e95a04/",
+"description": "Slide and tap to control the ball's movement across shifting paths, focusing on precise timing and positioning in this clicker game. Players accumulate points by managing sliding mechanics that blend with incremental upgrades. Progression comes through mastering ball control and unlocking new challenges as the sliding paths become increasingly complex.\n\nKey Features\n\n• Sliding movement precision control  \n• Incremental resource collection system  \n• Timed click input mechanics  \n• Progressive path complexity levels  \n• Minimalist abstract visual style"
+},
+{
 "id": "squid-clicker-game-2",
 "title": "Squid Clicker Game 2",
 "iframe": "https://html5.gamemonetize.games/e355f2bwx95nl2chh62wtg00ulvydcuo/",

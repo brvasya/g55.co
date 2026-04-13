@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "smiley-ball",
+"title": "Smiley Ball Adventure",
+"iframe": "https://html5.gamedistribution.com/fa1c49919dbf49c8b8b342fb031c78e5/",
+"description": "Guide a rolling smiley ball through vibrant obstacle courses using precise momentum control and timed jumps. The game challenges players to navigate shifting platforms and hazards with finesse, requiring strategic movement and quick reactions to advance through increasingly complex stages.\n\nKey Features\n\n• Momentum-based ball rolling  \n• Precision jump timing controls  \n• Progressive obstacle difficulty  \n• Time trial challenge mode  \n• Colorful platform puzzle design"
+},
+{
 "id": "super-heroes-ball",
 "title": "Super Heroes Ball Adventure",
 "iframe": "https://html5.gamedistribution.com/7e70abbf3be244649b594c3f72d97c13/",
