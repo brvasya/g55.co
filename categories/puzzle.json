@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "smart-pin-ball",
+"title": "Smart Pin Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/d4085cfa133747689fbe5432de741f10/",
+"description": "Solve complex ball trajectory puzzles by strategically triggering pinball elements to clear all targets in compact, puzzle-oriented arenas. Timing precise flipper activations and chain reactions is key to advancing through increasingly challenging levels designed for casual and younger players. Each stage introduces new obstacle layouts that require thoughtful manipulation of ball momentum and angles to achieve optimal clearance.\n\nKey Features\n\n• Pinball element activation mechanics  \n• Timing-based flipper control  \n• Progressive obstacle complexity  \n• Level-based puzzle progression  \n• Casual arcade puzzle atmosphere"
+},
+{
+"id": "sand-balls",
+"title": "Sand Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/4e41d5619e4b490a9f7d12b83b90490d/",
+"description": "Dig holes through sand by carving paths that guide rolling balls to their target zones with strategic precision. The core mechanic involves shaping tunnels to direct physics-driven spheres, testing spatial reasoning through escalating puzzle layouts. Players must balance quick planning and timing to collect bonuses while navigating gravity and obstacle placements.\n\nKey Features\n\n• Terrain digging and path carving  \n• Gravity-influenced ball rolling  \n• Progressive puzzle complexity  \n• Bonus collection challenges  \n• Casual sandbox environment"
+},
+{
+"id": "sand-balls-2",
+"title": "Sand Balls 2 Puzzle",
+"iframe": "https://html5.gamedistribution.com/ddb2229101204b29989db6f14f96d3b0/",
+"description": "Dig tunnels by drawing paths through the sand to guide rolling balls into a container in this physics-based puzzle challenge. Players must carefully carve routes to avoid obstacles and optimize flow, progressing through increasingly complex levels that require precision and timing. Subtle environmental changes and varied ball shapes add depth to the digging mechanic.\n\nKey Features\n\n• Path drawing tunnel mechanic  \n• Physics-based rolling ball control  \n• Increasing puzzle complexity progression  \n• Obstacle avoidance challenges  \n• Varied sand terrain environments"
+},
+{
+"id": "roll-this-ball",
+"title": "Roll This Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/947256382ecf43618b79e560c4d098d0/",
+"description": "Slide numbered tiles across a grid to create a continuous path for a rolling ball, using strategic spatial reasoning to clear levels. Players manipulate tile arrangements in a timing-based puzzle progression that challenges planning and quick problem solving. Each stage introduces new layouts to test pattern recognition and path construction skills.\n\nKey Features\n\n• Tile sliding path creation  \n• Timing-based ball movement control  \n• Increasing difficulty level design  \n• Puzzle unlocking progression system  \n• Minimalistic grid environment"
+},
+{
 "id": "speed-ball",
 "title": "Speed Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/10b8a4e663324d62909f6503304aaa89/",
