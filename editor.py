@@ -464,29 +464,6 @@ class JsonGui(tk.Tk):
 
         ttk.Button(search, text="Find", command=self.search_current_field).grid(row=1, column=2, sticky="e")
 
-        movef = ttk.LabelFrame(right, text="Move to category", padding=10)
-        movef.pack(fill="x", pady=(10, 0))
-
-        ttk.Label(movef, text="Target file").grid(row=0, column=0, sticky="w")
-
-        self.move_file_var = tk.StringVar(value="")
-        self.move_combo = ttk.Combobox(
-            movef,
-            textvariable=self.move_file_var,
-            values=[],
-            state="readonly",
-            width=40,
-        )
-        self.move_combo.grid(row=1, column=0, sticky="we", padx=(0, 6))
-        self.move_btn = ttk.Button(movef, text="Move", command=self.move_selected_page)
-        self.move_btn.grid(row=1, column=1, sticky="e")
-        self.move_unmatched_btn = ttk.Button(
-            movef,
-            text="Move all unmatched to casual",
-            command=self.move_all_unmatched_to_casual
-        )
-        self.move_unmatched_btn.grid(row=2, column=0, columnspan=2, sticky="we", pady=(8, 0))
-
         ttk.Label(right, textvariable=self.status_var).pack(anchor="w", pady=(10, 0))
 
         form.columnconfigure(0, weight=1)
@@ -552,8 +529,6 @@ class JsonGui(tk.Tk):
             self.desc_text.grid()
             self.search_field_combo["values"] = ["title"]
             self.search_field_var.set("title")
-            self.move_btn.state(["disabled"])
-            self.move_unmatched_btn.state(["disabled"])
         else:
             self.name_title_label.config(text="Title")
             self.iframe_label.grid()
@@ -564,8 +539,6 @@ class JsonGui(tk.Tk):
             self.search_field_combo["values"] = ["title", "iframe"]
             if self.search_field_var.get().strip().lower() not in {"title", "iframe"}:
                 self.search_field_var.set("title")
-            self.move_btn.state(["!disabled"])
-            self.move_unmatched_btn.state(["!disabled"])
         self.reset_search_state()
 
     def update_page_match_status(self, prefix: str = ""):
@@ -663,7 +636,6 @@ class JsonGui(tk.Tk):
             self.file_var.set(os.path.basename(self.current_file))
             self.refresh_list()
             self.new_template()
-            self.update_move_dropdown()
             self.update_mode_ui()
             self.update_page_match_status("Loaded")
         except Exception as e:
@@ -824,22 +796,6 @@ class JsonGui(tk.Tk):
             f"Found {len(self.search_matches)} match(es) in {search_field}   Showing {self.search_pos + 1}/{len(self.search_matches)}"
         )
 
-    def update_move_dropdown(self):
-        if not hasattr(self, "move_combo"):
-            return
-        if not self.files or not self.current_file or self.is_root_categories_mode():
-            self.move_combo["values"] = []
-            self.move_file_var.set("")
-            return
-
-        current_name = os.path.basename(self.current_file)
-        choices = [f for f in self.files if f != current_name and f != "categories.json"]
-        self.move_combo["values"] = choices
-
-        cur = self.move_file_var.get().strip()
-        if cur not in choices:
-            self.move_file_var.set(choices[0] if choices else "")
-
     def move_selected_to_top(self):
         if self.selected_index is None:
             messagebox.showwarning("Nothing selected", "Select an item to move to the top.")
@@ -865,141 +821,6 @@ class JsonGui(tk.Tk):
             self.update_page_match_status("Moved category to top and auto saved")
         else:
             self.update_page_match_status("Moved page to top and auto saved")
-
-    def move_selected_page(self):
-        if self.is_root_categories_mode():
-            return
-
-        if not self.current_file:
-            messagebox.showwarning("No file", "Select a category file first.")
-            return
-        if self.selected_index is None:
-            messagebox.showwarning("Nothing selected", "Select a page to move.")
-            return
-
-        target_name = self.move_file_var.get().strip()
-        if not target_name:
-            messagebox.showwarning("No target", "Choose a target category file.")
-            return
-
-        current_name = os.path.basename(self.current_file)
-        if target_name == current_name:
-            messagebox.showwarning("Same target", "Target file is the same as the current file.")
-            return
-
-        target_path = os.path.join(CATEGORIES_DIR, target_name)
-
-        page = self.items[self.selected_index]
-        page_id = str(page.get("id", "")).strip()
-        if not page_id:
-            messagebox.showwarning("Missing id", "Selected page has no id.")
-            return
-
-        try:
-            target_pages, target_wrapper, target_mode = load_json_file(target_path)
-
-            for it in target_pages:
-                if str(it.get("id", "")).strip() == page_id:
-                    messagebox.showerror("Duplicate id", f"Target file already contains id:\n{page_id}")
-                    return
-
-            target_pages.insert(0, page)
-            save_json_file(target_path, target_pages, target_wrapper, target_mode)
-
-            del self.items[self.selected_index]
-            self.selected_index = None
-            save_json_file(self.current_file, self.items, self.wrapper, self.mode)
-
-            self.refresh_list()
-            self.new_template()
-            self.update_move_dropdown()
-            self.update_page_match_status(f"Moved id {page_id} to {target_name}")
-            messagebox.showinfo("Moved", f"Moved:\n{page_id}\n\nTo:\n{target_name}")
-        except Exception as e:
-            messagebox.showerror("Move failed", f"Could not move page:\n{e}")
-            self.set_status("Move failed")
-
-    def move_all_unmatched_to_casual(self):
-        if self.is_root_categories_mode():
-            return
-
-        if not self.current_file:
-            messagebox.showwarning("No file", "Select a category file first.")
-            return
-
-        current_name = os.path.basename(self.current_file)
-        if current_name.lower() == "casual.json":
-            messagebox.showwarning("Already casual", "You are already viewing casual.json.")
-            return
-
-        casual_path = os.path.join(CATEGORIES_DIR, "casual.json")
-        if not os.path.isfile(casual_path):
-            messagebox.showerror("Missing casual.json", f"Could not find:\n{casual_path}")
-            return
-
-        keyword = category_keyword_from_filename(current_name)
-        unmatched_indexes = [
-            idx for idx, it in enumerate(self.items)
-            if not title_matches_keyword(it.get("title", ""), keyword)
-        ]
-
-        if not unmatched_indexes:
-            messagebox.showinfo("Nothing to move", "No unmatched pages found in the current category.")
-            return
-
-        if not messagebox.askyesno(
-            "Move all unmatched",
-            f"Move {len(unmatched_indexes)} unmatched page(s) from\n{current_name}\n\nto\ncasual.json?"
-        ):
-            return
-
-        try:
-            casual_pages, casual_wrapper, casual_mode = load_json_file(casual_path)
-            existing_ids = {str(it.get("id", "")).strip() for it in casual_pages if str(it.get("id", "")).strip()}
-
-            pages_to_move = []
-            duplicate_count = 0
-
-            for idx in unmatched_indexes:
-                page = self.items[idx]
-                page_id = str(page.get("id", "")).strip()
-
-                if page_id and page_id in existing_ids:
-                    duplicate_count += 1
-                    continue
-
-                pages_to_move.append(page)
-                if page_id:
-                    existing_ids.add(page_id)
-
-            if not pages_to_move:
-                messagebox.showinfo(
-                    "Nothing moved",
-                    f"All unmatched pages were skipped because their ids already exist in casual.json.\n\nSkipped duplicates: {duplicate_count}"
-                )
-                return
-
-            casual_pages = pages_to_move + casual_pages
-            save_json_file(casual_path, casual_pages, casual_wrapper, casual_mode)
-
-            moved_ids = {id(page) for page in pages_to_move}
-            self.items = [page for page in self.items if id(page) not in moved_ids]
-            self.selected_index = None
-            save_json_file(self.current_file, self.items, self.wrapper, self.mode)
-
-            self.refresh_list()
-            self.new_template()
-            self.update_move_dropdown()
-            self.update_page_match_status(f"Moved {len(pages_to_move)} unmatched to casual.json")
-
-            msg = f"Moved: {len(pages_to_move)} unmatched page(s) to casual.json"
-            if duplicate_count:
-                msg += f"\nSkipped duplicate ids: {duplicate_count}"
-            messagebox.showinfo("Done", msg)
-
-        except Exception as e:
-            messagebox.showerror("Move failed", f"Could not move unmatched pages:\n{e}")
-            self.set_status("Move failed")
 
     def build_game_description_rule(self, game_title: str, category: str) -> str:
         return f"""
