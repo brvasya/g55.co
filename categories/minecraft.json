@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "minecraft-diamond-miner",
+"title": "Minecraft Diamond Miner",
+"iframe": "https://html5.g55.co/minecraft-diamond-miner/",
+"description": "Dig through pixelated layers to uncover rare diamonds using an intuitive mining interface that challenges your timing and resource management. Players maneuver mining tools strategically to extract precious gems while managing the durability of their equipment. Progression involves upgrading gear to delve deeper into increasingly complex cave systems filled with valuable materials.\n\nKey Features\n\n• Tool durability management  \n• Precision mining controls  \n• Upgrade-based gear progression  \n• Depth-based level challenges  \n• Pixel art ore vein layout"
+},
+{
 "id": "minecraft-creeper-escape",
 "title": "Minecraft Creeper Escape",
 "iframe": "https://html5.g55.co/minecraft-creeper-escape/",
