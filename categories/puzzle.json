@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "slinger-block",
+"title": "Slinger Block Puzzle",
+"iframe": "https://html5.gamedistribution.com/9258db94e74a4c979dcfa1d4e5bc57e5/",
+"description": "Slide and arrange geometric blocks on a compact grid to fit shapes perfectly and clear lines in this puzzle experience. The core mechanic revolves around spatial placement of distinct block pieces, challenging players to manage limited space efficiently. Players aim to maintain a clutter-free board while progressing through increasingly complex layouts. Pattern recognition and strategic positioning are key to mastering the gameplay.\n\nKey Features\n\n• Spatial block placement mechanic  \n• Drag-and-drop puzzle controls  \n• Increasing grid challenge levels  \n• Score tracking and line clearing  \n• Minimalist visual theme"
+},
+{
 "id": "home-block-story",
 "title": "Home Block Story Puzzle",
 "iframe": "https://html5.gamedistribution.com/f32dfc95b9054cccbd6b187f9596e220/",

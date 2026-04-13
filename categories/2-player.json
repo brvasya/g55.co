@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "slicer-duo",
+"title": "Slicer Duo 2 Player",
+"iframe": "https://html5.gamedistribution.com/4aefd2cd9aba4cae8c1e839dedfccadd/",
+"description": "Slice precise shapes quickly in a fast-paced challenge where two players compete side by side on a shared board. The core mechanic involves splitting polygons with swipes, testing accuracy and timing under pressure. Players aim to outscore their opponent by cutting larger sections, with escalating difficulty adding complexity to each round.\n\nKey Features\n\n• Real-time slicing competition  \n• Two-player shared screen controls  \n• Increasing polygon complexity  \n• Round-based score tracking  \n• Minimalistic geometric visuals"
+},
+{
 "id": "squid-obby-game-2player",
 "title": "Squid Obby Game 2 Player",
 "iframe": "https://html5.gamemonetize.games/tjw1x8uvaxn755yvq8w5458o0j9iwaea/",

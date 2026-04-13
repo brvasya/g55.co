@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "monster-ball",
+"title": "Monster Ball Jumping",
+"iframe": "https://html5.gamedistribution.com/50d3acb8f39944bb8c67619f4982fe49/",
+"description": "Launch a bouncing monster ball through increasingly tricky platforms while mastering timed jumps and momentum control. Players navigate vibrant, floating islands that test precision and reflexes as they aim to reach higher elevations without falling. The challenge escalates with varied platform patterns and spacing, encouraging adaptability and quick decision-making in each level.\n\nKey Features\n\n• momentum-based jump timing  \n• precision platform navigation  \n• escalating platform difficulty  \n• cumulative height scoring system  \n• colorful floating island environments"
+},
+{
 "id": "pool-diving-extreme",
 "title": "Jumping Pool Diving Extreme",
 "iframe": "https://html5.gamedistribution.com/29a141b3e9e24977943b78a4ed1c5c33/",
