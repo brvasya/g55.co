@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "paint-island",
+"title": "Paint Island 3D",
+"iframe": "https://html5.gamedistribution.com/523a80e5d1364359b8b5b58829149e9e/",
+"description": "Manipulate colors with precise 3D painting controls to customize island environments, applying intricate brush strokes over complex shapes. Players explore spatial artistry by transforming diverse island models, aiming to complete vivid designs with layered textures and smooth gradients. Vary brush sizes and effects to achieve detailed visual results in a relaxed creative setting.\n\nKey Features\n\n• 3D spatial painting mechanics  \n• Brush size and effect controls  \n• Layered texture application  \n• Progressive island model complexity  \n• Casual creative environment"
+},
+{
 "id": "zigzag-ball",
 "title": "Zigzag Ball 3D",
 "iframe": "https://html5.gamedistribution.com/16e251558278411fa16de8a0cda87e56/",

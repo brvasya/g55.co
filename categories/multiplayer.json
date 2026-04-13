@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "push-my-chair",
+"title": "Push My Chair Multiplayer",
+"iframe": "https://html5.gamedistribution.com/7249a2e0739142c39d1ec9646852baea/",
+"description": "Push characters across dynamic platforms in a competitive multiplayer arena where timing and positioning dictate success. Players engage in chaotic chair-pushing battles that test reflexes and tactical movement while interacting with physics-based environments. Each round challenges participants to outmaneuver opponents and avoid falling hazards to claim victory.\n\nKey Features\n\n• Physics-driven pushing mechanic  \n• Real-time competitive multiplayer  \n• Reactive platform hazards  \n• Player positioning strategy  \n• Casual arena layout"
+},
+{
+"id": "dig-this",
+"title": "Dig This Multiplayer",
+"iframe": "https://html5.gamedistribution.com/7d1f5e3de6a5457da0a1782ea3a02a95/",
+"description": "Compete in fast-paced multiplayer matches where you coordinate digging and construction efforts in shared arenas. Navigate dynamic terrain while strategically managing resources and positioning to outmaneuver opponents in real time. The game challenges players on teamwork and timing as they alter landscapes to achieve victory through collaborative or competitive digging.\n\nKey Features\n\n• Real-time multiplayer arena battles  \n• Coordinated digging and building mechanics  \n• Resource management under pressure  \n• Tactical terrain modification system  \n• Casual competitive gameplay for teens and kids"
+},
+{
 "id": "blocky-siege",
 "title": "Blocky Siege Multiplayer",
 "iframe": "https://html5.gamemonetize.games/udk0fqa59dkuxfajhd8hhfpxs1d1wsxu/",

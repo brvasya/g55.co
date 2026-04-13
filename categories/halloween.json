@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "the-dandy",
+"title": "The Dandy Halloween",
+"iframe": "https://html5.gamedistribution.com/51e9c8c448f24541848ac3e4afe44201/",
+"description": "Launch your character through thematic Halloween levels, dodging spooky obstacles as you master precise timing and platform movement. This casual game challenges players to navigate eerie environments filled with seasonal traps while aiming to collect candies and boost their score. Progression relies on sharp reflexes and level mastery in a festive setting.\n\nKey Features\n\n• Timing-based platform navigation  \n• Obstacle avoidance mechanics  \n• Progressive difficulty scaling  \n• Candy collection scoring system  \n• Halloween-themed level design"
+},
+{
 "id": "fnaf-strike-halloween",
 "title": "FNAF Strike Halloween",
 "iframe": "https://html5.gamemonetize.games/ku4cdozc5yihzx014dvug9m9ndifnd3x/",

@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "raccoon-retail",
+"title": "Raccoon Retail Idle",
+"iframe": "https://html5.gamedistribution.com/9c05503261bb4bf1968e7298d3e630e3/",
+"description": "Manage and upgrade a growing store by automating sales and resource collection in a charming idle retail setting. Players optimize cashier stations and stock inventory to increase profits and expand their shop’s reach. Strategic placement and timed upgrades provide a gradual progression to maximize efficiency and unlock new kinds of merchandise.\n\nKey Features\n\n• Automated sales and resource collection  \n• Cashier and inventory management  \n• Incremental upgrade system  \n• Store expansion mechanics  \n• Casual retail environment"
+},
+{
+"id": "my-mini-city",
+"title": "My Mini City Idle",
+"iframe": "https://html5.gamedistribution.com/a6671a7c32944f358e62395c927eea53/",
+"description": "Build and expand a small town by managing resources and constructing various buildings in this idle strategy experience. Progression revolves around strategically upgrading structures to increase income while balancing limited space and unlocking new development options. The game invites players to optimize early growth through incremental investments and city planning.\n\nKey Features\n\n• Incremental building upgrade system  \n• Resource management mechanics  \n• Space optimization challenges  \n• Automated income generation  \n• Casual city expansion theme"
+},
+{
+"id": "mini-monkey-mart",
+"title": "Mini Monkey Mart Idle",
+"iframe": "https://html5.gamedistribution.com/95af225195074e43910108fd0383c42c/",
+"description": "Manage and expand a tropical convenience store by directing Mini Monkey staff to serve customers and restock shelves efficiently in an idle retail simulation. Players balance resource allocation and upgrade shop features to grow profits and unlock new merchandise categories in this charming market setting.\n\nKey Features\n\n• Staff task automation system  \n• Resource allocation and upgrades  \n• Incremental profit scaling  \n• Customer satisfaction mechanics  \n• Tropical market environment"
+},
+{
 "id": "my-arcade-center-2",
 "title": "My Arcade Center 2 Idle",
 "iframe": "https://html5.gamedistribution.com/54aca2f7503041c0bd97e74d7e316a67/",

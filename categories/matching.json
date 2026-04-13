@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "butterfly-shimai",
+"title": "Butterfly Shimai Matching",
+"iframe": "https://html5.gamedistribution.com/4b3fb2d93d7941818c81f42624bb7ea8/",
+"description": "Match colorful butterfly wings by swapping tiles to clear the board layer by layer in this puzzle game. Players must strategically identify and connect matching pairs based on visually detailed patterns to remove them and progress through increasing grid complexity. Time limits and limited moves add tension to the classic tile matching objective, encouraging thoughtful planning.\n\nKey Features\n\n• Tile swapping mechanic  \n• Pattern recognition matching  \n• Progressive grid layouts  \n• Move and time constraints  \n• Butterfly wing visual theme"
+},
+{
 "id": "sokomatch",
 "title": "Soko Match",
 "iframe": "https://html5.gamemonetize.games/r4in7whqj17v1j0om49i6os2p2dng6z7/",
