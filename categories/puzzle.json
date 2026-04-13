@@ -1,6 +1,60 @@
 {
 "pages": [
 {
+"id": "zig-zag-ball",
+"title": "Zig Zag Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/e576d7aea1044931b5355ad948c90e66/",
+"description": "Navigate a bouncing ball through twisting paths by precisely timing your taps to change direction in this puzzle challenge. Each level introduces sharper zig zag turns that test your reflexes and coordination. The aim is to guide the ball without falling off edges, gradually increasing in difficulty as new pathway patterns appear.\n\nKey Features\n\n• Tap based direction shifting  \n• Increasingly complex zig zag routes  \n• Edge avoidance challenge  \n• Progression through multiple puzzle stages  \n• Minimalist geometric visual style"
+},
+{
+"id": "yellow-balls",
+"title": "Yellow Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/dec8423b8c5d422a9b9612854fb000b7/",
+"description": "Solve colorful ball matching puzzles by strategically connecting yellow balls on a grid. Players drag lines to link clusters while navigating spatial constraints to clear levels. The puzzle shifts as players unlock new patterns and face increasingly complex arrangements, making each stage a test of planning and pattern recognition.\n\nKey Features\n\n• Line drawing connection mechanic  \n• Grid-based spatial puzzle layout  \n• Progressive pattern unlocking system  \n• Increasing level complexity scaling  \n• Color matching cluster challenges"
+},
+{
+"id": "yellow-ball",
+"title": "Yellow Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/d6bba51a2c9c477e843452177c08e06e/",
+"description": "Slide the yellow ball through increasingly complex mazes using precise swipe controls to navigate narrow pathways and avoid pitfalls. This physics-based puzzle challenges players to master momentum and angle adjustments to reach the exit in each level. The game features a gradual difficulty curve that introduces new obstacles and moving platforms along the way.\n\nKey Features\n\n• Physics-based ball movement  \n• Swipe gesture navigation  \n• Maze obstacle avoidance  \n• Progressive level complexity  \n• Vibrant minimalistic visual style"
+},
+{
+"id": "xtreme-roll-ball-zigzag",
+"title": "Xtreme Roll Ball ZigZag Puzzle",
+"iframe": "https://html5.gamedistribution.com/af6c922e6a1d42da96408634ddae5e08/",
+"description": "Navigate a rolling ball along twisting zigzag paths by timing precise turns to avoid falling. The core mechanic revolves around quick reflexes to maintain balance and momentum as the path narrows and curves unpredictably. Players aim to reach the highest possible score by surviving increasingly challenging sequences of angled platforms. Simple controls keep the focus on sharp responses and path accuracy.\n\nKey Features\n\n• Swipe timing for directional control  \n• Progressive zigzag path difficulty  \n• Survival-based scoring system  \n• Responsive tilt and roll physics  \n• Minimalist geometric visual style"
+},
+{
+"id": "x-to-y-almost-impossible",
+"title": "X to Y: Almost Impossible Puzzle",
+"iframe": "https://html5.gamedistribution.com/0e26b95603a14b378612f60bfe7069df/",
+"description": "Navigate through challenging numerical sequences by adjusting values incrementally in a grid-based setup. The core mechanic revolves around precise puzzle-solving with limited moves, demanding logical reasoning to align numbers from X to Y. Each stage impresses with intricate steps requiring careful planning to unlock the almost impossible solution.\n\nKey Features\n\n• Incremental number adjustment mechanics  \n• Grid-based puzzle navigation  \n• Limited move strategic challenges  \n• Progressive difficulty scaling  \n• Minimalist numeric visual design"
+},
+{
+"id": "wall-ball",
+"title": "Wall Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/125a14c4753e4e7488575633411af4bb/",
+"description": "Tap to launch balls strategically against cluster walls, aiming to clear all blocks by matching their durability in this physics-based puzzle challenge. Players manipulate aiming angles and power across increasing levels that test precision and planning. Timing and trajectory adjustments form the core gameplay loop as block patterns evolve with each stage.\n\nKey Features\n\n• Angle-based ball launching  \n• Block durability matching  \n• Level progression with varied patterns  \n• Trajectory adjustment mechanic  \n• Casual puzzle with arcade style"
+},
+{
+"id": "unroll-ball",
+"title": "Unroll Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/118bf483734549089d059105cf2600a1/",
+"description": "Manipulate a rolling ball through intricate pathways by skillfully unfolding connected segments to clear each level. The puzzle challenges spatial reasoning as players strategically unroll pathways to navigate the ball toward designated targets. Progression introduces increasingly complex layouts that test timing and planning, with diverse obstacles integrated into the mechanic.\n\nKey Features\n\n• Path unrolling puzzle mechanic  \n• Directional control of ball movement  \n• Gradual complexity in level design  \n• Time-based scoring system  \n• Minimalist abstract visual style"
+},
+{
+"id": "monster-iron-ball",
+"title": "Monster Iron Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/467599dd5c3644d1bdf5af959524d682/",
+"description": "Manipulate a giant iron ball through intricate puzzle stages using precise timing and spatial reasoning. Players navigate rotating platforms and obstacles that require careful planning to progress through increasingly challenging levels, testing patience and strategic movement to clear each puzzle.\n\nKey Features\n\n• physics-based ball movement  \n• rotating platform navigation  \n• timing and spatial puzzles  \n• progressive difficulty stages  \n• mechanical-themed puzzle design"
+},
+{
+"id": "flashing-square",
+"title": "Flashing Square Puzzle",
+"iframe": "https://html5.gamedistribution.com/dcdd84cf252949b1a004654b52ca9721/",
+"description": "Match flashing colored squares in a timed grid puzzle that tests your reaction speed and pattern recognition. Players must quickly identify and select combinations before the timer runs out, challenging multitasking skills through increasingly complex flashing patterns. The game focuses on dynamic reflex-based matching with escalating difficulty levels designed for casual players.\n\nKey Features\n\n• Timed pattern matching mechanic  \n• Rapid tile selection controls  \n• Increasing puzzle complexity  \n• Reflex challenge progression  \n• Color-based visual design"
+},
+{
 "id": "slinger-block",
 "title": "Slinger Block Puzzle",
 "iframe": "https://html5.gamedistribution.com/9258db94e74a4c979dcfa1d4e5bc57e5/",
