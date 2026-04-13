@@ -337,6 +337,7 @@ class JsonGui(tk.Tk):
         self.search_matches = []
         self.search_pos = -1
         self.last_search_query = ""
+        self.last_search_field = "title"
 
         self.files = list_all_editable_files()
 
@@ -441,15 +442,27 @@ class JsonGui(tk.Tk):
         ttk.Button(btn_row, text="Generate Desc", command=self.generate_description_with_openai).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Batch Generate Missing", command=self.batch_generate_missing_descriptions).pack(side="left", padx=6)
 
-        search = ttk.LabelFrame(right, text="Find by title", padding=10)
+        search = ttk.LabelFrame(right, text="Find", padding=10)
         search.pack(fill="x", pady=(10, 0))
 
-        ttk.Label(search, text="Title").grid(row=0, column=0, sticky="w")
+        ttk.Label(search, text="Query").grid(row=0, column=0, sticky="w")
         self.search_title_var = tk.StringVar()
         search_entry = ttk.Entry(search, textvariable=self.search_title_var, width=36)
         search_entry.grid(row=1, column=0, sticky="we", padx=(0, 6))
-        search_entry.bind("<Return>", lambda e: self.search_by_title())
-        ttk.Button(search, text="Find", command=self.search_by_title).grid(row=1, column=1, sticky="e")
+        search_entry.bind("<Return>", lambda e: self.search_current_field())
+
+        self.search_field_var = tk.StringVar(value="title")
+        self.search_field_combo = ttk.Combobox(
+            search,
+            textvariable=self.search_field_var,
+            values=["title", "iframe"],
+            state="readonly",
+            width=10,
+        )
+        self.search_field_combo.grid(row=1, column=1, sticky="e", padx=(0, 6))
+        self.search_field_combo.bind("<<ComboboxSelected>>", lambda e: self.reset_search_state())
+
+        ttk.Button(search, text="Find", command=self.search_current_field).grid(row=1, column=2, sticky="e")
 
         movef = ttk.LabelFrame(right, text="Move to category", padding=10)
         movef.pack(fill="x", pady=(10, 0))
@@ -477,6 +490,7 @@ class JsonGui(tk.Tk):
         ttk.Label(right, textvariable=self.status_var).pack(anchor="w", pady=(10, 0))
 
         form.columnconfigure(0, weight=1)
+        search.columnconfigure(0, weight=1)
 
         self.refresh_category_list()
         self.set_status("Ready")
@@ -485,6 +499,12 @@ class JsonGui(tk.Tk):
 
     def set_status(self, text: str):
         self.status_var.set(text)
+
+    def reset_search_state(self):
+        self.search_matches = []
+        self.search_pos = -1
+        self.last_search_query = ""
+        self.last_search_field = self.search_field_var.get().strip().lower() or "title"
 
     def copy_title(self):
         value = self.title_var.get().strip()
@@ -530,6 +550,8 @@ class JsonGui(tk.Tk):
             self.open_iframe_btn.grid_remove()
             self.desc_label.grid()
             self.desc_text.grid()
+            self.search_field_combo["values"] = ["title"]
+            self.search_field_var.set("title")
             self.move_btn.state(["disabled"])
             self.move_unmatched_btn.state(["disabled"])
         else:
@@ -539,8 +561,12 @@ class JsonGui(tk.Tk):
             self.open_iframe_btn.grid()
             self.desc_label.grid()
             self.desc_text.grid()
+            self.search_field_combo["values"] = ["title", "iframe"]
+            if self.search_field_var.get().strip().lower() not in {"title", "iframe"}:
+                self.search_field_var.set("title")
             self.move_btn.state(["!disabled"])
             self.move_unmatched_btn.state(["!disabled"])
+        self.reset_search_state()
 
     def update_page_match_status(self, prefix: str = ""):
         total = len(self.items)
@@ -603,9 +629,7 @@ class JsonGui(tk.Tk):
             self.wrapper = None
             self.mode = "pages"
             self.selected_index = None
-            self.search_matches = []
-            self.search_pos = -1
-            self.last_search_query = ""
+            self.reset_search_state()
             self.refresh_list()
             self.new_template()
             self.set_status("No JSON files found")
@@ -635,9 +659,7 @@ class JsonGui(tk.Tk):
             self.mode = mode
             self.current_file = path
             self.selected_index = None
-            self.search_matches = []
-            self.search_pos = -1
-            self.last_search_query = ""
+            self.reset_search_state()
             self.file_var.set(os.path.basename(self.current_file))
             self.refresh_list()
             self.new_template()
@@ -650,9 +672,7 @@ class JsonGui(tk.Tk):
             self.mode = "pages"
             self.current_file = path
             self.selected_index = None
-            self.search_matches = []
-            self.search_pos = -1
-            self.last_search_query = ""
+            self.reset_search_state()
             self.file_var.set(os.path.basename(self.current_file))
             self.refresh_list()
             self.new_template()
@@ -764,27 +784,35 @@ class JsonGui(tk.Tk):
         else:
             self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
 
-    def get_search_label(self, item):
+    def get_search_value(self, item, field_name: str) -> str:
+        field_name = (field_name or "title").strip().lower()
         if self.is_root_categories_mode():
             return str(item.get("name", "")).strip().lower()
+        if field_name == "iframe":
+            return str(item.get("iframe", "")).strip().lower()
         return str(item.get("title", "")).strip().lower()
 
-    def search_by_title(self):
-        title_query = self.search_title_var.get().strip().lower()
-        if not title_query:
-            messagebox.showwarning("Missing title", "Enter a title to search.")
+    def search_current_field(self):
+        query = self.search_title_var.get().strip().lower()
+        if not query:
+            messagebox.showwarning("Missing query", "Enter text to search.")
             return
 
-        if title_query != self.last_search_query:
+        search_field = self.search_field_var.get().strip().lower() or "title"
+        if self.is_root_categories_mode():
+            search_field = "title"
+
+        if query != self.last_search_query or search_field != self.last_search_field:
             self.search_matches = [
                 idx for idx, it in enumerate(self.items)
-                if title_query in self.get_search_label(it)
+                if query in self.get_search_value(it, search_field)
             ]
             self.search_pos = -1
-            self.last_search_query = title_query
+            self.last_search_query = query
+            self.last_search_field = search_field
 
         if not self.search_matches:
-            messagebox.showinfo("Not found", f"No item found containing:\n{title_query}")
+            messagebox.showinfo("Not found", f"No item found in {search_field} containing:\n{query}")
             self.set_status("No matches found")
             return
 
@@ -793,7 +821,7 @@ class JsonGui(tk.Tk):
         self.goto_index(target_idx)
 
         self.set_status(
-            f"Found {len(self.search_matches)} match(es)   Showing {self.search_pos + 1}/{len(self.search_matches)}"
+            f"Found {len(self.search_matches)} match(es) in {search_field}   Showing {self.search_pos + 1}/{len(self.search_matches)}"
         )
 
     def update_move_dropdown(self):
