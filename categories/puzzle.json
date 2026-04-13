@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "unblock-the-ball",
+"title": "Unblock The Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/521498b757bb4256834c31e08361fcbd/",
+"description": "Slide ball pieces on a grid to clear a path and free the trapped ball by unlocking movement blockers. Players interact with a spatial logic puzzle where sliding tiles shift entire rows or columns, requiring strategic planning to solve each increasingly complex layout. Levels introduce varying block types that restrict movement, creating layered challenges for casual players.\n\nKey Features\n\n• grid-based sliding mechanics  \n• intuitive drag control system  \n• progressive complexity stages  \n• multi-blocker puzzle obstacles  \n• minimalistic visual theme"
+},
+{
+"id": "twist-ball-rotator",
+"title": "Twist Ball Rotator Puzzle",
+"iframe": "https://html5.gamedistribution.com/5fa95b035eaa4d8db5a62e7816b52978/",
+"description": "Rotate and align the twisting ball through increasingly complex puzzle stages, manipulating shape and position to clear each level. The core mechanic involves precise timing and spatial reasoning to fit the ball into matching slots while managing rotation constraints. Progression ramps up with puzzles growing in difficulty, challenging casual gamers and younger players alike.\n\nKey Features\n\n• Rotational puzzle alignment  \n• Click-and-drag control scheme  \n• Progressive level complexity  \n• Time-based scoring system  \n• Minimalistic geometric visuals"
+},
+{
+"id": "twin-ball",
+"title": "Twin Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/a996e768eece4cd8ab9b85f08a73b3a2/",
+"description": "Match and maneuver colored twin spheres across connected puzzle grids to clear levels in this brain-teasing challenge. Each pair moves simultaneously based on directional input, requiring strategic planning to align matching colors. Progress through increasingly complex stages that demand sharp observation and sequence control for success.\n\nKey Features\n\n• Dual ball simultaneous movement  \n• Color matching puzzle mechanics  \n• Increasing puzzle complexity  \n• Grid-based level progression  \n• Precision directional control"
+},
+{
+"id": "tricky-falling-ball",
+"title": "Tricky Falling Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/ab74788baa8346a38fcdd4177589c779/",
+"description": "Manipulate a falling ball through intricate puzzles by timing your moves to avoid obstacles and trigger precise mechanisms. The game relies on gravity-based ball movement combined with careful path selection to reach the goal. Progressing through increasingly complex levels tests planning and reaction, while momentum control adds depth to puzzle-solving.\n\nKey Features\n\n• Gravity-based ball navigation  \n• Timing-sensitive obstacle avoidance  \n• Incremental level complexity  \n• Momentum-influenced puzzle mechanics  \n• Casual puzzle challenge design"
+},
+{
+"id": "touch-ball",
+"title": "Touch Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/3a615d69ecce48c28f8cc24631003874/",
+"description": "Align colored balls on a grid by tapping to match groups and clear levels. This puzzle challenges spatial reasoning through strategic ball placement and pattern recognition across increasingly complex boards. Players advance by solving line formations and managing limited moves under time constraints for a casual setting.\n\nKey Features\n\n• Tap-based ball movement  \n• Line matching puzzle mechanic  \n• Progressive difficulty stages  \n• Time and move limited levels  \n• Color pattern visual cues"
+},
+{
 "id": "zig-zag-ball",
 "title": "Zig Zag Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/e576d7aea1044931b5355ad948c90e66/",
