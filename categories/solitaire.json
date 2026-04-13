@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "solitaire-klondike-eternal-russian-classic",
+"title": "Solitaire Klondike: Eternal Russian Classic",
+"iframe": "https://html5.gamedistribution.com/c6eb54e8432a480bab89a517bd1a897e/",
+"description": "Arrange cards by suit and rank using classic Klondike solitaire rules, stacking cards in descending order with alternating colors to uncover hidden piles. The game challenges players to strategically reveal and organize cards through limited moves. This version retains the timeless card arrangement mechanic familiar to fans seeking a traditional solitaire experience.\n\nKey Features\n\n• Classic descending alternating color stacks  \n• Drag-and-drop card movement controls  \n• Hidden card pile uncovering challenge  \n• Score tracking based on moves  \n• Clean vintage card deck design"
+},
+{
 "id": "jigsolitaire",
 "title": "Jig Solitaire",
 "iframe": "https://html5.gamedistribution.com/ed8e3cbf265644258b1509ea239db2f9/",

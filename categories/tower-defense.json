@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "food-tower-defense",
+"title": "Food Tower Defense",
+"iframe": "https://html5.gamedistribution.com/342812ed45d04664b62121a0ef09c2cb/",
+"description": "Build and manage multiple food-themed towers to stop waves of quirky snack enemies in this tower defense game. Utilize strategic placement of sweet and savory-themed defenses to protect your base from escalating hordes. Each level introduces new enemy types and tower upgrades, challenging players to adapt their tactics and secure victory through careful resource management and timing.\n\nKey Features\n\n• Food-inspired tower varieties  \n• Strategic defense placement controls  \n• Progressive enemy difficulty waves  \n• Upgrade-based tower enhancement  \n• Casual-friendly snack-themed visuals"
+},
+{
 "id": "geometry-tower-defense",
 "title": "Geometry Tower Defense",
 "iframe": "https://html5.gamedistribution.com/0f62130e4f044c5087aa4a5f1713de94/",

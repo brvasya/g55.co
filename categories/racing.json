@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "max-speed",
+"title": "Max Speed Racing",
+"iframe": "https://html5.gamedistribution.com/48f3d14ced3646b781e256ca7f9bfa30/",
+"description": "Race futuristic hovercars across dynamic urban tracks, controlling speed and sharp turns to outpace rivals in intense lap battles. Navigate complex environments using fine throttle adjustments while managing momentum to win races. Progress through increasingly difficult circuits featuring tight corners and high-speed straights that test reflexes and timing.\n\nKey Features\n\n• High-speed hovercar control  \n• Precision cornering mechanics  \n• Competitive lap-based racing  \n• Incremental track difficulty  \n• Urban futuristic environments"
+},
+{
 "id": "street-rider",
 "title": "Street Rider Racing",
 "iframe": "https://html5.gamedistribution.com/9be99c873fee49c997dc31ae805c711e/",
