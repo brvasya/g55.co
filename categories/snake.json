@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "twisted-snakes-brain-puzzle",
+"title": "Twisted Snakes Brain Puzzle",
+"iframe": "https://html5.gamemonetize.games/n7qu2ugo4bzo1iz1dw9ivwzceew52b35/",
+"description": "Manipulate twisting snake segments to solve increasingly complex brain teasers by fitting paths into confined grids. The core puzzle mechanic challenges players to rotate and connect snake-like chains while avoiding dead ends and self-intersection. Levels gradually introduce tighter spaces and lengthier snakes, demanding sharper spatial reasoning and planning skills.\n\nKey Features\n\n• Segment rotation path puzzles  \n• Grid-based snake connection control  \n• Progressive spatial complexity  \n• Time limited challenge mode  \n• Abstract geometric puzzle theme"
+},
+{
 "id": "snake-war-game",
 "title": "Snake War Game",
 "iframe": "https://html5.gamemonetize.games/14s2bfmz6c7bsfym3666cxqt7h9hbnxt/",

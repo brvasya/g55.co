@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "hidden-object-adventure",
+"title": "Hidden Object Adventure",
+"iframe": "https://html5.gamedistribution.com/afbb219bce514948ad6fa5ac47c65567/",
+"description": "Search intricate scenes for cleverly hidden objects to solve puzzles and unlock new locations in this casual hidden object adventure. Players must carefully scan detailed environments and piece together clues to progress through increasingly challenging levels. The gameplay emphasizes precise observation and object interaction, revealing a layered storyline as players advance.  \n\nKey Features\n\n• Item discovery puzzle mechanic  \n• Point-and-click object interaction  \n• Level-based progression system  \n• Time-limited search challenges  \n• Detailed environmental artwork"
+},
+{
 "id": "hidden-objects-island-secrets",
 "title": "Hidden Objects: Island Secrets",
 "iframe": "https://html5.gamedistribution.com/7ffd63337f514fd1bb16fa54f15d1f68/",

@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "math-master",
+"title": "Math Master",
+"iframe": "https://html5.gamedistribution.com/1bd7a44469c84c65b2d95f2289ee7007/",
+"description": "Solve progressively challenging math puzzles using timed problem-solving mechanics to test and improve your calculation skills. Exercises range from basic arithmetic to complex equations positioned in a clean, minimal interface designed for quick mental agility. Players must complete levels by correctly answering under pressure, aiming to boost their accuracy and speed through increasing difficulty and evolving question types.\n\nKey Features\n\n• Timed arithmetic challenges  \n• Fast input response control  \n• Level-based difficulty progression  \n• Accuracy tracking system  \n• Minimalist educational interface"
+},
+{
 "id": "mathtaless",
 "title": "Math Tales",
 "iframe": "https://html5.gamemonetize.games/tti42617jjyplnn8m4j6xvfad6d97my4/",
