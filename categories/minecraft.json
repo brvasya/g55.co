@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "minecraft-pixel-gun-shooter",
+"title": "Minecraft Pixel Gun Shooter",
+"iframe": "https://html5.g55.co/minecraft-pixel-gun-shooter/",
+"description": "Shoot pixelated enemies using blocky weapons in a fast-paced arena where weapon switching and reflexes define survival. Players navigate destructible environments using fluid movement controls to outgun opponents and climb scoreboards. The pixel art style and gunplay mechanics create a hybrid shooter experience reminiscent of sandbox classics.\n\nKey Features\n\n• Block-based shooting combat  \n• Dynamic weapon switching system  \n• Arena survival with scoring  \n• Smooth movement controls  \n• Pixel art shooter aesthetics"
+},
+{
 "id": "minecraft-diamond-miner",
 "title": "Minecraft Diamond Miner",
 "iframe": "https://html5.g55.co/minecraft-diamond-miner/",
