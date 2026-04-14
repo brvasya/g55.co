@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "ricocheting-ball",
+"title": "Ricocheting Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/e346945616ce4f8a9b164b1bf09667e9/",
+"description": "Bounce the ball strategically to clear colorful blocks by ricocheting shots off walls in intricate puzzle layouts. Players manipulate angles and power to hit targets using precise ball trajectories that challenge spatial reasoning and timing. Levels progressively introduce complex block arrangements requiring thoughtful shot planning and adaptation.\n\nKey Features\n\n• Angle-based ball trajectory control  \n• Strategic ricochet puzzle mechanics  \n• Progressive block clearing challenges  \n• Level-based spatial reasoning tasks  \n• Color-coded obstacle layouts"
+},
+{
+"id": "red-hide-ball",
+"title": "Red Hide Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/520d3a78eecd42b99e0fd689a02d3cfe/",
+"description": "Arrange colored balls in precise sequences to clear puzzle grids and unlock new stages. The gameplay revolves around strategic ball matching with unique positional swaps, requiring players to anticipate chain reactions. As levels progress, increasingly complex grid layouts challenge spatial reasoning and pattern recognition.\n\nKey Features\n\n• Sequential ball matching mechanic  \n• Strategic positional swapping control  \n• Progressive grid complexity levels  \n• Chain reaction combo system  \n• Color-based puzzle grid design"
+},
+{
+"id": "push-balls",
+"title": "Push Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/adfe0bd45cfd430b9d1f73197d3d0ddb/",
+"description": "Manipulate clusters of colored balls by pushing strategically to clear board patterns in this casual puzzle game. Players use spatial reasoning to navigate confined grids, focusing on matching and removing groups before the space fills up. The challenge intensifies with varied ball arrangements that require careful planning and foresight. Levels progress by increasing complexity and introducing new ball types.\n\nKey Features\n\n• Grid-based ball pushing mechanic  \n• Strategic cluster matching controls  \n• Incremental level complexity  \n• Time-limited clearing challenges  \n• Casual color pattern theme"
+},
+{
+"id": "pop-ball",
+"title": "Pop Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/59d61d560a644b38b56d6d5ea119ab14/",
+"description": "Match and burst clusters of colorful balls by shooting precisely timed pops in this puzzle challenge. Players control aiming mechanics to connect groups of three or more balls, clearing them before the limited balls reach the end of the path. Strategic popping and pattern recognition drive progression through increasingly complex levels with varied ball arrangements.\n\nKey Features\n\n• Precision aiming and shooting  \n• Cluster matching game mechanic  \n• Increasingly challenging ball patterns  \n• Level-based progression system  \n• Colorful arcade puzzle style"
+},
+{
+"id": "pong-the-ball",
+"title": "Pong Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/20b0d43080104469bce0fc0cbf0ee05d/",
+"description": "Bounce and direct the ball through a series of intricate puzzles, using precise timing and angles to clear each level. This physics-based puzzle game challenges players to manipulate ricochets and momentum, aiming to solve increasingly complex setups that require strategic thinking. Progression unfolds as players master unique trajectory mechanics, adjusting shots to reach target zones.\n\nKey Features\n\n• Physics-based ricochet mechanics  \n• Precision aiming controls  \n• Increasingly complex puzzles  \n• Time-based scoring system  \n• Casual challenge progression"
+},
+{
 "id": "smart-pin-ball",
 "title": "Smart Pin Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/d4085cfa133747689fbe5432de741f10/",

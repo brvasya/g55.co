@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "reflex-ball",
+"title": "Reflex Ball Clicker",
+"iframe": "https://html5.gamedistribution.com/c8824198a7f1459cab63e5bbd4830355/",
+"description": "Tap rapidly to control the bouncing ball as it reacts to split-second reflex challenges in an addictive clicker format. Each click sends the ball ricocheting through dynamic patterns that test timing and precision. The game focuses on progression through score milestones that unlock faster-paced sequences, creating an escalating challenge for casual players.\n\nKey Features\n\n• Reactive ball physics control  \n• Click-based timing mechanics  \n• Progression through score milestones  \n• Increasing speed challenges  \n• Minimalist arcade presentation"
+},
+{
+"id": "power-ball",
+"title": "Power Ball Clicker",
+"iframe": "https://html5.gamedistribution.com/0ffc15acdd9444e39446373313175312/",
+"description": "Click the glowing power balls to accumulate points and trigger chain reactions in this streamlined clicker experience. Players focus on timing their taps to maximize combo multipliers and unlock incremental upgrades that boost power generation. Gradual progression challenges users to refine their strategy and manage resources across increasingly demanding stages.\n\nKey Features\n\n• Incremental upgrade system  \n• Combo multiplier mechanics  \n• Resource management challenges  \n• Stage-based progression curve  \n• Visual power sphere feedback"
+},
+{
 "id": "sliding-ball",
 "title": "Sliding Ball Clicker",
 "iframe": "https://html5.gamedistribution.com/2e3c216885c34df4bb13ae9eb5e95a04/",

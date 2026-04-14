@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "pong-ball-masters",
+"title": "Pong Ball Masters Tennis",
+"iframe": "https://html5.gamedistribution.com/bea75041cbf84fb2afe5dca41f61a66a/",
+"description": "Smash swift pong balls back and forth across a dynamic court, mastering unique paddle controls that emphasize timing and precision. Navigate varied ball speeds and angles to outscore opponents in an arcade-inspired tennis challenge. Progress through escalating difficulty while refining reflexes and shot placement under pressure.\n\nKey Features\n\n• Paddle swing timing mechanic  \n• Ball trajectory control system  \n• Competitive score-based matches  \n• Progressive difficulty levels  \n• Arcade-style sports setting"
+},
+{
 "id": "3d-tennis",
 "title": "Tennis 3D",
 "iframe": "https://html5.gamemonetize.games/4uccr925116dib4sohm2en47u2bp3dtt/",

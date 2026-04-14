@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "puper-ball",
+"title": "Puper Ball Soccer",
+"iframe": "https://html5.gamedistribution.com/2b1128f423d648d2b8c7c2995d36aca5/",
+"description": "Control a vibrant, bouncy ball as it charges down the field against opposing teams in a fast-paced soccer showdown. Players master precise ball handling and quick reflex shots to outscore rivals while navigating dynamic environments. The game challenges reflex timing and spatial awareness, offering short matches with escalating difficulty to keep the gameplay engaging.\n\nKey Features\n\n• Physics-based ball control  \n• Responsive directional input  \n• Increasing AI opponent difficulty  \n• Timed match rounds  \n• Colorful arcade soccer fields"
+},
+{
 "id": "sccoer-skills",
 "title": "Soccer Skills",
 "iframe": "https://html5.gamemonetize.games/wom9k99kwme3ikqk9qtgse73ft2pc9wl/",
