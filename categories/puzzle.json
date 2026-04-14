@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "pong-ball",
+"title": "Pong Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/20e0f40feb3845348bb23b032f79b51d/",
+"description": "Bounce the ball strategically across geometric puzzles to clear each level using precise angle control and timing. Players manipulate paddle rebounds to navigate through increasingly complex obstacle layouts, testing spatial reasoning and reflexes. Challenge grows as puzzle designs introduce varied block arrangements and subtle physics effects, demanding adaptive strategies to complete stages efficiently.\n\nKey Features\n\n• Angle-based ball control  \n• Paddle rebound mechanics  \n• Progressive level complexity  \n• Time-based completion scoring  \n• Minimalist geometric puzzle design"
+},
+{
+"id": "pin-and-balls",
+"title": "Pin And Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/8035fe72971644f88ed1a17b968af578/",
+"description": "Drag pins to guide strategic ball clusters through obstacle-filled levels, relying on precise timing to complete each puzzle challenge. The gameplay emphasizes careful pin placement to control ball movement and clear stages progressively. Players navigate increasing difficulty by unlocking new patterns and managing limited moves within a minimalist setting.\n\nKey Features\n\n• Pin dragging ball control  \n• Timing-based movement puzzles  \n• Progressive level difficulty  \n• Move-limited challenge system  \n• Minimalist ball cluster design"
+},
+{
+"id": "physics-balls",
+"title": "Physics Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/78399bc84b4c4a0c97c89abf73d4edeb/",
+"description": "Manipulate and drop colorful balls to clear intricate puzzle boards using gravity and collision physics. Each level challenges players to strategically position balls to trigger chain reactions and solve spatial arrangements. The game relies on understanding momentum and bounce dynamics to complete stages, appealing to casual gamers seeking thoughtful puzzle progression.\n\nKey Features\n\n• Physics-based ball dropping  \n• Strategic spatial arrangement  \n• Momentum driven chain reactions  \n• Increasing puzzle complexity levels  \n• Casual puzzle gameplay focus"
+},
+{
+"id": "neon-ball",
+"title": "Neon Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/53e69698b7794b2383f7ba625ff31ef5/",
+"description": "Rotate and connect glowing orbs to clear complex neon grids in this puzzle challenge. Players manipulate paths to create matching chains, triggering vibrant light reactions across the board while aiming to solve each level’s unique layout. Timed stages introduce increasing difficulty, testing quick thinking and spatial reasoning in a vivid electric atmosphere.\n\nKey Features\n\n• Orb rotation chain mechanic  \n• Grid-based puzzle navigation  \n• Progressive timed levels  \n• Combo scoring system  \n• Neon light visual effects"
+},
+{
+"id": "mysterious-balls",
+"title": "Mysterious Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/84af9719e7a8441c8b6872240cd73e9d/",
+"description": "Manipulate clustered balls across a grid to uncover patterns and solve spatial puzzles using strategic swaps and alignments. Players engage with a unique mechanic combining color matching and position shifting to clear levels and advance through increasingly complex arrangements. Challenge lies in optimizing moves to dismantle ball formations before reaching grid limits.\n\nKey Features\n\n• Color matching and repositioning  \n• Grid-based swap mechanics  \n• Level progression with escalating difficulty  \n• Move limit challenge system  \n• Casual puzzle setting"
+},
+{
 "id": "ricocheting-ball",
 "title": "Ricocheting Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/e346945616ce4f8a9b164b1bf09667e9/",
@@ -23,12 +53,6 @@
 "title": "Pop Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/59d61d560a644b38b56d6d5ea119ab14/",
 "description": "Match and burst clusters of colorful balls by shooting precisely timed pops in this puzzle challenge. Players control aiming mechanics to connect groups of three or more balls, clearing them before the limited balls reach the end of the path. Strategic popping and pattern recognition drive progression through increasingly complex levels with varied ball arrangements.\n\nKey Features\n\n• Precision aiming and shooting  \n• Cluster matching game mechanic  \n• Increasingly challenging ball patterns  \n• Level-based progression system  \n• Colorful arcade puzzle style"
-},
-{
-"id": "pong-the-ball",
-"title": "Pong Ball Puzzle",
-"iframe": "https://html5.gamedistribution.com/20b0d43080104469bce0fc0cbf0ee05d/",
-"description": "Bounce and direct the ball through a series of intricate puzzles, using precise timing and angles to clear each level. This physics-based puzzle game challenges players to manipulate ricochets and momentum, aiming to solve increasingly complex setups that require strategic thinking. Progression unfolds as players master unique trajectory mechanics, adjusting shots to reach target zones.\n\nKey Features\n\n• Physics-based ricochet mechanics  \n• Precision aiming controls  \n• Increasingly complex puzzles  \n• Time-based scoring system  \n• Casual challenge progression"
 },
 {
 "id": "smart-pin-ball",

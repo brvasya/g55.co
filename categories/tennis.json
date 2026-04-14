@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ping-pong-ball",
+"title": "Ping Pong Ball Tennis",
+"iframe": "https://html5.gamedistribution.com/c35fc1ad1b2c42379ef502b880f788fd/",
+"description": "Bounce the lightweight ball with precise paddle control to outmaneuver your opponent in fast-paced matches. The game uses simple racket swings to keep the ball crossing the net, challenging players to maintain rallies and score points. Timing and positioning define your success as you climb through escalating difficulty levels designed for casual play.\n\nKey Features\n\n• Paddle swing timing mechanic  \n• Responsive ball trajectory control  \n• Increasing AI difficulty tiers  \n• Score tracking and match rounds  \n• Minimalist indoor tennis court setting"
+},
+{
 "id": "pong-ball-masters",
 "title": "Pong Ball Masters Tennis",
 "iframe": "https://html5.gamedistribution.com/bea75041cbf84fb2afe5dca41f61a66a/",
