@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "word-solitaire",
+"title": "Word Solitaire",
+"iframe": "https://html5.gamedistribution.com/cdf4057010434b89b509008587b9bca8/",
+"description": "Form words from a shuffled letter grid while strategically uncovering hidden tiles to expand your options and earn points. Each move reshuffles the available letters differently, requiring keen pattern recognition to discover longer or rarer words. Progression involves navigating increasingly complex grids where the arrangement gradually tightens, testing both vocabulary and spatial reasoning.\n\nKey Features\n\n• Letter grid tile uncovering  \n• Dynamic reshuffling after moves  \n• Pattern-based word discovery  \n• Increasing grid complexity  \n• Casual word puzzle format"
+},
+{
+"id": "word-shards",
+"title": "Word Shards",
+"iframe": "https://html5.gamemonetize.games/ud0u6oh2nob0m1wl6d9ejv3c3bj1w2da/",
+"description": "Arrange letter tiles quickly to form valid words from fragmented shards, enhancing your vocabulary and pattern recognition. Each level challenges players with limited moves to piece together scattered letter clusters. Progressing unlocks increasingly intricate puzzles requiring strategic tile swaps and spotting hidden word combinations.\n\nKey Features\n\n• Tile swapping word formation  \n• Limited move puzzle constraints  \n• Progressive difficulty tiers  \n• Hint system for tough shards  \n• Casual, vocabulary building focus"
+},
+{
 "id": "word-search-universe-easter",
 "title": "Word Search Universe Easter",
 "iframe": "https://html5.gamedistribution.com/1639172f16614f62af1d30e270a6b9a0/",

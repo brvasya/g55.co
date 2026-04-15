@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "watermeleon-drop-puzzle",
+"title": "Watermeleon Drop Puzzle",
+"iframe": "https://html5.gamemonetize.games/t4e8v6am2ohxi06y5vjl5bewql70oowu/",
+"description": "Match falling watermelon pieces by dropping them into strategic spots to clear clusters in a colorful puzzle environment. The game relies on precise placement and gravity-driven tile movement to form combos and advance through increasingly complex layouts. Progression challenges include timed drops and limited move stages that keep players planning under pressure.\n\nKey Features\n\n• Gravity-based tile matching  \n• Touch and drag drop controls  \n• Increasingly complex level puzzles  \n• Time and move-limited stages  \n• Bright fruit-themed visuals"
+},
+{
+"id": "stamp-it-puzzle-game",
+"title": "Stamp It Puzzle game",
+"iframe": "https://html5.gamemonetize.games/y6id4pk1vizxr0vfv8ca1vqv8abp6ph2/",
+"description": "Arrange matching stamps on a grid to clear lines and solve increasingly complex puzzles. Players strategize placements to create full rows or columns, triggering chain reactions that advance through levels with varied stamp shapes. The game gradually introduces new challenges requiring spatial reasoning and pattern recognition.\n\nKey Features\n\n• Grid-based line clearing  \n• Shape placement strategy  \n• Progressive puzzle difficulty  \n• Combo chain scoring system  \n• Colorful stamp themes"
+},
+{
+"id": "hard-puzzle",
+"title": "Hard Puzzle",
+"iframe": "https://html5.gamedistribution.com/de35402342e2480f824b75e44f7ac5ba/",
+"description": "Manipulate complex block arrangements to solve each level’s spatial puzzle, relying on precise piece placement and rotation to clear the board. Progress through increasingly difficult layouts that challenge logic and planning in a gradually intensifying puzzle environment.\n\nKey Features\n\n• Grid-based block manipulation  \n• Rotation and placement controls  \n• Escalating level difficulty  \n• Time-limited challenge modes  \n• Abstract minimalist visual style"
+},
+{
 "id": "pong-ball",
 "title": "Pong Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/20e0f40feb3845348bb23b032f79b51d/",

@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "clash-run",
+"title": "Clash & Run",
+"iframe": "https://html5.gamedistribution.com/f3f2340b6fd74c5c8ef4eaaa88781746/",
+"description": "Dash through dynamic obstacle courses using quick reflexes and timing in this runner game. Navigate shifting platforms while collecting tokens to maintain your momentum and advance through escalating challenge levels. Precise control and swift decision-making are essential to survive the fast-paced stages designed for casual players seeking casual thrills.\n\nKey Features\n\n• Reflex-based platform navigation  \n• Responsive swipe and tap controls  \n• Increasingly complex level design  \n• Momentum preservation mechanic  \n• Vibrant casual game aesthetic"
+},
+{
 "id": "pokey-ball-online",
 "title": "Pokey Ball Online Runner",
 "iframe": "https://html5.gamedistribution.com/82b397d594f54a3eaac7f24afc77ef3f/",

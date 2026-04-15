@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "world-soccer",
+"title": "World Soccer",
+"iframe": "https://html5.gamedistribution.com/d50d0bb0164f460891748b01ff084b0b/",
+"description": "Kick off fast-paced soccer matches focusing on team positioning and ball control to outscore opponents. Maneuver players with precise passing and shooting mechanics on a standard pitch while adapting to dynamic player movements. The objective is to score goals through coordinated plays and defensive strategies, suitable for casual gamers and younger audiences seeking accessible sports gameplay.\n\nKey Features\n\n• Player positioning and ball control  \n• Precision passing and shooting  \n• Dynamic opponent AI behavior  \n• Match timer and scoring system  \n• Classic outdoor soccer setting"
+},
+{
 "id": "puper-ball",
 "title": "Puper Ball Soccer",
 "iframe": "https://html5.gamedistribution.com/2b1128f423d648d2b8c7c2995d36aca5/",
