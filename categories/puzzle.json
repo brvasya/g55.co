@@ -1,6 +1,54 @@
 {
 "pages": [
 {
+"id": "knock-the-ball",
+"title": "Knock The Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/b639933e2b6b45b899c9e9660adc9584/",
+"description": "Launch precise shots to knock balls into target zones using strategic angles and force adjustments. This puzzle involves calculating trajectories to clear levels with limited moves, testing spatial reasoning and timing. Players advance through stages that increase in complexity, requiring increasingly careful planning to solve each ball layout efficiently.\n\nKey Features\n\n• Angle-based ball trajectory control  \n• Limited shot count challenge  \n• Progressive level difficulty  \n• Precision force adjustment system  \n• Minimalist spatial puzzle design"
+},
+{
+"id": "knock-balls",
+"title": "Knock Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/da6997b0f2e545a6ad0cf2d1a56378c4/",
+"description": "Launch colored balls strategically to clear clusters in this vibrant puzzle adventure, where precise angle shots and timing dictate your success. Players must manipulate trajectory to knock out groups of matching balls before the screen fills. Progression introduces varied ball patterns that increase difficulty, testing spatial awareness and quick decision-making in dynamic levels.\n\nKey Features\n\n• Angle-based ball shooting mechanic  \n• Precision aiming controls  \n• Increasingly complex ball arrangements  \n• Level progression with escalating difficulty  \n• Color matching cluster clearance"
+},
+{
+"id": "knock-balls-2",
+"title": "Knock Balls 2 Puzzle",
+"iframe": "https://html5.gamedistribution.com/6376d6d8c4f54e3ca7036a8665ee1d3e/",
+"description": "Slide balls across a dynamic grid to strategically knock them into specific positions using precise timing and angles. Players face progressively complex puzzles that test spatial reasoning and aim control. The game challenges casual gamers and kids alike with its simple yet absorbing combination of momentum-based ball collisions and level progression.  \n\nKey Features\n\n• Momentum-based ball collisions  \n• Angle and power adjustment controls  \n• Increasing puzzle complexity  \n• Time-limited challenge mode  \n• Color-coded ball grouping system"
+},
+{
+"id": "kick-colored-balls",
+"title": "Kick Colored Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/ec1a0c26ad8444e9b2752e47aed5b9d7/",
+"description": "Kick colored balls toward matching targets by aiming carefully and timing your shots to clear the puzzle board. This puzzle game challenges you to plan moves that link colors in strategic sequences while navigating obstacles. Each level increases in difficulty with new ball patterns and spatial layouts that test your precision and foresight.\n\nKey Features\n\n• Color matching shot mechanics  \n• Aiming and timing controls  \n• Progressive puzzle difficulty  \n• Obstacle interaction challenges  \n• Casual color-based gameplay"
+},
+{
+"id": "iron-ball",
+"title": "Iron Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/09ed5f1e3b824aff9c504ee0a45e300f/",
+"description": "Manipulate a rolling metal ball through increasingly complex spatial puzzles that demand precision and timing. Navigate challenging platforms using momentum and careful alignment to reach the exit point in each level. The game emphasizes gravity-based ball control and gradual difficulty escalation for casual and younger players.\n\nKey Features\n\n• Momentum-driven ball physics  \n• Precision platform navigation  \n• Progressive level complexity  \n• Timing-based obstacle avoidance  \n• Minimalist metallic puzzle environment"
+},
+{
+"id": "marble-balls",
+"title": "Marble Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/d8ce6087feef4677957b4afeefa48f2d/",
+"description": "Match colored marbles by strategically shooting new balls into the cluster to clear levels in this puzzle challenge. Manipulate aiming angles and adjust your shots to create combos and prevent the sphere mass from reaching the bottom. Each stage increases difficulty with tighter arrangements and faster marble descent, demanding precise planning and quick reflexes for progression.\n\nKey Features\n\n• precision shooting mechanic\n• angle-based ball launching\n• increasing level complexity\n• combo chain clearing system\n• colorful marble cluster design"
+},
+{
+"id": "love-balls-pin",
+"title": "Love Balls Pin Puzzle",
+"iframe": "https://html5.gamemonetize.games/j53y29xg0znei2zows77d6c9bx02rs2w/",
+"description": "Draw precise lines to roll balls together and solve physics-based puzzles in a casual setting focused on connecting shapes. Players use directional drawing mechanics to guide love balls past obstacles and pair them by overcoming gravity and momentum challenges. Levels increase in difficulty with complex layouts requiring strategic path planning and timing.\n\nKey Features\n\n• Directional line drawing control  \n• Physics-driven ball movement  \n• Increasing puzzle complexity  \n• Obstacle navigation challenges  \n• Romantic-themed matching style"
+},
+{
+"id": "love-among-balls-pull-pins",
+"title": "Love Among Balls: Pull Pins Puzzle",
+"iframe": "https://html5.gamemonetize.games/qs6tzqificr7yk634qurecbhm4vrogs9/",
+"description": "Pull pins control the flow of colored balls through maze-like chambers in this physics-based puzzle game. Players carefully decide the order of pin removal to navigate obstacles and deliver matching balls to each other, balancing timing and spatial reasoning. Levels increase in complexity, challenging players to solve unique spatial puzzles under constrained conditions.\n\nKey Features\n\n• pin-pulling core mechanic  \n• timed ball movement control  \n• progressively intricate maze layouts  \n• single-player puzzle progression  \n• colorful physics-driven interactions"
+},
+{
 "id": "watermeleon-drop-puzzle",
 "title": "Watermeleon Drop Puzzle",
 "iframe": "https://html5.gamemonetize.games/t4e8v6am2ohxi06y5vjl5bewql70oowu/",

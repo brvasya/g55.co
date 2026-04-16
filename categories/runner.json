@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "hyper-neon-ball",
+"title": "Hyper Neon Ball Runner",
+"iframe": "https://html5.gamedistribution.com/1ea93451c1584f7b86117331cf74bf52/",
+"description": "Navigate fast-paced neon-lit corridors by controlling a glowing ball that reacts to rhythmic timing, testing reflexes on shifting platforms and glowing pathways. Players must time jumps and rolls with precision to maintain momentum and avoid falling into voids, progressing through increasingly complex levels set in a vibrant cybernetic environment. Scoring is based on distance and skillful navigation. \n\nKey Features\n\n• rhythm-based platform timing  \n• precision ball roll mechanics  \n• dynamic neon obstacle courses  \n• distance scoring progression system  \n• cybernetic visual theme"
+},
+{
+"id": "machine-city-balls",
+"title": "Machine City Balls Runner",
+"iframe": "https://html5.gamedistribution.com/ee69e597b3f74794806689270ed02663/",
+"description": "Navigate a mechanized ball through twisting industrial corridors, mastering momentum and timing to avoid obstacles in this fast-paced runner game. The primary challenge lies in balancing speed with precision as you guide the ball across shifting platforms. Each stage tests reflexes with complex track layouts and increasingly demanding sequences.\n\nKey Features\n\n• Momentum-based rolling mechanics  \n• Tap and swipe movement controls  \n• Progressive obstacle difficulty  \n• Time trial scoring mode  \n• Industrial factory-themed levels"
+},
+{
 "id": "clash-run",
 "title": "Clash & Run",
 "iframe": "https://html5.gamedistribution.com/f3f2340b6fd74c5c8ef4eaaa88781746/",

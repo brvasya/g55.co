@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "love-balls-2",
+"title": "Love Balls 2 Drawing",
+"iframe": "https://html5.gamedistribution.com/f3dceeb59d374b75937a8ed0eb7f1002/",
+"description": "Draw precise curved lines to connect two bouncing balls romantically in this physics-based puzzle adventure. Players use pen drawing mechanics to create paths and obstacles that guide the spheres together across increasingly challenging stages. Timing and trajectory planning are crucial to overcome obstacles and reach the main goal of uniting the balls.\n\nKey Features\n\n• Pen drawing physics manipulation  \n• Trajectory and bounce mechanics  \n• Progressive puzzle difficulty  \n• Time-based score system  \n• Cartoon physics puzzle setting"
+},
+{
+"id": "love-balls",
+"title": "Love Balls Drawing",
+"iframe": "https://html5.gamedistribution.com/24b13c20e580418ba1776c56359d053c/",
+"description": "Draw precise lines to guide two bouncing balls into one another’s embrace, using physics-based trajectories and carefully timed sketches. This puzzle game challenges you to manipulate gravity and surfaces by drawing barriers and ramps, progressing through increasingly intricate stages where timing and angle adjustments shape the path to success.\n\nKey Features\n\n• Physics-driven drawing mechanics  \n• Player controls ball trajectory  \n• Progressive puzzle stages  \n• Interactive surface manipulation  \n• Casual-friendly challenge design"
+},
+{
 "id": "what-a-leg",
 "title": "What a Leg Drawing",
 "iframe": "https://html5.gamedistribution.com/83d591d308034149b1090bc3d4f26bcd/",

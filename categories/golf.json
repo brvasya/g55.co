@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "impulse-ball",
+"title": "Impulse Ball Golf",
+"iframe": "https://html5.gamedistribution.com/0ca64f7a71584bdab61072b40d3b36e9/",
+"description": "Launch precisely timed shots to navigate a dynamic ball through a series of varied golf courses that emphasize impulse-based physics. Players adjust shot strength and angle to overcome obstacles and reach targets, testing both accuracy and timing. Progression introduces new levels with increasingly intricate setups demanding refined impulse control.\n\nKey Features\n\n• Impulse-driven shot mechanics  \n• Adjustable power and trajectory controls  \n• Progressive level difficulty scaling  \n• Precision timing challenges  \n• Physics-based golf ball behavior"
+},
+{
+"id": "impulse-ball-2",
+"title": "Impulse Ball 2 Golf",
+"iframe": "https://html5.gamedistribution.com/e9fdb6417d33448daa5020d62f195f63/",
+"description": "Launch the ball with precise timing to navigate challenging courses where momentum controls each stroke. Players manipulate impulse power to curve and propel the golf ball across varied terrain, aiming to complete holes using minimal shots. Levels introduce increasingly complex obstacles requiring careful shot adjustment to master progression.\n\nKey Features\n\n• Impulse-based ball control  \n• Timing-driven shot power  \n• Progressive course difficulty  \n• Score optimization challenges  \n• Casual golf-themed gameplay"
+},
+{
 "id": "rolling-the-ball",
 "title": "Rolling Ball Golf",
 "iframe": "https://html5.gamedistribution.com/ed08f7fa6ede452d990fd39c9e69a2ac/",

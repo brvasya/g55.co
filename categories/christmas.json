@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "orbiting-xmas-balls",
+"title": "Orbiting Christmas Balls",
+"iframe": "https://html5.gamedistribution.com/a892d5691318425e813541b76d44521c/",
+"description": "Manipulate orbiting Christmas-themed spheres to navigate through layered spatial puzzles, balancing precision timing with dynamic rotational control. Players adjust angular momentum around a fixed point, avoiding collisions while collecting festive ornaments. Progress challenges fine-tune reaction speed and spatial awareness, adding complexity to the holiday-inspired orbital environment.\n\nKey Features\n\n• Angular momentum rotation mechanic  \n• Timing-based navigation controls  \n• Increasing puzzle complexity  \n• Collectible festive ornaments system  \n• Holiday-themed spatial design"
+},
+{
 "id": "santa-balls-fill",
 "title": "Santa Balls Fill Christmas",
 "iframe": "https://html5.gamedistribution.com/72c4913b504c4dcab7d4c6498ca8edd5/",
