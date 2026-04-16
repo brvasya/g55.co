@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "sport-sort-puzzle",
+"title": "Sport Sort Puzzle",
+"iframe": "https://html5.gamemonetize.games/3krfv60cepeo48qbi5r5ngeavynpztlk/",
+"description": "Sort sports-themed tiles by matching categories and clearing rows in a puzzle grid. Players manipulate pieces with quick swaps to align matching sports elements, aiming to clear the board before tiles stack too high. Unique pattern matching and timed tile drops add layers of challenge as levels progress.\n\nKey Features\n\n• tile matching puzzle mechanic  \n• swipe based piece swapping  \n• increasing difficulty stages  \n• timed clearance scoring mode  \n• sports icon visual themes"
+},
+{
 "id": "pickle-ball-clash",
 "title": "Pickle Ball Clash Sports",
 "iframe": "https://html5.gamedistribution.com/933b1b935b9e422b9ca4fd279455b924/",
