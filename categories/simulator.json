@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ants-empire-evolve-sim",
+"title": "Ants Empire Evolve Simulator",
+"iframe": "https://html5.gamedistribution.com/0358ad881309472b925f305df5e46f62/",
+"description": "Manage and expand a bustling ant colony by assigning worker ants to gather resources and defend the nest. Utilize resource allocation and unit coordination to evolve your colony’s strength and unlock new abilities. Navigate hive growth stages while overcoming threats from competing insects. Strategic placement and timing shape your progression in this ecosystem simulation.\n\nKey Features\n\n• Resource gathering and management  \n• Worker ant task assignments  \n• Colony expansion mechanics  \n• Defensive strategy deployment  \n• Ecosystem interaction challenges"
+},
+{
 "id": "break-the-block-there-brainrot",
 "title": "Break the block there, Brainrot Simulator",
 "iframe": "https://html5.gamedistribution.com/08d7ed5c17d14024b28223eebfc9049f/",
