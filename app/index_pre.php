@@ -44,7 +44,7 @@ function category_url(string $cid, ?int $p = null): string {
 
 $hasC = isset($_GET['c']);
 
-if ($hasC && clean_slug($_GET['c']) === 'featured') {
+if ($hasC && clean_slug($_GET['c']) === 'exclusive') {
   require_once 'featured_pre.php';
   return;
 }

@@ -31,8 +31,8 @@ function featured_pages_pagination(array $allPages, int $perPage = 64, string $p
 }
 
 function featured_url(?int $p = null): string {
-  if ($p === null || $p <= 1) return 'https://g55.co/?c=featured';
-  return 'https://g55.co/?c=featured&p=' . (int) $p;
+  if ($p === null || $p <= 1) return 'https://g55.co/?c=exclusive';
+  return 'https://g55.co/?c=exclusive&p=' . (int) $p;
 }
 
 $featuredPages = [];
@@ -62,16 +62,16 @@ $nextUrl = $pager['has_next'] ? featured_url($pageNum + 1) : null;
 $gridItems = $pager['items'];
 $count = count($featuredPages);
 
-$h1 = ($count > 0 ? number_format($count) . ' ' : '') . 'Featured Games';
+$h1 = ($count > 0 ? number_format($count) . ' ' : '') . 'Exclusive Games';
 if ($pageNum > 1) $h1 .= ' Page ' . $pageNum;
 
-$desc = 'Featured Games collect all exclusive HTML5 games published on G55.CO in one virtual category page.';
+$desc = 'Exclusive Games collect all exclusive HTML5 games published on G55.CO in one virtual category page.';
 $title = $h1 . ' ▶ Play Free Online';
 $metaDesc = $desc;
 
 $cat = [
-  'id' => 'featured',
-  'name' => 'Featured',
+  'id' => 'exclusive',
+  'name' => 'Exclusive',
   'description' => $desc,
 ];
 
