@@ -54,6 +54,7 @@ foreach ($categories as $c) {
 
 $pager = featured_pages_pagination($featuredPages, 64, 'p');
 $pageNum = $pager['page'];
+$cid = 'exclusive';
 
 $canonical = featured_url($pageNum);
 $prevUrl = $pager['has_prev'] ? featured_url($pageNum - 1) : null;
