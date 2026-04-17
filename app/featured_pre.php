@@ -71,7 +71,7 @@ $title = $h1 . ' ▶ Play Free Online';
 $metaDesc = $desc;
 
 $cat = [
-  'id' => 'exclusive',
+  'id' => $cid,
   'name' => 'Exclusive',
   'description' => $desc,
 ];
