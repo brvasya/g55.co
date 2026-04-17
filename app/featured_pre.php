@@ -1,0 +1,79 @@
+<?php
+// app/featured_pre.php
+
+$index = load_site_index();
+$site = $index['site'];
+$categories = get_categories_sorted($index);
+
+function featured_pages_pagination(array $allPages, int $perPage = 64, string $pageParam = 'p'): array {
+  $totalItems = count($allPages);
+  $totalPages = max(1, (int) ceil($totalItems / $perPage));
+
+  $page = 1;
+  if (isset($_GET[$pageParam])) {
+    $page = (int) $_GET[$pageParam];
+    if ($page < 1) $page = 1;
+  }
+  if ($page > $totalPages) $page = $totalPages;
+
+  $offset = ($page - 1) * $perPage;
+  $items = array_slice($allPages, $offset, $perPage);
+
+  return [
+    'page' => $page,
+    'per_page' => $perPage,
+    'total_items' => $totalItems,
+    'total_pages' => $totalPages,
+    'items' => $items,
+    'has_prev' => $page > 1,
+    'has_next' => $page < $totalPages,
+  ];
+}
+
+function featured_url(?int $p = null): string {
+  if ($p === null || $p <= 1) return 'https://g55.co/?c=featured';
+  return 'https://g55.co/?c=featured&p=' . (int) $p;
+}
+
+$featuredPages = [];
+foreach ($categories as $c) {
+  $catId = $c['id'];
+  list($_, $pages) = load_category_pages($catId);
+
+  foreach ($pages as $p) {
+    if (strpos($p['iframe'], 'html5.g55.co') !== false) {
+      $featuredPages[] = [
+        'id' => $p['id'],
+        'title' => $p['title'],
+        'image' => 'https://cdn.g55.co/' . $p['id'] . '.png',
+        'category' => $catId,
+      ];
+    }
+  }
+}
+
+$pager = featured_pages_pagination($featuredPages, 64, 'p');
+$pageNum = $pager['page'];
+
+$canonical = featured_url($pageNum);
+$prevUrl = $pager['has_prev'] ? featured_url($pageNum - 1) : null;
+$nextUrl = $pager['has_next'] ? featured_url($pageNum + 1) : null;
+
+$gridItems = $pager['items'];
+$count = count($featuredPages);
+
+$h1 = ($count > 0 ? number_format($count) . ' ' : '') . 'Featured Games';
+if ($pageNum > 1) $h1 .= ' Page ' . $pageNum;
+
+$desc = 'Featured Games collect all exclusive HTML5 games published on G55.CO in one virtual category page.';
+$title = $h1 . ' ▶ Play Free Online';
+$metaDesc = $desc;
+
+$cat = [
+  'id' => 'featured',
+  'name' => 'Featured',
+  'description' => $desc,
+];
+
+$currentCluster = null;
+$seriesBlocks = [];
