@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "twinkle-shooter",
+"title": "Twinkle Bubble Shooter",
+"iframe": "https://html5.gamedistribution.com/5e98552b05034337aa50307bde4bb93d/",
+"description": "Shoot colorful stars across dynamic cosmic backgrounds, aiming to clear clusters by matching twinkles with precise targeting. The game challenges players to master timing and angle control while navigating evolving star patterns, offering short levels that test accuracy and strategic shot placement under pressure.\n\nKey Features\n\n• Precision star aiming mechanic  \n• Angular shot control system  \n• Pattern-based cluster clearing  \n• Timed level progression  \n• Vibrant celestial visual design"
+},
+{
 "id": "number-bubble-shooter-wild-west",
 "title": "Number Bubble Shooter Wild West",
 "iframe": "https://html5.gamedistribution.com/e676d4440f084d9e9d241781cbb494b1/",
