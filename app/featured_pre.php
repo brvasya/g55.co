@@ -66,7 +66,7 @@ $count = count($featuredPages);
 $h1 = ($count > 0 ? number_format($count) . ' ' : '') . 'Exclusive Games';
 if ($pageNum > 1) $h1 .= ' Page ' . $pageNum;
 
-$desc = 'Exclusive Games collect all exclusive HTML5 games published on G55.CO in one virtual category page.';
+$desc = $site['exclusive'];
 $title = $h1 . ' ▶ Play Free Online';
 $metaDesc = $desc;
 
