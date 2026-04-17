@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "spatial-puzzle",
+"title": "Spatial puzzle",
+"iframe": "https://html5.gamemonetize.games/5ptho1y7arlo1f24n62lpjjm7y65mbge/",
+"description": "Manipulate spatial arrangements by rotating and fitting pieces into precise positions to solve increasingly complex puzzles. The core mechanic revolves around three-dimensional object alignment, requiring players to visualize shapes from multiple angles. Challenges grow as players progress through varied puzzle designs that test spatial reasoning and planning skills, offering a cerebral experience suited for casual gamers and young puzzle enthusiasts.\n\nKey Features\n\n• 3D spatial piece rotation  \n• Precision placement controls  \n• Progressive puzzle complexity  \n• Time trial challenge mode  \n• Abstract geometric environment"
+},
+{
 "id": "knock-the-ball",
 "title": "Knock The Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/b639933e2b6b45b899c9e9660adc9584/",
