@@ -75,7 +75,7 @@ if ($hasC) {
       'id' => $p['id'],
       'title' => $p['title'],
       'image' => 'https://cdn.g55.co/' . $p['id'] . '.png',
-      'category' => $cid
+      'category' => $cid,
     ];
   }
 
@@ -103,7 +103,7 @@ if ($hasC) {
       'id' => $newest['id'],
       'title' => $newest['title'],
       'image' => 'https://cdn.g55.co/' . $newest['id'] . '.png',
-      'category' => $catId
+      'category' => $catId,
     ];
 
     foreach ($pages as $p) {
@@ -112,7 +112,7 @@ if ($hasC) {
           'id' => $p['id'],
           'title' => $p['title'],
           'image' => 'https://cdn.g55.co/' . $p['id'] . '.png',
-          'category' => $catId
+          'category' => $catId,
         ];
       }
     }
