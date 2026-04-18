@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ballz-shooter",
+"title": "Ballz Bubble Shooter",
+"iframe": "https://html5.gamemonetize.games/0xi417nczhb62bqxfzp0wxy5ogochmie/",
+"description": "Aim and shoot clusters of balls to break formations strategically using precise angles and bounce mechanics. Players control a shooting paddle to clear all moving ball formations before they descend too far, testing timing and spatial calculation. Progressively challenging levels increase ball speed and cluster complexity, demanding quick reflexes and careful aiming in this casual arcade shooter.\n\nKey Features\n\n• Angle-based ball shooting system  \n• Paddle aiming and bounce control  \n• Increasing ball speed challenge  \n• Level progression with cluster variety  \n• Classic arcade shooting theme"
+},
+{
 "id": "twinkle-shooter",
 "title": "Twinkle Bubble Shooter",
 "iframe": "https://html5.gamedistribution.com/5e98552b05034337aa50307bde4bb93d/",
