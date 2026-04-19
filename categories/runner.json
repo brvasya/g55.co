@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "boxhead-highway-runner-game",
+"title": "Boxhead Highway Runner Game",
+"iframe": "https://html5.g55.co/boxhead-highway-runner-game/",
+"description": "Navigate blocky highways while dodging cars and obstacles in this pixel-style runner. Players steer a constantly forward-moving vehicle, using quick reflexes to weave through traffic and survive as long as possible. The game features endless, procedurally generated roads with increasing difficulty, challenging casual gamers and younger players alike to beat their high score.\n\nKey Features\n\n• Vehicle dodge and lane shift control  \n• Increasing speed and obstacle density  \n• Endless procedural highway generation  \n• Score-based survival progression  \n• Pixel art traffic and road hazards"
+},
+{
 "id": "high-wall-ball",
 "title": "High Wall Ball Runner",
 "iframe": "https://html5.gamedistribution.com/679a7121182f4273b28fed6e22671e2f/",
