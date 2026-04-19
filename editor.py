@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import tkinter as tk
 import webbrowser
 from openai import OpenAI
@@ -43,6 +44,16 @@ def list_all_editable_files() -> list[str]:
 
     files.extend(list_json_files(CATEGORIES_DIR))
     return files
+
+
+
+
+def slugify(text: str) -> str:
+    text = str(text or "").strip().lower()
+    text = re.sub(r"[^\w\s-]", "", text, flags=re.UNICODE)
+    text = re.sub(r"[\s_]+", "-", text)
+    text = re.sub(r"-{2,}", "-", text)
+    return text.strip("-")
 
 
 def normalize_loaded_json(loaded, file_name: str):
@@ -407,6 +418,7 @@ class JsonGui(tk.Tk):
         self.title_var = tk.StringVar()
         self.title_entry = ttk.Entry(form, textvariable=self.title_var, width=42)
         self.title_entry.grid(row=1, column=0, sticky="we", pady=(0, 8), padx=(0, 6))
+        self.title_entry.bind("<KeyRelease>", self.on_title_change)
 
         self.copy_title_btn = ttk.Button(form, text="Copy", command=self.copy_title, width=10)
         self.copy_title_btn.grid(row=1, column=1, sticky="e", pady=(0, 8))
@@ -698,6 +710,25 @@ class JsonGui(tk.Tk):
                 self.listbox.itemconfig(idx, bg="#ffe5e5", fg="#a00000")
             elif not has_bullet:
                 self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
+
+
+    def on_title_change(self, event=None):
+        if self.selected_index is not None:
+            return
+
+        current_id = self.id_var.get().strip()
+        if current_id:
+            return
+
+        if self.is_root_categories_mode():
+            value = self.title_var.get().strip()
+        else:
+            value = self.title_var.get().strip()
+
+        if not value:
+            return
+
+        self.id_var.set(slugify(value))
 
     def read_form(self):
         if self.is_root_categories_mode():
