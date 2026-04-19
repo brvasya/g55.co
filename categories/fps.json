@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "fnaf-strike-2",
+"title": "FNAF Strike 2 FPS",
+"iframe": "https://html5.gamemonetize.games/fbbw9nepexo76ol7g11vkkl3gdptsihy/",
+"description": "Move through dim indoor zones while shooting animatronic enemies using fast paced firearm mechanics and reactive positioning to survive sudden attacks. Use quick aiming, reload timing, and corridor awareness to complete structured combat objectives. The goal is to eliminate hostile units, endure escalating encounters, and advance through increasingly tense facility battle scenarios.\n\nKey Features\n\n• Indoor survival shooting mechanics\n• Animatronic enemy encounters\n• Corridor combat navigation\n• Reactive aiming and timing\n• Progressive threat escalation"
+},
+{
+"id": "fnaf-strike",
+"title": "FNAF Strike FPS",
+"iframe": "https://html5.gamemonetize.games/wuo4t5nhav1xvkwmy5vb1b25zhpsxn43/",
+"description": "Move through dark facility corridors while shooting animatronic enemies using fast paced firearm mechanics and reactive positioning to survive sudden encounters. Use accurate aiming, reload timing, and area awareness to complete structured elimination objectives. The goal is to clear hostile zones, endure escalating attacks, and advance through increasingly intense indoor combat scenarios.\n\nKey Features\n\n• Indoor survival shooting mechanics\n• Animatronic enemy encounters\n• Corridor navigation challenges\n• Reactive aiming and timing\n• Progressive threat escalation"
+},
+{
 "id": "silent-asylum",
 "title": "Silent Asylum FPS",
 "iframe": "https://html5.gamemonetize.games/rk3mvh1c05z6691b0onolp3bw15lbgl3/",
@@ -85,18 +97,6 @@
 "description": "Advance through confined facility rooms while shooting aggressive toy enemies using rapid firearm mechanics and constant movement to survive escalating encounters. Use accurate aiming, weapon switching, and spatial awareness to complete structured elimination objectives. The goal is to clear hostile zones, withstand increasing enemy pressure, and progress through increasingly intense indoor combat scenarios.\n\nKey Features\n\n• Rapid indoor shooting combat\n• Toy enemy encounter system\n• Weapon switching mechanics\n• Facility room navigation\n• Progressive combat escalation"
 },
 {
-"id": "fnaf-strike",
-"title": "FNAF Strike FPS",
-"iframe": "https://html5.gamemonetize.games/wuo4t5nhav1xvkwmy5vb1b25zhpsxn43/",
-"description": "Move through dark facility corridors while shooting animatronic enemies using fast paced firearm mechanics and reactive positioning to survive sudden encounters. Use accurate aiming, reload timing, and area awareness to complete structured elimination objectives. The goal is to clear hostile zones, endure escalating attacks, and advance through increasingly intense indoor combat scenarios.\n\nKey Features\n\n• Indoor survival shooting mechanics\n• Animatronic enemy encounters\n• Corridor navigation challenges\n• Reactive aiming and timing\n• Progressive threat escalation"
-},
-{
-"id": "fnaf-strike-2",
-"title": "FNAF Strike 2 FPS",
-"iframe": "https://html5.gamemonetize.games/fbbw9nepexo76ol7g11vkkl3gdptsihy/",
-"description": "Move through dim indoor zones while shooting animatronic enemies using fast paced firearm mechanics and reactive positioning to survive sudden attacks. Use quick aiming, reload timing, and corridor awareness to complete structured combat objectives. The goal is to eliminate hostile units, endure escalating encounters, and advance through increasingly tense facility battle scenarios.\n\nKey Features\n\n• Indoor survival shooting mechanics\n• Animatronic enemy encounters\n• Corridor combat navigation\n• Reactive aiming and timing\n• Progressive threat escalation"
-},
-{
 "id": "warun",
 "title": "Warun FPS",
 "iframe": "https://html5.gamemonetize.games/xcz02d79b3tjggwnwu0vf4g4p8yk1jkz/",
@@ -113,12 +113,6 @@
 "title": "Dead Aim Skibidi Toilets Attack FPS",
 "iframe": "https://html5.gamemonetize.games/glr4degbtojrnmiudrcmmkw2o7b7gnqp/",
 "description": "Hold defensive positions while aiming precision shots at advancing skibidi toilet enemies using focused shooting mechanics and steady movement control to survive intense assaults. Use accurate targeting, weapon switching, and environmental awareness to manage growing attack waves across confined combat zones. The goal is to eliminate hostile threats efficiently, endure escalating pressure, and progress through increasingly demanding survival encounters.\n\nKey Features\n\n• Precision survival shooting system\n• Skibidi toilet enemy encounters\n• Defensive position mechanics\n• Weapon switching control\n• Progressive wave escalation"
-},
-{
-"id": "strike-blocky-funs-2022",
-"title": "Strike Block Funs FPS",
-"iframe": "https://html5.gamemonetize.games/d5lag5yc2q72ip1zoszc6sobqfceofl4/",
-"description": "Engage enemies using precise first-person shooting controls in a fast-paced combat environment. Players must navigate dynamic arenas while relying on quick reflexes and weapon accuracy to outperform opponents. Core gameplay revolves around tactical aiming and movement, pushing players through progressive challenges that test shooting skills.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Fluid player movement controls  \n• Progressive difficulty scaling  \n• Time-limited combat rounds  \n• Minimalist arena design"
 },
 {
 "id": "combat-blocky-strike-2022",
@@ -170,7 +164,7 @@
 },
 {
 "id": "fps-shooting-strike-modern-combat-war-2k20",
-"title": "FPS Shooting Strike : Modern Combat War 2k20",
+"title": "FPS Shooting Strike: Modern Combat War 2k20",
 "iframe": "https://html5.gamedistribution.com/f7f0ad0613b142f6a3ab06ca1dfc8e5e/",
 "description": "Engage in fast-paced shooting battles where you aim, shoot, and navigate dynamic combat zones. The gameplay centers on mastering precise firearm controls and tactical movement against AI or players. Players face escalating enemy waves across varied levels, requiring quick reflexes and strategic positioning. Expect multiple combat scenarios with weapon upgrades to enhance your offensive capabilities.\n\nKey Features\n\n• Precision aiming and shooting controls  \n• Tactical movement and cover system  \n• Progressive enemy wave difficulty  \n• Weapon upgrade and customization  \n• Urban and battlefield combat zones"
 },
