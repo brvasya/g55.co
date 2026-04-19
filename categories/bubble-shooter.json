@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "bublix-bubble-hit",
+"title": "Bublix: Bubble Shooter",
+"iframe": "https://html5.gamedistribution.com/908ed6a402314c1e8dc62b8103dd4adf/",
+"description": "Launch colored bubbles to clear clusters and strategize bubble matching in a classic shooter setup. Players aim to carefully select angles and colors to pop groups before the bubbles reach the bottom. The gameplay relies on a precise aiming system and limited bubble supply, testing quick planning and aiming skills in a straightforward arcade setting.\n\nKey Features\n\n• precision bubble aiming mechanic  \n• color matching cluster clearing  \n• progressive bubble arrangement challenges  \n• limited shot bubble inventory  \n• arcade style bubble grid system"
+},
+{
 "id": "ballz-shooter",
 "title": "Ballz Bubble Shooter",
 "iframe": "https://html5.gamemonetize.games/0xi417nczhb62bqxfzp0wxy5ogochmie/",

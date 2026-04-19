@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "high-wall-ball",
+"title": "High Wall Ball Runner",
+"iframe": "https://html5.gamedistribution.com/679a7121182f4273b28fed6e22671e2f/",
+"description": "Navigate complex wall mazes by running and bouncing a ball with precise timing and momentum control. The game challenges players to maintain speed while avoiding falling off ledges, combining physics-based ball movement with platforming puzzle elements. Progression depends on mastering wall contacts and jumps to reach higher levels. \n\nKey Features\n\n• Momentum-based ball movement  \n• Precision wall bouncing controls  \n• Progressive platform difficulty  \n• Time trial scoring system  \n• Abstract maze environment"
+},
+{
+"id": "gravity-balls",
+"title": "Gravity Balls Runner",
+"iframe": "https://html5.gamedistribution.com/c0a5299050e64235afbef311b77406d8/",
+"description": "Navigate shifting gravity fields to sprint through intricate obstacle courses where timing flips the rules of movement. This runner challenges players to master gravitational flips that alter the direction of momentum while dodging hazards and collecting points. Progression ramps up with increasingly complex level designs that test agility and reaction speed in an abstract environment tailored for casual teens and kids.\n\nKey Features\n\n• Gravity inversion mechanic  \n• Precision timing controls  \n• Progressive obstacle complexity  \n• Score-based level advancement  \n• Minimalist abstract setting"
+},
+{
 "id": "run-forrest-run",
 "title": "Run Forrest Run",
 "iframe": "https://html5.gamemonetize.games/d34e8cuc61121wtr4xw689py0uag8pqs/",

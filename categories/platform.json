@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "hop-hop-ball",
+"title": "Hop Hop Ball Platformer",
+"iframe": "https://html5.gamedistribution.com/8e294d9acb4b44f4838f5ceace8bf207/",
+"description": "Navigate tricky platforms by timing precise ball jumps in this physics-based platformer. Players control a bouncing ball that must leap through increasingly complex levels full of obstacles and gaps. The challenge centers on mastering momentum and jump height to avoid falls and reach each stage’s goal in a colorful, abstract world.\n\nKey Features\n\n• Momentum-driven jump mechanics  \n• Directional ball control system  \n• Increasingly complex platform layouts  \n• Time-based level completion tracking  \n• Abstract minimal visual design"
+},
+{
+"id": "hop-ball",
+"title": "Hop Ball Platformer",
+"iframe": "https://html5.gamedistribution.com/75b26c2805ce4ab1b6723eaee63c0f3a/",
+"description": "Hop across moving platforms while balancing momentum in this precise platform challenge. Players time jumps carefully using a bouncing ball mechanic to overcome gaps and avoid hazards as levels gradually increase in difficulty. Mastering control over hop strength and direction is key to reach each stage’s exit and push deeper into complex layouts.\n\nKey Features\n\n• Momentum-based hopping control  \n• Timing critical platform traversal  \n• Progressive level difficulty spikes  \n• Bounce physics affecting trajectory  \n• Colorful minimalist platform design"
+},
+{
+"id": "gravity-ball",
+"title": "Gravity Ball Platformer",
+"iframe": "https://html5.gamedistribution.com/da3644abcf8a4e11b7bf7f20f3215895/",
+"description": "Navigate shifting gravity fields to leap between floating platforms in this physics-driven challenge. Players must master momentum changes and precise timing to reach the goal at each level’s end. Unpredictable gravity directions and intricate platform arrangements create a unique twist on traditional platforming, demanding clever use of spatial awareness and quick reflexes.\n\nKey Features\n\n• Gravity manipulation mechanic  \n• Momentum-based platforming control  \n• Increasingly complex level design  \n• Time attack scoring mode  \n• Minimalist sci-fi visual style"
+},
+{
 "id": "rough-ball",
 "title": "Rough Ball Platformer",
 "iframe": "https://html5.gamedistribution.com/bc9e48b8a60142a79b44259398160d98/",

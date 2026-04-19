@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "pigs-vs-blocks",
+"title": "Pigs vs Blocks Puzzle",
+"iframe": "https://html5.gamemonetize.games/rgqdib5pkvzzl39jmukjkm7qh2rn6gcv/",
+"description": "Swipe across falling blocks to clear matching groups while guiding your pig character through puzzle stages. Combining strategic block breaking with chain reaction mechanics, the game challenges players to manage limited moves and avoid getting trapped on a shrinking playfield. Progression introduces varied block types, increasing difficulty and puzzle complexity for casual puzzle enthusiasts.\n\nKey Features\n\n• Swipe matching block clearing  \n• Pig movement control system  \n• Limited moves challenge  \n• Chain reaction puzzle combos  \n• Progressive block variety"
+},
+{
+"id": "hole-ball",
+"title": "Hole Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/3bb4e236b6cc4ee99ac3e5efd0afe7d8/",
+"description": "Navigate a small ball through intricate hole-filled puzzles by strategically controlling gravity and trajectory. Players manipulate angles and force to guide the ball into the target hole while avoiding traps and obstacles. Multiple levels increase complexity, requiring precise timing and spatial reasoning to solve each stage.\n\nKey Features\n\n• Gravity-based ball control  \n• Angle and force adjustment  \n• Progressive maze challenges  \n• Time-limited puzzle mode  \n• Minimalistic geometric visuals"
+},
+{
+"id": "hit-ball",
+"title": "Hit Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/11b8fddb1b924af383ef8916da56abe3/",
+"description": "Launch balls to break strategically placed blocks in this puzzle challenge, using precise aiming and timing to clear levels. Each stage tests your ability to manipulate ball trajectories to hit clusters of bricks, requiring careful planning and quick reflexes. Progression introduces more complex patterns and obstacles, creating a layered spatial puzzle experience.\n\nKey Features\n\n• Ball launching trajectory control  \n• Strategic brick breaking mechanic  \n• Precision aiming challenges  \n• Progressive level difficulty scaling  \n• Minimalistic puzzle environment"
+},
+{
+"id": "hide-ball",
+"title": "Hide Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/4563680ee85c4a4c8d89744bbb6cff27/",
+"description": "Slide the ball beneath cups to trick opponents and reveal its hidden location in this spatial puzzle challenge. Players manipulate cup arrangements and observe subtle clues to guess where the ball hides, advancing through increasingly complex patterns. The tactile movement and visual deduction form the core interaction, pushing memory and observation skills to unlock higher difficulty levels.\n\nKey Features\n\n• Cup sliding manipulation  \n• Visual clue observation  \n• Memory-based challenge progression  \n• Multiple difficulty tiers  \n• Minimalistic puzzle setting"
+},
+{
+"id": "break-beat",
+"title": "Break Beat Puzzle",
+"iframe": "https://html5.gamedistribution.com/dfbca7a8ccc64e5da34fe06be70c497f/",
+"description": "Arrange and match colored blocks to clear stages and solve increasingly complex puzzles using strategic placement and chain reactions. Players aim to break patterns by connecting sequences within a dynamic grid that challenges timing and foresight. Progression introduces varied block types and puzzle layouts that require deeper planning with each level.\n\nKey Features\n\n• Color matching chain reactions  \n• Grid based puzzle manipulation  \n• Increasingly complex stage layouts  \n• Time sensitive challenge mechanic  \n• Casual puzzle progression system"
+},
+{
 "id": "spatial-puzzle",
 "title": "Spatial puzzle",
 "iframe": "https://html5.gamemonetize.games/5ptho1y7arlo1f24n62lpjjm7y65mbge/",
