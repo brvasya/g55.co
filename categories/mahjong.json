@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mahjong-build-farm",
+"title": "Mahjong build farm",
+"iframe": "https://html5.gamedistribution.com/fbf9bd9c6d30424694270279fc1f3acf/",
+"description": "Match tiles to clear stacked layouts and build structures piece by piece in this tile-matching puzzle. The core mechanic centers on identifying and removing Mahjong pairs from increasingly complex vertical compositions. Progression depends on strategic tile selection through layered formations that challenge spatial awareness. Players move through levels that add new stacking patterns, enhancing the puzzle’s density.\n\nKey Features\n\n• Tile pair matching mechanic  \n• Click and drag tile controls  \n• Layered stacking challenge  \n• Progressive layout complexity  \n• Casual puzzle construction theme"
+},
+{
 "id": "zoo-mahjongg-deluxe",
 "title": "Zoo Mahjong Deluxe",
 "iframe": "https://html5.gamedistribution.com/fd0cab305b564486a38ed12a084d376b/",

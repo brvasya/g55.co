@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "hidden-object-street-of-secrets",
+"title": "Hidden Object: Street Of Secrets",
+"iframe": "https://html5.gamedistribution.com/e2f88349ab4147138060e0ec8efc431b/",
+"description": "Identify hidden objects by scanning detailed street scenes filled with clues and visual puzzles in this casual hidden object game. The player interacts with layered image hotspots, carefully analyzing crowded urban environments to locate specific items, advancing through increasingly complex scenes. Finding all objects reveals secrets and solves intriguing mysteries step-by-step.\n\nKey Features\n\n• Layered object detection mechanics  \n• Point-and-click item interaction  \n• Increasing scene complexity progression  \n• Time-limited challenge mode  \n• Urban street environment details"
+},
+{
 "id": "hidden-object-adventure",
 "title": "Hidden Object Adventure",
 "iframe": "https://html5.gamedistribution.com/afbb219bce514948ad6fa5ac47c65567/",
