@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "hexa-candy-match-3",
+"title": "Hexa Candy Match 3",
+"iframe": "https://html5.g55.co/hexa-candy-match-3/",
+"description": "Match hexagonal candies by rotating clusters to form color lines and clear the board before running out of moves. The game challenges players with strategic cluster rotations rather than simple swaps, adding depth to traditional match 3 gameplay. Levels gradually increase difficulty with tighter move limits and complex candy arrangements to master.\n\nKey Features\n\n• Hexagonal cluster rotation mechanic  \n• Strategic line-clearing objectives  \n• Progressive level difficulty scaling  \n• Limited move challenge system  \n• Colorful candy puzzle design"
+},
+{
 "id": "scary-match-3",
 "title": "Scary Match 3",
 "iframe": "https://html5.gamemonetize.games/g7d0ey0bx3cnplsxi2m70utg77pof0jo/",
