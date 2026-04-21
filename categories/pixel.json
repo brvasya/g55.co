@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "pixel-shoot",
+"title": "Pixel Shoot",
+"iframe": "https://html5.gamedistribution.com/09ad35f48009407487ee1a4591ccd034/",
+"description": "Navigate pixelated arenas using precise shoot-and-dodge tactics to clear waves of blocky enemies. This game challenges players to master rapid aiming and timing within a retro pixel environment. Survive escalating enemy patterns while aiming for high scores or unlocking new levels that test reflexes and strategic movement.\n\nKey Features\n\n• Pixel-based shooting mechanics  \n• Responsive aiming and movement controls  \n• Progressive enemy wave difficulty  \n• Level unlock and score tracking  \n• Retro-inspired pixel art style"
+},
+{
 "id": "pixel-journey",
 "title": "Pixel Journey",
 "iframe": "https://html5.gamedistribution.com/9092aea23740452c987308b4bd9ad602/",

@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "dice-puzzle",
+"title": "Dice Puzzle",
+"iframe": "https://html5.gamedistribution.com/30741355ad454b8cae5d648cb5caa244/",
+"description": "Arrange dice strategically to clear levels and solve numeric puzzles using spatial logic and pattern recognition. The gameplay revolves around combining and placing dice to meet specific numerical targets before running out of moves. Players advance through increasing difficulty, unlocking new puzzle layouts that require sharper planning and foresight.\n\nKey Features\n\n• Dice placement puzzle mechanics  \n• Sequential move limitation challenge  \n• Progressive level complexity system  \n• Numeric target combination goals  \n• Casual grid-based puzzle setting"
+},
+{
 "id": "pigs-vs-blocks",
 "title": "Pigs vs Blocks Puzzle",
 "iframe": "https://html5.gamemonetize.games/rgqdib5pkvzzl39jmukjkm7qh2rn6gcv/",
