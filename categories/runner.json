@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "paper-racers",
+"title": "Paper Racers Runner",
+"iframe": "https://html5.gamemonetize.games/uj6gcua0n25r646lryz3594mol7d432o/",
+"description": "Navigate continuous obstacle courses using precise timing and quick reflexes in this dynamic runner. Players control a paper-crafted character darting through winding paths filled with folding barriers and jumping trials. The core mechanic involves rapid lateral moves to dodge and jump, aiming to achieve the highest distance without crashing. Progression unfolds through increasingly complex track layouts.\n\nKey Features\n\n• Precision timing movement controls  \n• Progressive obstacle difficulty scaling  \n• Responsive jump and dodge mechanics  \n• Distance-based scoring system  \n• Paper-themed runner environment"
+},
+{
+"id": "morph-racers",
+"title": "Morph Racers Runner",
+"iframe": "https://html5.gamemonetize.games/831mmgpd6esv8e8q9cr5ul5kp2nx0pd6/",
+"description": "Race through dynamic obstacle courses by morphing your runner’s shape to fit narrow paths and evade hazards. This game challenges you to quickly adapt your form while maintaining speed in continuous progression levels. Timing your shape-shifts is essential to survive increasingly complex runner stages and master tight spaces.\n\nKey Features\n\n• Shape-morphing movement mechanic  \n• Responsive swipe controls  \n• Increasingly complex obstacle patterns  \n• Endless runner level progression  \n• Colorful abstract environment design"
+},
+{
 "id": "safarirun",
 "title": "Safari Run",
 "iframe": "https://html5.gamemonetize.games/eiqkvxix0wqmaywerv5l2d6larsxk874/",

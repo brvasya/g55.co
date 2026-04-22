@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "stacklands",
+"title": "Stack Lands",
+"iframe": "https://html5.gamemonetize.games/9ydku0nbjt4tl5xam6mwmq8ss4govwip/",
+"description": "Stack objects vertically to build strategic formations while navigating the game’s unique card stacking mechanic. Players arrange diverse terrain and unit cards to expand their village, exploring procedural elements for growth and defense. The main goal is to survive successive encounters by carefully stacking resources and troops to expand the settlement and withstand threats.\n\nKey Features\n\n• Card stacking mechanics  \n• Turn-based unit deployment  \n• Procedural village growth system  \n• Resource management challenge  \n• Pixel art fantasy environment"
+},
+{
+"id": "squid-stacky-maze",
+"title": "Squid Stack Maze",
+"iframe": "https://html5.gamedistribution.com/4813e03cd60d4a53a591f9445bc4ef7f/",
+"description": "Stack moving squid characters through maze pathways, balancing precision and timing to avoid traps and dead ends. Players navigate layered puzzle stages by carefully positioning multiple squids in tight spaces while anticipating shifting obstacles. Success depends on strategic stacking and maneuvering to clear complex routes under time pressure, blending spatial awareness with reflex challenges.\n\nKey Features\n\n• Layered stacking puzzle mechanics  \n• Precise timed movement controls  \n• Maze navigation with trap avoidance  \n• Progressive stage difficulty scaling  \n• Underwater-themed visual elements"
+},
+{
 "id": "unstack-tower",
 "title": "Un Stack Tower",
 "iframe": "https://html5.gamedistribution.com/58cd87d5fac94261800865d2c46e70ac/",

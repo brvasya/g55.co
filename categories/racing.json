@@ -1,6 +1,42 @@
 {
 "pages": [
 {
+"id": "toysrace",
+"title": "Toys Race",
+"iframe": "https://html5.gamedistribution.com/9c22c3168baf41348f2a916313bc5abf/",
+"description": "Race quirky toy vehicles across vibrant miniature tracks filled with unexpected twists. Players navigate tight corners and variable surfaces using simple steering and acceleration controls, aiming to outpace colorful opponents in progressively challenging circuits. Multiple vehicle choices and dynamic track elements add layers of strategic timing and precision to each race.\n\nKey Features\n\n• Steering and acceleration mechanics  \n• Progressive circuit difficulty levels  \n• Multiple toy vehicle options  \n• Dynamic track obstacles  \n• Colorful opponent AI behavior"
+},
+{
+"id": "speedracer",
+"title": "Speed Racer",
+"iframe": "https://html5.gamemonetize.games/jghs0doxr1uhlsfsjlzx9jns48e25tmp/",
+"description": "Race futuristic hovercars through dynamic city circuits, mastering precise drift controls to outpace rivals in tight corners. Players navigate multiple lap challenges while balancing speed and handling on neon-lit tracks. Each race demands skillful timing of boosts and careful vehicle positioning to secure victory against increasingly tough AI opponents.\n\nKey Features\n\n• Drift-based cornering mechanic  \n• Boost gauge management system  \n• Progressive lap-based challenges  \n• Time trial and race modes  \n• Neon cyberpunk racing environment"
+},
+{
+"id": "highway-traffic-racerr",
+"title": "Highway Traffic Racer Car",
+"iframe": "https://html5.gamemonetize.games/kkjxnb8lwk9cwznz46u2sw9devjkzql8/",
+"description": "Race high-speed cars through busy highway lanes while dodging dynamic traffic obstacles and tight turns. The game features realistic vehicle handling on multi-lane roads, requiring precise lane switching and timing. Players aim to cover maximum distance without crashing, navigating increasingly dense traffic flows to test their reflexes and control.\n\nKey Features\n\n• Multi-lane highway driving  \n• Responsive vehicle steering control  \n• Increasing traffic density challenge  \n• Distance-based progression system  \n• Urban road traffic environment"
+},
+{
+"id": "highway-racers",
+"title": "Highway Racer",
+"iframe": "https://html5.gamemonetize.games/lofxtdyr7cixgg646un2yth7gnmywgtj/",
+"description": "Race high-speed cars through urban streets while navigating traffic and sharp turns using responsive steering controls. Precision driving and timing are essential to avoid collisions and complete levels quickly. Players can unlock new vehicles and face increasing difficulty across progressively challenging courses. The game’s casual racing style suits teens and kids aiming for fast-paced street competition.\n\nKey Features\n\n• Responsive steering and acceleration  \n• Traffic avoidance mechanics  \n• Progressive level difficulty  \n• Vehicle unlocking system  \n• Urban street racing environment"
+},
+{
+"id": "gt-micro-racers",
+"title": "GT Micro Racer",
+"iframe": "https://html5.gamedistribution.com/cd033e8cf295468caa8891286b2635cb/",
+"description": "Race compact cars through pixel-art circuits in tight time-based challenges, mastering sharp cornering and boost management. Unlock new tracks by completing laps and improving your leaderboard ranks in vibrant urban and countryside settings. The gameplay emphasizes precise micro control and incremental vehicle upgrades to shave seconds off your best times.\n\nKey Features\n\n• Precision cornering control  \n• Time trial leaderboard progression  \n• Incremental vehicle tuning system  \n• Multiple pixel-art race environments  \n• Boost and drift mechanic integration"
+},
+{
+"id": "formula-racers",
+"title": "Formula Racer",
+"iframe": "https://html5.gamedistribution.com/0072a8afa16a480bb4fe52fbe59ea885/",
+"description": "Race sleek formula cars through demanding circuits using precision steering and timed gear shifts to outpace rivals. Navigate tight corners and accelerate on straightaways while mastering lap-based progression to claim top positions. The game emphasizes quick reflexes and smooth vehicle handling to dominate competitive race formats designed for casual players.\n\nKey Features\n\n• Precision steering controls  \n• Time-based lap progression  \n• Dynamic track curvature challenges  \n• Competitive race position system  \n• Formula car racing environment"
+},
+{
 "id": "gear-race-car-game",
 "title": "Gear Race Car Game",
 "iframe": "https://html5.gamemonetize.games/imv01iehj2wu489nh21owfz7qteqbebw/",
@@ -1424,7 +1460,7 @@
 },
 {
 "id": "speed-racer",
-"title": "Speed Racer",
+"title": "Speed Racer Car",
 "iframe": "https://html5.gamedistribution.com/e5e4769cda4644a7af28760dcf9f97df/",
 "description": "Race high-speed vehicles through twisting urban tracks while mastering sharp turns and acceleration bursts. The game challenges players to maintain control with arcade-style steering amidst traffic obstacles. Compete in timed circuits aiming for the fastest lap times and unlock new routes by winning races.\n\nKey Features\n\n• Arcade steering control system  \n• Time trial lap challenges  \n• Unlockable circuit routes  \n• Traffic obstacle navigation  \n• Urban racing environment"
 },

@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "colorsnake",
+"title": "Color Snake",
+"iframe": "https://html5.gamemonetize.games/14ubanqlz23c2xsbqjhhrvmd0u4liqmk/",
+"description": "Navigate shifting patterns of color to guide your snake across a dynamic canvas while filling in vibrant sections with precise movements. The core mechanic blends classic snake controls with a color application system that challenges players to cover areas without colliding. Progression involves unlocking new palettes as the snake elongates, requiring careful planning to maintain safe navigation.\n\nKey Features\n\n• Snake length management mechanic  \n• Directional input for precise control  \n• Increasing difficulty through area coverage  \n• Unlockable color palettes and zones  \n• Abstract visual coloring environment"
+},
+{
 "id": "blocks-of-color",
 "title": "blocks of color",
 "iframe": "https://html5.gamemonetize.games/2j1862c5o4r279kc4tj2hqcvr6mpif8f/",
@@ -683,12 +689,6 @@
 "title": "Color Snake 2",
 "iframe": "https://html5.gamemonetize.games/6fap095wgmipvj0m0j1zryngixb6lces/",
 "description": "Guide a growing snake through vibrant patterns by filling in available spaces with colors matching each segment. Movement-based color matching drives progression as players aim to cover all tiles without overlapping. Levels advance by increasing area complexity and introducing new color sets for casual players of all ages.\n\nKey Features\n\n• Segment-based color matching  \n• Swipe gesture movement control  \n• Progressive tile coverage challenges  \n• Unlockable palette variations  \n• Bright geometric pattern settings"
-},
-{
-"id": "color-snake",
-"title": "Color Snake",
-"iframe": "https://html5.gamedistribution.com/21722110663d4bf2bcad34e6ca919338/",
-"description": "Navigate a serpentine creature that grows longer as it fills blank spaces with vibrant hues in this unique twist on coloring gameplay. Control smooth, flowing movement to strategically cover patterns while avoiding overlap or dead ends. Progress through increasingly complex grids, where your goal is to complete colorful paths and unlock new palettes.\n\nKey Features\n\n• Continuous snake movement control  \n• Grid-based coloring puzzle mechanics  \n• Increasing level complexity challenges  \n• Unlockable color palette system  \n• Casual accessibility for younger players"
 },
 {
 "id": "color-skibidi-toilet",

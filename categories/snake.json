@@ -1,6 +1,60 @@
 {
 "pages": [
 {
+"id": "thesnake",
+"title": "The Snake",
+"iframe": "https://html5.gamemonetize.games/u5i681j5yjkbx5rt8q1p9unhy2xvfyi2/",
+"description": "Navigate a growing snake through a confined grid, steering carefully to avoid collisions with its own body while aiming to increase length. The core mechanic involves precise directional control and spatial awareness as the snake extends with each collected item. Players must manage limited space and increasing speed to reach higher scores in a classic arcade style gameplay.\n\nKey Features\n\n• Grid based directional movement  \n• Length extension with item collection  \n• Collision avoidance challenge  \n• Increasing speed difficulty levels  \n• Retro-inspired snake gameplay"
+},
+{
+"id": "snakey-hunters-arena",
+"title": "Snake: Hunters Arena",
+"iframe": "https://html5.gamemonetize.games/qjusux5oqqbsva2z8x2fu24h3afnpsst/",
+"description": "Navigate serpentine battlegrounds by controlling a growing snake that competes for territory and survival against rival serpents. Utilize precise slithering and quick maneuvers to outwit opponents in an arena-style environment where the challenge is to become the dominant hunter. The game emphasizes strategic positioning and reflex-driven evasion in multiplayer snake encounters.\n\nKey Features\n\n• Dynamic snake growth mechanics  \n• Responsive directional controls  \n• Arena survival scoring system  \n• Multiplayer PvP encounters  \n• Tactical environment interaction"
+},
+{
+"id": "snakez",
+"title": "Snake Z",
+"iframe": "https://html5.gamedistribution.com/7f0f577eef2f401c94d5e290254782e8/",
+"description": "Navigate a growing serpent through a classic grid-based arena by collecting orbs that extend its length. Timing and precision are crucial as turning speed regulates movement, while the player must avoid running into obstacles and the snake’s tail. The challenge increases as the snake elongates, demanding sharper reflexes and careful spatial awareness.\n\nKey Features\n\n• Continuous snake length growth  \n• Responsive directional controls  \n• Increasing difficulty with length  \n• Score tracking and leaderboards  \n• Classic minimalist arcade style"
+},
+{
+"id": "snakevsnumbers",
+"title": "Snake Vs Numbers",
+"iframe": "https://html5.gamedistribution.com/912f098589004ab08ec782d011339c7b/",
+"description": "Navigate a growing snake through numbered blocks by breaking them down using your length in a unique twist on classic snake gameplay. Control movement precisely to strategize paths and survive as blocks decrease your size upon contact. The challenge intensifies with accumulating obstacles requiring quick decision-making and spatial awareness.\n\nKey Features\n\n• Length-based block destruction  \n• Precise swipe movement control  \n• Increasing block durability challenge  \n• Endless progression and scoring  \n• Minimalist numeric puzzle theme"
+},
+{
+"id": "snakemaxx",
+"title": "Snake Maxx",
+"iframe": "https://html5.gamedistribution.com/d5a03822f6cd4807a9f8d1d65212efe2/",
+"description": "Navigate through tight spaces to grow your digital serpent by consuming pellets and avoiding collisions in this vibrant, minimalist snake game. The game challenges players with smooth directional controls and increasing speed to extend their snake’s length without crashing. Progression tests reflexes as the playing field fills up, demanding careful planning and quick reactions.\n\nKey Features\n\n• Directional swipe control system  \n• Increasing snake speed progression  \n• Progressive tail length challenge  \n• Collision avoidance mechanics  \n• Minimalist arcade visual style"
+},
+{
+"id": "snakegamepro",
+"title": "Snake Game Pro",
+"iframe": "https://html5.gamemonetize.games/oyx4jws0ew4ruixgfd1foyohf5yojeg9/",
+"description": "Navigate the serpent through dynamically shrinking grids, controlling precise turns to avoid collisions while consuming glowing pellets that extend its length. The game challenges players to adapt to tightening spaces and optimize movement timing for higher scores. Mastering seamless directional inputs is key to surviving longer amid increasing speed and spatial constraints.\n\nKey Features\n\n• Directional turn-based movement control  \n• Dynamic shrinking play area mechanic  \n• Length extension through pellet consumption  \n• Increasing speed challenge progression  \n• Score tracking with survival emphasis"
+},
+{
+"id": "snakefalls",
+"title": "Snake Falls",
+"iframe": "https://html5.gamemonetize.games/fninvn8jh4cy7cwgsowmgwri99vj06uw/",
+"description": "Navigate a twisting snake through a series of cascading platforms, reacting quickly to changing terrain and obstacles. Precision timing guides the slithering movement while adapting to shifting elevations. Avoiding sudden drops and managing momentum are essential to progress through increasingly complex levels that test reflexes and spatial awareness.\n\nKey Features\n\n• Cascading platform navigation  \n• Momentum-based snake movement  \n• Timing-critical obstacle avoidance  \n• Progressive level difficulty  \n• Dynamic vertical environment"
+},
+{
+"id": "snakebit",
+"title": "Snake Bit",
+"iframe": "https://html5.gamemonetize.games/1n2xk1p0xw9a4hozvdcomc2jk3meddt1/",
+"description": "Control a slithering snake navigating a grid to collect items and grow longer while avoiding collisions with yourself and the walls. The game relies on precise directional movement to manage the growing length and increasing speed, testing reflexes as the snake snakes through tighter spaces. Progression centers on survival duration and high score improvement.\n\nKey Features\n\n• Directional grid movement  \n• Length growth mechanic  \n• Collision avoidance challenge  \n• Increasing speed progression  \n• Classic snake arcade style"
+},
+{
+"id": "crazysnake",
+"title": "Crazy Snake",
+"iframe": "https://html5.gamemonetize.games/6y3vg3qu01r3asb2d5dmbh5x1wf6lmrt/",
+"description": "Navigate a continuously growing snake to collect items while avoiding collisions with yourself and the arena boundaries in this classic-style arcade challenge. The game increases difficulty as the snake lengthens, requiring precise directional control and quick reflexes. Players aim to achieve the longest possible length by mastering tight turns and steady pace.\n\nKey Features\n\n• Continuous snake length growth  \n• Precise directional input controls  \n• Increasing difficulty curve  \n• Collision avoidance mechanics  \n• Classic arcade arena layout"
+},
+{
 "id": "twisted-snakes-brain-puzzle",
 "title": "Twisted Snakes Brain Puzzle",
 "iframe": "https://html5.gamemonetize.games/n7qu2ugo4bzo1iz1dw9ivwzceew52b35/",
