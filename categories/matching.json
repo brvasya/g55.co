@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "tidematch",
+"title": "Tide Match",
+"iframe": "https://html5.gamemonetize.games/e2c9tsnfiryv300sca6xi7r201v6t1z0/",
+"description": "Swap and match colorful tiles to clear ocean-themed boards and complete challenging patterns. Players strategize around limited moves using a grid-based matching mechanic to unlock new levels with increasing difficulty. The game features cascading combos and island-inspired visuals that add depth to each puzzle stage.\n\nKey Features\n\n• Grid-based tile matching  \n• Limited move strategy system  \n• Cascading combo mechanics  \n• Progressive difficulty levels  \n• Ocean island theme elements"
+},
+{
 "id": "match-colors-game",
 "title": "Match Colors Game",
 "iframe": "https://html5.gamemonetize.games/8izcaeil8pmztifrzu0m0g07ijxs2rkr/",

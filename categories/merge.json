@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "cube-merge-game",
+"title": "Cube Merge Game",
+"iframe": "https://html5.gamemonetize.games/6qq5vygfamfhr2tnpt0ygbtj2wids64e/",
+"description": "Combine matching cubes to grow larger blocks and clear space on a compact grid in this merge puzzle challenge. Players strategically slide numbered cubes to merge identical pairs, unlocking higher-value pieces with each successful connection. The goal is to optimize tile placement for maximum merges before running out of moves.\n\nKey Features\n\n• Tile merging grid system  \n• Swipe controls for cube movement  \n• Increasing tile value progression  \n• Limited move challenge mode  \n• Minimalist block puzzle design"
+},
+{
 "id": "poppy-and-glamrock-merge",
 "title": "Poppy And Glamrock Merge",
 "iframe": "https://html5.gamemonetize.games/oscv2f6ftn2bpkbfl3fh7inbqd75665a/",

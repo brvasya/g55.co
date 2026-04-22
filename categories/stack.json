@@ -1,6 +1,60 @@
 {
 "pages": [
 {
+"id": "unstack-tower",
+"title": "Un Stack Tower",
+"iframe": "https://html5.gamedistribution.com/58cd87d5fac94261800865d2c46e70ac/",
+"description": "Stack falling blocks precisely to clear layers and prevent collapse in this casual puzzle game. Players time their taps to align moving tiles using the core mechanic of precision stacking under increasing speed. The challenge grows as layers become narrower, testing timing and patience across endless progression modes.\n\nKey Features\n\n• Precision timing stacking system  \n• Tap control for block alignment  \n• Progressive speed difficulty increase  \n• Endless mode with score tracking  \n• Minimalist colorful block graphics"
+},
+{
+"id": "sweetstack",
+"title": "Sweet Stack",
+"iframe": "https://html5.gamemonetize.games/7dbsjzbzr5wtg45qkn7ivm9yxhtdcw92/",
+"description": "Stack precise layers of colorful sweets with timing and accuracy to build the tallest confection possible in this casual puzzle game. Players must carefully align each new piece on the sugary base while adapting to the increasing speed that challenges hand-eye coordination. The game advances through progressively demanding levels where balance and precision determine success.\n\nKey Features\n\n• Timing-based stacking mechanic  \n• Responsive mouse and touch controls  \n• Gradual speed increase challenge  \n• Endless and level progression modes  \n• Vibrant candy-themed visuals"
+},
+{
+"id": "stacky-maze-game",
+"title": "Stack Maze Game",
+"iframe": "https://html5.gamemonetize.games/25dd8cn7dtn6bs6sngv0epocnh7n12tt/",
+"description": "Stack blocks carefully to navigate twisting pathways and avoid falling hazards. This game challenges players to balance precision and timing as they build vertical towers across shifting platforms. Each level increases difficulty by introducing narrower gaps and faster stacking sequences, requiring steady hands and quick reflexes to reach the goal. The simple, abstract environment keeps focus on the escalating spatial puzzles.\n\nKey Features\n\n• Precision stacking mechanic  \n• Tap and swipe control inputs  \n• Increasing level complexity  \n• Time-based score challenges  \n• Minimalist geometric visuals"
+},
+{
+"id": "stacky-bird",
+"title": "Stack Bird",
+"iframe": "https://html5.gamemonetize.games/zwvrd9677th3ge9b4tqygywd3s63sx3s/",
+"description": "Stack falling blocks precisely to build a tall tower, players test their timing and spatial judgment in this stacking game. The core mechanic revolves around aligning moving birds perfectly to avoid losing pieces. As the pile grows, maintaining balance becomes more challenging, demanding sharp reflexes and steady hands to reach new heights.\n\nKey Features\n\n• Moving block alignment mechanic  \n• Timing-based stacking controls  \n• Increasing difficulty with height  \n• Score tracking progression system  \n• Colorful bird-themed visuals"
+},
+{
+"id": "squid-game-stacky-maze",
+"title": "Squid Game Stack Maze",
+"iframe": "https://html5.gamemonetize.games/0q49shzwtaa136piff1al8dljwbcjs01/",
+"description": "Stack colored blocks precisely to navigate through increasingly complex maze patterns in this challenging puzzle game. The core mechanic revolves around timing the perfect drop of each block to build stable structures while avoiding traps. Players must carefully balance speed and accuracy to complete levels and unlock new maze designs, keeping gameplay fresh and engaging.\n\nKey Features\n\n• Precise block stacking mechanic  \n• Time-based drop controls  \n• Progressively intricate maze levels  \n• Scoring system based on speed  \n• Maze navigation with spatial puzzles"
+},
+{
+"id": "metastack",
+"title": "Meta Stack",
+"iframe": "https://html5.gamemonetize.games/dlnb4987u5ap9i4p8phnryzhuqulufa5/",
+"description": "Stack falling blocks precisely to create stable towers and reach new heights defines the core gameplay loop in this title. Players rely on timed placement and spatial judgment to line up pieces as they descend, aiming to build the tallest structure possible without collapse. The challenge escalates with increasing block drop speed, providing a steady tension that rewards accuracy and rhythm.\n\nKey Features\n\n• Precision block stacking mechanic  \n• Responsive timing based controls  \n• Progressive speed increase challenge  \n• Endless tower height mode  \n• Minimalist abstract visual style"
+},
+{
+"id": "hoppy-stacky",
+"title": "Hoppy Stack",
+"iframe": "https://html5.gamedistribution.com/43ed24dc2ef248aaad9b7cc0c6e4caaa/",
+"description": "Jump precise platforms and time your landings to build the tallest stack possible in this casual arcade challenge. Players balance dynamic movement with spatial judgment as they carefully place each colorful block to avoid toppling the growing tower. Success depends on steady reflexes and stacking accuracy to reach new heights and unlock additional gameplay layers.\n\nKey Features\n\n• Block stacking precision mechanic  \n• Tap-based timing controls  \n• Increasing difficulty levels  \n• Score multiplier progression system  \n• Bright minimalist platform visuals"
+},
+{
+"id": "hoho-s-burger-stacko",
+"title": "Hoho's Burger Stack",
+"iframe": "https://html5.gamemonetize.games/f34eykevaivg2dxypd1hexq5rimpugl9/",
+"description": "Stack uneven burger ingredients precisely to build the tallest tower without toppling it in this casual browser game. Timing and placement are crucial as players manipulate varying patty shapes to maintain balance. The challenge grows with each successfully layered item, testing steady hands and spatial judgment in a playful kitchen environment.\n\nKey Features\n\n• Ingredient stacking precision mechanic  \n• Mouse control for placement timing  \n• Progressive balance difficulty levels  \n• High score based on tower height  \n• Food-themed visual style"
+},
+{
+"id": "bubblestack",
+"title": "Bubble Stack",
+"iframe": "https://html5.gamemonetize.games/3v31jhe732j3342q8a65cz8zig3l6rfk/",
+"description": "Stack falling bubbles precisely to create stable towers and avoid collapse in this casual puzzle challenge. The gameplay requires careful timing and positioning as bubbles drop with varying sizes and colors. Players aim to complete each level by building visually balanced stacks that grow taller without wobbling. Subtle physics add depth to the stacking mechanic and keep each attempt engaging.\n\nKey Features\n\n• Precision bubble placement mechanic  \n• Tap and drag control system  \n• Increasing difficulty levels  \n• Gravity-influenced stack balance  \n• Color matching bonus effects"
+},
+{
 "id": "tower-blocks-deluxe",
 "title": "Tower Blocks Deluxe Stack",
 "iframe": "https://html5.gamemonetize.games/v702r77byf6atw8prvlh39twjikhpp8r/",
