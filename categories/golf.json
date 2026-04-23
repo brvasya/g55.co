@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ball-to-goal",
+"title": "Ball To Goal Golf",
+"iframe": "https://html5.gamedistribution.com/ec721c8fd8e44c52953a13c3250adb50/",
+"description": "Putt and navigate each shot carefully using precise aiming and power control to sink the ball into the goal cups. The game features variable terrain slopes affecting ball trajectory and forces players to master chip shots and smooth strokes. Completing challenging target holes unlocks new course layouts, adding variety to the golf experience for casual players. \n\nKey Features\n\n• Precision shot aiming system  \n• Variable terrain slope physics  \n• Level progression with new courses  \n• Chip shot and power control  \n• Casual themed golf challenges"
+},
+{
 "id": "impulse-ball",
 "title": "Impulse Ball Golf",
 "iframe": "https://html5.gamedistribution.com/0ca64f7a71584bdab61072b40d3b36e9/",

@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "slicing-goal",
+"title": "Slicing Goal Puzzle",
+"iframe": "https://html5.gamemonetize.games/x8ib9ozqzrba6zaaeods1lhx800g9vj1/",
+"description": "Slice through geometric puzzles to craft precise pathways and trigger goal activation. This game blends spatial reasoning with sharp cutting mechanics, requiring players to navigate complex shapes and clear sections strategically. Progressing through increasingly intricate boards calls for thoughtful slicing and timing to unlock each new challenge.\n\nKey Features\n\n• shape slicing core mechanic  \n• touch or mouse-based cuts  \n• escalating puzzle complexity  \n• timed and precision challenge modes  \n• minimalistic geometric visuals"
+},
+{
+"id": "pendulum-goal-casual-physics",
+"title": "Pendulum Goal Puzzle Physics",
+"iframe": "https://html5.gamemonetize.games/2go2zh2wfmomtnwdxgxfaaqhihjm6p6h/",
+"description": "Manipulate swinging pendulums to navigate tricky physics-based puzzles and trigger precise chain reactions that clear each level. The game emphasizes timing and spatial reasoning as players adjust angles and release points to hit targets or activate mechanisms. Progression introduces new obstacles and pendulum types, providing a steady increase in challenge for casual players and younger audiences.\n\nKey Features\n\n• Physics-driven pendulum controls  \n• Timing-based puzzle actions  \n• Incremental level difficulty curves  \n• Chain reaction puzzle mechanics  \n• Minimalist mechanical setting"
+},
+{
+"id": "faraday-game-casual-physics",
+"title": "Faraday Game Puzzle Physics",
+"iframe": "https://html5.gamemonetize.games/2xzo1v9mtrpyd2l2110t3ccfrawcgszw/",
+"description": "Manipulate electric circuits to solve challenging puzzles using realistic charge flow mechanics. Players connect components to complete energy pathways and activate devices, aiming to unlock each stage's solution. Levels progressively introduce new conductive elements, requiring careful planning and timing to manage current and voltage effectively.\n\nKey Features\n\n• Circuit connection mechanics  \n• Interactive component placement  \n• Increasing puzzle complexity  \n• Energy flow timing challenges  \n• Electrical grid simulation elements"
+},
+{
+"id": "basket-goal",
+"title": "Basket Goal Puzzle",
+"iframe": "https://html5.gamedistribution.com/110b256bb42843bc8a91b63a6678fc13/",
+"description": "Arrange colored balls to form scoring baskets in precise puzzle layouts, relying on spatial reasoning and timing. Players rotate and align pieces to create clear shooting paths for balls to reach their targets. Progressing through increasingly complex basket arrangements tests pattern recognition and problem-solving skills, set in a vibrant court-style environment.\n\nKey Features\n\n• Ball trajectory alignment mechanic  \n• Piece rotation and placement controls  \n• Progressive puzzle difficulty levels  \n• Scoring based on basket completion  \n• Court-themed visual layout"
+},
+{
 "id": "fun-gravity-ball",
 "title": "Fun Gravity Ball Puzzle",
 "iframe": "https://html5.gamedistribution.com/4a877222bc5b490ba6a36dbf1becabfe/",

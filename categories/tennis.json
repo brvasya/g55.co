@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ping-pong-goal",
+"title": "Ping Pong Goal Tennis",
+"iframe": "https://html5.gamedistribution.com/36247a4b8bd8459eb07f6150097ebe47/",
+"description": "Bounce the ball back and forth using precise paddle control to outscore your opponent in a fast-paced ping pong tennis challenge. Players focus on quick reflexes and timing while managing rally momentum to earn points. The game emphasizes smooth paddle movement and competitive scoring, set in a minimalist table tennis environment.\n\nKey Features\n\n• Paddle control sensitivity  \n• Rally momentum scoring system  \n• Timed match progression  \n• Single and multiplayer modes  \n• Table tennis inspired visuals"
+},
+{
 "id": "ping-pong-ball",
 "title": "Ping Pong Ball Tennis",
 "iframe": "https://html5.gamedistribution.com/c35fc1ad1b2c42379ef502b880f788fd/",
