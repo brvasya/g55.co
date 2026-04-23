@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "67-clicker",
+"title": "67 Clicker",
+"iframe": "https://html5.gamedistribution.com/f078134f39634ca78dcd4a8479a314a2/",
+"description": "Click by rapidly tapping the numbered tiles to increase your score in this minimalist clicker challenge. The core mechanic revolves around timing your clicks to maximize combos while navigating a countdown that limits your playtime. As you push for higher counts, quick reflexes become crucial to climb the scoreboard and unlock faster clicking speeds.\n\nKey Features\n\n• Number sequence tapping mechanic  \n• Time-limited scoring rounds  \n• Combo multiplier system  \n• Progressive clicking speed challenge  \n• Minimalist interface design"
+},
+{
 "id": "reflex-ball",
 "title": "Reflex Ball Clicker",
 "iframe": "https://html5.gamedistribution.com/c8824198a7f1459cab63e5bbd4830355/",
