@@ -106,13 +106,20 @@ def load_json_file(path: str):
 
 
 def save_json_file(path: str, items: list, wrapper, mode: str):
+    items_to_save = items
+    if mode == "categories":
+        items_to_save = sorted(
+            items,
+            key=lambda it: str(it.get("name", "")).strip().lower()
+        )
+
     if wrapper is None:
-        payload = items
+        payload = items_to_save
     else:
         if mode == "categories":
-            wrapper["categories"] = items
+            wrapper["categories"] = items_to_save
         else:
-            wrapper["pages"] = items
+            wrapper["pages"] = items_to_save
         payload = wrapper
 
     with open(path, "w", encoding="utf-8") as f:
@@ -450,7 +457,6 @@ class JsonGui(tk.Tk):
         ttk.Button(btn_row, text="Add", command=self.add_item).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Update", command=self.update_item).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Delete", command=self.delete_item).pack(side="left", padx=6)
-        ttk.Button(btn_row, text="Move to top", command=self.move_selected_to_top).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Generate Desc", command=self.generate_description_with_openai).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Batch Generate Missing", command=self.batch_generate_missing_descriptions).pack(side="left", padx=6)
 
@@ -826,32 +832,6 @@ class JsonGui(tk.Tk):
         self.set_status(
             f"Found {len(self.search_matches)} match(es) in {search_field}   Showing {self.search_pos + 1}/{len(self.search_matches)}"
         )
-
-    def move_selected_to_top(self):
-        if self.selected_index is None:
-            messagebox.showwarning("Nothing selected", "Select an item to move to the top.")
-            return
-
-        if self.selected_index == 0:
-            if self.is_root_categories_mode():
-                self.update_page_match_status("Category is already at the top")
-            else:
-                self.update_page_match_status("Page is already at the top")
-            return
-
-        item = self.items.pop(self.selected_index)
-        self.items.insert(0, item)
-        self.refresh_list()
-        self.goto_index(0)
-
-        if not self.autosave():
-            messagebox.showerror("Auto save failed", "Could not auto save after moving item to top.")
-            return
-
-        if self.is_root_categories_mode():
-            self.update_page_match_status("Moved category to top and auto saved")
-        else:
-            self.update_page_match_status("Moved page to top and auto saved")
 
     def build_game_description_rule(self, game_title: str, category: str) -> str:
         return f"""
