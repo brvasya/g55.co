@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "goon-ball",
+"title": "Goon Ball 2 Player",
+"iframe": "https://html5.gamedistribution.com/f5757999ce0a439fb8970f282a56c5cc/",
+"description": "Control your character to navigate an arena where quick reflexes and precise timing impact each move. This game challenges two players to compete in a fast-paced ball throwing and catching duel, requiring sharp coordination and strategic positioning. The main objective is to outscore your opponent within dynamic, interactive play zones.\n\nKey Features\n\n• Fast-paced ball throwing mechanics  \n• Two-player competitive controls  \n• Scoring system based on catches  \n• Dynamic arena movement patterns  \n• Casual multiplayer gameplay"
+},
+{
+"id": "break-a-lucky-egg-brainrots",
+"title": "Break a Lucky Egg Brainrots 2 Player",
+"iframe": "https://html5.gamedistribution.com/1faf8bbe8906404ea218e44440ef1ab9/",
+"description": "Break colorful eggs against each other in split-screen chaos where quick reflexes and timing decide the victor. Two players compete head-to-head, cracking eggs in rapid bursts while managing the pressure of the escalating speed and unpredictable egg break patterns. The goal is to outlast and outscore your opponent by breaking more eggs without hesitation.\n\nKey Features\n\n• Two-player competitive egg cracking  \n• Rapid-fire reaction timing  \n• Increasing game speed challenge  \n• Split-screen local multiplayer mode  \n• Cartoonish egg breaking visuals"
+},
+{
 "id": "stairs-races-for-2-players",
 "title": "Stairs Races For 2 Player",
 "iframe": "https://html5.gamemonetize.games/rtg6s3o9k88zgs5kdnaqwtso1ls1t5t4/",

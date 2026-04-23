@@ -1,8 +1,14 @@
 {
 "pages": [
 {
+"id": "touch-drawn",
+"title": "Touch Drawn Football",
+"iframe": "https://html5.gamedistribution.com/ba4ffd8dcfcc4ae1a146f973e5443952/",
+"description": "Control player movement and execute precise passes and shots using touch controls focused on accurate timing. The game emphasizes finger-drawn ball trajectories, challenging players to master freehand aiming on a minimalist football field. Progress through increasingly tricky match scenarios requiring skillful ball placement to score and defend while managing touch input precision.\n\nKey Features\n\n• Finger-drawn shot aiming  \n• Touch swipe passing mechanics  \n• Progressive match difficulty  \n• Freehand ball trajectory control  \n• Minimalist football pitch design"
+},
+{
 "id": "tricky-kick-casual-soccer-game-joyful-football",
-"title": "Tricky Kick -  Joyful Football",
+"title": "Tricky Kick - Joyful Football",
 "iframe": "https://html5.gamedistribution.com/3766d4de1f3249589ac704335bfb59d1/",
 "description": "Kick precise football shots across varied obstacle courses in this casual sports game. Players navigate tricky angles and timing using an intuitive flick control system to score goals while avoiding dynamic blockers. The main challenge lies in mastering shot power and direction to clear each level, making every kick count toward advancing through progressively harder puzzles.\n\nKey Features\n\n• Flick-based shot control  \n• Obstacles affecting ball trajectory  \n• Level progression through puzzles  \n• Timing and precision challenges  \n• Casual football-themed gameplay"
 },

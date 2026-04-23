@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "savage-defenders",
+"title": "Savage Defenders War",
+"iframe": "https://html5.gamedistribution.com/f79d8e4ae6b54120b45a4f3166f458c8/",
+"description": "Command enemy forces using tactical unit placement in this war-themed strategy game. Navigate evolving battlefields with adaptable troop deployment to secure key objectives and withstand waves of hostile assaults. Progress through escalating difficulty levels that demand refined defensive setups and resource management to emerge dominant.\n\nKey Features\n\n• Tactical unit deployment system  \n• Real-time battle command controls  \n• Progressive enemy wave challenges  \n• Resource-based upgrade mechanics  \n• Warzone environmental variations"
+},
+{
 "id": "europe-at-war",
 "title": "Europe at War",
 "iframe": "https://html5.gamedistribution.com/2400f163fdf24f86bcdbb9e5c5b75cd2/",

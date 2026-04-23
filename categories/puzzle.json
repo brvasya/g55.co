@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "fun-gravity-ball",
+"title": "Fun Gravity Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/4a877222bc5b490ba6a36dbf1becabfe/",
+"description": "Navigate bouncy balls through intricate puzzles by adjusting gravity to guide each movement precisely. Players manipulate gravity shifts to solve spatial challenges while managing momentum to reach designated targets. Levels increase in complexity, introducing new obstacles and requiring careful planning to complete each stage.\n\nKey Features\n\n• Gravity manipulation mechanics  \n• Precision ball movement controls  \n• Increasing puzzle complexity  \n• Momentum based challenge system  \n• Physics interactions in vibrant stages"
+},
+{
+"id": "free-the-ball",
+"title": "Free Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/f7364610976f43d1b31f730d9995641a/",
+"description": "Align matching balls to clear increasingly complex puzzles by strategically rotating puzzle elements in a colorful grid. Players manipulate shape connections to free trapped balls and unlock new levels with escalating difficulty. Timed challenges test quick thinking while bonus stages offer alternate puzzle variations in a vibrant casual setting.\n\nKey Features\n\n• Rotational puzzle element mechanics  \n• Strategic ball alignment controls  \n• Progressive difficulty levels  \n• Timed challenge modes  \n• Colorful grid visual design"
+},
+{
+"id": "flying-ball",
+"title": "Flying Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/eab1b0acb8f346c6abb2347f5890e611/",
+"description": "Navigate a flying ball through intricate puzzles that challenge spatial reasoning and timing. Players manipulate gravity and momentum to guide the ball across dynamic platforms with varying obstacles. Levels increase in complexity requiring precise control and strategic planning to reach the target zone without falling.\n\nKey Features\n\n• Gravity manipulation mechanics  \n• Momentum-based ball control  \n• Progressive difficulty levels  \n• Timed challenge modes  \n• Abstract platform puzzle design"
+},
+{
 "id": "dice-puzzle",
 "title": "Dice Puzzle",
 "iframe": "https://html5.gamedistribution.com/30741355ad454b8cae5d648cb5caa244/",
