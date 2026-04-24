@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "the-best-memory",
+"title": "The Best Memory",
+"iframe": "https://html5.gamemonetize.games/a78mxs6j39xuvq52pthxhq24fxficsi7/",
+"description": "Match pairs of cards by flipping them two at a time to test your visual recall in this classic memory challenge. The game uses a grid layout where uncovering and memorizing card positions is key to clearing each level. Players aim to find all matching pairs efficiently, improving their focus and pattern recognition under time or move limits.\n\nKey Features\n\n• card flip matching mechanic  \n• grid-based pair discovery  \n• move count challenge system  \n• timed and untimed modes  \n• colorful illustrated card designs"
+},
+{
 "id": "squid-game-memory-card-match",
 "title": "Squid Game Memory Card Match",
 "iframe": "https://html5.gamedistribution.com/a00888d72f744da685524e1706063c07/",
