@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mahjong-lines",
+"title": "Mahjong Lines",
+"iframe": "https://html5.gamedistribution.com/8625ea2a8244492980f16e192880f934/",
+"description": "Match colored tiles to create lengthy chains in Mahjong Lines, combining tile matching with linear connection strategies. Players clear the board by linking identical mahjong tiles in rows or columns, managing limited space as new tiles continuously appear. The challenge lies in planning moves ahead to prevent board overflow, with a straightforward tile matching theme suited for casual players.\n\nKey Features\n\n• chain connection tile mechanic  \n• strategic tile placement control  \n• escalating board space challenge  \n• continuous tile spawn system  \n• classic tile design aesthetic"
+},
+{
 "id": "mahjong-build-farm",
 "title": "Mahjong build farm",
 "iframe": "https://html5.gamedistribution.com/fbf9bd9c6d30424694270279fc1f3acf/",

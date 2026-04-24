@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snake-warz",
+"title": "SNAKE WARZ",
+"iframe": "https://html5.gamemonetize.games/uxv01zwcngh7d3xm1aqdg9t91qfuh59n/",
+"description": "Navigate your growing snake through compact arenas, weaving and turning to collect items while avoiding collisions that end your run. The game’s core mechanic focuses on precise slithering control and strategic space management, challenging you to extend your length as far as possible. Quick reflexes and adaptation to shrinking safe zones keep each session fresh.\n\nKey Features\n\n• Smooth directional slithering control  \n• Incremental length growth system  \n• Collision-based survival challenge  \n• Compact arena layout progression  \n• Casual arcade snake gameplay"
+},
+{
 "id": "thesnake",
 "title": "The Snake",
 "iframe": "https://html5.gamemonetize.games/u5i681j5yjkbx5rt8q1p9unhy2xvfyi2/",
