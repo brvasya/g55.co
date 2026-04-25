@@ -83,7 +83,7 @@
 {
 "id": "christmas",
 "name": "Christmas",
-"description": "Christmas Games focus on completing festive themed challenges, guiding characters through winter environments, and interacting with seasonal objectives using simple control systems. Players collect gifts, solve light puzzles, or navigate snow covered levels through structured progression loops and event driven gameplay mechanics. Gameplay often blends platform navigation, match based tasks, or score driven challenges tied to holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
+"description": "Christmas Games focus on delivering gifts, navigating snowy levels, and completing holiday themed challenges through puzzle solving, platform jumping, and time management gameplay loops. Players control characters like Santa, follow structured delivery routes, and interact with obstacles, collectibles, and level based objectives using simple progression systems suited for quick sessions. Similar seasonal mechanics appear in <a href='/?c=halloween'>halloween games</a> with event driven challenges and in <a href='/?c=easter'>easter games</a> that emphasize collection and progression across casual browser experiences."
 },
 {
 "id": "clicker",
@@ -158,7 +158,7 @@
 {
 "id": "easter",
 "name": "Easter",
-"description": "Easter Games focus on collecting themed items, completing seasonal challenges, and guiding characters through spring inspired environments using simple interaction mechanics. Players gather eggs, solve light puzzles, or navigate festive levels within structured progression systems and event driven objectives. Gameplay often includes platform navigation tasks, match based activities, or score oriented challenges shaped by holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
+"description": "Easter Games focus on collecting items, exploring colorful levels, and completing themed objectives through matching mechanics, hidden object gameplay, and light puzzle systems. Players gather eggs, unlock rewards, and progress through spring environments using simple interaction loops suited for quick and accessible sessions. Comparable seasonal gameplay appears in <a href='/?c=christmas'>christmas games</a> with structured objectives and in <a href='/?c=halloween'>halloween games</a> that emphasize enemy driven challenges across casual browser experiences."
 },
 {
 "id": "educational",
@@ -218,7 +218,7 @@
 {
 "id": "halloween",
 "name": "Halloween",
-"description": "Halloween Games focus on navigating spooky themed challenges, guiding characters through dark environments, and completing seasonal objectives using simple interaction mechanics. Players collect themed items, solve light puzzles, or avoid hazards within structured progression loops and event driven gameplay systems. Gameplay often includes platform navigation tasks, match based activities, or score oriented challenges shaped by holiday scenarios. These experiences highlight seasonal gameplay loops and themed interaction systems suited for casual browser sessions."
+"description": "Halloween Games focus on avoiding threats, navigating dark environments, and completing spooky objectives through enemy evasion, reaction based gameplay, and arcade challenge systems. Players move through haunted locations, respond to traps and chasing enemies, and maintain progress using survival oriented mechanics designed for fast paced sessions. Related seasonal gameplay appears in <a href='/?c=christmas'>christmas games</a> with structured objective loops and in <a href='/?c=easter'>easter games</a> that center around collection driven progression across casual browser experiences."
 },
 {
 "id": "hidden-object",
