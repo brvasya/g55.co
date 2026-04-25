@@ -23,7 +23,7 @@
 {
 "id": "3d",
 "name": "3D",
-"description": "3D Games focus on navigating interactive environments rendered with depth, perspective, and spatial movement. Players explore virtual spaces, control characters or vehicles, and complete objectives using camera based orientation and real time physics interactions. Gameplay often involves platforming, combat, or driving systems supported by immersive world design and dynamic viewpoint control. These experiences leverage three dimensional rendering engines to create scalable level structures and responsive gameplay loops suitable for desktop browser play."
+"description": "3D Games focus on navigating environments with depth, controlling camera perspective, and interacting with objects in real time environments through spatial movement and rendering systems. Players explore levels, aim in three dimensional space, and respond to physics based interactions using camera control, positioning, and directional movement suited for immersive gameplay sessions. This visual gameplay style appears strongly in <a href='/?c=shooter'>shooter games</a> with aiming mechanics, in <a href='/?c=racing'>racing games</a> focused on speed and control, and in <a href='/?c=simulator'>simulator games</a> that emphasize realistic systems."
 },
 {
 "id": "adventure",
