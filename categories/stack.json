@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "dice-helix-drop",
+"title": "Dice Helix Drop Stack",
+"iframe": "https://html5.gamemonetize.games/y6bajsuhgrocjtzklsdijrucx51djuiu/",
+"description": "Drop dice along a twisting helix tower to stack them carefully without falling, relying on precise timing and spatial awareness. The game challenges players to balance and align rolling dice on an ever-narrowing spiral path, testing reflexes as the stack grows taller. Each level increases complexity by introducing faster drop speeds and tighter helix turns to master.\n\nKey Features\n\n• Dice rolling physics mechanic  \n• Precise tap timing control  \n• Progressive helix narrowing levels  \n• Score-based stacking challenge  \n• Minimalist spiral tower setting"
+},
+{
 "id": "stacklands",
 "title": "Stack Lands",
 "iframe": "https://html5.gamemonetize.games/9ydku0nbjt4tl5xam6mwmq8ss4govwip/",

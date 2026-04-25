@@ -1,6 +1,72 @@
 {
 "pages": [
 {
+"id": "squirel-steps",
+"title": "Squirrel Steps Puzzle",
+"iframe": "https://html5.gamemonetize.games/mp5fsm8hvetpppcrk8x3io28ms3099g1/",
+"description": "Navigate intricate step patterns to solve spatial logic puzzles using precise movement control in a woodland setting. Players manipulate a squirrel character to find the correct stepping sequence across platforms, testing timing and spatial awareness. Each level ramps up with new block arrangements challenging reflexes and memory.\n\nKey Features\n\n• Step-by-step spatial navigation  \n• Directional movement input  \n• Increasing puzzle complexity  \n• Time-based challenge mode  \n• Forest-inspired platform design"
+},
+{
+"id": "dinosaur-bone-game",
+"title": "Dinosaur Bone Puzzle",
+"iframe": "https://html5.gamemonetize.games/u020fzh1yq32dl9ug3uckzsb68n7hg4h/",
+"description": "Arrange scattered bone fragments to reconstruct dinosaur skeletons in this puzzle game, testing spatial reasoning with drag-and-drop mechanics. Players complete increasingly complex fossil assemblies while navigating time limits and tricky piece shapes. Each level builds on previous patterns, challenging you to piece together prehistoric creatures before the timer runs out.\n\nKey Features\n\n• Drag-and-drop bone placement  \n• Progressive fossil assembly challenges  \n• Time-limited puzzle stages  \n• Hint system for difficult joins  \n• Prehistoric skeleton themes"
+},
+{
+"id": "block-party-blast",
+"title": "Block Party Blast Puzzle",
+"iframe": "https://html5.gamemonetize.games/w8hlquef6q5a6bsf0h0yv0zlko7ntg5w/",
+"description": "Arrange colorful blocks strategically to clear levels and advance through increasingly complex puzzle grids. Players manipulate falling block shapes to create full lines or clusters, aiming to prevent the stack from reaching the top. Puzzle modes shift with timed challenges or endless progression, testing spatial reasoning and planning skills.\n\nKey Features\n\n• Shape rotation and placement  \n• Line and cluster clearing mechanics  \n• Increasing level complexity  \n• Timed and endless play modes  \n• Vibrant block design"
+},
+{
+"id": "ball-chain-blast",
+"title": "Ball Chain Blast Puzzle",
+"iframe": "https://html5.gamemonetize.games/qcjkmqii86huwbtq6oirqcy6b4h58cch/",
+"description": "Chain clusters by matching colors to clear the board in this puzzle game. Players link sequences of balls before the chain reaches the end, relying on quick pattern recognition and strategic moves. Levels introduce increasing speed and chain length, challenging players to maintain control and prevent overflow under time pressure.\n\nKey Features\n\n• Color matching chain mechanic  \n• Timed sequence clearing  \n• Increasing level difficulty  \n• Combo-based scoring system  \n• Bright ball cluster visuals"
+},
+{
+"id": "arrow-rope-maze",
+"title": "Arrow Rope Maze Puzzle",
+"iframe": "https://html5.gamemonetize.games/ycrzl4zw84l6zyvc9t61zhiynawubnuv/",
+"description": "Navigate intricate rope puzzles by firing arrows to create pathways in Arrow Rope Maze Puzzle. Players strategically shoot arrows to connect platforms and swing across gaps using the ropes, testing timing and precision with each shot. The game challenges spatial reasoning through progressively complex levels filled with angular rope dynamics suited for casual and younger audiences.\n\nKey Features\n\n• Arrow shooting rope mechanic  \n• Precision timing and aiming controls  \n• Increasing puzzle complexity  \n• Swinging rope traversal system  \n• Minimalist maze-themed stages"
+},
+{
+"id": "weight-adjust-game",
+"title": "Weight Adjust Puzzle",
+"iframe": "https://html5.gamemonetize.games/115o5ra9wml0zbgwkhazf359vrdma2c4/",
+"description": "Balance and rearrange weights to solve spatial puzzles that test your logic and precision. Each level challenges you to distribute masses evenly across scales, requiring careful calculation and timing to advance through increasingly complex configurations. The gameplay focuses on weight shifting mechanics, where subtle differences in placement determine successful progression in a minimalist setting.\n\nKey Features\n\n• Weight distribution puzzle mechanics  \n• Drag-and-drop control system  \n• Increasingly intricate scale challenges  \n• Time-limited and precision modes  \n• Minimalist visual theme"
+},
+{
+"id": "tiles-layer",
+"title": "Tiles Layer Puzzle",
+"iframe": "https://html5.gamemonetize.games/z7vx1dqudlz1mt2ywkxyqosrwq8e4dtv/",
+"description": "Arrange mismatched tiles into complete patterns by sliding pieces within a confined grid, testing spatial reasoning and strategic planning. This puzzle emphasizes layer manipulation, requiring players to carefully sequence moves to solve each increasingly intricate layout. Timed challenges and step limits add pressure as players advance through progressively complex boards.\n\nKey Features\n\n• Layered tile sliding mechanic  \n• Grid-based spatial puzzles  \n• Step limit challenge system  \n• Timed progression modes  \n• Casual-friendly visual style"
+},
+{
+"id": "joy-tiles-easy",
+"title": "Joy Tiles Easy Puzzle",
+"iframe": "https://html5.gamemonetize.games/uhavb1yjbsy1bv07skcs76km90co2iuv/",
+"description": "Match colorful tiles by sliding puzzle pieces across a compact grid to clear rows and columns in this tile-matching challenge. Players manipulate tile groups that snap into place as they aim to complete each level without running out of moves. The game’s simple yet precise sliding mechanic demands careful planning to progress through increasing difficulties.\n\nKey Features\n\n• Sliding tile group mechanics  \n• Grid-based puzzle layout  \n• Move-limited level progression  \n• Pattern matching challenges  \n• Colorful tile visual design"
+},
+{
+"id": "flappy-red-ball",
+"title": "Flappy Red Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/95e22a5ce45247bf9700392fec356f4c/",
+"description": "Navigate a bouncing red ball through strategically placed obstacles that require precise timing and spatial reasoning. The core mechanic blends flapping movement with puzzle solving to clear each progressively complex level. Players must master the ball’s momentum and avoid hazards to advance through an abstract, minimalistic environment offering clever physical challenges.\n\nKey Features\n\n• Flapping ball movement mechanic  \n• Timing-based obstacle navigation  \n• Increasing puzzle difficulty curve  \n• Momentum control gameplay element  \n• Minimalist physics puzzle setting"
+},
+{
+"id": "croplink",
+"title": "CropLink Puzzle",
+"iframe": "https://html5.gamemonetize.games/qqye2uwm1nlx5f38bh3ayfndnz9dofjr/",
+"description": "Link matching forms the core gameplay loop as players strategically connect crop icons across a grid to clear stages. Players manipulate patterns to create continuous chains, testing spatial reasoning and timing under gradually increasing complexity. Puzzle difficulty builds with new connection rules and limited moves, encouraging careful path planning and quick decision-making for casual audiences. The setting’s natural motifs suggest a vibrant garden backdrop.\n\nKey Features\n\n• chain link matching mechanic  \n• grid-based spatial manipulation  \n• progressive puzzle difficulty  \n• limited move challenge system  \n• nature-inspired iconography"
+},
+{
+"id": "balloon-pop-master",
+"title": "Balloon Pop Master Puzzle",
+"iframe": "https://html5.gamemonetize.games/kapfvra3zri06z6ohm6wm92s9yiwtpbi/",
+"description": "Burst clusters of colorful balloons by matching shapes and colors to clear levels in this puzzle game. Players drag and tap to form combos, using chain reactions as the core mechanic to tackle increasingly complex boards. Each stage presents new balloon patterns and obstacles, challenging casual gamers and younger audiences to master timing and strategy. Progression unlocks denser balloon grids that require sharper planning.\n\nKey Features\n\n• chain reaction combo system  \n• drag and tap interaction controls  \n• escalating balloon pattern challenges  \n• timed level clearing objectives  \n• vibrant balloon color palette"
+},
+{
 "id": "springle-puzzle",
 "title": "Springle Puzzle",
 "iframe": "https://html5.gamedistribution.com/dfbdf129b7f442f692c36405137945ca/",
