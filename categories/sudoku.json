@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "sudoku-puzzle-master",
+"title": "Sudoku Puzzle Master",
+"iframe": "https://html5.gamemonetize.games/q55d7ziajl30qgu9rgey2tyvq17281ox/",
+"description": "Place numbers from 1 to 9 in each grid row, column, and block without repetition in this classic sudoku challenge. Players fill cells by logical deduction and elimination within a standard 9x9 grid layout. Puzzles escalate in difficulty, testing pattern recognition and number placement strategy as players advance through puzzles of varying complexity.\n\nKey Features\n\n• Logical deduction core gameplay  \n• Grid cell input controls  \n• Increasing puzzle difficulty levels  \n• Optional note-taking system  \n• Classic 9x9 sudoku format"
+},
+{
 "id": "your-sudoku",
 "title": "Your Sudoku",
 "iframe": "https://html5.gamemonetize.games/nuavei1qsytm98h4ykfluu7vwpj9li0a/",

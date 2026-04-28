@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "jewel-link",
+"title": "Jewel Link",
+"iframe": "https://html5.gamedistribution.com/21987ef4d4284d32b1bd2aef62f47782/",
+"description": "Match colorful jewels by aligning identical pieces to clear the board and earn points in this puzzle game. Players focus on connecting gem chains through strategic swapping and pattern recognition, aiming to optimize each move before time runs out. Levels gradually introduce unique gem types and obstacles, adding complexity to the standard jewel matching formula.\n\nKey Features\n\n• Chain matching core mechanic  \n• Strategic jewel swapping controls  \n• Timed level progression challenge  \n• Varied gem types and obstacles  \n• Casual puzzle gameplay style"
+},
+{
 "id": "diamondz",
 "title": "Diamondz Jewel",
 "iframe": "https://html5.gamedistribution.com/4f0be8dddab5440b9011a238ac03db35/",
