@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "colors-matching",
+"title": "Colors Matching",
+"iframe": "https://html5.gamemonetize.games/s2w7w4zaump14ncckeu9o7u99svrjmuh/",
+"description": "Match colors by selecting and filling adjacent tiles to clear levels with increasing grid complexity. Players engage with a color-matching mechanic that requires quick pattern recognition and strategic moves to complete puzzles before running out of turns. Progression introduces new color combinations and tile arrangements, keeping gameplay lively for casual and younger players alike.\n\nKey Features\n\n• Tile color matching puzzles  \n• Click and drag fill controls  \n• Limited moves challenge system  \n• Progressive level complexity  \n• Bright and simple color palette"
+},
+{
 "id": "colorsnake",
 "title": "Color Snake",
 "iframe": "https://html5.gamemonetize.games/14ubanqlz23c2xsbqjhhrvmd0u4liqmk/",

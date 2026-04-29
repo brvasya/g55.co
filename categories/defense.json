@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "smash-defense",
+"title": "Smash Defense",
+"iframe": "https://html5.gamedistribution.com/ebe613bf6d5b44ad8908c7a36a710b7b/",
+"description": "Smash objects to build defenses in fast-paced stages where strategic placement of barriers stops oncoming threats. Players manipulate smashing mechanics to clear paths and reinforce structures, progressing through increasingly complex encounter patterns. The focus lies on timing and resource management to withstand waves of advancing obstacles within casual-friendly play.\n\nKey Features\n\n• Object smashing barrier mechanic  \n• Strategic placement controls  \n• Wave-based progression system  \n• Resource management gameplay  \n• Colorful block obstacle theme"
+},
+{
 "id": "monster-defence-2d",
 "title": "Monster Defense 2D",
 "iframe": "https://html5.gamemonetize.games/wnb5idjbcdxnpeldc52xom38d4i1cc19/",

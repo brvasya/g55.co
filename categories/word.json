@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "word-mosaic",
+"title": "Word Mosaic",
+"iframe": "https://html5.gamemonetize.games/ycuqf3m2oem3f15afphcmnwgxo6ctuzo/",
+"description": "Form words by connecting letter tiles in a grid to uncover hidden vocabulary and boost your score. The gameplay revolves around arranging letters into intersecting chains with a timed challenge to complete each level. Players navigate through grids that increase in complexity and are rewarded for spotting rare word combinations.\n\nKey Features\n\n• Tile connection word puzzles  \n• Grid navigation controls  \n• Increasing level difficulty  \n• Timed scoring system  \n• Casual vocabulary theme"
+},
+{
 "id": "word-solitaire",
 "title": "Word Solitaire",
 "iframe": "https://html5.gamedistribution.com/cdf4057010434b89b509008587b9bca8/",

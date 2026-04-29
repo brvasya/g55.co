@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "hex-merge-puzzle",
+"title": "Hex Merge Puzzle",
+"iframe": "https://html5.gamemonetize.games/ozl9kxh16xz52opfrofprpvgtcbvu1z1/",
+"description": "Combine hexagonal tiles to create larger merged pieces in a strategic grid layout, challenging players to optimize moves and clear space. The game demands careful planning to achieve high scores and unlock new levels with increasing complexity. Matching adjacent hex tiles forms the core mechanic, while progression unfolds through puzzle stages designed for casual players.\n\nKey Features\n\n• Hex tile merging system  \n• Touch and drag controls  \n• Increasing puzzle difficulty  \n• Level-based progression design  \n• Minimalist geometric art style"
+},
+{
 "id": "merge-home-mania",
 "title": "Merge Home Mania",
 "iframe": "https://html5.gamedistribution.com/75960014ad694866ac41e0919f0a5e73/",
