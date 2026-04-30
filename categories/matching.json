@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "matching-pair-puzzle",
+"title": "Matching Pair Puzzle",
+"iframe": "https://html5.gamemonetize.games/cqwkcz3k6lwfiaodi9fz3t6vshh6awm0/",
+"description": "Match tiles by uncovering pairs in a grid-based puzzle layout, focusing on memory and pattern recognition. The game challenges players to clear levels by finding identical tile pairs under time limits or move restrictions. Strategic memorization and careful tile selection drive progression through increasingly complex board arrangements designed for casual audiences.\n\nKey Features\n\n• Tile matching core mechanic  \n• Mouse-driven tile selection  \n• Time and move limited challenges  \n• Increasing board complexity  \n• Casual memory puzzle setting"
+},
+{
+"id": "garden-match-kids",
+"title": "Garden Match Kids",
+"iframe": "https://html5.gamemonetize.games/cx4mkd19p26s44t443flp69rxb0ogts8/",
+"description": "Match colorful garden-themed tiles by swapping adjacent pieces to form lines of three or more in this casual puzzle game. Each level introduces new tile patterns and increasing complexity, challenging players to clear the board within limited moves. Special flower combos trigger chain reactions that help achieve higher scores while progressing through distinct garden backdrops.\n\nKey Features\n\n• tile swapping matching mechanic  \n• limited moves per level challenge  \n• chain reaction combo triggers  \n• progressive garden-themed stages  \n• score-based level completion system"
+},
+{
 "id": "asmr-image-match-puzzle",
 "title": "ASMR Image Match Puzzle",
 "iframe": "https://html5.gamemonetize.games/lugl569dj720rcip398c9g8v806bb8pv/",

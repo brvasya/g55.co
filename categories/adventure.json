@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "moto-adventure",
+"title": "Moto Adventure",
+"iframe": "https://html5.gamemonetize.games/ifiockt551pv3vcfrsplz20ztctyk149/",
+"description": "Navigate diverse terrains on a motorbike while tackling a variety of dynamic challenges. This adventure game emphasizes balance and timing as you maneuver through winding paths and unexpected obstacles, striving to reach the finish line in each level. Timing jumps and controlling speed are key to mastering the stages and unlocking new routes across the map.\n\nKey Features\n\n• Physics based bike control  \n• Interactive obstacle navigation  \n• Time limited level progression  \n• Unlockable path variations  \n• Outdoor adventure environments"
+},
+{
 "id": "smiley-ball",
 "title": "Smiley Ball Adventure",
 "iframe": "https://html5.gamedistribution.com/fa1c49919dbf49c8b8b342fb031c78e5/",

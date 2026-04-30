@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "farm-vegetable-link",
+"title": "Farm Vegetable Link",
+"iframe": "https://html5.gamemonetize.games/borh9soo2i3dnb1xqfb9nhr2x1cs6rkj/",
+"description": "Connect matching vegetables on a grid to clear spaces and fill the farm with fresh crops. The game uses tile-linking mechanics where strategic path creation between pairs influences score and progress. Players aim to solve increasingly complex puzzles that require planning connection routes across a farming-themed board.\n\nKey Features\n\n• Tile-linking crop matching  \n• Mouse or touch drag control  \n• Increasing puzzle difficulty  \n• Time-limited challenge mode  \n• Vegetable garden visual theme"
+},
+{
 "id": "cow-jam-farm-puzzle",
 "title": "Cow Jam Farm puzzle",
 "iframe": "https://html5.gamemonetize.games/rbzdx3ju83ky74054iq611827ty17mcc/",
