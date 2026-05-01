@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "tank-challenge",
+"title": "Tank Challenge",
+"iframe": "https://html5.gamedistribution.com/d26337f400ff49869928d9994646457b/",
+"description": "Drive heavily armored tanks across varied battlefields, maneuvering with physics-driven controls to outwit enemy units. Engage in tactical positioning and precise firing under pressure as you tackle mission objectives that test your adaptability and aiming skills. Progress through challenging levels that introduce diverse enemy types and weapon upgrades for your vehicle.\n\nKey Features\n\n• Physics-driven tank handling  \n• Precision aiming and shooting  \n• Progressive mission objectives  \n• Weapon upgrade system  \n• Diverse battlefield environments"
+},
+{
 "id": "space-tanks-arcade",
 "title": "Space Tanks: Arcade",
 "iframe": "https://html5.gamedistribution.com/2b3a83ea427f41acba506c5a7f6b718a/",

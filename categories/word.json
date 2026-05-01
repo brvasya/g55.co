@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "word-stars",
+"title": "Word Stars",
+"iframe": "https://html5.gamedistribution.com/ddc451045f974781b9d60b60f20c81d4/",
+"description": "Arrange letters to form high-scoring words from a limited set of star-shaped tiles. Players link adjacent letter nodes on a hexagonal grid, aiming to create longer words while managing the scarcity of letters. The challenge scales with grid complexity and offers time-limited rounds for added pressure, blending spatial strategy with vocabulary skill.\n\nKey Features\n\n• Hexagonal letter node grid  \n• Adjacent tile linking control  \n• Increasing word length targets  \n• Time attack progression mode  \n• Letter star tile collection system"
+},
+{
+"id": "word-shuffle",
+"title": "WORD SHUFFLE",
+"iframe": "https://html5.gamemonetize.games/6ft5k74o4aphyzl68gsa85dtpiyo78fc/",
+"description": "Shuffle letter tiles to form words in this puzzle game that tests vocabulary and pattern recognition. Players rearrange scrambled letters under a time limit to uncover hidden words and clear levels. Increasing difficulty adds unique tile combinations and word length challenges, inviting casual gamers and kids to sharpen their language skills through progressive word puzzles.\n\nKey Features\n\n• Tile rearrangement core mechanic  \n• Timed letter selection controls  \n• Progressive difficulty tiers  \n• Unlockable word puzzle modes  \n• Vocabulary based gameplay system"
+},
+{
 "id": "word-mosaic",
 "title": "Word Mosaic",
 "iframe": "https://html5.gamemonetize.games/ycuqf3m2oem3f15afphcmnwgxo6ctuzo/",
