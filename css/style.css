@@ -40,12 +40,14 @@ footer {
 }
 code {
     width: 100%;
+    color: #222;
     padding: 10px;
     margin-left: 10px;
     border-radius: 5px;
+    overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    overflow: hidden;
+    background-color: #fff;
 }
 li {
     display: block;
