@@ -39,7 +39,7 @@ footer {
     box-shadow: 0 100vmax 0 100vmax #222;
 }
 code {
-    width: 100%;
+    width: calc(100% - 230px);
     color: #222;
     padding: 10px;
     margin-left: 10px;
@@ -286,6 +286,7 @@ p {
 .copy {
     font: inherit;
     color: #fff;
+    width: 200px;
     border: 0;
     cursor: pointer;
     background-position: 10px;
@@ -323,7 +324,7 @@ p {
 header, li {
     width: 100%;
 }
-header:after, .tower_l, .ads, #___gcse_0 {
+header:after, .tower_l, .ads, .embed-code, #___gcse_0 {
     display: none;
 }
 h1 {
