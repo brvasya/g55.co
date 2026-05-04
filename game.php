@@ -27,7 +27,7 @@
 <button class="fullscreen" onclick="document.querySelector('.embed iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe <?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
-<?php if (str_starts_with($sandbox, 'style')): ?>
+<?php if (str_contains($sandbox, 'style')): ?>
 <div class="embed-code">
 <button class="tag copy" onclick="navigator.clipboard.writeText(document.querySelector('code').textContent); this.innerText='Copied!'; setTimeout(()=>this.innerText='Copy Embed Code',1500);">Copy Embed Code</button>
 <code><?php echo h('<iframe src="' . $iframeSrc . '" width="800" height="600" frameborder="0"></iframe>'); ?></code>
