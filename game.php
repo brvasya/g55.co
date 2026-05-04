@@ -25,7 +25,7 @@
 </aside>
 <div class="embed">
 <button class="fullscreen" onclick="document.querySelector('.embed iframe')?.requestFullscreen();" title="Fullscreen"></button>
-<iframe<?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>"></iframe>
+<iframe <?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>"></iframe>
 </div>
 <?php if (!$sandbox): ?>
 <div class="embed-code">
