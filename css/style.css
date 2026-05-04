@@ -40,14 +40,13 @@ footer {
 }
 code {
     width: calc(100% - 230px);
-    color: #222;
     padding: 10px;
     margin-left: 10px;
     border-radius: 5px;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    background-color: #fff;
+    background-color: #222;
 }
 li {
     display: block;
