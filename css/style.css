@@ -170,7 +170,6 @@ p {
 }
 .embed, .embed-code {
     width: calc(100% - 516px);
-    height: fit-content;
     display: flex;
 }
 .embed iframe {
