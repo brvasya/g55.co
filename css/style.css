@@ -44,6 +44,7 @@ code {
     margin-left: 10px;
     border-radius: 5px;
     overflow: hidden;
+    font-weight: normal;
     white-space: nowrap;
     text-overflow: ellipsis;
     background-color: #222;
