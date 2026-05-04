@@ -107,7 +107,7 @@ if ($hasC) {
     ];
 
     foreach ($pages as $p) {
-      if (str_contains($p['iframe'], 'g55.co')) {
+      if (str_contains($p['iframe'], 'exclusive')) {
         $featuredItems[] = [
           'id' => $p['id'],
           'title' => $p['title'],
@@ -118,7 +118,7 @@ if ($hasC) {
     }
   }
 
-  shuffle($featuredItems);
+  //shuffle($featuredItems);
 
   $h1 = ($totalCount > 0 ? number_format($totalCount) . ' ' : '') . $site['title'];
   $desc = $site['description'];
