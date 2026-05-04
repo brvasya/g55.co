@@ -76,6 +76,9 @@ p {
     height: 600px;
     margin: 0 25px 25px;
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .tower_l, .embed, .ads {
     background-color: #333;
