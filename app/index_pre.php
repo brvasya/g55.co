@@ -107,7 +107,7 @@ if ($hasC) {
     ];
 
     foreach ($pages as $p) {
-      if (strpos($p['iframe'], 'html5.g55.co') !== false) {
+      if (str_contains($p['iframe'], 'g55.co')) {
         $featuredItems[] = [
           'id' => $p['id'],
           'title' => $p['title'],
