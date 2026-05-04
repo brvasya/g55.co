@@ -38,6 +38,15 @@ footer {
     background-color: #222;
     box-shadow: 0 100vmax 0 100vmax #222;
 }
+code {
+    width: 100%;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
 li {
     display: block;
     flex: auto;
@@ -160,6 +169,7 @@ p {
 .embed, .embed-code {
     width: calc(100% - 516px);
     height: fit-content;
+    display: flex;
 }
 .embed iframe {
     border: 0;
