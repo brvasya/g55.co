@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "park-me-draw-path",
+"title": "Park Me: Draw Path",
+"iframe": "https://html5.gamedistribution.com/d60f8c65c1f64c838d6aa490ed5c649d/",
+"description": "Draw precise driving paths to maneuver cars into cramped parking spots in this minimalistic top-down layout. Players trace routes avoiding obstacles and tight corners while managing limited space, testing control dexterity. Each level introduces denser traffic patterns requiring sharper planning and timing adjustments to complete the urban parking challenge.\n\nKey Features\n\n• Path drawing vehicle control  \n• Spatial navigation with obstacles  \n• Increasing puzzle difficulty  \n• Time-based completion targets  \n• Urban parking environment"
+},
+{
 "id": "ultimate-monster-jeep-parking-game",
 "title": "Ultimate Monster Jeep Parking Game",
 "iframe": "https://html5.gamemonetize.games/dluw4p84cd6q7nqsojlxfs0nuwuxbg2x/",
