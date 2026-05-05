@@ -41,7 +41,7 @@ foreach ($categories as $c) {
   list($_, $pages) = load_category_pages($catId);
 
   foreach ($pages as $p) {
-    if (str_contains($p['iframe'], '.co')) {
+    if (str_contains($p['iframe'], 'g55.co') || str_contains($p['iframe'], 'gamemonetize.co')) {
       $featuredPages[] = [
         'id' => $p['id'],
         'title' => $p['title'],
