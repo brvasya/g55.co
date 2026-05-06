@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "slingshot-fortress",
+"title": "Slingshot Fortress",
+"iframe": "https://html5.gamedistribution.com/ecc90172a5a8427b85f6b1b75e5306e7/",
+"description": ""
+},
+{
+"id": "worm-escape",
+"title": "Worm Escape",
+"iframe": "https://html5.gamedistribution.com/d70eb84a934f4a6aa9e574bb3629bbfb/",
+"description": ""
+},
+{
+"id": "my-castle-merge-story",
+"title": "My Castle. Merge & Story",
+"iframe": "https://html5.gamedistribution.com/b1d11769f6754c14ad36e726b998bbc5/",
+"description": ""
+},
+{
+"id": "darling-doll",
+"title": "Darling Doll",
+"iframe": "https://html5.gamedistribution.com/3521ba73a1694cc2abf79a510b1e98ce/",
+"description": ""
+},
+{
 "id": "fish-out-of-water",
 "title": "Fish Out of Water!",
 "iframe": "https://html5.gamedistribution.com/bece97115f26426491fa08e409e545aa/",
