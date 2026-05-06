@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "my-castle-merge-story",
+"title": "My Castle. Merge & Story",
+"iframe": "https://html5.gamedistribution.com/b1d11769f6754c14ad36e726b998bbc5/",
+"description": "Manage and expand a modular castle by merging rooms and resources to unlock new story chapters. The gameplay revolves around combining matching structures to evolve your fortress, gradually revealing narrative elements set in a mythical kingdom. Strategic placement and upgrade timing define progress as you build a lively castle environment full of surprises.\n\nKey Features\n\n• Room merging upgrade system  \n• Drag and merge controls  \n• Story-driven castle expansion  \n• Resource management mechanics  \n• Fantasy kingdom thematic layers"
+},
+{
+"id": "merge-brick",
+"title": "Merge Brick",
+"iframe": "https://html5.gamemonetize.games/2nhifhovjiz29sa1hc72sutnmr04z3qp/",
+"description": "Combine numbered bricks by merging tiles on a grid to clear the board and earn higher scores. Players slide matching bricks together to create larger numbered blocks, aiming to manage space and optimize merges effectively. The game presents a tile-merging puzzle challenge with stepwise board progression, appealing to casual players seeking strategic planning with a math twist.\n\nKey Features\n\n• Tile sliding merge mechanic  \n• Numbered brick combination strategy  \n• Increasing grid complexity levels  \n• Score optimization through merges  \n• Puzzle board layout system"
+},
+{
 "id": "hex-merge-puzzle",
 "title": "Hex Merge Puzzle",
 "iframe": "https://html5.gamemonetize.games/ozl9kxh16xz52opfrofprpvgtcbvu1z1/",
