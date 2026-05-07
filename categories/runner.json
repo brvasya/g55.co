@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "crustrun",
+"title": "Crust Run",
+"iframe": "https://html5.gamemonetize.games/z1sawd3dkomimtpfn7j1kg9r3mygtj5u/",
+"description": "Jump across moving platforms while avoiding hazards in this fast-paced runner where precise timing guides your progress. The core mechanic revolves around dynamic jumping and dodging obstacles as you navigate an ever-changing course. Progression depends on mastering momentum and rhythm, challenging you to push further with each attempt.\n\nKey Features\n\n• Dynamic platform jumping  \n• Precision timing controls  \n• Increasing obstacle speed  \n• Momentum-based level progression  \n• Stylized minimalistic visuals"
+},
+{
 "id": "going-balls",
 "title": "Going Balls Runner",
 "iframe": "https://html5.gamedistribution.com/2d44a0c8ce704965b2031bcc4ae6a9a8/",
