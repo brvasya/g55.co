@@ -168,8 +168,14 @@ p {
 .tower_r .tag:last-child {
     background-position: 10px;
 }
-.embed, .embed-code {
+.embed {
     width: calc(100% - 516px);
+    display: flex;
+}
+.embed-code {
+    width: calc(100% - 50px);
+    padding-bottom: 25px;
+    margin: 0 25px;
     display: flex;
 }
 .embed iframe {

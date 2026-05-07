@@ -74,7 +74,7 @@ $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $page[
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
 $imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
 $iframeSrc = $page['iframe'];
-$sandbox = str_contains($iframeSrc, 'g55.co') || str_contains($iframeSrc, 'gamemonetize.co') ? 'style="height: 555px;"' : 'sandbox="allow-scripts allow-same-origin allow-pointer-lock"';
+$sandbox = str_contains($iframeSrc, 'g55.co') || str_contains($iframeSrc, 'gamemonetize.co') ? '' : 'sandbox="allow-scripts allow-same-origin allow-pointer-lock"';
 
 $h1 = $pageTitle;
 $desc = $page['description'];
