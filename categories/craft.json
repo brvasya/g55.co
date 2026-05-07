@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "counter-craft-js",
+"title": "Counter Craft JS",
+"iframe": "https://html5.g55.co/counter-craft-js/",
+"description": "Engage in tactical battles where quick reflexes and precise shooting define success. Navigate dynamic maps using standard FPS controls while managing limited ammo to outgun opponents in intense firefights. The core mechanic blends first-person shooter combat with light crafting elements to customize your gear and stay ahead. Survive rounds as you climb the competitive ladder.\n\nKey Features\n\n• First-person shooter gunplay mechanics  \n• Crafting system for weapon upgrades  \n• Ammo management and reload strategy  \n• Ranked match progression  \n• Urban combat map settings"
+},
+{
 "id": "island-expander",
 "title": "Island Expander Craft",
 "iframe": "https://html5.gamedistribution.com/5ebb9c7f2dce42369c22d2eab7c0e417/",
