@@ -47,7 +47,7 @@ code {
     font-weight: normal;
     white-space: nowrap;
     text-overflow: ellipsis;
-    background-color: #222;
+    background-color: #333;
 }
 li {
     display: block;
