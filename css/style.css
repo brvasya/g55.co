@@ -85,11 +85,8 @@ p {
 }
 .game {
     height: 600px;
-    margin: 0 25px 25px;
+    margin: 0 25px;
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    justify-content: space-between;
 }
 .tower_l, .embed, .ads {
     background-color: #333;
@@ -115,7 +112,7 @@ p {
 .description {
     width: calc(100% - 250px);
     padding: 0 75px;
-    margin: 0 25px;
+    margin: 25px 25px 0;
     border: 25px solid #222;
     border-radius: 5px;
     background-size: 50px;
@@ -174,7 +171,7 @@ p {
 }
 .embed-code {
     width: calc(100% - 50px);
-    padding-bottom: 25px;
+    padding-top: 10px;
     margin: 0 25px;
     display: flex;
 }
