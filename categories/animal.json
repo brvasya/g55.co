@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "logic-storm-animals-puzzle",
+"title": "Logic Storm: Animals Puzzle",
+"iframe": "https://html5.gamedistribution.com/b5c96767c4484a959e6154fc64a73144/",
+"description": "Match animal patterns by swapping adjacent puzzle pieces to unlock new levels and progress through increasingly complex grids. The core mechanic involves spatial reasoning with unique tile-matching twists that challenge logic and observation. Players aim to clear the board by creating sequences of matching animals, combining pattern recognition with a casual pacing suited for all ages.\n\nKey Features\n\n• Tile swapping spatial puzzles  \n• Pattern matching progression system  \n• Incremental difficulty levels  \n• Timer-free relaxed mode  \n• Colorful animal-themed grids"
+},
+{
 "id": "animal-daycare-game",
 "title": "Animal Daycare Game",
 "iframe": "https://html5.gamemonetize.games/2z30w48xrb0u657tz6cpgj3xur3ww3g9/",

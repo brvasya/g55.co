@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "mackup-runner-game",
+"title": "Mackup Runner Game",
+"iframe": "https://html5.gamemonetize.games/7f1t0zh8yalb08dpyzm4j2wgeg1l6ti4/",
+"description": "Navigate an endless obstacle course by jumping and sliding to avoid hazards in this casual runner. The game’s core mechanic involves precise timing of jumps and slides to maintain momentum through progressively challenging terrain. Players aim to achieve high scores by mastering movement control while adapting to an increasingly complex pace.\n\nKey Features\n\n• Jump and slide movement mechanics  \n• Responsive keyboard controls  \n• Increasing obstacle variety  \n• Score multiplier and combo system  \n• Stylized runner-themed environment"
+},
+{
+"id": "doodle-dino-run",
+"title": "Doodle Dino Run",
+"iframe": "https://html5.gamemonetize.games/ujj3b2snw9mkwezbs341oy1frp1h0n2y/",
+"description": "Navigate a hand-drawn dinosaur through a continuously scrolling environment, jumping and dodging obstacles with precise timing. The game focuses on rhythm-based movement across varied terrain as the dino races to survive an ever-accelerating landscape. Players must master quick reflexes and timing to achieve high scores while exploring unique hand-sketched visuals.\n\nKey Features\n\n• Rhythm-timed jump controls  \n• Obstacle avoidance challenges  \n• Increasing speed difficulty curve  \n• Score multiplier system  \n• Sketch-style runner environment"
+},
+{
 "id": "crustrun",
 "title": "Crust Run",
 "iframe": "https://html5.gamemonetize.games/z1sawd3dkomimtpfn7j1kg9r3mygtj5u/",
