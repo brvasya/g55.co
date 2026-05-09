@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "office-solitaire",
+"title": "Office Solitaire",
+"iframe": "https://html5.gamedistribution.com/ab572c1e1dc04e4499da4db26e768286/",
+"description": "Arrange cards in classic solitaire layout to clear suits in sequential order while managing limited tableau moves. This version features standard Klondike mechanics with automatic card flipping and subtle timer pressure to enhance pacing. Players aim to complete each hand efficiently, balancing risk and reward through strategic card placement.\n\nKey Features\n\n• Klondike solitaire card sorting  \n• Mouse-driven card manipulation  \n• Timed hand completion scoring  \n• Automatic card reveal system  \n• Traditional playing card visuals"
+},
+{
 "id": "solitaire-klondike-eternal-russian-classic",
 "title": "Solitaire Klondike: Eternal Russian Classic",
 "iframe": "https://html5.gamedistribution.com/c6eb54e8432a480bab89a517bd1a897e/",
