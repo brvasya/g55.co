@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "office-spider-solitaire",
+"title": "Office Spider Solitaire",
+"iframe": "https://html5.gamedistribution.com/09fd115d31734cb0bbab0e58fa6e4a1b/",
+"description": "Arrange cards in cascading stacks using classic Klondike solitaire rules to clear all tableau piles by alternating colors and building foundations. This version adapts the gameplay to a virtual office environment, challenging players to manage limited moves efficiently and improve their solitaire strategy in a casual setting.\n\nKey Features\n\n• Klondike card stacking mechanic  \n• Drag and drop card controls  \n• Move limit challenge system  \n• Timed scoring mode option  \n• Office-themed user interface"
+},
+{
 "id": "office-solitaire",
 "title": "Office Solitaire",
 "iframe": "https://html5.gamedistribution.com/ab572c1e1dc04e4499da4db26e768286/",
