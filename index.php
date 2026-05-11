@@ -18,7 +18,7 @@
 <h1><?php echo h($h1); ?></h1>
 <p><?php echo $desc; ?></p>
 <?php if (!empty($featuredItems)): ?>
-<h2><a href="/?c=exclusive">Exclusive Games</a></h2>
+<h2>Exclusive Games</h2>
 <section class="grid">
 <?php foreach (array_slice($featuredItems, 0, 6) as $g): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($g['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($g['id']); ?>&c=<?php echo rawurlencode($g['category']); ?>"><span class="<?php echo rawurlencode($g['category']); ?>"><?php echo h($g['title']); ?></span></a>
