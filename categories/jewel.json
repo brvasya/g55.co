@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "candy-jewels",
+"title": "Candy Jewels",
+"iframe": "https://html5.gamedistribution.com/139b8e0290914556898663a6f2311817/",
+"description": "Match colorful jewels by swapping adjacent pieces to create lines of three or more in this casual puzzle experience. Players strategize chain reactions to clear increasingly complex boards while aiming for high scores and bonus tiles. The game features timed levels that require quick pattern recognition and thoughtful moves to advance.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Chain reaction combo system  \n• Timed level progression  \n• Score multiplier bonuses  \n• Vibrant gem tile visuals"
+},
+{
 "id": "jewel-link",
 "title": "Jewel Link",
 "iframe": "https://html5.gamedistribution.com/21987ef4d4284d32b1bd2aef62f47782/",
