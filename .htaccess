@@ -2,4 +2,4 @@ Header always unset X-Frame-Options
 Header set Access-Control-Allow-Origin "*"
 Header set Cross-Origin-Resource-Policy "cross-origin"
 RewriteEngine On
-ErrorDocument 404 /404.php
+ErrorDocument 404 /
