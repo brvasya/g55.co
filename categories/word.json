@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "word-ladder",
+"title": "Word Ladder",
+"iframe": "https://html5.gamemonetize.games/1n7aeyhbtz2ygqvh8lkh2mu9ovbxb13a/",
+"description": "Shift letters to form new words in a chain-based puzzle, progressively altering one letter at a time to connect start and end terms through logical word ladders. Each level introduces longer words and increasingly complex letter transformations to challenge word-building skills and pattern recognition.\n\nKey Features\n\n• letter substitution puzzle mechanic  \n• stepwise word transformation control  \n• escalating difficulty word chains  \n• timed challenge mode option  \n• minimalist text-based presentation"
+},
+{
 "id": "word-stars",
 "title": "Word Stars",
 "iframe": "https://html5.gamedistribution.com/ddc451045f974781b9d60b60f20c81d4/",
