@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "sudoku-puzzle",
+"title": "Sudoku Puzzle",
+"iframe": "https://html5.gamemonetize.games/amg59ej35csdyb26xbq6b9733n9vxf40/",
+"description": "Fill empty cells with digits 1 to 9 while following classic number placement rules. Players rely on logical deduction to complete overlapping 3x3 grid segments arranged in a 9x9 matrix. The game challenges players to identify unique digits without repetition per row, column, or block, progressing through puzzles of varying difficulty. Pencil marks aid in outlining possibilities before finalizing the solution.\n\nKey Features\n\n• Logic-based number placement  \n• Grid navigation controls  \n• Puzzle difficulty scaling  \n• Candidate marking system  \n• Classic Sudoku layout"
+},
+{
 "id": "sudoku-puzzle-master",
 "title": "Sudoku Puzzle Master",
 "iframe": "https://html5.gamemonetize.games/q55d7ziajl30qgu9rgey2tyvq17281ox/",
