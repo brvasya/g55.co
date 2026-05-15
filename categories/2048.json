@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "reach-2048",
+"title": "Reach 2048",
+"iframe": "https://html5.gamedistribution.com/c51a61ffce8044a6b1333575047534f3/",
+"description": "Slide numbered tiles on a grid to combine matching values and reach higher numbers in this classic puzzle twist. The game challenges your planning skills as you merge tiles strategically to hit the 2048 target while managing limited space. Players need to think ahead to optimize moves and prevent the board from filling up, focusing on careful tile placement and combination patterns.\n\nKey Features\n\n• Number merging core mechanic  \n• Arrow key tile sliding control  \n• Increasing tile values progression  \n• Score tracking and best result system  \n• Minimalist grid-based puzzle setup"
+},
+{
 "id": "rainbow-balls-2048",
 "title": "Rainbow Balls 2048",
 "iframe": "https://html5.gamedistribution.com/c3b352633edf420ab130b951ecc6bfac/",

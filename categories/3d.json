@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "rotating-bones-3d",
+"title": "Rotating Bones 3D",
+"iframe": "https://html5.gamemonetize.games/1hdfqk50me3zn2p61rj5gn11tzaxtyph/",
+"description": "Rotate and align complex 3D bone structures to solve spatial puzzles using precise manipulation controls. Players engage with multi-axis rotation mechanics to position interconnected elements correctly, increasing difficulty with each level by introducing faster rotations and limited moves. The game challenges spatial reasoning while offering casual progression suitable for younger players.\n\nKey Features\n\n• Multi-axis bone rotation controls  \n• Increasing puzzle complexity levels  \n• Limited move challenge system  \n• Progressive spatial alignment goals  \n• 3D skeletal structure visuals"
+},
+{
+"id": "black-hole-fill-3d",
+"title": "Black Hole Fill 3D",
+"iframe": "https://html5.gamemonetize.games/k682jt9wtec2l3zo47lgm0p1lcrkvr0z/",
+"description": "Manipulate gravity fields to steer floating spheres into black holes while balancing spatial puzzles in a minimal 3D environment. Players must control momentum and direction to fill each void efficiently, navigating increasing complexity as new levels introduce varied hole sizes and obstacle placement, testing timing and precision.\n\nKey Features\n\n• Gravity manipulation mechanics  \n• Momentum-based sphere control  \n• Progressive spatial puzzle design  \n• Increasing hole size variations  \n• Minimalistic 3D puzzle setting"
+},
+{
 "id": "smashy-bird-3d",
 "title": "Smashy Bird 3D",
 "iframe": "https://html5.gamemonetize.games/poqt9bncwvtfppbs7spz1l4cfknzwagm/",

@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snake-sort-game",
+"title": "Snake Sort Game",
+"iframe": "https://html5.gamemonetize.games/l3mv6v7c3zloigdwgtpgr6gel0p51sjj/",
+"description": "Sort snake segments by color to clear the board in this tile-based puzzle challenge. Players drag and rearrange linked snake pieces, using spatial reasoning to group matching colors and complete patterns. Timing and precision dictate your success as you progress through more complex arrangements and limited moves.\n\nKey Features\n\n• Color matching snake segments  \n• Drag and drop link movement  \n• Increasing pattern difficulty  \n• Limited move challenge system  \n• Puzzle grid layout"
+},
+{
 "id": "untangle-snake-frenzy",
 "title": "Untangle Snake Frenzy",
 "iframe": "https://html5.gamemonetize.games/niuis76wxbzncmx7ob58jy6l4ua0gesu/",

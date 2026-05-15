@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "treasure-hunt-puzzle",
+"title": "Treasure Hunt Puzzle",
+"iframe": "https://html5.gamedistribution.com/80a3f1d615d1414ea4eaace523d94056/",
+"description": "Solve complex tile-matching puzzles by swapping gems to unlock hidden treasures within layered grids. Utilizing pattern recognition and strategic moves, players gradually reveal concealed relics to advance through intricate stages. The game challenges players to clear obstacles using limited swaps while uncovering increasingly elaborate treasure maps.\n\nKey Features\n\n• Tile swapping puzzle mechanics  \n• Limited move challenge system  \n• Progressive treasure unlocking stages  \n• Bonus time attack mode  \n• Ancient artifact visual theme"
+},
+{
 "id": "ocean-blast-block-puzzle",
 "title": "Ocean Blast: Block Puzzle",
 "iframe": "https://html5.gamemonetize.games/0km1ipa9tv0ihpdjs6c9gokwzlwxl7s2/",
