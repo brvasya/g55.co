@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "dusty-cat",
+"title": "Dusty Cat",
+"iframe": "https://html5.gamedistribution.com/141b948c1f5c4476acc673d84f2ad1c0/",
+"description": "Navigate an agile feline through crumb-filled rooms collecting scattered dust particles using precise jumping and dashing mechanics. Explore a series of compact indoor levels where managing limited jumps and timed movements is key to clearing all debris. Each stage challenges players to clean efficiently while avoiding obstacles that reset progress.\n\nKey Features\n\n• Precision jump and dash controls  \n• Dust collection level objectives  \n• Timed movement challenge  \n• Limited jump recharge system  \n• Indoor room exploration stages"
+},
+{
 "id": "doodle-cats",
 "title": "Doodle Cats",
 "iframe": "https://html5.gamemonetize.games/kz5ep4po4u4e2y3lgd9jlf1ygqppsgzo/",

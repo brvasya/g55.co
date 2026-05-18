@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snake-go-escape-puzzle",
+"title": "Snake Go - Escape Puzzle",
+"iframe": "https://html5.gamedistribution.com/73d8b722929e42d192795617dc4dd372/",
+"description": "Guide the snake through puzzle-like mazes by navigating complex tile arrangements to collect items and escape. The core mechanic involves precise directional movement and timing to avoid self-trapping as length increases. Each level challenges players to plan routes carefully, adapting to progressively intricate maze layouts that test spatial awareness and patience.\n\nKey Features\n\n• Directional tile navigation  \n• Length growth management  \n• Increasing maze complexity  \n• Strategic route planning  \n• Casual puzzle snake gameplay"
+},
+{
 "id": "snake-sort-game",
 "title": "Snake Sort Game",
 "iframe": "https://html5.gamemonetize.games/l3mv6v7c3zloigdwgtpgr6gel0p51sjj/",
