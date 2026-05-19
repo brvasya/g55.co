@@ -102,7 +102,7 @@ if ($hasC) {
     ];
 
     foreach ($pages as $p) {
-      if (str_contains($p['iframe'], 'exclusive')) {
+      if (str_contains($p['iframe'], 'html5.g55.co')) {
         $featuredItems[] = [
           'id' => $p['id'],
           'title' => $p['title'],
