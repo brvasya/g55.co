@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ninja-survivor",
+"title": "Ninja Survivor",
+"iframe": "https://html5.gamedistribution.com/6ff158a48fed4f3aa40877422662a71a/",
+"description": "Navigate stealthy environments using swift melee strikes and evasive roll maneuvers to eliminate enemies in this ninja-themed survival challenge. Master close-quarters combat and timed dodges to withstand waves of opponents, aiming to last as long as possible without being overwhelmed. Reaction speed and precision attacks are crucial for steady progression through increasingly difficult stages.\n\nKey Features\n\n• Melee combat with combo sequences  \n• Dodging and rolling controls  \n• Wave-based enemy escalation  \n• Time survival scoring system  \n• Traditional ninja setting and weapons"
+},
+{
 "id": "super-ninja-baloon",
 "title": "Super Ninja Baloon",
 "iframe": "https://html5.gamedistribution.com/63cf93e7b28a43f2a781bafa61cf5307/",

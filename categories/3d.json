@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "hidden-paint-3d",
+"title": "Hidden Paint 3D",
+"iframe": "https://html5.gamedistribution.com/ded22a933ac34909a6f1029abebb8408/",
+"description": "Navigate layered 3D scenes to uncover hidden objects using spatial clues and precise camera control. This puzzle game revolves around manipulating the perspective to reveal concealed elements within intricate shapes. Players face the challenge of visual deduction and spatial reasoning to complete each level’s concealed discovery.\n\nKey Features\n\n• Perspective based object finding  \n• Camera angle manipulation  \n• Gradual puzzle complexity progression  \n• Hint system for hidden clues  \n• Minimalist 3D environment design"
+},
+{
 "id": "rotating-bones-3d",
 "title": "Rotating Bones 3D",
 "iframe": "https://html5.gamemonetize.games/1hdfqk50me3zn2p61rj5gn11tzaxtyph/",
