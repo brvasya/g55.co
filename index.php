@@ -19,11 +19,11 @@
 <p><?php echo $desc; ?></p>
 <?php if (!empty($featuredItems)): ?>
 <h2>Exclusive Games</h2>
-<section class="grid">
+<ul class="series">
 <?php foreach (array_slice($featuredItems, 0, 6) as $g): ?>
-<a class="thumbnail" style="background-image: url(<?php echo h($g['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($g['id']); ?>&c=<?php echo rawurlencode($g['category']); ?>"><span class="<?php echo rawurlencode($g['category']); ?>"><?php echo h($g['title']); ?></span></a>
+<li><a class="tag" style="background-image: url(<?php echo h($g['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($g['id']); ?>&c=<?php echo rawurlencode($g['category']); ?>"><?php echo h($g['title']); ?></a></li>
 <?php endforeach; ?>
-</section>
+</ul>
 <?php endif; ?>
 <?php if ($pageNum === 1 && $seriesBlocks): ?>
 <h2><?php echo h($cat['name']); ?> Game Series</h2>
