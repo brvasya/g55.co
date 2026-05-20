@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "tap-bead",
+"title": "Tap Bead Puzzle",
+"iframe": "https://html5.gamedistribution.com/1623f11ab941461899f9146501c36d9e/",
+"description": "Match clusters of colored beads by tapping to clear the grid in this engaging puzzle challenge. Players strategically trigger chain reactions using quick taps to dismantle bead groupings and advance through increasingly intricate layouts. Timing and pattern recognition are key to mastering the escalating difficulty across each stage.\n\nKey Features\n\n• Tap-based cluster clearing  \n• Chain reaction mechanics  \n• Progressive puzzle difficulty  \n• Score combo system  \n• Vibrant bead matching theme"
+},
+{
+"id": "packing-line",
+"title": "Packing Line Puzzle",
+"iframe": "https://html5.gamedistribution.com/b7c6b58e8a0841f984c2be418d3299d4/",
+"description": "Arrange packages efficiently on conveyor belts to maximize space and meet specific size requirements in this spatial reasoning puzzle. Players manipulate differently shaped boxes, testing spatial awareness and strategic placement under tight constraints. The challenge lies in optimizing packing order to clear levels, with increasing complexity as new shapes and limited moves appear.\n\nKey Features\n\n• spatial box arrangement mechanic  \n• drag and drop package control  \n• progressive level difficulty scaling  \n• move limit challenge system  \n• minimalist warehouse setting"
+},
+{
+"id": "loop-ghost",
+"title": "Loop Ghost Puzzle",
+"iframe": "https://html5.gamedistribution.com/3b187941ce7941e8bf379e7ec3a53747/",
+"description": "Manipulate looping paths to solve shifting tile puzzles in a minimalist style where each move alters the configuration subtly. Players rotate and slide interconnected pieces, mastering spatial relationships to restore continuous loops through increasing complex stages. The core challenge revolves around aligning loop segments under time constraints, enhancing traditional tile puzzle engagement.\n\nKey Features\n\n• Loop tile rotation mechanic  \n• Sliding piece control system  \n• Progressive complexity levels  \n• Time-limited puzzle mode  \n• Minimalist geometric visuals"
+},
+{
 "id": "divide-puzzle-arcade",
 "title": "Divide Puzzle Arcade",
 "iframe": "https://html5.gamemonetize.games/8m8kz4h74n7l19a75bqurn4fb34witu0/",

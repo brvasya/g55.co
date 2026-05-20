@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "emoji-guess",
+"title": "Emoji Guess Connect",
+"iframe": "https://html5.gamedistribution.com/9f201fb381ab42efbcc0530f9990f777/",
+"description": "Link emoji pairs to clear the board by connecting matching icons with straight or curved paths without overlapping lines. Players test their pattern recognition and spatial planning skills as they work through increasingly complex arrangements. Quick thinking improves the chance of completing levels with limited moves in a colorful, grid-based puzzle setting.\n\nKey Features\n\n• Line connection puzzle mechanic  \n• Drag and link emoji pairs  \n• Increasing puzzle complexity  \n• Limited move challenge system  \n• Vibrant grid interface"
+},
+{
 "id": "mojicon-garden-connect",
 "title": "Mojicon Garden Connect",
 "iframe": "https://html5.gamedistribution.com/04bfaeb994ba4c38bd977a7082a7f07c/",

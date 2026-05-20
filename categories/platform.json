@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "portal-hop",
+"title": "Portal Hop Platformer",
+"iframe": "https://html5.gamedistribution.com/d83a6203efec418084fc93da189e0abb/",
+"description": "Hop between dynamic portals to navigate layered platforming challenges, using precise timing and spatial awareness. Players manipulate teleportation nodes to traverse levels filled with shifting platforms and hidden pathways. The objective centers on mastering portal sequences to reach increasingly complex stage endpoints, testing reflexes and puzzle-solving in vibrant, abstract environments.\n\nKey Features\n\n• Portal-based movement puzzles  \n• Precision jump controls  \n• Progressive stage complexity  \n• Teleport sequence mechanics  \n• Abstract world design"
+},
+{
 "id": "hop-hop-ball",
 "title": "Hop Hop Ball Platformer",
 "iframe": "https://html5.gamedistribution.com/8e294d9acb4b44f4838f5ceace8bf207/",

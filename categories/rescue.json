@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "royal-pin",
+"title": "Royal Pin Rescue",
+"iframe": "https://html5.gamedistribution.com/780bdf6c7e3244ed9237d175f6c099db/",
+"description": "Navigate intricate environments to guide trapped characters to safety using strategic puzzle-solving in this rescue-themed adventure. Players must manipulate environmental elements to clear paths and avoid hazards, focusing on timed decisions and spatial reasoning. Levels progressively increase in difficulty, testing planning skills while introducing new obstacles and mechanics. The core challenge revolves around precise movement and resourceful use of limited tools.\n\nKey Features\n\n• Environmental puzzle manipulation  \n• Character path planning controls  \n• Increasingly complex level design  \n• Time-based challenge mechanics  \n• Rescue mission scenario elements"
+},
+{
 "id": "obby-rescue-pin",
 "title": "Obby Rescue Pin",
 "iframe": "https://html5.gamedistribution.com/6465ba06644349ccab4cdd4e65196aef/",
