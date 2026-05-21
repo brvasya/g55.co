@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "wool-sorting",
+"title": "Wool Sorting",
+"iframe": "https://html5.gamedistribution.com/1abaea29fe734e8ba27448bc7a9c3422/",
+"description": "Sort wool balls by color into matching baskets using mouse precision in this casual casual game. Players engage with an increasing variety of wool types, mixing fast-paced sorting and quick decision making as baskets fill up. The challenge ramps up with limited time and new color combinations introduced in each level.\n\nKey Features\n\n• Color matching sorting mechanic  \n• Mouse driven basket selection  \n• Timed level progression  \n• Increasing wool color varieties  \n• Casual farmyard visual theme"
+},
+{
+"id": "bubble-sorting-game",
+"title": "Bubble Sorting Game",
+"iframe": "https://html5.gamemonetize.games/za3thnder4piit44rhppx3v7kyqngcdg/",
+"description": "Sort colored bubbles by swapping pairs to create matching groups and clear the board efficiently. This puzzle relies on careful bubble arrangement through adjacent swaps to solve increasingly complex patterns. Players aim to strategically reorder bubbles while managing limited moves and escalating challenges across progressive stages.\n\nKey Features\n\n• Adjacent bubble swapping mechanic  \n• Tap and drag control scheme  \n• Increasingly complex puzzle stages  \n• Move-limited challenge system  \n• Color matching grouping objective"
+},
+{
 "id": "wool-sort-yarn-color-puzzle",
 "title": "Wool Sort: Yarn Color Puzzle",
 "iframe": "https://html5.gamemonetize.games/q8pn8dmqx4cc9tqrkay8dx89d64j8pl2/",
