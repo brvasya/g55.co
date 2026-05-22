@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "office-pyramid-solitaire",
+"title": "Office Pyramid Solitaire",
+"iframe": "https://html5.gamedistribution.com/ca808ce686fa485c81fcf487ef65cac1/",
+"description": "Arrange numbered cards by matching ranks to clear the pyramid stack in this solitaire variant set in a minimalist office environment. Players remove pairs of cards that add to thirteen, aiming to dismantle all layers while managing a limited draw pile. The game combines quick decision-making and strategic stacking to overcome challenges as the pyramid shrinks.\n\nKey Features\n\n• Pair sum thirteen mechanic  \n• Click and drag card controls  \n• Layered pyramid removal challenge  \n• Draw pile card cycling system  \n• Office-themed card design"
+},
+{
 "id": "office-spider-solitaire",
 "title": "Office Spider Solitaire",
 "iframe": "https://html5.gamedistribution.com/09fd115d31734cb0bbab0e58fa6e4a1b/",
