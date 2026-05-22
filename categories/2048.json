@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "caterfall-2048",
+"title": "Caterfall 2048",
+"iframe": "https://html5.gamedistribution.com/a71168b1feb94d4bbeb466d22c292b53/",
+"description": "Slide and merge numbered caterpillars on a grid to combine matching tiles and reach higher values in a strategic twist on classic 2048 gameplay. Players must plan moves carefully to avoid filling the board while leveraging unique caterpillar shapes that affect tile merging patterns.\n\nKey Features\n\n• Tile merging with caterpillar shapes  \n• Directional swipe movement controls  \n• Increasing difficulty with grid saturation  \n• Score tracking and move optimization  \n• Insect-themed tile designs"
+},
+{
 "id": "reach-2048",
 "title": "Reach 2048",
 "iframe": "https://html5.gamedistribution.com/c51a61ffce8044a6b1333575047534f3/",
