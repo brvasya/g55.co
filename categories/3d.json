@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "fire-balls",
+"title": "Fire Balls 3D Shooting",
+"iframe": "https://html5.gamedistribution.com/df9a06efeca24d7789e363019ff6f5c2/",
+"description": "Shoot colorful fireballs through dynamic 3D arenas, aiming to hit moving targets with precise timing and angle control. The core mechanic involves adjusting the trajectory of spherical projectiles to clear each level’s unique spatial puzzles. Progression depends on mastering shot power and target patterns in increasingly complex scenarios that test aim and reflexes.\n\nKey Features\n\n• Trajectory aiming with power adjustment  \n• Interactive 3D arena environments  \n• Increasingly complex target patterns  \n• Level-based progression system  \n• Physics influenced projectile motion"
+},
+{
 "id": "hidden-paint-3d",
 "title": "Hidden Paint 3D",
 "iframe": "https://html5.gamedistribution.com/ded22a933ac34909a6f1029abebb8408/",

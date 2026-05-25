@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "flappy-ball",
+"title": "Flappy Ball Halloween",
+"iframe": "https://html5.gamedistribution.com/5b9b7c51ce034c36810c1922dcac9db0/",
+"description": "Navigate the bouncing ball through narrow pipes using precise flapping controls in this spooky Halloween setting. Players must time each tap carefully to avoid obstacles and keep the ball airborne as the difficulty gradually increases. Collecting seasonal items adds an extra layer of challenge to maintain focus while progressing through endless levels.\n\nKey Features\n\n• Tap-based flapping mechanic  \n• Obstacle avoidance timing  \n• Increasing difficulty pacing  \n• Collectible Halloween-themed items  \n• Endless level progression"
+},
+{
 "id": "the-dandy",
 "title": "The Dandy Halloween",
 "iframe": "https://html5.gamedistribution.com/51e9c8c448f24541848ac3e4afe44201/",

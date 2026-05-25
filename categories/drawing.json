@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "superpixelint",
+"title": "SuperPixelint Drawing",
+"iframe": "https://html5.gamedistribution.com/7ca746d71b7049df851999d2c0d554c9/",
+"description": "Craft intricate pixel art by drawing precise shapes and lines in a dynamic grid layout. Experiment with color placement to complete increasingly detailed patterns while developing your pixel art skills. Each puzzle presents spatial challenges that require careful planning and steady hand control to unlock new levels and creative tools.\n\nKey Features\n\n• Pixel-based drawing grid system  \n• Click-and-drag line placement  \n• Progressive pattern complexity  \n• Unlockable color palettes  \n• Casual pixel art challenges"
+},
+{
 "id": "touch-draw-game",
 "title": "Touch Draw Game",
 "iframe": "https://html5.gamemonetize.games/0kjcp1ykzydqcuu76bjasns00mmosx97/",
