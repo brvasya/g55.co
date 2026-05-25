@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "emoji-frenzy",
+"title": "Emoji Frenzy Memory",
+"iframe": "https://html5.gamedistribution.com/59c9c46de0c744e9ae989546e860d7e8/",
+"description": "Match sequences of emoji cards by recalling their positions and pairs quickly, testing visual memory and pattern recognition in a casual setting. Players face a timed matching challenge where remembering card placements is key to progressing through increasing difficulty levels. The core mechanic revolves around flipping cards to find and match identical emoji pairs before time runs out.\n\nKey Features\n\n• Sequential emoji matching mechanic  \n• Card flipping memory control  \n• Time-based level progression  \n• Increasing pair complexity system  \n• Colorful emoji-themed visuals"
+},
+{
 "id": "the-best-memory",
 "title": "The Best Memory",
 "iframe": "https://html5.gamemonetize.games/a78mxs6j39xuvq52pthxhq24fxficsi7/",

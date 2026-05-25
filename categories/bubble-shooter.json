@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "bubble-pop-legend",
+"title": "Bubble Shooter Pop Legend",
+"iframe": "https://html5.gamedistribution.com/1561f24d736b4bf292e0ae33059f909f/",
+"description": "Launch and match colored bubbles with precise aiming to clear clusters in progressively challenging stages. The game revolves around skillful bubble placement using an arcade-style shooter mechanism, requiring strategic shots to dismantle formations before the bubbles descend. Progression introduces new bubble patterns that increase difficulty and test player accuracy in timed rounds.\n\nKey Features\n\n• Precision bubble aiming system  \n• Cluster popping mechanics  \n• Progressive difficulty levels  \n• Timed challenge rounds  \n• Casual arcade bubble setting"
+},
+{
 "id": "bubble-shooter-vintage",
 "title": "Bubble Shooter Vintage",
 "iframe": "https://html5.gamedistribution.com/92f19fdd8fe24ff18cfb3a07799c7114/",

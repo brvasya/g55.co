@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "coin-blitz",
+"title": "Coin Blitz Shooter",
+"iframe": "https://html5.gamedistribution.com/82efd9293b264d2ebf2255857a4912e7/",
+"description": "Shoot rapidly through waves of spinning coins using precise aiming mechanics in this shooter. Players must time their shots carefully to hit fast-moving targets and increase their score before time runs out. The gameplay revolves around quick reflexes and accurate targeting, with escalating difficulty across rounds that challenge player precision.  \n\nKey Features\n\n• Rapid firing coin targets  \n• Precision aiming controls  \n• Increasing speed challenge  \n• Score multiplier system  \n• Casual arcade style visuals"
+},
+{
 "id": "fnaf-strike-shooter",
 "title": "FNAF Strike Shooter",
 "iframe": "https://html5.g55.co/fnaf-strike-shooter/",

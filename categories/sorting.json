@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "popsortica",
+"title": "PopSortica Sorting",
+"iframe": "https://html5.gamedistribution.com/81eb4f30ea604c2dba1c486c27d7744f/",
+"description": "Sort cascading colorful blocks by strategically swapping their positions in grid-based puzzles. Players engage with pattern recognition and spatial planning to clear all pieces before the board fills up. The gameplay challenges quick thinking through a chain-reaction mechanic, advancing through increasingly complex puzzles that reward efficient moves.\n\nKey Features\n\n• grid-based block swapping  \n• chain-reaction clearing system  \n• increasing puzzle complexity  \n• move limit progression challenge  \n• vibrant color sorting interface"
+},
+{
 "id": "wool-sorting",
 "title": "Wool Sorting",
 "iframe": "https://html5.gamedistribution.com/1abaea29fe734e8ba27448bc7a9c3422/",

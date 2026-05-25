@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snake-puzzle-escape",
+"title": "Snake Puzzle Escape",
+"iframe": "https://html5.gamedistribution.com/504e7fdd353f469b95f1680e4f63b36b/",
+"description": "Navigate the twisting snake through intricate puzzles, using precise turning and timing to avoid dead ends and traps. The core mechanic relies on carefully planning movements as the snake grows longer with each collected item. Levels increase in complexity, requiring players to think several steps ahead to find the exit before being trapped or blocked.\n\nKey Features\n\n• Directional movement control  \n• Length-based spatial puzzles  \n• Increasing maze complexity  \n• Time attack progression mode  \n• Minimalist grid environment"
+},
+{
 "id": "snake-go-escape-puzzle",
 "title": "Snake Go - Escape Puzzle",
 "iframe": "https://html5.gamedistribution.com/73d8b722929e42d192795617dc4dd372/",

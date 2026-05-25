@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "slingshot-fortress",
+"title": "Slingshot Fortress Puzzle",
+"iframe": "https://html5.gamedistribution.com/ecc90172a5a8427b85f6b1b75e5306e7/",
+"description": "Launch projectiles with precise timing and trajectory control to topple intricate fortress structures in this physics-based puzzle game. Players utilize a slingshot mechanic to manipulate angles and force, aiming to clear each level by dismantling defensive layouts. Progression unfolds through increasingly complex building designs that demand strategic shooting angles and power adjustments.\n\nKey Features\n\n• Physics-based projectile trajectory  \n• Slingshot aiming and power control  \n• Sequential fortress dismantling challenges  \n• Level progression with escalating difficulty  \n• Structural collapse and debris simulation"
+},
+{
+"id": "ludo-star",
+"title": "Ludo Star Puzzle",
+"iframe": "https://html5.gamedistribution.com/4217557d28cc4038b6822767a09b79e3/",
+"description": "Match dice rolls and place tiles strategically to clear the board in this casual puzzle game. Players must arrange numbered pieces on a grid, adapting to random dice outcomes, while aiming to maximize score and complete patterns. The gameplay challenges planning and adaptability, offering a relaxing yet strategic experience suitable for teens and kids.\n\nKey Features\n\n• Dice roll based tile placement  \n• Grid puzzle layout mechanics  \n• Scoring through pattern completion  \n• Turn-by-turn decision making  \n• Casual brain teaser format"
+},
+{
 "id": "tap-bead",
 "title": "Tap Bead Puzzle",
 "iframe": "https://html5.gamedistribution.com/1623f11ab941461899f9146501c36d9e/",

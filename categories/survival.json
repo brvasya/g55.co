@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "ship-fish",
+"title": "Ship & Fish Survival",
+"iframe": "https://html5.gamedistribution.com/f9d0af2d87e644e68e65e0ea2184a0f7/",
+"description": "Navigate drifting ships through treacherous waters while managing limited resources to survive harsh ocean conditions. The game challenges players to maintain balance and strategic timing under unpredictable weather patterns. Progress involves adapting to shifting currents and collecting supplies to extend your vessel’s endurance through each stage of survival.\n\nKey Features\n\n• Resource management under pressure  \n• Manual ship stabilization controls  \n• Dynamic weather effect system  \n• Progressive supply gathering stages  \n• Oceanic navigation hazards"
+},
+{
+"id": "apocalypse-shelter",
+"title": "Apocalypse Shelter Survival",
+"iframe": "https://html5.gamedistribution.com/600319e8d5d94a41bb3374c726ba15fc/",
+"description": "Manage scarce resources to keep your shelter’s inhabitants alive amid relentless dangers in an underground base survival game. Balance food, water, and energy supplies while fortifying defenses against unpredictable threats. The experience challenges you with real-time resource allocation and strategic expansion as you aim to endure an apocalyptic environment’s harsh conditions.\n\nKey Features\n\n• Real-time resource management  \n• Shelter defense building controls  \n• Progressive threat escalation system  \n• Character wellbeing monitoring  \n• Post-apocalyptic shelter setting"
+},
+{
 "id": "forest-survivor-challenge",
 "title": "Forest Survival Challenge",
 "iframe": "https://html5.gamemonetize.games/3b94kcpo5w3tl4knnj27ahvqsvd8bc5j/",

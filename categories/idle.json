@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "oreplication",
+"title": "Oreplication Idle",
+"iframe": "https://html5.gamedistribution.com/109536c4ebad4fceb14224df11b0b158/",
+"description": "Automate resource collection and management by optimizing ore extraction in a streamlined idle environment. Players focus on upgrading mining operations to increase yield and unlock new layers of progression through incremental efficiency mechanics. The game challenges casual players to balance upgrades and passive income to maximize ore production over time.\n\nKey Features\n\n• Incremental resource extraction system  \n• Upgrade-driven efficiency improvements  \n• Layered progression unlocks  \n• Passive idle income mechanics  \n• Mining operation simulation"
+},
+{
+"id": "city-tower-builder",
+"title": "City Tower Builder Idle",
+"iframe": "https://html5.gamedistribution.com/9f82549300b14817a917bfca75210fd0/",
+"description": "Stack blocks strategically to build towering skyscrapers in this idle city builder. Players manage vertical construction by tapping to add floors while balancing growth speed and stability. Progress through increasingly complex building materials and unlock new architectural styles to create impressive cityscapes. The aim is to reach the highest possible tower without collapse, testing incremental management skills while expanding urban landscapes.\n\nKey Features\n\n• Incremental tower building mechanic  \n• Tap control floor placement  \n• Stability balancing challenge  \n• Material upgrade progression  \n• Urban skyline theme"
+},
+{
 "id": "sweet-bite-idle-game",
 "title": "Sweet Bite Idle Game",
 "iframe": "https://html5.gamemonetize.games/lxxapjvz3o6bqnh0pi84nkxfn1q171oy/",
