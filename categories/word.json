@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "words-search-puzzle-game",
+"title": "Words Search Puzzle Game",
+"iframe": "https://html5.gamemonetize.games/wd81id0cpe8pmaig7aliq1pf01os7gtw/",
+"description": "Search and mark hidden words from a grid of letters by tracing each one’s distinct pattern. The core mechanic involves discovering overlapping word sequences and managing time limits for each level. Challenge yourself through increasing grid sizes that add unique puzzles with varying difficulty. Spotting words quickly rewards bonus points for progression.\n\nKey Features\n\n• Grid-based word discovery  \n• Pattern tracing controls  \n• Timed level challenges  \n• Incremental grid sizes  \n• Casual puzzle progression"
+},
+{
 "id": "word-game-2026",
 "title": "Word Game 2026",
 "iframe": "https://html5.gamedistribution.com/26a55f4431144dd3a7230222c772e676/",

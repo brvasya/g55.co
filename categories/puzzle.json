@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "sliding-tile-puzzle-game",
+"title": "Sliding Tile Puzzle Game",
+"iframe": "https://html5.gamemonetize.games/v48ve1i2snfou1bv4yidv7pup1en4zu2/",
+"description": "Slide numbered tiles within a grid to restore the original image by moving one empty space at a time. Players solve puzzles that gradually increase in complexity, testing spatial reasoning through sequential tile shifts. Progression introduces larger grids with tighter move limits, challenging casual gamers and younger players to think several steps ahead while rearranging pieces.\n\nKey Features\n\n• Incremental grid size progression  \n• Single tile sliding control  \n• Limited move challenges  \n• Time trial scoring system  \n• Classic picture restoration theme"
+},
+{
 "id": "theo-morini-s-magical-resort",
 "title": "Theo Morini's Magical Resort Puzzle",
 "iframe": "https://html5.gamedistribution.com/55e0e53f26824f0f8f689ac52f9009d7/",

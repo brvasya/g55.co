@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "dogs-vs-aliens",
+"title": "Dogs vs Aliens",
+"iframe": "https://html5.gamedistribution.com/966d94f902de491eb224711f51d7a92e/",
+"description": "Command alien invaders by directing dogs with unique movement tactics to defend territory. Utilize strategic positioning and timed actions to overcome waves of extraterrestrial enemies in a quirky outdoor setting. Players aim to protect the environment by managing different dog types with distinct abilities against escalating alien forces.\n\nKey Features\n\n• Tactical dog deployment system  \n• Real-time enemy wave management  \n• Progressive difficulty escalation  \n• Multiple dog ability variations  \n• Extraterrestrial invasion theme"
+},
+{
 "id": "dog-simulator-3d",
 "title": "Dog Simulator 3D",
 "iframe": "https://html5.gamedistribution.com/9a02484ffcf2459b86a995c16c32b179/",

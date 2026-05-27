@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "arrow-sorting",
+"title": "Arrow Sorting",
+"iframe": "https://html5.gamedistribution.com/2fb1dc3ebec147eeb9d7875354afcc20/",
+"description": "Sort arrows by direction and color to clear each level’s pattern puzzle. Players engage a spatial sorting mechanic that tests quick thinking and precision under time constraints. The game’s minimalistic interface emphasizes arrow arrangement challenges aimed at progressing through increasingly complex puzzles.\n\nKey Features\n\n• Directional and color sorting mechanic  \n• Mouse and keyboard input controls  \n• Time-based level challenge system  \n• Progressive pattern complexity  \n• Minimalistic visual design"
+},
+{
 "id": "popsortica",
 "title": "PopSortica Sorting",
 "iframe": "https://html5.gamedistribution.com/81eb4f30ea604c2dba1c486c27d7744f/",
