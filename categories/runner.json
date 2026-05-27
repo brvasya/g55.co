@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "maze-runner-ball",
+"title": "Maze Runner Ball",
+"iframe": "https://html5.gamemonetize.games/qhole4l6skz8fpkkd1tce1a2nvyen36v/",
+"description": "Navigate a rolling ball through increasingly complex mazes, utilizing precise timing and spatial awareness to avoid obstacles and dead ends. This runner-themed game challenges players with smooth momentum-based ball control while racing against time. Each level requires quick decision making to reach the exit before the timer runs out.\n\nKey Features\n\n• Momentum-based ball movement  \n• Responsive tilt and swipe controls  \n• Progressive maze difficulty scaling  \n• Time attack scoring system  \n• Minimalist geometric maze design"
+},
+{
 "id": "don-t-panic-dude",
 "title": "Dont't Panic Dude Runner",
 "iframe": "https://html5.gamedistribution.com/5a89e945969e4b2fbb3ecb661d4c64ba/",

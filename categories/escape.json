@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "plane-escape-puzzle",
+"title": "Plane Escape Puzzle",
+"iframe": "https://html5.gamemonetize.games/kqgk4524prmj8pnjdzwvmxso1z6t9jaq/",
+"description": "Navigate intricate puzzles by controlling an escaping plane, where precise timing and pathfinding guide your moves. The gameplay revolves around manipulating flight paths through spatial challenges, demanding quick thinking to unlock each level. Progression introduces increasingly complex layouts, testing both logic and reflexes in this aerial escape scenario.\n\nKey Features\n\n• Flight path manipulation puzzles  \n• Real-time control inputs  \n• Level-based difficulty scaling  \n• Time-limited challenge modes  \n• Airplane-themed spatial obstacles"
+},
+{
 "id": "tap-out-block-escape",
 "title": "Tap Out: Block Escape",
 "iframe": "https://html5.gamemonetize.games/cokd5ro0vi3i2nbdil01rtuu0wu94qli/",

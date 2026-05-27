@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snake-sorting",
+"title": "Snake Sorting",
+"iframe": "https://html5.gamemonetize.games/trnvxes4eiaadodofilpk5s2gjbrpbyy/",
+"description": "Navigate a growing snake through segmented paths, sorting colorful blocks by matching patterns to clear stages. The gameplay centers on strategic movement and precise timing under increasing speed constraints. Players must organize their snake’s body sections to solve puzzles while avoiding collisions, with each successful sort unlocking more complex levels and new color variations.\n\nKey Features\n\n• Sequential block sorting mechanic  \n• Directional snake movement controls  \n• Increasing speed difficulty curve  \n• Puzzle level progression system  \n• Color pattern matching challenges"
+},
+{
 "id": "snake-puzzle-escape",
 "title": "Snake Puzzle Escape",
 "iframe": "https://html5.gamedistribution.com/504e7fdd353f469b95f1680e4f63b36b/",

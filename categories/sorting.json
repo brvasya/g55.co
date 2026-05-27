@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "good-sorting-puzzle-game",
+"title": "Good Sorting Puzzle Game",
+"iframe": "https://html5.gamemonetize.games/swrwfm3bfntgiwmx3sz9zubj31pc2eh0/",
+"description": "Arrange colorful items by their attributes in a sequence-based sorting puzzle where precision and timing influence scoring. The game tasks players with organizing mixed sets under a time limit, introducing a unique chain reaction mechanic that accelerates the sorting challenge. Levels grow increasingly complex with varied item patterns demanding strategic focus and quick sorting decisions.\n\nKey Features\n\n• Attribute-based item sequencing  \n• Drag and drop sorting controls  \n• Time-limited chain reaction system  \n• Progressive level complexity  \n• Casual puzzle visual style"
+},
+{
+"id": "good-sort",
+"title": "Good Sort",
+"iframe": "https://html5.gamemonetize.games/jidxua3lyxswg0zsnwabjd625bc0azsr/",
+"description": "Sort colored tiles into groups by swapping adjacent pieces to clear the board and reach new puzzles. This puzzle challenges pattern recognition and spatial reasoning as players progress through increasingly complex levels. Timing swaps adds an extra layer of strategy, while casual visuals keep the experience accessible for younger players.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Pattern matching controls  \n• Increasing puzzle difficulty  \n• Time-limited swap challenges  \n• Casual colorful tile design"
+},
+{
 "id": "arrow-sorting",
 "title": "Arrow Sorting",
 "iframe": "https://html5.gamedistribution.com/2fb1dc3ebec147eeb9d7875354afcc20/",

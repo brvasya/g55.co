@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "stacking-match",
+"title": "Stacking Match",
+"iframe": "https://html5.gamedistribution.com/59560ac116da4d729dd6a07439d3995e/",
+"description": "Stack unlimited blocks with precise timing to build the tallest tower possible in this stacking puzzle game. Players must carefully align each piece to avoid toppling their structure while classic gravity physics influence block placement. Progression includes increasing block speed that tests player reflexes and concentration.\n\nKey Features\n\n• Precision block alignment mechanic  \n• Tap control for block dropping  \n• Increasing difficulty with speed  \n• High score based progression  \n• Gravity-driven stacking physics"
+},
+{
 "id": "neck-stack-rush",
 "title": "Neck Stack Rush",
 "iframe": "https://html5.gamemonetize.games/da91ozg3wbzs01514505puzfnmw0zl62/",
