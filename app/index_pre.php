@@ -44,11 +44,6 @@ function category_url(string $cid, ?int $p = null): string {
 
 $hasC = isset($_GET['c']);
 
-if ($hasC && clean_slug($_GET['c']) === 'exclusive') {
-  require_once 'exclusive_pre.php';
-  return;
-}
-
 if ($hasC) {
   $cid = clean_slug($_GET['c']);
   if ($cid === '' || !isset($catMap[$cid])) {
@@ -117,8 +112,6 @@ if ($hasC) {
       }
     }
   }
-
-  shuffle($featuredItems);
 
   $h1 = ($totalCount > 0 ? number_format($totalCount) . ' ' : '') . $site['title'];
   $desc = $site['description'];
