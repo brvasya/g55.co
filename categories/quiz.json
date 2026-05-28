@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "trivia-nation",
+"title": "Trivia Nation Quiz",
+"iframe": "https://html5.gamedistribution.com/75c605af07684a719fd9ebbc552c246b/",
+"description": "Answer challenging trivia questions across diverse knowledge categories using quick thinking and timed responses to climb the leaderboard. Players select answers from multiple choice prompts, testing their recall and deduction skills while encountering escalating question difficulty for added challenge.\n\nKey Features\n\n• Timed multiple choice gameplay  \n• Category-based question variety  \n• Progressive difficulty levels  \n• Rapid answer selection control  \n• Competitive leaderboard ranking"
+},
+{
 "id": "dragon-ball-quiz",
 "title": "Dragon ball quiz",
 "iframe": "https://html5.gamemonetize.games/eeyuert0fvozbh2my49arojmgcl2jw4d/",

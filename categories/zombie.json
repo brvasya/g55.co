@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "live-100-days",
+"title": "Live 100 Days Zombie",
+"iframe": "https://html5.gamedistribution.com/8a7fdc0a68ad4311a72557de8368b8cd/",
+"description": "Survive relentless waves of zombies using strategic movement and timed attacks in a grim urban environment. Players navigate shrinking safe zones while collecting scarce resources to withstand growing hordes. The game challenges players to balance aggression and defense across progressively difficult days, adapting to dynamic enemy behavior and environmental hazards.\n\nKey Features\n\n• Tactical zone control mechanics  \n• Resource scavenging and management  \n• Progressive enemy difficulty scaling  \n• Day-night cycle challenges  \n• Urban survival atmosphere"
+},
+{
 "id": "closed-city",
 "title": "Closed City Zombie",
 "iframe": "https://html5.gamedistribution.com/efa7f45d308f48e9a3f3dc641b83556c/",

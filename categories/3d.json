@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "fast-balls",
+"title": "Fast Balls 3D",
+"iframe": "https://html5.gamedistribution.com/4c1f38cee30d4e99ace0e8814b30c951/",
+"description": "Launch and aim colorful spheres to break complex 3D structures while navigating dynamic physics challenges. Players adjust shot angles and power to clear levels that increase in difficulty, focusing on precise ball trajectory management within bright minimalistic environments. Strategic aiming and timing are key to overcoming layered obstacles and advancing through stages.\n\nKey Features\n\n• 3D ball aiming mechanic  \n• Precision shot power control  \n• Increasingly complex structure layouts  \n• Level progression with puzzle stages  \n• Vibrant minimalistic visual style"
+},
+{
+"id": "fast-ball",
+"title": "Fast Ball 3D",
+"iframe": "https://html5.gamedistribution.com/2a4319a606d34871b6008d01d7a31655/",
+"description": "Navigate and bounce a 3D ball through increasingly complex obstacle layouts, leveraging precise timing and angular momentum to clear each stage. The physics-based core mechanic challenges players to predict ball trajectories and adapt to dynamic surfaces. Progression ramps up with diverse level designs that demand careful control and quick reflexes.\n\nKey Features\n\n• Physics-driven ball movement  \n• Angle-based bounce control  \n• Progressive obstacle complexity  \n• Time-based scoring challenges  \n• Minimalist 3D spatial design"
+},
+{
+"id": "fallender-ball",
+"title": "Fallender Ball 3D",
+"iframe": "https://html5.gamedistribution.com/3647cfd02fc145d58a694299cd60fe2f/",
+"description": "Control a bouncing 3D ball navigating through increasingly complex platforms, relying on precise timing and momentum to avoid falling off edges. The game challenges spatial awareness and balance as players progress through varied obstacle layouts. Multiple platform heights and moving sections create a dynamic environment for testing reflexes and coordination.\n\nKey Features\n\n• Momentum-based ball movement  \n• Platform navigation challenges  \n• Progressive level complexity  \n• Timing-sensitive obstacle sections  \n• 3D spatial balance mechanics"
+},
+{
 "id": "tower-blocks-deluxe-3d",
 "title": "Tower Blocks Deluxe 3D",
 "iframe": "https://html5.gamemonetize.games/vwcbboa75ji33lig3y44imwjyi8k4v7r/",
