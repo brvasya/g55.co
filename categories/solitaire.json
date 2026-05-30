@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "solitaire-summer-klondike",
+"title": "Solitaire Summer: Klondike",
+"iframe": "https://html5.gamedistribution.com/d882b7ce8c7145c5b20bef128bd2fabf/",
+"description": "Arrange cards by suit and rank to build sequential stacks through traditional Klondike solitaire rules. Players strategically uncover hidden cards and manage tableau piles aiming to complete all four foundation suits in ascending order. The classic card movement mechanic challenges logical planning and careful card placement to clear the board.\n\nKey Features\n\n• Classic Klondike card stacking  \n• Strategic tableau card management  \n• Hidden card reveal mechanic  \n• Foundation building progression  \n• Standard solitaire suit sets"
+},
+{
 "id": "office-pyramid-solitaire",
 "title": "Office Pyramid Solitaire",
 "iframe": "https://html5.gamedistribution.com/ca808ce686fa485c81fcf487ef65cac1/",

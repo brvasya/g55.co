@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "line-to-goal-draw-the-path",
+"title": "Line to Goal: Draw The Path",
+"iframe": "https://html5.gamemonetize.games/e58bbxx9n6v054fc6yj26lslq4gvqn28/",
+"description": "Trace precise lines on challenging puzzles to connect two points in a spatial drawing puzzle. The game uses a path-drawing core mechanic that requires careful planning to navigate intricate layouts. Levels increase in complexity with new obstacles and paths to unlock, testing player accuracy and strategy as they aim to successfully complete each line connection.\n\nKey Features\n\n• Path-drawing puzzle mechanics  \n• Interactive finger or mouse controls  \n• Progressive level difficulty  \n• Time-based scoring system  \n• Minimalist puzzle visual style"
+},
+{
 "id": "superpixelint",
 "title": "SuperPixelint Drawing",
 "iframe": "https://html5.gamedistribution.com/7ca746d71b7049df851999d2c0d554c9/",

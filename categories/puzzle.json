@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "power-puzzle",
+"title": "Power Puzzle",
+"iframe": "https://html5.gamedistribution.com/d4a7c2d0d8914a888912ca21d0e20ae7/",
+"description": "Solve intricate tile-matching puzzles by rotating and connecting energy streams to activate power nodes in each level. Players manipulate dynamic circuit elements to complete increasingly complex grids while managing limited moves and time constraints. The game challenges pattern recognition and strategic planning across a series of electrifying puzzle stages designed for casual players.\n\nKey Features\n\n• Energy stream rotation mechanic  \n• Limited move challenge system  \n• Circuit connection puzzle grids  \n• Time-based level progression  \n• Electric-themed visual style"
+},
+{
+"id": "bloxorz-block-puzzle-3d",
+"title": "Bloxorz - Block Puzzle 3d",
+"iframe": "https://html5.gamedistribution.com/1d9ac2ca58b2436ab1e7ce3b83fd709f/",
+"description": "Navigate a rectangular block through grid-based puzzles by carefully tilting it until it fits perfectly into a square hole. The gameplay revolves around spatial reasoning and precise moves across suspended platforms, requiring thoughtful positioning to avoid falling off edges. Levels progressively increase in complexity, introducing narrow pathways and tricky balance challenges.\n\nKey Features\n\n• Grid-based block movement  \n• Tilt control puzzle mechanics  \n• Level progression with complexity  \n• Balance and positioning challenges  \n• Minimalist geometric puzzle setting"
+},
+{
 "id": "belote-3in1",
 "title": "Belote 3in1 Puzzle",
 "iframe": "https://html5.gamedistribution.com/9dc3a58253534d52ad8be29b14c86fa9/",
