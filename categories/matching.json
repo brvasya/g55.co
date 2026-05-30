@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "falling-ball",
+"title": "Falling Ball Matching",
+"iframe": "https://html5.gamedistribution.com/5ddaec501c0548bd9b9761813680a51f/",
+"description": "Match falling balls by color and shape to clear the board in a steady-paced puzzle challenge. Players quickly swap and align matching sets, triggering chain reactions that increase scores and unlock new levels. Timing and pattern recognition drive the gameplay, where quick thinking prevents the screen from filling up and ending the run.\n\nKey Features\n\n• Color and shape matching mechanic  \n• Dynamic ball swapping controls  \n• Increasing level difficulty tiers  \n• Chain reaction scoring system  \n• Casual puzzle arcade theme"
+},
+{
 "id": "match-dream-garden",
 "title": "Match Dream Garden",
 "iframe": "https://html5.gamedistribution.com/dc0290265efc4df58436136b8a8b0b52/",

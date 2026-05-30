@@ -1,6 +1,96 @@
 {
 "pages": [
 {
+"id": "the-dunk-ball",
+"title": "The Dunk Ball Basketball",
+"iframe": "https://html5.gamemonetize.games/974nyq8ewuwf11p2npjp63h57ib3y035/",
+"description": "Control fast-paced dunks and precise shots in this street-style basketball game where timing and accuracy shape every play. Players master aerial slam dunks using dynamic shot meters while facing increasing opponent defense levels. The game emphasizes swift ball handling and scoring under pressure, creating a casual yet challenging basketball experience for teens and kids.\n\nKey Features\n\n• Dynamic aerial dunk meter  \n• Precise shot timing controls  \n• Increasing defensive AI challenge  \n• Progressive scoring targets  \n• Urban court visual style"
+},
+{
+"id": "slash-dunk",
+"title": "Slash Dunk Basketball",
+"iframe": "https://html5.gamemonetize.games/r5q7wmk5mdoulxc1pjzpekh8mkcyrsun/",
+"description": "Dribble and shoot your way through arcade-style basketball matches where timing and angle control define success. The game centers on precise shot mechanics combined with quick reflexes to outscore opponents in fast-paced rounds. Players aim to perfect their slashing dunks and three-point shots to climb scoring ladders and unlock tougher challenges.\n\nKey Features\n\n• Timing-based shot mechanics  \n• Responsive player input controls  \n• Progressive scoring targets  \n• Versus mode with AI opponents  \n• Street court basketball visual style"
+},
+{
+"id": "sketch-dunk",
+"title": "Sketch Dunk Basketball",
+"iframe": "https://html5.gamemonetize.games/teuwm9nhga1ka7jhu6h9p0b7lqpia885/",
+"description": "Shoot and bounce a stylized basketball onto the hoop using intuitive flick controls in a minimalistic sketch-style court. Players aim to time their shots and adjust ball trajectory to score points under pressing conditions. The game challenges hand-eye coordination with progressively tighter baskets, creating a simple yet focused basketball shooting experience.\n\nKey Features\n\n• Touch flick shooting mechanic  \n• Dynamic ball trajectory control  \n• Progressive basket difficulty levels  \n• Time-limited scoring mode  \n• Minimalist monochrome court design"
+},
+{
+"id": "perfect-dunk",
+"title": "Perfect Dunk Basketball",
+"iframe": "https://html5.gamemonetize.games/u1x5k6s7kvtfdymnrjd8170i7815k85e/",
+"description": "Shoot precise shots and time your jumps to master scoring with perfect dunks in this basketball game focused on player reflexes and shot accuracy. Featuring combo-based scoring and timing windows for enhanced shots, players aim to rack up points through consecutive dunks and free throws. Each successful dunk builds streaks that boost your overall score and challenge your precision.\n\nKey Features\n\n• Timing-based shooting mechanics  \n• Jump and dunk control system  \n• Combo multiplier scoring  \n• Progressive difficulty levels  \n• Street-style basketball setting"
+},
+{
+"id": "gravity-dunk",
+"title": "Gravity Dunk Basketball",
+"iframe": "https://html5.gamemonetize.games/ugcxyptqcduillvqeijgcfsx9i9hx2z4/",
+"description": "Control gravity-defying dunks by manipulating the ball’s trajectory and timing precise jumps to score baskets against challenging physics. Players navigate unique gravitational pulls that alter each shot’s arc, aiming to consistently land shots through moving hoops. Timing and spatial awareness are essential as you adjust to shifting gravity zones to maximize your score in casual arcade-style rounds.\n\nKey Features\n\n• Gravity-based shot control\n• Tap and hold jump timing\n• Increasing hoop movement speed\n• Score combo multiplier system\n• Arcade-style basketball courts"
+},
+{
+"id": "earth-dunk-physics-arcade-game",
+"title": "Earth Dunk Physics Arcade Basketball",
+"iframe": "https://html5.gamemonetize.games/j6z9mgbe7n12tuymdl0bi5tj2b6cm5zp/",
+"description": "Launch precise basketball shots using realistic physics-based arc control in a gravity-challenged environment where timing and angle determine your success. Navigate unique dunk trajectories to outscore opponents or unlock new ball types with varying bounce dynamics. Progress through increasingly complex arenas that test accuracy and introduce subtle physics variations, making every shot a strategic challenge.\n\nKey Features\n\n• Physics-driven shot trajectory control  \n• Timing-based dunk execution  \n• Progressive arena difficulty  \n• Unlockable ball dynamics  \n• Gravity-influenced gameplay environment"
+},
+{
+"id": "dunkbrush",
+"title": "Dunkbrush Basketball",
+"iframe": "https://html5.gamemonetize.games/z6uzynf9ijmpbrj50k0t23x8kzqb7jli/",
+"description": "Dunk powerful slam dunks and time your shots perfectly in this arcade-style basketball game. Players control high-flying dunks and quick ball handling to rack up points against the clock. With precision timing and dynamic hoop interactions, the challenge lies in chaining combos and maximizing your scoring streaks for top leaderboard positions.\n\nKey Features\n\n• Combo-based dunk scoring  \n• Responsive timing controls  \n• Increasing difficulty stages  \n• Time attack scoring mode  \n• Arcade basketball court visuals"
+},
+{
+"id": "dunk-spider",
+"title": "Dunk Spider Basketball",
+"iframe": "https://html5.gamemonetize.games/f3bgdhf0jwoolri2fateporwkwegv88a/",
+"description": "Perform slams and trick shots as a spider-themed character navigates dynamic basketball hoops. Use timing and precise aim to control mid-air dunks and score points under pressure. The game challenges players with rapid shot sequences and combo scoring, creating a casual yet skill-focused basketball experience.\n\nKey Features\n\n• Precision dunk timing mechanic  \n• Aerial control and aiming system  \n• Combo-based scoring challenges  \n• Progressive shot difficulty levels  \n• Spider character basketball theme"
+},
+{
+"id": "dunk-fallball",
+"title": "Dunk Fall Ball Basketball",
+"iframe": "https://html5.gamemonetize.games/5oep3jqa7ey05jzs9en7bthq199pz98z/",
+"description": "Control precise jumps and timed dunks in this physics-driven basketball challenge focusing on vertical movement and accuracy. Players aim to skillfully land slam dunks by navigating the ball through dynamic obstacles and varying hoop distances. The gameplay emphasizes mastering jump height and momentum to score points and progress through increasingly difficult levels.\n\nKey Features\n\n• Physics-based dunk mechanics  \n• Vertical jump timing controls  \n• Progressive scoring challenges  \n• Obstacle navigation elements  \n• Street court visual style"
+},
+{
+"id": "dunk-down",
+"title": "Dunk Down Basketball",
+"iframe": "https://html5.gamemonetize.games/w28y2ewaynk7tkyx9rzgrc887duji4kf/",
+"description": "Dribble and leap through dunk challenges in a street-inspired basketball game where timing and aerial control shape your performance. Players rely on skillful jump mechanics to slam dunk past defenders and rack up points in dynamic court settings. The emphasis is on mastering precise movement and aerial shots to climb leaderboards and unlock new gameplay stages.\n\nKey Features\n\n• Timing-based dunk mechanics  \n• Air control movement system  \n• Progressive difficulty courts  \n• Score multiplier combos  \n• Urban basketball setting"
+},
+{
+"id": "dunkchallenge",
+"title": "Dunk Challenge Basketball",
+"iframe": "https://html5.gamemonetize.games/fgf2u6fqdr4nwodcpxe0ur2py8vh3kuu/",
+"description": "Execute precise dunks with timing-based throw controls to score in dynamic street courts, mastering different shot angles and bounce physics. The game features an escalating difficulty curve where players attempt trick shots and high-score combos while competing against a countdown timer or player stamina.\n\nKey Features\n\n• Timing-based dunk mechanics  \n• Directional shot control system  \n• Progressive difficulty scaling  \n• Combo scoring multiplier  \n• Urban street basketball setting"
+},
+{
+"id": "dunk-ball",
+"title": "Dunk Ball Basketball",
+"iframe": "https://html5.gamedistribution.com/5599bf5c944f4133886e32451041b12f/",
+"description": "Shoot and time dunks to score points in this arcade-style basketball challenge. The game emphasizes precision and timing for each dunk attempt to outscore opponents or beat the clock. Players engage with simple yet responsive controls to chain combos and increase their score on the court.\n\nKey Features\n\n• Timing-based dunk mechanic  \n• Responsive swipe and tap controls  \n• Combo scoring multiplier system  \n• Progressive difficulty levels  \n• Basketball court arcade setting"
+},
+{
+"id": "city-ball-dunkin",
+"title": "City Ball Dunkin Basketball",
+"iframe": "https://html5.gamedistribution.com/5f7230de4c4c4d9d881d2213e5d984ce/",
+"description": "Shoot hoops using precise flick controls to perform slam dunks and chain combos in a dynamic street basketball setting. Players time jumps and ball tosses to clear defenders and rack up points under a timer. Progress through escalating difficulty levels with increasingly tricky shot windows and responsive player animations.  \n\nKey Features\n\n• Flick-based shot timing  \n• Combo scoring system  \n• Increasing challenge levels  \n• Responsive player jump controls  \n• Urban street basketball backdrop"
+},
+{
+"id": "bouncy-dunk",
+"title": "Bouncy Dunk Basketball",
+"iframe": "https://html5.gamemonetize.games/gya78gsdt3igmy33yzoola77780khxky/",
+"description": "Bounce and time shots carefully to slam dunk the ball into the hoop using a springy ball that bounces unpredictably. Players adjust their aim and force to handle the unique rebound physics as they attempt to score from tricky distances. The challenge lies in mastering ball control and precision to rack up points through consecutive successful dunks.\n\nKey Features\n\n• Bounce trajectory aiming system  \n• Tap-based shot power control  \n• Increasing shot distance challenges  \n• Combo scoring multiplier  \n• Arcade basketball court environment"
+},
+{
+"id": "ball-dunk-fall",
+"title": "Ball Dunk Fall Basketball",
+"iframe": "https://html5.gamedistribution.com/1f6162f5ac0541cca72f77a833acde86/",
+"description": "Bounce and dunk balls through shifting hoops in this physics-driven basketball challenge. Players time their shots and control ball trajectories to clear each level’s rotating rings. The game tests precision and timing on dynamic platforms, steadily increasing difficulty as you advance through multiple stages. Mastering bounce angles leads to higher scores and smoother completions.\n\nKey Features\n\n• Physics-based ball control  \n• Timing-oriented shot mechanics  \n• Progressive ring rotation difficulty  \n• Score multiplier system  \n• Casual basketball court setting"
+},
+{
 "id": "ultra-shot",
 "title": "Ultra Shot Basketball",
 "iframe": "https://html5.gamemonetize.games/674sh44j3k5asngsbj5sn9tkv89n2v26/",

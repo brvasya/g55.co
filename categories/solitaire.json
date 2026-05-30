@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mojicon-garden-jigsolitaire",
+"title": "Mojicon Garden Jig Solitaire",
+"iframe": "https://html5.gamedistribution.com/679c57024b5944f584585244718e1cee/",
+"description": "Match and stack tiles using strategic solitaire rules to clear complex board layouts. This game challenges players with a multi-layered tile arrangement requiring careful planning of moves to unlock hidden pairs. Engage in progressive levels that increase puzzle difficulty while testing your pattern recognition and timing skills.\n\nKey Features\n\n• Tile matching core mechanic  \n• Click-and-drag tile controls  \n• Layered board progression  \n• Time-based challenge mode  \n• Colorful Mojicon tile set"
+},
+{
 "id": "solitaire-summer-klondike",
 "title": "Solitaire Summer: Klondike",
 "iframe": "https://html5.gamedistribution.com/d882b7ce8c7145c5b20bef128bd2fabf/",

@@ -1,6 +1,54 @@
 {
 "pages": [
 {
+"id": "fallen-balls",
+"title": "Fallen Balls Puzzle",
+"iframe": "https://html5.gamedistribution.com/72bb3196851d44ee87fb74d862130834/",
+"description": "Arrange falling balls into matching clusters to clear the board in this fast-paced puzzle challenge. Players manipulate the descent and placement of colorful spheres to trigger chain reactions, aiming to prevent the grid from filling up. The game tests spatial awareness and quick decision-making through progressively complex levels.  \n\nKey Features\n\n• Gravity-based ball placement  \n• Directional control over falling pieces  \n• Increasingly difficult board layouts  \n• Chain reaction combo system  \n• Vibrant color matching mechanics"
+},
+{
+"id": "eg-red-ball",
+"title": "EG Red Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/fed8a432d1514370a3a86f41f256c8f3/",
+"description": "Navigate complex puzzle layouts by rolling a red ball through various obstacles and platforms, leveraging precise momentum control to reach the exit in each level. Timing and spatial reasoning are key as players tackle progressively intricate stages that test their dexterity and problem-solving skills.\n\nKey Features\n\n• Momentum-based ball physics  \n• Directional swipe controls  \n• Multi-level puzzle progression  \n• Time-sensitive challenge modes  \n• Minimalist platform environments"
+},
+{
+"id": "dont-explode-the-ball",
+"title": "Dont Explode the Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/cbaff4e687004ea6b121d8f0f189ecd0/",
+"description": "Manipulate bouncing spheres carefully to prevent explosive chain reactions in this physics-based puzzle challenge. The game tasks players with controlling ball trajectories and timing detonations to clear levels without causing an unintended blast. Each stage introduces varied layouts requiring strategic placement and precision to progress. A gradual difficulty curve tests anticipation and spatial reasoning skills.\n\nKey Features\n\n• Physics-driven ball trajectory control  \n• Timed detonation mechanics  \n• Progressive level complexity  \n• Strategic chain reaction avoidance  \n• Minimalist puzzle environment"
+},
+{
+"id": "dont-destroy-the-ball",
+"title": "Dont Destroy the Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/b4d450d68d2649c2a6a1fb0050f0b473/",
+"description": "Manipulate puzzle pieces with precision to prevent the ball from breaking as it navigates tricky pathways. The game challenges players to think ahead by assembling or removing blocks in a physics-driven environment to keep the sphere intact. Levels ramp up difficulty by introducing complex obstacle layouts and varied block interactions for teens and casual gamers alike.\n\nKey Features\n\n• Physics-based block arrangement  \n• Direct manipulation controls  \n• Gradual puzzle difficulty increase  \n• Time-limited challenge modes  \n• Minimalist puzzle setting"
+},
+{
+"id": "don-t-drop-the-white-ball",
+"title": "Don't Drop The White Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/5c9c2164bca84894bf3ddab05d3a6b17/",
+"description": "Manipulate the white ball by tilting and timing your moves to avoid dropping it while solving intricate spatial puzzles. This game challenges players to maintain balance and control through increasingly complex obstacle layouts. Progression unlocks tighter navigation sections demanding precision and steady reaction to the physics-driven ball movement.\n\nKey Features\n\n• Tilt-based ball control  \n• Momentum and balance mechanics  \n• Progressive obstacle complexity  \n• Time-sensitive puzzle stages  \n• Minimalist spatial design"
+},
+{
+"id": "don-t-drop-the-white-ball-2",
+"title": "Don't Drop the White Ball 2 Puzzle",
+"iframe": "https://html5.gamedistribution.com/88d03eddeec84c6c93167af52236b881/",
+"description": "Balance and guide the white ball across increasingly intricate surfaces as you navigate tricky physics-based puzzles. Players manipulate motion by tilting platforms to prevent the ball from falling, testing precision and timing through progressive levels of maze-like challenges. Each stage demands careful planning to maintain momentum and reach carefully positioned goals.\n\nKey Features\n\n• Physics-driven tilt control  \n• Precision timing gameplay  \n• Gradual level complexity  \n• Momentum-based puzzle solving  \n• Minimalistic marble platform design"
+},
+{
+"id": "digger-ball",
+"title": "Digger Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/9d724f43f9254df4b685cd54b4e38d3c/",
+"description": "Shift falling balls to clear connected clusters using strategic digging, solving layered puzzles that challenge your timing and pattern recognition. The game tasks players with maneuvering around obstacles to create chain reactions, advancing through increasingly complex levels. Casual players and younger audiences face varied ball arrangements that require careful planning and precision to complete each stage.\n\nKey Features\n\n• Ball digging and matching mechanics  \n• Strategic cluster removal system  \n• Progressive puzzle difficulty levels  \n• Touch and mouse input controls  \n• Colorful ball arcade presentation"
+},
+{
+"id": "digger-ball-2",
+"title": "Digger Ball 2 Puzzle",
+"iframe": "https://html5.gamedistribution.com/714bec813332418d864da89f954a9c90/",
+"description": "Solve intricate block puzzles by strategically digging through layers to clear paths and unlock new sections in this casual brain teaser. The gameplay revolves around manipulating ball-shaped diggers that carve routes through various obstacles, with players progressing by completing increasingly complex levels. Timing and spatial reasoning shape each challenge in this puzzle experience designed for teens and kids.\n\nKey Features\n\n• Ball digging path mechanic  \n• Tile-based movement control  \n• Layered obstacle clearing  \n• Progressive puzzle complexity  \n• Casual-oriented level design"
+},
+{
 "id": "power-puzzle",
 "title": "Power Puzzle",
 "iframe": "https://html5.gamedistribution.com/d4a7c2d0d8914a888912ca21d0e20ae7/",
