@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "tidy-master-satisfeel-asmr",
+"title": "Tidy Master Satisfeel ASMR Puzzle",
+"iframe": "https://html5.gamedistribution.com/6b3a8b1a95db42cdb8c166093d0c78a5/",
+"description": "Arrange and organize scattered objects precisely to complete satisfying ASMR-inspired puzzles in this casual relaxation experience. The game’s tactile sorting mechanic challenges players to match shapes or colors amid calming sounds and smooth animations. Levels increase in complexity by adding diverse items to tidy, encouraging careful observation and methodical sorting for perfect results.\n\nKey Features\n\n• Tactile sorting puzzle mechanic  \n• Drag-and-drop object control  \n• Progressive challenge scaling  \n• ASMR sound and visual feedback  \n• Casual puzzle relaxation theme"
+},
+{
+"id": "hexafill",
+"title": "HexaFill Puzzle",
+"iframe": "https://html5.gamedistribution.com/e098ff2d14cf45efbc5d1896631372e5/",
+"description": "Rotate and place hexagonal tiles to perfectly fill the game board by matching colors and edges in a spatial puzzle challenge. Each level adds complexity as you arrange pieces under time constraints or limited moves. The gameplay emphasizes strategic tile placement and pattern recognition, testing your planning skills through increasingly intricate layouts.\n\nKey Features\n\n• Hexagonal tile rotation mechanic  \n• Color edge matching system  \n• Time and move limited challenges  \n• Progressive puzzle complexity  \n• Casual-friendly spatial gameplay"
+},
+{
 "id": "fallen-balls",
 "title": "Fallen Balls Puzzle",
 "iframe": "https://html5.gamedistribution.com/72bb3196851d44ee87fb74d862130834/",
