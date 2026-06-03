@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "juice-merge",
+"title": "Juice Merge",
+"iframe": "https://html5.gamedistribution.com/d4c11a64ed754d71b4671d699c66a9c7/",
+"description": "Combine matching juice bottles to create larger blends in this color-based merge puzzle. Players progress through increasingly complex grids where strategic merges unlock rare juice types and clear space. The game challenges casual gamers to think ahead while managing limited moves across vibrant fruit-themed levels.\n\nKey Features\n\n• Bottle merging core mechanic  \n• Grid-based puzzle controls  \n• Progressive level difficulty scaling  \n• Limited move challenge system  \n• Colorful fruit juice visuals"
+},
+{
 "id": "goodeluxe",
 "title": "Goodeluxe Merge",
 "iframe": "https://html5.gamedistribution.com/f73be292c3d643d6a2488938dcc47007/",

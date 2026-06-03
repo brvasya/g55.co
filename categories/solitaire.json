@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "dungeon-solitaire",
+"title": "Dungeon Solitaire",
+"iframe": "https://html5.gamemonetize.games/typvb39i68hb41c0rzlf1bh6w7wd1ohv/",
+"description": "Arrange cards strategically to clear dungeon-themed solitaire layouts using a unique tableau stacking mechanic. Players manipulate card sequences to uncover hidden cards and aim to complete all suits in ascending order. The game combines classic card sorting with a subtle fantasy aesthetic that adds atmospheric depth to the puzzle challenge.\n\nKey Features\n\n• Sequential card stacking rules  \n• Interactive drag-and-drop controls  \n• Progressive difficulty levels  \n• Time attack and relaxation modes  \n• Fantasy dungeon visual style"
+},
+{
 "id": "solitaire-farm-seasons-5",
 "title": "Solitaire Farm Seasons 5",
 "iframe": "https://html5.gamedistribution.com/567ad47ea5d04edaaa29a80cd9f9d1a3/",

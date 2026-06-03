@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "jump-up-game",
+"title": "Jump Up Game",
+"iframe": "https://html5.gamemonetize.games/s7jawugpf9gtff49fkpxpb5w00ftoif6/",
+"description": "Leap across increasingly challenging platforms using precise timing and quick reflexes in this minimalistic jumping game. Players must carefully navigate shifting platforms and avoid falling to progress through levels, relying on responsive tap controls to master the height and distance of each jump. The game offers endless mode for continuous play, emphasizing pattern recognition and rhythmic movement.\n\nKey Features\n\n• Tap-based jump control system  \n• Procedural platform generation  \n• Increasingly difficult stage progression  \n• Endless survival gameplay mode  \n• Minimalistic platform obstacle design"
+},
+{
 "id": "rainbow-jump-puzzle",
 "title": "Rainbow Jump Puzzle",
 "iframe": "https://html5.gamemonetize.games/7vwm7p02sjatzn0beutyobzvrmof2s0m/",
