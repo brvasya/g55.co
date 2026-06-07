@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "stone-shooter",
+"title": "Stone Shooter",
+"iframe": "https://html5.gamemonetize.games/7l9tg9owx3nyq32o4o3qewk2tnjh1c0k/",
+"description": "Launch stones from a sling to knock down targets in precision-based shooter gameplay. Players adjust trajectory and power, mastering unique physics for each shot to clear stages. Levels challenge aiming skills with varying stone types and obstacle arrangements, rewarding accuracy and timing throughout progressive rounds.\n\nKey Features\n\n• Projectile trajectory aiming system  \n• Power adjustment mechanic  \n• Increasing difficulty levels  \n• Multiple stone types with effects  \n• Physics-based obstacle interaction"
+},
+{
+"id": "shoot-the-villain",
+"title": "Shoot The Villain!",
+"iframe": "https://html5.gamemonetize.games/dtdcb1au1t590n13tks053099ytkbl21/",
+"description": "Shoot down enemies using precision aiming and rapid shooting in a fast-paced shooter set in chaotic urban environments. Players rely on timed reloads and limited ammo pools to clear waves of villainous targets while navigating destructible cover. Surviving escalating enemy swarms and mastering quick reflex shots is key to advancing through progressively difficult stages.\n\nKey Features\n\n• Precision weapon firing mechanics  \n• Cover based movement system  \n• Ammo and reload management  \n• Increasing enemy wave difficulty  \n• Urban combat arena layouts"
+},
+{
 "id": "shoot-them-down",
 "title": "Shoot Them Down",
 "iframe": "https://html5.gamemonetize.games/nhqhyqsn6u0uc1rkvoh3zh581q1nug7z/",
