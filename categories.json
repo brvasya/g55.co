@@ -255,6 +255,11 @@
 "description": "Mahjong games focus on tile matching logic in <a href='/?c=puzzle'>puzzle games</a> where players identify pairs, clear layouts, and solve structured boards through visual recognition mechanics. These experiences emphasize pattern matching and removal systems similar to <a href='/?c=solitaire'>solitaire games</a>, requiring planning and observation. Gameplay centers on clearing tiles efficiently and progressing through layered designs."
 },
 {
+"id": "makeup",
+"name": "Makeup",
+"description": "Makeup Games focus on applying cosmetics, creating beauty looks, and customizing characters through makeover and salon based gameplay. Players use tools such as lipstick, eye shadow, hairstyles, and accessories while completing fashion challenges and virtual beauty salon activities. Many games combine character customization, outfit selection, and makeover systems that allow players to create unique styles. This category is part of <a href=\"/?c=girls\">girls games</a> and connects closely with <a href=\"/?c=dress-up\">dress up games</a> through shared fashion and styling mechanics. It includes princess makeovers, celebrity styling, wedding preparation, and beauty studio gameplay designed for casual players who enjoy creative customization systems."
+},
+{
 "id": "match-3",
 "name": "Match 3",
 "description": "Match-3 games focus on aligning tiles in <a href='/?c=matching'>matching games</a> where players swap elements, create combinations, and trigger chain reactions through structured board mechanics. These experiences emphasize pattern recognition and combo creation similar to <a href='/?c=jewel'>jewel games</a>, requiring planning and efficient moves. Gameplay centers on clearing tiles, building chains, and progressing through increasingly complex levels."
