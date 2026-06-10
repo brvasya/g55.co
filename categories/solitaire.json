@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "solitaire-quest",
+"title": "Solitaire Quest",
+"iframe": "https://html5.gamedistribution.com/bea514c5808240568c8b56e3a1716503/",
+"description": "Arrange cards by suit and rank in this solitaire variant, using strategic moves to uncover hidden sequences and complete the tableau. Players navigate a standard card layout with traditional rules, focusing on clearing all stacks through skillful card manipulation. The challenge lies in optimizing each move to fully reveal and sort the deck according to suit order.\n\nKey Features\n\n• Classic solitaire stacking mechanics  \n• Drag-and-drop card controls  \n• Increasing tableau complexity  \n• Timer-based scoring system  \n• Standard deck with playing card suits"
+},
+{
 "id": "dungeon-solitaire",
 "title": "Dungeon Solitaire",
 "iframe": "https://html5.gamemonetize.games/typvb39i68hb41c0rzlf1bh6w7wd1ohv/",

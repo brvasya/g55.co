@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "hole-puzzle",
+"title": "Hole Puzzle",
+"iframe": "https://html5.gamedistribution.com/7697f626f5224cb284cf463ce1275495/",
+"description": "Arrange rotating holes to guide falling balls through complex obstacle layouts in Hole Puzzle. Players manipulate hole positions to create continuous paths, combining spatial reasoning with timing challenges as balls move through multiple interconnected stages. Strategic hole placement shapes the route, testing puzzle-solving skills in an abstract, minimalist environment.\n\nKey Features\n\n• Rotating hole path mechanic  \n• Ball trajectory control  \n• Multi-stage puzzle progression  \n• Timing-based movement challenges  \n• Minimalist spatial design"
+},
+{
 "id": "pattern-puzzle-3d",
 "title": "Pattern Puzzle 3D",
 "iframe": "https://html5.gamemonetize.games/bbvuvkre1ua9adh5nov7zybvna19nq9y/",

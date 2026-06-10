@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "bubble-blasters",
+"title": "Bubble Blasters Adventure",
+"iframe": "https://html5.gamedistribution.com/5d8d11e9919245939a57378a02b8fc8b/",
+"description": "Blast colorful bubbles through puzzle stages using strategic aiming and timing in a vibrant adventure setting. Players solve increasingly intricate bubble-matching challenges to clear levels and unlock new areas. The gameplay focuses on precision shooting combined with level progression and obstacle management to overcome varied bubble formations.\n\nKey Features\n\n• Precision bubble shooting mechanic  \n• Aim and timing controls  \n• Increasing level complexity  \n• Unlockable stage progression  \n• Color-matching puzzle elements"
+},
+{
 "id": "big-space-adventure",
 "title": "Big Space Adventure",
 "iframe": "https://html5.gamemonetize.games/p3pq2lgzdazpxai3ihkztbfozifwy5vb/",

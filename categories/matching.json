@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "jelly-match-game",
+"title": "Jelly Match Game",
+"iframe": "https://html5.gamemonetize.games/2w4pt96oiv5o0wpj78nyr9w63w4w7285/",
+"description": "Match colorful jellies by swapping adjacent pieces to create three or more in a row and clear the board. Players engage with a grid-based tile swapping mechanic to complete puzzle levels with increasing difficulty and limited moves. The game challenges pattern recognition and strategic planning within bright, charming jelly-themed puzzles.\n\nKey Features\n\n• Tile swapping matching mechanic  \n• Limited move level challenges  \n• Increasing puzzle difficulty progression  \n• Score-based level ranking system  \n• Vibrant jelly-themed visuals"
+},
+{
 "id": "falling-ball",
 "title": "Falling Ball Matching",
 "iframe": "https://html5.gamedistribution.com/5ddaec501c0548bd9b9761813680a51f/",
