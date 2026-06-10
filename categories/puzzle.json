@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "worm-puzzle-snake-apple",
+"title": "Worm Puzzle Snake Apple",
+"iframe": "https://html5.gamemonetize.games/kgc33h43coc5eau51ex5ishqfy6eg2al/",
+"description": "Navigate a growing snake to collect apples in a grid-based puzzle where precise movement and spatial planning are crucial. Players must avoid running into the snake’s body while maximizing apple collection, managing increasingly complex pathing challenges. Timing and strategy shape progress across puzzle layouts, enhancing the classic snake arcade twist.\n\nKey Features\n\n• Snake movement with grid navigation  \n• Apple collection scoring system  \n• Avoidance of self-collision mechanics  \n• Incremental puzzle complexity  \n• Minimalistic arcade visual style"
+},
+{
 "id": "hole-puzzle",
 "title": "Hole Puzzle",
 "iframe": "https://html5.gamedistribution.com/7697f626f5224cb284cf463ce1275495/",
