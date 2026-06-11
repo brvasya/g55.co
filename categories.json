@@ -70,6 +70,11 @@
 "description": "Bubble shooter games focus on projectile matching in <a href='/?c=matching'>matching games</a> where players aim, shoot, and connect colored bubbles to clear formations through physics based mechanics. These experiences emphasize accuracy and alignment without relying on board swapping systems. Gameplay centers on aiming precision, cluster clearing, and level based progression."
 },
 {
+"id": "bus",
+"name": "Bus",
+"description": "Bus Games focus on driving buses, transporting passengers, and navigating routes through vehicle control and simulation based gameplay. Players follow schedules, pick up passengers, manage traffic conditions, and complete driving challenges that reward precision and safe operation. Many games feature city routes, school bus missions, public transport systems, and realistic driving mechanics that test timing and control. This category is part of <a href=\"/?c=racing\">racing games</a> and includes a variety of bus simulator, route management, and transportation challenges designed for players who enjoy vehicle focused experiences."
+},
+{
 "id": "car",
 "name": "Car",
 "description": "Car games focus on driving vehicles in <a href='/?c=racing'>racing games</a> where players navigate tracks, manage speed, and compete through structured driving mechanics. These experiences emphasize vehicle handling and movement similar to <a href='/?c=driving'>driving games</a>, combining control with speed. Gameplay centers on track navigation, vehicle performance, and progression through racing challenges."

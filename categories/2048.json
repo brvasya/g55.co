@@ -487,12 +487,6 @@
 "description": "Slide numbered cubes across a 3D grid to merge matching tiles and climb toward the elusive 2048 value. The game challenges players to strategize spatial moves in a visually rotated cube environment, combining classic 2048 merging with three-dimensional puzzle complexity. Clearing space and chaining merges are essential to avoid gridlock and push for higher tile values.\n\nKey Features\n\n• 3D sliding tile mechanic  \n• Spatial strategy puzzle design  \n• Progressive tile merging system  \n• Dynamic camera rotation control  \n• Casual-friendly number puzzle"
 },
 {
-"id": "bus-stop-2048",
-"title": "Bus Stop: 2048!",
-"iframe": "https://html5.gamemonetize.games/wg1xymgqs34lty6w8hj95sapoaierz1k/",
-"description": "Combine numbered tiles by sliding them into matching pairs to reach higher values in this grid-based puzzle challenge. Players strategically merge tiles to create the coveted 2048 tile while managing limited space and planning their moves carefully. The game focuses on number combination mechanics with increasing difficulty as the board fills up.\n\nKey Features\n\n• Tile merging strategic system  \n• Swipe-based tile movement  \n• Space management challenge  \n• Incremental scoring progression  \n• Minimalist numeric grid design"
-},
-{
 "id": "bubble-2048",
 "title": "Bubble 2048",
 "iframe": "https://html5.gamedistribution.com/215fe57b25a5486a860b88d09db47c8f/",
