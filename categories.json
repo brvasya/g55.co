@@ -470,6 +470,11 @@
 "description": "Tennis games focus on timing based rallies in <a href='/?c=sports'>sports games</a> where players return shots, position strategically, and outplay opponents through responsive mechanics. These experiences emphasize timing and precision similar to <a href='/?c=golf'>golf games</a>, combining quick reactions with controlled input. Gameplay centers on rally exchanges, positioning, and match based progression."
 },
 {
+"id": "tetris",
+"name": "Tetris",
+"description": "Tetris Games focus on arranging falling blocks, clearing lines, and managing limited space through fast paced puzzle gameplay. Players rotate pieces, plan placements, and build efficient strategies to remove rows while preventing the board from filling up. Many games feature classic falling block mechanics, score challenges, endless modes, and increasing difficulty that rewards quick thinking and spatial awareness. This category is part of <a href=\"/?c=puzzle\">puzzle games</a> and includes a variety of block stacking, line clearing, and tile arrangement challenges designed for players who enjoy logic driven gameplay."
+},
+{
 "id": "tower-defense",
 "name": "Tower Defense",
 "description": "Tower defense games focus on structured defensive planning in <a href='/?c=war'>war games</a> where players place units, control paths, and stop enemy waves through tactical setup mechanics. These experiences emphasize strategic positioning and upgrade systems similar to <a href='/?c=defense'>defense games</a>, combining planning with progression. Gameplay centers on optimizing layouts, upgrading units, and managing increasing difficulty."

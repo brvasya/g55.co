@@ -1399,24 +1399,6 @@
 "description": "Jump between platforms to avoid sinking floors in this physics-based 3D challenge. Players rely on quick reflexes and precise timing to navigate levels where the ground rapidly becomes lava, forcing constant movement and strategic jumping. Each stage tests spatial awareness with dynamic environments and rising difficulty, aiming to reach safe zones without falling.\n\nKey Features\n\n• Precision jumping mechanics  \n• Responsive touch and keyboard controls  \n• Increasing level complexity  \n• Time survival scoring system  \n• Cartoonish 3D obstacle environments"
 },
 {
-"id": "tetris-3d-master",
-"title": "Tetris 3D Master",
-"iframe": "https://html5.gamemonetize.games/x8oqaloxfvat1vkrbd8f42uaqam2fmqp/",
-"description": "Stack and rotate falling blocks in a 3D space to complete layers and clear the board. Players manipulate prism-shaped pieces with spatial rotations, adding depth to the classic puzzle stacking format. Challenges build as layers fill, requiring careful placement to avoid overflow and aiming for high scores under increasing speed.\n\nKey Features\n\n• 3D block rotation mechanic  \n• Layer completion puzzle system  \n• Incremental speed difficulty  \n• Spatial depth alignment controls  \n• Minimalist stacking environment"
-},
-{
-"id": "tetris-3d-game",
-"title": "Tetris 3D Game",
-"iframe": "https://html5.gamemonetize.games/p2lbwnhokmo2znrjgfylk4xltwcr5jn1/",
-"description": "Rotate and position falling blocks in a three-dimensional space to create solid layers that vanish, clearing the board. This version upgrades traditional tile matching by adding depth navigation to the classic stacking mechanic, challenging spatial awareness and quick decision-making. Players aim to maintain balance as layers accumulate from different angles.\n\nKey Features\n\n• 3D block rotation controls  \n• Layer completion clearing system  \n• Increasing speed challenge progression  \n• Depth axis visualization aid  \n• Minimalist geometric visual style"
-},
-{
-"id": "tetris-3d",
-"title": "Tetris 3D",
-"iframe": "https://html5.gamemonetize.games/twm6t7h9n1sbibngng81pk22m3ski8ql/",
-"description": "Stack and rotate falling blocks in a fully 3D space, manipulating shapes along multiple axes to clear layers and score points. This version enhances the classic tile-matching mechanic with three-dimensional spatial challenges, requiring players to plan placements from different angles. Progression focuses on increasing speed and complexity as layers build, testing spatial awareness and reflexes.\n\nKey Features\n\n• 3D block rotation mechanics  \n• Multidirectional spatial placement  \n• Increasing speed and complexity  \n• Layer-clearing progression system  \n• Classic tile-matching gameplay"
-},
-{
 "id": "target-hunt-3d",
 "title": "Target Hunt 3D",
 "iframe": "https://html5.gamemonetize.games/44o7srjcgpjxng8k361fn0ee2m8kn7ts/",
@@ -2699,12 +2681,6 @@
 "title": "Maze Game 3D",
 "iframe": "https://html5.gamedistribution.com/b184386446084f6bbc507ed4d45b3c9b/",
 "description": "Navigate twisting corridors using precise 3D movement controls to find your way through complex mazes. Players manipulate a dynamic camera angle to explore multi-level labyrinth environments, overcoming spatial puzzles and timing challenges to reach each exit. Progression unfolds as increasing maze complexity tests navigation skills under time constraints.\n\nKey Features\n\n• Smooth 3D navigation controls  \n• Multi-level maze environments  \n• Time-based navigation challenges  \n• Dynamic camera angle adjustment  \n• Puzzle elements integrated in levels"
-},
-{
-"id": "master-tetris-3d",
-"title": "Master Tetris 3D",
-"iframe": "https://html5.gamemonetize.games/7cmo1u9rp9irlor4kncssoyoy0wrscw3/",
-"description": "Rotate and align 3D blocks to create full layers and clear the playfield in this spatial puzzle challenge. Players manipulate multicolored shapes within a three-dimensional grid, aiming to stack pieces efficiently before the layers reach the top. The game features an evolving speed progression that tests spatial awareness and quick decision-making under pressure.\n\nKey Features\n\n• 3D block rotation mechanics  \n• Layer completion scoring system  \n• Increasing drop speed challenge  \n• Intuitive mouse and keyboard controls  \n• Neon cube visual style"
 },
 {
 "id": "mask-evolution-3d",
