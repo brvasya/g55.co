@@ -415,12 +415,6 @@
 "description": "Combine numbered tiles by sliding matching food icons to create higher value dishes in a colorful 2048 puzzle format. The game challenges players to strategically merge edible ingredients on a grid, aiming to reach the top-tier culinary tile without filling the board. This variation emphasizes quick thinking and spatial planning through continuous tile sliding.\n\nKey Features\n\n• Tile matching sliding mechanic  \n• Strategic grid management controls  \n• Progressive dish upgrade system  \n• Score optimization challenge  \n• Food-themed iconography"
 },
 {
-"id": "fly-2048",
-"title": "Fly 2048",
-"iframe": "https://html5.gamemonetize.games/cvejhwrjd65k00r262dtlpyinbg2fd1c/",
-"description": "Slide and combine numbered tiles on a hexagonal grid to form larger values while managing limited moves to reach high scores. The gameplay revolves around traditional 2048 mechanics adapted with a tile merging system on a six-directional board. Strategic planning of tile shifts challenges players as they aim to clear space and maximize tile upgrades. Variations in board layout influence the merging patterns and possible moves.\n\nKey Features\n\n• Hexagonal grid tile merging  \n• Six-direction swipe controls  \n• Limited move strategic challenge  \n• Progressive tile value upgrades  \n• Abstract minimalistic puzzle setting"
-},
-{
 "id": "flappy-2048",
 "title": "Flappy 2048",
 "iframe": "https://html5.gamemonetize.games/ydiug2yf7x3zu6zsczyrw78q5gseuie6/",
