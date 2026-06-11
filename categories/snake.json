@@ -157,18 +157,6 @@
 "description": "Navigate a growing snake made of colorful vegetables across a grid by steering and collecting food items to extend your length while avoiding self-collision. The game challenges players to control smooth directional movement as the snake gradually increases speed with every successful pickup. Mastering tight turns and predicting the snake’s path is essential to survive increasingly dense playfields.\n\nKey Features\n\n• Directional swipe movement control  \n• Length growth by consuming vegetables  \n• Collision avoidance challenge  \n• Progressive speed increase system  \n• Colorful grid-based snake segments"
 },
 {
-"id": "train-snake-taxi",
-"title": "Train Snake Taxi",
-"iframe": "https://html5.gamemonetize.games/nubipyckejc3c5g67dgcqu6ed2cmfwz2/",
-"description": "Navigate a growing snake formed by linked train cars through winding tracks, collecting passengers and cargo to extend your length while avoiding collisions. The core mechanic revolves around vehicle movement merged with traditional snake gameplay, where mastering tight turns and track switches is essential. Strategic routing challenges increase as the train lengthens, demanding precise timing and control.\n\nKey Features\n\n• Train car link movement  \n• Track switching controls  \n• Passenger and cargo collection  \n• Progressive route complexity  \n• Railway and station environments"
-},
-{
-"id": "train-snake",
-"title": "Train Snake",
-"iframe": "https://html5.gamedistribution.com/7ccd2c9dd90e415c9c62bf63ccc8c420/",
-"description": "Navigate a growing snake that expands as you collect glowing orbs, mastering precise directional control to avoid collisions. Movement relies on smooth continuous turns steering a segmented snake through increasingly narrow corridors. The challenge lies in balancing speed with careful navigation to sustain your trail without hitting obstacles or yourself in this minimalist snake environment.\n\nKey Features\n\n• Continuous snake movement control  \n• Orb collection lengthening mechanic  \n• Increasingly tight corridor navigation  \n• Self-collision avoidance system  \n• Minimalist snake-themed setting"
-},
-{
 "id": "the-snake-game",
 "title": "The snake Game",
 "iframe": "https://html5.gamemonetize.games/d1xdfk9djnblr991p77c2eb6jgnsd40d/",

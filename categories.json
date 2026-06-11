@@ -495,6 +495,11 @@
 "description": "Tower defense games focus on structured defensive planning in <a href='/?c=war'>war games</a> where players place units, control paths, and stop enemy waves through tactical setup mechanics. These experiences emphasize strategic positioning and upgrade systems similar to <a href='/?c=defense'>defense games</a>, combining planning with progression. Gameplay centers on optimizing layouts, upgrading units, and managing increasing difficulty."
 },
 {
+"id": "train",
+"name": "Train",
+"description": "Train Games focus on operating locomotives, transporting cargo and passengers, and navigating railway routes through vehicle control and simulation based gameplay. Players manage speed, follow tracks, complete transport objectives, and overcome route challenges that require timing and precision. Many games feature train simulator mechanics, railway management systems, subway operations, and long distance transportation scenarios that reward careful planning and efficient control. This category is part of <a href=\"/?c=racing\">racing games</a> and includes a variety of railroad adventures, train driving challenges, and railway simulation experiences designed for players who enjoy transportation focused gameplay."
+},
+{
 "id": "truck",
 "name": "Truck",
 "description": "Truck games focus on controlling heavy vehicles in <a href='/?c=offroad'>offroad games</a> where players transport loads, navigate terrain, and manage movement through physics driven driving mechanics. These experiences emphasize weight, balance, and traction similar to <a href='/?c=monster-truck'>monster truck games</a>, requiring controlled input and steady progression. Gameplay centers on handling large vehicles, overcoming obstacles, and completing route based challenges."
