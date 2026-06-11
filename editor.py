@@ -23,6 +23,8 @@ CATEGORY_TEMPLATE = {
     "description": "",
 }
 
+NEW_CATEGORY_FILE_TEMPLATE = {"pages": []}
+
 
 def list_json_files(folder: str) -> list[str]:
     files = []
@@ -771,6 +773,21 @@ class JsonGui(tk.Tk):
             self.write_form(PAGE_TEMPLATE.copy())
             self.update_page_match_status("New page")
 
+    def create_category_json_file(self, category_id: str):
+        category_id = (category_id or "").strip()
+        if not category_id:
+            return
+
+        os.makedirs(CATEGORIES_DIR, exist_ok=True)
+        file_path = os.path.join(CATEGORIES_DIR, f"{category_id}.json")
+
+        try:
+            if not os.path.exists(file_path):
+                with open(file_path, "w", encoding="utf-8") as f:
+                    json.dump(NEW_CATEGORY_FILE_TEMPLATE, f, ensure_ascii=False, indent=0)
+        except Exception as e:
+            messagebox.showerror("Category file creation failed", f"Could not create category JSON file:\n{e}")
+
     def find_duplicate_id(self, item_id, ignore_index=None):
         for idx, it in enumerate(self.items):
             if ignore_index is not None and idx == ignore_index:
@@ -1130,7 +1147,11 @@ END RULE
             return
 
         if self.is_root_categories_mode():
-            self.update_page_match_status("Added category and auto saved")
+            self.create_category_json_file(it["id"])
+            self.files = list_all_editable_files()
+            self.refresh_category_list()
+            self.select_category_by_name("categories.json", load=False)
+            self.update_page_match_status("Added category, created JSON file, and auto saved")
         else:
             self.update_page_match_status("Added page and auto saved")
 
