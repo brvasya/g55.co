@@ -1,10 +1,208 @@
 {
 "pages": [
 {
-"id": "vikings-an-archers-journey",
+"id": "white-archer",
+"title": "White Archery",
+"iframe": "https://html5.gamedistribution.com/924b4a6cd5ae4b6494ecf65772a0a8fe/",
+"description": "Shoot arrows with precision to hit challenging targets in a minimalistic archery environment. Players rely on aim adjustment and timing to master each shot, testing their focus and control. Progression likely involves increasingly difficult target patterns or distances, offering an engaging skill curve for casual players.\n\nKey Features\n\n• Precision aiming mechanic  \n• Timing-based arrow release  \n• Incremental target difficulty  \n• Score tracking system  \n• Minimalist visual design"
+},
+{
+"id": "vikings-an-archer-s-journey",
 "title": "Vikings: An Archery Journey",
 "iframe": "https://html5.gamedistribution.com/df8a3f16d8f546b8b607dfa38d856478/",
-"description": "Aim precise shots using a bow to hit moving targets set against rugged Viking landscapes. Adjust draw strength and arrow trajectory to overcome increasingly tricky target placements and timing challenges. Progression unfolds through waves of archery challenges demanding skill, focus, and accuracy, all wrapped in a Nordic-inspired setting.\n\nKey Features\n\n• Bow draw strength mechanic  \n• Timing-based shooting controls  \n• Progressive target difficulty levels  \n• Score tracking and accuracy rewards  \n• Viking-themed archery environments"
+"description": "Shoot arrows with precise timing and trajectory as you navigate challenging levels filled with unique targets. This archery game emphasizes careful aiming and draw control within a rustic setting inspired by Viking lore. Players must master different bow mechanics to complete increasingly difficult stages and sharpen their skills against dynamic shooting scenarios.\n\nKey Features\n\n• Variable draw strength aiming  \n• Target-based level progression  \n• Timed precision shooting challenges  \n• Unlockable bow upgrades system  \n• Norse-inspired archery environments"
+},
+{
+"id": "tiny-archer",
+"title": "Tiny Archery",
+"iframe": "https://html5.gamedistribution.com/9c378a079b414251adf5721e7c1e0966/",
+"description": "Launch precise shots using a bow to hit targets scattered across dynamic, shrinking platforms. This archery game challenges players to adapt to moving terrain while managing limited arrows and timing shots carefully. Each level demands steady aim and strategic positioning to progress through increasingly difficult target layouts.\n\nKey Features\n\n• Precision bow aiming controls  \n• Moving platform target challenges  \n• Limited arrow resource management  \n• Progressive level difficulty scaling  \n• Minimalistic archery-themed environments"
+},
+{
+"id": "the-archer",
+"title": "The Archery",
+"iframe": "https://html5.gamedistribution.com/b05a8fc48cb24adea8f40aaf32ea9577/",
+"description": "Shoot arrows at static and moving targets using precise bow aiming mechanics to hit scoring zones and improve accuracy. Players adjust draw strength and aim while managing limited time challenges, progressing through increasing difficulty levels with various target setups to master. The game tests precision and timing for casual archery gameplay that suits teens and kids.\n\nKey Features\n\n• Bow draw strength control  \n• Target aiming with cursor  \n• Time-limited scoring rounds  \n• Progressive difficulty levels  \n• Varied stationary and moving targets"
+},
+{
+"id": "super-archer-catkeeper",
+"title": "Super Archery: Catkeeper",
+"iframe": "https://html5.gamemonetize.games/97xjkiukedu42nozszart8ep7ruf1blm/",
+"description": "Shoot precise arrows to hit moving targets with a bow in this archery challenge designed for casual players. Players adjust angle and power to master each shot, testing timing and aim under varying conditions. Progress through increasingly difficult sequences that require sharp focus and steady control to achieve high scores.\n\nKey Features\n\n• Bow aiming angle adjustment  \n• Power control shot mechanic  \n• Timing-based target challenges  \n• Progressive target difficulty levels  \n• Casual archery gameplay style"
+},
+{
+"id": "super-archer-game",
+"title": "Super Archery Game",
+"iframe": "https://html5.gamemonetize.games/2pyc3tz99ldus99cmlihe98i1uieww3o/",
+"description": "Aim and release arrows with precision to hit moving targets across multiple shooting ranges in a dynamic archery challenge. Utilize timing and trajectory control to master each level’s unique target patterns and increase difficulty progressively. This game tests skills in aiming accuracy under varying motion conditions and timed sequences.\n\nKey Features\n\n• Timed target shooting rounds  \n• Adjustable bow tension mechanic  \n• Progressive level difficulty scaling  \n• Moving and static target types  \n• Casual-friendly control scheme"
+},
+{
+"id": "stick-archer-champion",
+"title": "Stick Archery Champion",
+"iframe": "https://html5.gamemonetize.games/sau8efctplff566hb06hzx5jyhgu6xyd/",
+"description": "Aim and shoot arrows precisely to hit targets in this stick figure archery game. The gameplay focuses on timing and angle adjustment to master each shot. Players progress through levels featuring increasingly challenging target placements, testing sharp reflexes and strategic aiming. Each round offers a chance to improve accuracy and score under pressure.\n\nKey Features\n\n• Precision aiming mechanic  \n• Timing based shot controls  \n• Progressive target difficulty  \n• Score-based level advancement  \n• Minimalist stick figure graphics"
+},
+{
+"id": "small-archer-game",
+"title": "Small Archery Game",
+"iframe": "https://html5.gamemonetize.games/czb5htbh9f4sfyz9zmx9sat01n9npou2/",
+"description": "Aim precise shots using a simple bow in a compact archery challenge that tests your timing and accuracy. Players adjust their draw strength and angle to hit progressively smaller targets while tracking score improvements round by round. Quick reflexes and steady aim define success in this straightforward but engaging activity suitable for casual play.\n\nKey Features\n\n• Bow draw strength control  \n• Target aiming and adjustment  \n• Incremental target size reduction  \n• Score tracking and progression  \n• Casual archery challenge setting"
+},
+{
+"id": "small-archer",
+"title": "Small Archery",
+"iframe": "https://html5.gamedistribution.com/4a295492d805477f8e50181c7a9fa11e/",
+"description": "Launch arrows with precision using intuitive mouse controls in a small-scale archery range, aiming to hit targets at varying distances. The game challenges players with timing and angle adjustments to improve accuracy. Progress through increasingly difficult target placements to sharpen aim and reaction skills, appealing to casual players and younger audiences.\n\nKey Features\n\n• Mouse-driven aiming mechanic  \n• Timed target shooting challenges  \n• Incremental distance progression  \n• Scoring accuracy feedback system  \n• Simple archery range environment"
+},
+{
+"id": "santa-archer",
+"title": "Santa Archery",
+"iframe": "https://html5.gamemonetize.games/uiaksbaikbftlygfc3wknucwo1x5r3m7/",
+"description": "Shoot arrows with precision timing as you aim to hit moving targets in a festive winter setting. Players experience an archery mechanic that requires adjusting for distance and movement, challenging their accuracy in increasingly difficult stages. Progression unfolds through multiple levels featuring different target types and obstacle patterns to test your skill.\n\nKey Features\n\n• Precision arrow shooting mechanic  \n• Timing-based aiming controls  \n• Increasingly complex target patterns  \n• Level progression with scoring system  \n• Holiday-themed archery challenges"
+},
+{
+"id": "professional-archerist",
+"title": "Professional Archery",
+"iframe": "https://html5.gamemonetize.games/1gmlwex83wbif4eup1dzztmh1b6bqb4y/",
+"description": "Aim steadily to shoot arrows at increasingly distant targets in Professional Archery, testing your timing and precision with a simulated bow string mechanic. The game challenges players to hit bullseyes across various static and moving boards, improving accuracy as difficulty rises through multiple scenic ranges. Adjusting power and angle controls is key to mastering each shot and advancing through progressively tricky levels.\n\nKey Features\n\n• Simulated bow string tension  \n• Adjustable aiming controls  \n• Progressive target distances  \n• Moving target challenge modes  \n• Outdoor archery range settings"
+},
+{
+"id": "mr-archer",
+"title": "Mr Archer Archery",
+"iframe": "https://html5.gamedistribution.com/a2c635a222ce42908eada8f1f299ec7d/",
+"description": "Aim precisely with a bow and release arrows to hit targets scattered across various stages, leveraging timing and trajectory control to score points. The game challenges players to master different shot angles and wind influences, advancing through increasingly complex levels that test focus and accuracy. Casual gamers encounter a simple yet nuanced archery environment designed for quick games and steady improvement.\n\nKey Features\n\n• Precision aiming and shooting  \n• Bow draw timing mechanic  \n• Increasing difficulty levels  \n• Score-based progression system  \n• Outdoor archery range setting"
+},
+{
+"id": "magical-archer",
+"title": "Magical Archery",
+"iframe": "https://html5.gamemonetize.games/snyx35svpq1e0s7354g7c4chq8ofuabi/",
+"description": "Aim and release enchanted arrows at moving targets, mastering timing and precision to unlock new levels in this magical archery challenge. Players use an intuitive bow-drawing mechanic to hit targets with increasing difficulty and variety, testing their focus and accuracy as they progress through enchanted forests and mystic arenas. Scoring combos and adapting to wind effects add depth to the gameplay.\n\nKey Features\n\n• Bow-drawing precision aiming\n• Timed target shooting challenges  \n• Progressive level difficulty scaling  \n• Combo scoring system  \n• Enchanted forest and arena settings"
+},
+{
+"id": "love-archer",
+"title": "Love Archery",
+"iframe": "https://html5.gamedistribution.com/dc39086fbc2c44108269b124e0ceb78b/",
+"description": "Launch arrows with precise timing to hit moving heart-shaped targets in this archery challenge. Players adjust aim and power to match target movement patterns, advancing through increasingly tricky stages. The game tests reflexes and coordination within a charming setting focused on timing-based shot control and target tracking. Scoring depends on accuracy and swift responses. \n\nKey Features\n\n• Timing-based aiming mechanic  \n• Moving heart target challenges  \n• Stage progression with increasing difficulty  \n• Precision shot power adjustment  \n• Casual archery scoring system"
+},
+{
+"id": "legendary-archer",
+"title": "Legendary Archery",
+"iframe": "https://html5.gamemonetize.games/2it7k4kwlr2u5riz24f2no7tt5tymf16/",
+"description": "Aim and shoot arrows with precise timing to hit dynamic targets in challenging archery sequences. The game tests your control over bow tension and arrow trajectory through progressively difficult levels that include moving and stationary targets. Casual players refine their accuracy while aiming for high scores in a setting focused purely on archery skills.\n\nKey Features\n\n• Tension-based bow control  \n• Precision aiming mechanics  \n• Progressive target difficulty  \n• Score-based progression system  \n• Classic archery range environment"
+},
+{
+"id": "kai-archer",
+"title": "KaI Archery",
+"iframe": "https://html5.gamemonetize.games/8u030s91ibex255z7f9cbn0whv3167ui/",
+"description": "Launch arrows towards precise targets using timing and aiming skill in KaI Archery, a focused archery game that challenges players to hit bullseyes under variable wind conditions. Mastering draw strength and angle adjustments advances players through increasingly complex shooting ranges. Progress through score-based levels that test accuracy and consistency over multiple rounds.\n\nKey Features\n\n• Precision aiming and timing  \n• Dynamic wind effect mechanics  \n• Level progression by scoring  \n• Adjustable draw strength control  \n• Realistic archery range settings"
+},
+{
+"id": "forest-archer",
+"title": "Forest Archery",
+"iframe": "https://html5.gamemonetize.games/hzap7ij8k021garzem76ikki7d5eg8qk/",
+"description": "Shoot arrows with precise timing and steady aim to hit various targets in a woodland setting. Focused on archery skills, the game challenges you to adjust your shot power and trajectory across multiple stages. Progression involves mastering different distances and target patterns to achieve higher scores and unlock new challenges.\n\nKey Features\n\n• Timing-based bow draw mechanic  \n• Mouse-controlled aiming system  \n• Target distance scaling challenges  \n• Score-driven progression tiers  \n• Forest environment visuals"
+},
+{
+"id": "extreme-master-archer",
+"title": "Extreme Master Archery",
+"iframe": "https://html5.gamedistribution.com/1272e0895bd24ef6bd0d73792d713980/",
+"description": "Launch arrows with precision timing to hit targets in a variety of shooting ranges, leveraging steady aim and trajectory control to master each challenge. The gameplay centers on aiming skill and release mechanics, progressing through increasingly tricky shots that test focus and adaptation. Targets vary in distance and size, demanding quick adjustments and careful planning to succeed.\n\nKey Features\n\n• Precision aiming control system  \n• Progressive target difficulty levels  \n• Wind and distance shot adjustments  \n• Time-limited scoring challenges  \n• Realistic archery range environments"
+},
+{
+"id": "elf-archer",
+"title": "Elf Archery",
+"iframe": "https://html5.gamemonetize.games/p5twwrdmyi2gyxe170xrhdehvgxrch2p/",
+"description": "Aim precise shots using a bow and arrow to hit targets in challenging archery stages. Players control timing and arrow trajectory to improve accuracy while facing progressively difficult target arrangements. The game’s focus on steady hand-eye coordination and incremental target complexity provides a rewarding test for casual archery enthusiasts.\n\nKey Features\n\n• Bow and arrow aiming mechanic  \n• Timing-based shot control  \n• Increasing target difficulty levels  \n• Score tracking and accuracy ranking  \n• Fantasy-inspired archery range setting"
+},
+{
+"id": "eg-master-archer",
+"title": "EG Master Archery",
+"iframe": "https://html5.gamedistribution.com/012684a5f3b44eaf98e1e306777a7fe4/",
+"description": "Aim steady shots at dynamic targets using precise timing and controlled draw strength in this archery challenge. Players harness bow tension mechanics to hit varying distances and moving targets, testing accuracy under pressure. Quick reflexes and careful angle adjustments impact scoring as players advance through increasingly difficult shooting stages designed for casual and young audiences.\n\nKey Features\n\n• Bow draw strength mechanic  \n• Manual aiming and timing control  \n• Progressive target difficulty levels  \n• Time-limited shooting challenges  \n• Outdoor archery range setting"
+},
+{
+"id": "cupid-s-story-love-archer-bow",
+"title": "Cupid’s Story: Love Archery Bow",
+"iframe": "https://html5.gamedistribution.com/a3e65058795d4169acb3fc824ea92a0c/",
+"description": "Aim and release arrows with precision to hit moving targets in a charming love-themed archery challenge. Players adjust shot power and angle to navigate Cupid’s unique bow mechanics across varying distances. Timing and accuracy are crucial to complete increasingly difficult rounds that test reflexes and control.\n\nKey Features\n\n• Precision bow aiming system  \n• Dynamic target movement patterns  \n• Progressive difficulty levels  \n• Timing-based shot power control  \n• Romantic archery challenge setting"
+},
+{
+"id": "crazy-archer",
+"title": "Crazy Archery",
+"iframe": "https://html5.gamedistribution.com/41f264a2ce2f471888f1184a7a19421a/",
+"description": "Launch arrows with precision timing to hit moving targets in diverse archery challenges. Players utilize a tension-based bow mechanic that requires careful aiming and power control. Each level tests reflexes and accuracy through increasingly tricky target patterns, offering a casual yet skill-focused shooting experience.\n\nKey Features\n\n• Tension-based bow aiming  \n• Timing-dependent shot control  \n• Progressive target difficulty  \n• Scoring accuracy system  \n• Animated archery range environment"
+},
+{
+"id": "cool-archer",
+"title": "Cool Archery",
+"iframe": "https://html5.gamedistribution.com/d33eaea479134d09b0a95b1c14ecdb7c/",
+"description": "Launch arrows precisely using mouse controls to hit various stationary and moving targets spread across different challenge levels in this archery game. The core gameplay revolves around timing and aiming accuracy while adapting to factors like wind when progressing through increasingly difficult stages. Casual players refine their skills by mastering bow tension and shot trajectory to achieve the highest possible score.\n\nKey Features\n\n• Mouse-controlled aiming mechanic  \n• Timing-based shot release system  \n• Progressive target difficulty levels  \n• Score tracking and improvement goals  \n• Classic archery range environment"
+},
+{
+"id": "castle-defender-hero-archer",
+"title": "Castle Defender Hero Archery",
+"iframe": "https://html5.gamemonetize.games/pkhj5siinjxf3wzkbx0cdktorc4oy9po/",
+"description": "Defend the fortress walls by aiming and shooting arrows at incoming enemies in this archery challenge. Players control a bow and arrow system with precise targeting to stop waves of attackers, adapting to increasing enemy speeds and quantities. The game focuses on reflex-based shooting skills with a castle siege backdrop, where lasting through escalating assaults is the main goal.\n\nKey Features\n\n• Precision bow aiming mechanics  \n• Dynamic enemy wave patterns  \n• Reflex-based shooting controls  \n• Progressive difficulty scaling  \n• Medieval siege defense theme"
+},
+{
+"id": "bloons-archer",
+"title": "Bloons Archery",
+"iframe": "https://html5.gamemonetize.games/tk1a1lyikrnykk5apmcap8f5j192tytm/",
+"description": "Shoot precision arrows to pop colorful balloons as they float across dynamic levels in this archery challenge. Master timing and angle control using the bow’s draw strength mechanic to clear waves of moving targets. Progression speeds up with each round, testing accuracy and reaction under pressure for casual players and younger audiences alike.\n\nKey Features\n\n• Draw strength aiming system  \n• Balloon popping timing challenges  \n• Increasing target speed progression  \n• Multiple arrow types and upgrades  \n• Vibrant floating target design"
+},
+{
+"id": "balloon-archer-challenge",
+"title": "Balloon Archery Challenge",
+"iframe": "https://html5.gamemonetize.games/yo9op4gkqybt7xskkoomvq5cfmttpyv4/",
+"description": "Aim at floating targets using bow and arrow precision in this casual archery game. Players focus on timing and trajectory control to burst colorful balloons across multiple stages. Each level introduces faster or moving targets that challenge aiming skills and increase difficulty. The game revolves around refining shot accuracy while managing limited arrows.\n\nKey Features\n\n• Bow aiming with trajectory control  \n• Limited arrow ammo system  \n• Progressive target speed increase  \n• Balloon popping score multiplier  \n• Colorful target popping visuals"
+},
+{
+"id": "assassin-archer-2021",
+"title": "Assassin Archery 2021",
+"iframe": "https://html5.gamemonetize.games/t2lzsg8h338byrqvjlkza3oz55raadr3/",
+"description": "Shoot precise arrows using timing-based aiming mechanics to eliminate targets in stealth-inspired levels. Players control bow tension and arrow direction to progress through increasingly challenging stages focused on accuracy and quick reflexes. The game blends archery skills with tactical positioning to achieve high scores under timed conditions.\n\nKey Features\n\n• Timing-based aiming system  \n• Bow draw strength control  \n• Increasing target difficulty  \n• Time-limited scoring challenges  \n• Stealth-themed level design"
+},
+{
+"id": "archer-super-hero",
+"title": "Archery Super Hero",
+"iframe": "https://html5.gamemonetize.games/2ftxsmhh3aamnm4tjoylww9yehfyv8jk/",
+"description": "Aim and release arrows with precise timing to hit moving targets in this archery challenge. Players adjust their shots to account for wind direction and distance, mastering smooth bow-draw mechanics in dynamic levels. The game tests accuracy and reflexes through progressive target patterns and varying difficulty in each stage, appealing especially to casual archery fans.\n\nKey Features\n\n• Timing-based bow-draw mechanic  \n• Wind and distance shot adjustments  \n• Progressive target patterns  \n• Reflex-driven aiming challenges  \n• Casual archery gameplay design"
+},
+{
+"id": "archer-shot",
+"title": "Archery Shot",
+"iframe": "https://html5.gamemonetize.games/15f8vt3wlgl95d4rw22whuifdhzuifvk/",
+"description": "Aim and release arrows at various targets using precise timing and trajectory control in this archery challenge. Players rely on click-and-drag mechanics to adjust shot power and angle, progressing through increasingly difficult target setups. Wind conditions add a layer of difficulty to standard outdoor shooting ranges, testing player accuracy and consistency.\n\nKey Features\n\n• Click-and-drag shot aiming  \n• Wind effect on arrow flight  \n• Incremental target difficulty  \n• Time-limited shooting stages  \n• Outdoor archery range environments"
+},
+{
+"id": "archers-random",
+"title": "Archery Random",
+"iframe": "https://html5.gamedistribution.com/f4055ea8c0794a50badf82d7ce837eaa/",
+"description": "Aim precise shots using variable arrow trajectories to hit targets in unpredictable patterns. This archery game challenges players with reactive aiming mechanics and randomized target placements that demand steady control and timing. Each level introduces fresh shot angles, encouraging adaptive strategies as you improve accuracy and compete for high scores.\n\nKey Features\n\n• Dynamic arrow trajectory control  \n• Responsive aiming and shooting system  \n• Increasing target randomness  \n• Score-based level progression  \n• Casual archery simulation elements"
+},
+{
+"id": "archer-master",
+"title": "Archer Master Archery",
+"iframe": "https://html5.gamedistribution.com/89a712ac20c54fcfb4f541f8f75b7cc6/",
+"description": "Launch precise arrows at moving targets in a fast-paced archery challenge that tests your timing and aim. Use a classic bow mechanic to adjust power and angle while competing in progressively difficult levels. Sharpen your skills across different shooting ranges where precision and speed unlock new stages and rewards.\n\nKey Features\n\n• Dynamic bow aiming controls  \n• Timing-based shot power system  \n• Progressive target difficulty scaling  \n• Multiple shooting range environments  \n• Score tracking and level rewards"
+},
+{
+"id": "archer-hunter-king-game",
+"title": "Archery Hunter King Game",
+"iframe": "https://html5.gamemonetize.games/18zw26gccalbo5fsbt5vbiqfm336m2zu/",
+"description": "Aim and shoot at targets using precision archery controls in this challenging game focused on marksmanship skills. Players must carefully time their shots and traverse distinct hunting grounds, tracking elusive wildlife to rack up points and complete levels. Different arrow types and wind conditions add complexity to the shoot-and-score gameplay loop.\n\nKey Features\n\n• Precision aiming mechanics  \n• Bow draw strength control  \n• Progressive hunting area unlocks  \n• Scoring based on target difficulty  \n• Wildlife tracking and environmental effects"
+},
+{
+"id": "archer-hero-pro",
+"title": "Archery Hero Pro",
+"iframe": "https://html5.gamemonetize.games/29wtfvf9jszoc8gibo9dms1f37htul8z/",
+"description": "Launch precision arrows using touch controls to hit fast-moving targets and rack up high scores in this casual archery game. Players aim carefully while adapting to varied target distances and wind conditions to sharpen their shooting skills. The challenge ramps up through timed rounds that test both accuracy and speed for a rewarding gameplay loop.\n\nKey Features\n\n• Touch-based aiming controls  \n• Dynamic moving target challenges  \n• Timed score attack progression  \n• Adjustable wind effect mechanic  \n• Vibrant outdoor archery range setting"
+},
+{
+"id": "archer-vs-archer",
+"title": "Archer Vs Archer Archery",
+"iframe": "https://html5.gamedistribution.com/e7be8c6ddf274f5cb7039f436eb3d9fe/",
+"description": "Shoot arrows at moving opponents in fast-paced duels that test your timing and aim precision. The gameplay centers on precise bow control and quick reactions as you face off against rival archers. Matches progress through several rounds where hitting specific target zones can give you strategic advantages. Casual players and teens will appreciate the easy-to-pick-up mechanics combined with competitive archery face-offs.\n\nKey Features\n\n• Realistic bow aiming controls  \n• Timed arrow shooting mechanic  \n• Round-based duel progression  \n• Reactive opponent AI behavior  \n• Traditional archery duel setting"
 },
 {
 "id": "two-archers-bow-duel",
