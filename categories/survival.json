@@ -1,12 +1,6 @@
 {
 "pages": [
 {
-"id": "ship-fish",
-"title": "Ship & Fish Survival",
-"iframe": "https://html5.gamedistribution.com/f9d0af2d87e644e68e65e0ea2184a0f7/",
-"description": "Navigate drifting ships through treacherous waters while managing limited resources to survive harsh ocean conditions. The game challenges players to maintain balance and strategic timing under unpredictable weather patterns. Progress involves adapting to shifting currents and collecting supplies to extend your vessel’s endurance through each stage of survival.\n\nKey Features\n\n• Resource management under pressure  \n• Manual ship stabilization controls  \n• Dynamic weather effect system  \n• Progressive supply gathering stages  \n• Oceanic navigation hazards"
-},
-{
 "id": "apocalypse-shelter",
 "title": "Apocalypse Shelter Survival",
 "iframe": "https://html5.gamedistribution.com/600319e8d5d94a41bb3374c726ba15fc/",
@@ -1109,12 +1103,6 @@
 "title": "Flight Survival",
 "iframe": "https://html5.gamemonetize.games/fi03kdhzp8xbn9wl1amprog93nxyeign/",
 "description": "Navigate turbulent skies while managing limited fuel and dodging hazardous weather in this aerial survival game. Piloting a small aircraft, you rely on precise controls and quick reflexes to maintain altitude and avoid obstacles. The primary challenge involves enduring unpredictable conditions as you attempt to stay airborne as long as possible.\n\nKey Features\n\n• Fuel management mechanic  \n• Responsive aircraft controls  \n• Dynamic weather hazards  \n• Time-based endurance scoring  \n• Atmospheric sky environment"
-},
-{
-"id": "fish-survival",
-"title": "Fish Survival",
-"iframe": "https://html5.gamedistribution.com/fc8a812c5b1d44139482301a2acf98a3/",
-"description": "Navigate underwater hazards and evade predators using swift fish movement in this survival challenge. Players rely on precise maneuvering within dynamic aquatic environments to outlast threats and grow stronger. Adapting to diverse underwater conditions while avoiding larger creatures forms the core gameplay loop focused on survival progression and reactive controls.\n\nKey Features\n\n• Precision swimming controls  \n• Predator evasion mechanics  \n• Dynamic aquatic environment  \n• Survival progression system  \n• Reactive AI enemy behavior"
 },
 {
 "id": "fireboy-watergirl-island-survival-4",

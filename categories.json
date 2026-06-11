@@ -195,6 +195,11 @@
 "description": "Find differences games focus on comparing images in <a href='/?c=hidden-object'>hidden object games</a> where players identify small variations between scenes through careful visual analysis. These experiences emphasize observation and detail recognition similar to <a href='/?c=spot-the-difference'>spot the difference games</a>, requiring focus and precision to locate subtle changes. Gameplay centers on scanning visuals, spotting inconsistencies, and progressing through increasingly complex comparisons."
 },
 {
+"id": "fishing",
+"name": "Fishing",
+"description": "Fishing Games focus on casting lines, catching fish, and improving angling skills through timing and precision based gameplay. Players choose equipment, target different species, and complete challenges that reward patience, accuracy, and strategic decision making. Many games feature realistic fishing mechanics, tournament competitions, lake exploration, and progression systems that unlock new locations and gear. This category is part of <a href=\"/?c=sports\">sports games</a> and includes a variety of casual fishing adventures, competitive angling challenges, and fishing simulator experiences designed for players who enjoy skill based outdoor activities."
+},
+{
 "id": "football",
 "name": "Football",
 "description": "Football games focus on strategic team based play in <a href='/?c=sports'>sports games</a> where players execute planned moves, advance across the field, and score through structured phases of gameplay. These experiences emphasize tactical coordination and positioning similar to <a href='/?c=soccer'>soccer games</a>, requiring timing, control, and decision making. Gameplay centers on structured progression, play execution, and competitive outcomes."

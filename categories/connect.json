@@ -31,12 +31,6 @@
 "description": "Match colored tiles strategically to clear frosty puzzles in a grid-based connect game. Link identical icy elements by drawing continuous paths without overlaps to complete each level’s objective. The challenge ramps up through increasingly complex patterns, offering casual players a relaxing yet engaging tile-connecting experience.\n\nKey Features\n\n• tile connection path drawing  \n• pattern-based level progression  \n• overlap restriction mechanics  \n• timed and relaxed modes  \n• snowflake-themed grid puzzles"
 },
 {
-"id": "fishconnect",
-"title": "Fish Connect",
-"iframe": "https://html5.gamedistribution.com/dce5b0a6b05945c2abf0382ce7d0d852/",
-"description": "Link colorful fish tiles to clear the board in this pattern-matching puzzle. Players connect identical fish by drawing paths that cannot overlap, requiring careful planning as stages introduce new obstacles and tighter spaces. The aquatic theme enhances the relaxing yet strategic challenge, pushing players to complete each level within move limits.\n\nKey Features\n\n• Tile matching connection mechanic  \n• Path-drawing control system  \n• Increasing spatial puzzle difficulty  \n• Move-limited level progression  \n• Underwater visual theme"
-},
-{
 "id": "delicious-food-connection",
 "title": "Delicious Food Connect",
 "iframe": "https://html5.gamedistribution.com/12cb0daa4cdc4203bd1ce15dae770e68/",
@@ -629,12 +623,6 @@
 "title": "FLAG CONNECT",
 "iframe": "https://html5.gamemonetize.games/5vi8khqoyp3ldh3p5b5i4kg6ba4dt9ey/",
 "description": "Connect matching flags by drawing continuous lines on a grid, navigating around obstacles to clear the board. The gameplay revolves around linking pairs of countries’ flags without crossing lines, challenging spatial awareness and strategic planning. Players progress through puzzles with increasing complexity, aiming to complete all connections efficiently in this casual matching experience.\n\nKey Features\n\n• Flag pair connection mechanic  \n• Line drawing control system  \n• Puzzle complexity progression  \n• Obstacle avoidance challenges  \n• Country flag matching theme"
-},
-{
-"id": "fish-connect-deluxe",
-"title": "Fish Connect Deluxe",
-"iframe": "https://html5.gamemonetize.games/nuj83ytgnffgixwu6ivm1vrxryibodsc/",
-"description": "Match colorful fish by linking pairs with clear paths to complete each level's puzzle challenge. Players trace connections across a grid, ensuring lines do not overlap, combining pattern recognition and spatial strategy. Completing increasingly complex board layouts tests planning skills and visual precision, suitable for casual gamers looking for a relaxed yet engaging experience.\n\nKey Features\n\n• path-drawing connection mechanic  \n• grid-based puzzle layout  \n• non-overlapping link strategy  \n• escalating level complexity  \n• vibrant aquatic-themed visuals"
 },
 {
 "id": "fantasy-connect-deluxe",
