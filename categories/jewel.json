@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "jewel-coloring",
+"title": "Jewel Coloring",
+"iframe": "https://html5.gamedistribution.com/fe81d3ecbf5540ca8d9fe39387635d8a/",
+"description": "Arrange colorful gems on intricate grids to complete vibrant patterns in this casual jewel-themed puzzle. Players experiment with positioning and color matching mechanics to fill levels with harmonious designs, advancing through increasingly complex templates that challenge both creativity and logic. Timing and sequence add a subtle layer of strategy to each artistic puzzle experience.\n\nKey Features\n\n• Grid-based pattern completion  \n• Color matching mechanics  \n• Progressive design complexity  \n• Turn-based puzzle structure  \n• Jewel-themed visual style"
+},
+{
+"id": "fallling-jewels",
+"title": "Fallling Jewels",
+"iframe": "https://html5.gamedistribution.com/5dc9d72665e540619e3fa741124e7462/",
+"description": "Match and clear colorful gems by swapping adjacent jewels to form lines of three or more in this engaging puzzle challenge. Players focus on strategic jewel alignment and combo creation to advance through increasingly complex grids, testing pattern recognition and planning skills. Timed levels and special gem effects add layers of gameplay depth to keep casual players entertained.\n\nKey Features\n\n• Jewel swapping core mechanic  \n• Pattern matching combos  \n• Increasing difficulty grids  \n• Timed challenge modes  \n• Colorful gem visuals"
+},
+{
 "id": "candy-jewels",
 "title": "Candy Jewels",
 "iframe": "https://html5.gamedistribution.com/139b8e0290914556898663a6f2311817/",
