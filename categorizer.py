@@ -298,23 +298,6 @@ class CategorizerApp(tk.Tk):
         for item in self.tree.get_children():
             self.tree.delete(item)
 
-    def sort_matched_keywords_alphabetically(self):
-        items = list(self.tree.get_children())
-        if not items:
-            return
-
-        def sort_key(iid):
-            vals = self.tree.item(iid, "values")
-            match_keyword = str(vals[2]).strip().lower() if len(vals) > 2 else ""
-            title = str(vals[1]).strip().lower() if len(vals) > 1 else ""
-            gid = str(vals[0]).strip().lower() if len(vals) > 0 else ""
-            return (match_keyword, title, gid)
-
-        items.sort(key=sort_key)
-
-        for index, iid in enumerate(items):
-            self.tree.move(iid, "", index)
-
     def get_selected_category_filename(self) -> str:
         sel = self.cat_listbox.curselection()
         if not sel:
@@ -478,7 +461,6 @@ class CategorizerApp(tk.Tk):
             )
             candidates += 1
 
-        self.sort_matched_keywords_alphabetically()
         self.set_status(f"Scan done. candidates={candidates} skipped_current={skipped_self}")
 
     def on_select(self, event=None):
@@ -577,7 +559,6 @@ class CategorizerApp(tk.Tk):
                 else:
                     errors += 1
 
-        self.sort_matched_keywords_alphabetically()
         self.set_status(f"Move selected done. moved={moved} skipped={skipped} errors={errors}")
 
     def move_all(self):
@@ -610,7 +591,6 @@ class CategorizerApp(tk.Tk):
                 else:
                     errors += 1
 
-        self.sort_matched_keywords_alphabetically()
         self.set_status(f"Move all done. moved={moved} skipped={skipped} errors={errors}")
 
 
