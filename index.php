@@ -17,14 +17,6 @@
 <section class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>">
 <h1><?php echo h($h1); ?></h1>
 <p><?php echo $desc; ?></p>
-<?php if (!empty($featuredItems)): ?>
-<h2>Exclusive Games</h2>
-<ul class="series">
-<?php foreach (array_slice($featuredItems, 0, 6) as $g): ?>
-<li><a class="tag" style="background-image: url(<?php echo h($g['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($g['id']); ?>&c=<?php echo rawurlencode($g['category']); ?>"><?php echo h($g['title']); ?></a></li>
-<?php endforeach; ?>
-</ul>
-<?php endif; ?>
 <?php if ($pageNum === 1 && $seriesBlocks): ?>
 <h2><?php echo h($cat['name']); ?> Game Series</h2>
 <?php foreach ($seriesBlocks as $cluster): ?>
@@ -48,6 +40,11 @@
 </nav>
 <?php endif; ?>
 <section class="grid">
+<?php if (!empty($featuredItems)): ?>
+<?php foreach (array_slice($featuredItems, 0, 6) as $g): ?>
+<a class="thumbnail" style="background-image: url(<?php echo h($g['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($g['id']); ?>&c=<?php echo rawurlencode($g['category']); ?>"><span class="<?php echo rawurlencode($g['category']); ?>"><?php echo h($g['title']); ?></span></a>
+<?php endforeach; ?>
+<?php endif; ?>
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
