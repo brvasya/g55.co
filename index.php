@@ -41,7 +41,7 @@
 <?php endif; ?>
 <section class="grid">
 <?php if (!empty($featuredItems)): ?>
-<?php foreach (array_slice($featuredItems, 0, 6) as $g): ?>
+<?php foreach ($featuredItems as $g): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($g['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($g['id']); ?>&c=<?php echo rawurlencode($g['category']); ?>"><span class="<?php echo rawurlencode($g['category']); ?>"><?php echo h($g['title']); ?></span></a>
 <?php endforeach; ?>
 <?php endif; ?>
