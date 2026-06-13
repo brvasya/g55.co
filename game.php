@@ -45,7 +45,7 @@
 <nav class="cluster">
 <h2>More <?php echo h($currentSeriesTitle) ?> Games</h2>
 <ul class="series">
-<?php foreach (array_slice($seriesLinks, 0, 6) as $p): ?>
+<?php foreach ($seriesLinks as $p): ?>
 <li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a></li>
 <?php endforeach; ?>
 </ul>
