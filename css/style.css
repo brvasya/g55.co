@@ -121,15 +121,6 @@ p {
     margin: 0;
     padding: 0;
 }
-.description.c .grid {
-    padding: 0;
-    flex-wrap: unset;
-}
-.description.c .thumbnail {
-    flex: auto;
-    width: 170px;
-    border: 3px solid #222;
-}
 .description.c .series {
     margin: 0;
 }
@@ -334,9 +325,6 @@ h1 {
     width: unset;
     padding: unset;
     background-size: 0;
-}
-.description.c .grid {
-    flex-wrap: wrap;
 }
 .logo {
     margin: 0 auto;
