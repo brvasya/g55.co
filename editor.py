@@ -357,7 +357,6 @@ class JsonGui(tk.Tk):
         self.search_matches = []
         self.search_pos = -1
         self.last_search_query = ""
-        self.last_search_field = "title"
 
         self.files = list_all_editable_files()
 
@@ -471,18 +470,7 @@ class JsonGui(tk.Tk):
         search_entry.grid(row=1, column=0, sticky="we", padx=(0, 6))
         search_entry.bind("<Return>", lambda e: self.search_current_field())
 
-        self.search_field_var = tk.StringVar(value="title")
-        self.search_field_combo = ttk.Combobox(
-            search,
-            textvariable=self.search_field_var,
-            values=["title", "iframe"],
-            state="readonly",
-            width=10,
-        )
-        self.search_field_combo.grid(row=1, column=1, sticky="e", padx=(0, 6))
-        self.search_field_combo.bind("<<ComboboxSelected>>", lambda e: self.reset_search_state())
-
-        ttk.Button(search, text="Find", command=self.search_current_field).grid(row=1, column=2, sticky="e")
+        ttk.Button(search, text="Find", command=self.search_current_field).grid(row=1, column=1, sticky="e")
 
         ttk.Label(right, textvariable=self.status_var).pack(anchor="w", pady=(10, 0))
 
@@ -501,7 +489,6 @@ class JsonGui(tk.Tk):
         self.search_matches = []
         self.search_pos = -1
         self.last_search_query = ""
-        self.last_search_field = self.search_field_var.get().strip().lower() or "title"
 
     def copy_title(self):
         value = self.title_var.get().strip()
@@ -547,8 +534,6 @@ class JsonGui(tk.Tk):
             self.open_iframe_btn.grid_remove()
             self.desc_label.grid()
             self.desc_text.grid()
-            self.search_field_combo["values"] = ["title"]
-            self.search_field_var.set("title")
         else:
             self.name_title_label.config(text="Title")
             self.iframe_label.grid()
@@ -556,9 +541,6 @@ class JsonGui(tk.Tk):
             self.open_iframe_btn.grid()
             self.desc_label.grid()
             self.desc_text.grid()
-            self.search_field_combo["values"] = ["title", "iframe"]
-            if self.search_field_var.get().strip().lower() not in {"title", "iframe"}:
-                self.search_field_var.set("title")
         self.reset_search_state()
 
     def update_page_match_status(self, prefix: str = ""):
@@ -810,12 +792,9 @@ class JsonGui(tk.Tk):
         else:
             self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
 
-    def get_search_value(self, item, field_name: str) -> str:
-        field_name = (field_name or "title").strip().lower()
+    def get_search_value(self, item) -> str:
         if self.is_root_categories_mode():
             return str(item.get("name", "")).strip().lower()
-        if field_name == "iframe":
-            return str(item.get("iframe", "")).strip().lower()
         return str(item.get("title", "")).strip().lower()
 
     def search_current_field(self):
@@ -824,21 +803,17 @@ class JsonGui(tk.Tk):
             messagebox.showwarning("Missing query", "Enter text to search.")
             return
 
-        search_field = self.search_field_var.get().strip().lower() or "title"
-        if self.is_root_categories_mode():
-            search_field = "title"
-
-        if query != self.last_search_query or search_field != self.last_search_field:
+        if query != self.last_search_query:
             self.search_matches = [
                 idx for idx, it in enumerate(self.items)
-                if query in self.get_search_value(it, search_field)
+                if query in self.get_search_value(it)
             ]
             self.search_pos = -1
             self.last_search_query = query
-            self.last_search_field = search_field
 
         if not self.search_matches:
-            messagebox.showinfo("Not found", f"No item found in {search_field} containing:\n{query}")
+            label = "name" if self.is_root_categories_mode() else "title"
+            messagebox.showinfo("Not found", f"No item found by {label} containing:\n{query}")
             self.set_status("No matches found")
             return
 
@@ -846,8 +821,9 @@ class JsonGui(tk.Tk):
         target_idx = self.search_matches[self.search_pos]
         self.goto_index(target_idx)
 
+        label = "name" if self.is_root_categories_mode() else "title"
         self.set_status(
-            f"Found {len(self.search_matches)} match(es) in {search_field}   Showing {self.search_pos + 1}/{len(self.search_matches)}"
+            f"Found {len(self.search_matches)} match(es) by {label}   Showing {self.search_pos + 1}/{len(self.search_matches)}"
         )
 
     def build_game_description_rule(self, game_title: str, category: str) -> str:
