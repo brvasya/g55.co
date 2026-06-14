@@ -82,7 +82,7 @@
 {
 "id": "casual",
 "name": "Casual",
-"description": "Educational games focus on developing cognitive skills, improving academic abilities, and reinforcing structured learning through interactive problem solving mechanics. Players practice numerical reasoning, language comprehension, and knowledge recall while progressing through structured challenges that simulate classroom style learning environments. Cognitive training connects to numerical logic in <a href='/?c=math'>math games</a>, vocabulary development in <a href='/?c=word'>word games</a>, and knowledge testing scenarios across <a href='/?c=quiz'>quiz games</a>. These browser educational experiences emphasize skill progression loops, mental training systems, and structured learning pacing suited for focused online play."
+"description": "Casual Games focus on tapping, matching, sorting, stacking, and completing simple objectives through easy to learn gameplay systems. This category includes a wide variety of quick play experiences built around accessible controls, short sessions, and straightforward progression. Players can solve light puzzles, organize objects, manage simple tasks, and enjoy relaxing challenges without complex rules. Popular subcategories include <a href='/?c=sorting'>sorting games</a> and <a href='/?c=stack'>stack games</a>, alongside match based challenges and idle gameplay systems that offer a broad range of approachable gaming experiences."
 },
 {
 "id": "cat",
@@ -292,7 +292,7 @@
 {
 "id": "math",
 "name": "Math",
-"description": "Math games focus on solving numerical challenges in <a href='/?c=educational'>educational games</a> where players calculate values, recognize patterns, and apply logic through structured problem solving mechanics. These experiences emphasize reasoning and skill building similar to <a href='/?c=word'>word games</a>, requiring focus, accuracy, and progression through increasing difficulty. Gameplay centers on step by step solutions and cognitive development through numbers."
+"description": "Math games focus on solving numerical challenges where players calculate values, recognize patterns, and apply logic through structured problem solving mechanics. These experiences emphasize reasoning and skill building similar to <a href='/?c=word'>word games</a>, requiring focus, accuracy, and progression through increasing difficulty. Gameplay centers on step by step solutions and cognitive development through numbers."
 },
 {
 "id": "memory",
@@ -377,7 +377,7 @@
 {
 "id": "quiz",
 "name": "Quiz",
-"description": "Quiz games focus on knowledge testing in <a href='/?c=educational'>educational games</a> where players answer questions, recall information, and progress through structured challenge formats. These experiences emphasize memory and comprehension similar to <a href='/?c=word'>word games</a>, requiring quick thinking and accuracy. Gameplay centers on answering correctly, tracking progress, and advancing through topic based scenarios."
+"description": "Quiz games focus on knowledge testing where players answer questions, recall information, and progress through structured challenge formats. These experiences emphasize memory and comprehension similar to <a href='/?c=word'>word games</a>, requiring quick thinking and accuracy. Gameplay centers on answering correctly, tracking progress, and advancing through topic based scenarios."
 },
 {
 "id": "racing",
@@ -437,7 +437,7 @@
 {
 "id": "sorting",
 "name": "Sorting",
-"description": "Sorting games focus on arranging elements in <a href='/?c=puzzle'>puzzle games</a> where players organize objects, reorder sequences, and group items through logic driven interaction mechanics. These experiences emphasize structure and placement similar to <a href='/?c=jigsaw'>jigsaw games</a>, requiring attention to order and visual alignment. Gameplay centers on organizing elements correctly and progressing through increasingly complex arrangements."
+"description": "Sorting games focus on arranging elements where players organize objects, reorder sequences, and group items through logic driven interaction mechanics. These experiences emphasize structure and placement similar to <a href='/?c=stack'>stack games</a>, requiring attention to order and visual alignment. Gameplay centers on organizing elements correctly and progressing through increasingly complex arrangements."
 },
 {
 "id": "sports",
@@ -452,7 +452,7 @@
 {
 "id": "stack",
 "name": "Stack",
-"description": "Stack games focus on building vertical structures in <a href='/?c=puzzle'>puzzle games</a> where players place objects, balance blocks, and align elements through precision timing mechanics. These experiences emphasize spatial arrangement and structure building similar to <a href='/?c=sorting'>sorting games</a>, requiring careful positioning and stability control. Gameplay centers on stacking elements correctly and progressing through increasingly difficult balance challenges."
+"description": "Stack games focus on building vertical structures where players place objects, balance blocks, and align elements through precision timing mechanics. These experiences emphasize spatial arrangement and structure building similar to <a href='/?c=sorting'>sorting games</a>, requiring careful positioning and stability control. Gameplay centers on stacking elements correctly and progressing through increasingly difficult balance challenges."
 },
 {
 "id": "stickman",
@@ -517,7 +517,7 @@
 {
 "id": "word",
 "name": "Word",
-"description": "Word games focus on language based challenges in <a href='/?c=educational'>educational games</a> where players form words, expand vocabulary, and solve puzzles through structured interaction mechanics. These experiences emphasize comprehension and recall similar to <a href='/?c=quiz'>quiz games</a>, combining knowledge with problem solving. Gameplay centers on spelling accuracy, vocabulary growth, and progression through language based tasks."
+"description": "Word games focus on language based challenges where players form words, expand vocabulary, and solve puzzles through structured interaction mechanics. These experiences emphasize comprehension and recall similar to <a href='/?c=quiz'>quiz games</a>, combining knowledge with problem solving. Gameplay centers on spelling accuracy, vocabulary growth, and progression through language based tasks."
 },
 {
 "id": "zombie",
