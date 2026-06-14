@@ -1,3 +1,214 @@
 {
-"pages": []
+"pages": [
+{
+"id": "sudoku-brain-blocks",
+"title": "Sudoku Brain Blocks",
+"iframe": "https://html5.gamedistribution.com/cd86994bb8a44da48354779bdc56e8f8/",
+"description": ""
+},
+{
+"id": "sudoku",
+"title": "Sudoku",
+"iframe": "https://html5.gamedistribution.com/f10741d38dc54325b4385bb3e632ee59/",
+"description": ""
+},
+{
+"id": "sudoku-vault",
+"title": "Sudoku Vault",
+"iframe": "https://html5.gamedistribution.com/abdcf6513abb494ebea7cb79e846fa11/",
+"description": ""
+},
+{
+"id": "queens-royal-sudoku-puzzle",
+"title": "Queens Royal: Sudoku Puzzle",
+"iframe": "https://html5.gamedistribution.com/60f0c13b4bbc412eb0c3bb9479f10fc4/",
+"description": ""
+},
+{
+"id": "sudoku-relax",
+"title": "Sudoku Relax",
+"iframe": "https://html5.gamedistribution.com/d0e9a0e909c14db78153188dc91ef365/",
+"description": ""
+},
+{
+"id": "sudoku-garden",
+"title": "Sudoku Garden",
+"iframe": "https://html5.gamedistribution.com/45ee0f9898f8401c8961ff506e88fbe0/",
+"description": ""
+},
+{
+"id": "sudoku-guru-classic-sudoku",
+"title": "Sudoku Guru - classic sudoku",
+"iframe": "https://html5.gamedistribution.com/7df27a68c4d54b2b832d3b2500609818/",
+"description": ""
+},
+{
+"id": "sudoku-master",
+"title": "Sudoku Master",
+"iframe": "https://html5.gamedistribution.com/e7bf98a6a5924866a8b103a67fb651b3/",
+"description": ""
+},
+{
+"id": "daily-sudoku",
+"title": "Daily Sudoku",
+"iframe": "https://html5.gamedistribution.com/dd9701cd84da40699cdc404645f29c1f/",
+"description": ""
+},
+{
+"id": "ultimate-sudoku",
+"title": "Ultimate Sudoku",
+"iframe": "https://html5.gamedistribution.com/b301966b8fa6449ea4f5676545da33ca/",
+"description": ""
+},
+{
+"id": "sudoku-4-in-1",
+"title": "Sudoku 4 in 1",
+"iframe": "https://html5.gamedistribution.com/a8fa00ff06324356ba6e23938b9727a5/",
+"description": ""
+},
+{
+"id": "classic-sudoku-puzzle",
+"title": "Classic Sudoku Puzzle",
+"iframe": "https://html5.gamedistribution.com/9ec319450435426daa47f50331d8e3dc/",
+"description": ""
+},
+{
+"id": "sudoku-blocks",
+"title": "Sudoku Blocks",
+"iframe": "https://html5.gamedistribution.com/cefdee07fa214ae0b94da28b7f9d4058/",
+"description": ""
+},
+{
+"id": "sudoku-challenges",
+"title": "Sudoku Challenges",
+"iframe": "https://html5.gamedistribution.com/22970fecd81240ae9275e8d30129bd78/",
+"description": ""
+},
+{
+"id": "new-daily-sudoku",
+"title": "New Daily Sudoku",
+"iframe": "https://html5.gamedistribution.com/26e89487be5e44bb952571c398c5d626/",
+"description": ""
+},
+{
+"id": "well-sudoku",
+"title": "Well Sudoku",
+"iframe": "https://html5.gamedistribution.com/acd552aabf5c41c2ad76fd1769d5ab93/",
+"description": ""
+},
+{
+"id": "sudoku-royal",
+"title": "Sudoku Royal",
+"iframe": "https://html5.gamedistribution.com/a96d640dadf44c58a4415ec488926a58/",
+"description": ""
+},
+{
+"id": "amazing-sudoku",
+"title": "Amazing Sudoku",
+"iframe": "https://html5.gamedistribution.com/213a46b8918246c89547cb1e6e633378/",
+"description": ""
+},
+{
+"id": "sudoku-village",
+"title": "Sudoku Village",
+"iframe": "https://html5.gamedistribution.com/2625fa22f02b461eb45b4dff282c70b8/",
+"description": ""
+},
+{
+"id": "xmas-2020-sudoku",
+"title": "Xmas 2020 Sudoku",
+"iframe": "https://html5.gamedistribution.com/be0bc653d31d49fca70165b0af69edcb/",
+"description": ""
+},
+{
+"id": "sudoku-classic",
+"title": "Sudoku Classic",
+"iframe": "https://html5.gamedistribution.com/cbb50b90ed904252849de31f7647a0e7/",
+"description": ""
+},
+{
+"id": "arkadium-s-sudoku",
+"title": "Arkadium's Sudoku",
+"iframe": "https://html5.gamedistribution.com/db19de05fe2f49d79f192cf73312c3ec/",
+"description": ""
+},
+{
+"id": "master-sudoku",
+"title": "Master Sudoku",
+"iframe": "https://html5.gamedistribution.com/581c40df17cc46ab8f7f1921c0c23813/",
+"description": ""
+},
+{
+"id": "xmas-sudoku",
+"title": "Xmas Sudoku",
+"iframe": "https://html5.gamedistribution.com/3e705b6526514a8d804f292da45083aa/",
+"description": ""
+},
+{
+"id": "fruit-sudoku",
+"title": "Fruit Sudoku",
+"iframe": "https://html5.gamedistribution.com/f6d5d377237a4b5a978598ddc07a869c/",
+"description": ""
+},
+{
+"id": "sudoku-challenge",
+"title": "Sudoku Challenge",
+"iframe": "https://html5.gamedistribution.com/543926bd27414ff0ba632ec634409676/",
+"description": ""
+},
+{
+"id": "libelle-sudoku",
+"title": "Libelle Sudoku",
+"iframe": "https://html5.gamedistribution.com/9fbc51ea9f3941ebbd50667bbeb1e6e9/",
+"description": ""
+},
+{
+"id": "quick-sudoku",
+"title": "Quick Sudoku",
+"iframe": "https://html5.gamedistribution.com/c62ced3539b74e148cb7d8b63a224942/",
+"description": ""
+},
+{
+"id": "smart-sudoku",
+"title": "Smart Sudoku",
+"iframe": "https://html5.gamedistribution.com/9473e43b5d5c4e2eb5a57bc3f8075eda/",
+"description": ""
+},
+{
+"id": "sudoku-daily",
+"title": "Sudoku Daily",
+"iframe": "https://html5.gamedistribution.com/f21530a41fcc4719b8610d2e648f27db/",
+"description": ""
+},
+{
+"id": "fgp-sudoku",
+"title": "FGP Sudoku",
+"iframe": "https://html5.gamedistribution.com/8f41a80064d3435fae16fcb4906b0321/",
+"description": ""
+},
+{
+"id": "super-sudoku",
+"title": "Super Sudoku",
+"iframe": "https://html5.gamedistribution.com/7ebd9713cf7d41be80c5d8b8c87786fa/",
+"description": ""
+},
+{
+"id": "sudoku-deluxe",
+"title": "Sudoku Deluxe",
+"iframe": "https://html5.gamedistribution.com/d213abe854d74cdda9e613644fb7a58c/",
+"description": ""
+},
+{
+"id": "sudoku-hawaii",
+"title": "Sudoku Hawaii",
+"iframe": "https://html5.gamedistribution.com/ae5e6af263e84ae3840b9e5160fef9eb/",
+"description": ""
+},
+{
+"id": "sudoku-express",
+"title": "Sudoku Express",
+"iframe": "https://html5.gamedistribution.com/4b90ab67132541568b1389b01bae8e26/",
+"description": ""
+}
+]
 }

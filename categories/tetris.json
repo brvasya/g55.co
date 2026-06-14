@@ -1,3 +1,40 @@
 {
-"pages": []
+"pages": [
+{
+"id": "super-tetris",
+"title": "Super Tetris",
+"iframe": "https://html5.gamedistribution.com/7896853578964f9c805bfcaaeeb4621c/",
+"description": ""
+},
+{
+"id": "tetris-mobile",
+"title": "Tetris Mobile",
+"iframe": "https://html5.gamedistribution.com/693096f78de24a34b44281a3954f35a3/",
+"description": ""
+},
+{
+"id": "falling-blocks-the-tetris-game",
+"title": "Falling Blocks the Tetris Game",
+"iframe": "https://html5.gamedistribution.com/71a40179cccc4c55a547f7382507fb6f/",
+"description": ""
+},
+{
+"id": "hyper-block-tetris-party",
+"title": "Hyper Block Tetris Party",
+"iframe": "https://html5.gamedistribution.com/3a607b721dab4cd49dfaad2ac5aa65b0/",
+"description": ""
+},
+{
+"id": "tetris-game-boy",
+"title": "Tetris Game Boy",
+"iframe": "https://html5.gamedistribution.com/17dc4babd856419dbb7a82f88e7578c0/",
+"description": ""
+},
+{
+"id": "tetris",
+"title": "Tetris",
+"iframe": "https://html5.gamedistribution.com/647536adcfa040668029eae70c72ce33/",
+"description": ""
+}
+]
 }

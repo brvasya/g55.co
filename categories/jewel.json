@@ -1,3 +1,430 @@
 {
-"pages": []
+"pages": [
+{
+"id": "fallling-jewels",
+"title": "Fallling Jewels",
+"iframe": "https://html5.gamedistribution.com/5dc9d72665e540619e3fa741124e7462/",
+"description": ""
+},
+{
+"id": "jewel-coloring",
+"title": "Jewel Coloring",
+"iframe": "https://html5.gamedistribution.com/fe81d3ecbf5540ca8d9fe39387635d8a/",
+"description": ""
+},
+{
+"id": "jewel-link",
+"title": "Jewel Link",
+"iframe": "https://html5.gamedistribution.com/21987ef4d4284d32b1bd2aef62f47782/",
+"description": ""
+},
+{
+"id": "candy-jewels",
+"title": "Candy Jewels",
+"iframe": "https://html5.gamedistribution.com/139b8e0290914556898663a6f2311817/",
+"description": ""
+},
+{
+"id": "jewels-blitz-legends",
+"title": "Jewels Blitz Legends",
+"iframe": "https://html5.gamedistribution.com/36cb9c95a60244d4899f6d79210e7f4d/",
+"description": ""
+},
+{
+"id": "block-blast-jewel-puzzle",
+"title": "Block Blast Jewel Puzzle",
+"iframe": "https://html5.gamedistribution.com/a1d4210845b540cd8736054c5232e454/",
+"description": ""
+},
+{
+"id": "pyramid-jewels",
+"title": "Pyramid Jewels",
+"iframe": "https://html5.gamedistribution.com/e040188f8179433b8923aef12c9bbeee/",
+"description": ""
+},
+{
+"id": "jewel-solitaire-tripeaks",
+"title": "Jewel Solitaire TriPeaks",
+"iframe": "https://html5.gamedistribution.com/89ab5569df404db3bb93f31a890c24e8/",
+"description": ""
+},
+{
+"id": "sword-and-jewel",
+"title": "Sword and Jewel",
+"iframe": "https://html5.gamedistribution.com/cfa31c4f1ac04ead8c5a32db674704cd/",
+"description": ""
+},
+{
+"id": "shiny-jewels",
+"title": "Shiny Jewels",
+"iframe": "https://html5.gamedistribution.com/898713a9e3244fc08fd29653a08e9fe7/",
+"description": ""
+},
+{
+"id": "daily-jewels-blitz-mahjong",
+"title": "Daily Jewels Blitz Mahjong",
+"iframe": "https://html5.gamedistribution.com/6b304c32cecb431fbafcd577dda24314/",
+"description": ""
+},
+{
+"id": "brilliant-jewels",
+"title": "Brilliant Jewels",
+"iframe": "https://html5.gamedistribution.com/888bd880be4e48439b42ddadf2e42a91/",
+"description": ""
+},
+{
+"id": "royal-jewels-match",
+"title": "Royal Jewels Match",
+"iframe": "https://html5.gamedistribution.com/96dbf0d0323d48399eeea3a131b63c5a/",
+"description": ""
+},
+{
+"id": "jewel-miner-quest",
+"title": "Jewel Miner Quest",
+"iframe": "https://html5.gamedistribution.com/913789b18a784d2e8fe991880a0ec5c0/",
+"description": ""
+},
+{
+"id": "jewel-garden-story",
+"title": "Jewel Garden Story",
+"iframe": "https://html5.gamedistribution.com/88ba354c811f4ef8b6431874e7c166e4/",
+"description": ""
+},
+{
+"id": "jewel-legend-quest",
+"title": "Jewel Legend Quest",
+"iframe": "https://html5.gamedistribution.com/bf8673b9e69f44e2b89dd950a41080fa/",
+"description": ""
+},
+{
+"id": "dreamy-jewel",
+"title": "Dreamy Jewel",
+"iframe": "https://html5.gamedistribution.com/5fbd971524e04558adc5b3031b0f430c/",
+"description": ""
+},
+{
+"id": "jewel-art",
+"title": "Jewel Art",
+"iframe": "https://html5.gamedistribution.com/674eb5e61e054a16910b8bb6d5ac1fee/",
+"description": ""
+},
+{
+"id": "jewel-royal-saga",
+"title": "Jewel Royal Saga",
+"iframe": "https://html5.gamedistribution.com/36c6d28d84664ea5b0633619a1a76dee/",
+"description": ""
+},
+{
+"id": "jewels-blitz-3",
+"title": "Jewels Blitz 3",
+"iframe": "https://html5.gamedistribution.com/b158f452a77c4a888787fe8aefd69298/",
+"description": ""
+},
+{
+"id": "jewel-block",
+"title": "Jewel Block",
+"iframe": "https://html5.gamedistribution.com/16882be2fefa4ea6a2d656e7ec4e5a06/",
+"description": ""
+},
+{
+"id": "jewels-blitz-6",
+"title": "Jewels Blitz 6",
+"iframe": "https://html5.gamedistribution.com/bbd9c393a8b14f50aa19715f33ea50dc/",
+"description": ""
+},
+{
+"id": "jewels-kyodai-mahjong",
+"title": "Jewels Kyodai Mahjong",
+"iframe": "https://html5.gamedistribution.com/6fcd1f12261346e5bb6302fa08b1de8d/",
+"description": ""
+},
+{
+"id": "kitty-jewel-quest",
+"title": "Kitty Jewel Quest",
+"iframe": "https://html5.gamedistribution.com/600273f1c98545c6bc98bfa9e5e80f0a/",
+"description": ""
+},
+{
+"id": "pop-jewels",
+"title": "Pop Jewels",
+"iframe": "https://html5.gamedistribution.com/5e5f92faa2534d97bf064f6564222c4d/",
+"description": ""
+},
+{
+"id": "temple-jewels",
+"title": "Temple Jewels",
+"iframe": "https://html5.gamedistribution.com/a2cd97ec5bb64d81b85857df4ff35591/",
+"description": ""
+},
+{
+"id": "jewels-classic",
+"title": "Jewels Classic",
+"iframe": "https://html5.gamedistribution.com/50f33402b428499b80c1222cc33cb067/",
+"description": ""
+},
+{
+"id": "jewel-treasure",
+"title": "Jewel Treasure",
+"iframe": "https://html5.gamedistribution.com/6b71d0ad777b433cac6bd50fc5014d62/",
+"description": ""
+},
+{
+"id": "jungle-jewels-connect",
+"title": "Jungle Jewels Connect",
+"iframe": "https://html5.gamedistribution.com/c1d11e9124a847dbbe1075c5968129d0/",
+"description": ""
+},
+{
+"id": "jewel-christmas-story",
+"title": "Jewel Christmas Story",
+"iframe": "https://html5.gamedistribution.com/c3ce9bfdcdba45248f0267adbb65c6de/",
+"description": ""
+},
+{
+"id": "jewel-halloween",
+"title": "Jewel Halloween",
+"iframe": "https://html5.gamedistribution.com/8b3aef2aab6a4e8a9e08cae82ce010f7/",
+"description": ""
+},
+{
+"id": "jewels-blitz-5",
+"title": "Jewels Blitz 5",
+"iframe": "https://html5.gamedistribution.com/0dd92ae2a7214f289608049167f2ebd4/",
+"description": ""
+},
+{
+"id": "amazing-jewel",
+"title": "Amazing Jewel",
+"iframe": "https://html5.gamedistribution.com/b8660b2fb0174363ab485763f7fa6aa3/",
+"description": ""
+},
+{
+"id": "jewel-monsters",
+"title": "Jewel Monsters",
+"iframe": "https://html5.gamedistribution.com/d448b5a313a646c3b8732d3bd0f3b217/",
+"description": ""
+},
+{
+"id": "jewel-christmas-mania",
+"title": "Jewel Christmas Mania",
+"iframe": "https://html5.gamedistribution.com/fe07ebdaa570411891e9381f2b415e06/",
+"description": ""
+},
+{
+"id": "jewels-blitz-4",
+"title": "Jewels Blitz 4",
+"iframe": "https://html5.gamedistribution.com/9227816b3df6466fbbd44f4a95f66637/",
+"description": ""
+},
+{
+"id": "jewel-miner",
+"title": "Jewel Miner",
+"iframe": "https://html5.gamedistribution.com/0f7c57b42dbc44e3b4f1e3fd00e524ae/",
+"description": ""
+},
+{
+"id": "jewels-connect",
+"title": "Jewels Connect",
+"iframe": "https://html5.gamedistribution.com/a61f0f4777b74cd89c8f7cb622ba9540/",
+"description": ""
+},
+{
+"id": "jewels-mine",
+"title": "Jewels Mine",
+"iframe": "https://html5.gamedistribution.com/523999c927484d01b859e5218957f2c3/",
+"description": ""
+},
+{
+"id": "jewel-magic",
+"title": "Jewel Magic",
+"iframe": "https://html5.gamedistribution.com/3489a5bce1ca4475a0114307ee61436b/",
+"description": ""
+},
+{
+"id": "winter-jewels-saga",
+"title": "Winter Jewels Saga",
+"iframe": "https://html5.gamedistribution.com/4fe2727806ea4f72b926df94c174a30d/",
+"description": ""
+},
+{
+"id": "super-candy-jewels",
+"title": "Super Candy Jewels",
+"iframe": "https://html5.gamedistribution.com/6503629b90154938bf88cc4dd1abee77/",
+"description": ""
+},
+{
+"id": "super-jewel-collapse",
+"title": "Super Jewel Collapse",
+"iframe": "https://html5.gamedistribution.com/cfdf7e12a7824cd8b9aea2e942c9f40f/",
+"description": ""
+},
+{
+"id": "jewels-and-monster",
+"title": "Jewels And Monster",
+"iframe": "https://html5.gamedistribution.com/26f11211d8fa496b8d91d1c63da0c26d/",
+"description": ""
+},
+{
+"id": "block-jewel-puzzle",
+"title": "Block Jewel Puzzle",
+"iframe": "https://html5.gamedistribution.com/49329bf6a79f47b2afe3a48249f97459/",
+"description": ""
+},
+{
+"id": "arkadium-s-jewel-shuffle",
+"title": "Arkadium's Jewel Shuffle",
+"iframe": "https://html5.gamedistribution.com/c243d582cdca401db63b1e38e5a6e8ff/",
+"description": ""
+},
+{
+"id": "jewel-blocks-puzzle",
+"title": "Jewel Blocks Puzzle",
+"iframe": "https://html5.gamedistribution.com/63cc8dbd4fc24b12aea98e79869af8cd/",
+"description": ""
+},
+{
+"id": "hot-jewels-adventure",
+"title": "Hot Jewels Adventure",
+"iframe": "https://html5.gamedistribution.com/d28cb3d6133b459db95220c9dd71af95/",
+"description": ""
+},
+{
+"id": "jewels-matching-deluxe",
+"title": "Jewels Matching Deluxe",
+"iframe": "https://html5.gamedistribution.com/6b4af5baa2b34d2d9e881852e1192af3/",
+"description": ""
+},
+{
+"id": "jewel-pets-match",
+"title": "Jewel Pets Match",
+"iframe": "https://html5.gamedistribution.com/e8cd110d09fe4654821162dcd100b75d/",
+"description": ""
+},
+{
+"id": "jewel-and-santa-claus",
+"title": "Jewel And Santa Claus",
+"iframe": "https://html5.gamedistribution.com/46eee09255f440e090efa4c78c2ae9da/",
+"description": ""
+},
+{
+"id": "jewels-blocks-puzzle",
+"title": "Jewels Blocks Puzzle",
+"iframe": "https://html5.gamedistribution.com/533a0ab3cd7b45998640c5f3463e76a1/",
+"description": ""
+},
+{
+"id": "pirate-bomber-jewel-hunter",
+"title": "Pirate Bomber: Jewel Hunter",
+"iframe": "https://html5.gamedistribution.com/91d98c2d65de4031864fb6ec8d513640/",
+"description": ""
+},
+{
+"id": "jewel-and-crazy-birds",
+"title": "Jewel And Crazy Birds",
+"iframe": "https://html5.gamedistribution.com/0d0e3ef1ae204daca5a824e530482d38/",
+"description": ""
+},
+{
+"id": "jewels-match3",
+"title": "Jewels Match3",
+"iframe": "https://html5.gamedistribution.com/386f4b4ed6d844ad8321d6235f96c631/",
+"description": ""
+},
+{
+"id": "tasty-jewel",
+"title": "Tasty Jewel",
+"iframe": "https://html5.gamedistribution.com/e8bee93a367e453dacd45cc41c79d583/",
+"description": ""
+},
+{
+"id": "eg-hot-jewels",
+"title": "EG Hot Jewels",
+"iframe": "https://html5.gamedistribution.com/ba8b9c5e8e9949cda4b6828709f29748/",
+"description": ""
+},
+{
+"id": "jewels-match",
+"title": "Jewels Match",
+"iframe": "https://html5.gamedistribution.com/3c9b6c6bd2b543d4be50beece4e63cff/",
+"description": ""
+},
+{
+"id": "jewel-legend",
+"title": "Jewel Legend",
+"iframe": "https://html5.gamedistribution.com/bec536a37fc2415aaaa27357eb1348e0/",
+"description": ""
+},
+{
+"id": "jewel-crush",
+"title": "Jewel Crush",
+"iframe": "https://html5.gamedistribution.com/b31147a904b647f18bfd437e69a9b984/",
+"description": ""
+},
+{
+"id": "jewel-blocks",
+"title": "Jewel Blocks",
+"iframe": "https://html5.gamedistribution.com/ab36f0aed3a84d0fbd37dd4b859eea9c/",
+"description": ""
+},
+{
+"id": "jewel-pop",
+"title": "Jewel Pop",
+"iframe": "https://html5.gamedistribution.com/bf6a9e1a44d94aacbd9a4d405aa075d0/",
+"description": ""
+},
+{
+"id": "jewel-christmas",
+"title": "Jewel Christmas",
+"iframe": "https://html5.gamedistribution.com/6cb8cf6e5cc141fa932888fecbc2a946/",
+"description": ""
+},
+{
+"id": "jewel-magic-xmas",
+"title": "Jewel Magic Xmas",
+"iframe": "https://html5.gamedistribution.com/e10d5cadae2544b6889403722f7b354a/",
+"description": ""
+},
+{
+"id": "jewel-bubbles",
+"title": "Jewel Bubbles",
+"iframe": "https://html5.gamedistribution.com/223b54881b5a44f4ab0e60703516c968/",
+"description": ""
+},
+{
+"id": "jewel-aquarium",
+"title": "Jewel Aquarium",
+"iframe": "https://html5.gamedistribution.com/d23b3327f5304120afd196d9bc595d70/",
+"description": ""
+},
+{
+"id": "jewel-hunt",
+"title": "Jewel Hunt",
+"iframe": "https://html5.gamedistribution.com/f5a259af55ec4bd1974a23de2573afdd/",
+"description": ""
+},
+{
+"id": "jewel-explode",
+"title": "Jewel Explode",
+"iframe": "https://html5.gamedistribution.com/fd8a77a93efe4ba7866db4837640f472/",
+"description": ""
+},
+{
+"id": "mysterious-jewels",
+"title": "Mysterious Jewels",
+"iframe": "https://html5.gamedistribution.com/dc308c1aa4994c4aa4181bc4e8850f59/",
+"description": ""
+},
+{
+"id": "jewel-burst",
+"title": "Jewel Burst",
+"iframe": "https://html5.gamedistribution.com/49258a0e497c42b5b5d87887f24d27a6/",
+"description": ""
+},
+{
+"id": "jewel-curse",
+"title": "Jewel Curse",
+"iframe": "https://html5.gamedistribution.com/2bc1ccb7ed7547dd8c43da459bf99dd2/",
+"description": ""
+}
+]
 }
