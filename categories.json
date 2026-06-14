@@ -80,6 +80,11 @@
 "description": "Car games focus on driving vehicles in <a href='/?c=racing'>racing games</a> where players navigate tracks, manage speed, and compete through structured driving mechanics. These experiences emphasize vehicle handling and movement similar to <a href='/?c=driving'>driving games</a>, combining control with speed. Gameplay centers on track navigation, vehicle performance, and progression through racing challenges."
 },
 {
+"id": "casual",
+"name": "Casual",
+"description": "Educational games focus on developing cognitive skills, improving academic abilities, and reinforcing structured learning through interactive problem solving mechanics. Players practice numerical reasoning, language comprehension, and knowledge recall while progressing through structured challenges that simulate classroom style learning environments. Cognitive training connects to numerical logic in <a href='/?c=math'>math games</a>, vocabulary development in <a href='/?c=word'>word games</a>, and knowledge testing scenarios across <a href='/?c=quiz'>quiz games</a>. These browser educational experiences emphasize skill progression loops, mental training systems, and structured learning pacing suited for focused online play."
+},
+{
 "id": "cat",
 "name": "Cat",
 "description": "Cat games focus on controlling feline characters in <a href='/?c=animal'>animal games</a> where players explore environments, complete playful tasks, and interact with objects through movement and behavior based mechanics. These experiences emphasize agility and curiosity driven gameplay similar to <a href='/?c=dog'>dog games</a>, while also connecting to care and interaction systems found in <a href='/?c=pet'>pet games</a>. Gameplay centers on responsive actions, light challenges, and character focused exploration."
@@ -168,11 +173,6 @@
 "id": "easter",
 "name": "Easter",
 "description": "Easter Games focus on collecting items, exploring colorful levels, and completing themed objectives through matching mechanics, hidden object gameplay, and light puzzle systems. Players gather eggs, unlock rewards, and progress through spring environments using simple interaction loops suited for quick and accessible sessions. Comparable seasonal gameplay appears in <a href='/?c=christmas'>christmas games</a> with structured objectives and in <a href='/?c=halloween'>halloween games</a> that emphasize enemy driven challenges across casual browser experiences."
-},
-{
-"id": "educational",
-"name": "Educational",
-"description": "Educational games focus on developing cognitive skills, improving academic abilities, and reinforcing structured learning through interactive problem solving mechanics. Players practice numerical reasoning, language comprehension, and knowledge recall while progressing through structured challenges that simulate classroom style learning environments. Cognitive training connects to numerical logic in <a href='/?c=math'>math games</a>, vocabulary development in <a href='/?c=word'>word games</a>, and knowledge testing scenarios across <a href='/?c=quiz'>quiz games</a>. These browser educational experiences emphasize skill progression loops, mental training systems, and structured learning pacing suited for focused online play."
 },
 {
 "id": "escape",
