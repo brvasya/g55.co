@@ -362,7 +362,7 @@
 {
 "id": "platform",
 "name": "Platform",
-"description": "Platform games focus on navigating environments, overcoming obstacles, and progressing through levels using movement based gameplay mechanics. Players run, jump, and react to hazards while advancing through structured stages that require timing and coordination. Movement driven gameplay connects to speed based challenges in <a href='/?c=runner'>runner games</a>, precision traversal across <a href='/?c=parkour'>parkour games</a>, and timing focused challenges in <a href='/?c=jumping'>jumping games</a>. Continuous motion appears in <a href='/?c=rush'>rush games</a> and quick reaction sequences in <a href='/?c=dash'>dash games</a>, while classic movement survival is reflected in <a href='/?c=snake'>snake games</a>. These browser platform experiences emphasize control precision loops, obstacle avoidance systems, and progression based gameplay suited for engaging online play."
+"description": "Platform games focus on navigating environments, overcoming obstacles, and progressing through levels using movement based gameplay mechanics. Players run, jump, and react to hazards while advancing through structured stages that require timing and coordination. Movement driven gameplay connects to speed based challenges in <a href='/?c=runner'>runner games</a>, precision traversal across <a href='/?c=parkour'>parkour games</a>, and timing focused challenges in <a href='/?c=jumping'>jumping games</a>. Continuous motion appears in <a href='/?c=rush'>rush games</a> and quick reaction sequences in <a href='/?c=dash'>dash games</a>. These browser platform experiences emphasize control precision loops, obstacle avoidance systems, and progression based gameplay suited for engaging online play."
 },
 {
 "id": "pool",
@@ -422,7 +422,7 @@
 {
 "id": "snake",
 "name": "Snake",
-"description": "Snake games focus on continuous growth survival in <a href='/?c=platform'>platform games</a> where players guide a moving character, collect items, and avoid collisions through simple control mechanics. These experiences emphasize positioning and movement without relying on jumping or traversal systems. Gameplay centers on growing length, avoiding mistakes, and progressing through increasing difficulty."
+"description": "Snake games focus on continuous growth survival in <a href='/?c=casual'>casual games</a> where players guide a moving character, collect items, and avoid collisions through simple control mechanics. These experiences emphasize positioning and movement without relying on jumping or traversal systems. Gameplay centers on growing length, avoiding mistakes, and progressing through increasing difficulty."
 },
 {
 "id": "sniper",
