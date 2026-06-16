@@ -70,6 +70,11 @@
 "description": "Block Games focus on arranging, stacking, and clearing shapes through spatial challenges that reward planning and efficient moves. Players place blocks on grids, complete patterns, manage limited space, and solve increasingly complex layouts using logic driven mechanics. Many games feature row clearing systems, shape fitting objectives, and long tail gameplay styles such as block blast puzzles, block stacking challenges, and block placement strategy gameplay. This category connects naturally to broader <a href='/?c=puzzle'>puzzle games</a> while emphasizing pattern recognition, board management, and progression through structured puzzle levels."
 },
 {
+"id": "brain",
+"name": "Brain",
+"description": "Brain Games focus on solving logic challenges, training memory, and completing problem solving tasks through skill based thinking mechanics. Players analyze patterns, recognize sequences, calculate solutions, and make strategic decisions across increasingly complex levels. Many games feature number puzzles, memory challenges, word exercises, and long tail gameplay styles such as brain training activities and logic based puzzle solving. Players who enjoy these cognitive challenges can also explore <a href='/?c=puzzle'>puzzle games</a>, where reasoning, planning, and problem solving remain central to progression."
+},
+{
 "id": "bubble-shooter",
 "name": "Bubble Shooter",
 "description": "Bubble shooter games focus on projectile matching in <a href='/?c=matching'>matching games</a> where players aim, shoot, and connect colored bubbles to clear formations through physics based mechanics. These experiences emphasize accuracy and alignment without relying on board swapping systems. Gameplay centers on aiming precision, cluster clearing, and level based progression."
@@ -338,6 +343,11 @@
 "id": "noob",
 "name": "Noob",
 "description": "Noob games focus on character driven scenarios in <a href='/?c=minecraft'>minecraft games</a> where players interact with recognizable figures, complete tasks, and explore themed environments through simple gameplay mechanics. These experiences emphasize character interaction and playful progression without relying on complex building systems. Gameplay centers on guided actions, exploration, and engaging with familiar scenarios."
+},
+{
+"id": "obby",
+"name": "Obby",
+"description": "Obby Games focus on jumping across obstacles, avoiding hazards, and reaching checkpoints through precision movement challenges. Players navigate obstacle courses, time their jumps, and progress through increasingly difficult levels that test coordination and spatial awareness. Many games feature parkour inspired routes, moving platforms, multiplayer obstacle races, and long tail gameplay styles such as Roblox inspired obstacle course challenges. Fans of these skill based adventures can also explore <a href='/?c=platform'>platform games</a>, where timing, movement, and level progression remain central to the gameplay experience."
 },
 {
 "id": "offroad",

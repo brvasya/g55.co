@@ -1,12 +1,6 @@
 {
 "pages": [
 {
-"id": "obby-rescue-pin",
-"title": "Obby Rescue Pin",
-"iframe": "https://html5.gamedistribution.com/6465ba06644349ccab4cdd4e65196aef/",
-"description": "Navigate obstacle courses with precise timing and jumping to rescue trapped characters in challenging levels. The game features a classic obby platform style where players manipulate their avatar’s movement to overcome traps and hazards. Each stage tests agility and problem-solving, aiming to safely lead each captive to freedom while avoiding deadly pitfalls.\n\nKey Features\n\n• Precision jumping mechanics  \n• Character movement control  \n• Progressive obstacle difficulty  \n• Hostage rescue objectives  \n• Platforming hazard environments"
-},
-{
 "id": "knit-rescue",
 "title": "Knit Rescue",
 "iframe": "https://html5.gamedistribution.com/9e6715da90154d94b29dbd21f8258873/",
@@ -41,12 +35,6 @@
 "title": "Water Dig Rescue",
 "iframe": "https://html5.gamedistribution.com/4e840a9a7b45449d8655dbbc86b42bf3/",
 "description": "Navigate underground tunnels to manage water flow and perform timely rescues using dynamic pipe connection puzzles. The game challenges players to strategically rotate pipe segments to redirect water and prevent flooding hazards. Each level introduces tighter time limits and complex layouts, testing quick thinking and planning under pressure while exploring subterranean water systems.\n\nKey Features\n\n• Pipe rotation puzzle mechanics  \n• Water flow control strategy  \n• Increasingly complex level design  \n• Time pressure challenge system  \n• Subterranean rescue theme"
-},
-{
-"id": "obby-rescue-mission",
-"title": "Obby Rescue Mission",
-"iframe": "https://html5.gamedistribution.com/99b70a02a1814ef6a9f45d603f939e4c/",
-"description": "Navigate complex obstacle courses using precise timing and jumping mechanics to rescue stranded characters in this mission-based adventure. Players must overcome a variety of physical challenges involving platforming and environmental hazards while guiding allies to safety through escalating levels. Success depends on mastering movement and strategic positioning under pressure to complete each rescue.\n\nKey Features\n\n• Precision jumping challenges  \n• Ally escort and protection  \n• Progressive obstacle difficulty  \n• Time-based level objectives  \n• Environmental hazard interaction"
 },
 {
 "id": "rescue-hero",

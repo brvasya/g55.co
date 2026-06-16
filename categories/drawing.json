@@ -31,12 +31,6 @@
 "description": "Trace continuous lines to create unique drawings in this minimalist puzzle game. Players engage with smooth line-drawing controls as they navigate intricate templates to replicate precise shapes. The challenge lies in maintaining single-line continuity while unveiling each design. Progression advances through increasingly complex patterns that sharpen spatial awareness and dexterity.\n\nKey Features\n\n• Single-line drawing mechanic  \n• Mouse and touch input control  \n• Pattern replication challenges  \n• Level-based difficulty progression  \n• Minimalist graphical interface"
 },
 {
-"id": "brain-draw-line",
-"title": "Brain Draw Line",
-"iframe": "https://html5.gamedistribution.com/2f54e43a475543e0b05a5209e75a9d29/",
-"description": "Trace precise lines to connect points and solve spatial puzzles, relying on steady hand-drawn strokes and strategic path planning. Players must accurately navigate shapes and obstacles by drawing continuous lines without crossing boundaries, advancing through increasingly intricate levels of abstract design. The game challenges spatial reasoning with an emphasis on thoughtful line creation and progressive puzzle complexity.\n\nKey Features\n\n• Line drawing path mechanic  \n• Touch and drag control system  \n• Increasing puzzle difficulty curves  \n• Level progression with shape complexity  \n• Minimalist geometric puzzle setting"
-},
-{
 "id": "draw-to-fly",
 "title": "Draw To Fly",
 "iframe": "https://html5.gamedistribution.com/cdcd36514eee4fad99a0fbbf40ddf8ac/",
@@ -109,22 +103,10 @@
 "description": "Trace continuous lines across puzzle grids using precision drawing controls to connect nodes without lifting your pen. The game tests spatial reasoning and planning as you navigate increasingly tricky shapes that require a single uninterrupted stroke. Players aim to solve each level’s line-drawing challenge by covering all points in one seamless movement, relying on careful observation and steady input.\n\nKey Features\n\n• single stroke line completion  \n• mouse and touch input drawing  \n• progressively complex puzzles  \n• level-based node connection  \n• minimalist design and interface"
 },
 {
-"id": "brain-test-one-line-draw-puzzle",
-"title": "Brain Test: One Line Draw Puzzle",
-"iframe": "https://html5.gamedistribution.com/65f1c84c76324e198314706dedd4aa09/",
-"description": "Draw continuous single lines to solve mind-bending puzzles that require sharp observation and creative thinking. Players must connect dots and form shapes without lifting the pen or crossing lines, testing spatial reasoning across increasing difficulty levels. The challenge unfolds through progressively complex puzzles that push players to find elegant one-stroke solutions.\n\nKey Features\n\n• Single stroke drawing mechanic  \n• Tap and drag line control  \n• Puzzle difficulty escalation  \n• Time-limited challenge mode  \n• Minimalist black and white visuals"
-},
-{
 "id": "draw-and-escape",
 "title": "Draw And Escape",
 "iframe": "https://html5.gamedistribution.com/478f36658478422c84021b62054466da/",
 "description": "Draw shapes and lines to guide your character through tricky escape puzzles using precise drawing mechanics. Maneuver through increasing challenge levels where each stroke alters the environment dynamically. Timing and strategic path creation are key to overcoming obstacles and reaching safety. Casual players will appreciate simple controls paired with creative problem solving.\n\nKey Features\n\n• Line drawing movement control  \n• Progressive puzzle difficulty  \n• Environment interaction mechanics  \n• Time-based challenge modes  \n• Minimalist visual design"
-},
-{
-"id": "obby-draw-to-escape",
-"title": "Obby Draw to Escape",
-"iframe": "https://html5.gamedistribution.com/d38ea6bc2dfb434da419992997a6c7f3/",
-"description": "Navigate challenging obstacle courses by quickly drawing paths to escape traps or hazards in this drawing-based game. Players rely on creative line sketches to control movement and avoid obstacles as they advance through puzzle-like levels. Timing and precision in sketching are crucial to clear each stage and reach the exit. The game’s playful environment offers a light challenge tailored for casual and younger audiences.\n\nKey Features\n\n• Hand-drawn path navigation  \n• Precision sketching controls  \n• Progressive obstacle difficulty  \n• Time-based escape challenges  \n• Casual cartoon obstacle design"
 },
 {
 "id": "draw-to-home-3d",

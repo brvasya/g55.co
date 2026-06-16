@@ -31,22 +31,10 @@
 "description": "Navigate a winding underground labyrinth by controlling a slithering worm that must avoid traps and tight spots. The game challenges players to master smooth movement and strategic positioning to escape increasingly complex tunnels. As you progress, adapting to shifting pathways and timing your maneuvers becomes crucial for survival and reaching the exit.\n\nKey Features\n\n• Smooth snake-like movement control  \n• Dynamic tunnel obstacle navigation  \n• Increasing level complexity  \n• Time trial escape challenges  \n• Subterranean maze environment"
 },
 {
-"id": "obby-escape-barry-s-jail-parkour",
-"title": "Obby - Escape Barry's jail parkour",
-"iframe": "https://html5.gamedistribution.com/3bbe72ba374644f5b7360a993fa8bc46/",
-"description": "Navigate complex parkour courses with precise jumps and timing to escape a sprawling prison environment. The game’s core mechanic emphasizes obstacle navigation and spatial awareness as you guide Barry through challenging platforms and avoidance zones. Progression involves mastering increasingly difficult sections while leveraging player reflexes to unlock new escape routes in this vibrant jail-themed parkour challenge.\n\nKey Features\n\n• precision jumping mechanics  \n• obstacle avoidance control  \n• escalating level difficulty  \n• timed escape challenges  \n• prison parkour environment"
-},
-{
 "id": "arrow-escape",
 "title": "Arrow Escape",
 "iframe": "https://html5.gamedistribution.com/abda34d396174f6487968885157388e2/",
 "description": "Manipulate arrow trajectories to solve spatial puzzles and unlock mysterious doors in a minimalistic environment. Players must carefully aim and adjust angles to navigate each level’s strategically placed obstacles, with timing and precision being crucial for progression. The challenge increases as new arrow types and switch puzzles appear, requiring creative problem solving.\n\nKey Features\n\n• Arrow aiming and shooting mechanic  \n• Angle adjustment controls  \n• Increasing puzzle complexity  \n• Switch and door activation system  \n• Minimalist puzzle room setting"
-},
-{
-"id": "obby-tsunami-escape-1-by-car",
-"title": "Obby: Tsunami Escape +1 by Car",
-"iframe": "https://html5.gamedistribution.com/b0dceb9ce1b248f797cebcc0faa95005/",
-"description": "Navigate treacherous terrain in a fast-paced escape challenge where players must dodge rising waters while steering a compact car. The core mechanic involves precision driving combined with quick reflexes to outpace a relentless tsunami surge. Progression demands mastering vehicle control under pressure, with each level increasing flood intensity and obstacle complexity.\n\nKey Features\n\n• Precision car driving controls  \n• Rising water hazard mechanic  \n• Increasing obstacle difficulty  \n• Time-sensitive escape challenges  \n• Coastal flood environment"
 },
 {
 "id": "scp-173-escape",
@@ -143,12 +131,6 @@
 "title": "Isometric Escape 2",
 "iframe": "https://html5.gamedistribution.com/aada1dda0c9f404187438b121d48b644/",
 "description": "Navigate shifting rooms and solve spatial puzzles using isometric perspective to escape confined environments. Players interact with movable blocks and hidden switches to unlock doors and progress through increasingly complex stages. Timing and pattern recognition play a key role as players work to uncover the path to freedom.\n\nKey Features\n\n• Isometric spatial puzzle navigation  \n• Block manipulation mechanics  \n• Switch activation challenges  \n• Multi-stage level progression  \n• Confined escape room settings"
-},
-{
-"id": "obby-escape-prison-rat-dance",
-"title": "Obby Escape: Prison Rat Dance",
-"iframe": "https://html5.gamedistribution.com/0c621dfab60143809e321fa448476f04/",
-"description": "Navigate complex obstacle courses with precise jumps and timed movements to escape challenging prison environments. Master parkour-inspired controls as you overcome traps and narrow pathways in dynamic levels. The game emphasizes spatial navigation and reflex-based progression through maze-like stages designed for casual players and younger audiences.\n\nKey Features\n\n• Precision jumping mechanics  \n• Obstacle navigation challenges  \n• Timed level progression  \n• Reflex-based movement controls  \n• Prison escape environment"
 },
 {
 "id": "medieval-escape",
