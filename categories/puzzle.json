@@ -7,12 +7,6 @@
 "description": "Arrange tiles strategically to connect power nodes and illuminate circuits in each level. Players engage with electrical flow mechanics, guiding energy through pathways while overcoming spatial puzzles. The game challenges players to optimize connections under restrictions, advancing through increasingly complex grid layouts designed for casual gamers and kids.\n\nKey Features\n\n• Circuit path alignment puzzles  \n• Drag-and-drop tile placement  \n• Progressive grid complexity  \n• Energy flow optimization challenge  \n• Bright neon electrical theme"
 },
 {
-"id": "bloxorz-block-puzzle-3d",
-"title": "Bloxorz - Block Puzzle 3d",
-"iframe": "https://html5.gamedistribution.com/1d9ac2ca58b2436ab1e7ce3b83fd709f/",
-"description": "Navigate a rectangular block through complex 3D grid-based platforms by rolling it precisely to fit into a target hole. Players manipulate spatial positioning and balance to avoid falling off edges while progressing through increasingly intricate puzzles. The game challenges spatial reasoning and strategic movement as players advance through various levels.\n\nKey Features\n\n• 3D block rolling navigation  \n• Precision grid movement controls  \n• Progressive puzzle complexity  \n• Level-based spatial challenges  \n• Minimalist geometric stage design"
-},
-{
 "id": "hole-puzzle",
 "title": "Hole Puzzle",
 "iframe": "https://html5.gamedistribution.com/7697f626f5224cb284cf463ce1275495/",
@@ -91,12 +85,6 @@
 "description": "Navigate tangled yarn strands to unravel complex puzzles that test spatial logic and pattern recognition. Manipulate overlapping threads to clear levels by finding the correct sequence and connection, advancing through increasingly intricate layouts. The challenge centers on anticipating how each movement affects the weave structure in a cozy, textile-themed environment.\n\nKey Features\n\n• Thread linking and untangling mechanic  \n• Touch and drag yarn controls  \n• Progressive puzzle difficulty tiers  \n• Time-based challenge modes  \n• Textile-inspired puzzle settings"
 },
 {
-"id": "slide-block-puzzle",
-"title": "Slide Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/93254fe1937947c5819b86ed300ffa4a/",
-"description": "Slide numbered blocks across a confined grid to clear paths and fit each piece into the designated target zone using spatial reasoning and careful planning. Players navigate increasingly complex level layouts where movement is restricted to sliding pieces in straight lines until they collide with obstacles. Each puzzle demands a fresh strategy to optimize moves and reach the goal within limited space.\n\nKey Features\n\n• Sliding block spatial puzzles  \n• Directional piece movement control  \n• Progressive level complexity  \n• Move optimization challenge  \n• Grid-based minimalist design"
-},
-{
 "id": "sliding-puzzle",
 "title": "Sliding Puzzle",
 "iframe": "https://html5.gamedistribution.com/99c87a52b50b41e2aade63b067e1a843/",
@@ -107,12 +95,6 @@
 "title": "Puzzle Blocks",
 "iframe": "https://html5.gamedistribution.com/8b2128d383444348804bd88f50e32283/",
 "description": "Match and clear colored blocks strategically in a grid-based puzzle setup to create chain reactions that maximize your score. The core mechanic involves pattern recognition and spatial organization, challenging players to plan moves ahead while managing increasing complexity. Levels ramp up difficulty with limited moves and evolving block types, inviting casual gamers and younger players to sharpen problem-solving skills.\n\nKey Features\n\n• Color matching block mechanics  \n• Grid-based spatial puzzles  \n• Limited move challenge progression  \n• Chain reaction scoring system  \n• Casual-friendly difficulty scaling"
-},
-{
-"id": "wood-block-puzzle-3",
-"title": "Wood Block Puzzle 3",
-"iframe": "https://html5.gamedistribution.com/a00735b23bde40798cfc095745212754/",
-"description": "Arrange wooden blocks of various shapes to form complete lines and clear the board in this puzzle challenge. Players strategically rotate and place pieces to optimize space and avoid filling up the grid. Progression ramps up with increasing block complexity and limited placement options, creating a steady challenge for casual gamers and kids alike.\n\nKey Features\n\n• Shape fitting core mechanic  \n• Tap and drag block placement  \n• Line clearing progression system  \n• Endless puzzle mode  \n• Minimalist wooden theme"
 },
 {
 "id": "arrows-puzzle-escape",
@@ -127,28 +109,10 @@
 "description": "Arrange intricate puzzle pieces by rotating and fitting them to recreate classic artworks in a grid-based layout. Players solve visual challenges by matching shapes while uncovering progressively detailed images, testing spatial awareness and pattern recognition. The game rewards precision and patience as the artwork gradually comes into focus through assembled puzzle fragments.\n\nKey Features\n\n• Piece rotation mechanics  \n• Grid slot placement controls  \n• Increasing image complexity  \n• Time tracking scoring system  \n• Art-inspired puzzle themes"
 },
 {
-"id": "tap-away-block-puzzle-3d",
-"title": "Tap Away Block Puzzle 3D",
-"iframe": "https://html5.gamedistribution.com/a34e900c52ba462e96c91fc7bc592bf4/",
-"description": "Tap away on floating 3D blocks to clear layers and progressively dismantle complex shapes. The gameplay relies on precise tapping mechanics to remove specific puzzle pieces without destabilizing the structure. As layers shift, players must strategically plan moves to avoid locking the puzzle while aiming for high scores.\n\nKey Features\n\n• 3D layered block structures  \n• Tap-based piece removal controls  \n• Incremental puzzle complexity  \n• Progressive shape dismantling  \n• Visual spatial puzzle challenges"
-},
-{
-"id": "fruit-block-tetra-puzzle",
-"title": "Fruit Block Tetra Puzzle",
-"iframe": "https://html5.gamedistribution.com/e96ffd86a913460b94768706f5a72dcd/",
-"description": "Arrange colorful fruit-shaped blocks in a strategic pattern to clear lines and score points. This puzzle challenges spatial reasoning through a Tetris-inspired block placement mechanic where the player fits differently shaped pieces into a grid. Levels progress by increasing speed and complexity, demanding quick thinking and precise moves to prevent stacking up.\n\nKey Features\n\n• Tetromino-style block fitting  \n• Grid-based spatial puzzle control  \n• Escalating speed and difficulty  \n• Line-clearing scoring system  \n• Fruit-themed colorful visuals"
-},
-{
 "id": "cube-drop-puzzle",
 "title": "Cube Drop Puzzle",
 "iframe": "https://html5.gamedistribution.com/0a8a63b842d543d692fe61cbd27ebaf2/",
 "description": "Stack falling cubes strategically to clear lines in this puzzle game that centers on spatial reasoning and quick decision-making. Players must arrange differently sized cubes as they descend to complete layers, triggering chain reactions for higher scores. The game challenges pattern recognition and timing accuracy across increasing levels of difficulty. Additional modes introduce varied block shapes and speed adjustments.\n\nKey Features\n\n• Cube stacking spatial mechanic  \n• Manual cube placement controls  \n• Layer completion scoring system  \n• Progressive difficulty levels  \n• Animated block descent system"
-},
-{
-"id": "block-puzzle-king",
-"title": "Block Puzzle King",
-"iframe": "https://html5.gamedistribution.com/1b57b789f55e4472af1646d75be4decc/",
-"description": "Arrange falling block shapes strategically to complete lines and clear the board in this puzzle challenge. Players manipulate various geometric pieces on a simple grid, testing spatial reasoning and planning under increasing pressure. The goal is to achieve high scores by efficiently filling rows without gaps, making every move count in a classic block-stacking setup.\n\nKey Features\n\n• Shape placement puzzle mechanic  \n• Drag and drop control scheme  \n• Increasing difficulty levels  \n• Score multiplier system  \n• Minimalist grid interface"
 },
 {
 "id": "sushi-puzzle",
@@ -217,12 +181,6 @@
 "description": "Solve intricate snowflake patterns by strategically dragging and placing icy tiles to complete frosty puzzles. Navigate shifting frozen grids where spatial logic and careful tile alignment are essential to clear each level. Progression introduces increasingly complex snow-themed challenges that test pattern recognition and planning.\n\nKey Features\n\n• Tile placement puzzle mechanic  \n• Drag-and-drop controls  \n• Increasingly complex level design  \n• Pattern matching progression system  \n• Snow and ice visual motif"
 },
 {
-"id": "block-master-super-puzzle",
-"title": "Block Master - Super Puzzle",
-"iframe": "https://html5.gamedistribution.com/d2aea68de5124e86bb0920bbfe7122f3/",
-"description": "Shift and rotate falling blocks to create solid lines that clear the playfield while adapting to increasing piece speed and complexity. The game challenges precision and timing as you navigate a classic block stacking mechanic with progressively faster levels. Casual players can enjoy intuitive controls tailored for quick reflex adjustments in its puzzle-focused environment.\n\nKey Features\n\n• Tetromino rotation and placement  \n• Increasing falling block speed  \n• Line clearing scoring system  \n• Progressive level difficulty scaling  \n• Minimalist geometric visual theme"
-},
-{
 "id": "marble-puzzle-quest",
 "title": "Marble Puzzle Quest",
 "iframe": "https://html5.gamedistribution.com/b8487b142c0d47c68de4e6ced1ab2801/",
@@ -283,12 +241,6 @@
 "description": "Arrange guests strategically to claim the perfect seating order in this logic-based puzzle. Players rearrange characters using sequential swaps and deduction to solve increasingly tricky seating charts. The game challenges spatial reasoning and memory while introducing complex constraints across levels to test planning skills.\n\nKey Features\n\n• Sequential seat swapping mechanic  \n• Pattern recognition puzzles  \n• Increasing logic complexity  \n• Time-limited challenge modes  \n• Social gathering seating theme"
 },
 {
-"id": "block-puzzle-slide-block-jam",
-"title": "Block Puzzle: Slide Block Jam",
-"iframe": "https://html5.gamedistribution.com/008e8e99c8d646afa6ee7d5057ee15c0/",
-"description": "Slide puzzle blocks strategically across a compact grid to complete full lines that clear space and earn points. Manipulate differently shaped pieces in tight spaces to avoid filling the board, advancing through increasingly complex layouts. The challenge lies in managing limited moves while sliding blocks smoothly to unlock new patterns and levels in this clean, minimalist puzzle setting.\n\nKey Features\n\n• Sliding block placement mechanic  \n• Grid-based spatial control  \n• Progressive level complexity  \n• Score-based line clearing  \n• Minimalist puzzle environment"
-},
-{
 "id": "slime-attack-puzzle",
 "title": "Slime Attack: Puzzle!",
 "iframe": "https://html5.gamedistribution.com/d047a7ef7c9c45bf8c5b8cd904338d2b/",
@@ -311,12 +263,6 @@
 "title": "Cargo Path Puzzle",
 "iframe": "https://html5.gamedistribution.com/1467662e53c840209604ee6b9c5f2225/",
 "description": "Manipulate cargo crates by sliding them into correct positions to create a seamless path for deliveries. This puzzle challenges spatial reasoning through incremental obstacle layouts, requiring precise moves to connect each cargo piece and clear the route. Levels progressively increase in complexity, testing logic and planning skills suited for casual players and younger audiences.\n\nKey Features\n\n• Sliding block path creation  \n• Directional input controls  \n• Incremental level complexity  \n• Time-limited challenge modes  \n• Industrial cargo warehouse theme"
-},
-{
-"id": "garden-block-puzzle",
-"title": "Garden Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/e28c7bb671954504be0931d23b6d0be0/",
-"description": "Arrange falling geometric blocks into garden-themed shapes, fitting pieces into tight spaces to clear rows and score points in this spatial puzzle. The gameplay revolves around strategic placement of various block shapes to maintain a balanced garden layout while managing limited space. Players aim to maximize garden growth before running out of room.\n\nKey Features\n\n• Shape fitting block mechanic  \n• Drag and drop placement control  \n• Increasing spatial challenge  \n• Progressive difficulty levels  \n• Garden motif visual style"
 },
 {
 "id": "pin-master-screw-puzzle-quest-brain-games",
@@ -409,28 +355,10 @@
 "description": "Draw continuous lines to connect nodes without lifting your pointer, solving intricate puzzles through a single stroke mechanic. Each level challenges players to cover all points in one fluid motion, testing spatial reasoning and planning skills. The minimalist design and abstract grid settings highlight logic-based progression focused on efficient route tracing.\n\nKey Features\n\n• Single stroke connection puzzles  \n• Drag and trace input control  \n• Increasingly complex node patterns  \n• Time trial mode for speedruns  \n• Abstract geometric grid themes"
 },
 {
-"id": "tap-block-puzzle-smash-game",
-"title": "Tap Block Puzzle: Smash Game",
-"iframe": "https://html5.gamedistribution.com/70d6750398804d318190af8234eaa955/",
-"description": "Arrange falling blocks to clear lines and score points in a tile-matching grid puzzle that challenges spatial reasoning. Rotate and position differently shaped pieces to fit seamless rows without gaps while managing limited placement options. The game rewards efficient block placement under increasing difficulty levels that test strategic planning in a casual setting.\n\nKey Features\n\n• Tetromino rotation control  \n• Line clearing scoring system  \n• Progressive difficulty stages  \n• Time-limited challenge mode  \n• Minimalist puzzle grid design"
-},
-{
 "id": "space-pin-master-pull-pin-puzzle",
 "title": "Space Pin Master - Pull Pin Puzzle",
 "iframe": "https://html5.gamedistribution.com/a6c8940d3c91429984ed040a65cad06a/",
 "description": "Manipulate numbered pins to clear intricate puzzles by pulling them in the right sequence and avoiding hazards. Each level challenges players to figure out safe paths while unlocking new configurations that increase in complexity. The puzzle’s spatial pin mechanic puts logic and timing to the test in a minimalist setting where precision is key.\n\nKey Features\n\n• Sequential pin pulling puzzles  \n• Tap controls for pin interaction  \n• Increasingly complex level layouts  \n• Hazard avoidance challenges  \n• Minimalist space-themed visuals"
-},
-{
-"id": "block-puzzle-tropical-story",
-"title": "Block Puzzle Tropical Story",
-"iframe": "https://html5.gamedistribution.com/75af86ecca154417b93a7beaecda551e/",
-"description": "Arrange falling blocks in a confined grid to clear lines and score points in this colorful puzzler. The game uses a block placement mechanic where spatial planning is key to avoid filling the board. Players face an increasing challenge as space runs out while aiming to achieve the highest possible score in a relaxed tropical-themed environment.\n\nKey Features\n\n• Grid-based block placement  \n• Manual drag-and-drop controls  \n• Line clearing score system  \n• Progressive difficulty scaling  \n• Tropical island visual style"
-},
-{
-"id": "block-blaster-puzzle",
-"title": "Block Blaster Puzzle",
-"iframe": "https://html5.gamedistribution.com/5da372e4a178438a8f69f141b5edc68a/",
-"description": "Arrange falling blocks swiftly to create solid lines and clear the grid in this colorful puzzle challenge. The gameplay revolves around managing diverse block shapes as they descend, testing pattern recognition and spatial reasoning. Levels progressively increase in speed, pushing players to maintain focus and strategy while aiming for high scores. \n\nKey Features\n\n• Shape rotation and placement  \n• Grid clearing line mechanic  \n• Increasing speed difficulty  \n• Score multiplier system  \n• Bright block color themes"
 },
 {
 "id": "fun-iq-puzzle",
@@ -491,12 +419,6 @@
 "title": "sokoban puzzle game",
 "iframe": "https://html5.gamedistribution.com/45af7a66facc4ea7bb7572715b9d0e10/",
 "description": "Push crates through tight warehouse mazes by strategically planning each move in this sokoban puzzle game. Maneuver boxes onto designated goal tiles using classic grid-based movement, where every step counts toward solving increasingly complex levels. The challenge intensifies as spatial reasoning and foresight become essential to clear storage areas efficiently.\n\nKey Features\n\n• Grid-based box pushing  \n• Precise directional controls  \n• Progressive level difficulty  \n• Goal tile placement puzzles  \n• Minimalist puzzle warehouse setting"
-},
-{
-"id": "falling-blocks-puzzle",
-"title": "Falling Blocks Puzzle",
-"iframe": "https://html5.gamedistribution.com/d1a3ec041f214fd193f9191171b56e5e/",
-"description": "Arrange falling shapes strategically to clear lines and prevent stacks from reaching the top. This game challenges players to manage a grid-based puzzle where blocks drop at increasing speeds, requiring quick placement and spatial awareness. Each level introduces tighter timing constraints, pushing players to optimize fits and maintain clear rows under growing pressure.\n\nKey Features\n\n• Dynamic block placement mechanics  \n• Rapid drop speed scaling  \n• Line clearance scoring system  \n• Progressive level difficulty  \n• Classic grid puzzle layout"
 },
 {
 "id": "pin-puzzle-love-story",
@@ -571,18 +493,6 @@
 "description": "Arrange colorful blocks to solve grid-based puzzles in a compact and varied challenge format. The gameplay centers on spatial reasoning and pattern recognition, requiring players to strategically fit pieces together to clear levels. Progression involves increasingly complex layouts that test players’ planning skills, while the casual design welcomes younger audiences. \n\nKey Features\n\n• Tile placement puzzle mechanic  \n• Mouse drag-and-drop control  \n• Level-based challenge progression  \n• Time attack mode option  \n• Minimalist visual puzzle theme"
 },
 {
-"id": "eco-block-puzzle",
-"title": "Eco Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/05e9a710e98f481ea38aaa58a1aa61b9/",
-"description": "Arrange falling blocks to clear lines and optimize space in this eco-inspired puzzle challenge. Players manipulate colorful shapes to fit them neatly on the grid, testing spatial reasoning and quick planning. The game emphasizes clutter reduction and continuous line completion as core mechanics, offering increasing difficulty through progressively complex layouts.\n\nKey Features\n\n• Tetromino placement strategy  \n• Grid-based puzzle controls  \n• Progressive difficulty levels  \n• Line-clearing score system  \n• Nature-themed visual elements"
-},
-{
-"id": "block-puzzle-travel",
-"title": "Block Puzzle Travel",
-"iframe": "https://html5.gamedistribution.com/9bb63ed68fb248299c4b8d22c814ef1e/",
-"description": "Arrange falling blocks to complete lines and clear the board in this engaging puzzle experience. The game challenges players to strategically position various shapes on a compact grid to maximize space and avoid block overflow. Progress through increasingly difficult stages that test spatial reasoning and planning skills, with simple drag-and-drop controls for smooth gameplay. \n\nKey Features\n\n• Shape placement puzzle mechanic  \n• Drag-and-drop block control  \n• Increasing level difficulty  \n• Line clearing score system  \n• Minimalist grid interface"
-},
-{
 "id": "puzzle-blocks-asmr-match",
 "title": "Puzzle Blocks Asmr Match",
 "iframe": "https://html5.gamedistribution.com/5a35fc6428e747189509266ad8d07006/",
@@ -599,18 +509,6 @@
 "title": "Puzzles Balls Merge the New Year!",
 "iframe": "https://html5.gamedistribution.com/3c29613f9b2e40ef94f75a7ba038ce31/",
 "description": "Merge matching colored balls by dragging and combining them to clear the board in this casual puzzle challenge. Players strategize merges on a compact grid, unlocking new ball types as they advance through levels. The game tests planning and pattern recognition to achieve high scores while progressing through increasingly complex arrangements.\n\nKey Features\n\n• Drag and merge ball mechanic  \n• Grid based puzzle layout  \n• Progressive level difficulty  \n• Unlockable ball variations  \n• New Year festive visuals"
-},
-{
-"id": "woodoku-block-puzzle",
-"title": "Woodoku Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/8f2c990f152140afad73cef0059c9405/",
-"description": "Slide wooden puzzle blocks onto the grid to complete full rows and columns in a relaxing spatial logic challenge. Players must strategically fit various shaped pieces on a compact 9x9 board, clearing lines to score points and prevent the grid from filling. The game emphasizes careful placement and planning to achieve higher scores without running out of space.\n\nKey Features\n\n• Block placement puzzle mechanic  \n• Drag and drop piece controls  \n• Line clearing for score progression  \n• Endless mode with increasing difficulty  \n• Minimalist wooden block theme"
-},
-{
-"id": "block-puzzle-frozen-jewel",
-"title": "Block Puzzle - Frozen Jewel",
-"iframe": "https://html5.gamedistribution.com/5031e968c8ac4af7ac8940ac35518b7c/",
-"description": "Slide and fit colorful blocks into a compact grid to clear lines and accumulate points in a frozen jewel theme. Players strategically place pieces featuring icy gems to create full rows or columns that disappear, balancing limited space with assorted shapes. The challenge lies in optimizing block placement to avoid gridlock and maintain progression through increasingly complex puzzles.\n\nKey Features\n\n• Grid-based block placement  \n• Strategic spatial reasoning  \n• Progressive puzzle difficulty  \n• Line clearing mechanic  \n• Frozen jewel visual elements"
 },
 {
 "id": "bolts-and-nuts-puzzle",
@@ -631,12 +529,6 @@
 "description": "Rotate intricate screw pieces to fit complex shapes and unlock each puzzle’s challenge in this precise mechanical assembly game. Players slide and twist various fasteners through tight configurations while managing limited moves to complete levels that gradually increase in difficulty.\n\nKey Features\n\n• Screw rotation and sliding mechanics  \n• Limited move puzzle constraints  \n• Progressive difficulty levels  \n• Unlockable puzzle variations  \n• Mechanical assembly theme"
 },
 {
-"id": "block-blast-block-puzzle-master",
-"title": "Block Blast! - Block Puzzle Master",
-"iframe": "https://html5.gamedistribution.com/f4f89b046c8f4fee98b01414f1e60c18/",
-"description": "Arrange falling blocks into complete lines to clear the board in this brick-matching puzzle. The gameplay revolves around strategic placement and spatial recognition, requiring players to fit various shapes into limited space without gaps. Players aim to achieve high scores and persistent survival on an increasingly crowded grid, testing foresight and quick decision-making.\n\nKey Features\n\n• Shape fitting line clearing  \n• Mouse and touch drag controls  \n• Increasing block density challenge  \n• Endless mode with score tracking  \n• Minimalist grid puzzle setting"
-},
-{
 "id": "screw-jam-fun-puzzle-game",
 "title": "Screw Jam - Fun Puzzle Game",
 "iframe": "https://html5.gamedistribution.com/2cc666096e244043a04a81fe894043dc/",
@@ -653,12 +545,6 @@
 "title": "Exit - Puzzle",
 "iframe": "https://html5.gamedistribution.com/6583b3aeb8674d54b9b9ab4cf94e2567/",
 "description": "Manipulate interactive puzzle elements to navigate through intricately designed levels that test spatial reasoning. The gameplay hinges on unlocking pathways by solving diverse challenges that escalate in complexity, engaging casual gamers and younger players seeking brain-teasing entertainment.\n\nKey Features\n\n• Sequential puzzle unlocking system  \n• Click-and-drag element interaction  \n• Increasing puzzle complexity levels  \n• Hint system for player assistance  \n• Abstract minimalistic visual style"
-},
-{
-"id": "jelly-block-puzzle",
-"title": "Jelly Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/afffb7c450904a1494758f5508f7b000/",
-"description": "Arrange colorful jelly blocks strategically on a grid to clear lines and earn points in this vibrant puzzle experience. Players rotate and slide pieces to fit them into tight spaces, challenging spatial awareness and planning skills. Progression unfolds as levels increase in difficulty, introducing more complex block shapes and limited move counts that test precision and foresight.\n\nKey Features\n\n• Block rotation and sliding controls  \n• Line clearing grid system  \n• Incremental level difficulty  \n• Limited move challenges  \n• Bright jelly-themed visuals"
 },
 {
 "id": "nuts-bolts-wood-puzzle-game",
@@ -719,12 +605,6 @@
 "title": "Magic Finger Puzzle 3d",
 "iframe": "https://html5.gamedistribution.com/9ba79172eea743d78c002c1c4091b422/",
 "description": "Manipulate colorful 3D puzzle blocks by tapping and dragging to fit them into tight spaces and complete vibrant shapes. Puzzle pieces rotate and shift as you aim to fill grids without gaps, testing spatial awareness and pattern recognition through progressively challenging stages.\n\nKey Features\n\n• 3D block rotation mechanics  \n• Touch and drag controls  \n• Increasing puzzle complexity  \n• Grid completion challenges  \n• Bright geometric visual style"
-},
-{
-"id": "block-puzzle-cats",
-"title": "Block Puzzle Cats",
-"iframe": "https://html5.gamedistribution.com/c43e8d972eb9459f8f0ee9a09a3fa8a7/",
-"description": "Arrange falling blocks to complete lines in a cat-themed puzzle grid, combining spatial logic with pattern recognition. Rotate and position tetromino-style shapes to clear rows and earn points, progressing through increasingly challenging levels. Matching block formations reveal playful feline graphics, adding charm to the task of strategic placement.\n\nKey Features\n\n• Tetromino block rotation control  \n• Line clearing scoring system  \n• Level-based difficulty progression  \n• Time-limited challenge modes  \n• Cat-themed visual design"
 },
 {
 "id": "beauty-puzzle",
@@ -799,12 +679,6 @@
 "description": "Match colorful pieces by swapping adjacent tiles to clear the board in this charming puzzle game. Players manipulate tile positions to form patterns that trigger chain reactions and unlock new levels. Progression gradually introduces unique block types and strategic challenges, encouraging thoughtful moves to complete increasingly complex puzzles.\n\nKey Features\n\n• Tile swapping puzzle mechanics  \n• Chain reaction clearing system  \n• Increasingly complex level stages  \n• Pattern matching score challenges  \n• Casual friendly art style"
 },
 {
-"id": "block-puzzle-jewel-forest",
-"title": "Block Puzzle - Jewel Forest",
-"iframe": "https://html5.gamedistribution.com/a66111e097d24ffeb92f45161f21db29/",
-"description": "Arrange differently shaped blocks to fit perfectly into a confined grid, clearing lines to score points in this colorful puzzle challenge. Rotate and place jewel-themed pieces strategically to complete full rows or columns before the board fills up. Each level increases in complexity, demanding sharper spatial reasoning and planning from casual players and kids alike.\n\nKey Features\n\n• Block rotation placement system  \n• Grid-based line clearing mechanic  \n• Increasing difficulty levels  \n• Score tracking and line completion  \n• Jewel forest visual theme"
-},
-{
 "id": "hexa-blast-game-puzzle",
 "title": "Hexa Blast Game Puzzle",
 "iframe": "https://html5.gamedistribution.com/01ace5651a74498b8c266e3d096613dd/",
@@ -839,12 +713,6 @@
 "title": "Art Puzzle Master",
 "iframe": "https://html5.gamedistribution.com/1d83f4f37b1943c9abb6918b703861cb/",
 "description": "Arrange colored tiles to complete intricate art patterns and unlock new puzzle stages. Players manipulate tile shapes and alignments to reveal detailed images, progressing through increasingly complex levels. Timing precise moves and strategic placement is key to mastering each mind-bending design.\n\nKey Features\n\n• Tile manipulation mechanics  \n• Drag-and-drop control system  \n• Level-based puzzle progression  \n• Pattern completion scoring  \n• Visual art puzzle themes"
-},
-{
-"id": "block-puzzle",
-"title": "Block puzzle",
-"iframe": "https://html5.gamedistribution.com/7c3e6d45e34b4a8e9f9e3d5be00476eb/",
-"description": "Arrange varying shaped blocks into complete lines to clear the board and prevent overcrowding. The game challenges players to strategically place pieces in a grid-based puzzle setup, demanding foresight to maximize space. Players progress by continuously fitting blocks without gaps, testing spatial reasoning under increasing pressure.\n\nKey Features\n\n• Shape fitting grid puzzle  \n• Drag and drop block placement  \n• Increasing spatial challenge  \n• Endless mode with score tracking  \n• Minimalistic block design"
 },
 {
 "id": "delete-puzzle-parts",
@@ -883,12 +751,6 @@
 "description": "Manipulate interactive puzzle elements to harmonize quirky Skibidi Toilet characters with their environment, relying on spatial logic to unlock each stage. The game challenges players to identify unique connections and timing patterns, progressing through a series of cleverly constructed levels that blend chaotic scenarios with methodical puzzle solving.\n\nKey Features\n\n• Interactive spatial puzzle mechanics  \n• Object manipulation and timing control  \n• Progressive level complexity  \n• Pattern recognition challenges  \n• Whimsical character-driven setting"
 },
 {
-"id": "block-wood-puzzle-2",
-"title": "Block Wood Puzzle 2",
-"iframe": "https://html5.gamedistribution.com/70967fff98224fb487d06d86538304f6/",
-"description": "Arrange falling wooden blocks on a compact grid to fit pieces perfectly without gaps in this spatial puzzle. Players rotate and slide various plank shapes, challenging their placement strategy to complete full lines and clear the board. This relaxing block arrangement emphasizes pattern recognition and planning for continuous level progression.\n\nKey Features\n\n• Rotation based block placement  \n• Grid fitting puzzle mechanic  \n• Progressive line completion challenge  \n• Limited move strategic planning  \n• Minimalist wooden block theme"
-},
-{
 "id": "blockbuster-puzzle",
 "title": "BlockBuster Puzzle",
 "iframe": "https://html5.gamedistribution.com/b2cc0cd4b40a40dd84b8d452e7c5d6f8/",
@@ -899,24 +761,6 @@
 "title": "Insect Pic Puzzles",
 "iframe": "https://html5.gamedistribution.com/c37ddb49df4d4e9ea021e7df97ae66b6/",
 "description": "Arrange scrambled insect images to restore detailed photo puzzles in this casual brain teaser. Players manipulate jigsaw pieces with drag-and-drop controls to complete various levels featuring realistic bug illustrations. Timed challenges add urgency as puzzle complexity increases with each stage, testing spatial reasoning and pattern recognition in a nature-inspired setting.\n\nKey Features\n\n• Drag-and-drop puzzle assembly  \n• Increasing piece count difficulty  \n• Timed completion challenges  \n• Hint system for stuck players  \n• Insect-themed jigsaw visuals"
-},
-{
-"id": "1010-block-puzzle",
-"title": "1010+ Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/cbe1ecda48d14275b4ff38dba271bf4a/",
-"description": "Arrange uniquely shaped blocks on a compact 10 by 10 grid to create complete lines vertically or horizontally, which then clear and make space for more pieces. The puzzle evolves with random piece generation, challenging players to plan their placement carefully for maximizing board clearance and score. The minimalist block arrangement and spatial reasoning drive the gameplay loop without time constraints.\n\nKey Features\n\n• Grid-based block placement\n• Drag and drop control system  \n• Line clearing mechanics  \n• Incremental challenge through random blocks  \n• Minimalist puzzle design"
-},
-{
-"id": "catland-block-puzzle",
-"title": "Catland: block puzzle",
-"iframe": "https://html5.gamedistribution.com/332f8c7ecc984320abb423b806743fd4/",
-"description": "Arrange colored blocks strategically on a compact grid to clear lines and optimize space in this puzzle game. The core mechanic revolves around fitting varied shapes without gaps, testing spatial reasoning and planning skills. Players progress by completing rows that vanish, aiming to achieve the highest possible score before the grid fills up.\n\nKey Features\n\n• Block placement grid system  \n• Shape rotation and alignment  \n• Progressive clearing challenges  \n• Score-based level advancement  \n• Casual geometric puzzle theme"
-},
-{
-"id": "block-puzzle-ocean",
-"title": "Block Puzzle Ocean",
-"iframe": "https://html5.gamedistribution.com/fa368d2c1fe144df9a294c096429e47b/",
-"description": "Arrange falling blocks into complete lines on a vibrant ocean-themed grid to clear space and earn points. Players align varied shaped tiles with careful placement strategy, aiming to fill rows without blocking future moves. The calm water backdrop complements the challenge of managing limited space while optimizing block fit for steady progression through increasingly complex layouts.\n\nKey Features\n\n• Tetromino-style block placement  \n• Drag and drop controls  \n• Progressive difficulty levels  \n• Endless puzzle mode option  \n• Ocean-themed visual design"
 },
 {
 "id": "colorbox-puzzle",
@@ -943,22 +787,10 @@
 "description": "Perform precise erasures to remove one part at a time from complex puzzle shapes, carefully planning each move to clear the entire board. The game challenges players to identify removable sections under limited actions, encouraging strategic foresight and pattern recognition. Each level introduces new arrangements that require adaptive problem-solving skills.\n\nKey Features\n\n• Segment removal puzzle mechanic  \n• Click and drag control system  \n• Level-based increasing difficulty  \n• Move limit challenge mode  \n• Minimalist geometric puzzle design"
 },
 {
-"id": "fill-up-block-logic-puzzle",
-"title": "Fill Up Block Logic Puzzle",
-"iframe": "https://html5.gamedistribution.com/936998e7bb274c879e12731ee6e8f98e/",
-"description": "Arrange colored blocks to completely fill the grid in this puzzle challenge. Players manipulate blocks with a logic-based placement mechanic, strategizing to avoid gaps and overlap while filling every cell. Levels increase in complexity as block shapes and grid sizes vary, requiring careful spatial reasoning to clear each stage.\n\nKey Features\n\n• Grid filling block placement  \n• Drag and drop control system  \n• Increasing puzzle complexity  \n• Stage progression challenges  \n• Minimalistic block design"
-},
-{
 "id": "cocktail-puzzle",
 "title": "Cocktail Puzzle",
 "iframe": "https://html5.gamedistribution.com/fec058124caa48b9bdc3239b982a93a6/",
 "description": "Match colorful ingredients by sliding tiles to clear the board in this puzzle challenge. Players manipulate a grid of cocktail-themed elements, using strategic moves to create matching sets and reach level goals. Time management colors the progression while combining varying shaker and glass symbols increases the complexity for casual players.\n\nKey Features\n\n• Tile sliding matching mechanic  \n• Grid-based puzzle controls  \n• Level completion targets  \n• Time-limited move system  \n• Cocktail ingredient visuals"
-},
-{
-"id": "block-puzzle-adventure",
-"title": "Block Puzzle Adventure",
-"iframe": "https://html5.gamedistribution.com/224b14b64ddf42eb8c3ed653c59d62ce/",
-"description": "Arrange falling blocks strategically to fill rows and clear the board in this cleverly designed puzzle experience. The game challenges players with a grid-based block placement mechanic that requires careful spatial reasoning to prevent overcrowding. Players advance through increasingly complex layouts where each move impacts the available space, testing planning and foresight.\n\nKey Features\n\n• Grid-based block placement  \n• Strategic spatial organization  \n• Progressive level layouts  \n• Limited move challenge system  \n• Classic block puzzle theme"
 },
 {
 "id": "emoji-puzzle",
@@ -971,12 +803,6 @@
 "title": "Puzzle & island",
 "iframe": "https://html5.gamedistribution.com/d7d9b7511cb749fd961785ee470ae9d2/",
 "description": "Manipulate puzzle pieces by rotating and fitting them into island-shaped grids to clear each level and advance. The core mechanic revolves around spatial arrangement and pattern recognition, set within a serene island backdrop. Players must solve each puzzle to unlock new areas and achieve full island restoration, balancing challenge with exploration elements.\n\nKey Features\n\n• Rotational tile placement mechanic  \n• Grid-based spatial puzzles  \n• Progressive island unlocking system  \n• Increasing puzzle complexity levels  \n• Island-themed visual design"
-},
-{
-"id": "block-puzzle-sudoku",
-"title": "Block Puzzle Sudoku",
-"iframe": "https://html5.gamedistribution.com/c17f0a0e898947d0af99394c9af8961a/",
-"description": "Arrange falling block shapes strategically to fill sudoku grids, merging classic numeric placement with spatial puzzle-solving mechanics. Players must clear rows and columns by fitting various block configurations within a limited board space. The game challenges spatial reasoning and planning under increasing difficulty, perfect for casual gamers and younger audiences seeking a blend of sudoku and block puzzle dynamics.\n\nKey Features\n\n• shape fitting block placement  \n• grid clearing through numeric alignment  \n• escalating puzzle complexity levels  \n• limited move and space constraints  \n• sudoku-inspired numeric layout"
 },
 {
 "id": "thief-puzzle-online",
@@ -1009,22 +835,10 @@
 "description": "Solve grid-based challenges by placing pieces strategically across school-themed puzzles. Experiment with spatial reasoning to complete various logic tasks that likely involve matching shapes or numbers in a classroom-inspired setting. Advance through increasingly complex puzzles designed to sharpen problem-solving skills in an educational environment.\n\nKey Features\n\n• Grid arrangement puzzle mechanics  \n• Drag-and-drop piece placement  \n• Progressive difficulty levels  \n• Time attack mode option  \n• Classroom visual themes"
 },
 {
-"id": "wood-block-puzzle",
-"title": "Wood Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/9568a9db824f42229c2be496c362c143/",
-"description": "Arrange wooden blocks strategically on a grid to create full lines and clear space in this puzzle challenge. Players must rotate and position various shaped timber pieces to optimize placement and prevent board overflow. The game tests spatial reasoning as players aim to keep the board clear while managing the incremental piece set. The simple wood theme enhances its casual appeal for all ages.\n\nKey Features\n\n• Block rotation and placement mechanics  \n• Grid-based spatial strategy  \n• Progressive difficulty with piece variety  \n• Line completion clearing system  \n• Minimalist wooden aesthetic"
-},
-{
 "id": "puzzle-love",
 "title": "Puzzle Love",
 "iframe": "https://html5.gamedistribution.com/c7ee67fc19f642f3b9af0e4c7cad1767/",
 "description": "Arrange colorful puzzle pieces to clear intricate boards in a steadily increasing challenge. Players match shapes using drag-and-drop controls to solve spatial logic puzzles. Each level introduces new patterns that test pattern recognition and strategic planning. Casual gamers progress through a grid-based structure that sharpens visual problem-solving skills in a relaxed setting.\n\nKey Features\n\n• Drag-and-drop shape matching  \n• Gradual grid complexity increase  \n• Spatial pattern puzzle layouts  \n• Time management scoring system  \n• Casual visual puzzle environment"
-},
-{
-"id": "hexa-block-puzzle",
-"title": "Hexa Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/70777c45efd845f58efd491137ac2a2e/",
-"description": "Arrange hexagonal blocks into tight spaces to clear rows and unlock higher levels in this spatial puzzle challenge. Players manipulate uniquely shaped pieces to fit them within a confined grid, requiring keen spatial awareness and strategic placement. The goal centers on maximizing block placement efficiency while preventing the board from filling up, offering a gradual increase in difficulty through score thresholds.\n\nKey Features\n\n• Hexagonal block fitting mechanic  \n• Drag and rotate piece controls  \n• Progressive grid size challenges  \n• Score-based level advancement  \n• Minimalist geometric visuals"
 },
 {
 "id": "grass-cutting-puzzle",
@@ -1043,12 +857,6 @@
 "title": "Winter Puzzle",
 "iframe": "https://html5.gamedistribution.com/625173ea7dbb4b0dabf3a96bc6e40937/",
 "description": "Match colored tiles to clear the board while planning moves carefully in a grid-based system. Players align groups of ice-themed pieces to unlock new sections and tackle increasingly complex arrangements. Timing and strategic swaps shape the path to completing each frosty puzzle challenge.\n\nKey Features\n\n• Tile matching strategy mechanic  \n• Manual piece swapping control  \n• Progressive grid unlocking system  \n• Time-limited puzzle stages  \n• Winter ice motif visuals"
-},
-{
-"id": "block-puzzle-jewel",
-"title": "Block Puzzle Jewel",
-"iframe": "https://html5.gamedistribution.com/415961cf27fb44759c184d150b301f54/",
-"description": "Arrange falling blocks to complete lines and clear the board in this spatial puzzle challenge. Pieces snap into place on a grid, requiring careful planning to avoid running out of space. The game increases in difficulty as block shapes vary, testing pattern recognition and strategic placement under pressure.\n\nKey Features\n\n• Grid-based block placement  \n• Line completion mechanics  \n• Progressive shape complexity  \n• Limited board space challenge  \n• Casual puzzle gameplay"
 },
 {
 "id": "push-puzzle-rescue-adventure",
@@ -1153,12 +961,6 @@
 "description": "Navigate a grid-based lawn landscape by strategically pushing mower units to trim all grass patches. This puzzle challenges spatial reasoning with movable mower tiles and restricted paths, requiring foresight to complete each level's layout efficiently. Unlock new stages featuring increasing complexity and layered obstacles while focusing on logical planning and limited moves.\n\nKey Features\n\n• Tile-based mower positioning  \n• Push interaction mechanic  \n• Progressive level difficulty  \n• Limited move challenge  \n• Garden-themed puzzle layouts"
 },
 {
-"id": "nine-blocks-block-puzzle-game",
-"title": "Nine Blocks: Block Puzzle Game",
-"iframe": "https://html5.gamedistribution.com/50513f5fb5594ab99f62a2912abaec84/",
-"description": "Arrange falling blocks into complete rows to clear the board in this spatial puzzle challenge. The gameplay centers on positioning and rotating nine-block pieces to fit them optimally without gaps. Players progress by solving increasingly complex layouts that require strategic planning and quick spatial reasoning, aiming for high scores and efficient board clearing.\n\nKey Features\n\n• Nine-block piece rotation  \n• Drag-and-drop placement controls  \n• Increasing puzzle complexity  \n• Score-based progression system  \n• Minimalist tile-based grid"
-},
-{
 "id": "clock-puzzle-for-kids",
 "title": "Clock Puzzle for Kids",
 "iframe": "https://html5.gamedistribution.com/e1d732b2c1eb486a844ea2904d1a6c30/",
@@ -1183,12 +985,6 @@
 "description": "Match vibrant shapes to clear increasingly complex boards in a charming puzzle environment. Manipulate colorful blocks with a tile-matching mechanic, aiming to complete levels by creating lines or groups before running out of moves. The game challenges pattern recognition and planning on grid-based stages.\n\nKey Features\n\n• Tile-matching block mechanics  \n• Grid-based puzzle layout  \n• Move-limited level completion  \n• Progressive difficulty scaling  \n• Whimsical cartoon art style"
 },
 {
-"id": "1-block-puzzles",
-"title": "1 Block Puzzles",
-"iframe": "https://html5.gamedistribution.com/64df6c1b396e4ef5b4ad2f8fa0d21e34/",
-"description": "Arrange falling blocks strategically to fill rows and clear the grid using spatial reasoning and placement strategy. The game challenges players to fit a variety of geometric shapes into a compact board without running out of space, progressing by efficiently managing limited slots. Its minimalistic layout promotes focused puzzle solving for casual players.\n\nKey Features\n\n• Geometric block positioning  \n• Drag and drop control scheme  \n• Grid space management challenge  \n• Endless progression mode  \n• Clean puzzle interface"
-},
-{
 "id": "tricky-puzzle",
 "title": "Tricky Puzzle",
 "iframe": "https://html5.gamedistribution.com/458403eea8f147e0aa3941f83323eccc/",
@@ -1199,12 +995,6 @@
 "title": "Magic Forest Tiles Puzzle",
 "iframe": "https://html5.gamedistribution.com/b05345869d3145b1929c4acbae5cb1b2/",
 "description": "Match colorful tiles by swapping their positions on a grid to clear paths and unlock hidden magic symbols. The puzzle uses pattern recognition combined with strategic tile movement to solve increasingly complex boards. Players progress through enchanting levels where mystical tiles introduce unique effects to challenge their matching skills.\n\nKey Features\n\n• Strategic tile swapping mechanic  \n• Pattern recognition puzzle levels  \n• Increasing board complexity progression  \n• Special magical tile effects system  \n• Enchanted forest visual theme"
-},
-{
-"id": "wood-block-puzzle-2",
-"title": "Wood Block Puzzle 2",
-"iframe": "https://html5.gamedistribution.com/cc846d5943ad4f769f22e87f7d00b14d/",
-"description": "Arrange wood blocks skillfully to fill grid spaces without gaps in this minimalistic puzzle challenge. Players manipulate varied-shaped pieces to create complete lines that clear the board and score points. The game offers a calm, tactile block-placement experience where spatial awareness and planning determine success at increasingly tricky layouts.\n\nKey Features\n\n• Grid-based block placement  \n• Shape rotation and fitting controls  \n• Line-clearing scoring mechanic  \n• Incremental difficulty progression  \n• Minimalist wood texture theme"
 },
 {
 "id": "pic-pie-puzzles",
@@ -1229,12 +1019,6 @@
 "title": "Magic Herobrine - smart brain & puzzle quest",
 "iframe": "https://html5.gamedistribution.com/da684c74afda4602ba7f7748e27ed850/",
 "description": "Solve intricate tile patterns by rotating and matching colored blocks to unlock magic puzzles. Use spatial reasoning to identify hidden pairings and clear levels through thoughtful moves. Each stage challenges players with increasing complexity, testing their pattern recognition skills in a subtle mystical environment.\n\nKey Features\n\n• Tile rotation matching mechanic  \n• Sequential pattern solving  \n• Progressive stage complexity  \n• Hint system for stuck players  \n• Mystical atmosphere visuals"
-},
-{
-"id": "kill-the-dragon-bridge-block-puzzle",
-"title": "Kill The Dragon - Bridge Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/4b7a49649eac46bb963185da486d9dc0/",
-"description": "Manipulate bridge segments to strategically block a dragon’s path in this spatial puzzle challenge. Players rotate and place blocks to construct barriers that halt advancing enemies, requiring careful planning and timing. Progression unfolds through increasingly complex layouts where optimizing block placement is key to victory.\n\nKey Features\n\n• Bridge segment rotation mechanic  \n• Strategic block placement controls  \n• Increasingly intricate puzzle levels  \n• Timed enemy approach challenge  \n• Medieval fantasy visual elements"
 },
 {
 "id": "rope-bowing-puzzle",
@@ -1339,12 +1123,6 @@
 "description": "Match colorful coffee beans to clear grid puzzles and unlock new challenges in this casual brain teaser. Players swap adjacent pieces to create chains, focusing on pattern recognition and spatial reasoning as levels become increasingly complex. Timing combos and planning moves strategically are key to overcoming puzzles and advancing through diverse stages.\n\nKey Features\n\n• Swap and match tile mechanic  \n• Grid-based puzzle layouts  \n• Increasing level complexity  \n• Move limit and combo system  \n• Casual coffee shop visual theme"
 },
 {
-"id": "slidey-block-puzzle",
-"title": "Slidey Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/2ffd2d2ccf8047e1a7769185344795b5/",
-"description": "Slide tiles across a compact grid to form complete rows in this block puzzle challenge. Players manage spatial reasoning and timing as pieces slide automatically when moved, requiring strategic placement to clear levels. The game tracks progress through increasingly complex arrangements that test pattern recognition and foresight. Ideal for casual players seeking steady brain exercise with minimal thematic distraction.\n\nKey Features\n\n• Sliding tile placement mechanic  \n• Strategic spatial reasoning gameplay  \n• Increasing puzzle complexity levels  \n• Score-based row clearing system  \n• Minimalistic visual presentation"
-},
-{
 "id": "memoji-puzzle",
 "title": "Memoji Puzzle",
 "iframe": "https://html5.gamedistribution.com/e233bbfccda74f9393e7b5860bbcf9e9/",
@@ -1367,24 +1145,6 @@
 "title": "Puzzle Balls",
 "iframe": "https://html5.gamedistribution.com/9863c2c7228d41feab7379398dae0f34/",
 "description": "Match and clear colorful spheres by swapping adjacent balls to create combos and trigger chain reactions. Players navigate a vibrant puzzle grid aiming to eliminate all balls in each level while managing limited moves and increasing difficulty. Strategic planning and quick thinking unlock new challenging stages in this casual puzzle experience.\n\nKey Features\n\n• Color matching swap mechanic  \n• Limited move level constraints  \n• Progressive difficulty scaling  \n• Chain reaction combo system  \n• Bright casual puzzle visuals"
-},
-{
-"id": "blocks-fill-tangram-puzzle",
-"title": "Blocks Fill Tangram Puzzle",
-"iframe": "https://html5.gamedistribution.com/f8cea68980504cc6a1fe3c1fe68eed62/",
-"description": "Arrange various geometric blocks to completely fill grid patterns using tangram-style piece placement, testing spatial reasoning and shape fitting skills. The core puzzle mechanic revolves around positioning polyomino-like shapes to match silhouette outlines. Levels progressively increase difficulty with complex shapes and tighter placement constraints, challenging even casual players and kids.\n\nKey Features\n\n• Shape-fitting grid puzzles  \n• Drag and rotate block controls  \n• Increasingly complex layouts  \n• Timer-based challenge mode  \n• Minimalistic geometric design"
-},
-{
-"id": "10x10-block-puzzle",
-"title": "10x10 Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/ff2e169765444f889606faf09c0dd65b/",
-"description": "Arrange tetromino-style blocks into a 10x10 grid by strategically placing shapes to fill rows and columns without gaps. Each move involves selecting and fitting different block shapes, aiming to clear lines and maximize space utilization. The challenge grows as space runs out, testing spatial awareness and planning skills.\n\nKey Features\n\n• Grid-based block placement  \n• Shape rotation and fitting controls  \n• Line clearing progression system  \n• Endless puzzle mode  \n• Minimalist geometric visuals"
-},
-{
-"id": "block-puzzle-classic",
-"title": "Block Puzzle Classic",
-"iframe": "https://html5.gamedistribution.com/57df6afb1c254912bb6e2ada535ebf1a/",
-"description": "Arrange falling blocks strategically to clear horizontal and vertical lines in this classic grid-based puzzle game. Players manipulate tetromino-style shapes to optimize space and achieve high scores. The gameplay challenges spatial reasoning through piece placement without time pressure, making it accessible for casual gamers and younger audiences.\n\nKey Features\n\n• Grid-based block placement\n• Drag and drop controls\n• Line clearing mechanics\n• Progressive difficulty levels\n• Retro minimalist interface"
 },
 {
 "id": "brain-tricky-puzzles",
@@ -1477,12 +1237,6 @@
 "description": "Solve word clues by filling grids with intersecting answers in a classic crossword format. Players use letter placement to complete puzzles of varying difficulty, testing vocabulary and deduction skills. Progression unfolds through a series of themed puzzles designed to challenge logic and language mastery.\n\nKey Features\n\n• Letter placement grid mechanic  \n• Clue-based word solving  \n• Increasing puzzle difficulty  \n• Time-limited challenge mode  \n• Classic newspaper-style layout"
 },
 {
-"id": "grid-blocks-puzzle",
-"title": "Grid Blocks Puzzle",
-"iframe": "https://html5.gamedistribution.com/eda931ee11b949dcaf54919f828cfd26/",
-"description": "Arrange colored blocks strategically on a grid to clear lines and solve spatial puzzles. Players manipulate blocks of varied shapes and colors to fit them into tight spaces while preventing the grid from filling up. Each level demands careful planning and precision to optimize space and achieve high scores.\n\nKey Features\n\n• Grid-based block arrangement  \n• Shape rotation and placement controls  \n• Increasingly complex level layouts  \n• Line-clear scoring system  \n• Color-coded matching mechanics"
-},
-{
 "id": "puzzle-game-boys",
 "title": "Puzzle Game Boys",
 "iframe": "https://html5.gamedistribution.com/82133edb7e664177b0ed7e57f65936aa/",
@@ -1507,12 +1261,6 @@
 "description": "Match colorful tiles to solve layered logic puzzles, testing pattern recognition and spatial planning in a vibrant grid setting. Navigate through increasing difficulty levels where strategic swaps reveal hidden connections. Players must clear all puzzle challenges using limited moves to advance through the stages with subtle thematic hints.\n\nKey Features\n\n• Tile swapping puzzle mechanic  \n• Limited-move level challenges  \n• Progressive difficulty scaling  \n• Grid-based spatial problem solving  \n• Multifaceted color pattern matching"
 },
 {
-"id": "block-hexa-puzzle-new",
-"title": "Block Hexa Puzzle (New)",
-"iframe": "https://html5.gamedistribution.com/dae785ac33804f15b8a73c8fb3c41c9d/",
-"description": "Arrange hexagonal blocks strategically on a compact grid to fill every space without gaps, relying on spatial reasoning and pattern recognition. The game emphasizes fitting together unique polygonal shapes with rotation and placement constraints, challenging players to complete levels by clearing rows or clusters. Quick thinking and efficient placement influence progress through increasingly complex puzzles.\n\nKey Features\n\n• Hexagonal block fitting mechanic  \n• Drag and rotate controls  \n• Progressive puzzle difficulty scaling  \n• Level clearing by full cluster completion  \n• Minimalistic geometric visual style"
-},
-{
 "id": "snowman-2020-puzzle",
 "title": "Snowman 2020 Puzzle",
 "iframe": "https://html5.gamedistribution.com/e1452fc838184224aaa0c96c8936d6ce/",
@@ -1529,12 +1277,6 @@
 "title": "Puzzle Game Girls",
 "iframe": "https://html5.gamedistribution.com/5223581f4d2d4d1abd35495ece63e616/",
 "description": "Match colorful puzzle pieces by swapping and aligning shapes to clear levels in this casual brain teaser. The gameplay blends tile matching with time-limited puzzles, challenging players to solve increasingly complex boards. Progress through diverse stages where strategic moves unlock new patterns while aiming for high scores and combos.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Time-based puzzle challenges  \n• Increasing level complexity  \n• Combo scoring system  \n• Bright casual art style"
-},
-{
-"id": "blocks-puzzle-halloween",
-"title": "Blocks Puzzle Halloween",
-"iframe": "https://html5.gamedistribution.com/17fdd6a68f3348b696a672aebd0a6d91/",
-"description": "Arrange falling blocks to complete full lines in a Halloween-themed puzzle setting where strategic placement clears space and increases your score. The game features a classic block-fitting mechanic with a spooky twist, challenging players to manage space efficiently while progressing through increasingly complex levels. Time and movement restrictions add an extra layer of challenge.\n\nKey Features\n\n• Tetromino fitting core mechanic  \n• Drag and rotate block controls  \n• Progressive difficulty levels  \n• Time-limited challenge mode  \n• Halloween visual and sound effects"
 },
 {
 "id": "hallowmas-2020-puzzle",
@@ -1661,12 +1403,6 @@
 "title": "2021 UK Porsche 911 Turbo S Puzzle",
 "iframe": "https://html5.gamedistribution.com/5b75df84973841538df9d9a1b8a4a33c/",
 "description": "Solve intricate tile-based challenges by matching car parts in this puzzle game featuring the iconic 2021 UK Porsche 911 Turbo S. Players focus on piecing together vehicle components with strategic swapping and alignment to complete striking automotive images. Each level ups the complexity by introducing tighter move limits and new puzzle configurations to overcome.\n\nKey Features\n\n• Tile-matching car part puzzles  \n• Strategic piece swapping controls  \n• Progressive difficulty with move limits  \n• Time trial challenge mode  \n• Porsche 911 Turbo S theme visuals"
-},
-{
-"id": "lego-block-puzzle",
-"title": "Lego Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/b0ae62718ec849b7af7c9c59e2da279b/",
-"description": "Arrange falling LEGO-style blocks carefully to fill rows and clear them, testing spatial awareness through classic block placement. The puzzle challenges players to optimize block positioning without time limits, encouraging strategic thinking across increasingly complex grids.\n\nKey Features\n\n• Tetromino inspired block shapes  \n• Drag and drop block placement  \n• Row clearing mechanics  \n• Endless puzzle progression mode  \n• Colorful LEGO construction theme"
 },
 {
 "id": "2021-opel-mokka-e-puzzle",
@@ -1853,12 +1589,6 @@
 "title": "World Earth Day Puzzle",
 "iframe": "https://html5.gamedistribution.com/afdb8767092b4061a985c994057d4e9b/",
 "description": "Match colorful tiles across multiple grid layouts to solve puzzles emphasizing pattern recognition and spatial strategy. Players rotate and swap pieces to create continuous chains while overcoming time-limited challenges. Levels grow progressively tougher, introducing complex shapes and tricky tile configurations that test planning skills in a vibrant, eco-inspired setting.\n\nKey Features\n\n• Tile rotation and swap mechanics  \n• Chain formation scoring system  \n• Time-restricted puzzle stages  \n• Incremental difficulty tiers  \n• Eco-themed visual design"
-},
-{
-"id": "block-hexa-puzzle",
-"title": "Block Hexa Puzzle",
-"iframe": "https://html5.gamedistribution.com/d69bf7c983b64bc7a9537a7f0b5836b0/",
-"description": "Arrange hexagonal blocks on a grid to complete full lines and clear levels in this spatial puzzle challenge. Players manipulate uniquely shaped pieces to fit them perfectly within the limited space, testing spatial reasoning and planning skills. As levels progress, available moves become more restricted, increasing the strategic depth and difficulty of the puzzles.\n\nKey Features\n\n• Hexagon-shaped block fitting  \n• Drag-and-drop piece placement  \n• Increasing grid complexity  \n• Line completion clearing system  \n• Minimalist puzzle interface"
 },
 {
 "id": "cartoon-tractor-puzzle",
@@ -2281,12 +2011,6 @@
 "description": "Match colorful puzzle pieces to clear challenging grids in this casual brain-teaser. Players manipulate tile patterns with spatial logic to solve increasingly complex layouts and unlock new puzzles. Timing and sequence matter as you progress through each level, testing your pattern recognition skills with a clean, minimalistic interface.\n\nKey Features\n\n• Tile matching core mechanic  \n• Drag-and-drop puzzle controls  \n• Level-based difficulty scaling  \n• Time bonus scoring system  \n• Colorful block visuals"
 },
 {
-"id": "woody-block-hexa-puzzle-game",
-"title": "Woody Block Hexa Puzzle Game",
-"iframe": "https://html5.gamedistribution.com/a60ae5fd1c3e414996a2245db1a0205a/",
-"description": "Arrange wooden hexagonal blocks carefully to fit the grid and clear lines in this spatial puzzle. Rotate and position pieces with precise dragging controls to complete each level’s pattern. The game presents increasingly complex setups that challenge your spatial reasoning and planning, inviting casual players to unwind while sharpening their puzzle skills.\n\nKey Features\n\n• Hexagonal block arrangement mechanic  \n• Drag and rotate piece controls  \n• Progressive level complexity  \n• Line clearing scoring system  \n• Natural wooden texture design"
-},
-{
 "id": "mazda-3-sedan-puzzle",
 "title": "Mazda 3 Sedan Puzzle",
 "iframe": "https://html5.gamedistribution.com/34cb95436eac460b9c78b2ed08ad6055/",
@@ -2483,12 +2207,6 @@
 "title": "Land Rover Defender 110 Puzzle",
 "iframe": "https://html5.gamedistribution.com/8e32c5d54c3641afad13befdc7cc433f/",
 "description": "Arrange intricate jigsaw pieces to rebuild the iconic Land Rover Defender 110 in this casual puzzle challenge. Players manipulate segmented puzzle elements through drag-and-drop controls, aiming to complete detailed vehicle imagery under time constraints. The game features multiple scenes with increasing difficulty, testing visual recognition and spatial reasoning in a relaxed automotive setting.\n\nKey Features\n\n• Drag-and-drop puzzle mechanics  \n• Time-limited piece placement  \n• Progressive scene complexity  \n• Visual completion accuracy scoring  \n• Classic Land Rover vehicle imagery"
-},
-{
-"id": "block-wood-puzzle",
-"title": "Block Wood Puzzle",
-"iframe": "https://html5.gamedistribution.com/2b6a7d0b892f48e99a833968ea5f9dc5/",
-"description": "Arrange wooden blocks carefully to fill a grid without gaps in this spatial puzzle challenge. Players rotate and position various shapes to complete lines and clear space, testing pattern recognition and planning skills. The game ramps up in difficulty with shaped pieces of increasing complexity and limited move options.\n\nKey Features\n\n• Block rotation and placement  \n• Grid completion mechanics  \n• Progressive level difficulty  \n• Time-limited puzzle modes  \n• Minimalist wooden theme"
 },
 {
 "id": "rs7-sportback-puzzle",
@@ -2731,12 +2449,6 @@
 "description": "Match colored tiles to clear levels in a grid-based puzzle format, using limited moves to plan each step carefully. The gameplay centers on arranging unique patterns that evolve through increasingly complex stages, challenging players to strategize under pressure. Subtle environmental details hint at an ancient or exotic backdrop, enriching the puzzle-solving experience with thematic depth.\n\nKey Features\n\n• Pattern matching tile mechanic  \n• Move-limited puzzle strategy  \n• Progressive level complexity  \n• Time trial challenge mode  \n• Ancient-inspired visual accents"
 },
 {
-"id": "folding-block-puzzle",
-"title": "Folding Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/5d82c282c7cd4a72be8895c7045e7036/",
-"description": "Arrange and rotate block shapes on a compact grid to fill horizontal or vertical lines without gaps in this spatial puzzle challenge. Players strategically place varied polyomino pieces to clear rows and prevent the board from filling up. Success depends on fitting pieces efficiently and planning ahead across increasingly difficult layouts.\n\nKey Features\n\n• Polyomino block placement mechanics  \n• Drag and drop piece controls  \n• Progressive line clearing challenges  \n• Endless mode with score tracking  \n• Minimalist grid puzzle environment"
-},
-{
 "id": "airplanes-puzzle-2",
 "title": "Airplanes Puzzle 2",
 "iframe": "https://html5.gamedistribution.com/434180826ce54337850617bc9b539b52/",
@@ -2839,12 +2551,6 @@
 "description": "Arrange swan-shaped pieces carefully to clear intricate puzzles using spatial reasoning and pattern matching. Players align tiles to complete scenic arrangements, progressing through increasingly complex levels that test visual logic and strategic placement. The game invites casual players to master thoughtful piece organization while unlocking new puzzle challenges.\n\nKey Features\n\n• Tile alignment core mechanic  \n• Drag and drop piece control  \n• Level-based puzzle progression  \n• Time challenge optional mode  \n• Waterfowl-themed tile sets"
 },
 {
-"id": "eg-block-puzzle",
-"title": "EG Block Puzzle",
-"iframe": "https://html5.gamedistribution.com/46e025b3fc564d3a84828357d00f972a/",
-"description": "Arrange and fit geometric blocks into a compact grid layout to clear lines and score points in this puzzle challenge. Players manipulate various shaped pieces, testing spatial awareness and planning skills as the playfield fills up. The simple interface lets casual gamers and kids tackle increasing complexity at their own pace.\n\nKey Features\n\n• Tetromino style block placement  \n• Drag and drop control scheme  \n• Line clearing puzzle mechanics  \n• Endless mode with score tracking  \n• Minimalist grid-based layout"
-},
-{
 "id": "duck-puzzle-challenge",
 "title": "Duck Puzzle Challenge",
 "iframe": "https://html5.gamedistribution.com/3c90f0909f8c422ab97ce4475d14a89d/",
@@ -2911,12 +2617,6 @@
 "description": "Arrange elemental symbols by connecting matching icons in a grid to unlock alchemical reactions and clear levels. This puzzle game challenges players with increasing complexity through chained matching mechanics and limited moves to solve each riddle. Progression comes by mastering pattern recognition and strategic swaps under time or move constraints.\n\nKey Features\n\n• Chain matching puzzle mechanic  \n• Grid-based symbol swapping  \n• Increasing difficulty stages  \n• Limited move challenge system  \n• Elemental reaction visual effects"
 },
 {
-"id": "blocks-puzzle",
-"title": "Blocks Puzzle",
-"iframe": "https://html5.gamedistribution.com/233997631d1d49709058086d6e08bd37/",
-"description": "Arrange and fit differently shaped blocks into a grid by rotating and placing them strategically to clear lines and prevent overflow. The gameplay centers around spatial reasoning with varying block sizes, testing the player’s planning skills under increasing difficulty. Completing rows removes blocks to free space, challenging casual gamers and kids to optimize piece placement.\n\nKey Features\n\n• Shape rotation and placement  \n• Grid-based line clearing system  \n• Progressive difficulty levels  \n• Time-limited challenges  \n• Minimalistic puzzle environment"
-},
-{
 "id": "gta-vehicle-puzzle",
 "title": "GTA Vehicle Puzzle",
 "iframe": "https://html5.gamedistribution.com/86ad16bf890d427186bb3c69ceb31212/",
@@ -2977,22 +2677,10 @@
 "description": "Match colorful hearts to solve increasingly complex puzzle grids in this casual brain teaser. The gameplay revolves around swapping adjacent icons to create lines of matching Valentines-themed symbols. Players aim to clear all arranged patterns under limited moves while unlocking new puzzle layouts. Each level escalates difficulty by introducing restricted moves and time constraints, encouraging strategic planning.\n\nKey Features\n\n• Icon swapping match mechanics  \n• Move-limited puzzle challenges  \n• Progressive level unlocking system  \n• Timed completion objectives  \n• Valentine's themed symbol sets"
 },
 {
-"id": "block-puzzle-plus",
-"title": "Block Puzzle Plus",
-"iframe": "https://html5.gamedistribution.com/4b5da19511764c869ffba87719ba2786/",
-"description": "Arrange falling blocks carefully to fill complete rows in this grid-based puzzle. The game challenges players with limited space and varied block shapes that require strategic placement to clear lines and progress through increasingly complex levels. Quick thinking and spatial awareness are key to mastering each stage and achieving high scores.\n\nKey Features\n\n• Diverse block shape manipulation  \n• Tap and drag placement controls  \n• Level difficulty scaling system  \n• Score multiplier mechanics  \n• Minimalist grid puzzle setting"
-},
-{
 "id": "line-puzzle",
 "title": "Line Puzzle",
 "iframe": "https://html5.gamedistribution.com/ac274bd56d5b4f4fbe2d0bfb937198b7/",
 "description": "Connect intersecting lines to clear grids in this puzzle game that challenges spatial thinking with route mapping mechanics. Players must carefully draw continuous paths without overlapping to solve each increasingly complex level. Timing and precision become more demanding as players unlock new board configurations and unique pattern challenges designed for casual and younger gamers.\n\nKey Features\n\n• Line connection puzzle grids  \n• Continuous path drawing control  \n• Progressive route complexity  \n• Pattern unlocking system  \n• Minimalist visual style"
-},
-{
-"id": "slide-blocks-puzzle",
-"title": "Slide blocks Puzzle",
-"iframe": "https://html5.gamedistribution.com/6bfb0d2e0f164e158c25954bffe6caea/",
-"description": "Slide blocks across a grid to fit them into designated spaces using precise spatial reasoning and timing. Players manipulate differently sized pieces to clear levels with increasing puzzle complexity. Progression introduces new block shapes and grid layouts to challenge problem-solving skills in a clean, abstract setting.\n\nKey Features\n\n• grid-based sliding mechanic  \n• touch and drag controls  \n• increasing level difficulty  \n• timed puzzle challenges  \n• minimalist geometric style"
 },
 {
 "id": "new-years-puzzles",

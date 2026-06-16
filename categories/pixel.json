@@ -37,12 +37,6 @@
 "description": "Navigate a grid of colorful pixels by clearing matching groups to boost your score and unlock new challenges. The core mechanic revolves around strategic pixel selection to maximize combos and chain reactions. Progression is marked by increasingly complex pixel arrangements that test your planning and pattern recognition skills, appealing to casual players and teens alike.\n\nKey Features\n\n• Strategic pixel matching mechanic  \n• Tap-based combo chain system  \n• Level progression with timing challenges  \n• Score multiplier bonus modes  \n• Bright pixel art visuals"
 },
 {
-"id": "block-pixels",
-"title": "Block Pixels",
-"iframe": "https://html5.gamedistribution.com/60243f5a5a994dd8ba4030b11f0a41a9/",
-"description": "Stack colorful pixel blocks carefully to create stable structures and clear challenging levels in this casual puzzle game. Players manipulate falling shapes with precise timing and spatial planning to fill rows and avoid clutter on the grid. The progression tests dexterity and pattern recognition across increasingly complex sequences.\n\nKey Features\n\n• Pixel block arrangement mechanics  \n• Grid-based spatial controls  \n• Incremental level difficulty scaling  \n• Line-clearing scoring system  \n• Bright retro-inspired pixel visuals"
-},
-{
 "id": "pixel-fun-color-by-number",
 "title": "Pixel Fun Color By Number",
 "iframe": "https://html5.gamedistribution.com/708fd7486a2543d9aeb2b53e333b123a/",
@@ -413,12 +407,6 @@
 "title": "Pixel Santa Run",
 "iframe": "https://html5.gamedistribution.com/67b039f85f014ab3a47e8cdfaf46f5ad/",
 "description": "Race through retro-inspired levels navigating pixelated obstacles in this fast-paced endless runner. Players control Santa as he jumps and dodges to collect items while managing simple timing mechanics. The win condition revolves around surviving as long as possible to achieve high scores in a festive pixel art environment.\n\nKey Features\n\n• Timing-based jump controls  \n• Endless runner level design  \n• Increasing obstacle difficulty  \n• Collectible candy cane pickups  \n• Classic 8-bit winter setting"
-},
-{
-"id": "block-pixel-cop",
-"title": "Block Pixel Cop",
-"iframe": "https://html5.gamedistribution.com/5b381d48398c4b7cb986276e697a564b/",
-"description": "Control a pixelated cop navigating urban blocks to uphold order and catch criminals using strategic movement and timing. Players maneuver through tight city streets, encountering escalating challenges that test precision and pattern recognition. Progression unlocks new districts and intensified pursuit scenarios, blending classic pixel art with tactical law enforcement action.\n\nKey Features\n\n• Grid-based player movement  \n• Timed criminal pursuit mechanics  \n• Progressive district unlocking system  \n• Pattern recognition challenges  \n• Urban pixel art environment"
 },
 {
 "id": "pixel-gun-apocalypse-2",

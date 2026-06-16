@@ -217,12 +217,6 @@
 "description": "Combine identical elements to unlock new items and expand your collection in this merge puzzle experience. The game features a grid-based interface where players strategically merge objects to clear space and discover higher-tier components. Progression revolves around achieving increasingly complex merges and unlocking fresh items to enhance the play area. Casual players will appreciate its straightforward yet engaging merging system.\n\nKey Features\n\n• Grid-based merging mechanic  \n• Strategic item combination controls  \n• Level progression through unlockable merges  \n• Inventory expansion system  \n• Casual puzzle theme"
 },
 {
-"id": "block-merge-city",
-"title": "Block Merge City",
-"iframe": "https://html5.gamedistribution.com/6fdfa0f5e3ec4e928a32485aee0f5933/",
-"description": "Slide and merge numbered blocks strategically to create higher-value tiles in a grid-based puzzle setting. Combining identical blocks clears space and increases scores, challenging players to plan moves carefully to avoid gridlock. The game tests spatial reasoning and foresight as players aim to maximize merges and tile upgrades progressively.\n\nKey Features\n\n• Tile sliding merge mechanic  \n• Strategic grid space management  \n• Progressive tile value system  \n• Increasing challenge with limited moves  \n• Casual puzzle format with numeric blocks"
-},
-{
 "id": "labuba-merge",
 "title": "Labuba Merge",
 "iframe": "https://html5.gamedistribution.com/3bd8d990c6294379a7755f938a4944b4/",
@@ -541,22 +535,10 @@
 "description": "Tap and merge resource nodes to expand your mining operation, combining identical tiles to unlock higher-value ores and maximize your output. Progress through increasingly complex merge patterns while managing the growth of your mine’s layout. The game challenges players to think strategically about tile placement and tapping frequency amid casual merge gameplay.\n\nKey Features\n\n• Tile merging resource system  \n• Tap to harvest mechanics  \n• Incremental mine expansion  \n• Merge pattern complexity  \n• Casual mining theme"
 },
 {
-"id": "block-dropping-merge",
-"title": "Block Dropping Merge",
-"iframe": "https://html5.gamedistribution.com/e13c14074f36411886a70ef94f2d0a92/",
-"description": "Stack falling blocks strategically to merge matching tiles and clear the board. This game revolves around aligning identical blocks to create higher-value merges while managing limited space in a vertical grid. Players must plan placements carefully to avoid filling up the play area, with increasing complexity as the stacking height grows.\n\nKey Features\n\n• Block merging tile mechanic  \n• Directional block placement control  \n• Height restriction challenge system  \n• Progressive difficulty scaling  \n• Minimalist geometric visual style"
-},
-{
 "id": "thor-merge",
 "title": "Thor Merge",
 "iframe": "https://html5.gamedistribution.com/5a12e99c2997451f98813349fa7e8d46/",
 "description": "Combine elements by dragging and merging them to create higher-level items in this puzzle adventure. Players continuously experiment with merging patterns to unlock new combinations and advance through increasing tiers of complexity. The game challenges casual players to optimize merges and explore progression with a lightly mythological theme hinted through iconography and naming.\n\nKey Features\n\n• drag and merge combo mechanic  \n• incremental item evolution system  \n• tiered progression challenges  \n• limited move strategic puzzles  \n• Norse-inspired thematic hints"
-},
-{
-"id": "2248-block-merge",
-"title": "2248 Block Merge",
-"iframe": "https://html5.gamedistribution.com/2ff606322fa1424485523078b5945e3a/",
-"description": "Merge numbered blocks to create higher values and clear your grid in this puzzle challenge. Players strategically combine matching tiles to unlock new merged blocks and avoid filling the board. Progressive level layouts increase difficulty as you aim for the highest possible block without running out of moves.\n\nKey Features\n\n• Tile merging puzzle mechanic  \n• Swipe-based block control  \n• Increasing grid difficulty levels  \n• Score tracking and combo system  \n• Minimalistic numeric block theme"
 },
 {
 "id": "popcats-merge-the-cats",
@@ -1073,12 +1055,6 @@
 "title": "Number Merge",
 "iframe": "https://html5.gamedistribution.com/9b099ff9b5b143bd8b3d115cbfbeeb65/",
 "description": "Combine numbered tiles by matching adjacent values to create larger sums in this grid-based puzzle. Players slide tiles strategically to achieve higher merges while managing limited space and preventing the board from filling. The blend of numerical matching and spatial planning challenges progression through increasingly complex arrangements. Timing and movement precision are key in this evolving merge mechanic.\n\nKey Features\n\n• Number combination core mechanic  \n• Directional tile sliding controls  \n• Board space management challenge  \n• Incremental merge value progression  \n• Casual grid puzzle environment"
-},
-{
-"id": "block-hexa-merge-2048",
-"title": "Block Hexa Merge 2048",
-"iframe": "https://html5.gamedistribution.com/7db4bfa9baf84921b81a2652e0632420/",
-"description": "Slide hexagonal blocks to merge and reach higher numbers in this puzzle challenge. Players manipulate a compact hex grid, combining matching blocks to clear space and unlock new merges. The gameplay hinges on strategic spatial management, pushing towards achieving complex block merges before the grid fills up.\n\nKey Features\n\n• Hexagonal grid merge mechanic  \n• Swipe control block movement  \n• Increasing merge target goals  \n• Score tracking and combo system  \n• Abstract block design and layout"
 },
 {
 "id": "merge-tower-animals",

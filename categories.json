@@ -65,6 +65,11 @@
 "description": "Bike games focus on agile vehicle control in <a href='/?c=racing'>racing games</a> where players balance, accelerate, and navigate tracks through responsive mechanics. These experiences emphasize movement and control without relying on heavy vehicle systems or trick focused gameplay. Gameplay centers on balance, speed, and progression through track based challenges."
 },
 {
+"id": "block",
+"name": "Block",
+"description": "Block Games focus on arranging, stacking, and clearing shapes through spatial challenges that reward planning and efficient moves. Players place blocks on grids, complete patterns, manage limited space, and solve increasingly complex layouts using logic driven mechanics. Many games feature row clearing systems, shape fitting objectives, and long tail gameplay styles such as block blast puzzles, block stacking challenges, and block placement strategy gameplay. This category connects naturally to broader <a href='/?c=puzzle'>puzzle games</a> while emphasizing pattern recognition, board management, and progression through structured puzzle levels."
+},
+{
 "id": "bubble-shooter",
 "name": "Bubble Shooter",
 "description": "Bubble shooter games focus on projectile matching in <a href='/?c=matching'>matching games</a> where players aim, shoot, and connect colored bubbles to clear formations through physics based mechanics. These experiences emphasize accuracy and alignment without relying on board swapping systems. Gameplay centers on aiming precision, cluster clearing, and level based progression."

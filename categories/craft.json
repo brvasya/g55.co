@@ -91,22 +91,10 @@
 "description": "Navigate challenging obstacle courses using parkour movements to escape prison zones crafted with intricate block placements. Players must time jumps precisely while avoiding traps and barriers in dynamic obby stages. The game combines obstacle navigation with platforming challenges that push reflexes and spatial awareness in a crafted environment.\n\nKey Features\n\n• Precision jump timing system  \n• Parkour-inspired obstacle courses  \n• Progressive difficulty levels  \n• Trap and barrier avoidance mechanics  \n• Block-based environment design"
 },
 {
-"id": "block-craft-3d-school",
-"title": "Block Craft 3D School",
-"iframe": "https://html5.gamedistribution.com/6ab613251e0a4e0d85a3f365a962bc17/",
-"description": "Build and customize your own blocky world using intuitive crafting tools in this 3D sandbox environment. Players gather resources by mining and placing cubes to shape landscapes and structures. The game emphasizes creative freedom and open-ended construction, letting players express themselves through building designs and layouts. Explore and expand your creations while mastering spatial organization and resource management.\n\nKey Features\n\n• Block placement and mining mechanics  \n• User-friendly building controls  \n• Open world exploration system  \n• Resource gathering and crafting loops  \n• Voxel-based 3D environment"
-},
-{
 "id": "castle-craft",
 "title": "Castle Craft",
 "iframe": "https://html5.gamedistribution.com/9c2c7478d22b439b9518574c9feec0bc/",
 "description": "Build and customize your fortress by gathering resources and combining materials in a dynamic crafting system. Players manage limited inventories while selecting blueprints to expand their stronghold through structured level progression. Experimenting with various construction components shapes defensive strategies against environmental hazards in a medieval setting.\n\nKey Features\n\n• Material collection and combination  \n• Blueprint-based base expansion  \n• Inventory space management  \n• Defensive structure upgrades  \n• Medieval environment challenges"
-},
-{
-"id": "block-craft-3d",
-"title": "Block Craft 3d",
-"iframe": "https://html5.gamedistribution.com/dea0d13d63fb4eb1b8c1b8971fe75635/",
-"description": "Build detailed structures by placing blocks in a colorful 3D sandbox world where creativity drives your progress. Players gather resources to craft custom designs and expand their pixelated environments, exploring multiple biomes and unlocking new building options. Construction challenges encourage experimentation with various block types and spatial layouts.\n\nKey Features\n\n• Block placement building system  \n• Resource gathering and crafting  \n• Expansive multi-biome exploration  \n• Progressive unlocking of materials  \n• Vibrant voxel art style"
 },
 {
 "id": "hammer-master-craft-destroy",
@@ -137,12 +125,6 @@
 "title": "Counter Craft 2 Zombies",
 "iframe": "https://html5.gamedistribution.com/3039c196e6ed42daa29fbadc69aacb04/",
 "description": "Survive waves of undead by crafting weapons and defenses in a pixelated battlefield setting. Scavenge materials to build and upgrade gear while fending off relentless zombie attacks using strategic placement and resource management. The game challenges players to balance crafting speed with combat readiness to hold out through escalating zombie hordes.\n\nKey Features\n\n• Crafting-based weapon upgrades  \n• Resource gathering and management  \n• Wave survival combat system  \n• Defensive structure building  \n• Pixel art zombie theme"
-},
-{
-"id": "block-craft-zombie-attack",
-"title": "Block Craft Zombie Attack",
-"iframe": "https://html5.gamedistribution.com/46100801c12649e3a312edc7ce1a02b8/",
-"description": "Build and defend a settlement by strategically placing blocks to create barricades in this pixelated survival game. Players manage resources to craft defensive structures and weapons while fending off waves of zombies in a blocky world. Progression involves upgrading barricades and crafting tools to withstand increasingly tough undead enemies.\n\nKey Features\n\n• Block-based construction mechanics  \n• Resource gathering and crafting system  \n• Wave-based zombie attack challenges  \n• Defense upgrade progression  \n• Pixel art survival setting"
 },
 {
 "id": "my-craft-craft-adventure",
@@ -181,12 +163,6 @@
 "description": "Gather resources and build shelter to survive in a blocky world with cube-based crafting mechanics. Players collect materials to create tools and fortifications while facing environmental challenges to maintain health and safety. Exploration and strategic construction drive the progression, encouraging creative problem solving in a pixelated survival setting.\n\nKey Features\n\n• Block gathering and crafting  \n• Tool creation and upgrade system  \n• Health and hunger management  \n• Shelter building mechanics  \n• Pixel art survival environment"
 },
 {
-"id": "block-craft-2",
-"title": "Block Craft 2",
-"iframe": "https://html5.gamedistribution.com/30332e8ad8514c44b54d648ea291ab0b/",
-"description": "Build and customize your own voxel-style world by placing various blocks in a 3D sandbox environment, focusing on creative construction and open-ended exploration. Players collect resources to craft tools and structures while managing limited inventory slots for efficient building. The game promotes gradual world expansion through unlocking new block types and decorative elements.\n\nKey Features\n\n• Block placement building system  \n• Resource gathering mechanics  \n• Inventory management limits  \n• Progressive unlockable blocks  \n• Voxel-based sandbox world"
-},
-{
 "id": "craft-punch-2",
 "title": "Craft Punch 2",
 "iframe": "https://html5.gamedistribution.com/8690f2f757904b7ca6080e93f6a12ffb/",
@@ -215,36 +191,6 @@
 "title": "World Craft HD",
 "iframe": "https://html5.gamedistribution.com/1193abc736a24fe3a1e1787ee40572d4/",
 "description": "Build and customize structures using block placement in this HD crafting game designed for casual players. Manipulate materials to create intricate designs while managing limited resources in a vibrant voxel environment. Explore various building challenges that test your creativity and spatial reasoning at each level.\n\nKey Features\n\n• Block placement construction system  \n• Resource gathering and management  \n• Progressive building challenges  \n• Creative mode with unlimited blocks  \n• Voxel-based vibrant graphics"
-},
-{
-"id": "block-craft",
-"title": "Block Craft",
-"iframe": "https://html5.gamedistribution.com/c5d777b5cf374259a9b82965b05186a5/",
-"description": "Place and arrange colorful blocks to build structures with precise grid-based stacking in casual creative sessions. Experiment with different block shapes and sizes to construct houses and landscapes within a sandbox environment. The ongoing challenge lies in optimizing your build strategy while expanding your creations incrementally.\n\nKey Features\n\n• Grid-aligned block placement  \n• Intuitive drag-and-drop controls  \n• Progressive building complexity  \n• Freeform sandbox mode  \n• Vibrant block variety and colors"
-},
-{
-"id": "block-craft-jigsaw-puzzle",
-"title": "Block Craft Jigsaw Puzzle",
-"iframe": "https://html5.gamedistribution.com/458d490f56be4a51aace6127d3a46514/",
-"description": "Arrange and rotate colorful puzzle pieces to create block-style images in this crafting puzzle game. Players engage with a variable jigsaw mechanic where fitting interlocking blocks forms complete pictures. The challenge lies in visualizing piece placement and completing puzzles efficiently. Casual players and younger audiences progress through increasingly complex levels featuring artistic block designs.\n\nKey Features\n\n• Interlocking block jigsaw mechanic  \n• Piece rotation and placement control  \n• Level-based puzzle progression  \n• Visual pattern recognition challenge  \n• Craft-themed block artwork"
-},
-{
-"id": "block-craft-jumping-adventure",
-"title": "Block Craft Jumping Adventure",
-"iframe": "https://html5.gamedistribution.com/9a3207d9b8fa46c7b8b27a9b3ec2313f/",
-"description": "Navigate blocky platforms with precise jumping skills to traverse dynamic levels in this casual crafting adventure. Players engage in timed leaps across floating cubes, mastering momentum to achieve higher scores and unlock new stage layouts. The game emphasizes skillful platforming within a pixel-style environment, challenging teens and kids to improve accuracy and reflexes.\n\nKey Features\n\n• Momentum-based jumping control  \n• Modular block platform design  \n• Progressive stage difficulty scaling  \n• Time attack scoring system  \n• Pixel art visual style"
-},
-{
-"id": "block-craft-differences",
-"title": "Block Craft Differences",
-"iframe": "https://html5.gamedistribution.com/80040a8733bf4f858f4a13715ee0db5d/",
-"description": "Spot hidden differences between two pixelated worlds by closely examining detailed block environments. The game challenges players to spot subtle alterations in block structures and objects, using attentive observation and quick scanning mechanics. Timed levels increase difficulty, encouraging faster and more precise identification within a casual crafting-inspired setting.\n\nKey Features\n\n• Spot-the-difference puzzle gameplay  \n• Mouse-driven point and click controls  \n• Timed challenge levels progression  \n• Sequential scene difference tracking  \n• Block-style pixel art theme"
-},
-{
-"id": "block-craft-survival",
-"title": "Block Craft Survival",
-"iframe": "https://html5.gamedistribution.com/3d58bc7ca9da4ac69114e8a8cdd165fa/",
-"description": "Craft structures and manage resources to survive in a blocky open world where creativity meets endurance. Players must gather materials and build shelter while fending off threats in a sandbox environment. The game cycles through day and night phases that impact player safety and resource availability.\n\nKey Features\n\n• Resource gathering and crafting system  \n• Real-time building controls  \n• Dynamic day-night cycle challenges  \n• Survival progression with hunger and health  \n• Pixelated voxel-style environment"
 },
 {
 "id": "bts-monster-craft-coloring",

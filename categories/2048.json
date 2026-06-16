@@ -37,12 +37,6 @@
 "description": "Slide numbered tiles on a grid to combine matching values using strategic merges and spatial planning in this updated 2048 variant. The game challenges players to efficiently fuse tiles while managing limited space to reach higher number combinations. With progressively complex board setups, it requires careful manipulation of tile placement to avoid gridlock and maximize scoring potential.\n\nKey Features\n\n• tile fusion core mechanic  \n• swipe based grid control  \n• spatial management challenge  \n• escalating difficulty levels  \n• minimalistic numeric theme"
 },
 {
-"id": "block-blast-2048",
-"title": "Block Blast 2048",
-"iframe": "https://html5.gamedistribution.com/c9b43199b34a4ab4841b8800f8ad76bf/",
-"description": "Slide numbered blocks to combine matching tiles and reach higher values in this puzzle variant. Players merge blocks strategically on a grid, balancing space and opportunities to achieve the 2048 tile. Each move demands careful planning to avoid gridlock and maximize chain combinations for progression.\n\nKey Features\n\n• Number merging tile mechanic  \n• Swipe control tile movement  \n• Increasing block value challenge  \n• Score tracking and combos  \n• Minimalist grid puzzle setting"
-},
-{
 "id": "cubes-2048-io",
 "title": "Cubes 2048.io",
 "iframe": "https://html5.gamedistribution.com/5b5b258f7ed64796afd5f7e3653f18e1/",
@@ -211,12 +205,6 @@
 "description": "Slide and merge numbered cubes strategically to create higher values in a dynamic grid combining classic 2048 gameplay with chain reaction merges. The core mechanic involves connecting matching cubes in sequences, challenging players to plan moves and maximize combo merges. The spatial puzzle setting demands careful tile management to reach new high scores.\n\nKey Features\n\n• Chain reaction merge mechanic  \n• Swipe based cube movement  \n• Combo multiplier scoring system  \n• Increasing difficulty grid layout  \n• Puzzle style tile arrangement"
 },
 {
-"id": "join-blocks-2048-number-puzzle",
-"title": "Join Blocks 2048 Number Puzzle",
-"iframe": "https://html5.gamedistribution.com/0d30fa00a66f48b29bb7f4b1f8329a38/",
-"description": "Slide numbered blocks across a grid to merge matching tiles and create larger sums in this variation of tile-combining puzzles. Players plan moves carefully to avoid gridlock while aiming for high-value blocks through strategic merges. The game emphasizes spatial foresight and numerical progression on a clean interface suited for casual fans.\n\nKey Features\n\n• tile sliding merge mechanic  \n• directional swipe controls  \n• grid space management challenge  \n• incremental block value targets  \n• minimalist puzzle interface"
-},
-{
 "id": "hexa-2048-puzzle-block-merge",
 "title": "Hexa 2048 Puzzle - Block Merge",
 "iframe": "https://html5.gamedistribution.com/ba6c3e3c7a7c42fcb52850d9c5f5bd64/",
@@ -293,12 +281,6 @@
 "title": "2048 Drop",
 "iframe": "https://html5.gamedistribution.com/efec93704a6d4f9e83fd78536231192c/",
 "description": "Slide numbered tiles downward in a grid to merge matching values using gravity-based movement. This variation challenges players to plan merges under directional constraints, aiming to create higher-value tiles while managing limited space. The core mechanic involves aligning and dropping tiles strategically to maximize scores and advance through increasingly complex boards.\n\nKey Features\n\n• Gravity influenced tile merging  \n• Swipe controls for directional moves  \n• Increasing grid complexity  \n• Score tracking progression system  \n• Minimalist numeric tile aesthetic"
-},
-{
-"id": "paper-block-2048",
-"title": "Paper Block 2048",
-"iframe": "https://html5.gamedistribution.com/0f328be6975e41b192dc0196dfd30fe5/",
-"description": "Slide numbered tiles across a grid to merge matching values in this puzzle challenge. Players use strategic planning to combine paper-themed blocks and reach higher totals while managing limited space. The objective centers on achieving the 2048 tile by carefully shifting pieces to avoid filling the board prematurely.\n\nKey Features\n\n• Tile merging core mechanic  \n• Directional swipe controls  \n• Increasing difficulty with space management  \n• Endless mode for score chasing  \n• Minimalist paper-style interface"
 },
 {
 "id": "2048-legend",
