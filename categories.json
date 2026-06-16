@@ -447,7 +447,7 @@
 {
 "id": "shooter",
 "name": "Shooter",
-"description": "Shooter games focus on aiming, firing weapons, and eliminating targets through action driven gameplay mechanics. Players engage enemies, manage positioning, and react quickly while progressing through combat scenarios and mission based challenges. Combat gameplay connects to perspective based action in <a href='/?c=fps'>fps games</a> and precision targeting in <a href='/?c=sniper'>sniper games</a>, while weapon focused encounters appear across <a href='/?c=gun'>gun games</a>. Survival based combat is reflected in <a href='/?c=survival'>survival games</a> and themed encounters appear in <a href='/?c=zombie'>zombie games</a>. These browser shooter experiences emphasize aiming control loops, reaction based combat systems, and progression driven gameplay suited for engaging online play."
+"description": "Shooter games focus on aiming, firing weapons, and eliminating targets through action driven gameplay mechanics. Players engage enemies, manage positioning, and react quickly while progressing through combat scenarios and mission based challenges. Combat gameplay connects to perspective based action in <a href='/?c=fps'>fps games</a> and precision targeting in <a href='/?c=sniper'>sniper games</a>, while weapon focused encounters appear across <a href='/?c=gun'>gun games</a>. These browser shooter experiences emphasize aiming control loops, reaction based combat systems, and progression driven gameplay suited for engaging online play."
 },
 {
 "id": "simulator",
@@ -507,7 +507,7 @@
 {
 "id": "survival",
 "name": "Survival",
-"description": "Survival games focus on staying alive under pressure in <a href='/?c=shooter'>shooter games</a> where players manage threats, conserve resources, and eliminate enemies through sustained combat mechanics. These experiences emphasize endurance and adaptation similar to <a href='/?c=zombie'>zombie games</a>, requiring awareness and continuous response. Gameplay centers on lasting through encounters, managing danger, and progressing through escalating challenges."
+"description": "Survival games focus on staying alive under pressure in <a href='/?c=horror'>horror games</a> where players manage threats, conserve resources, and eliminate enemies through sustained combat mechanics. These experiences emphasize endurance and adaptation similar to <a href='/?c=zombie'>zombie games</a>, requiring awareness and continuous response. Gameplay centers on lasting through encounters, managing danger, and progressing through escalating challenges."
 },
 {
 "id": "tank",
@@ -557,7 +557,7 @@
 {
 "id": "zombie",
 "name": "Zombie",
-"description": "Zombie games focus on themed combat encounters in <a href='/?c=shooter'>shooter games</a> where players face waves of enemies, react quickly, and survive through action driven mechanics. These experiences emphasize pressure and repetition similar to <a href='/?c=survival'>survival games</a>, combining combat with endurance. Gameplay centers on wave clearing, positioning, and progression through increasing difficulty."
+"description": "Zombie Games focus on themed combat encounters in <a href='/?c=survival'>survival games</a> where players face waves of enemies, react quickly, and survive through action driven mechanics. These experiences emphasize pressure and repetition similar to <a href='/?c=horror'>horror games</a>, combining combat with endurance. Gameplay centers on wave clearing, positioning, and progression through increasing difficulty."
 }
 ]
 }
