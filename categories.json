@@ -30,11 +30,6 @@
 "description": "Adventure games focus on exploring environments, completing objectives, and progressing through scenario driven challenges using interaction based gameplay mechanics. Players navigate levels, uncover paths, and solve tasks while advancing through structured journeys and evolving situations. Exploration gameplay connects to escape based challenges found in <a href='/?c=escape'>escape games</a>, where players solve puzzles and navigate confined environments, while objective driven missions appear across <a href='/?c=rescue'>rescue games</a>. These browser adventure experiences emphasize progression loops, environment interaction systems, and goal oriented gameplay pacing suited for immersive online play."
 },
 {
-"id": "among-us",
-"name": "Among Us",
-"description": "Among us games focus on social deception scenarios in <a href='/?c=multiplayer'>multiplayer games</a> where players complete tasks, observe behaviors, and identify hidden roles through interaction driven gameplay mechanics. These experiences emphasize communication, deduction, and group dynamics without relying on traditional competitive formats. Gameplay centers on trust, strategy, and decision making within shared sessions."
-},
-{
 "id": "animal",
 "name": "Animal",
 "description": "Animal games focus on interacting with creatures, exploring nature themed environments, and completing activity driven challenges through character based gameplay mechanics. Players control animals, manage behaviors, and engage with different scenarios while progressing through structured tasks and open ended experiences. Theme based gameplay connects to focused interactions in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>, while care and simulation elements appear across <a href='/?c=pet'>pet games</a>. These browser animal experiences emphasize character interaction loops, environment exploration systems, and activity driven progression suited for engaging online play."
@@ -248,6 +243,11 @@
 "id": "idle",
 "name": "Idle",
 "description": "Idle games focus on automated progression systems in <a href='/?c=simulator'>simulator games</a> where players generate resources over time, upgrade processes, and optimize passive income through incremental mechanics. These experiences emphasize automation and scaling similar to <a href='/?c=clicker'>clicker games</a>, allowing continuous progression with minimal interaction. Gameplay centers on efficiency tuning, upgrade paths, and long term accumulation systems."
+},
+{
+"id": "impostor",
+"name": "Impostor",
+"description": "Impostor games focus on social deception scenarios in <a href='/?c=multiplayer'>multiplayer games</a> where players complete tasks, observe behaviors, and identify hidden roles through interaction driven gameplay mechanics. These experiences emphasize communication, deduction, and group dynamics without relying on traditional competitive formats. Gameplay centers on trust, strategy, and decision making within shared sessions."
 },
 {
 "id": "jewel",

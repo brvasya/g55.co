@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "nightmare-runners",
+"title": "Nightmare Runners",
+"iframe": "https://html5.gamedistribution.com/30d507b0fe064bbe92b0db6be80c76cf/",
+"description": "Navigate intricate obstacle courses as a swift character in this casual runner, employing precise timing and reflexes to avoid hazards. The gameplay revolves around continuous movement and strategic jumps through dynamically changing levels. Players aim to survive as long as possible while collecting items to boost their score and progress through increasingly difficult stages.\n\nKey Features\n\n• Momentum based jumping mechanic  \n• Responsive tap and swipe controls  \n• Increasing obstacle complexity  \n• Score multiplier progression system  \n• Stylized character animations"
+},
+{
+"id": "challenge-the-runners",
+"title": "Challenge the Runners",
+"iframe": "https://html5.gamedistribution.com/6571a5a202aa4cbeb617c38fa75b442a/",
+"description": "Race challenging obstacle courses with sprinting characters that require precise timing to jump and slide. Navigate varied track layouts featuring speed boosts and barriers while aiming to reach the finish line faster than rivals. The game blends fast-paced movement control with level-based competitive races across colorful environments designed for casual players.\n\nKey Features\n\n• Sprint and slide movement mechanics  \n• Responsive timing-based controls  \n• Increasingly complex track layouts  \n• Competitive race progression system  \n• Vibrant obstacle course settings"
+},
+{
+"id": "cube-the-runners",
+"title": "Cube The Runners",
+"iframe": "https://html5.gamedistribution.com/5cf4be92bfe941f38d81a6fb19568d18/",
+"description": "Navigate fast-paced obstacle courses using precise cube movements in this casual game. Players control a rolling cube that jumps, dodges, and balances across narrow platforms while avoiding pitfalls and gaps. Timing and spatial awareness are key as you progress through increasingly complex runner stages designed for quick reflex challenges.\n\nKey Features\n\n• Cube rolling and jumping mechanics  \n• Precision platform navigation controls  \n• Progressive obstacle difficulty levels  \n• Time-based scoring system  \n• Minimalist geometric visual style"
+},
+{
+"id": "little-big-runners",
+"title": "Little Big Runners",
+"iframe": "https://html5.gamedistribution.com/8fdbf9e79bd4409ab46fb6e0b27fe4e5/",
+"description": "Navigate dynamic obstacle courses while sprinting through vibrant landscapes in this casual arcade runner. Players focus on timing precise jumps and dodges to avoid barriers, using incremental speed boosts to extend their runs. The game challenges reflexes and coordination as runners aim to cover maximum distance across increasingly complex stages.\n\nKey Features\n\n• Timing-based jump controls  \n• Obstacle avoidance mechanics  \n• Progressive speed increase  \n• Endless running mode  \n• Colorful casual race environments"
+},
+{
 "id": "blocky-archer-run",
 "title": "Blocky Archer Run",
 "iframe": "https://html5.gamedistribution.com/665328d407a547f2a003ed3723dedf16/",

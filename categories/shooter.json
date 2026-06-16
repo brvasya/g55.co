@@ -1,6 +1,66 @@
 {
 "pages": [
 {
+"id": "mini-shooters",
+"title": "Mini Shooters",
+"iframe": "https://html5.gamedistribution.com/4237b433eb5c4698a31e0cd0203fbbfa/",
+"description": "Control fast-paced combat with tiny soldiers battling in close quarters. Navigate small arenas where precise aiming and quick reflexes are key to defeating waves of enemies using a variety of compact firearms. Survival hinges on mastering short-range encounters and adapting to enemy attack patterns for high score progression.\n\nKey Features\n\n• Top-down twin-stick shooter controls  \n• Rapid-fire weapon mechanics  \n• Wave-based enemy assault  \n• Score multiplier survival system  \n• Miniature battlefield arenas"
+},
+{
+"id": "penalty-shooters-3",
+"title": "Penalty Shooters 3",
+"iframe": "https://html5.gamedistribution.com/ac793d41fb5845e59afaad6292e141e1/",
+"description": "Aim and time your penalty kicks precisely to outwit goalkeepers in this focused football shooting challenge. Balance shot power and angle using a simple aiming mechanic to score under pressure, with increasingly tricky goalkeeper behaviors testing your precision. Progress through multiple levels that vary in difficulty and scoring requirements to master your technique.\n\nKey Features\n\n• Precision shot aiming system  \n• Responsive goalkeeper AI patterns  \n• Increasing difficulty levels  \n• Time pressure shooting mechanics  \n• Football penalty shootout setting"
+},
+{
+"id": "rooftop-shooters",
+"title": "Rooftop Shooters",
+"iframe": "https://html5.gamedistribution.com/68433cf6e17346e1a91818c60028a620/",
+"description": "Navigate urban skylines while aiming and shooting with precise projectile control. Engage in rooftop combat using unique jumping and aiming mechanics to outmaneuver opponents. The game challenges players to maintain balance and accuracy as they progress through increasingly difficult rooftop arenas.\n\nKey Features\n\n• Precision projectile aiming system  \n• Vertical movement with rooftop jumping  \n• Progressive arena difficulty scaling  \n• Time-limited combat rounds  \n• Urban rooftop battlegrounds"
+},
+{
+"id": "crazy-shooters-2",
+"title": "Crazy Shooters 2",
+"iframe": "https://html5.gamedistribution.com/5fb9c72b2cbd458c9ad4865f036dcc27/",
+"description": "Navigate chaotic battle arenas using rapid-fire projectile weapons in this intense casual shooter. Players engage in fast-paced combat with diverse enemy types while mastering unique weapon systems and dodging incoming attacks. Strategic movement and precise aiming are key to surviving waves of opponents and climbing through progressively challenging levels.\n\nKey Features\n\n• Projectile-based combat system  \n• Player-controlled fast movement  \n• Increasing enemy difficulty waves  \n• Multiple unlockable weapon upgrades  \n• Colorful arena battle environments"
+},
+{
+"id": "2d-shooters",
+"title": "2D Shooters",
+"iframe": "https://html5.gamedistribution.com/e2853d4420c3447bbcd6ff9a10cba665/",
+"description": "Blast through waves of enemies using fast-paced shooting mechanics and dynamic weapon upgrades in 2D Shooters. Players navigate pixel-art arenas, dodging incoming fire while managing ammo and health. The game challenges reflexes and precision as hazards intensify across escalating levels to survive until the end.\n\nKey Features\n\n• Multi-directional shooting controls  \n• Progressive enemy wave patterns  \n• Ammo and health resource management  \n• Level-based difficulty scaling  \n• Pixel-art arcade combat arenas"
+},
+{
+"id": "wasteland-shooters",
+"title": "Wasteland Shooters",
+"iframe": "https://html5.gamedistribution.com/edd9a16b481e4274aac0328601ae24c8/",
+"description": "Navigate post-apocalyptic battlegrounds using precise shooting mechanics to eliminate waves of enemies in tense firefights. This game combines fast-paced aim-and-shoot gameplay with scavenging for weapon upgrades amid rugged wasteland environments. Players must survive successive combat rounds, mastering cover and reload timing to progress through increasingly hostile zones.\n\nKey Features\n\n• Top-down shooting combat  \n• Responsive twin-stick controls  \n• Progressive weapon upgrade path  \n• Survival through enemy waves  \n• Desolate wasteland arena setting"
+},
+{
+"id": "stellar-shooters",
+"title": "Stellar Shooters",
+"iframe": "https://html5.gamedistribution.com/38ae5db3c4f44e02889d40555b5b5f42/",
+"description": "Navigate dynamic space arenas while shooting waves of enemies in Stellar Shooters, a casual arcade game where precision aiming and rapid firing define gameplay. Players control a nimble spaceship equipped with upgradeable lasers, striving to survive increasingly difficult enemy formations across evolving levels.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Ship movement with inertia control  \n• Progressive enemy wave difficulty  \n• Laser weapon upgrade system  \n• Space arena combat environment"
+},
+{
+"id": "crazy-shooters",
+"title": "Crazy Shooters",
+"iframe": "https://html5.gamedistribution.com/20454ead6fe14ae6bd3127efbc813bdb/",
+"description": "Shoot down waves of opponents using fast-paced aiming and reflexes in a casual browser game designed for easy pick-up play. Players engage with a core shooting mechanic that challenges accuracy and timing, facing increasingly difficult enemy patterns. The game includes simple controls and quick level transitions to keep gameplay flowing for younger audiences.\n\nKey Features\n\n• Precision aiming and shooting  \n• Responsive keyboard and mouse controls  \n• Progressive enemy difficulty scaling  \n• Timed survival and score modes  \n• Light-hearted casual gameplay setting"
+},
+{
+"id": "toon-shooters",
+"title": "Toon Shooters",
+"iframe": "https://html5.gamedistribution.com/88a493976c784c9190e3374fc2a75b24/",
+"description": "Shoot through fast-paced cartoon battles using a variety of unique weapons and aiming skills. Players rely on precise timing and targeting mechanics to clear waves of quirky enemies across colorful, animated levels. Progression involves mastering different arsenal types and adapting movement to outsmart unpredictable opponents, with escalating difficulty adding an extra layer of challenge.\n\nKey Features\n\n• Diverse ranged weaponry system  \n• Precision aiming and shooting controls  \n• Progressive enemy wave challenges  \n• Unlockable character customization  \n• Vibrant cartoon-themed stages"
+},
+{
+"id": "penalty-shooters-2",
+"title": "Penalty Shooters 2",
+"iframe": "https://html5.gamedistribution.com/571b9df027e449f78e3869ba19658754/",
+"description": "Control penalty kicks aiming for precision and timing in this casual sports game. The gameplay revolves around mastering shot direction and power to outsmart goalkeepers with realistic save animations. Players engage in progressively challenging rounds with increasing goalie difficulty, testing accuracy and composure under pressure.\n\nKey Features\n\n• Precision shot aiming system  \n• Timing-based power control  \n• Increasing goalie AI challenge  \n• Tournament progression mode  \n• Animated goalkeeper reactions"
+},
+{
 "id": "fnaf-strike-shooter",
 "title": "FNAF Strike Shooter",
 "iframe": "https://html5.g55.co/fnaf-strike-shooter/",
