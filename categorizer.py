@@ -77,6 +77,14 @@ def singularize_token(t: str) -> str:
     if len(t) < 4:
         return t
 
+    # Handle useful "ies" exceptions before the generic y-rule.
+    # Without this, zombies becomes zomby and will not match zombie.json.
+    ies_keep_e = {
+        "zombies": "zombie",
+    }
+    if t in ies_keep_e:
+        return ies_keep_e[t]
+
     if t.endswith("ies") and len(t) > 4:
         return t[:-3] + "y"
 
