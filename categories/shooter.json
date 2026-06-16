@@ -499,22 +499,10 @@
 "description": "Shoot from cover using ink-based projectiles to eliminate waves of enemies in underwater arenas. Players control a squid character who can charge shots for precision hits, switching between multiple weapon types to adapt. The goal is to survive increasingly difficult levels while managing ink recharge and avoiding enemy attacks.\n\nKey Features\n\n• Ink projectile charging mechanic  \n• Dynamic cover-based shooting  \n• Progressive difficulty waves  \n• Multiple weapon switching system  \n• Underwater squid combat theme"
 },
 {
-"id": "zombies-shooter-part-1",
-"title": "Zombies Shooter Part 1",
-"iframe": "https://html5.gamedistribution.com/96136af62c624b6db5a6715af9dce922/",
-"description": "Navigate tense combat scenarios by targeting waves of zombies with precision shooting mechanics in this atmospheric survival shooter. Players must carefully manage ammo and time shots to clear advancing enemies, progressing through increasingly difficult levels. Strategic aiming and swift reflexes are essential to survive relentless hordes and unlock new challenges.\n\nKey Features\n\n• Precision aiming and shooting  \n• Ammo management system  \n• Progressive difficulty waves  \n• Reactive enemy AI behavior  \n• Dark urban survival setting"
-},
-{
 "id": "funny-shooter",
 "title": "Funny Shooter",
 "iframe": "https://html5.gamedistribution.com/631448f9aa2847dbae10f0f03890424e/",
 "description": "Shoot your way through chaotic levels using rapid-fire weapons in this quirky action shooter. Navigate unpredictable enemy patterns while managing limited ammo to clear each stage. The game challenges players with fast reflexes and precise aiming, rewarding skillful shot placement to progress through increasingly tricky encounters.\n\nKey Features\n\n• Rapid-fire weapon controls  \n• Dynamic enemy attack waves  \n• Ammo management system  \n• Level-based difficulty scaling  \n• Cartoon-style shooter aesthetics"
-},
-{
-"id": "zombies-shooter-part-2",
-"title": "Zombies Shooter Part 2",
-"iframe": "https://html5.gamedistribution.com/c9e8f65884c4468cb1ddb64d8254e14b/",
-"description": "Shoot waves of undead using rapid-fire weapons to survive intense zombie combat scenarios. Players aim and reload strategically while managing scarce ammo in gritty urban environments. Progress through increasingly difficult levels featuring various zombie types and unlock weapon upgrades to enhance firepower and defense.\n\nKey Features\n\n• Semi-automatic weapon handling  \n• Precision aiming control system  \n• Increasing zombie wave difficulty  \n• Weapon upgrade and customization  \n• Urban apocalypse combat zones"
 },
 {
 "id": "mine-shooter",
@@ -1235,12 +1223,6 @@
 "title": "Shoot The Box",
 "iframe": "https://html5.gamedistribution.com/e81d132c4e8045ebb0a4ee97e409dd1f/",
 "description": "Shoot crates by aiming and timing your shots to clear each level efficiently. This physics-based shooter challenges you with precision targeting and careful resource management to avoid wasting shots. Progressing through increasingly complex box arrangements tests your accuracy and strategic planning under pressure.\n\nKey Features\n\n• Precision aiming mechanic  \n• Limited shot management system  \n• Progressive level difficulty  \n• Time-based scoring challenge  \n• Minimalistic shooting gallery setting"
-},
-{
-"id": "zombies-bears-shooting",
-"title": "Zombies Bears Shooting",
-"iframe": "https://html5.gamedistribution.com/8a07b5436b4d4ef9ac8046f5be121508/",
-"description": "Defend your position by strategically shooting waves of zombie bears that relentlessly approach. The game combines fast aiming with a stationary turret mechanic, requiring precise timing to survive escalating enemy attacks. Players face increasingly aggressive undead bears, aiming to withstand each wave’s intensity without being overwhelmed.\n\nKey Features\n\n• Stationary turret shooting control  \n• Increasing zombie bear wave difficulty  \n• Precision timing for enemy elimination  \n• Survival-based level progression system  \n• Dark forest horror setting"
 },
 {
 "id": "circle-shooter",

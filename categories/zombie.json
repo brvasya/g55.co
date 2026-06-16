@@ -1,6 +1,390 @@
 {
 "pages": [
 {
+"id": "eg-zombies-war",
+"title": "EG Zombies War",
+"iframe": "https://html5.gamedistribution.com/d055707309054924b261cc3cd02ec068/",
+"description": "Lead squads into undead combat zones while managing tactical positioning and resource deployment in EG Zombies War. Players command units through wave-based skirmishes against zombie hordes, utilizing a turn-based combat system. Survive each stage by optimizing your team’s abilities and equipment to push back relentless enemies. Progression unlocks new strategies and tougher challenges across diverse battlegrounds.\n\nKey Features\n\n• Turn-based squad command  \n• Tactical resource allocation  \n• Wave survival progression  \n• Equipment upgrade system  \n• Zombie-infested combat zones"
+},
+{
+"id": "plants-vs-zombies-war",
+"title": "Plants Vs Zombies War",
+"iframe": "https://html5.gamedistribution.com/d458dfabce9e4aeda37fd3bf2c0ea01f/",
+"description": "Command plants strategically to defend your turf against waves of undead invaders in this tactical war game. Utilize diverse plant types with unique attack patterns to fend off the encroaching zombie hordes. Progress through increasingly difficult levels where timing and placement are critical to prevent zombie breakthroughs.\n\nKey Features\n\n• Strategic plant deployment system  \n• Real-time resource management  \n• Progressive zombie wave challenges  \n• Multiple plant ability upgrades  \n• Outdoor garden battlefield setting"
+},
+{
+"id": "zombies-survival",
+"title": "Zombies Survival",
+"iframe": "https://html5.gamedistribution.com/3e8835ca13064794b36de3fc1ec361b1/",
+"description": "Manage scarce resources and avoid waves of undead in a pixel-art survival environment where quick reflexes and strategic positioning are essential. Players control a lone character navigating through progressively difficult levels filled with numerous zombie types and hazards. The core mechanic revolves around timed actions and precise movement to outlast relentless enemy hordes. Survival depends on adapting tactics and utilizing limited tools for defense.\n\nKey Features\n\n• Timed action survival mechanic  \n• Character movement and evasion controls  \n• Increasing zombie wave difficulty  \n• Resource management system  \n• Pixel-art post-apocalyptic setting"
+},
+{
+"id": "zombies-bears-shooting",
+"title": "Zombies Bears Shooting",
+"iframe": "https://html5.gamedistribution.com/8a07b5436b4d4ef9ac8046f5be121508/",
+"description": "Defend your position by strategically shooting waves of zombie bears that relentlessly approach. The game combines fast aiming with a stationary turret mechanic, requiring precise timing to survive escalating enemy attacks. Players face increasingly aggressive undead bears, aiming to withstand each wave’s intensity without being overwhelmed.\n\nKey Features\n\n• Stationary turret shooting control  \n• Increasing zombie bear wave difficulty  \n• Precision timing for enemy elimination  \n• Survival-based level progression system  \n• Dark forest horror setting"
+},
+{
+"id": "zombies-shooter-part-2",
+"title": "Zombies Shooter Part 2",
+"iframe": "https://html5.gamedistribution.com/c9e8f65884c4468cb1ddb64d8254e14b/",
+"description": "Shoot waves of undead using rapid-fire weapons to survive intense zombie combat scenarios. Players aim and reload strategically while managing scarce ammo in gritty urban environments. Progress through increasingly difficult levels featuring various zombie types and unlock weapon upgrades to enhance firepower and defense.\n\nKey Features\n\n• Semi-automatic weapon handling  \n• Precision aiming control system  \n• Increasing zombie wave difficulty  \n• Weapon upgrade and customization  \n• Urban apocalypse combat zones"
+},
+{
+"id": "zombies-shooter-part-1",
+"title": "Zombies Shooter Part 1",
+"iframe": "https://html5.gamedistribution.com/96136af62c624b6db5a6715af9dce922/",
+"description": "Navigate tense combat scenarios by targeting waves of zombies with precision shooting mechanics in this atmospheric survival shooter. Players must carefully manage ammo and time shots to clear advancing enemies, progressing through increasingly difficult levels. Strategic aiming and swift reflexes are essential to survive relentless hordes and unlock new challenges.\n\nKey Features\n\n• Precision aiming and shooting  \n• Ammo management system  \n• Progressive difficulty waves  \n• Reactive enemy AI behavior  \n• Dark urban survival setting"
+},
+{
+"id": "zombies-weapon-merge-4",
+"title": "Zombies Weapon Merge 4",
+"iframe": "https://html5.gamedistribution.com/2a0f90bb34f544549563c05346d8c057/",
+"description": "Combine zombie-themed weapon parts by merging identical items to unlock stronger gear in a survival challenge against growing hordes. Players manage their arsenal by strategically merging to enhance firepower and unlock new weapons, pushing through levels filled with escalating zombie threats. The game blends merge mechanics with combat progression in a post-apocalyptic setting.\n\nKey Features\n\n• Merge-based weapon upgrading  \n• Arsenal management controls  \n• Progressive zombie difficulty scaling  \n• Unlockable hybrid weapon types  \n• Post-apocalyptic survival backdrop"
+},
+{
+"id": "funny-zombies-memory",
+"title": "Funny Zombies Memory",
+"iframe": "https://html5.gamedistribution.com/7fa96a73913b4f079f8909353229c345/",
+"description": "Match and flip pairs of cartoon zombies to sharpen memory skills in this casual brain-teasing game. Players engage with a grid of quirky undead characters, using classic memory mechanics to uncover and pair identical tiles. The challenge intensifies as the board grows or time limits shorten, testing both recall speed and accuracy.\n\nKey Features\n\n• Card matching memory gameplay  \n• Tap and reveal tile controls  \n• Increasing board complexity  \n• Timer-based challenge mode  \n• Cartoon zombie visual theme"
+},
+{
+"id": "zombies-jump",
+"title": "Zombies Jump",
+"iframe": "https://html5.gamedistribution.com/d9051b4f43e04bdf8a13e7ea3a87de55/",
+"description": "Leap between precarious platforms while navigating the challenges of undead obstacles in this vertical jumping game. Players rely on precise timing and platform targeting to avoid zombie encounters and reach higher levels instantaneously. The escalating difficulty of platform arrangements tests reflexes as you aim to achieve the maximum height without falling.\n\nKey Features\n\n• Precision platform jumping  \n• Timed obstacle evasion  \n• Increasing vertical level challenges  \n• Reactive movement controls  \n• Zombie-themed hazard zones"
+},
+{
+"id": "killer-zombies-jigsaw",
+"title": "Killer Zombies Jigsaw",
+"iframe": "https://html5.gamedistribution.com/40b176a617e242489584fd68b23e1cb7/",
+"description": "Piece together detailed zombie-themed images by fitting uniquely shaped puzzle pieces in this engaging jigsaw game. Players work through levels featuring increasingly complex arrangements that challenge spatial reasoning. The puzzle mechanic involves assembling scenes with eerie zombies, aiming to complete each picture without errors. Progression depends on completing diverse zombie jigsaw puzzles with growing piece counts.\n\nKey Features\n\n• Irregular puzzle piece shapes  \n• Click-and-drag piece placement  \n• Increasing puzzle complexity  \n• Level-based progression system  \n• Zombie horror imagery"
+},
+{
+"id": "zombies-vs-halloween",
+"title": "Zombies Vs Halloween",
+"iframe": "https://html5.gamedistribution.com/052a72a8f895445daa4692eaee333eda/",
+"description": "Control hordes of undead soldiers as they clash in eerie Halloween-themed arenas, relying on strategic positioning and timed attacks to outlast rival zombie waves. Players navigate through escalating battles, managing diverse zombie types under moonlit skies to dominate each encounter and survive the spooky onslaught. The rhythmic combat demands both quick thinking and careful resource use.  \n\nKey Features\n\n• Zombie unit control tactics  \n• Timing-based attack system  \n• Wave-based enemy progression  \n• Resource management elements  \n• Halloween horror visual theme"
+},
+{
+"id": "zombies-and-guns",
+"title": "Zombies and Guns",
+"iframe": "https://html5.gamedistribution.com/78fd113a09774296baaa628b45b7a07f/",
+"description": "Control a varied arsenal to fend off relentless zombie hordes in fast-paced shooter levels. Target enemies using precise gunplay while managing reload timing and ammo supply. Survive multiple waves with increasing difficulty, using quick reflexes and tactical shooting. The gameplay emphasizes gun mechanics against zombie adversaries in close-quarters battles.\n\nKey Features\n\n• Diverse firearm weapon system  \n• Precision aiming and shooting controls  \n• Wave-based enemy survival progression  \n• Ammunition management mechanics  \n• Zombie-themed combat scenarios"
+},
+{
+"id": "zombies-royale-impostor-drive",
+"title": "Zombies Royale Impostor Drive",
+"iframe": "https://html5.gamedistribution.com/f320e6618efd46b0bb3be18e8130f5bf/",
+"description": "Navigate fast-paced combat vehicles through chaotic zombie-infested arenas in this driving action game. Players rely on agile steering and precision timing to outmaneuver hordes while managing unpredictable enemy patterns. Survival hinges on mastering quick reflexes and strategic pathing to remain the last driver on screen. Challenging waves push skills toward endurance and adaptability.\n\nKey Features\n\n• Agile vehicle maneuvering controls  \n• Dynamic zombie enemy AI  \n• Wave-based survival progression  \n• Time-limited arena driving mode  \n• Post-apocalyptic urban setting"
+},
+{
+"id": "zombies-and-skeletons-coloring",
+"title": "Zombies And Skeletons Coloring",
+"iframe": "https://html5.gamedistribution.com/7a482e427584451f9900ed251cf66fea/",
+"description": "Color sections with vibrant hues using precise brush strokes to bring undead characters to life in this coloring game. Players fill outlines of zombies and skeletons with a palette of colors, focusing on creativity and accuracy to complete each scene. The challenge lies in selecting suitable colors and applying them neatly to unlock new spooky designs and themed pages.\n\nKey Features\n\n• Detailed undead character outlines  \n• Click and drag color fill controls  \n• Unlockable themed coloring pages  \n• Progressive scene complexity levels  \n• Halloween-inspired visual theme"
+},
+{
+"id": "age-of-zombies",
+"title": "Age of Zombies",
+"iframe": "https://html5.gamedistribution.com/d82128fba97f4bac9afa5ae9e73ab362/",
+"description": "Navigate undead-filled arenas using zombie-slaying weapons and strategic movement to survive waves of monstrous foes. Players advance through timed levels, leveraging upgradeable guns and firearm combos to fend off increasingly difficult zombie types. The core mechanic relies on fast-paced shooting and dodging in a chaotic, post-apocalyptic setting as the main challenge.\n\nKey Features\n\n• Upgradeable firearm arsenal  \n• Dynamic wave-based enemy system  \n• Dodging and shooting controls  \n• Level time progression  \n• Post-apocalyptic zombie theme"
+},
+{
+"id": "beat-the-zombies",
+"title": "Beat The Zombies",
+"iframe": "https://html5.gamedistribution.com/62a5bfd927984c9a85f01314a21442d9/",
+"description": "Dodge incoming zombies while managing your limited resources in this casual survival challenge. Players tap and swipe to fend off waves of the undead, balancing quick reflexes with strategic timing to clear each stage. As the horde grows, adapting to varied zombie attack patterns becomes critical for survival and score advancement.\n\nKey Features\n\n• Tap and swipe combat controls  \n• Increasing zombie wave difficulty  \n• Staged level progression system  \n• Resource management under pressure  \n• Casual undead survival setting"
+},
+{
+"id": "obby-vs-zombies",
+"title": "Obby vs Zombies",
+"iframe": "https://html5.gamedistribution.com/bbb134e346924f8ba823e5a674a3e0aa/",
+"description": "Navigate obstacle courses while dodging waves of zombie enemies in this casual survival game. Players rely on precise timing and quick reflexes to jump, climb, and escape undead pursuers across dynamic levels. The core challenge revolves around mastering movement mechanics under pressure, with each stage escalating the intensity of zombie encounters.\n\nKey Features\n\n• Obstacle course navigation gameplay  \n• Timing-based jump and climb controls  \n• Increasing zombie wave difficulty  \n• Progressive level design stages  \n• Undead enemy survival theme"
+},
+{
+"id": "swat-plants-vs-zombies",
+"title": "SWAT & Plants vs Zombies",
+"iframe": "https://html5.gamedistribution.com/293a9af090ff4a958459f30a4c428967/",
+"description": "Command defenses against waves of uniquely themed zombies by deploying SWAT units and strategic plant placements in this casual browser title. Players combine unit positioning and attack timing to withstand relentless undead assaults. Experience tactical layering of human defenders and botanical wards while progressing through distinct siege scenarios designed to challenge coordination under pressure.\n\nKey Features\n\n• SWAT team tactical deployment  \n• Plant-based defensive traps  \n• Wave survival progression system  \n• Timing-based attack coordination  \n• Urban-zombie hybrid theme"
+},
+{
+"id": "zombies-are-coming-xtreme",
+"title": "Zombies Are Coming Xtreme",
+"iframe": "https://html5.gamedistribution.com/503fefa354244a4196609907cf1cb041/",
+"description": "Navigate chaotic hordes using quick reflexes and basic combat moves in this intense casual game. Players survive relentless waves of zombies using simple controls focused on evasion and attack timing. As threats multiply, the challenge ramps up, demanding sharper instincts to endure and progress through escalating survival stages.\n\nKey Features\n\n• Timing based attack system  \n• Responsive movement controls  \n• Increasing wave difficulty  \n• Survival score tracking  \n• Undead apocalypse theme"
+},
+{
+"id": "zombies-are-coming",
+"title": "Zombies Are Coming",
+"iframe": "https://html5.gamedistribution.com/cdf013b031d24277ada4c46ea30ada44/",
+"description": "Defend your position by strategically placing barricades and using timed resource management to survive waves of undead attackers. This casual strategy game challenges players to balance rapid decision-making with tactical barricade upgrades under increasing zombie pressure. Progress through escalating stages where zombie swarm behavior demands adaptive defenses to protect your stronghold.\n\nKey Features\n\n• Barricade placement strategy  \n• Resource timing and management  \n• Increasing wave difficulty levels  \n• Tactical barricade upgrade system  \n• Undead enemy swarm AI"
+},
+{
+"id": "kill-the-zombies",
+"title": "Kill The Zombies",
+"iframe": "https://html5.gamedistribution.com/0008f4f7833e4e6fa9d1889a9160bdcb/",
+"description": "Shoot hordes of zombies using diverse weaponry in this casual browser game. Navigate tight spaces and time your attacks carefully to survive waves of undead enemies. The game emphasizes precise shooting mechanics and incremental difficulty, challenging players to clear each stage while managing limited resources and aiming skills.\n\nKey Features\n\n• Varied firearm selection system  \n• Precision aiming control scheme  \n• Progressive wave difficulty scaling  \n• Resource management for ammo  \n• Urban survival horror atmosphere"
+},
+{
+"id": "super-lule-vs-zombies",
+"title": "Super Lule vs Zombies",
+"iframe": "https://html5.gamedistribution.com/54a200b068634efd9eec779325af571c/",
+"description": "Fight through waves of undead enemies using quick reflexes and strategic attacks in a casual survival setting. Players must navigate a dynamic battlefield while managing limited resources and timing their moves to fend off increasingly difficult zombie hordes. Progression involves unlocking new combat abilities and adapting to varied enemy types that require different tactics.\n\nKey Features\n\n• Real-time combat controls  \n• Resource management mechanics  \n• Increasing enemy difficulty levels  \n• Ability upgrade and progression  \n• Zombie invasion survival theme"
+},
+{
+"id": "state-of-zombies-3",
+"title": "State of Zombies 3",
+"iframe": "https://html5.gamedistribution.com/d41c933f8d18490a914a3bfe6a06def1/",
+"description": "Navigate varied zombie-infested environments using precise aiming mechanics to eliminate threats and progress through challenging waves. Players depend on tactical shooting to survive relentless undead hordes while upgrading weapons and unlocking new zones, balancing quick reflexes with strategic positioning to achieve high scores and extend gameplay.\n\nKey Features\n\n• Precision aiming with firearms  \n• Wave-based enemy encounters  \n• Weapon upgrade progression system  \n• Tactical positioning challenges  \n• Post-apocalyptic urban setting"
+},
+{
+"id": "minewar-soldiers-vs-zombies",
+"title": "MineWar Soldiers vs Zombies",
+"iframe": "https://html5.gamedistribution.com/c614269eaafa47b68c8953ac8f4463b0/",
+"description": "Command turrets and deploy soldiers against relentless zombie hordes in this casual browser challenge. Manage your defensive perimeter using strategic placement of infantry and automated weapons to hold ground through escalating waves. With survival as the main goal, pockets of mines add tactical depth to the battlefield and pressure decision making under siege.\n\nKey Features\n\n• Turret and soldier deployment  \n• Real-time defensive positioning  \n• Progressive wave difficulty scaling  \n• Mine placement dynamics  \n• Post-apocalyptic zombie theme"
+},
+{
+"id": "super-sergeant-zombies",
+"title": "Super Sergeant Zombies",
+"iframe": "https://html5.gamedistribution.com/6f08c06710ed49abb0fb3f28efd88f6d/",
+"description": "Survive relentless waves by commanding an army of elite soldiers against hordes of undead zombies. Use precision aiming and fast-paced shooting mechanics to clear each level before the zombie tide overwhelms you. The game challenges players to manage limited ammunition while upgrading weapons and defenses to improve survivability.\n\nKey Features\n\n• Squad-based shooting mechanics  \n• Precision aiming and weapon control  \n• Progressive enemy wave difficulty  \n• Weapon upgrade and customization  \n• Post-apocalyptic zombie setting"
+},
+{
+"id": "special-strike-zombies",
+"title": "Special Strike Zombies",
+"iframe": "https://html5.gamedistribution.com/54e25c69e10b425387661a568552acfc/",
+"description": "Battle enemies with precise shooting mechanics and strategic positioning in a post-apocalyptic world filled with relentless zombies. Players navigate through waves using varied firearms to survive increasingly difficult scenarios, balancing accuracy and timing. Progression includes unlocking weapon upgrades that enhance damage output and reload speed to tackle harder undead hordes.\n\nKey Features\n\n• Precision shooting mechanics  \n• Tactical positioning controls  \n• Progressive weapon upgrade system  \n• Increasing zombie wave difficulty  \n• Post-apocalyptic survival setting"
+},
+{
+"id": "brutal-zombies",
+"title": "Brutal Zombies",
+"iframe": "https://html5.gamedistribution.com/cc196514c8124331960572aff3a81f7f/",
+"description": "Slaughter zombies by mastering quick reflexes and strategic targeting in this casual arcade shooter. Use precise aim to clear waves of undead enemies before they overwhelm you, relying on fast-paced shooting mechanics and timed reloads. Survive each escalating level where zombie hordes grow stronger and faster, testing your aim and timing under pressure.\n\nKey Features\n\n• Fast-paced shooting mechanics  \n• Precision aiming controls  \n• Increasing zombie wave difficulty  \n• Timed reload system  \n• Arcade-style survival mode"
+},
+{
+"id": "eliminate-the-zombies",
+"title": "Eliminate the Zombies",
+"iframe": "https://html5.gamedistribution.com/beffc9e3c3d740abb3b301b397e302e9/",
+"description": "Eliminate waves of zombies using a mix of ranged weapons and quick reflexes to survive relentless attacks. Players navigate through progressively harder levels, managing ammo and positioning to clear undead hordes efficiently. The game challenges coordination and timing as you fend off escalating zombie swarms in a tense casual environment.\n\nKey Features\n\n• Ranged weapon shooting mechanics  \n• Ammo management system  \n• Increasing wave difficulty  \n• Score-based level progression  \n• Zombie horde enemy types"
+},
+{
+"id": "mr-jack-vs-zombies",
+"title": "Mr Jack vs Zombies",
+"iframe": "https://html5.gamedistribution.com/63ce1671d78045f580da1346b906edca/",
+"description": "Navigate a cityscape teeming with undead as you strategically place barricades and deploy traps to survive waves of zombies. The game combines real-time resource management with tactical defense setup, challenging players to hold their ground before nightfall. Progress through escalating difficulty levels that test quick thinking and adaptive strategies.\n\nKey Features\n\n• Real-time trap placement  \n• Resource management mechanics  \n• Increasing wave difficulty  \n• Adaptive enemy behavior  \n• Urban survival environment"
+},
+{
+"id": "angry-zombies",
+"title": "Angry Zombies",
+"iframe": "https://html5.gamedistribution.com/1987f71667ed4b27bfd386aafc38b902/",
+"description": "Launch precise attacks to fend off waves of aggressive zombies in this casual shooter. Players time their shots and reposition to manage crowds while navigating static battlegrounds filled with zombie hordes. The goal is to survive increasingly difficult waves using limited ammo and quick reflexes as undead enemies close in relentlessly.\n\nKey Features\n\n• Ammo management mechanic  \n• Strategic positioning control  \n• Progressive wave difficulty  \n• Survival timer challenge  \n• Undead horde enemy types"
+},
+{
+"id": "bowmastery-zombies",
+"title": "Bowmastery zombies",
+"iframe": "https://html5.gamedistribution.com/b1178bfc625f49669993c434af2c122f/",
+"description": "Shoot waves of undead enemies using precise archery skills in a casual survival challenge. Players operate a bow-based weapon system to fend off hordes in an undefined environment while managing timing and aim to prevent zombie overrun. Progression relies on improved shooting accuracy and advancing through increasingly difficult zombie waves.\n\nKey Features\n\n• Bow aiming and shooting mechanic  \n• Timing-based enemy engagement  \n• Wave progression difficulty scaling  \n• Survival endurance gameplay mode  \n• Zombie enemy variety"
+},
+{
+"id": "cut-crush-zombies",
+"title": "Cut Crush Zombies",
+"iframe": "https://html5.gamedistribution.com/00e5f66dba934928bf46aa7f9b606c8e/",
+"description": "Slice through waves of zombies using precise cutting mechanics to survive increasingly difficult levels. Players must strategically time their attacks to manage groups of undead while unlocking new tools to enhance slicing efficiency. The game blends casual pacing with escalating challenge in a grim survival setting that demands quick reflexes and smart resource use.\n\nKey Features\n\n• Timing-based slicing controls  \n• Zombie wave management  \n• Progressive tool unlock system  \n• Increasing difficulty levels  \n• Dark survival atmosphere"
+},
+{
+"id": "goat-vs-zombies",
+"title": "Goat vs Zombies",
+"iframe": "https://html5.gamedistribution.com/d2720ea77cc445ce858742beb41b46bb/",
+"description": "Control a rampaging goat to fend off waves of undead enemies using quick attacks and evasive maneuvers. The game combines close-range combat with strategic positioning as players face increasingly tougher zombie types in varied environments. Survive each level by managing stamina and timing your strikes to prevent being overwhelmed.\n\nKey Features\n\n• Melee combat with stamina management  \n• Responsive goat movement controls  \n• Progressive enemy difficulty scaling  \n• Wave-based survival stages  \n• Apocalyptic zombie setting"
+},
+{
+"id": "surviving-the-zombies",
+"title": "Surviving the Zombies",
+"iframe": "https://html5.gamedistribution.com/0d22bc2dd8414859a3903662e14bb6ac/",
+"description": "Navigate a post-apocalyptic world by scavenging resources and defending against waves of zombies using strategic targeting and quick reflexes. Players manage inventory and upgrade weapons while facing increasing enemy hordes in survival stages. The challenge lies in balancing offense and defense to outlast relentless zombie attacks across various environments.\n\nKey Features\n\n• Tactical zombie targeting system  \n• Inventory management controls  \n• Progressive enemy wave difficulty  \n• Weapon upgrade and crafting  \n• Survival mode with timed challenges"
+},
+{
+"id": "assassin-vs-zombies",
+"title": "Assassin VS Zombies",
+"iframe": "https://html5.gamedistribution.com/00b887f452164ef8a56c42a226f02526/",
+"description": "Dodge and eliminate relentless zombie hordes using precise stealth and melee combat techniques. Players navigate confined urban environments balancing attack and evasion while managing limited resources. Progression depends on skillful timing and strategic positioning to survive waves of undead enemies. The tension builds as player choices directly influence survival outcomes in this casual mix of action and survival.\n\nKey Features\n\n• Stealth-based melee combat system  \n• Urban environment navigation  \n• Wave survival challenge progression  \n• Dynamic resource management  \n• Zombie enemy AI behaviors"
+},
+{
+"id": "finding-zombies",
+"title": "Finding Zombies",
+"iframe": "https://html5.gamedistribution.com/f91e66b6fcb74dcf9ece453cb9c60dfc/",
+"description": "Navigate through unpredictable environments using quick reflexes to locate and identify zombies before they overwhelm your character. Players interact with a reaction-based targeting system that tests precision and timing as they uncover hidden undead in each level. Progression depends on spotting increasingly clever zombie placements that heighten the challenge.\n\nKey Features\n\n• Precision targeting mechanic  \n• Time-based reaction challenges  \n• Progressive zombie hiding complexity  \n• Sequential level unlocking system  \n• Casual zombie detection theme"
+},
+{
+"id": "crush-the-zombies",
+"title": "Crush the Zombies",
+"iframe": "https://html5.gamedistribution.com/fc699921faf44a57a614a9dfa70d7da1/",
+"description": "Smash approaching zombie hordes using quick reflexes and precise timing in this casual crushing challenge. Players rely on a tap-based mechanic to stomp down waves of undead before they overwhelm the area. Each stage increases in speed and number of zombies, pushing your reactions as you attempt to survive escalating chaos and set high scores.\n\nKey Features\n\n• Tap gesture crushing mechanic  \n• Increasing zombie wave intensity  \n• Time-limited survival stages  \n• Score multiplier combos system  \n• Cartoon-style undead enemy design"
+},
+{
+"id": "zombies-night-2",
+"title": "Zombies Night 2",
+"iframe": "https://html5.gamedistribution.com/a6a477d2540e4ece904a56206e23e6a0/",
+"description": "Navigate eerie, night-time environments while fending off relentless waves of zombies using quick reflexes and strategic movement. Survive through progressively difficult levels that challenge your timing and positioning with diverse undead foes. Utilize available weapons and dodge mechanics to protect your character as you push through a dark, horror-themed setting.\n\nKey Features\n\n• Dodging and shooting mechanics  \n• Wave-based enemy encounters  \n• Level progression with increasing difficulty  \n• Multiple weapon options  \n• Nighttime survival atmosphere"
+},
+{
+"id": "stupid-zombies",
+"title": "Stupid Zombies",
+"iframe": "https://html5.gamedistribution.com/7cf46887e4af40cbb005d4385be063a4/",
+"description": "Shoot precise angles to ricochet bullets and eliminate zombies using limited ammo in a side-scrolling physics puzzle setup. Players plan shots carefully to maximize damage through environmental interactions and bouncing mechanics. Progress involves clearing increasingly complex zombie formations while managing finite resources under timed conditions.\n\nKey Features\n\n• Physics-based bullet trajectory  \n• Aiming and shot planning controls  \n• Progressive zombie wave challenges  \n• Limited ammo resource management  \n• Side-scrolling puzzle stage design"
+},
+{
+"id": "endless-zombies",
+"title": "Endless Zombies",
+"iframe": "https://html5.gamedistribution.com/1235cd75e401444bb3c82f4de34cbb0c/",
+"description": "Survive waves of relentless undead as you control a lone survivor navigating through an endless horde in this casual action game. Use quick reflexes to dodge approaching zombies while managing limited resources to stay alive. Each level brings increased difficulty with faster and smarter enemies, challenging your strategic planning and timing.\n\nKey Features\n\n• Top-down survivor movement  \n• Resource management mechanics  \n• Progressive enemy wave difficulty  \n• Scoring and survival mode  \n• Zombie apocalypse urban setting"
+},
+{
+"id": "lone-pistol-zombies-in-the-streets",
+"title": "Lone Pistol : Zombies in the Streets",
+"iframe": "https://html5.gamedistribution.com/77469a1ca58a45e2849fc75ee0282233/",
+"description": "Navigate hostile urban streets using precise firearm controls to fend off relentless zombie hordes in this casual shooter. Players manage limited ammo while clearing waves of undead enemies in confined city environments. Survive increasingly difficult levels by mastering quick reflex shooting and resource conservation to protect your remaining safe zones.\n\nKey Features\n\n• Precision firearm aiming system  \n• Ammunition management mechanics  \n• Progressive zombie wave difficulty  \n• Urban survival level design  \n• Casual gameplay for varied skill levels"
+},
+{
+"id": "crossy-road-zombies",
+"title": "Crossy Road Zombies",
+"iframe": "https://html5.gamedistribution.com/8a143ec674f04368ab8e4711faa6d22c/",
+"description": "Cross roads loaded with zombies challenge players to time their movements carefully as they navigate through undead hordes using hopping mechanics. Timing each leap over busy streets and riverbanks tests reflexes while aiming to avoid collisions with ever-approaching zombie enemies for survival. Increasing swarms and dynamic traffic patterns add layers of difficulty as progression delivers faster-paced scenarios.\n\nKey Features\n\n• Precision hopping movement control  \n• Dynamic traffic and zombie swarms  \n• Survival timer and score challenge  \n• Incremental difficulty in wave progression  \n• Urban apocalypse-themed environment"
+},
+{
+"id": "zombies-night",
+"title": "Zombies Night",
+"iframe": "https://html5.gamedistribution.com/59309aa82cd843bf839a9b20a0e24a9b/",
+"description": "Survive waves of relentless undead by managing scarce resources and strategic positioning in a dimly lit post-apocalyptic setting. The game revolves around controlling barricades and limited weapons to hold off increasingly difficult zombie hordes. Each level introduces tougher enemies and environmental hazards that test timing and quick reflexes under pressure.\n\nKey Features\n\n• Barricade defense mechanics  \n• Resource management system  \n• Increasing enemy difficulty levels  \n• Time-based survival challenges  \n• Dark apocalyptic atmosphere"
+},
+{
+"id": "boy-vs-zombies",
+"title": "Boy vs Zombies",
+"iframe": "https://html5.gamedistribution.com/89a34f98510f4d8c80c1727d6de8a76a/",
+"description": "Defend against waves of undead creatures by controlling a resourceful boy wielding various weapons. Use precise aiming and quick reflexes to survive escalating zombie attacks in a side-scrolling environment. Each level introduces tougher enemies and opportunities to upgrade your arsenal, challenging players to perfect timing and strategic shooting under pressure.\n\nKey Features\n\n• Weapon-based combat system  \n• Player-controlled aiming precision  \n• Increasing enemy difficulty tiers  \n• Progressive weapon upgrade paths  \n• Zombie apocalypse side-scroller setting"
+},
+{
+"id": "swat-vs-zombies-2",
+"title": "Swat vs Zombies 2",
+"iframe": "https://html5.gamedistribution.com/29adc8826eb649b3a8ebecb3cf3e9eec/",
+"description": "Battle swat units deploy tactical firearms and barricades to fend off relentless zombie hordes in urban warzones. Players manage limited ammunition and strategically position soldiers to hold deadly ground, balancing offensive strikes with defensive setups. Survive escalating waves of undead enemies, adapting to growing threats and varied attack patterns while securing key map points for victory.\n\nKey Features\n\n• Tactical firearm and barricade placement  \n• Resource management for ammo supply  \n• Wave-based enemy progression system  \n• Squad positioning controls  \n• Urban post-apocalyptic setting"
+},
+{
+"id": "eg-ranger-zombies",
+"title": "EG Ranger Zombies",
+"iframe": "https://html5.gamedistribution.com/314cb28e7bf6411a99f63db112938919/",
+"description": "Fight waves of zombies using strategic shooting and movement controls tailored for casual players. Navigate varied environments where survival depends on managing limited ammo and positioning. Each level escalates in difficulty with tougher undead foes and resource scarcity, inviting players to adapt their tactics as they progress through stages of increasing challenge.\n\nKey Features\n\n• Top-down shooting mechanics  \n• Ammo management system  \n• Progressive enemy difficulty  \n• Level-based survival challenges  \n• Zombie apocalypse scenario"
+},
+{
+"id": "tap-the-zombies",
+"title": "Tap the zombies",
+"iframe": "https://html5.gamedistribution.com/7f7f64994c8444a49f4e1948b8fe01d1/",
+"description": "Tap zombies by tapping hordes as they swarm on screen, testing reflexes and timing in a casual arcade setting. Players strive to eliminate waves of walking undead before they overwhelm the play area, relying on quick finger taps for precise targeting. The challenge ramps with faster and more numerous zombies appearing in escalating levels.\n\nKey Features\n\n• Tap-based enemy elimination  \n• Progressive wave difficulty  \n• Increasing zombie speeds  \n• Simple touch controls  \n• Casual arcade zombie theme"
+},
+{
+"id": "swat-vs-zombies",
+"title": "Swat vs Zombies",
+"iframe": "https://html5.gamedistribution.com/13890484950044c9a93ac514e891cb8a/",
+"description": "Defend your position by strategizing SWAT team movements against hordes of zombies, utilizing tactical shooting mechanics to hold ground. Players manage limited resources and weapon reloads while facing waves of undead enemies in urban environments. Progression challenges increase with varied zombie types demanding sharp aiming and timing to survive each assault.\n\nKey Features\n\n• Tactical ranged shooting mechanics  \n• Team positioning and resource control  \n• Wave-based enemy escalation  \n• Reload management system  \n• Urban survival setting"
+},
+{
+"id": "zombies-eat-all",
+"title": "Zombies Eat All",
+"iframe": "https://html5.gamedistribution.com/f4509ebc0fae49aca21aef4d04b76b7d/",
+"description": "Navigate a horde of relentless zombies in this casual survival game, using quick reflexes and strategic movement to avoid being overtaken. Players must manage timing and positioning to withstand increasingly dense waves of undead opponents. The pixel-art environment and escalating enemy numbers create a tense scenario where lasting longer is the core challenge.\n\nKey Features\n\n• Reflex-based dodging mechanics  \n• Wave-based zombie encounters  \n• Increasing enemy density progression  \n• Simple directional movement controls  \n• Pixel-art zombie survival theme"
+},
+{
+"id": "pirates-vs-zombies",
+"title": "Pirates vs Zombies",
+"iframe": "https://html5.gamedistribution.com/948d99e131764309ab85e156a62531ac/",
+"description": "Battle waves of undead pirates using timed cannon volleys and strategic positioning in this blend of ship combat and zombie defense. Players control a pirate vessel, balancing resource management and firing precision to survive relentless zombie hordes. Progression through night and day cycles shifts the attack patterns and challenges as you guard the seas.\n\nKey Features\n\n• Cannon volley timing system  \n• Ship maneuvering controls  \n• Day-night enemy waves  \n• Resource gathering upgrades  \n• Undead pirate theme"
+},
+{
+"id": "guardians-vs-zombies",
+"title": "Guardians vs Zombies",
+"iframe": "https://html5.gamedistribution.com/7acb67ff47394a45af4eef57af4e6149/",
+"description": "Defend territory by strategically commanding guardians in wave-based encounters against relentless zombies. Players deploy units with distinct abilities to halt advancing undead across varied maps while managing limited resources. Progression unlocks new guardian types and upgrade paths, requiring tactical positioning and timing to survive increasing zombie waves. The game blends real-time unit deployment with escalating challenge dynamics suited for casual players.\n\nKey Features\n\n• Real-time unit deployment  \n• Tactical resource management  \n• Progressive wave difficulty  \n• Guardian upgrade system  \n• Zombie horde combat theme"
+},
+{
+"id": "challenge-of-the-zombies",
+"title": "Challenge Of The Zombies",
+"iframe": "https://html5.gamedistribution.com/4cf3348105044596a7e1a95ca8f78261/",
+"description": "Survive relentless waves by managing scarce resources and strategically placing units to hold back undead hordes in this casual tactical challenge. The game blends tower defense elements with timed resource allocation, creating an intense atmosphere where players must optimize their deployment to prevent zombie breakthroughs. Progress through escalating stages and adapt to shifting enemy patterns.\n\nKey Features\n\n• Resource management mechanic  \n• Strategic unit placement controls  \n• Escalating wave difficulty  \n• Timed deployment system  \n• Zombie apocalypse theme"
+},
+{
+"id": "eg-zombies-city",
+"title": "EG Zombies City",
+"iframe": "https://html5.gamedistribution.com/80522c95f7ee458d9399c988358e84a7/",
+"description": "Navigate the deserted city streets to survive waves of undead enemies in this casual zombie-themed survival game. Players control a lone character using precise movement mechanics to evade or confront zombies while managing limited resources. The game challenges players to hold out through escalating enemy waves and gradually unlock new abilities or safe zones to extend their survival time.\n\nKey Features\n\n• Character movement and evasion  \n• Resource management system  \n• Wave-based enemy progression  \n• Unlockable survival upgrades  \n• Urban zombie outbreak setting"
+},
+{
+"id": "ranger-vs-zombies",
+"title": "Ranger vs Zombies",
+"iframe": "https://html5.gamedistribution.com/d3ff4d6f7dfc42198ad7e14c689898ec/",
+"description": "Battle waves of relentless undead by commanding a skilled ranger armed with precision weapons. Use strategic shooting and movement to eliminate approaching zombies before they overwhelm your defenses. Progress through increasingly difficult levels with distinct enemy patterns and unlock new abilities that enhance survival in this casual survival shooter.\n\nKey Features\n\n• Precision aiming and shooting  \n• Player controlled character movement  \n• Progressive enemy wave difficulty  \n• Ability upgrades and skill unlocks  \n• Zombie horde survival mechanics"
+},
+{
+"id": "heavy-combat-zombies",
+"title": "Heavy Combat Zombies",
+"iframe": "https://html5.gamedistribution.com/71934b5f9c394595acc30378c270a1cc/",
+"description": "Battle hordes of zombies using heavy firepower and strategic positioning in this casual shooter where quick reflexes steer your survival. Navigate each wave with upgraded weapons and barricades to hold the line against relentless undead enemies. Challenge yourself across increasingly difficult stages that test your aiming and resource management skills.\n\nKey Features\n\n• Weapon upgrade progression system  \n• Tactical barricade placement  \n• Wave-based enemy assault mechanics  \n• Time-limited survival mode  \n• Zombie apocalypse urban setting"
+},
+{
+"id": "eggbot-vs-zombies-v2",
+"title": "Eggbot vs Zombies v2",
+"iframe": "https://html5.gamedistribution.com/ea245f723f0e446699e9ed3606732d09/",
+"description": "Blast waves of eggs at approaching zombies using precise aiming mechanics in this casual arcade shooter. Navigate static defense points to strategically eliminate waves of quirky undead enemies while managing reload timing. Survival depends on accuracy and timing as each level ramps up with faster and more challenging zombie patterns.\n\nKey Features\n\n• Projectile aiming and shooting  \n• Reload timing management  \n• Progressive enemy wave difficulty  \n• Static turret defense placement  \n• Cartoon zombie survival theme"
+},
+{
+"id": "zombies-vs-finger",
+"title": "Zombies vs Finger",
+"iframe": "https://html5.gamedistribution.com/62296802e63b4dd989a61496bee48687/",
+"description": "Tap rapidly to fend off incoming zombie hordes using precision finger strikes in this casual action game. Players must time their touches to dismantle waves of undead enemies before they overwhelm the screen. Progress through increasingly difficult stages with faster zombie swarms, testing reflexes and hand-eye coordination under pressure.\n\nKey Features\n\n• Rapid tap combat mechanic  \n• Precision timing controls  \n• Increasing enemy wave difficulty  \n• Stage-based progression system  \n• Casual undead survival setting"
+},
+{
+"id": "at-the-end-zombies-win",
+"title": "At the end zombies win",
+"iframe": "https://html5.gamedistribution.com/53194403018f49a7a2602b53f2e499df/",
+"description": "Navigate tense encounters using limited resources in a world where survival hinges on strategic decisions and timing. Players engage with a core system of managing scarce tools and anticipating threats in shifting scenarios, all while attempting to outlast waves of relentless adversaries. The challenge lies in adapting to dynamic conditions to secure the safest outcome.\n\nKey Features\n\n• Resource management mechanics  \n• Tactical movement controls  \n• Progressive threat escalation  \n• Hazard avoidance system  \n• Post-apocalyptic survival setting"
+},
+{
+"id": "stickmen-vs-zombies",
+"title": "Stickmen Vs Zombies",
+"iframe": "https://html5.gamedistribution.com/dec18750c453406c8511fc6661699cf7/",
+"description": "Survive waves of relentless zombie attacks by controlling stickman characters armed with improvised weapons. The game combines fast-paced shooting mechanics with simple movement controls as you fend off undead hordes advancing from multiple directions. Each level increases enemy numbers and difficulty, requiring quick reflexes and strategic positioning to protect your survivors.\n\nKey Features\n\n• Top-down stickman shooting  \n• Responsive directional controls  \n• Increasing zombie wave challenges  \n• Ammo and weapon pickup system  \n• Stylized minimalistic combat arena"
+},
+{
+"id": "zombies-at-the-beach",
+"title": "Zombies at the Beach",
+"iframe": "https://html5.gamedistribution.com/5712bb002a3f4b2aa99e46c33a52347b/",
+"description": "Defend shorelines by targeting approaching zombies using strategic placement and timed attacks. Players manage limited resources to fend off waves of undead creatures descending on a sun-drenched beach environment. Success depends on adapting attack patterns and upgrading defenses through progressively challenging stages.\n\nKey Features\n\n• Tactical tower placement system  \n• Resource management mechanics  \n• Wave-based enemy progression  \n• Upgradeable defense structures  \n• Coastal survival setting"
+},
+{
+"id": "adam-and-eve-zombies",
+"title": "Adam and Eve: Zombies",
+"iframe": "https://html5.gamedistribution.com/76058de8e8a140caad0b3e29e22addc6/",
+"description": "Navigate through zombie hordes using character swaps and puzzle-solving mechanics to survive and progress in eerie post-apocalyptic environments. Players strategically switch between Adam and Eve to overcome obstacles and defeat different enemy types. The game challenges quick thinking and timing to unlock new levels filled with undead threats.\n\nKey Features\n\n• Character swapping mechanic  \n• Puzzle and timing challenges  \n• Level progression through survival  \n• Diverse undead enemy types  \n• Post-apocalyptic casual setting"
+},
+{
+"id": "trollface-vs-zombies",
+"title": "Trollface vs Zombies",
+"iframe": "https://html5.gamedistribution.com/debe39569a9b44d6b3f55815e68402e2/",
+"description": "Control the iconic Trollface as you fend off waves of relentlessly advancing zombies using clever traps and quick reflexes. The gameplay centers on strategic placement and timing to survive escalating hordes in a chaotic urban setting. Progress through increasingly difficult stages where managing limited resources and trap upgrades is crucial to outsmart the undead menace.\n\nKey Features\n\n• Trap setup and timing system  \n• Direct character movement control  \n• Wave-based enemy escalation  \n• Upgradeable defense mechanisms  \n• Urban survival environment"
+},
+{
+"id": "zombies-battle-for-survival",
+"title": "Zombies: Battle for Survival",
+"iframe": "https://html5.gamedistribution.com/3c55eade69d64feeadd0c48f705fbe42/",
+"description": "Survive waves of undead attacks by strategically deploying weapons and managing limited resources in a tense battle environment. This game combines tactical shooting with dynamic enemy swarm behavior, testing your reflexes and decision-making as you fend off relentless zombie hordes. Progress through escalating levels where strategic positioning becomes key to survival.\n\nKey Features\n\n• Tactical shooting and resource management  \n• Dynamic enemy swarm AI  \n• Level-based progression system  \n• Precision aiming controls  \n• Post-apocalyptic survival setting"
+},
+{
+"id": "bowling-vs-zombies-factory-3d",
+"title": "Bowling vs Zombies Factory 3D",
+"iframe": "https://html5.gamedistribution.com/d6be30ed03f34448adb4f20fb3e7f01a/",
+"description": "Roll the bowling ball through zombie-infested lanes to knock down as many undead as possible using precise aiming and physics-based strikes. Players manipulate the ball’s trajectory and force to clear waves of zombies and advance through increasingly difficult stages. Timing shots and utilizing lane obstacles become critical as the game evolves with unique enemy types and environmental challenges.\n\nKey Features\n\n• Physics-based bowling controls  \n• Zombie wave elimination system  \n• Progressive lane difficulty levels  \n• Timing and aiming precision mechanic  \n• 3D post-apocalyptic bowling setting"
+},
+{
 "id": "zombie-rush",
 "title": "Zombie Rush",
 "iframe": "https://html5.gamedistribution.com/24834535f13b4c7aa2b696bb62ec2685/",
