@@ -67,12 +67,6 @@
 "description": "Navigate complex three-dimensional labyrinths by manipulating the maze's perspective to find the correct path. Players use camera controls to shift angles and reveal hidden corridors, aiming to reach the maze exit under spatial constraints. Levels grow more intricate as obstacles and maze layouts evolve, requiring careful observation and timing.\n\nKey Features\n\n• Perspective-based maze navigation  \n• Camera angle manipulation controls  \n• Increasingly complex maze designs  \n• Timed challenge progression  \n• 3D spatial puzzle environments"
 },
 {
-"id": "going-balls-3d",
-"title": "Going Balls 3D",
-"iframe": "https://html5.gamedistribution.com/7ce6f365c8d1433c862b2d6917d4c6b3/",
-"description": "Navigate rolling spheres through dynamic obstacle courses using precise timing and momentum control. Players guide uniquely shaped balls across shifting platforms and moving traps, aiming to reach the finish line without falling or hitting hazards. The game challenges spatial awareness with its physics-based rolling mechanics and progressively complex levels.\n\nKey Features\n\n• Physics-based rolling controls  \n• Momentum driven obstacle navigation  \n• Multi-stage level progression  \n• Variable ball shapes and sizes  \n• Dynamic platform and trap challenges"
-},
-{
 "id": "toy-rumble-3d",
 "title": "Toy Rumble 3d",
 "iframe": "https://html5.gamedistribution.com/d6a79fd8e22c46498f2f876d87c474cf/",
@@ -457,12 +451,6 @@
 "description": "Throw knives from a rotating blade platform to hit moving targets with precision timing in this 3D arcade challenge. Players must aim and throw knives accurately while avoiding already stuck knives to clear each level. Progression increases difficulty with faster rotations and tighter target windows, enhancing skill and reflex demands.\n\nKey Features\n\n• Rotating blade target mechanic  \n• Timed knife throwing controls  \n• Increasing level difficulty curve  \n• Precision aiming challenge system  \n• 3D spatial throwing angles"
 },
 {
-"id": "sky-balls-3d",
-"title": "Sky Balls 3D",
-"iframe": "https://html5.gamedistribution.com/f3845c29b3304627ac9013eca2229ac7/",
-"description": "Navigate spinning spheres through dynamic 3D obstacle courses, relying on precise timing and ball momentum to overcome increasingly complex challenges. Players manipulate physics-based movement to control each sphere across vibrant levels, aiming to collect points and reach the finish line. Levels intensify with varied platform designs and moving barriers that test reflexes and spatial awareness.\n\nKey Features\n\n• Physics-driven ball control  \n• Timing-based obstacle navigation  \n• Progressive platform complexity  \n• Score collection system  \n• 3D spatial movement challenges"
-},
-{
 "id": "biking-extreme-3d",
 "title": "Biking Extreme 3D",
 "iframe": "https://html5.gamedistribution.com/a7f62a8b1b744a48bbc4bc8af4d33391/",
@@ -517,12 +505,6 @@
 "description": "Race across snowy terrain on a 3D motorbike, balancing speed and control through challenging winter landscapes. Navigate icy slopes and jumps with precise vehicle handling physics while aiming to complete each level without crashes. Advanced steering and realistic movement mechanics test player reflexes as progress unlocks more demanding courses.\n\nKey Features\n\n• 3D motorbike handling system  \n• Precision steering controls  \n• Increasing difficulty levels  \n• Time trial mode  \n• Snow and ice terrain effects"
 },
 {
-"id": "ball-paint-3d",
-"title": "Ball Paint 3D",
-"iframe": "https://html5.gamedistribution.com/e6d052b27e6e47f4b3bad01b7842339a/",
-"description": "Launch spheres to spread vibrant colors across dynamic 3D environments in this casual physics-based game. Players manipulate bouncing balls to cover surfaces with paint, mastering trajectory and timing to maximize coverage and reach new stages. The gradual increase in level complexity challenges precision and strategic aiming for creative area control.\n\nKey Features\n\n• Physics-driven ball trajectory  \n• Surface painting mechanics  \n• Level-based coverage challenges  \n• Timing and precision aiming  \n• 3D environment interaction"
-},
-{
 "id": "money-man-3d",
 "title": "Money Man 3D",
 "iframe": "https://html5.gamedistribution.com/917d5245f166488ebe724a925e7534b6/",
@@ -545,12 +527,6 @@
 "title": "Cake DIY 3D",
 "iframe": "https://html5.gamedistribution.com/c16d47af848746abbc7385c3ca656fef/",
 "description": "Decorate and customize cakes by sculpting 3D shapes and applying colorful frostings in a tactile design space. Players manipulate layers and textures to create unique confections with detailed icing patterns. The challenge lies in creatively combining visual elements while mastering touch controls to achieve appealing final results.\n\nKey Features\n\n• 3D cake sculpting mechanic  \n• Touch-based decoration controls  \n• Layer and texture customization  \n• Multiple icing and topping options  \n• Casual creative kitchen setting"
-},
-{
-"id": "human-ball-3d",
-"title": "Human Ball 3D",
-"iframe": "https://html5.gamedistribution.com/bd360df381d44779b58df3bf34c3632b/",
-"description": "Control a rolling human-shaped ball navigating through dynamic 3D obstacle courses that test your timing and precision. Maneuver the character using physics-based movement to overcome challenging ramps, platforms, and moving barriers. Progress through stages that increase in complexity, requiring skillful navigation and balance in a vibrant, abstract environment.\n\nKey Features\n\n• Physics-driven rolling mechanics  \n• Precision control input system  \n• Increasing obstacle difficulty  \n• Stage progression with checkpoints  \n• Colorful 3D obstacle environments"
 },
 {
 "id": "goods-master-3d",
@@ -607,12 +583,6 @@
 "description": "Navigate cube grids to reveal hidden numbers using logical deduction and spatial clues in this three-dimensional puzzle setting. Players carefully uncover numeric tiles while avoiding pitfalls that hinder progression through increasing grid complexities. The core mechanic combines 3D spatial awareness with classic mine-sweeper style logic for an engaging challenge suited to casual puzzle fans.\n\nKey Features\n\n• 3D grid tile deduction  \n• Spatial puzzle navigation  \n• Progressive difficulty levels  \n• Logical number revealing system  \n• Minimalistic block maze interface"
 },
 {
-"id": "save-the-ball-3d",
-"title": "Save The Ball 3D",
-"iframe": "https://html5.gamedistribution.com/339d6e0d1ebc43d594e37c8f95db0600/",
-"description": "Navigate a dynamic 3D platform to control a rolling ball through precise tilting and momentum management. Players guide the sphere across challenging surfaces filled with obstacles to reach the target zone. The core mechanic relies on physics-based ball movement, requiring careful balance and timing to overcome varied level designs and environmental hazards.\n\nKey Features\n\n• Physics-based ball control  \n• Tilt and momentum navigation  \n• Increasingly complex obstacle layouts  \n• Time trial and checkpoint modes  \n• 3D spatial puzzle environments"
-},
-{
 "id": "clean-road-3d",
 "title": "Clean Road 3D",
 "iframe": "https://html5.gamedistribution.com/284a4658d1ca48d58f5a53c2ea594047/",
@@ -643,22 +613,10 @@
 "description": "Control anti-aircraft batteries in 3D battles to intercept incoming enemy aircraft using precise targeting mechanics. Navigate turrets with smooth, realistic movement to defend your base against waves of hostile planes. Strategic timing and upgraded weapon accuracy are crucial for surviving each intense level and progressing through escalating aerial threats.\n\nKey Features\n\n• 3D turret aiming controls  \n• Wave-based enemy aircraft  \n• Weapon upgrade progression  \n• Time-based firing challenges  \n• Military air defense setting"
 },
 {
-"id": "ball-surfer-3d",
-"title": "Ball Surfer 3D",
-"iframe": "https://html5.gamedistribution.com/82985d8e4bcb46db93afe2e06312b1fd/",
-"description": "Roll and maneuver a spherical avatar through intricate 3D obstacle courses by tilting and steering with intuitive controls. Navigate dynamic platforms and avoid hazards to reach checkpoints and clear stages. Gradually master precision balancing and timing to progress through increasingly complex levels designed for casual gamers and kids.\n\nKey Features\n\n• Tilt-based ball control system  \n• Progressive obstacle course stages  \n• Timing and balance challenges  \n• Checkpoint and level completion tracking  \n• Colorful 3D platform environments"
-},
-{
 "id": "flick-soldier-3d",
 "title": "Flick Soldier 3D",
 "iframe": "https://html5.gamedistribution.com/fe3465c8eb7e4ea3be433634ef5dc872/",
 "description": "Flick targets with precise slingshot flicks to control a pixel soldier navigating through dynamic 3D environments. The core mechanic revolves around using directional swipes to launch and maneuver the character, requiring timing and spatial awareness to overcome obstacles and reach checkpoints. Varied terrain and enemy barricades challenge players as they advance through increasingly complex stages.\n\nKey Features\n\n• Touch-based flick control system  \n• Obstacle navigation and timing  \n• Progressive level difficulty curve  \n• Dynamic camera movement angles  \n• Stylized 3D pixel art environments"
-},
-{
-"id": "ball-up-3d",
-"title": "Ball Up 3D",
-"iframe": "https://html5.gamedistribution.com/41a1cd5059154d2e8ea85ece8acd0d7d/",
-"description": "Roll and bounce through intricate 3D obstacle courses using precise physics-based controls to navigate moving platforms and narrow paths. Players balance speed and accuracy while maintaining momentum to complete each stage with skillful timing. The game challenges spatial awareness and reaction time across progressively complex levels designed for casual players.\n\nKey Features\n\n• Physics-driven ball movement  \n• Tilt and swipe controls  \n• Increasingly difficult platform layouts  \n• Time trial completion mode  \n• Colorful 3D environment patterns"
 },
 {
 "id": "hammer-raytrace-3d",
@@ -787,12 +745,6 @@
 "description": "Interact with 3D environments by repairing, assembling, and customizing household items using precise hand tool controls. Players navigate detailed scenes mastering object manipulation and mechanical puzzles to restore functionality. Progress unfolds through varying repair challenges requiring dexterity and problem solving within a home maintenance setting.\n\nKey Features\n\n• Physics based object handling  \n• Tool selection and usage system  \n• Progressive repair task complexity  \n• Interactive household item variety  \n• Casual indoor environment setting"
 },
 {
-"id": "ball-legs-3d",
-"title": "Ball Legs 3D",
-"iframe": "https://html5.gamedistribution.com/0890f92cc42246c9b98aac609d841f37/",
-"description": "Roll a spherical character using physics-based controls to navigate complex 3D obstacle courses. Players balance momentum and timing through progressively challenging arenas filled with ramps, gaps, and moving platforms. The gameplay emphasizes precise movement and spatial awareness as players aim to complete each level efficiently while mastering varied terrain layouts.\n\nKey Features\n\n• Physics-based rolling controls  \n• Momentum and timing balance  \n• Progressive 3D obstacle courses  \n• Precision platforming challenges  \n• Dynamic terrain navigation"
-},
-{
 "id": "diy-vehicle-climber-3d",
 "title": "Diy Vehicle Climber 3D",
 "iframe": "https://html5.gamedistribution.com/25db477a33f4486fb091f98eead55848/",
@@ -889,22 +841,10 @@
 "description": "Guide brush strokes along winding roads to create smooth driving paths in this 3D puzzle challenge. Players manipulate paint flow while navigating various curved highways to cover each lane seamlessly. The gameplay requires precise hand-eye coordination and timing to finish all sections without running out of paint or leaving gaps.\n\nKey Features\n\n• Controlled road painting mechanic  \n• Strategic paint resource management  \n• Lane coverage puzzle progression  \n• Timing-based brush stroke system  \n• 3D dynamic highway environment"
 },
 {
-"id": "clone-ball-maze-3d",
-"title": "Clone Ball Maze 3D",
-"iframe": "https://html5.gamedistribution.com/6ce3065ff1fc4feabf28b8c4d4860986/",
-"description": "Navigate intricate mazes by controlling multiple clone spheres simultaneously, using precise timing and spatial awareness to overcome complex puzzles. The gameplay involves managing clones’ movements in a 3D labyrinth environment to reach designated exit points while avoiding traps and dead ends. Each level escalates in difficulty by introducing new maze configurations and clone interaction challenges.\n\nKey Features\n\n• Multi-clone movement coordination  \n• Spatial puzzle navigation  \n• Progressive maze complexity  \n• Time-based challenge elements  \n• 3D labyrinth exploration"
-},
-{
 "id": "tricky-track-3d-2",
 "title": "Tricky Track 3D 2",
 "iframe": "https://html5.gamedistribution.com/383f76dbb0ab4205bed4d3a7a24a4854/",
 "description": "Navigate twisting 3D tracks by steering a sleek hover vehicle through narrow pathways and sharp turns. Players balance precision driving with balancing on thin rails, requiring careful control to avoid falling. Each increasingly difficult circuit challenges players to maintain speed while mastering the unique physics of gliding movement in a minimalist geometric environment.\n\nKey Features\n\n• Hover vehicle rail balancing  \n• Precise steering controls  \n• Progressive track difficulty levels  \n• Time trial scoring system  \n• Minimalist 3D geometric visuals"
-},
-{
-"id": "roll-sky-ball-3d",
-"title": "Roll Sky Ball 3D",
-"iframe": "https://html5.gamedistribution.com/b0f20c5414f848cb9c795a8e39dbe5e7/",
-"description": "Navigate a rolling ball through vibrant 3D tracks by mastering precision control and timing. Players must balance steady movement and swift adjustments to overcome shifting platforms and avoid pitfalls. The game features increasingly complex courses that test reflexes and coordination, appealing to casual gamers seeking dynamic yet accessible ball-rolling challenges.\n\nKey Features\n\n• Tilt-based ball navigation  \n• Progressive track complexity  \n• Timing-sensitive obstacle hazards  \n• Score-based level advancement  \n• Colorful 3D platform environments"
 },
 {
 "id": "count-masters-clash-pusher-3d",
@@ -971,12 +911,6 @@
 "title": "Smash it 3D",
 "iframe": "https://html5.gamedistribution.com/cb18066ac88440e2838defdc680f27eb/",
 "description": "Smash, break, and clear your way through layers of destructible objects using precise swings in this physics-based 3D breaking game. Players wield a variety of smashing tools to shatter structures and progress through escalating levels of rubble and debris. Each stage challenges timing and angle control, all set in simple but dynamic environments perfect for casual play.\n\nKey Features\n\n• Physics-based object destruction  \n• Tool selection with varied impact  \n• Level progression through rubble clearing  \n• Precision timing and angle control  \n• Minimalistic 3D destruction scenes"
-},
-{
-"id": "falling-ball-3d",
-"title": "Falling Ball 3D",
-"iframe": "https://html5.gamedistribution.com/9f1a5f3a120a4c17a26ef98285aa33a7/",
-"description": "Navigate a bouncing ball through shifting 3D platforms by timing jumps and avoiding gaps. The core mechanic relies on precise ball control and momentum as you progress through increasingly challenging levels. Each stage tests your reflexes with dynamic platform layouts and rapidly changing elevations to reach the finish line.\n\nKey Features\n\n• Momentum-based ball physics  \n• Precision jump timing controls  \n• Progressive platform difficulty  \n• Dynamic level elevation changes  \n• Colorful geometric platform theme"
 },
 {
 "id": "pancake-tower-3d",
@@ -1087,12 +1021,6 @@
 "description": "Match colorful chili peppers in 3D to clear the board and unlock progressively challenging puzzles. Players rotate the game environment to align spicy pepper clusters, combining spatial reasoning with vibrant visuals. The goal is to strategically group peppers and trigger chain reactions before running out of moves.\n\nKey Features\n\n• 3D rotational puzzle mechanic  \n• Precise cluster matching controls  \n• Level-based increasing difficulty  \n• Chain reaction scoring system  \n• Bright chili pepper theme"
 },
 {
-"id": "balls-throw-duel-3d",
-"title": "Balls Throw Duel 3D",
-"iframe": "https://html5.gamedistribution.com/826f80ceaacc4148a5abee9346a3cd2c/",
-"description": "Throw balls strategically in fast-paced 3D duels where timing and aim determine victory. Players face off in dynamic arenas, adjusting throw power and angle to outmaneuver opponents. Match rounds test reflexes through close-quarter ball throwing, requiring precise control and rapid decision-making to win each duel.\n\nKey Features\n\n• Precision aiming mechanics  \n• Adjustable throw power control  \n• Round-based duel progression  \n• Player versus player matchups  \n• 3D arena environments"
-},
-{
 "id": "pole-vault-3d",
 "title": "Pole Vault 3D",
 "iframe": "https://html5.gamedistribution.com/189ed209ac764042b8db5eaad432bcd9/",
@@ -1165,12 +1093,6 @@
 "description": "Handle customer transactions and manage a virtual checkout counter in this 3D retail simulation. Players engage with interactive product scanning and bagging mechanics while keeping pace with increasing customer flow. The challenge lies in accuracy and speed under pressure as the game tracks time-based customer service progression in a casual shopping environment.\n\nKey Features\n\n• Product scanning accuracy system  \n• Real-time checkout management  \n• Increasing customer queue challenge  \n• Time pressure service goals  \n• 3D supermarket counter setting"
 },
 {
-"id": "wall-ball-3d",
-"title": "Wall Ball 3D",
-"iframe": "https://html5.gamedistribution.com/b2ecaca58d724265b01f611c4f634ea3/",
-"description": "Bounce and aim the ball to break through layered walls using precise 3D trajectory control. Players manipulate angles and power to clear each stage, relying on physics-based rebound mechanics. Progression involves mastering increasingly complex wall formations and timing shots accurately for efficient clearance.\n\nKey Features\n\n• 3D ball trajectory aiming  \n• Physics-based rebound system  \n• Increasingly complex wall layouts  \n• Precision shot timing mechanics  \n• Casual arcade progression"
-},
-{
 "id": "ice-man-3d",
 "title": "Ice Man 3D",
 "iframe": "https://html5.gamedistribution.com/b97deff2b8b140cbab003102cc903356/",
@@ -1189,12 +1111,6 @@
 "description": "Manipulate layered cubes in a three-dimensional space to realign colored faces and solve complex puzzles in this immersive twist on the classic Rubik’s Cube. Players rotate cube segments with precision controls, navigating spatial challenges that increase in difficulty as patterns become more intricate. Success depends on mastering smooth 3D manipulation and layered logic.\n\nKey Features\n\n• Layer rotation puzzle mechanics  \n• Precision 3D control interface  \n• Increasing difficulty levels  \n• Timed challenge mode  \n• Color pattern alignment system"
 },
 {
-"id": "two-ball-3d-dark",
-"title": "Two Ball 3D Dark",
-"iframe": "https://html5.gamedistribution.com/7bc55c230c0e476da7acfac8b77714b7/",
-"description": "Navigate two synchronized spheres through complex 3D puzzle environments by controlling their movements simultaneously. Players must balance precise timing and spatial reasoning to overcome intricate obstacles and reach level endpoints. This gameplay emphasizes dual-object control and coordination challenges across progressively demanding stages designed for casual and younger audiences.\n\nKey Features\n\n• Simultaneous dual ball navigation  \n• Precision control with spatial puzzles  \n• Increasing difficulty levels progression  \n• Time-based challenge mechanics  \n• Abstract minimalist 3D environments"
-},
-{
 "id": "lanechage-3d",
 "title": "LaneChage 3D",
 "iframe": "https://html5.gamedistribution.com/801dac9018dd4813bba00d7f1ddf45e2/",
@@ -1207,22 +1123,10 @@
 "description": "Throw knives with precision and timing to eliminate targets in this 3D action challenge. Players engage in skillful aiming and controlled throwing mechanics to clear each level’s distinct patterns of stationary and moving enemies. The game tests steady hands and strategic knife placement while advancing through increasingly complex stages designed for casual players and younger audiences.\n\nKey Features\n\n• Precision knife throwing mechanic  \n• Touch and drag aiming control  \n• Progressive target elimination levels  \n• Time-based challenge system  \n• Minimalist 3D arena environments"
 },
 {
-"id": "fire-balls-3d-shooting",
-"title": "Fire Balls 3D shooting",
-"iframe": "https://html5.gamedistribution.com/b657e6c706e649aba3a8c461871df8f7/",
-"description": "Shoot colorful fireballs to knock down stacked targets in a physics-based 3D environment. Players aim and time shots carefully to clear progressively complex levels featuring varied target arrangements. Precision with trajectory and power control is key to mastering each stage, while obstacles demand strategic positioning and timing. The game’s casual pace suits teens and younger players.\n\nKey Features\n\n• Physics-based projectile shooting  \n• Aim and power adjustment controls  \n• Increasingly complex target stacks  \n• Level progression with scoring system  \n• Vibrant 3D visual environment"
-},
-{
 "id": "pocket-league-3d",
 "title": "Pocket League 3D",
 "iframe": "https://html5.gamedistribution.com/c6867b465f364526a02edc6fa31abe7f/",
 "description": "Control stylized characters in dynamic 3D soccer matches using precise ball handling and agile movement. Players navigate vibrant arenas to score goals while managing quick passes and tactical positioning. The gameplay emphasizes smooth third-person control and rapid response to shifting play scenarios, challenging players to outmaneuver opponents in fast-paced sports action.\n\nKey Features\n\n• Third-person soccer control  \n• Agile player movement system  \n• Precision ball handling mechanics  \n• Match-based goal scoring  \n• Colorful 3D arena environments"
-},
-{
-"id": "waggle-balls-3d",
-"title": "Waggle Balls 3D",
-"iframe": "https://html5.gamedistribution.com/db8c16642c034e5b92c6cdc3c6f00a33/",
-"description": "Roll dynamic spherical characters across diverse 3D environments, collecting scattered targets while navigating complex obstacles with precise control. The game challenges players to balance speed and accuracy, using momentum-based movement mechanics through progressive stages. Each level introduces varied terrain layouts that test timing and dexterity, enhancing the physics-driven ball rolling experience.\n\nKey Features\n\n• Momentum-based ball control  \n• Target collection progression  \n• Time-sensitive obstacle navigation  \n• Dynamic 3D environment design  \n• Physics-driven movement system"
 },
 {
 "id": "tricky-track-3d",
@@ -1289,12 +1193,6 @@
 "title": "Kick Master 3D",
 "iframe": "https://html5.gamedistribution.com/91b97b56cbba426d97ba7f021e6b243b/",
 "description": "Execute precise kicks and combos to defeat multiple opponents in a dynamic 3D environment, relying on timing and positioning to master varied attack patterns. Progress through levels that increase in difficulty with diverse enemy types challenging your reflexes. Stage-based arenas provide the setting for each combat round, emphasizing skillful control and strategic offense.\n\nKey Features\n\n• Combo-based melee combat system  \n• Responsive 3D character movement  \n• Progressive enemy difficulty scaling  \n• Timed arena battle stages  \n• Stylized martial arts theme"
-},
-{
-"id": "ball-drop-3d",
-"title": "Ball Drop 3D",
-"iframe": "https://html5.gamedistribution.com/5ede10abb41f4a4eba6c416ebc418ac4/",
-"description": "Manipulate bouncing balls through dynamic 3D environments by guiding their trajectory and timing drops for precise landings. Each level challenges players with shifting platforms and varying ball weights that affect momentum and control. Progression depends on mastering physics-driven ball movement to reach target zones under increasing difficulty, offering casual-friendly pace tuned for teens and kids.\n\nKey Features\n\n• Physics-based ball trajectory control  \n• Timing precision for landings  \n• Platform navigation challenges  \n• Increasing level complexity  \n• Varied colored ball interaction"
 },
 {
 "id": "tie-dye-master-3d",
@@ -1423,12 +1321,6 @@
 "description": "Bounce a paddle to launch a ball and shatter colorful 3D bricks arranged in dynamic formations. Players maneuver the paddle on a three-dimensional plane to control ball trajectories, breaking through challenging layered structures while aiming to clear levels efficiently. The game mixes spatial awareness with reflex timing to tackle increasingly complex brick layouts.\n\nKey Features\n\n• 3D paddle and ball physics  \n• Angular ball deflection control  \n• Progressive brick pattern difficulty  \n• Multiple ball power-up types  \n• Vibrant geometric block visuals"
 },
 {
-"id": "ball-picker-3d",
-"title": "Ball Picker 3D",
-"iframe": "https://html5.gamedistribution.com/0f4d6b8f1ba445d198d3ddd474fc3ce3/",
-"description": "Navigate carefully as you collect colorful spheres scattered across shifting 3D environments, using precise movement to avoid hazards and maximize your haul. The core mechanic involves dexterous control of a droplet-shaped collector that absorbs balls one by one, challenging your timing and positioning in progressively complex levels. Speed and accuracy are key to mastering this casual spatial puzzle.\n\nKey Features\n\n• 3D ball collection mechanic  \n• Fluid swiping movement control  \n• Increasing level difficulty curve  \n• Time-based scoring system  \n• Minimalistic vibrant aesthetic"
-},
-{
 "id": "floating-water-coach-duty-3d",
 "title": "Floating Water Coach Duty 3D",
 "iframe": "https://html5.gamedistribution.com/12b626104af842cf81fae5c378543f94/",
@@ -1477,18 +1369,6 @@
 "description": "Push crates through multi-layered 3D puzzles using spatial reasoning and precise movement controls to align boxes with designated targets. Players navigate varying room layouts that require planning and careful positioning to solve each challenge. This installment introduces intricate obstacle placements that increase puzzle complexity and test your logic skills.\n\nKey Features\n\n• 3D grid-based box pushing  \n• Directional control navigation  \n• Progressive level difficulty scaling  \n• Time trial and puzzle modes  \n• Minimalist geometric puzzle rooms"
 },
 {
-"id": "balls-out-3d",
-"title": "Balls Out 3D",
-"iframe": "https://html5.gamedistribution.com/382a8c7781ad483ab71f8a7487fd3f47/",
-"description": "Roll colorful spheres through dynamic obstacle courses using precise physics-based control in this vibrant 3D game. Navigate spinning platforms and ramps while maintaining momentum to reach the finish line. Each level challenges players to master smooth ball movement and timing across progressively complex stages designed for casual play.\n\nKey Features\n\n• Physics driven ball control  \n• Momentum based obstacle navigation  \n• Progressive level difficulty scaling  \n• Time trial scoring system  \n• Vibrant 3D platform environments"
-},
-{
-"id": "deadly-ball-3d",
-"title": "Deadly Ball 3D",
-"iframe": "https://html5.gamedistribution.com/e8a25140a0f3460e8079fe18cbbf2306/",
-"description": "Navigate an intense physics-driven arena where a deadly ball rolls and bounces to eliminate targets. Players control precise movement and timing to strike and avoid hazards, mastering momentum as the primary mechanic. The game challenges reflexes and spatial awareness through continuously evolving stage layouts and obstacles.\n\nKey Features\n\n• Physics-based ball control  \n• Momentum and collision mechanics  \n• Increasingly complex arena designs  \n• Reflex-driven obstacle avoidance  \n• Score tracking with progression system"
-},
-{
 "id": "free-fall-3d",
 "title": "Free Fall 3D",
 "iframe": "https://html5.gamedistribution.com/b0ca17abe77c42a2bcc188a316dea4e9/",
@@ -1523,12 +1403,6 @@
 "title": "Poly Art 3D",
 "iframe": "https://html5.gamedistribution.com/5b489c16b9d24e938459b6dce9b879ad/",
 "description": "Manipulate low-poly 3D shapes by matching colors and fitting pieces into their designated slots to complete intricate puzzles. The game uses a rotation and placement mechanic where players carefully assemble abstract objects within time limits. Each level progressively increases complexity by introducing more fragmented models and tighter constraints for precision.\n\nKey Features\n\n• Color-based shape matching  \n• 3D object rotation controls  \n• Increasing puzzle complexity  \n• Timed placement challenges  \n• Minimalist geometric visuals"
-},
-{
-"id": "bomb-balls-3d",
-"title": "Bomb Balls 3D",
-"iframe": "https://html5.gamedistribution.com/ba8a601affc24a339bfde67d23505ee5/",
-"description": "Launch colorful spheres to strategically clear clusters and trigger explosive chain reactions in this three-dimensional puzzle environment. Players navigate dynamic ball trajectories, aiming to dismantle intricate formations and maximize blast combos. Progression unfolds through increasingly complex arrangements demanding precise timing and spatial awareness, all set against vivid, abstract 3D backdrops to enhance visual clarity.\n\nKey Features\n\n• 3D projectile trajectory aiming  \n• Cluster matching destruction system  \n• Chain reaction explosion mechanics  \n• Level progression with rising difficulty  \n• Vibrant abstract visual theme"
 },
 {
 "id": "mini-bowling-3d",
@@ -1567,22 +1441,10 @@
 "description": "Pilot various aircraft through immersive 3D flight environments, mastering realistic cockpit controls to navigate skies and complete aerial missions. Players experiment with precise throttle and steering inputs, advancing by improving flight skills and handling different plane types. The game challenges players to adapt to altitude changes and landing techniques while exploring detailed airborne settings.\n\nKey Features\n\n• Realistic cockpit control mechanics  \n• Precision throttle and steering input  \n• Progressive flight skill challenges  \n• Multiple aircraft handling systems  \n• Dynamic 3D flight environment"
 },
 {
-"id": "hit-ball-3d",
-"title": "Hit Ball 3D",
-"iframe": "https://html5.gamedistribution.com/9292c16984694ba1925cba8ebc94aec5/",
-"description": "Hit moving balls in a dynamic 3D arena using precise timing and aiming. Players control the trajectory and power to strike targets effectively while adapting to continuously changing ball speeds and positions. Progress through increasingly challenging levels that require quick reflexes and spatial awareness to achieve higher scores and complete objectives.\n\nKey Features\n\n• Precision ball striking mechanic  \n• Player-controlled aiming and power  \n• Increasing difficulty levels  \n• Timed target challenge mode  \n• 3D arena environment effects"
-},
-{
 "id": "winter-clash-3d",
 "title": "Winter Clash 3D",
 "iframe": "https://html5.gamedistribution.com/70e909699e6b4f21978261f2764eadb5/",
 "description": "Navigate icy battlegrounds on foot while engaging in fast-paced third-person combat. Utilize dynamic movement and cover mechanics to outmaneuver opponents in snowy environments. The game challenges players with objective-based skirmishes requiring quick reflexes and strategy to dominate each clash.\n\nKey Features\n\n• Third-person shooter combat  \n• Cover and movement tactics  \n• Objective-driven skirmishes  \n• Multiplayer match progression  \n• Snowy terrain influence"
-},
-{
-"id": "balls-rotate-3d",
-"title": "Balls Rotate 3D",
-"iframe": "https://html5.gamedistribution.com/08ece778e8cd4d31999802e4be6863c4/",
-"description": "Rotate clusters of colorful spheres across dynamic 3D shapes to align them and clear the board. The core mechanic focuses on spatial manipulation and timing as players control the rotation speed and direction to solve puzzles. Challenges increase with complex arrangements and faster rotations, inviting casual players to improve their reflexes and planning skills.\n\nKey Features\n\n• 3D sphere cluster rotation  \n• Precision timing controls  \n• Increasing puzzle complexity  \n• Score tracking system  \n• Vivid geometric stage design"
 },
 {
 "id": "tower-of-hanoi-3d",
@@ -1609,22 +1471,10 @@
 "description": "Navigate explosive 3D arenas using strategic bomb placement to clear obstacles and defeat enemies. Players employ timed detonations to manipulate the environment and outmaneuver opponents. The game features multi-level maps that require tactical positioning and precise timing to progress through increasingly complex layouts. Casual gamers and younger audiences can enjoy engaging spatial challenges in a vivid three-dimensional setting.\n\nKey Features\n\n• Strategic bomb deployment mechanics  \n• 3D arena navigation controls  \n• Level-based environmental puzzles  \n• Timed detonation challenges  \n• Colorful cartoon-style visuals"
 },
 {
-"id": "balls-fill-3d",
-"title": "Balls Fill 3D",
-"iframe": "https://html5.gamedistribution.com/10dbdd46f80c4a05bfdaeff0783af08e/",
-"description": "Navigate colorful orbs to guide the flow of balls through complex 3D obstacles, mastering spatial control and timing to fill designated areas efficiently. Players adjust angles and momentum in dynamic environments to overcome increasingly intricate setups. The challenge focuses on precision movement and managing ball trajectories amid shifting structures.\n\nKey Features\n\n• 3D ball movement mechanics  \n• Angle and momentum control  \n• Progressive obstacle complexity  \n• Time-based level challenges  \n• Vivid geometric environments"
-},
-{
 "id": "path-paint-3d",
 "title": "Path Paint 3D",
 "iframe": "https://html5.gamedistribution.com/8c642d3f21ed4d17b04c44e3398aaa7c/",
 "description": "Navigate twisting paths by painting vibrant trails in this 3D spatial puzzle. Players manipulate a paintbrush that moves along complex geometries, aiming to cover surfaces completely to clear stages. Precision and planning are required as the brush follows intricate routes, unlocking new levels with increasing difficulty and creative patterns.\n\nKey Features\n\n• 3D path painting mechanic  \n• Brush movement control system  \n• Progressive stage complexity  \n• Completion-based level unlocking  \n• Color mixing visual effects"
-},
-{
-"id": "marble-balls-3d",
-"title": "Marble Balls 3D",
-"iframe": "https://html5.gamedistribution.com/e1ff4a72c3bd430492867dad363dfea9/",
-"description": "Roll and collide colorful spheres through dynamic 3D environments while avoiding obstacles and triggering chain reactions. Players use precise aiming and timing to maximize ball launches and clear clusters. Progression involves navigating increasingly complex levels where spatial awareness and strategy shape each move, all set in vibrant marble-themed arenas.\n\nKey Features\n\n• Ball launching and collision physics  \n• Precision aiming control system  \n• Multi-stage level progression  \n• Chain reaction scoring mechanics  \n• Colorful marble arena settings"
 },
 {
 "id": "roller-magnet-3d",
@@ -1711,18 +1561,6 @@
 "description": "Navigate spiraling platforms to time your jumps and make precise dunks on increasingly narrow hoops in this 3D challenge. The gameplay centers on tapping controls to twist down a helix tower, balancing momentum and position to climb levels and avoid falling. Quick reflexes and spatial awareness are key to mastering the rotating obstacle course.\n\nKey Features\n\n• Helix spiral descent mechanic  \n• Tap-based jump timing controls  \n• Progressive difficulty with tighter hoops  \n• Endless mode for score chasing  \n• Minimalistic neon visual style"
 },
 {
-"id": "two-ball-3d",
-"title": "Two Ball 3D",
-"iframe": "https://html5.gamedistribution.com/a3a9ba96f58c45728d56ea8d0014de14/",
-"description": "Roll dual spheres through intricate 3D mazes by balancing momentum and trajectory in a physics-based puzzle environment. Maneuvering two balls simultaneously requires spatial awareness and precise control to navigate narrow paths and obstacles. Levels progressively challenge coordination skills, demanding timely switches between spheres to reach the goal.\n\nKey Features\n\n• Simultaneous dual ball control  \n• Physics-based momentum puzzles  \n• Increasingly complex spatial mazes  \n• Time-sensitive ball switching mechanic  \n• Minimalist 3D geometric environments"
-},
-{
-"id": "ball-fall-3d-2",
-"title": "Ball Fall 3D 2",
-"iframe": "https://html5.gamedistribution.com/011b4e60c49b4d2a8b64ca57a67a1425/",
-"description": "Guide rolling spheres through intricate 3D obstacle courses by tilting and balancing on narrow paths. Players navigate shifting platforms and avoid gaps to reach the finish line while managing ball momentum with precise controls. Levels increase difficulty by introducing tighter pathways and variable ball sizes, testing timing and spatial awareness.\n\nKey Features\n\n• Tilt-based ball navigation  \n• Momentum control mechanics  \n• Progressive obstacle complexity  \n• Time trial challenge mode  \n• Minimalistic 3D polygon environments"
-},
-{
 "id": "helix-knife-throw-3d",
 "title": "Helix Knife Throw 3D",
 "iframe": "https://html5.gamedistribution.com/db5b544b1d33435faa1d0b816df03acc/",
@@ -1807,12 +1645,6 @@
 "description": "Engage in tactical cover shooting as you command a lone soldier through urban combat zones. Use precise third-person aiming mechanics to eliminate waves of enemy soldiers while navigating destructible environments. Levels advance with increased enemy AI complexity, offering escalating challenges that test your reflexes and strategic positioning.\n\nKey Features\n\n• Third-person cover shooting system  \n• Responsive aiming and control scheme  \n• Progressive enemy AI difficulty  \n• Mission-based level advancement  \n• Urban warfare combat setting"
 },
 {
-"id": "tower-ball-3d",
-"title": "Tower Ball 3D",
-"iframe": "https://html5.gamedistribution.com/8068977d2773493ca4592a9dac31d633/",
-"description": "Stack colorful balls on narrow rotating platforms to build towering structures in a fast-paced physics puzzle environment. Players carefully time ball drops to balance each layer without toppling the stack, mastering precise placement and gravity mechanics. Progressive difficulty ramps up as the platforms spin faster, challenging balance and reaction skills throughout the game.\n\nKey Features\n\n• Physics-based stacking mechanics  \n• Tap-to-drop ball control  \n• Increasing platform rotation speed  \n• Layer balance progress system  \n• Minimalist 3D tower setting"
-},
-{
 "id": "love-poly-3d",
 "title": "Love Poly 3D",
 "iframe": "https://html5.gamedistribution.com/44fe2aef16a44831a9615ee2e8b2b25d/",
@@ -1865,18 +1697,6 @@
 "title": "Shape 3D",
 "iframe": "https://html5.gamedistribution.com/cac9b39529b948febe49240535dcca79/",
 "description": "Navigate complex three-dimensional puzzles by manipulating shapes to fit precise spatial configurations. Players rotate and position polygonal objects within a minimalistic environment to solve increasingly intricate levels. Success hinges on spatial reasoning and keen observation, offering an engaging challenge for casual gamers and younger players alike.\n\nKey Features\n\n• 3D shape rotation mechanics  \n• Intuitive drag-and-drop controls  \n• Progressive difficulty scaling  \n• Minimalist geometric visuals  \n• Puzzle completion scoring system"
-},
-{
-"id": "ball-bump-3d",
-"title": "Ball Bump 3D",
-"iframe": "https://html5.gamedistribution.com/588994922b604b96b7e2394e0ee12da5/",
-"description": "Bounce and steer a vibrant ball through a series of physics-based 3D obstacle courses, using momentum and timing to overcome moving platforms and traps. The game challenges players to master the unique ball control to reach checkpoints and complete progressively complex levels. Precision rolling and careful navigation are essential to advance in this colorful, dynamic environment.\n\nKey Features\n\n• Physics-based ball movement  \n• Momentum-driven obstacle navigation  \n• Progressive level difficulty scaling  \n• Checkpoint and retry system  \n• Bright 3D platform environments"
-},
-{
-"id": "fire-balls-3d",
-"title": "Fire Balls 3D",
-"iframe": "https://html5.gamedistribution.com/f402488547594e32936fc49e814a31ba/",
-"description": "Launch colorful fireballs through 3D obstacle courses by carefully aiming and timing throws to clear moving targets. Players rely on precise flick controls to navigate ball trajectories across dynamic, spinning platforms. The challenge lies in mastering the varying speeds and unpredictable patterns to smash all targets before running out of attempts.\n\nKey Features\n\n• Precision flick aiming mechanic  \n• Dynamic rotating obstacle layouts  \n• Progressive level difficulty scaling  \n• Limited throw attempts per stage  \n• Vibrant 3D ball and target visuals"
 },
 {
 "id": "flip-the-knife-3d",

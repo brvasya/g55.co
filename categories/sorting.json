@@ -85,12 +85,6 @@
 "description": "Sort increasingly complex item sets into designated containers by swiping and dragging pieces in this casual puzzle game. The core mechanic revolves around quick recognition and categorization, with subtle variations in sorting patterns that challenge timing and accuracy. Levels escalate with new combinations, encouraging players to sharpen their reflexes and observation skills in a minimalist environment.\n\nKey Features\n\n• Gesture based sorting controls  \n• Progressive item complexity  \n• Time-sensitive sorting challenges  \n• Score-based level advancement  \n• Minimalist puzzle interface"
 },
 {
-"id": "ball-craze-sort",
-"title": "Ball Craze Sort",
-"iframe": "https://html5.gamedistribution.com/623a520854894d7baf1f34fb9e86cda9/",
-"description": "Sort colorful balls quickly by dragging them to matching zones in this casual browser puzzle. The gameplay challenges players to identify sorting patterns under time pressure, testing sorting speed and visual accuracy. Each level introduces increased cluster complexity and faster color shifts for added challenge.\n\nKey Features\n\n• Drag-and-drop sorting mechanic  \n• Timed level progression system  \n• Increasing cluster complexity  \n• Color pattern recognition challenge  \n• Casual arcade visual style"
-},
-{
 "id": "butterfly-sort-puzzle",
 "title": "Butterfly Sort Puzzle",
 "iframe": "https://html5.gamedistribution.com/f85ae7d577624125bf748bbb5bb53645/",
@@ -101,12 +95,6 @@
 "title": "BBQ Sort Puzzle",
 "iframe": "https://html5.gamedistribution.com/bca1da79a8744ca3bf90e5b8753b611d/",
 "description": "Arrange barbecue ingredients by type and color to solve each sorting challenge in this casual puzzle game. Players use a drag-and-drop mechanic to organize skewers on a grill, aiming to match patterns and clear levels with increasing complexity. Exact goals vary as levels introduce new sorting combinations and timed tasks for progression.\n\nKey Features\n\n• Drag-and-drop sorting mechanic  \n• Pattern matching skewer arrangement  \n• Level-based difficulty scaling  \n• Time-limited sorting challenges  \n• Grill and barbecue ingredient theme"
-},
-{
-"id": "ball-sort-color-puzzle",
-"title": "Ball Sort: Color Puzzle",
-"iframe": "https://html5.gamedistribution.com/2f97ba2d17f843a7962259524c6ebc71/",
-"description": "Sort colored balls into matching tubes by carefully swapping their positions to clear the board. This puzzle relies on strategic planning where you move balls one at a time, aiming to group colors efficiently and free up space. Challenges increase as tube capacity limits your moves, requiring thoughtful sequencing for each level.\n\nKey Features\n\n• Ball swapping core mechanic  \n• Single ball movement control  \n• Increasing tube capacity challenge  \n• Level progression system  \n• Color sorting puzzle focus"
 },
 {
 "id": "xmas-hexa-sort",
@@ -155,12 +143,6 @@
 "title": "Flower Sort",
 "iframe": "https://html5.gamedistribution.com/62589158906a4ce69d53bfbd3ea2d134/",
 "description": "Sort colorful flowers into matching groups by dragging and dropping them into designated baskets. The gameplay revolves around quick pattern recognition and spatial arrangement, challenging players to organize blooms before time runs out. Each level adds complexity by introducing new flower types and limited moves, making thoughtful sorting essential for progression.\n\nKey Features\n\n• Drag-and-drop sorting mechanic  \n• Time-limited puzzle rounds  \n• Increasing flower variety  \n• Move-restriction challenges  \n• Vibrant garden-themed visuals"
-},
-{
-"id": "ball-sort",
-"title": "Ball Sort",
-"iframe": "https://html5.gamedistribution.com/1fb2396a0f1240578629227a91380d31/",
-"description": "Arrange colored balls into matching tubes by carefully sliding them between containers. This puzzle challenges players to strategize ball movements and manage limited space to achieve fully sorted tubes. Progression depends on increasingly complex tube arrangements, demanding thoughtful planning to complete each level efficiently.\n\nKey Features\n\n• ball sorting core mechanic  \n• drag and drop movement control  \n• level-based tube arrangement puzzles  \n• limited container capacity challenge  \n• casual color-matching puzzle design"
 },
 {
 "id": "emoji-sort-fun-puzzle-game",
@@ -535,12 +517,6 @@
 "description": "Sort colored liquids by pouring from one tube to another until each container holds a single color. This water sorting puzzle centers on strategic layering and careful planning to avoid mixing hues. Players navigate limited tube space and must sequence moves precisely to solve each challenge. Increasing difficulty introduces more colors and fewer tubes, testing memory and logic.\n\nKey Features\n\n• Color sorting tube mechanic  \n• Tap and drag pour controls  \n• Progressive multi-level puzzles  \n• Limited moves challenge system  \n• Clear visual liquid separation"
 },
 {
-"id": "ball-sort-puzzle",
-"title": "Ball Sort Puzzle",
-"iframe": "https://html5.gamedistribution.com/cc1bbc59c9084433875d192ac22e3ec5/",
-"description": "Sort colored balls into matching tubes by carefully swapping their positions in this logic-based puzzle. The game challenges players to organize multiple stacks through limited moves, emphasizing pattern recognition and strategic planning. The tube sorting mechanic requires attention to the ball colors and tube capacity, making level progression increasingly complex for casual gamers and kids alike.\n\nKey Features\n\n• Color matching tube sorting  \n• Drag and drop ball swapping  \n• Increasing difficulty levels  \n• Limited move challenge system  \n• Casual puzzle with vibrant colors"
-},
-{
 "id": "marbles-sorting",
 "title": "Marbles Sorting",
 "iframe": "https://html5.gamedistribution.com/ebfc94c89ebd4491852b2815e0d376b3/",
@@ -571,12 +547,6 @@
 "description": "Sort vibrant blooms into matching groups by carefully selecting their colors and shapes in this casual browser challenge. Players engage in quick decision-making and sorting mechanics to organize flowers efficiently before time runs out. The gameplay revolves around pattern recognition with an increasing pace to test reflexes and accuracy.\n\nKey Features\n\n• Color and shape sorting mechanic  \n• Click and drag flower controls  \n• Timed level progression  \n• Increasing difficulty stages  \n• Seasonal garden visual theme"
 },
 {
-"id": "ball-sort-soccer",
-"title": "Ball Sort Soccer",
-"iframe": "https://html5.gamedistribution.com/0ea10abe7c7546a18fe06bf3091f4710/",
-"description": "Sort colored balls into goals by matching groups in a soccer-themed puzzle layout. Players manipulate clusters to align balls by color, testing pattern recognition and sorting strategy. The game challenges players to clear the board efficiently while managing limited moves, offering a casual yet engaging experience influenced by sports elements.\n\nKey Features\n\n• ball color sorting mechanic  \n• touch-based cluster manipulation  \n• move-limited clearing challenge  \n• level progression with complexity  \n• soccer-inspired puzzle design"
-},
-{
 "id": "sort-fruits",
 "title": "Sort Fruits",
 "iframe": "https://html5.gamedistribution.com/d4acac8e87ef4ccb8ca4283007a36589/",
@@ -587,18 +557,6 @@
 "title": "Sort Them Bubbles",
 "iframe": "https://html5.gamedistribution.com/76a3884ea6aa4095b54705ab433c6d27/",
 "description": "Sort moving bubbles by color and shape using fast-paced swapping mechanics to clear challenging levels. Players must quickly identify matching clusters and rearrange bubble sequences under time constraints, testing pattern recognition and dexterity. Progression unfolds through increasingly complex bubble formations and limited moves, creating a layered sorting puzzle experience for casual players and teens.\n\nKey Features\n\n• Color and shape matching mechanic  \n• Swipe-based bubble swapping control  \n• Limited moves level progression  \n• Time attack sorting challenges  \n• Vibrant bubble cluster design"
-},
-{
-"id": "balls-sorting-deluxe",
-"title": "Balls Sorting Deluxe",
-"iframe": "https://html5.gamedistribution.com/44cad903216a423ca437795cb7e88d10/",
-"description": "Sort colorful balls quickly into matching containers using a precise drag-and-drop mechanic. The challenge increases as ball speed and quantity ramp up in each level, testing players’ reflexes and sorting accuracy. Casual players and kids progress through increasingly complex patterns, making it a compact exercise in steady hand-eye coordination and fast decision-making.\n\nKey Features\n\n• Drag-and-drop sorting controls  \n• Increasing ball spawn speed  \n• Progressive sorting challenge levels  \n• Timed accuracy scoring system  \n• Bright, color-based puzzle design"
-},
-{
-"id": "ball-sort-halloween",
-"title": "Ball Sort Halloween",
-"iframe": "https://html5.gamedistribution.com/588d5088c38a4eb0a755723aeb423509/",
-"description": "Sort colored balls by swapping their positions inside tubes, using logic to organize matching colors in this themed puzzle challenge. The gameplay involves strategic ball movement within limited tube space to complete sequences and clear levels. Progression unfolds through increasingly complex arrangements set against a spooky Halloween backdrop, offering casual players an intriguing color-sorting task.\n\nKey Features\n\n• Tube-based ball sorting mechanic  \n• Drag and swap control system  \n• Increasing difficulty puzzle stages  \n• Level completion through color matching  \n• Halloween-themed visual elements"
 },
 {
 "id": "bubble-sorting-deluxe",
@@ -643,12 +601,6 @@
 "description": "Sort colorful liquids by pouring them between test tubes in a precise sequence to organize each container by color. This water sorting puzzle challenges players to plan moves carefully using stack-like container behavior while gradually increasing the number of tubes, elevating the difficulty with more complex sorting tasks.\n\nKey Features\n\n• Pouring and stacking mechanics  \n• Drag and drop liquid controls  \n• Progressive level difficulty scaling  \n• Undo move option for retries  \n• Color separation puzzle concept"
 },
 {
-"id": "ball-sort-xmas",
-"title": "Ball Sort Xmas",
-"iframe": "https://html5.gamedistribution.com/b38bd3943ea14e1887c8dc446af69a26/",
-"description": "Sort colored balls into matching tubes by swapping and moving pieces efficiently in this casual puzzle game. Players use a simple drag-and-drop mechanic to arrange balls by color across multiple levels with increasing difficulty. The festive holiday theme frames the challenge as players progress through seasonal tube arrangements and limited moves. Patience and planning unlock each stage’s sorted success.\n\nKey Features\n\n• Color matching tube sorting  \n• Drag-and-drop ball placement  \n• Progressive puzzle difficulty  \n• Move limit challenge system  \n• Holiday-themed visual style"
-},
-{
 "id": "super-sort",
 "title": "Super Sort",
 "iframe": "https://html5.gamedistribution.com/d57e894ac5194820aa28e3cdfa0fdf37/",
@@ -659,12 +611,6 @@
 "title": "Lipuzz Water Sort Puzzle",
 "iframe": "https://html5.gamedistribution.com/e91a77432b204af5aa1383da63f90835/",
 "description": "Sort colorful water tubes by pouring liquids between containers in this puzzle game. Players use precise liquid transfer to group matching colors together and clear vessels in limited moves. The challenge revolves around logic and foresight as the transparent tubes reveal mixing layers. Levels gradually increase difficulty by adding unique color combinations and bottle counts.\n\nKey Features\n\n• Liquid pouring sorting mechanic  \n• Tap controls for vessel selection  \n• Increasing color complexity levels  \n• Limited move puzzle challenges  \n• Transparent tube visual theme"
-},
-{
-"id": "ball-sort-puzzle-new",
-"title": "Ball Sort Puzzle New",
-"iframe": "https://html5.gamedistribution.com/9eadf91eca9e4f22ac59df15e7f14257/",
-"description": "Sort colored balls by transferring them between tubes to match colors in this puzzle game. The core mechanic revolves around carefully planning moves to arrange balls in homogeneous stacks. Players face a limited number of tubes that increase with levels, adding spatial reasoning challenges. The gameplay progressively introduces more ball colors to sort for added complexity.\n\nKey Features\n\n• Color matching tube sorting  \n• Strategic ball transfer control  \n• Increasing tube count levels  \n• Progressive color variety challenge  \n• Casual puzzle stacking mechanics"
 },
 {
 "id": "trash-sorting-for-kids",

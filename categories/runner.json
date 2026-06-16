@@ -601,12 +601,6 @@
 "description": "Dash through dynamic 3D environments while avoiding obstacles and evading pursuers in this runner game. Players rely on precise timing and swift reflexes to navigate levels featuring diverse traps and routes, aiming to escape detection and achieve high scores. Collectibles and escalating difficulty add layers of challenge and replayability.\n\nKey Features\n\n• 3D obstacle evasion mechanics  \n• Responsive swipe and tap controls  \n• Increasingly complex level layouts  \n• Stealth and speed-based scoring  \n• Urban night-themed runner setting"
 },
 {
-"id": "ball-runner",
-"title": "Ball Runner",
-"iframe": "https://html5.gamedistribution.com/7a65de264dbc4f8db2d767aa2fc9aa59/",
-"description": "Navigate a rolling ball through dynamic obstacle courses by tapping to jump and timing movements precisely to avoid traps and gaps. The game challenges players with progressively complex platform sequences requiring quick reflexes and accurate control. Players advance by mastering jump timing across levels filled with shifting platforms and strategic gaps.\n\nKey Features\n\n• Tap-based jump control system  \n• Increasingly complex platform layouts  \n• Timed obstacle avoidance challenges  \n• Level progression with difficulty ramp  \n• Colorful minimalistic visual style"
-},
-{
 "id": "pen-boy-runner",
 "title": "PEN BOY RUNNER",
 "iframe": "https://html5.gamedistribution.com/49cb7b92ad644f9d9b58406d43b19ba0/",
@@ -1093,12 +1087,6 @@
 "description": "Run as a mysterious creature through dynamic obstacle courses, mastering quick reflexes and fluid jumps to survive increasingly complex stages. Navigate shifting landscapes while collecting power-ups that alter your movement and challenge your timing. The goal centers on reaching new distances without hitting traps or enemies, testing both speed and precision.\n\nKey Features\n\n• Reactive jump and slide controls  \n• Distance-based level progression  \n• Collectible power-up system  \n• Multiple hazard types to avoid  \n• Animated monster runner character"
 },
 {
-"id": "ball-runner-game",
-"title": "ball runner game",
-"iframe": "https://html5.gamedistribution.com/7e63b48d8be64ecea137aa91a0addb4a/",
-"description": "Navigate a rolling sphere through increasingly complex obstacle courses using precise timing and spatial judgment. The core mechanic centers on continuous forward momentum combined with lateral movement to avoid hazards and gaps. Players aim to reach the farthest distance possible while adapting to shifting platform layouts and dynamic traps. The minimalist design emphasizes smooth controls and responsive ball physics throughout each level.\n\nKey Features\n\n• Momentum-based rolling physics  \n• Responsive side-to-side steering  \n• Incremental platform difficulty  \n• Endless distance scoring system  \n• Minimalist geometric environments"
-},
-{
 "id": "tower-run-online",
 "title": "Tower Run Online",
 "iframe": "https://html5.gamedistribution.com/54526e861ab14c798809b074ab83b4bd/",
@@ -1235,12 +1223,6 @@
 "title": "Piggy Run",
 "iframe": "https://html5.gamedistribution.com/3a881de224184cc8a8d5580cee838be9/",
 "description": "Sprint through obstacle-filled tracks controlling a nimble piglet as you jump and dodge incoming barriers. Collect coins and power-ups while navigating increasingly complex environments that test reflexes and timing. Each level introduces faster rhythms and new hazards, pushing players to improve their reaction skills and reach further distances.\n\nKey Features\n\n• Precision jump timing mechanic  \n• Responsive side-scrolling controls  \n• Progressive obstacle difficulty curve  \n• Coin collection and power-up use  \n• Whimsical animal runner theme"
-},
-{
-"id": "ball-run",
-"title": "Ball Run",
-"iframe": "https://html5.gamedistribution.com/63d04da8e61d41eaad12e447f74e368d/",
-"description": "Navigate a bouncing ball through dynamic obstacle courses by precisely timing your jumps and rolls. The game challenges players with escalating level designs that require quick reflexes and rhythmic control. Progression hinges on mastering varied terrain patterns while collecting points to unlock new stages.\n\nKey Features\n\n• Momentum-based jump timing  \n• Responsive ball rolling control  \n• Increasingly complex obstacle layouts  \n• Score-driven level unlocking  \n• Colorful abstract course environments"
 },
 {
 "id": "run-mineblock-run",
@@ -1705,12 +1687,6 @@
 "description": "Navigate through shifting space tunnels at high speed, dodging obstacles with precise timing and quick reflexes in this sci-fi themed side-scrolling runner. Players utilize fast-paced lateral movement combined with moment-based jumps to maintain momentum and avoid crashing. Levels progressively increase in difficulty as the pace quickens and obstacle patterns become more complex.\n\nKey Features\n\n• Lateral dodge and jump control  \n• Increasingly complex obstacle layouts  \n• Momentum preservation mechanics  \n• Time attack scoring system  \n• Futuristic space tunnel environment"
 },
 {
-"id": "inferno-monster-ball-hell-run",
-"title": "Inferno. Monster ball hell run",
-"iframe": "https://html5.gamedistribution.com/10896d1609114267b1d0de7a48e34a77/",
-"description": "Navigate a relentless infernal course as a monstrous sphere rolling through hazards and obstacles, relying on precise timing and rapid reflexes to avoid deadly traps. The physics-based ball movement demands careful control while progressing through increasingly difficult levels set in a fiery underworld environment. Survival hinges on mastering momentum to reach the next checkpoint.\n\nKey Features\n\n• Physics-driven rolling control  \n• Obstacle avoidance challenges  \n• Increasing difficulty stages  \n• Checkpoint progression system  \n• Hellish themed level design"
-},
-{
 "id": "santa-city-run",
 "title": "Santa City Run",
 "iframe": "https://html5.gamedistribution.com/8c64a566f8ac4c93b77f5c627292109a/",
@@ -1757,12 +1733,6 @@
 "title": "Desert Run",
 "iframe": "https://html5.gamedistribution.com/2af70f7fa24841c9919b570cccdd9c07/",
 "description": "Traverse endless desert dunes while dodging obstacles in this fast-paced runner. Navigate shifting sands using precise jump and slide controls to maintain momentum and avoid traps. The game challenges players to survive increasingly difficult desert terrain and collect scattered relics as they advance through continuous levels.\n\nKey Features\n\n• Precision jump and slide controls  \n• Dynamic obstacle patterns  \n• Increasing terrain difficulty  \n• Relic collection progression system  \n• Desert environment obstacles"
-},
-{
-"id": "basket-ball-run",
-"title": "Basket Ball Run",
-"iframe": "https://html5.gamedistribution.com/20b101441dba4b56842aa5a10c31df22/",
-"description": "Navigate fast-paced urban tracks while controlling a character who dribbles a basketball through multiple obstacle-filled levels. The gameplay focuses on timing jumps and sidesteps to maintain momentum and collect scattered balls for score boosts. The challenge ramps up with tighter gaps and moving hazards as players aim to reach the finish line without losing control.  \n\nKey Features\n\n• Basketball dribbling runner mechanic  \n• Responsive tap and swipe controls  \n• Increasing obstacle difficulty  \n• Collectible scoring system  \n• Urban street setting elements"
 },
 {
 "id": "t-rex-runner",

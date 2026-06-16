@@ -55,12 +55,6 @@
 "description": "Stack hexagonal tiles carefully to build the highest tower possible while maintaining balance in a festive holiday-themed environment. Players align and drop each piece precisely, focusing on spatial awareness and timing to avoid toppling the structure. As the tower grows, the challenge increases with shrinking platforms, demanding swift and accurate placements.\n\nKey Features\n\n• Hexagonal tile stacking mechanic  \n• Precision drop controls  \n• Increasing tower stability challenge  \n• Progressive size reduction of platforms  \n• Christmas-themed visual setting"
 },
 {
-"id": "ball-bunker-sneaky-stacks",
-"title": "Ball Bunker: Sneaky Stacks",
-"iframe": "https://html5.gamedistribution.com/8ef64da20e3d486684971c1274d13a3b/",
-"description": "Stack colorful balls precisely to build towering formations while balancing the unstable structures with careful timing and placement. Players navigate the growing stacks through narrow gaps, testing spatial awareness and reflexes as the ball shapes topple and bounce unpredictably. The challenge lies in maintaining control as stacks teeter and fall, unlocking progression through increasingly complex levels.\n\nKey Features\n\n• Precision ball stacking mechanic  \n• Real-time player placement controls  \n• Increasingly difficult level designs  \n• Time-sensitive stability challenges  \n• Dynamic physics-based stack behavior"
-},
-{
 "id": "cloneup-stack-yourself",
 "title": "CloneUp - Stack Yourself",
 "iframe": "https://html5.gamedistribution.com/c7e42d58ca024c8a81488cb6102b4800/",
@@ -251,12 +245,6 @@
 "title": "Stack Maze Puzzle",
 "iframe": "https://html5.gamedistribution.com/9c18d1fd710e4bdfb9320ca0afba483e/",
 "description": "Manipulate falling blocks to clear intricate stacking puzzles with precise alignment. Players must balance speed and accuracy to build stable towers while navigating shifting platforms. Progression introduces tighter spaces and timed challenges, testing spatial reasoning and quick decision-making.\n\nKey Features\n\n• Precision block placement mechanic  \n• Responsive mouse and touch controls  \n• Increasingly complex puzzle layouts  \n• Time-limited stacking challenges  \n• Minimalist geometric visual style"
-},
-{
-"id": "ball-stack-3d",
-"title": "Ball Stack 3D",
-"iframe": "https://html5.gamedistribution.com/ecb0585a3da3414582c635309255c679/",
-"description": "Stack rolling balls carefully to form stable towers challenges precision and timing control in this physics-based balancing game. Players must adjust the drop timing of spherical elements to prevent collapse and aim for maximum height. Each level introduces varied ball sizes that affect tower stability, enhancing the stacking mechanic with a tactile sense of gravity and momentum control.\n\nKey Features\n\n• precision drop timing system  \n• physics-driven ball stacking  \n• progressive difficulty scaling  \n• stability-based scoring metric  \n• colorful 3D tower visuals"
 },
 {
 "id": "coffee-stack",

@@ -45,6 +45,11 @@
 "description": "Baby games focus on simple care activities in <a href='/?c=kids'>kids games</a> where players interact with characters, complete gentle tasks, and explore basic scenarios through easy to understand gameplay mechanics. These experiences emphasize nurturing and guided interaction similar to <a href='/?c=doctor'>doctor games</a>, allowing players to engage in friendly routines. Gameplay centers on simple actions, character care, and step by step progression."
 },
 {
+"id": "ball",
+"name": "Ball",
+"description": "Ball Games focus on throwing, bouncing, rolling, and controlling balls through skill based challenges, obstacle courses, and score driven gameplay. Players guide balls across platforms, avoid hazards, complete precision shots, and master timing mechanics while progressing through increasingly demanding levels. These games often combine arcade action with physics based puzzles, making them a natural part of the <a href='/?c=casual'>casual games</a> category where quick sessions and simple controls remain central to the experience. Many titles feature trajectory aiming systems, momentum management, and level based progression that reward accuracy, coordination, and consistent control."
+},
+{
 "id": "basketball",
 "name": "Basketball",
 "description": "Basketball games focus on court based competition in <a href='/?c=sports'>sports games</a> where players dribble, pass, and shoot to score points through fast paced gameplay systems. These experiences emphasize movement, timing, and team coordination similar to <a href='/?c=soccer'>soccer games</a>, combining quick decisions with controlled actions. Gameplay centers on scoring efficiency, positioning, and real time match scenarios."
@@ -135,6 +140,11 @@
 "description": "Defense games focus on protecting positions in <a href='/?c=war'>war games</a> where players manage resources, place units, and prevent enemy advances through strategic gameplay systems. These experiences emphasize planning and control similar to <a href='/?c=tower-defense'>tower defense games</a>, requiring timing and efficient setup. Gameplay centers on maintaining defenses, reacting to threats, and sustaining progression under pressure."
 },
 {
+"id": "differences",
+"name": "Differences",
+"description": "Find differences games focus on comparing images in <a href='/?c=hidden-object'>hidden object games</a> where players identify small variations between scenes through careful visual analysis. These experiences emphasize observation and detail recognition, requiring focus and precision to locate subtle changes. Gameplay centers on scanning visuals, spotting inconsistencies, and progressing through increasingly complex comparisons."
+},
+{
 "id": "doctor",
 "name": "Doctor",
 "description": "Doctor games focus on roleplay scenarios in <a href='/?c=kids'>kids games</a> where players treat characters, follow simple procedures, and complete care based tasks through structured gameplay mechanics. These experiences emphasize guided interaction and routine activities similar to <a href='/?c=baby'>baby games</a>, combining learning with play. Gameplay centers on step by step actions, character interaction, and task completion."
@@ -190,11 +200,6 @@
 "description": "Fighting games focus on engaging opponents in close combat encounters, executing attack combinations, and mastering timing based combat mechanics through real time action driven gameplay. Players control character movements, block incoming strikes, and perform strategic counterattacks while progressing through duel scenarios and skill based challenge formats. Combat gameplay connects to stylized character encounters found in <a href='/?c=stickman'>stickman games</a> and agile melee scenarios reflected in <a href='/?c=ninja'>ninja games</a>. These browser fighting experiences emphasize reaction based combat loops, precision timing progression, and competitive skill mastery suited for intense online play."
 },
 {
-"id": "find-differences",
-"name": "Find Differences",
-"description": "Find differences games focus on comparing images in <a href='/?c=hidden-object'>hidden object games</a> where players identify small variations between scenes through careful visual analysis. These experiences emphasize observation and detail recognition similar to <a href='/?c=spot-the-difference'>spot the difference games</a>, requiring focus and precision to locate subtle changes. Gameplay centers on scanning visuals, spotting inconsistencies, and progressing through increasingly complex comparisons."
-},
-{
 "id": "fishing",
 "name": "Fishing",
 "description": "Fishing Games focus on casting lines, catching fish, and improving angling skills through timing and precision based gameplay. Players choose equipment, target different species, and complete challenges that reward patience, accuracy, and strategic decision making. Many games feature realistic fishing mechanics, tournament competitions, lake exploration, and progression systems that unlock new locations and gear. This category is part of <a href=\"/?c=sports\">sports games</a> and includes a variety of casual fishing adventures, competitive angling challenges, and fishing simulator experiences designed for players who enjoy skill based outdoor activities."
@@ -237,7 +242,7 @@
 {
 "id": "hidden-object",
 "name": "Hidden Object",
-"description": "Hidden object games focus on exploring detailed scenes, locating concealed items, and completing structured observation challenges through visual analysis mechanics. Players scan environments, interpret contextual clues, and identify target objects while progressing through layered discovery scenarios and escalating difficulty formats. Scene exploration gameplay connects to discrepancy detection challenges found in <a href='/?c=find-differences'>find differences games</a> and visual comparison tasks reflected in <a href='/?c=spot-the-difference'>spot the difference games</a>, reinforcing perception driven interaction systems. These browser hidden object experiences emphasize visual scanning loops, environmental discovery pacing, and attention based progression suited for immersive online play."
+"description": "Hidden object games focus on exploring detailed scenes, locating concealed items, and completing structured observation challenges through visual analysis mechanics. Players scan environments, interpret contextual clues, and identify target objects while progressing through layered discovery scenarios and escalating difficulty formats. Scene exploration gameplay connects to perception-based challenges found in <a href='/?c=differences'>differences games</a>, reinforcing observation skills and attention-driven interaction systems. These browser hidden object experiences emphasize visual scanning loops, environmental discovery pacing, and attention based progression suited for immersive online play."
 },
 {
 "id": "idle",
@@ -443,11 +448,6 @@
 "id": "sports",
 "name": "Sports",
 "description": "Sports games focus on competing in structured athletic activities, controlling player actions, and achieving victory through skill based performance mechanics. Players pass, shoot, aim, and coordinate movements while progressing through match scenarios and score driven challenges across different sports environments. Competitive gameplay connects to team based action in <a href='/?c=soccer'>soccer games</a>, court based encounters in <a href='/?c=basketball'>basketball games</a>, and field strategy challenges across <a href='/?c=football'>football games</a>. Cue based precision challenges appear in <a href='/?c=pool'>pool games</a> where players line up shots and control angles to sink balls into pockets across classic billiards tables. Precision focused mechanics also appear in <a href='/?c=golf'>golf games</a> while timing driven rallies define <a href='/?c=tennis'>tennis games</a>. These browser sports experiences emphasize competitive progression loops, skill execution systems, and match based gameplay pacing suited for engaging online play."
-},
-{
-"id": "spot-the-difference",
-"name": "Spot the Difference",
-"description": "Spot the difference games focus on identifying visual variations in <a href='/?c=hidden-object'>hidden object games</a> where players examine paired scenes and locate subtle mismatches through attention based mechanics. These experiences emphasize precision and scanning similar to <a href='/?c=find-differences'>find differences games</a>, combining observation with pattern recognition. Gameplay centers on detecting changes quickly while progressing through structured visual challenges."
 },
 {
 "id": "stack",

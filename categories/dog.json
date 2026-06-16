@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "dog-spot-the-difference",
+"title": "Dog Spot the Difference",
+"iframe": "https://html5.gamedistribution.com/3fc6db7c78884c24b8e5edc91045fdee/",
+"description": "Spot differences between two dog-themed images by carefully scanning each picture for subtle visual variations. This spot the difference game challenges players to quickly identify mismatched elements within charming animal illustrations, with increasing difficulty levels adding complexity. The game features a timed mode that tests observation speed and accuracy, enhancing replay value for casual gamers including teens and kids.\n\nKey Features\n\n• Image comparison core mechanic  \n• Click-based difference marking  \n• Progressive difficulty scaling  \n• Timed challenge system  \n• Dog and animal illustration theme"
+},
+{
+"id": "dogs-spot-the-differences",
+"title": "Dogs Spot The Differences",
+"iframe": "https://html5.gamedistribution.com/052bec56c5db420ba849203c1c3faa5b/",
+"description": "Scan illustrated scenes carefully to detect subtle differences between paired images featuring various dog breeds and settings. Spot unique objects or alterations like missing tails or color changes within a time limit for each level. The game challenges visual perception with increasing image complexity and hidden object variations.\n\nKey Features\n\n• Image comparison puzzle mechanic  \n• Point-and-click difference highlighting  \n• Progressive difficulty with timed rounds  \n• Multiple level sets and scene variations  \n• Canine-themed visual elements and backgrounds"
+},
+{
 "id": "dogs-vs-aliens",
 "title": "Dogs vs Aliens",
 "iframe": "https://html5.gamedistribution.com/966d94f902de491eb224711f51d7a92e/",

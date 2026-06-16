@@ -253,12 +253,6 @@
 "description": "Manage coding projects and track software development progress in a detailed simulation experience. Oversee multiple tasks involving debugging, resource allocation, and deadline management to improve your team's output efficiency. The game emphasizes programming workflow strategies to meet project goals while balancing evolving challenges typical in development cycles.\n\nKey Features\n\n• Task prioritization and bug fixing  \n• Resource and team management controls  \n• Deadline-driven project milestones  \n• Workflow optimization mechanics  \n• Software development studio theme"
 },
 {
-"id": "ball-eating-simulator",
-"title": "Ball Eating Simulator",
-"iframe": "https://html5.gamedistribution.com/fe35e6c4bc224b70ab0040a80074dbe3/",
-"description": "Swallow smaller balls to grow larger while avoiding bigger ones that can consume you in this casual simulator. Players navigate a dynamically sized orb, using precision movement to absorb or evade other spheres. Progression is based on expanding your size, which unlocks new challenges and player-versus-player survival scenarios.\n\nKey Features\n\n• Orb absorption size mechanic  \n• Smooth directional control system  \n• Gradual size-based difficulty scaling  \n• Competitive multiplayer survival mode  \n• Minimalistic colorful arena setting"
-},
-{
 "id": "supermarket-manager-simulator",
 "title": "Supermarket Manager Simulator",
 "iframe": "https://html5.gamedistribution.com/5dff4319bd2845c781cd3378d86735ed/",

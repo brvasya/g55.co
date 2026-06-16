@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "christmas-spot-the-difference",
+"title": "Christmas Spot the Difference",
+"iframe": "https://html5.gamedistribution.com/ad26b2346f6e4e2da61f08c3694397ef/",
+"description": "Spot subtle visual differences by carefully scanning pairs of festive images, using a point-and-click mechanic to identify mismatches between holiday-themed scenes. Each level raises the difficulty by increasing the number of differences and adding tighter time limits to boost the challenge. Progression rewards precision and speed as players advance through various Christmas-inspired picture sets.\n\nKey Features\n\n• Visual difference detection mechanic  \n• Click-based player input system  \n• Increasing puzzle complexity  \n• Time-limited challenge mode  \n• Christmas holiday-themed graphics"
+},
+{
 "id": "ellie-and-ben-christmas-eve",
 "title": "Ellie and Ben Christmas Eve",
 "iframe": "https://html5.gamedistribution.com/d3b2230575e14473823dcb3db1029329/",
@@ -245,12 +251,6 @@
 "title": "Red and Green Christmas",
 "iframe": "https://html5.gamedistribution.com/9deca5e1d63d41658fe78e2b6f62d3ae/",
 "description": "Switch matching tiles between red and green colors to clear the board in themed puzzles that challenge pattern recognition and timing. Players align multiple tile chains to unlock new levels, testing their strategy and planning skills. The game combines classic color matching with seasonal visuals that reinforce its Christmas spirit and festive mood.\n\nKey Features\n\n• Color swapping puzzle mechanic  \n• Chain reaction tile clearing  \n• Level-based progression system  \n• Time-sensitive matching challenges  \n• Festive Christmas-themed design"
-},
-{
-"id": "pig-ball-christmas",
-"title": "Pig Ball Christmas",
-"iframe": "https://html5.gamedistribution.com/51bb614016f84805a11b9ef8a861fd7f/",
-"description": "Control a bouncing pig navigating icy platforms to score points by hitting target zones in a festive winter arena. Players must master precise timing and momentum shifts as they launch the pig across varied Christmas-themed stages. Progression challenges include increasing hazards and moving targets, encouraging skillful trajectory planning amidst seasonal obstacles.\n\nKey Features\n\n• Momentum-based launching mechanic  \n• Precision timing controls  \n• Increasingly complex platform layouts  \n• Target zone scoring system  \n• Festive winter environment"
 },
 {
 "id": "onet-winter-christmas-mahjong",

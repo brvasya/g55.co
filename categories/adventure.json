@@ -1,12 +1,6 @@
 {
 "pages": [
 {
-"id": "spot-differences-bird-adventure",
-"title": "Spot Differences Bird Adventure",
-"iframe": "https://html5.gamedistribution.com/079bd6ba427749a3bd1bae2c9c17c566/",
-"description": "Search for subtle visual differences between two lively bird scenes while carefully scanning intricate background details. This spot the difference game challenges players to spot ten discrepancies across diverse hand-drawn bird environments. Levels progressively increase in difficulty by adding more items to compare, encouraging steady observation and honing attention to detail.\n\nKey Features\n\n• Spot the difference mechanic  \n• Mouse or touch input controls  \n• Increasing level complexity  \n• Timed and relaxed gameplay modes  \n• Illustrated bird and nature themes"
-},
-{
 "id": "fox-adventure",
 "title": "Fox Adventure",
 "iframe": "https://html5.gamedistribution.com/a8ac99e5ba244f5fb4138880dbee5339/",
@@ -35,12 +29,6 @@
 "title": "Lost Adventure",
 "iframe": "https://html5.gamedistribution.com/90dab544fe47444eacfdfb97b704d5c1/",
 "description": "Explore mysterious environments while solving puzzles in this adventure game that blends exploration with item collection mechanics. Navigate through progressively complex levels filled with hidden secrets and environmental clues to uncover new paths and challenges. The player’s goal revolves around advancing through undefined terrain while mastering inventory management and puzzle-solving under casual play conditions.\n\nKey Features\n\n• Puzzle-driven exploration system  \n• Item collection and usage mechanics  \n• Gradual level difficulty escalation  \n• Inventory management interface  \n• Casual adventure setting"
-},
-{
-"id": "cool-orange-ball-bounce-adventure",
-"title": "Cool Orange Ball: Bounce Adventure",
-"iframe": "https://html5.gamedistribution.com/1a82638838cc4a09a0c16ef6fd21929a/",
-"description": "Bounce through vibrant levels using precise timing to navigate platform obstacles and avoid traps in this casual adventure. Players control a dynamic orange ball that reacts to physics-based movements, aiming to reach the end of each stage while mastering momentum and bounce height. Progression challenges increase with varied terrains that test reflexes and skill.  \n\nKey Features\n\n• Physics-driven bounce mechanics  \n• Responsive touch and keyboard controls  \n• Increasing platform complexity  \n• Time attack mode for high scores  \n• Colorful minimalist level design"
 },
 {
 "id": "brawl-stars-brave-adventure",
@@ -79,12 +67,6 @@
 "description": "Slash through progressively challenging enemy waves using precise sword combos in this action-packed adventure. Players master timing and movement to navigate diverse landscapes while unlocking new weapons and skills. Combat encounters test reflexes and strategy, with unique enemy archetypes requiring adaptive tactics to survive each stage of the journey.\n\nKey Features\n\n• Combo-based sword combat  \n• Responsive character movement controls  \n• Increasing enemy difficulty tiers  \n• Skill and weapon upgrade system  \n• Varied environmental level design"
 },
 {
-"id": "split-shot-ball-adventure",
-"title": "Split Shot: Ball Adventure",
-"iframe": "https://html5.gamedistribution.com/5c696f90e23f4b4ab154f2f910056df0/",
-"description": "Navigate precise shots to break targets with ball splitting dynamics in this colorful arcade adventure. Players control each bounce strategically to clear evolving puzzle layouts while mastering timing and trajectory shifts. The game challenges your aiming skills through varied obstacle arrangements and offers levels that progressively increase in complexity.\n\nKey Features\n\n• Ball splitting projectile mechanic  \n• Tap timing shot control  \n• Progressive puzzle difficulty  \n• Score multiplier bonus stages  \n• Vibrant arcade-style environments"
-},
-{
 "id": "typing-adventure",
 "title": "Typing Adventure",
 "iframe": "https://html5.gamedistribution.com/7394b1cc17484d47a33718374c2a59ec/",
@@ -113,12 +95,6 @@
 "title": "Nutcracker New Years Adventures",
 "iframe": "https://html5.gamedistribution.com/f42a105055a846978d6446710ea9e3b6/",
 "description": "Navigate enchanted environments by solving puzzles and collecting hidden objects to progress through festive challenges. Players interact with seasonal-themed scenes using point-and-click mechanics to unlock new levels and uncover surprises. The journey emphasizes exploration and discovery within a holiday setting as players aim to complete each adventure stage.\n\nKey Features\n\n• Point-and-click puzzle solving  \n• Hidden object collection  \n• Tiered level progression  \n• Interactive holiday-themed scenes  \n• Casual exploration gameplay"
-},
-{
-"id": "going-balls-adventure-2",
-"title": "Going Balls Adventure 2",
-"iframe": "https://html5.gamedistribution.com/a58f4f4fa6c34f21ad728e90c53ee7d4/",
-"description": "Navigate rolling spheres through increasingly complex obstacle courses, balancing momentum and precision in a physics-based environment. Players control a bouncing ball to overcome traps and gaps across vibrant stages in this adventurous setting. The goal is to reach the finish line while mastering timing and movement challenges unique to the game’s dynamic terrain.\n\nKey Features\n\n• Physics-based ball control  \n• Momentum-driven platforming  \n• Progressive obstacle complexity  \n• Time trial scoring system  \n• Colorful adventure-themed levels"
 },
 {
 "id": "domino-adventure",
@@ -311,12 +287,6 @@
 "title": "Gum Adventures DX",
 "iframe": "https://html5.gamedistribution.com/92e5a8035bba41c9a8e79cfdca910f80/",
 "description": "Explore strange environments by guiding a sticky bubble through varied platform sections while managing its elastic stretch and bounce mechanics. Players must navigate shifting obstacles and timed hazards to unlock new levels and collect scattered items. The game encourages precision movement and mastering the unique gum physics to overcome increasingly tricky challenges.\n\nKey Features\n\n• Elastic bubble movement control  \n• Timed obstacle navigation  \n• Level progression with unlockables  \n• Collectible item system  \n• Colorful platform environments"
-},
-{
-"id": "roller-ball-adventure",
-"title": "Roller Ball Adventure",
-"iframe": "https://html5.gamedistribution.com/d1a6bf86309149be826244fa297f9a28/",
-"description": "Navigate dynamic obstacle courses by rolling a ball through various terrains, mastering momentum and precision to complete each level’s challenges. Along the way, players engage with physics-based puzzles that require careful timing and control to advance through increasingly complex stages designed for casual exploration and skill development.\n\nKey Features\n\n• Momentum-driven rolling mechanics  \n• Precision timing control system  \n• Progressive obstacle course levels  \n• Physics puzzle interaction  \n• Casual adventure environment"
 },
 {
 "id": "wuggy-adventures",
@@ -979,12 +949,6 @@
 "description": "Explore unknown worlds by guiding Ultraman through challenging platform puzzles and combat sequences. Harness varied movement mechanics and energy attacks to overcome alien creatures and environmental hazards. Navigate progressively difficult levels that combine exploration with action, testing reflexes and timing while defending the planet from mysterious threats.\n\nKey Features\n\n• Energy based combat system  \n• Precision platforming controls  \n• Progressive difficulty scaling  \n• Collectible power-up upgrades  \n• Alien creature encounter design"
 },
 {
-"id": "ball-adventures",
-"title": "Ball Adventures",
-"iframe": "https://html5.gamedistribution.com/5be855208c5d41dd9634b2d0ba3cf420/",
-"description": "Navigate rolling challenges by controlling a dynamic ball through diverse environments. Players rely on physics-based movement to master tricky platforms and reach each level’s exit. Precision timing and momentum build-up form the heart of progression, while casual-friendly pacing keeps gameplay approachable for younger audiences. Encounter various terrain layouts demanding thoughtful navigation and balance.\n\nKey Features\n\n• Physics-driven ball movement  \n• Precision timing challenges  \n• Progressive platform difficulty  \n• Momentum-based traversal system  \n• Varied terrain obstacle designs"
-},
-{
 "id": "dino-squad-adventure-2",
 "title": "Dino Squad Adventure 2",
 "iframe": "https://html5.gamedistribution.com/9dabe190ba444a0997f0c69a29f4f234/",
@@ -1075,12 +1039,6 @@
 "description": "Launch strategic bubble shots to clear cascading clusters in this colorful puzzle adventure. Players engage a slingshot mechanic to pop connected bubbles while navigating vibrant levels that increase in difficulty. Each stage challenges players to plan moves carefully, balancing bubble type variety and limited shots to progress through whimsical scenes and unlock new puzzles.\n\nKey Features\n\n• Slingshot aiming and shooting\n• Matching bubble color chains\n• Progressive level difficulty scaling\n• Limited shot count challenge\n• Colorful puzzle adventure stages"
 },
 {
-"id": "crazy-ball-adventures",
-"title": "Crazy Ball Adventures",
-"iframe": "https://html5.gamedistribution.com/e22485141edd4cf383bb9853db9b5c40/",
-"description": "Navigate rolling terrain with precision and timing in this physics-based ball adventure. Players maneuver a bouncy sphere through increasingly complex obstacle courses, relying on momentum control and strategic rebounds to overcome environmental puzzles and unlock new stages. The challenge lies in mastering movement across diverse surfaces to reach the goal in each level.\n\nKey Features\n\n• Momentum-based rolling mechanics  \n• Precision timing movement control  \n• Increasingly complex obstacle layouts  \n• Stage unlocking progression system  \n• Varied terrain physics effects"
-},
-{
 "id": "3thamthmy-adventure",
 "title": "3thamthmy Adventure",
 "iframe": "http://html5.gamedistribution.com/c94172a905f840108e467b25c8aba56e/",
@@ -1103,12 +1061,6 @@
 "title": "Dot Adventure",
 "iframe": "https://html5.gamedistribution.com/b23575943f1a491fa1c7fdca97002cc3/",
 "description": "Navigate pixelated obstacles using precise timing to guide a solitary dot through varied levels. The core mechanic revolves around tight control and trajectory planning as you progress through increasingly complex challenges. Players aim to reach the endpoint while avoiding hazards that test reflexes and strategic movement in each stage.\n\nKey Features\n\n• Precise trajectory control system  \n• Timing-based obstacle navigation  \n• Incremental level difficulty ramp  \n• Checkpoint respawn mechanics  \n• Minimalist pixel art style"
-},
-{
-"id": "yellow-ball-adventure",
-"title": "Yellow Ball Adventure",
-"iframe": "https://html5.gamedistribution.com/964e8f4251134ce08feab8f2cc16a504/",
-"description": "Navigate a vibrant platform world by guiding a yellow ball through twisting paths and tricky obstacles. Players rely on precise rolling and jumping mechanics to overcome environmental puzzles and reach new stages. The game challenges quick reflexes and timing, creating a rhythmic flow as the ball advances through increasingly complex levels.\n\nKey Features\n\n• physics-based rolling control  \n• precision jump timing  \n• multi-level progression paths  \n• obstacle pattern recognition  \n• colorful platform environments"
 },
 {
 "id": "space-adventure-pinball",

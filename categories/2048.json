@@ -133,12 +133,6 @@
 "description": "Slide numbered military cubes to merge and reach higher values in a tactical 2048 puzzle. Players must combine armored cube units strategically on a grid, balancing merges and space management to avoid getting stuck. The numerical progression challenges spatial awareness while reinforcing a block-based combat theme through visual design elements.\n\nKey Features\n\n• Number merging tile mechanic  \n• Grid-based spatial strategy  \n• Increasing difficulty levels  \n• Undo move option  \n• Military-themed cube graphics"
 },
 {
-"id": "rainbow-balls-2048",
-"title": "Rainbow Balls 2048",
-"iframe": "https://html5.gamedistribution.com/c3b352633edf420ab130b951ecc6bfac/",
-"description": "Combine numbered tiles by carefully merging matching rainbow-colored balls to reach high-value targets in this puzzle challenge. Players slide tiles across a limited grid using classic 2048 mechanics enhanced with vibrant color matching. The main goal is to strategically plan merges to create larger balls before the grid fills up, pushing pattern recognition under pressure.\n\nKey Features\n\n• Tile sliding merge system  \n• Sequential color combination mechanic  \n• Grid space management challenge  \n• Increasing difficulty with limited moves  \n• Bright rainbow-themed visuals"
-},
-{
 "id": "2048-x2-legends",
 "title": "2048 X2 Legends",
 "iframe": "https://html5.gamedistribution.com/5c583e0578964184a151873b6629105a/",
@@ -209,12 +203,6 @@
 "title": "2048 Ball Buster",
 "iframe": "https://html5.gamedistribution.com/c0f6932df5ba487cb6eb50eca21eb9ae/",
 "description": "Match and merge numbered balls to clear the board by combining identical values in a grid-based puzzle layout. Tiles slide smoothly in four directions to create higher-value balls, requiring strategic movement to avoid blocking moves. The challenge lies in planning merges to reach the highest scores possible before the grid fills up.\n\nKey Features\n\n• Number merging grid mechanic  \n• Directional swipe tile control  \n• Increasing value ball progression  \n• Move count limitation challenge  \n• Minimalist numeric puzzle design"
-},
-{
-"id": "ball-2048",
-"title": "Ball 2048!",
-"iframe": "https://html5.gamedistribution.com/39b5aad36f514342966fbf3431e5ba6c/",
-"description": "Slide numbered balls on a grid to merge identical values and climb the score ladder in this variation of the classic tile-matching puzzle. The gameplay centers on strategic movement combining spatial awareness with numeric merging, aiming to reach higher numbered balls before the grid fills up. Players navigate through increasing complexity as the board fills, requiring careful planning.\n\nKey Features\n\n• Numeric tile merging mechanic  \n• Four-directional sliding controls  \n• Grid saturation challenge  \n• Progressive score milestones  \n• Minimalistic ball-themed design"
 },
 {
 "id": "chain-cube-2048-merge",

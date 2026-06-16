@@ -241,12 +241,6 @@
 "description": "Navigate a fast-paced multiplayer arena competing for territory and dominance using quick movement and strategic positioning. Players control small avatars to capture zones and avoid rival opponents aiming to gain the largest controlled area. The game challenges dexterity and map awareness with a dynamic shrinking playfield adding pressure over time.\n\nKey Features\n\n• Real-time territory capture mechanic  \n• Responsive avatar movement controls  \n• Competitive player elimination system  \n• Dynamic shrinking arena map  \n• Minimalist colorful io setting"
 },
 {
-"id": "bumper-ball-io",
-"title": "Bumper Ball io",
-"iframe": "https://html5.gamedistribution.com/fbce7378e3fd48a2b0a4690d90eea200/",
-"description": "Control a bouncy spherical avatar across colorful arenas, using momentum and collisions to knock opponents out of bounds. The core mechanic revolves around strategic bouncing and timing to dominate the arena’s chaotic physics. Players compete in fast-paced matches where survival and elimination define the main challenge, offering straightforward yet engaging gameplay for casual competitors.\n\nKey Features\n\n• Momentum-based collision combat  \n• Simple directional movement controls  \n• Arena elimination scoring system  \n• Multiplayer free-for-all matches  \n• Vibrant ball-themed arena design"
-},
-{
 "id": "superhero-io-2-chaos-giant",
 "title": "SuperHero.io 2 Chaos Giant",
 "iframe": "https://html5.gamedistribution.com/7199be15f22042cf9abbd402f3a10976/",
@@ -647,12 +641,6 @@
 "title": "SnowHeroes.io",
 "iframe": "https://html5.gamedistribution.com/76499477666b4e4d81d04a4baa9ca61b/",
 "description": "Battle players navigate icy arenas using agile snow vehicles to outmaneuver opponents and claim dominance. The core mechanic revolves around swift movement and tactical positioning on slippery surfaces. Players aim to control territory while fending off rivals in dynamic multiplayer matches. Each round emphasizes quick reflexes and skillful driving to secure victory in the chilly battleground.\n\nKey Features\n\n• Agile snow vehicle controls  \n• Multiplayer territorial combat  \n• Dynamic icy arena design  \n• Reflex-based movement challenges  \n• Progression through ranked matches"
-},
-{
-"id": "ball-io",
-"title": "Ball.io",
-"iframe": "https://html5.gamedistribution.com/73727f1644d64e21b69dd49956e206a1/",
-"description": "Control a rolling sphere as you navigate an open arena, competing to absorb smaller balls and avoid being consumed. The gameplay relies on quick directional inputs and strategic movement through a colorful, abstract environment. Players aim to grow their ball by outmaneuvering opponents, balancing offense with evasive tactics to dominate the playfield.\n\nKey Features\n\n• Physics-based ball movement  \n• Directional control inputs  \n• Growth through absorption  \n• Competitive multiplayer arena  \n• Abstract minimalistic visuals"
 },
 {
 "id": "shooterz-io",

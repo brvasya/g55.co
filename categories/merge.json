@@ -727,12 +727,6 @@
 "description": "Race against time and merge numbered tiles to reach 2048, strategically combining blocks to maximize your score. This puzzle game challenges players to think ahead as merging mechanics progress through increasingly dense grids. The core gameplay revolves around tile manipulation and spatial awareness, testing your ability to plan moves under growing pressure in a casual, tile-based environment. \n\nKey Features\n\n• Tile merging strategy  \n• Swipe based grid control  \n• Increasing difficulty stages  \n• Time-limited challenge mode  \n• Minimalist puzzle interface"
 },
 {
-"id": "new-year-balls-merge",
-"title": "New Year Balls Merge",
-"iframe": "https://html5.gamedistribution.com/efc095a57cfd4197b0511cd0443a7053/",
-"description": "Combine colorful balls by merging like groups to clear the board and unlock new challenges in this casual puzzle game. The core mechanic involves strategic merging that gradually fills the play area, testing your planning skills. Each level increases in complexity as you manage limited space to create larger clusters before running out of moves.\n\nKey Features\n\n• Ball merging chain reactions  \n• Tap and swipe controls  \n• Spatial management challenges  \n• Increasing level difficulty  \n• Festive seasonal visual style"
-},
-{
 "id": "merge-thirteen",
 "title": "Merge Thirteen",
 "iframe": "https://html5.gamedistribution.com/59b5ceaedcf0440d83dc423b1493c487/",
@@ -923,12 +917,6 @@
 "title": "Hexa Merge",
 "iframe": "https://html5.gamedistribution.com/3c6b33625c26434eb1339d98fb9ff2bf/",
 "description": "Match colorful hexagonal tiles by merging sets to create larger shapes in this strategic puzzle game. Players combine clusters through sliding and rotational moves, navigating a compact hex grid to clear space and reach target formations. Precision placement and timing define the challenge as the board fills up during level progression.\n\nKey Features\n\n• Hexagonal tile merging mechanic  \n• Slide and rotate cluster controls  \n• Increasing board complexity levels  \n• Timed chain combo system  \n• Abstract geometric puzzle theme"
-},
-{
-"id": "ball-merge-2048",
-"title": "Ball Merge 2048",
-"iframe": "https://html5.gamedistribution.com/cab295de296b4903b0eced7b7bf049a4/",
-"description": "Merge numbered balls strategically to combine matching values and advance through increasing score targets. Manipulate a grid-based layout where merging identical balls creates higher number tiles, pushing you closer to the challenging 2048 mark. Progression unfolds across compact stages with limited move options, encouraging thoughtful tile placement and merging tactics in this minimalistic puzzle scenario.\n\nKey Features\n\n• Grid-based merging mechanic  \n• Sequential tile combining controls  \n• Move-limited progression stages  \n• Score target challenge system  \n• Minimalistic numeric tile theme"
 },
 {
 "id": "merge-push",
