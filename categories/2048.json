@@ -85,12 +85,6 @@
 "description": "Slide numbered balls on a grid to merge matching pairs and form higher values in this puzzle challenge. Combining the classic tile-merging mechanic with colorful ball visuals, the game tasks players with planning moves carefully to reach the elusive 2048 tile without filling the board. Progression depends on strategic slide direction and tile pairing as the numbers grow.\n\nKey Features\n\n• Tile sliding merge system  \n• Directional input controls  \n• Increasing value tile progression  \n• Score tracking and high score challenge  \n• Minimalistic numeric ball theme"
 },
 {
-"id": "maze-cube-2048",
-"title": "Maze Cube 2048",
-"iframe": "https://html5.gamedistribution.com/394e9f0ed41f428dbfef5ae6db1ed8de/",
-"description": "Slide and merge numbered cubes across a grid maze to create higher values by strategically navigating limited paths. The core 2048 mechanic blends with maze-like movement constraints, challenging players to reach the highest tile while managing spatial restrictions. Puzzle complexity grows as available moves shrink, requiring thoughtful planning on confined layouts.\n\nKey Features\n\n• Grid-based cube merging  \n• Directional swipe controls  \n• Path-restricted tile movement  \n• Progressive puzzle difficulty  \n• Minimalist numeric design"
-},
-{
 "id": "2048-number-match",
 "title": "2048 Number Match",
 "iframe": "https://html5.gamedistribution.com/41781bcf12bb47c19a35fc1d0faaad70/",

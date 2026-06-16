@@ -315,6 +315,11 @@
 "description": "Math games focus on solving numerical challenges where players calculate values, recognize patterns, and apply logic through structured problem solving mechanics. These experiences emphasize reasoning and skill building similar to <a href='/?c=word'>word games</a>, requiring focus, accuracy, and progression through increasing difficulty. Gameplay centers on step by step solutions and cognitive development through numbers."
 },
 {
+"id": "maze",
+"name": "Maze",
+"description": "Maze Games focus on navigating winding paths, finding exits, and solving route based challenges through observation and planning. Players explore labyrinths, avoid dead ends, collect items, and discover efficient paths while progressing through increasingly complex layouts. Many games feature grid navigation mechanics, 3D maze exploration, escape objectives, and long tail gameplay styles such as logic driven pathfinding puzzles and obstacle filled labyrinth challenges. Players who enjoy these navigation focused experiences can also explore <a href='/?c=puzzle'>puzzle games</a>, where problem solving and strategic thinking remain essential to progression."
+},
+{
 "id": "memory",
 "name": "Memory",
 "description": "Memory games focus on recall based challenges in <a href='/?c=matching'>matching games</a> where players flip cards, remember positions, and match pairs through cognitive interaction mechanics. These experiences emphasize retention and recognition without relying on combination or alignment systems. Gameplay centers on memorization, pattern recall, and progressively complex layouts."

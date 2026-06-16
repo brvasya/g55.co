@@ -847,12 +847,6 @@
 "description": "Push movable blocks strategically to clear pathways and rescue trapped characters in this puzzle challenge. The game tasks players with spatial reasoning as they manipulate objects within confined grids to achieve level goals. Along the way, timing and sequence of moves play a critical role in overcoming increasingly complex scenarios and unlocking new stages.\n\nKey Features\n\n• Block pushing puzzle mechanics  \n• Grid-based movement control  \n• Progressive level difficulty scaling  \n• Time-limited rescue challenges  \n• Minimalist visual design"
 },
 {
-"id": "rail-maze-puzzle",
-"title": "Rail Maze Puzzle",
-"iframe": "https://html5.gamedistribution.com/4011af876b7e459699592ae4a7eb7fd3/",
-"description": "Connect intersecting rail tracks to guide trains through challenging layouts in this puzzle game. Players must manipulate switches and align pathways to avoid collisions and reach station goals across progressively complex levels. The game combines track-switching mechanics with strategic planning to keep trains running smoothly under timed scenarios.\n\nKey Features\n\n• Track-switching puzzle mechanics  \n• Timed level progression challenges  \n• Collision avoidance gameplay  \n• Multiple train types and speeds  \n• Increasingly complex track layouts"
-},
-{
 "id": "marble-puzzle-blast",
 "title": "Marble Puzzle Blast",
 "iframe": "https://html5.gamedistribution.com/808a60a650194c6aa4e2aed6674d35c9/",
@@ -923,12 +917,6 @@
 "title": "System Puzzle",
 "iframe": "https://html5.gamedistribution.com/e2eb0e4375d0496aad59fc6c9535e400/",
 "description": "Manipulate complex circuits to restore system function by connecting disparate components in a precise sequence. Engage with a core mechanic of pattern recognition and spatial reasoning as you solve increasingly intricate puzzles. Challenge yourself to optimize connection paths without overlap, navigating through layered levels designed to test logic and timing.\n\nKey Features\n\n• Circuit-based puzzle solving  \n• Drag and connect interface controls  \n• Progressive difficulty with new components  \n• Time-based scoring system  \n• Abstract technological interface"
-},
-{
-"id": "spiny-maze-puzzle",
-"title": "Spiny maze puzzle",
-"iframe": "https://html5.gamedistribution.com/355787ab022b47d4a02388065e6bcad7/",
-"description": "Navigate complex mazes filled with spiny obstacles while carefully plotting each move. The game challenges players to find safe paths by avoiding contact with sharp spikes that block progress. Movement is turn-based, demanding precise timing and spatial awareness to reach the exit. Levels increase in difficulty as new hazards and twists are introduced.\n\nKey Features\n\n• Turn-based grid movement  \n• Spike hazard navigation  \n• Increasing maze complexity  \n• Sequential level unlocking  \n• Casual puzzle challenge"
 },
 {
 "id": "emoji-guess-puzzle-ai",

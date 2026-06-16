@@ -535,22 +535,10 @@
 "description": "Engage in fast-paced third-person battles where you control agile stick figures armed with various weapons in dynamic 3D arenas. Navigate arena layouts using smooth movement mechanics as you fight to eliminate opponents and claim dominance. The game challenges players to master weapon switching and spatial awareness across tense multiplayer skirmishes.\n\nKey Features\n\n• Third-person shooter combat  \n• Responsive stick figure controls  \n• Arena-based player elimination  \n• Diverse weapon switching system  \n• Multiplayer 3D battlefields"
 },
 {
-"id": "alphabet-room-maze-3d",
-"title": "Alphabet Room Maze 3D",
-"iframe": "https://html5.gamedistribution.com/71f24c6478e1412fbff44af4ac1c9830/",
-"description": "Navigate through a complex 3D maze filled with alphabet-themed puzzles that challenge spatial awareness and memory skills. Players explore twisting corridors and hidden passages while collecting letter clues to unlock new sections and progress deeper. This immersive maze experience combines exploration with subtle pattern recognition to keep casual gamers engaged in gradually unfolding challenges.\n\nKey Features\n\n• 3D navigation and exploration  \n• Letter-based puzzle unlocking  \n• Multi-level maze progression  \n• Memory and pattern recognition  \n• Casual-friendly control system"
-},
-{
 "id": "3d-car-simulator",
 "title": "3D Car Simulator",
 "iframe": "https://html5.gamedistribution.com/55227c20a0a2476a80b8d529e5b1d1c1/",
 "description": "Navigate detailed urban environments using precise steering and acceleration controls in this 3D driving simulation. Maneuver a variety of cars with realistic physics in diverse scenarios that test your handling skills. Challenge yourself by completing driving tasks that require smooth control and traffic awareness.\n\nKey Features\n\n• Physics-based vehicle handling  \n• Precise steering and acceleration  \n• Progression through varied driving scenarios  \n• Time-based driving challenges  \n• Realistic 3D city environments"
-},
-{
-"id": "gyro-maze-3d",
-"title": "Gyro Maze 3d",
-"iframe": "https://html5.gamedistribution.com/1b8d7d6734e34cd39903eb5c8b7626e2/",
-"description": "Navigate twisting corridors by balancing a rolling gyro ball through intricate 3D labyrinths that challenge your precision and timing. The game blends tilt-based movement with physics puzzles as you guide the sphere over ramps and obstacles to reach each level's exit. Levels increase in complexity, demanding steady control and strategic planning to overcome maze layouts.\n\nKey Features\n\n• Gyroscopic ball rolling mechanic  \n• Tilt sensor movement controls  \n• Progressive maze complexity  \n• Time trial challenge mode  \n• Minimalistic 3D maze environments"
 },
 {
 "id": "lowpoly-3d-art",
@@ -893,12 +881,6 @@
 "title": "Pancake Tower 3D",
 "iframe": "https://html5.gamedistribution.com/115b750365a84a73ad8f836b32af8773/",
 "description": "Stack colorful pancakes precisely in vertical towers using timed taps and spatial balance. Players focus on steady placement mechanics as the layers pile higher, testing patience and hand-eye coordination. Each level challenges improving tower height without toppling, engaging casual gamers in a lighthearted 3D kitchen setting.\n\nKey Features\n\n• Precise stack and balance gameplay  \n• Tap control timing system  \n• Increasing tower height challenges  \n• Progressive difficulty stages  \n• 3D kitchen environment visuals"
-},
-{
-"id": "maze-game-3d",
-"title": "Maze Game 3D",
-"iframe": "https://html5.gamedistribution.com/b184386446084f6bbc507ed4d45b3c9b/",
-"description": "Navigate intricate 3D labyrinths by controlling a rolling sphere that responds to precise tilt and directional input. Maneuver through successive maze layouts that require spatial reasoning and timing to avoid dead ends and reach exit points. The gameplay challenges revolve around optimizing movement paths and mastering the physics of smooth navigation in a three-dimensional maze environment.\n\nKey Features\n\n• Tilt-based sphere control  \n• Progressive maze complexity  \n• Time-limited navigation challenges  \n• Multiple pathfinding layouts  \n• Immersive 3D environment design"
 },
 {
 "id": "labo-3d-maze",
