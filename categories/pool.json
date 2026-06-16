@@ -1,6 +1,66 @@
 {
 "pages": [
 {
+"id": "billiard-diamond-challenge",
+"title": "Billiard Diamond Challenge",
+"iframe": "https://html5.gamedistribution.com/d915f03f46804091933c3be8d17273be/",
+"description": "Aim and strike billiard balls with precise cue control to sink them into pockets across varied table layouts. Using realistic ball physics, players must carefully plan their shots to clear each level and improve their score. Strategic positioning and shot timing are key to mastering challenging rack setups in this casual pool simulation.\n\nKey Features\n\n• Precision cue stick aiming  \n• Realistic ball collision physics  \n• Level-based score targets  \n• Adjustable shot power controls  \n• Classic billiard table designs"
+},
+{
+"id": "city-of-billiards",
+"title": "City of Billiards",
+"iframe": "https://html5.gamedistribution.com/29a0684eeec2486492af64b378247fe3/",
+"description": "Navigate precision shots and angle calculations in a casual billiards setting where cue control dictates success. Players engage with realistic ball physics to pocket targets on various table layouts, aiming to clear stages or achieve high scores. Timing and shot power add layers of skill, challenging players as they advance through increasingly complex configurations.\n\nKey Features\n\n• Realistic cue ball physics  \n• Precision shot power control  \n• Incremental level complexity  \n• Score-based progression system  \n• Casual billiards table environments"
+},
+{
+"id": "pro-billiards",
+"title": "Pro Billiards",
+"iframe": "https://html5.gamedistribution.com/f0b0978df61940248233d92401ced54b/",
+"description": "Aim precise shots by adjusting angles and power to pocket balls in this casual billiards game. Players refine their cue control to master spin and ball trajectories, competing in progressively challenging matches. The game’s physics-based ball movement requires skillful positioning to clear the table efficiently and advance through varied rounds.\n\nKey Features\n\n• Precision angle aiming mechanic  \n• Adjustable cue power and spin  \n• Progressive match difficulty levels  \n• Turn-based multiplayer format  \n• Realistic physics ball simulation"
+},
+{
+"id": "portal-billiards",
+"title": "Portal Billiards",
+"iframe": "https://html5.gamedistribution.com/e141f5aef151449d9a6ec01dfbf342d6/",
+"description": "Sink strategic shots through portals to navigate unusual billiard tables where balls teleport mid-play. Players angle and time their shots to master portal placements and pocket balls, adapting to shifting table layouts that challenge spatial reasoning. Precision and planning are essential to clear each level and achieve high scores in this twist on classic cue sports.\n\nKey Features\n\n• Portal-based ball teleportation  \n• Shot angle and power control  \n• Progressive table complexity  \n• Score and level advancement  \n• Minimalist geometric aesthetics"
+},
+{
+"id": "billiard-neon",
+"title": "Billiard Neon",
+"iframe": "https://html5.gamedistribution.com/327b17b4dc814c0c9d8320e69c1a1907/",
+"description": "Aim precise shots using neon-highlighted cues to pocket balls in dynamic digital billiards. This casual game centers around classic pool mechanics with glowing visual effects that emphasize target zones and shot strength. Players progress by clearing increasingly challenging tables while mastering cue ball control under vibrant, futuristic lighting conditions.\n\nKey Features\n\n• Precision aiming with visual guides  \n• Cue ball spin and force control  \n• Table clearance progression system  \n• Timer-based challenge rounds  \n• Neon-themed billiard environment"
+},
+{
+"id": "black-hole-billiard",
+"title": "Black Hole Billiard",
+"iframe": "https://html5.gamedistribution.com/c1bf67aabf3f4f578b5f53aa98c1a004/",
+"description": "Sink precise shots by controlling trajectories around cosmic obstacles in this physics-based casual game. Players manipulate the cue ball’s motion using gravitational pulls near black holes to navigate complex billiard setups. Each level challenges aiming skills and strategic shot planning under shifting gravity fields, creating unique puzzle dynamics fit for teens and kids seeking a thoughtful twist on standard billiards.\n\nKey Features\n\n• Gravity-influenced shot physics  \n• Aim adjustment with angular controls  \n• Increasing puzzle complexity levels  \n• Time attack challenge mode  \n• Space-themed black hole environments"
+},
+{
+"id": "speed-billiard",
+"title": "Speed Billiard",
+"iframe": "https://html5.gamedistribution.com/0a22f186468c4ecdb062b96297b0ce91/",
+"description": "Arrange precise shots to pocket balls quickly in a timed setting, relying on fast aiming and shot power control to clear tables efficiently. The gameplay emphasizes rapid cue ball positioning and strategic shot selection to overcome advancing difficulty levels. Players must stay sharp and adapt aiming techniques as they progress through increasingly challenging rounds.\n\nKey Features\n\n• Time-based shot targeting  \n• Cue stick angle adjustment  \n• Increasing table difficulty  \n• Score multiplier system  \n• Casual billiards-themed gameplay"
+},
+{
+"id": "mafia-billiard-tricks",
+"title": "Mafia Billiard Tricks",
+"iframe": "https://html5.gamedistribution.com/eaa9b44c70e546e5966d926bb826da04/",
+"description": "Sink precise shots using cue ball control and strategic spin manipulation to dominate pool tables in Mafia Billiard Tricks. Players navigate tricky angles and obstacle setups in a casual billiards environment, aiming to clear levels by pocketing balls efficiently while mastering various trick shots. Timing and accuracy in shot power play crucial roles throughout the progression.\n\nKey Features\n\n• Cue ball spin adjustment  \n• Precision aiming controls  \n• Level-based shot challenges  \n• Trick shot scoring system  \n• Urban pool hall setting"
+},
+{
+"id": "nova-billiard",
+"title": "Nova Billiard",
+"iframe": "https://html5.gamedistribution.com/ef7a4ebf221943a380905fa921a6931e/",
+"description": "Control cue sticks to pocket balls with precision in a streamlined billiard experience designed for casual play. Navigate various table layouts and angles, using careful shot timing and spin to outscore opponents in multiplayer or solo modes. The game emphasizes smooth cue control and strategic positioning to clear the table efficiently.\n\nKey Features\n\n• Precision cue stick aiming  \n• Shot timing and spin control  \n• Progressive table difficulty  \n• Multiplayer scoring rounds  \n• Classic billiard table aesthetics"
+},
+{
+"id": "billiards-game",
+"title": "Billiards Game",
+"iframe": "https://html5.gamedistribution.com/0a50a24c7ba54ee599d960ab33f004f3/",
+"description": "Align shots strategically to pocket balls using precise cue control in a classic billiards setup. Players navigate angles and force to sink their targets while aiming to clear the table efficiently. The game challenges players' shot planning and stroke finesse, offering a steady progression in difficulty to hone aiming accuracy.\n\nKey Features\n\n• Precision aiming mechanic  \n• Adjustable shot power control  \n• Progressive difficulty levels  \n• Single-player practice mode  \n• Classic pool table environment"
+},
+{
 "id": "pool-duel",
 "title": "Pool Duel",
 "iframe": "https://html5.gamedistribution.com/db26a7860d1540089be6bb8f6bca230a/",
