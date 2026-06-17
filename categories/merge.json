@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "merge-lagoon",
+"title": "Merge Lagoon",
+"iframe": "https://html5.gamedistribution.com/7e7b6107748646f2b18f69bf535663b6/",
+"description": "Combine different aquatic creatures to create new species in this casual merge puzzle game. Players merge items on a grid to evolve their underwater ecosystem while strategically managing limited space. Progress through various lagoon-themed environments by continuously discovering and upgrading unique marine life forms in a relaxing but challenging setting.\n\nKey Features\n\n• Tile merging puzzle mechanic  \n• Strategic grid space management  \n• Progressive marine creature evolution  \n• Unlockable lagoon environments  \n• Casual aquatic ecosystem theme"
+},
+{
 "id": "merge-blocks-2048",
 "title": "Merge Blocks 2048",
 "iframe": "https://html5.gamedistribution.com/7cb8b1ed1f174128bb7da70c7fb14361/",

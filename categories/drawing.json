@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "single-line-drawing-puzzle",
+"title": "Single Line: Drawing Puzzle",
+"iframe": "https://html5.gamedistribution.com/7f393790f966411cb3ef2270130b033c/",
+"description": "Trace intricate shapes by connecting points in precise sequences to solve progressively complex puzzles. Navigate a grid-based canvas where spatial reasoning and pattern recognition challenge players with new configurations in each level. Success depends on accurately completing drawings while managing limited moves and increasingly detailed arrangements.\n\nKey Features\n\n• Point connection drawing mechanic  \n• Sequence-based puzzle challenges  \n• Move-limited level progression  \n• Unlockable shape complexity  \n• Grid-pattern spatial puzzles"
+},
+{
 "id": "dragon-draw-joust",
 "title": "Dragon Draw Joust",
 "iframe": "https://html5.gamedistribution.com/134acbfbd6d8440aa9b6e6de0be9e87e/",
