@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "drop-animals",
+"title": "Drop Animals",
+"iframe": "https://html5.gamedistribution.com/56f1b5e636354b24a39f4c0845af5dd2/",
+"description": "Drop objects strategically to form matching clusters and clear the board using color and shape matching mechanics. Players must time their drops carefully to chain combos and prevent stacking blocks from reaching the top, with a gradual increase in fall speed adding challenge. The game features simple controls suited for casual players progressing through increasingly difficult levels.\n\nKey Features\n\n• Timed drop and stacking mechanic  \n• Color and shape matching system  \n• Progressive speed increase challenge  \n• Combo chain scoring method  \n• Casual puzzle arcade setting"
+},
+{
 "id": "logic-storm-animals-puzzle",
 "title": "Logic Storm: Animals Puzzle",
 "iframe": "https://html5.gamedistribution.com/b5c96767c4484a959e6154fc64a73144/",

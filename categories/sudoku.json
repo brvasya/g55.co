@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "sudoku-classic-daily-brain-puzzle",
+"title": "Sudoku Classic – Daily Brain Puzzle",
+"iframe": "https://html5.gamedistribution.com/31390f3577c14938be382b5f08b2228e/",
+"description": "Place numbers in a 9x9 grid so each row, column, and 3x3 subgrid contains digits 1 through 9 once. Use logical deduction to fill blank cells with missing numbers following Sudoku rules. Puzzles vary in difficulty from simple setups to complex patterns requiring advanced elimination techniques.\n\nKey Features\n\n• Number placement logic puzzles  \n• Grid cell selection and input  \n• Difficulty-based puzzle progression  \n• Hint and error checking system  \n• Classic 9x9 Sudoku grid format"
+},
+{
 "id": "sudoku-brain-blocks",
 "title": "Sudoku Brain Blocks",
 "iframe": "https://html5.gamedistribution.com/cd86994bb8a44da48354779bdc56e8f8/",

@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "vex-try-to-fly",
+"title": "Vex Try To Fly",
+"iframe": "https://html5.gamedistribution.com/42bfa359db1e405f8cc84b181c206f7c/",
+"description": "Navigate complex airborne obstacles by controlling precise jumps and mid-air maneuvers in this casual platformer. Players guide a nimble character through tight spaces, relying on timing and rhythm to clear each level’s aerial challenges. Progression introduces increasingly demanding patterns requiring sharp reflexes and careful trajectory control.\n\nKey Features\n\n• Precision jump timing mechanics  \n• Responsive air control system  \n• Escalating level difficulty curves  \n• Pattern-based obstacle sequences  \n• Minimalistic airborne platform setting"
+},
+{
 "id": "fly-and-shoot-1-italian-bosses",
 "title": "Fly and shoot 1. Italian Bosses",
 "iframe": "https://html5.gamedistribution.com/63db3ede64e343c8a9fb4f91e29b7b08/",

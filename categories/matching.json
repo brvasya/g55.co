@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "bubble-match-merge",
+"title": "Bubble Match Merge",
+"iframe": "https://html5.gamedistribution.com/4d51ca78902f43a584d85e4d574ceee2/",
+"description": "Match and merge colored bubbles by strategic placement to clear the board and reach higher combos in this casual puzzle game. Players slide bubbles into position to create clusters that merge and transform, tackling ever-changing layouts to avoid running out of moves. A growing challenge emerges as bubble clusters spread and new colors appear, demanding foresight and quick planning.\n\nKey Features\n\n• Bubble cluster merging mechanic  \n• Sliding placement controls  \n• Increasingly complex board layouts  \n• Combo chain scoring system  \n• Vibrant bubble color palette"
+},
+{
 "id": "fruit-match",
 "title": "Fruit Match",
 "iframe": "https://html5.gamedistribution.com/4254dba037de4b798541d2c97eae5016/",
