@@ -1,0 +1,718 @@
+{
+"pages": [
+{
+"id": "space-war",
+"title": "Space War",
+"iframe": "https://html5.gamedistribution.com/a04c7ea80b864900b4ab86dacd05fdfa/",
+"description": "Command spacecraft through intense space battles, managing energy shields and weapon cooldowns to outmaneuver enemy fleets. Engage in fast-paced dogfights featuring tactical positioning and targeting systems. Progress through increasingly difficult waves of alien attackers while upgrading your ship's offensive and defensive capabilities.\n\nKey Features\n\n• Energy shield management  \n• Real-time space combat controls  \n• Progressive enemy wave challenges  \n• Ship upgrade customization  \n• Sci-fi space warfare setting"
+},
+{
+"id": "space-wars-cartoon-coloring",
+"title": "Space Wars Cartoon Coloring",
+"iframe": "https://html5.gamedistribution.com/c9f97c1aeb304e86b8774009a2eeb565/",
+"description": "Color cosmic battles with a vibrant palette in this interactive space-themed coloring experience. Players use a digital brush mechanic to fill dynamic cartoon starships and alien scenes with bright hues, aiming to complete each level by matching or inventing color schemes. Unlock new artwork progressively while navigating an imaginative outer space backdrop.\n\nKey Features\n\n• Digital brush coloring tool  \n• Progressive artwork unlocking  \n• Interactive cartoon starship scenes  \n• Palette customization system  \n• Space-themed visual designs"
+},
+{
+"id": "space-tanks-arcade",
+"title": "Space Tanks: Arcade",
+"iframe": "https://html5.gamedistribution.com/2b3a83ea427f41acba506c5a7f6b718a/",
+"description": "Navigate futuristic tank arenas using precise arcade-style controls to blast through waves of enemies in space-themed battlegrounds. Players manage fast-paced combat with unique weapon power-ups while aiming to survive escalating enemy assaults. Each level challenges your reflexes and aiming skills in vibrant extraterrestrial environments.\n\nKey Features\n\n• Arcade tank movement mechanics  \n• Weapon power-up collection system  \n• Wave-based enemy progression  \n• Time attack survival mode  \n• Sci-fi space battle arenas"
+},
+{
+"id": "space-survival-rainbow-friends-monster",
+"title": "Space Survival Rainbow Friends Monster",
+"iframe": "https://html5.gamedistribution.com/d6ad6282493243f1a3f45df40d3fb938/",
+"description": "Navigate hostile environments using evasive movement to dodge roaming enemies in this survival game featuring a color-shifting hazard system. Manage your stamina and timing to withstand waves of rainbow-themed monsters while exploring mysterious biomes. The goal revolves around lasting as long as possible against unpredictable threats that demand quick reflexes and strategy.\n\nKey Features\n\n• Color-based enemy behavior system  \n• Stamina management controls  \n• Progressive wave difficulty scaling  \n• Exploration of vibrant alien biomes  \n• Dynamic evasion movement mechanics"
+},
+{
+"id": "spaces-solitaire",
+"title": "Spaces Solitaire",
+"iframe": "https://html5.gamedistribution.com/17225960b791439b885effd91a6d62b4/",
+"description": "Arrange cards by suit and rank to clear the tableau in this solitaire variant that challenges pattern recognition and strategic sequencing. Players build descending stacks with alternating colors while managing limited moves to reveal hidden cards, enhancing classic solitaire depth. Unique nested stack mechanic demands careful planning to unlock full clearance, appealing to casual gamers and younger players alike.\n\nKey Features\n\n• Classic alternating color stacking  \n• Limited move management system  \n• Nested stack reveal mechanic  \n• Progressive tableau unlocking  \n• Casual-friendly card visuals"
+},
+{
+"id": "xtreme-space-shooter",
+"title": "Xtreme Space Shooter",
+"iframe": "https://html5.gamedistribution.com/37c901fdb2874d9ab3150ace3c8ad7d6/",
+"description": "Pilot agile space fighters through waves of hostile alien squadrons, using rapid-fire laser cannons to survive intense battles in deep space. Navigate tight asteroid fields while upgrading your ship’s weapon systems to overcome increasingly aggressive enemies. Missions challenge players to balance precision shooting with evasive maneuvers for high score progression.\n\nKey Features\n\n• Rapid-fire laser combat system  \n• Precision ship control mechanics  \n• Increasingly difficult enemy waves  \n• Upgrade-based weapon progression  \n• Deep space battlefield arenas"
+},
+{
+"id": "space-shooter-alien",
+"title": "Space Shooter Alien",
+"iframe": "https://html5.gamedistribution.com/4fdb9f3101c74e20924bf9b8fd77955d/",
+"description": "Navigate waves of alien invaders using precise shooting mechanics and dynamic weapon upgrades. Players control a customizable spacecraft in an outer space battlefield, aiming to survive relentless enemy waves and earn high scores. The gameplay emphasizes quick reflexes and strategic targeting of diverse hostile alien types across escalating levels.\n\nKey Features\n\n• Precision shooting controls  \n• Customizable spacecraft weapons  \n• Increasing enemy wave difficulty  \n• Score-based progression system  \n• Outer space combat environment"
+},
+{
+"id": "phew-phew-space-shooter",
+"title": "Phew Phew Space Shooter",
+"iframe": "https://html5.gamedistribution.com/d6d76272b28a4b11b516e4db3e985c56/",
+"description": "Navigate fast-paced space combat with joystick-controlled shooting in a colorful arcade setting. Players pilot a nimble spacecraft, dodging waves of enemy projectiles while firing rapid bursts to clear levels. The challenge focuses on mastering directional shooting and evasive maneuvers against increasing enemy swarms.\n\nKey Features\n\n• Joystick controlled multidirectional shooting  \n• Progressive enemy wave difficulty  \n• Shield energy management system  \n• Score-based level advancement  \n• Vibrant arcade-style space visuals"
+},
+{
+"id": "space-shooter-galaxy-attack-galaxy-shooter",
+"title": "Space shooter Galaxy attack Galaxy shooter",
+"iframe": "https://html5.gamedistribution.com/f50e7b94a93b46ee8460b5a6cd919bf5/",
+"description": "Pilot a spaceship through waves of alien attackers in this fast-paced space shooter. Fire precision lasers and navigate low-gravity movement to fend off diverse enemy formations. Survive multiple stages while upgrading your ship’s weapons to handle increasing attack patterns. The game blends classic arcade shooting with a sci-fi galactic battlefield setting.\n\nKey Features\n\n• Laser shooting combat system  \n• Smooth directional ship controls  \n• Progressive enemy wave stages  \n• Ship weapon upgrade paths  \n• Sci-fi outer space environment"
+},
+{
+"id": "space-shooter",
+"title": "Space Shooter",
+"iframe": "https://html5.gamedistribution.com/b1169e1df630473fa131fa3b2e4e6634/",
+"description": "Pilot a fast-paced spacecraft through waves of alien attackers in this arcade-style shooter. Players maneuver a customizable starfighter using precision aiming and rapid-fire laser weapons to clear hostile formations. Levels increase in difficulty with diverse enemy patterns and power-up drops to help survive longer. Strategic evasion and timed upgrades define the challenge in outer space combat zones.\n\nKey Features\n\n• Rapid-fire laser weapon system  \n• Precision aiming control scheme  \n• Progressive enemy wave difficulty  \n• Collectible power-up mechanics  \n• Outer space arcade shooter setting"
+},
+{
+"id": "space-strike-galaxy-shooter",
+"title": "Space Strike: Galaxy Shooter",
+"iframe": "https://html5.gamedistribution.com/de8d6962232a4f9e91344d6ab91141a2/",
+"description": "Pilot a spacecraft through waves of hostile alien ships, using precise shooting mechanics to clear each sector and survive intense enemy encounters. Players unlock new weapon upgrades and face varied enemy formations in progressively challenging levels set deep in outer space. Strategic targeting and rapid reflexes are key to mastering this arcade-style shooter.\n\nKey Features\n\n• Precision aiming and shooting controls  \n• Progressive weapon upgrade system  \n• Diverse alien enemy types  \n• Level-based sector progression  \n• Space combat-themed environment"
+},
+{
+"id": "space-shooter-speed-typing-challenge",
+"title": "Space Shooter - Speed Typing Challenge",
+"iframe": "https://html5.gamedistribution.com/0e860e3416b142758d2e2aa5bedab4fb/",
+"description": "Blast through waves of incoming enemies by accurately typing words to shoot and survive. This space-themed shooter blends fast-paced keyboard skills with escalating enemy types that test your speed and precision. Progress through increasingly difficult levels where typing accuracy controls your firing rate, challenging your reflexes in a unique speed typing combat system.\n\nKey Features\n\n• Typing-based shooting mechanic  \n• Progressive enemy wave difficulty  \n• Real-time word accuracy control  \n• Score tracking and level advancement  \n• Space combat visual effects"
+},
+{
+"id": "1945-air-force-space-shooter",
+"title": "1945 Air Force Space Shooter",
+"iframe": "https://html5.gamedistribution.com/38ab3871c30c48a3a6a4b1e3e2ce802c/",
+"description": "Pilot a vintage fighter jet blasting waves of enemy aircraft in this vertical scrolling shooter. Master rapid-fire cannons and strategic dodging to survive intense aerial battles across multiple levels. Collect power-ups to upgrade weapons and face challenging boss encounters that test reflexes and timing.\n\nKey Features\n\n• Upgradeable weapon loadouts  \n• Precise joystick flight controls  \n• Progressive enemy wave patterns  \n• Boss fight challenge stages  \n• 1940s military aircraft theme"
+},
+{
+"id": "space-rush",
+"title": "Space Rush",
+"iframe": "https://html5.gamedistribution.com/4a3d1be76be94604b4db6c26b71c6266/",
+"description": "Navigate intense fast-paced levels by expertly maneuvering hazards and timing your rush through dynamic space environments. Players rely on sharp reflex jumps and avoiding obstacles while accelerating through vibrant cosmic tracks, aiming to reach the finish before time runs out. The challenge ramps up with increasingly complex routes and speed segments, testing quick thinking and precision.\n\nKey Features\n\n• precision-based obstacle navigation  \n• time-sensitive speed challenges  \n• progressive difficulty waves  \n• unlocking new cosmic tracks  \n• reactive space environment effects"
+},
+{
+"id": "among-them-space-rush",
+"title": "Among Them Space Rush",
+"iframe": "https://html5.gamedistribution.com/1cbf6223f2c9426b82d0e8aee51fb87f/",
+"description": "Navigate fast-paced obstacle courses by controlling a nimble character who must dash through dynamic environments filled with timing-based hazards. Using precise movement, players race against the clock to reach new checkpoints and unlock increasingly complex levels. Speed and reflexes are essential to master the incremental difficulty as you push through each stage.\n\nKey Features\n\n• Timing-based obstacle navigation  \n• Responsive dash and jump controls  \n• Gradual level difficulty increase  \n• Checkpoint progression system  \n• Colorful arcade-inspired visuals"
+},
+{
+"id": "valerian-space-run",
+"title": "Valerian Space Run",
+"iframe": "https://html5.gamedistribution.com/b95bcac2caf546a88c16fea3872d30dd/",
+"description": "Run endlessly through procedurally generated space corridors avoiding obstacles and collecting power-ups in this fast-paced runner. Navigate tight turns and timed jumps using precise swipe controls while managing a limited boost resource to extend your run. The challenge lies in maximizing distance and score before crashing in a vibrant sci-fi setting.\n\nKey Features\n\n• Swipe-based movement controls  \n• Procedural corridor generation  \n• Boost meter management system  \n• Progressive difficulty scaling  \n• Sci-fi visual and audio theme"
+},
+{
+"id": "space-run",
+"title": "Space Run",
+"iframe": "https://html5.gamedistribution.com/7c53ae7dd5194336a90deb63c3e917a9/",
+"description": "Navigate a constantly shifting corridor filled with obstacles and power-ups in this endless runner, where quick reflexes and timing define success. Players steer a sleek spacecraft using responsive tilt controls to dodge hazards and collect boosters while trying to survive increasing speeds and environmental hazards. The challenge grows as the interstellar route becomes more complex, requiring sharp focus and fast decision-making.\n\nKey Features\n\n• tilt-sensitive spaceship steering  \n• dynamic obstacle pattern generation  \n• collectible speed and shield boosts  \n• progressive difficulty scaling  \n• sci-fi space corridor environment"
+},
+{
+"id": "among-them-space-run",
+"title": "Among Them Space Run",
+"iframe": "https://html5.gamedistribution.com/294d44f079304c1285f6e926f63f231e/",
+"description": "Navigate a continuously shifting maze of platforms while controlling a nimble character to dodge hazards and collect power-ups. The game tests timing precision and spatial awareness with its fast-paced runner mechanics. Encounter varying obstacles as you progress through vibrant, abstract stages aiming to survive as long as possible.\n\nKey Features\n\n• Precision jump controls  \n• Procedural platform generation  \n• Increasing difficulty pacing  \n• Power-up collection system  \n• Colorful abstract environment"
+},
+{
+"id": "space-rescue",
+"title": "Space Rescue",
+"iframe": "https://html5.gamedistribution.com/efb175da42614a7e9a0b08e84cdbb817/",
+"description": "Pilot a high-tech space shuttle through hazardous interstellar terrain to retrieve stranded crew members using precise thruster control. Navigate asteroid fields and avoid hostile drones while managing limited fuel reserves to complete timed rescue missions. Each level introduces new obstacles requiring quick reflexes and careful maneuvering to save lives in a vast cosmic setting.\n\nKey Features\n\n• Thruster-based shuttle navigation  \n• Time-limited rescue objectives  \n• Fuel management mechanics  \n• Increasing asteroid and drone hazards  \n• Sci-fi space mission environment"
+},
+{
+"id": "space-ship-racer-game-2019",
+"title": "Space Ship Racer Game 2019",
+"iframe": "https://html5.gamedistribution.com/53896e5cae614087993e2a35fefd9408/",
+"description": "Race hovercrafts through futuristic circuits in Space Ship Racer Game 2019, navigating tight turns and avoiding obstacles. Maneuver with precision to outpace rivals and master time-based challenges across multiple tracks. Use vehicle boosts to gain an edge while adapting to changing race conditions and variable track layouts.\n\nKey Features\n\n• Hovercraft speed control mechanics  \n• Precise directional steering input  \n• Time trial and multiplayer modes  \n• Boost energy management system  \n• Futuristic sci-fi racing environments"
+},
+{
+"id": "space-jet-racing-space-speed-2020",
+"title": "Space Jet Racing : Space Speed 2020",
+"iframe": "https://html5.gamedistribution.com/465f9091858e459f97a1d507b95da451/",
+"description": "Pilot futuristic jet bikes through high-speed space tracks, navigating tight curves and zero-gravity twists in this interstellar racing challenge. Utilize precise acceleration and maneuvering mechanics to outrun rivals across dynamic cosmic environments. The game tests reflexes and spatial awareness as players aim to finish first on each orbiting circuit.\n\nKey Features\n\n• High-speed space jet control  \n• Zero-gravity track dynamics  \n• Time-based lap progression  \n• Competitive CPU racer opponents  \n• Futuristic sci-fi racing arenas"
+},
+{
+"id": "space-racing-3d",
+"title": "Space Racing 3D",
+"iframe": "https://html5.gamedistribution.com/bc656640350c4257a5100511ddbb6992/",
+"description": "Race futuristic hovercraft across dynamic 3D tracks in this high-speed competition. Control air-enabled vehicles with precision around tight corners and boost strategically to outpace rivals. Navigate complex racecourses that demand responsive steering and acceleration skills. Compete in time trials or multiplayer modes to claim victory while mastering physics-based hovercraft handling.\n\nKey Features\n\n• 3D hovercraft racing mechanics  \n• Precision steering and boost control  \n• Increasing track difficulty levels  \n• Time trial and multiplayer modes  \n• Futuristic sci-fi racing environments"
+},
+{
+"id": "space-pin-master-pull-pin-puzzle",
+"title": "Space Pin Master - Pull Pin Puzzle",
+"iframe": "https://html5.gamedistribution.com/a6c8940d3c91429984ed040a65cad06a/",
+"description": "Manipulate numbered pins to clear intricate puzzles by pulling them in the right sequence and avoiding hazards. Each level challenges players to figure out safe paths while unlocking new configurations that increase in complexity. The puzzle’s spatial pin mechanic puts logic and timing to the test in a minimalist setting where precision is key.\n\nKey Features\n\n• Sequential pin pulling puzzles  \n• Tap controls for pin interaction  \n• Increasingly complex level layouts  \n• Hazard avoidance challenges  \n• Minimalist space-themed visuals"
+},
+{
+"id": "space-pet-link",
+"title": "Space Pet Link",
+"iframe": "https://html5.gamedistribution.com/4dd24ad30e1d432097984166dee29280/",
+"description": "Match colored pets by linking them across cosmic grids in this casual puzzle game. Players connect pairs of space-themed creatures with paths that can’t overlap to clear levels and advance through increasingly complex board layouts. The challenge lies in planning routes efficiently while managing limited grid space and unlocking new pet types as you progress.\n\nKey Features\n\n• Path linking puzzle mechanic  \n• Grid-based route planning  \n• Increasing level complexity  \n• Unlockable pet varieties  \n• Cosmic-themed puzzle boards"
+},
+{
+"id": "outer-space-memory",
+"title": "Outer Space Memory",
+"iframe": "https://html5.gamedistribution.com/b0b08d973c76410a8a6486ddf2dd0e5c/",
+"description": "Match pairs of cosmic symbols to test and sharpen your memory skills in this outer space themed puzzle. Players flip cards to uncover matches, navigating through levels with increasing complexity that demand careful recall and strategy. Timing and pattern recognition form the core challenge as you strive to clear each stage efficiently.\n\nKey Features\n\n• Card flip memory mechanic  \n• Progressive level difficulty  \n• Timed match challenges  \n• Pattern recognition tasks  \n• Space-themed visual elements"
+},
+{
+"id": "space-memory",
+"title": "Space Memory",
+"iframe": "https://html5.gamedistribution.com/0edf2b36d839482898b2c7687428ac60/",
+"description": "Match pairs of cosmic symbols to unlock hidden sequences in this memory challenge. The game tests pattern recognition with increasing grid sizes, requiring players to recall star clusters and planetary icons. Completing levels within limited moves advances through abstract celestial stages, where timing and precision play crucial roles in overcoming more complex arrangements.\n\nKey Features\n\n• Symbol matching memory mechanic  \n• Sequential pattern recall controls  \n• Progressive grid size challenge  \n• Move-limited level design  \n• Cosmic-themed visual elements"
+},
+{
+"id": "space-heroes-match",
+"title": "Space Heroes Match",
+"iframe": "https://html5.gamedistribution.com/708eb1228c3747d8aa2357c290e51f43/",
+"description": "Match colorful cosmic icons across grid puzzles to clear levels in this space-themed logic game. Players swap adjacent tiles to create chains of three or more with an emphasis on strategic pattern recognition. As stages progress, subtle puzzle complexities challenge timing and moves, encouraging careful planning under limited turns or time constraints.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Strategic pattern matching controls  \n• Progressive level difficulty scaling  \n• Time and move limit challenges  \n• Galactic icon design elements"
+},
+{
+"id": "space-geo-jump",
+"title": "Space Geo Jump",
+"iframe": "https://html5.gamedistribution.com/a706525ad3e042a9b00bcd8aece0c7ad/",
+"description": "Leap between rotating platforms in a physics-based jumping challenge that tests timing and precision across dynamic space environments. Players navigate variable gravity zones to reach higher levels while avoiding falling into the void. The game gradually increases difficulty by introducing moving platforms and limited jump boosts to keep players engaged through progressive stages.\n\nKey Features\n\n• Gravity-shifting platform mechanics  \n• Precision timing jump controls  \n• Increasing level difficulty curve  \n• Limited boost resource management  \n• Space-themed environment design"
+},
+{
+"id": "space-jump",
+"title": "Space Jump",
+"iframe": "https://html5.gamedistribution.com/8504df71082d49c98353e2c8ab101a13/",
+"description": "Jump between floating platforms with precise timing to navigate increasingly complex vertical levels in a cosmic setting. Players rely on careful jump control to manage limited oxygen and avoid falling into the void below. The gradual introduction of moving platforms and variable jump heights tests reflexes and planning. Collectibles provide progression toward new stages and scoring variations.\n\nKey Features\n\n• Precision jumping mechanics  \n• Oxygen depletion management  \n• Ascending platform challenges  \n• Collectible-based level unlocking  \n• Cosmic gravity and visuals"
+},
+{
+"id": "space-jumper",
+"title": "Space Jumper",
+"iframe": "https://html5.gamedistribution.com/1dbfb63cc4504887a7a6a14a0338e7c7/",
+"description": "Leap from platform to platform using precise timing and momentum-based jumps in a vibrant, physics-driven environment where quick reflexes are key. Navigate complex layouts that test your ability to chain movements and maintain rhythm under pressure. Challenge progression reveals variations in jump distances and platform behaviors to heighten the difficulty and engagement.\n\nKey Features\n\n• Momentum-based jumping mechanics  \n• Responsive touchscreen and keyboard controls  \n• Progressive platform complexity  \n• Time attack scoring mode  \n• Colorful, dynamic level design"
+},
+{
+"id": "boxie-space-jump",
+"title": "Boxie Space Jump",
+"iframe": "https://html5.gamedistribution.com/d973dfa9873c4aa787a2033cfc9f6ab7/",
+"description": "Leap through colorful levels by timing bounces to navigate floating platforms with precision. Players rely on dynamic jump controls to avoid falling off as they climb higher in a vibrant, abstract space environment. The goal is to reach the top without missing a platform, testing reflexes and rhythm amid increasingly challenging layouts.\n\nKey Features\n\n• Precision timing jump mechanics  \n• Responsive bounce controls  \n• Progressive platform difficulty  \n• Endless vertical climbing mode  \n• Abstract cosmic visual theme"
+},
+{
+"id": "space-mission-jigsaw",
+"title": "Space Mission Jigsaw",
+"iframe": "https://html5.gamedistribution.com/cc9bdaf698364b79b7ae4328d7b22719/",
+"description": "Arrange interlocking pieces to reveal captivating space-themed images in this jigsaw puzzle experience. Players manipulate various shaped tiles to complete intricate cosmic scenes, progressing through increasingly detailed levels. The challenge lies in managing piece rotation and placement across starry backgrounds, engaging casual gamers and younger players in cosmic pattern assembly.\n\nKey Features\n\n• Piece rotation and placement  \n• Mouse-driven tile manipulation  \n• Progressive cosmic image complexity  \n• Time-limited puzzle stages  \n• Outer space visual themes"
+},
+{
+"id": "space-io",
+"title": "Space.io",
+"iframe": "https://html5.gamedistribution.com/01a2209f6b014104951400328089a30d/",
+"description": "Navigate a minimalist arena as a growing orb that absorbs smaller players to increase in size and dominance. The gameplay revolves around strategic movement and quick reflexes to avoid getting eliminated while expanding your mass. Players engage in a fast-paced contest of survival where controlling space and timing splits can turn the tide.\n\nKey Features\n\n• Orb absorption growth mechanic  \n• Precision movement controls  \n• Survival based elimination challenge  \n• Mass splitting tactical system  \n• Abstract space arena setting"
+},
+{
+"id": "space-imposter",
+"title": "Space Imposter",
+"iframe": "https://html5.gamedistribution.com/8fd561c1306b42fe9a8a64b62bf46f69/",
+"description": "Navigate suspicious crewmates aboard a spaceship by managing tasks and uncovering impostors in tense social gameplay. Players use movement and interaction mechanics to complete objectives while identifying threats in each session. The game unfolds in a confined sci-fi setting where deduction and timing challenge casual gamers seeking engaging group play.\n\nKey Features\n\n• Task completion and sabotage  \n• Freeform character movement  \n• Impostor identification rounds  \n• Vote-based elimination system  \n• Spacecraft interior environments"
+},
+{
+"id": "space-ship-hunting",
+"title": "SPACE SHIP HUNTING",
+"iframe": "https://html5.gamedistribution.com/24aad8d883f84141ba38c41622fd0667/",
+"description": "Track and target elusive ships through dynamic space environments using a turret-based aiming system. Maneuver your spacecraft to align shots while managing limited ammo, aiming to destroy enemy vessels that vary in speed and size. Progress through increasing difficulty levels with faster enemies and tight time constraints to test precision and timing.\n\nKey Features\n\n• Turret aiming and firing mechanic  \n• Spacecraft maneuvering controls  \n• Increasing enemy speed and variety  \n• Timed challenge levels  \n• Sci-fi space combat theme"
+},
+{
+"id": "deep-space-horror-outpost",
+"title": "Deep Space Horror: Outpost",
+"iframe": "https://html5.gamedistribution.com/8a1092fd69a443daa9f51b836ac8bfa7/",
+"description": "Explore a derelict space outpost by navigating dark corridors and managing scarce resources against unknown threats. Players employ strategic exploration and quick decision-making to uncover the facility’s secrets while surviving environmental hazards. Each level introduces new obstacles, requiring adaptability and careful planning in this eerie, sci-fi setting.\n\nKey Features\n\n• Resource management mechanics  \n• Corridor exploration gameplay  \n• Environmental hazard challenges  \n• Progressive level difficulty  \n• Sci-fi survival atmosphere"
+},
+{
+"id": "space-fighter",
+"title": "Space Fighter",
+"iframe": "https://html5.gamedistribution.com/5e98d125ea344a768894a1a93a75b962/",
+"description": "Engage in fast-paced battles where pilots command agile spacecraft using precise combat maneuvers. The gameplay centers around strategic dogfighting mechanics, navigating in a zero-gravity environment while targeting enemy fighters. Players must outwit opponents by mastering advanced weapon systems to secure victory across escalating match rounds.\n\nKey Features\n\n• Tactical dogfight combat system  \n• Responsive spacecraft maneuvering  \n• Progressive match rounds difficulty  \n• Weapon upgrade customization  \n• Zero-gravity space arena"
+},
+{
+"id": "rublox-space-farm",
+"title": "Rublox Space Farm",
+"iframe": "https://html5.gamedistribution.com/1ee0c2327efe4eddbb3335370186f1ac/",
+"description": "Manage crop cycles and resource allocation on a sprawling space station in this farming simulator. Players utilize timed planting and automated harvesting to optimize output, navigating unique zero-gravity farming mechanics. The challenge lies in balancing limited space and fluctuating environmental conditions to expand the station’s agricultural reach.\n\nKey Features\n\n• Timed crop growth cycles  \n• Automated harvesting controls  \n• Space station expansion goals  \n• Resource management system  \n• Zero-gravity farming environment"
+},
+{
+"id": "space-prison-escape",
+"title": "Space Prison Escape",
+"iframe": "https://html5.gamedistribution.com/b3a7087f139b46969d449934984357a7/",
+"description": "Navigate complex prison modules using stealth and timed movements to unlock corridors and evade guards in this sci-fi escape challenge. Players rely on precise interactions with high-tech security systems to progress through levels inside a space detention center. The core gameplay revolves around manipulating futuristic locks and crafting escape routes while avoiding capture.  \n\nKey Features\n\n• Security system hacking puzzles  \n• Stealth-based movement controls  \n• Timed escape challenges  \n• Multi-level prison layouts  \n• Sci-fi environment elements"
+},
+{
+"id": "space-prison-escape-2",
+"title": "Space Prison Escape 2",
+"iframe": "https://html5.gamedistribution.com/1a4417c79ee64dcea8fd131df207c08e/",
+"description": "Navigate complex puzzles and secure your freedom by solving cryptic codes and unlocking hidden compartments in a sci-fi prison environment. This escape game challenges you to use observation and logic to progress through interconnected cells and security systems. Each section introduces varied puzzle elements that test your ability to decipher clues and manipulate futuristic locks.\n\nKey Features\n\n• Logic puzzle and code cracking  \n• Interactive lock manipulation  \n• Multi-stage cell escape progression  \n• Clue discovery and inventory use  \n• Sci-fi prison setting ambiance"
+},
+{
+"id": "space-escape",
+"title": "Space Escape",
+"iframe": "https://html5.gamedistribution.com/090ccd305dd443dba05ef6b5b2df87fe/",
+"description": "Navigate shifting corridors and solve complex puzzles to break out of hazardous environments in this escape game. Players interact with environmental clues and mechanism-based locks to progress through increasingly difficult stages. The gameplay emphasizes careful observation and timing, challenging players to find their way to freedom while managing limited resources under pressure.\n\nKey Features\n\n• Interactive puzzle mechanism design  \n• Point-and-click control interface  \n• Progressive puzzle difficulty curve  \n• Time-sensitive escape challenges  \n• Sci-fi themed atmospheric levels"
+},
+{
+"id": "space-room-escape",
+"title": "Space Room Escape",
+"iframe": "https://html5.gamedistribution.com/ceb597364ddc4bf8a34734ac6e51c95c/",
+"description": "Explore intricate puzzles by interacting with objects and clues to unlock new areas in a confined space setting. The core mechanic revolves around discovering hidden codes and manipulating environmental elements to escape challenging locked rooms. Players must carefully analyze details under pressure, using observation and logic to progress through increasingly complex stages designed for casual players and younger audiences.\n\nKey Features\n\n• Environmental puzzle interaction  \n• Code deciphering mechanics  \n• Progressive locked room challenges  \n• Point-and-click exploration control  \n• Minimalist sci-fi room design"
+},
+{
+"id": "space-driving",
+"title": "Space Driving",
+"iframe": "https://html5.gamedistribution.com/811467c078134a19af249fbe39122f05/",
+"description": "Navigate futuristic vehicles across cosmic tracks in this browser game, mastering physics driven vehicle handling to overcome hazardous terrain. Players steer through ever-changing space environments, balancing speed and control to reach challenging checkpoints. The main goal revolves around precise driving and adapting to unique gravity effects that alter vehicle dynamics on each lap.\n\nKey Features\n\n• Physics driven vehicle handling  \n• Precision steering and acceleration  \n• Hazardous cosmic track challenges  \n• Time trial checkpoint system  \n• Futuristic space vehicle designs"
+},
+{
+"id": "mission-in-space-difference",
+"title": "Mission in Space Difference",
+"iframe": "https://html5.gamedistribution.com/4aa8cf1262bf491bb76d6a9f8e63fdaa/",
+"description": "Navigate modular spacecraft through shifting spatial puzzles in this casual browser game. Players manipulate gravity zones and switch propulsion modes to align complex ship components, aiming to restore order in a fragmented cosmic environment. Each level demands careful adjustment of the ship’s configuration to overcome environmental hazards and reestablish control.\n\nKey Features\n\n• Gravity manipulation mechanics  \n• Multi-mode propulsion control  \n• Modular ship assembly puzzles  \n• Level-based spatial challenges  \n• Cosmic debris hazard system"
+},
+{
+"id": "space-craft-ship-war",
+"title": "Space Craft: Ship War",
+"iframe": "https://html5.gamedistribution.com/bc4dce5d14fe4259a8d4bdbb235eb43b/",
+"description": "Pilot customizable spacecraft through tactical ship battles in outer space, managing modular weapon systems and energy shields to outmaneuver opponents. Players navigate dynamic space arenas, balancing offensive and defensive strategies to dominate combat zones, while advancing through escalating encounters that test reflexes and resource management.\n\nKey Features\n\n• Modular ship customization system  \n• Energy shield management mechanics  \n• Tactical space combat controls  \n• Progressive enemy wave challenges  \n• Sci-fi arena battle setting"
+},
+{
+"id": "space-car",
+"title": "Space Car",
+"iframe": "https://html5.gamedistribution.com/81c7dcbccfee4162b74c323d1c5cb33b/",
+"description": "Zoom through futuristic highways piloting space-age cars built for high-speed agility and precision handling. Players navigate through shifting cosmic landscapes, mastering tight control mechanics to overcome challenging obstacles and outpace rivals. Each level introduces new track variations that test reflexes and strategic movement for top placements among casual racing enthusiasts.\n\nKey Features\n\n• Precision vehicle steering system  \n• Obstacle navigation challenges  \n• Progressive track difficulty levels  \n• Time attack mode inclusion  \n• Sci-fi inspired racing environments"
+},
+{
+"id": "space-ball",
+"title": "Space Ball",
+"iframe": "https://html5.gamedistribution.com/b00409548ef44c1db60e0b1a42e5964e/",
+"description": "Launch a bouncing ball through dynamic obstacle courses that test your timing and precision in this casual physics puzzle. Players navigate variable surfaces and kinetic barriers to reach checkpoints while managing unpredictable ball trajectories. Each level’s momentum-based challenge demands steady control to complete increasingly complex layouts and earn high scores.\n\nKey Features\n\n• Momentum-driven ball physics  \n• Responsive drag and release controls  \n• Progressive level complexity  \n• Time-based scoring system  \n• Minimalist arcade environment"
+},
+{
+"id": "space-adventure-pinball",
+"title": "Space Adventure Pinball",
+"iframe": "https://html5.gamedistribution.com/58a6922f7ccd465d89f2c00c4cf01b9a/",
+"description": "Launch flippers to propel a glowing orb through cosmic bumpers and winding lanes in this arcade pinball challenge. Players manipulate the momentum and angle of shots to hit targets scattered across futuristic tables inspired by outer space. Success depends on chaining combos and activating multipliers to maximize scores and unlock increasingly complex layouts.\n\nKey Features\n\n• Flipper timing and aim mechanics  \n• Combo-based scoring system  \n• Progressive table complexity  \n• Multiplier activation modes  \n• Space-themed pinball elements"
+},
+{
+"id": "panda-space-adventure",
+"title": "Panda Space Adventure",
+"iframe": "https://html5.gamedistribution.com/2698b99bb5d345c7a4bb443a573621cd/",
+"description": "Pilot a nimble panda spacecraft through cosmic obstacles and resource collection in this adventure game. Navigate asteroid fields using responsive thrust controls to complete challenging space missions. As levels increase, manage fuel and avoid hazards to progress deeper into unknown sectors of the galaxy.\n\nKey Features\n\n• Precision spacecraft thrust mechanics  \n• Resource gathering in hazardous zones  \n• Progressive asteroid field complexity  \n• Fuel management and navigation controls  \n• Cosmic space exploration setting"
+},
+{
+"id": "space-adventure",
+"title": "Space Adventure",
+"iframe": "https://html5.gamedistribution.com/bd4f95b74b914def91eca9733697934f/",
+"description": "Pilot customizable starships through vast cosmic sectors using real-time navigation controls, avoiding unpredictable asteroid fields. Collect rare space artifacts while managing energy reserves in a procedurally generated galaxy. Survive hostile encounters and uncover hidden routes as you aim to maximize your exploration score.\n\nKey Features\n\n• Real-time starship piloting  \n• Energy reserve management system  \n• Procedural galaxy map exploration  \n• Dynamic asteroid field navigation  \n• Artifact collection progression"
+},
+{
+"id": "flip-space-love-adventure",
+"title": "Flip Space Love Adventure",
+"iframe": "https://html5.gamedistribution.com/11a05de5646b4c4bb695d7b0fbc9e8f3/",
+"description": "Navigate shifting gravity fields to explore puzzling cosmic environments in this adventure game. Players manipulate spatial flips to realign platforms and unlock pathways, challenging their spatial awareness and timing. Progression revolves around mastering gravity inversion to reach elusive objectives scattered throughout each level.\n\nKey Features\n\n• Gravity inversion puzzle mechanics  \n• Spatial platform manipulation controls  \n• Increasing difficulty in level design  \n• Unlockable pathway challenges  \n• Cosmic-themed environment aesthetics"
+},
+{
+"id": "space-cleaner",
+"title": "Space Cleaner",
+"iframe": "https://html5.gamedistribution.com/69507828a2d441b781740ecff532057a/",
+"description": "Collect space debris by maneuvering a futuristic cleaning drone through hazardous orbital fields. Players rely on precise navigation and timing to capture floating objects while avoiding drifting obstacles. Levels introduce increasing difficulty with dynamic debris patterns and limited battery life, pushing players to optimize their route and speed for maximum efficiency.\n\nKey Features\n\n• Drone navigation controls  \n• Dynamic debris collection system  \n• Battery life management  \n• Increasing orbital hazard difficulty  \n• Sci-fi space environment"
+},
+{
+"id": "polygon-space",
+"title": "Polygon Space",
+"iframe": "https://html5.gamedistribution.com/06fd414d2872472c976a4356740d8002/",
+"description": "Navigate a dynamic polygonal space environment by guiding a geometric ship through shifting obstacles and spatial puzzles. The game’s core mechanic centers on precise movement control amid abstract shapes and patterns, challenging players to survive increasingly complex stages. Master strategic positioning and timing to advance through evolving levels set in a minimalist cosmic setting.\n\nKey Features\n\n• Geometry-based spatial navigation  \n• Responsive ship movement controls  \n• Progressive obstacle complexity  \n• Time-based survival challenges  \n• Abstract low-poly cosmic visuals"
+},
+{
+"id": "sprunki-space-challenge",
+"title": "Sprunki Space Challenge",
+"iframe": "https://html5.gamedistribution.com/3d70efa767214c7a8006ca79261a1c1c/",
+"description": "Navigate through intricate obstacle patterns while controlling a hovering drone in this casual arcade game. Players rely on precision timing to avoid hazards and maintain momentum, progressing through increasingly complex levels. The core mechanic blends reflex-based navigation with subtle speed adjustments to test spatial awareness in a dynamic environment.\n\nKey Features\n\n• Responsive drone flight controls  \n• Hazard avoidance timing challenges  \n• Progressive obstacle course complexity  \n• Unlockable speed adjustment modes  \n• Futuristic arcade-style setting"
+},
+{
+"id": "space-raider",
+"title": "Space Raider",
+"iframe": "https://html5.gamedistribution.com/456f704eee7d49968166305719a6ae6b/",
+"description": "Pilot a sleek spacecraft through waves of hostile enemies in this casual browser game, where timing your attacks is key to survival. Navigate dynamic space arenas while managing laser burst cooldowns to clear each challenging level. The gradually increasing enemy swarms test your reflexes, encouraging strategic shooting for high scores and progression.\n\nKey Features\n\n• Precision laser burst mechanic  \n• Responsive ship maneuver controls  \n• Progressive enemy wave difficulty  \n• Score multiplier challenge system  \n• Space arena battle environment"
+},
+{
+"id": "space-blast",
+"title": "Space Blast",
+"iframe": "https://html5.gamedistribution.com/84306950ffed41d5a7c05093e0092e84/",
+"description": "Navigate intricate space mazes by targeting clusters of glowing orbs to clear levels, relying on precise aiming and timing mechanics. The challenge escalates as players encounter varied patterns that test reflexes and strategy. Additional modes introduce score multipliers for combo chains, enriching the casual sci-fi experience.\n\nKey Features\n\n• Orb clustering with precision shooting  \n• Aim and timing control system  \n• Increasing pattern complexity  \n• Combo score multiplier mode  \n• Sci-fi maze environment"
+},
+{
+"id": "space-shift",
+"title": "Space Shift",
+"iframe": "https://html5.gamedistribution.com/25a9cabb062640209571dd2b13948ee1/",
+"description": "Navigate shifting space platforms while managing gravity-based movement in this casual title. Players control a nimble spacecraft avoiding obstacles and collecting items to advance through increasingly complex levels. The game challenges quick reflex adaptation to fluctuating environments, enhancing classic arcade-style navigation with inventive spatial puzzles. Multiple stages test timing and precision under evolving conditions.\n\nKey Features\n\n• Gravity influenced flight control  \n• Dynamic platform navigation  \n• Obstacle avoidance sequences  \n• Progressive level complexity  \n• Arcade-style spatial puzzles"
+},
+{
+"id": "space-survivor",
+"title": "Space Survivor",
+"iframe": "https://html5.gamedistribution.com/da9fbff0f8534c15b27dd7174a3e284f/",
+"description": "Navigate through space debris using precise ship maneuvering to survive increasingly difficult cosmic hazards. Players rely on quick reflexes and spatial awareness to avoid obstacles and maintain control as asteroid density intensifies. The challenge ramps up with progressive speed and tighter gaps, testing agility in a minimalist cosmic environment.\n\nKey Features\n\n• Precision ship control system  \n• Reactive obstacle avoidance gameplay  \n• Increasing asteroid field complexity  \n• Progressive speed and difficulty scaling  \n• Minimalist outer space setting"
+},
+{
+"id": "robybox-space-station-warehouse",
+"title": "RobyBox - Space Station Warehouse",
+"iframe": "https://html5.gamedistribution.com/7b5bac9123ca44ceb4d03ea9ec0ffa20/",
+"description": "Manage space station inventory by organizing and stacking crates efficiently in this casual puzzle game. Players manipulate robotic arms to sort shipments and optimize warehouse layout while navigating gravity-based physics. The challenge lies in maintaining order amid incoming supply waves, advancing through levels that increase in complexity and introduce timed tasks.\n\nKey Features\n\n• Robotic arm manipulation controls  \n• Gravity-affected crate stacking  \n• Increasing warehouse management challenges  \n• Time-limited supply wave modes  \n• Sci-fi space station setting"
+},
+{
+"id": "retro-space-blaster",
+"title": "Retro Space Blaster",
+"iframe": "https://html5.gamedistribution.com/895e6c0eebd345fbad78ff15905e2620/",
+"description": "Blast waves of pixelated aliens attacking in waves using a fast-paced projectile shooting system. Players must aim and time shots carefully while navigating a compact starship through tight enemy formations, aiming to clear successive levels that gradually increase in speed and complexity.\n\nKey Features\n\n• Precision aiming projectile control  \n• Increasing enemy wave patterns  \n• Level-based progression system  \n• Power-up collection and management  \n• Retro pixel art space theme"
+},
+{
+"id": "in-space",
+"title": "In Space",
+"iframe": "https://html5.gamedistribution.com/363206c58bd54207b6534b69265efb1c/",
+"description": "Pilot a spacecraft navigating through shifting space hazards in this casual game. Employing directional thrust controls, players must maneuver carefully to collect resources while avoiding asteroids. Progression is measured by accumulating points and unlocking new sectors to explore, providing a dynamic challenge for teens and kids alike.\n\nKey Features\n\n• Directional thrust maneuvering  \n• Resource collection mechanics  \n• Asteroid avoidance obstacles  \n• Sector unlocking progression  \n• Space exploration casual theme"
+},
+{
+"id": "space-conflict",
+"title": "Space Conflict",
+"iframe": "https://html5.gamedistribution.com/02b8c7389a36476a899665c4ea9ded87/",
+"description": "Pilot a customizable spaceship through wave-based cosmic battles in this casual browser game. Navigate using precise thruster controls as you engage in fast-paced enemy swarm combat, trying to survive increasingly difficult attack patterns. Upgrade your ship’s weapons to handle tougher foes and unlock escalating challenge stages.  \n\nKey Features\n\n• Thruster-based ship maneuvering  \n• Wave survival enemy swarm  \n• Upgradeable weapon systems  \n• Progressive level difficulty  \n• Space combat setting"
+},
+{
+"id": "space-module",
+"title": "Space Module",
+"iframe": "https://html5.gamedistribution.com/359a612a4569405880a21e8106e058f6/",
+"description": "Navigate modular spacecraft components through intricate assembly puzzles in a casual setting. Players must strategically connect space modules under timed conditions, testing spatial reasoning and precision. The game challenges coordination through progressively complex layouts and introduces subtle physics to influence module positioning. Completion rewards unlock new module types and varied puzzle modes.\n\nKey Features\n\n• Modular assembly puzzle mechanic  \n• Precise drag-and-drop controls  \n• Increasing puzzle complexity  \n• Timed challenge progression system  \n• Space-themed component designs"
+},
+{
+"id": "space-killers-retro-edition",
+"title": "Space killers (Retro edition)",
+"iframe": "https://html5.gamedistribution.com/fbe5fe978fc14d0688fd4db8b05b5688/",
+"description": "Control a pixelated spaceship shooting waves of alien invaders in this retro-inspired arcade shooter. Maneuver your ship with quick bursts of directional movement while targeting increasingly difficult enemies across classic space backgrounds. Survive progressing enemy formations and maintain your score streak to advance through tougher levels in time-limited runs.\n\nKey Features\n\n• Precision twin-stick shooting controls  \n• Increasing enemy wave complexity  \n• Score multiplier survival system  \n• Time-limited arcade stages  \n• Retro pixel art space visuals"
+},
+{
+"id": "into-space-3",
+"title": "Into Space 3",
+"iframe": "https://html5.gamedistribution.com/2c4eee075626425fa45509673d9bc2f5/",
+"description": "Launch rockets through progressive atmospheric layers to reach deep space in this casual simulation. Players balance thrust and fuel management with timing to optimize rocket speed and altitude, navigating variable gravitational and wind conditions. Strategic upgrade paths improve rocket parts for greater distance, testing your skill in expanding the boundaries of space travel.\n\nKey Features\n\n• Incremental rocket upgrade system  \n• Thrust and fuel resource management  \n• Dynamic atmospheric resistance physics  \n• Sequential altitude milestone progression  \n• Space exploration and escape theme"
+},
+{
+"id": "into-space",
+"title": "Into Space",
+"iframe": "https://html5.gamedistribution.com/600f56365b354f7cb73138d1103f4d7a/",
+"description": "Launch rockets through progressively challenging space layers while managing physics-based thrust control in this casual browser game. Players navigate dynamic gravitational forces to reach higher altitudes, balancing fuel consumption and momentum. The core mechanic revolves around precision timing and trajectory adjustment to overcome atmospheric resistance. Boost your spacecraft to achieve new heights and unlock subsequent stages.\n\nKey Features\n\n• Physics based thrust control  \n• Altitude progression levels  \n• Fuel management system  \n• Momentum adjustment mechanics  \n• Space exploration theme"
+},
+{
+"id": "into-space-2",
+"title": "Into Space 2",
+"iframe": "https://html5.gamedistribution.com/fc8ab4aad5cf4b6ab2eb0a2255dd4abf/",
+"description": "Launch and upgrade rockets to achieve maximum altitude using precise timing and fuel management in this physics-based vertical progression game. Players navigate atmospheric layers by balancing engine thrust and aerodynamic control, overcoming gravitational forces to reach outer space. Progression involves incremental vehicle upgrades boosting speed and fuel efficiency, challenging players to optimize each flight for greater heights.\n\nKey Features\n\n• Rocket launch timing mechanic  \n• Incremental engine and fuel upgrades  \n• Atmospheric drag and gravity challenge  \n• Altitude-based progression system  \n• Space exploration backdrop"
+},
+{
+"id": "safe-circle-space",
+"title": "Safe Circle Space",
+"iframe": "https://html5.gamedistribution.com/9a87aebb5c394aa6a7a4ecd1892af9ce/",
+"description": "Navigate a shrinking safe zone to avoid elimination while strategically positioning yourself in this casual challenge. Players react quickly to dynamic circle contractions that force movement and decision-making, emphasizing spatial awareness and timing. Survival depends on staying within the ever-tightening perimeter, increasing tension as the play area diminishes.\n\nKey Features\n\n• Shrinking safe zone mechanic  \n• Timed position adjustment challenges  \n• Reactive movement controls  \n• Increasing difficulty through contraction speed  \n• Minimalist spatial survival setting"
+},
+{
+"id": "space-hidden-alphawords",
+"title": "Space Hidden Alphawords",
+"iframe": "https://html5.gamedistribution.com/dd1c9ca4e743455aae8280aae1a938a1/",
+"description": "Trace hidden letter patterns across cosmic puzzles in this casual word search where players uncover alphabets embedded in galactic backgrounds. Using careful observation, identify clusters of letters to form words and clear levels. The game blends spatial letter arrangement with progressive difficulty in a space-themed setting to challenge vocabulary skills.\n\nKey Features\n\n• Letter cluster identification mechanic  \n• Tap and drag word selection controls  \n• Increasing puzzle complexity levels  \n• Time-limited challenge mode  \n• Space-inspired visual design"
+},
+{
+"id": "space-donut",
+"title": "Space Donut",
+"iframe": "https://html5.gamedistribution.com/945b74754bdb4e4a99b096c5f55f0351/",
+"description": "Launch colorful rings into orbit by timing precise donut tosses in this casual browser game. Players use flick mechanics to angle and power each throw, aiming to hit moving targets through dynamic, space-themed obstacles. Progression unfolds through increasingly complex orbital puzzles that test accuracy and timing across multiple stages.\n\nKey Features\n\n• Flick-based aiming controls  \n• Moving orbital target challenges  \n• Level progression with scaling difficulty  \n• Timed puzzle throwing mechanics  \n• Space-themed obstacle environments"
+},
+{
+"id": "space-odyssey",
+"title": "SPACE ODYSSEY",
+"iframe": "https://html5.gamedistribution.com/0720c691041642749790165849bf6015/",
+"description": "Navigate a dynamic casual experience where players engage with an evolving environment shaped by unknown mechanics and shifting challenges. Through intuitive controls, adapt to emerging gameplay elements as you strive to uncover objectives hidden within the setting. Progression unfolds via exploration and skill development, appealing to teens and kids seeking accessible yet intriguing gameplay.\n\nKey Features\n\n• Explorative control scheme  \n• Adaptive challenge progression  \n• Skill-based task completion  \n• Dynamic environment interaction  \n• Casual gameplay for younger audience"
+},
+{
+"id": "space-pic-puzzler",
+"title": "Space Pic Puzzler",
+"iframe": "https://html5.gamedistribution.com/5f68b11bd695499eba59c5e642a178e8/",
+"description": "Match spatial pieces to reconstruct complex cosmic images in a timed puzzle challenge. Players manipulate tile rotations to align star constellations, advancing through increasingly intricate galactic levels. The core mechanic revolves around spatial reasoning and pattern recognition set against a space exploration backdrop.\n\nKey Features\n\n• Tile rotation puzzle mechanic  \n• Pattern matching spatial challenges  \n• Progressive galaxy level design  \n• Time-limited puzzle stages  \n• Cosmic constellation visuals"
+},
+{
+"id": "space-pursuit",
+"title": "Space Pursuit",
+"iframe": "https://html5.gamedistribution.com/1ea5d7ee0bb343ebb4dc734edb1cbf0a/",
+"description": "Navigate shifting space lanes while collecting cosmic orbs to unlock new pathways and avoid relentless asteroid fields in this casual arcade title. Players master precise timing for orbital jumps in a dynamic starfield environment, aiming to extend their journey through escalating spatial hazards and uncover hidden shortcuts as they progress.\n\nKey Features\n\n• Orbital jump timing mechanic  \n• Collectible cosmic orbs system  \n• Dynamic asteroid field obstacles  \n• Unlockable space lane routes  \n• Procedural starfield backdrop"
+},
+{
+"id": "crazy-gravity-space",
+"title": "Crazy Gravity Space",
+"iframe": "https://html5.gamedistribution.com/adbb8e103fde48728101a41b80a5932a/",
+"description": "Navigate shifting gravity fields to guide your astronaut through treacherous space environments. The game challenges players to master precise movement controls while adapting to constantly changing gravitational forces. Progression unfolds across dynamic levels requiring strategy and timing to reach safe zones and avoid hazards in a minimalist cosmic setting.\n\nKey Features\n\n• Gravity manipulation mechanics  \n• Precision astronaut control  \n• Increasingly complex gravity puzzles  \n• Time-based level progression  \n• Minimalist outer space visuals"
+},
+{
+"id": "space-invaders-remake",
+"title": "Space Invaders Remake",
+"iframe": "https://html5.gamedistribution.com/cc240393ea264ad48976b2ed1c26e56f/",
+"description": "Blast waves of pixelated invaders using a responsive turret control system that blends retro shooting with modern tweaks. Players adjust their aim to shoot descending alien crafts while managing limited ammo and dodging enemy projectiles. Survival depends on clearing waves in progressively faster attack sequences under a classic arcade space setting.\n\nKey Features\n\n• Turret aiming precision mechanics  \n• Limited ammo resource management  \n• Increasing wave attack speeds  \n• Retro arcade style graphics  \n• Projectile dodge and timing system"
+},
+{
+"id": "space-brickout",
+"title": "Space Brickout",
+"iframe": "https://html5.gamedistribution.com/55557696bf7742bca39d336887bd9226/",
+"description": "Bounce a reinforced ball to shatter layers of bricks arranged in dynamic patterns, combining precise paddle control with physics-based ricochets. Players must clear all obstacles in each level while managing unpredictable ball trajectories, offering a fresh spin on the classic arcade brick-breaking challenge.\n\nKey Features\n\n• Paddle movement with angle control  \n• Multi-layer brick breaking system  \n• Progressive level difficulty scaling  \n• Power-up and ball speed variations  \n• Space-themed visual backgrounds"
+},
+{
+"id": "space-alien-invaders",
+"title": "Space Alien Invaders",
+"iframe": "https://html5.gamedistribution.com/bc73ad2550a44693a5c2487868f14d38/",
+"description": "Command alien ships through varied wave formations using intuitive aiming and rapid-fire controls in this casual space shooter. Defend against relentless extraterrestrial attackers by mastering precision shooting and managing limited ammo. Levels increase in difficulty as enemy types diversify, challenging player reflexes and strategic targeting skills throughout the campaign.\n\nKey Features\n\n• Precision aiming and shooting mechanic  \n• Wave-based enemy attack patterns  \n• Ammo management and reload timing  \n• Increasing enemy variety per level  \n• Space-themed sci-fi combat setting"
+},
+{
+"id": "break-free-space-station",
+"title": "Break Free Space Station",
+"iframe": "https://html5.gamedistribution.com/020a827d3f974fde9fd9503b8af62709/",
+"description": "Navigate complex puzzles by maneuvering through a confined space station environment, using precise timing and strategic movement to avoid hazards. Players must interact with various control panels and locking mechanisms to unlock doors and access new sectors. The challenge escalates as the layout shifts and new obstacles emerge, requiring quick adaptation in this sci-fi setting.\n\nKey Features\n\n• Puzzle-based door unlocking  \n• Strategic movement timing  \n• Hazard avoidance mechanics  \n• Sector progression system  \n• Sci-fi space station environment"
+},
+{
+"id": "aliens-in-space-hidden",
+"title": "Aliens In Space Hidden",
+"iframe": "https://html5.gamedistribution.com/edc9a335f37a4b4d9d3099dc11ce221f/",
+"description": "Search for hidden alien artifacts and secret objects scattered across detailed space environments in this casual hidden object game. Players rely on sharp observation skills and inventory management to uncover clues and complete levels. Each stage presents new visual puzzles and challenges that test attention to detail in an interstellar setting.\n\nKey Features\n\n• Hidden object discovery system  \n• Point-and-click interaction controls  \n• Progressive puzzle complexity  \n• Inventory based clue collection  \n• Space-themed visual design"
+},
+{
+"id": "space-pong",
+"title": "Space Pong",
+"iframe": "https://html5.gamedistribution.com/f7c696f080cb41b192b751e7b001c60a/",
+"description": "Bounce the ball with precise paddle control to outscore the opponent in an arcade-style sports match. Players adjust timing and angle to keep the puck moving across the retro minimalistic court. The challenge lies in mastering rebound physics and anticipating opponent moves, with escalating difficulty as rounds progress to test reflexes.\n\nKey Features\n\n• Paddle angle adjustment mechanics  \n• Dynamic rebound physics system  \n• Increasing opponent AI difficulty  \n• Time-limited round progression  \n• Classic arcade sports visual style"
+},
+{
+"id": "space-attack",
+"title": "Space Attack",
+"iframe": "https://html5.gamedistribution.com/6601b691a492436280884e460ad03747/",
+"description": "Pilot a spacecraft through continuous waves of alien attackers in this casual browser game, using precision timing and evasive maneuvers. The core mechanic revolves around aiming and shooting while dodging enemy projectiles in a classic space combat setting. Your goal is to survive increasingly difficult enemy formations and achieve high scores with each round.\n\nKey Features\n\n• Aim and shoot targeting mechanic  \n• Responsive spacecraft control system  \n• Enemy wave progression scaling  \n• Score multiplier survival mode  \n• Retro space combat visuals"
+},
+{
+"id": "extreme-space-airplane-attack",
+"title": "Extreme Space Airplane Attack",
+"iframe": "https://html5.gamedistribution.com/6517ffb41c0647c8b5fbdacd3cac1d9e/",
+"description": "Launch intense aerial assaults through hazardous space sectors piloting a high-speed fighter craft. Navigate asteroid fields and dodge enemy fire while utilizing rapid-fire lasers to dismantle alien fleets. Survive wave-based encounters and upgrade your spaceship’s offensive and defensive systems to overcome escalating threats among the stars.\n\nKey Features\n\n• Spacefighter laser combat  \n• Precision flight control system  \n• Wave-based enemy encounters  \n• Modular ship upgrade paths  \n• Sci-fi asteroid field hazards"
+},
+{
+"id": "a-space-time-challenge",
+"title": "A Space Time Challenge",
+"iframe": "https://html5.gamedistribution.com/dae4593985524274a45f19b38afe6458/",
+"description": "Navigate shifting dimensional portals to align space-time orbs and solve complex pattern sequences, testing reflexes and timing. Players manipulate a dynamic grid that alters with each level, creating fresh puzzle challenges and requiring strategic positioning to restore order. The cosmic setting blends vibrant visuals with incremental difficulty, pushing players to master the temporal flow and complete increasingly layered configurations.\n\nKey Features\n\n• Temporal puzzle alignment system  \n• Dynamic grid manipulation controls  \n• Increasing pattern complexity progression  \n• Time-based scoring mechanics  \n• Cosmic visual and sound design"
+},
+{
+"id": "space-crash",
+"title": "Space Crash",
+"iframe": "https://html5.gamedistribution.com/203f5d38ad0f4135b2d110d2fd3d8d19/",
+"description": "Navigate fragmented space debris using precise timing and pattern recognition in this casual challenge. Players manipulate shifting obstacles while avoiding collisions to clear stages, relying on reactive controls that test reflexes. Levels increase in complexity with dynamic debris movement, requiring steady focus to progress through a minimalist cosmic environment.\n\nKey Features\n\n• Timing-based obstacle navigation  \n• Responsive touch and click controls  \n• Increasing debris complexity stages  \n• Progressive difficulty scaling system  \n• Minimalist outer space aesthetics"
+},
+{
+"id": "space-quest",
+"title": "Space Quest",
+"iframe": "https://html5.gamedistribution.com/18419df5844a4f2695a1310490b6dd5a/",
+"description": "Navigate shifting cosmic hazards using timed reflexes to clear challenging levels in Space Quest. Players engage with precise tapping mechanics to maneuver through asteroid fields, aiming to survive as long as possible while collecting power-ups that enhance agility. The game’s casual pace and vibrant space backdrop appeal to younger audiences seeking progressively tougher survival challenges.\n\nKey Features\n\n• Precision tap movement control  \n• Dynamic asteroid avoidance patterns  \n• Incremental survival time goals  \n• Power-up based agility boosts  \n• Colorful outer space visuals"
+},
+{
+"id": "space-blaze-2",
+"title": "Space Blaze 2",
+"iframe": "https://html5.gamedistribution.com/a4d6c5960e164546b2dca794347136a4/",
+"description": "Pilot a blazing spaceship through fast-paced arcade stages, dodging obstacles while collecting power-ups to increase firepower. The core mechanic revolves around quick reflexes and precise movement in space-themed levels. Players face waves of enemy drones and must survive progressively challenging zones to rack up high scores.\n\nKey Features\n\n• Arcade-style ship control  \n• Dynamic obstacle avoidance  \n• Progressive enemy wave difficulty  \n• Power-up collection system  \n• Space-themed battle arenas"
+},
+{
+"id": "cube-from-space",
+"title": "Cube From Space",
+"iframe": "https://html5.gamedistribution.com/8d20376ee4994d1087c3c19b6c012dc5/",
+"description": "Navigate and manipulate a solitary cube through abstract cosmic environments using precise control and spatial reasoning. Players must carefully adjust the cube’s orientation to solve progressively intricate puzzles, relying on the game’s core mechanic of rotational movement. Each level challenges players to achieve specific positioning goals while avoiding unseen traps scattered across minimalistic space-themed stages.\n\nKey Features\n\n• Rotation-based puzzle mechanics  \n• Spatial navigation controls  \n• Increasing complexity levels  \n• Timed challenge mode  \n• Minimalist cosmic visuals"
+},
+{
+"id": "space-combat-sim",
+"title": "Space Combat Sim",
+"iframe": "https://html5.gamedistribution.com/29f77933f6b74e17b20bdbd81e76d309/",
+"description": "Pilot agile spacecraft through dynamic casual battles using intuitive controls and randomized enemy waves. Players utilize precision timing to dodge incoming fire while mastering rapid-fire laser cannons in open space skirmishes. Levels increase in difficulty with new combat challenges to test reflexes and strategic positioning, emphasizing quick decision making in each encounter.\n\nKey Features\n\n• Responsive spaceship flight controls  \n• Laser-based combat mechanics  \n• Progressive enemy wave difficulty  \n• Reflex-driven dodging challenges  \n• Space-themed casual engagement"
+},
+{
+"id": "minecaves-lost-in-space",
+"title": "Minecaves Lost in Space",
+"iframe": "https://html5.gamedistribution.com/a29394d1e3054b2e828d498955181ba3/",
+"description": "Navigate through challenging caverns as you collect resources and avoid hazards using precise tunnel digging mechanics. Progressing through progressively complex underground mazes uncovers hidden treasures and mysterious environments. Players carefully manage limited tools while adapting to different cave formations to reach deeper levels and uncover secrets beneath the surface.\n\nKey Features\n\n• Tunnel digging resource collection  \n• Directional digging controls  \n• Increasing maze complexity  \n• Tool durability management  \n• Underground cave exploration"
+},
+{
+"id": "space-bubbles",
+"title": "Space Bubbles",
+"iframe": "https://html5.gamedistribution.com/f1c4e7558c1e481c991705f6d55bf163/",
+"description": "Match and pop colorful bubbles to clear board sections and rack up points in this casual puzzle game. Players aim strategically by shooting bubbles of various colors to create clusters that burst, while navigating an ever-descending ceiling that increases pressure. Each level challenges players to clear specific bubble patterns before space runs out.\n\nKey Features\n\n• Precision bubble shooting controls  \n• Color matching cluster mechanics  \n• Progressive level difficulty scaling  \n• Timed descending ceiling pressure  \n• Vibrant, space-themed visual style"
+},
+{
+"id": "space-roll",
+"title": "Space Roll",
+"iframe": "https://html5.gamedistribution.com/4bc9a2dc825b42c887178da94a69b193/",
+"description": "Roll spherical objects through increasingly complex obstacle courses, mastering momentum and timing in a casual physics-based challenge. Navigate narrow platforms and rotating barriers to reach checkpoints while avoiding pitfalls. The core mechanic revolves around precise rolling control on modular levels designed for escalating difficulty, ideal for casual players seeking quick reflex puzzles.\n\nKey Features\n\n• Momentum based rolling control  \n• Modular obstacle course progression  \n• Timing precision challenges  \n• Checkpoint recovery system  \n• Colorful platform environments"
+},
+{
+"id": "space-match3",
+"title": "Space Match3",
+"iframe": "https://html5.gamedistribution.com/e57c5cba342d4be981836b4c11d38bbb/",
+"description": "Match colored tiles by swapping adjacent pieces within a limited move count to clear the board and score points. The game uses classic match-3 mechanics set against an interstellar backdrop where players progress through an increasing difficulty curve. Strategic tile selection and combo chaining are essential to conquer challenging levels scattered across the galaxy.\n\nKey Features\n\n• Tile swapping puzzle mechanics  \n• Move limit strategy system  \n• Level progression with increasing difficulty  \n• Combo chaining for score multipliers  \n• Space-themed board designs"
+},
+{
+"id": "space-attack-chicken-invaders",
+"title": "Space Attack Chicken Invaders",
+"iframe": "https://html5.gamedistribution.com/821b4d96858847148ea874f2d3243bb4/",
+"description": "Blast waves of alien poultry using a retro arcade shooter style where players pilot a space turret locked in orbital defense. Timing your shots and managing screen-clearing power-ups push back waves of aggressive chicken invaders descending in intricate patterns. Levels escalate with increasing enemy speed and swarm complexity, demanding sharp reflexes and strategic fire control in a humorous cosmic poultry war.\n\nKey Features\n\n• Orbital turret shooting mechanic  \n• Wave-based enemy swarm patterns  \n• Precision timing and dodging controls  \n• Power-up fueled weapon upgrades  \n• Space-themed poultry invasion setting"
+},
+{
+"id": "space-astro",
+"title": "Space Astro",
+"iframe": "https://html5.gamedistribution.com/31cbe906353e418088e1d2168bef6905/",
+"description": "Pilot a nimble spacecraft through unpredictable cosmic obstacles, relying on precise timing and quick reflexes to navigate each level. Players must master the ship’s thruster controls to survive waves of fast-moving enemies and challenging terrain, advancing through increasingly complex space sectors filled with dynamic hazards. Each stage demands sharper focus and faster reactions to reach the highest score.\n\nKey Features\n\n• Thruster-based spacecraft movement  \n• Reflex-driven obstacle navigation  \n• Progressive difficulty with enemy waves  \n• Scoring system with survival focus  \n• Space-themed level environments"
+},
+{
+"id": "alpha-space-invasion",
+"title": "Alpha Space Invasion",
+"iframe": "https://html5.gamedistribution.com/5974499ff6034af79e5490dfc39a53db/",
+"description": "Pilot advanced spacecraft through waves of alien invaders in this casual arcade shooter. Players rely on dynamic ship maneuvering combined with rapid-fire weapon systems to defend against endless enemy swarms. Survival depends on mastering evasive controls and upgrading firepower while navigating space battle zones. The game gradually increases intensity, challenging casual gamers and younger players alike.\n\nKey Features\n\n• Precision spacecraft maneuvering  \n• Real-time shooting controls  \n• Progressive enemy wave difficulty  \n• Upgradeable weapon systems  \n• Space-themed arcade setting"
+},
+{
+"id": "eg-space-purge",
+"title": "EG Space Purge",
+"iframe": "https://html5.gamedistribution.com/aa30e36ca7ee4c6398a75e2ae0a68450/",
+"description": "Destroy alien fleets in arcade-style shooting battles set in deep space. Navigate a futuristic starship using precision maneuvering and rapid-fire blasters to clear waves of enemies. Each level demands quick reflexes and strategic targeting to survive increasingly complex attack patterns within a galaxy environment.\n\nKey Features\n\n• Ship movement with inertia control  \n• Multi-directional shooting mechanics  \n• Progressive enemy wave complexity  \n• Score multiplier combo system  \n• Space-themed combat arenas"
+},
+{
+"id": "space-speed",
+"title": "Space Speed",
+"iframe": "https://html5.gamedistribution.com/776d859f91b348b49979fee8ecc104a1/",
+"description": "Control a fast-paced spaceship navigating through asteroid fields using quick reflex dodging in this casual browser game. Maneuver with precise thrust controls to avoid collisions while aiming to survive increasingly challenging space environments. Timing your moves carefully unlocks new speed challenges and keeps the intensity rising as you advance through each level.\n\nKey Features\n\n• Precision thrust maneuver controls  \n• Increasing asteroid density challenges  \n• Survival time progression system  \n• Reflex-based speed dodging modes  \n• Outer space navigation setting"
+},
+{
+"id": "eg-space-transport",
+"title": "EG Space Transport",
+"iframe": "https://html5.gamedistribution.com/0a904bb364be419a9441e67b31a7d962/",
+"description": "Pilot cargo ships through increasingly complex space routes to deliver goods successfully. Navigate tight corridors and manage ship speed carefully as you avoid obstacles and maintain your delivery schedule. The game challenges players to master precision timing in a futuristic space transport setting with upgradeable vessel controls and route complexity growing over time.\n\nKey Features\n\n• Precision navigation controls  \n• Progressive route complexity  \n• Time-based delivery challenges  \n• Ship upgrade customization  \n• Sci-fi space cargo setting"
+},
+{
+"id": "slenderman-must-die-dead-space",
+"title": "Slenderman Must Die: DEAD SPACE",
+"iframe": "https://html5.gamedistribution.com/90b2cd310dd04dbfb5e432e7e74cc215/",
+"description": "Navigate eerie corridors while evading Slenderman’s haunting presence in this casual horror challenge. Players rely on stealth and quick reflexes to survive encounters and progress through tense levels with limited visibility. The shifting environment tests spatial awareness as you uncover hidden pathways and avoid deadly traps in the dark.\n\nKey Features\n\n• Stealth-based evasion mechanics  \n• Dynamic level navigation  \n• Reflex-driven survival challenge  \n• Progressive difficulty waves  \n• Horror atmosphere with shadow effects"
+},
+{
+"id": "space-rider",
+"title": "Space Rider",
+"iframe": "https://html5.gamedistribution.com/0e36eda15d2846eeb162671561c4fdd3/",
+"description": "Pilot a nimble spacecraft through dynamic obstacle challenges in this casual arcade title. Master timing and precision as you navigate shifting hazards and collect power-ups to extend your run. Progressively faster levels push reflexes to the limit in a vibrant, cosmic setting that tests endurance and coordination.\n\nKey Features\n\n• Responsive spacecraft controls  \n• Timed obstacle navigation  \n• Increasing level speed increments  \n• Power-up collection system  \n• Colorful space-themed visuals"
+},
+{
+"id": "space-wing",
+"title": "Space Wing",
+"iframe": "https://html5.gamedistribution.com/632c2c54b38d4382b89d6333e25bdbb2/",
+"description": "Pilot a customizable spaceship through progressively challenging asteroid fields, mastering precise navigation and timing to survive. The game focuses on skillful maneuvering and quick reflexes in a dynamic space environment. Players aim to endure increasingly dense asteroid waves while refining control over their craft and reaction speed.\n\nKey Features\n\n• Precision ship navigation controls  \n• Progressive asteroid field difficulty  \n• Reflex-based survival challenge  \n• Score tracking with leaderboard system  \n• Space-themed arcade style setting"
+},
+{
+"id": "space-invaders",
+"title": "Space Invaders",
+"iframe": "https://html5.gamedistribution.com/dabff1f68f094a1d98ad075a2412ac75/",
+"description": "Shoot incoming waves of alien invaders descending in rows, controlling a movable laser cannon at the bottom of the screen. Players time their shots carefully while dodging enemy projectiles to prevent their defenses from being breached. The game’s core mechanic revolves around precise horizontal movement and shooting accuracy under increasing pressure from faster, more complex enemy formations.\n\nKey Features\n\n• Horizontal laser cannon control  \n• Progressive wave attack patterns  \n• Limited shield durability system  \n• Score-based level advancement  \n• Classic arcade sci-fi setting"
+},
+{
+"id": "rise-up-space",
+"title": "Rise Up Space",
+"iframe": "https://html5.gamedistribution.com/0d3b96f812ee4ca4af3059ae823f9c1c/",
+"description": "Navigate a rising barrier by controlling a protective shield that shields a character from bursts of dangerous spikes. Timing your movements precisely is crucial as you adapt the shield’s position to cover gaps in the spike pattern. Progression speeds up with each wave, increasing the challenge in this minimalistic obstacle-avoidance setup.\n\nKey Features\n\n• Shield position control mechanic  \n• Spike pattern recognition challenge  \n• Increasing wave speed progression  \n• Timing-based reflex gameplay  \n• Minimalist abstract visual theme"
+},
+{
+"id": "space-hoops",
+"title": "Space Hoops",
+"iframe": "https://html5.gamedistribution.com/326c213f90ba4995aba6c2bb73433b02/",
+"description": "Launch shots using precise timing and trajectory adjustments to sink hoops in zero gravity environments. Players navigate subtle physics affecting ball arcs and spins, aiming to perfect their shot placement through varied orbital arenas. Scoring hinges on mastering these spatial dynamics, with each level introducing unique hoop arrangements and gravitational pulls.\n\nKey Features\n\n• Gravity influenced shot mechanics  \n• Aiming control with trajectory adjustment  \n• Incremental difficulty with spatial puzzles  \n• Time challenge scoring system  \n• Outer space court designs"
+},
+{
+"id": "space-mission",
+"title": "Space Mission",
+"iframe": "https://html5.gamedistribution.com/ceaebcb9412f46519b21f0fc57d3822d/",
+"description": "Navigate through a series of increasingly complex space-themed challenges by piloting a customizable spacecraft with precision thruster controls. Master the unique onboard navigation system to complete objectives like asteroid maneuvering and docking procedures. Progression involves unlocking enhanced modules that affect ship handling and mission parameters, increasing the difficulty as you advance.\n\nKey Features\n\n• Precision thruster navigation  \n• Customizable spacecraft modules  \n• Asteroid and docking challenges  \n• Unlockable upgrade pathways  \n• Space environment obstacle hazards"
+},
+{
+"id": "attacking-the-space-base",
+"title": "Attacking the Space Base",
+"iframe": "https://html5.gamedistribution.com/d37c2bb49af1473b933771a47ca2cba8/",
+"description": "Control futuristic spacecraft to infiltrate heavily guarded enemy installations in this casual browser title. Navigate precise movement patterns to overcome layered defense turrets while deploying strategic timing to breach space base defenses. Players face waves of automated drones and progressively complex security measures aiming to halt their assault.\n\nKey Features\n\n• Precision spaceship maneuvering  \n• Timed weapon deployment system  \n• Progressive enemy turret wave patterns  \n• Survival mode with escalating difficulty  \n• Sci-fi space station environments"
+},
+{
+"id": "space-ripper",
+"title": "Space Ripper",
+"iframe": "https://html5.gamedistribution.com/5e19ecb374a444e4b1e9da60e789d521/",
+"description": "Rip through cosmic obstacles using an advanced laser cutter in this casual browser game. Players manipulate a precision slicing mechanic to dismantle floating space debris while navigating zero-gravity environments. The goal centers on clearing sequential levels of hazardous objects before they collide with a protected space station.\n\nKey Features\n\n• Precision laser cutting mechanic  \n• Cursor based slicing controls  \n• Increasing debris density challenges  \n• Time attack scoring mode  \n• Sci-fi space debris theme"
+},
+{
+"id": "space-galaxcolory",
+"title": "Space Galaxcolory",
+"iframe": "https://html5.gamedistribution.com/25905a1158364a5fbb81c6efa49187e1/",
+"description": "Navigate colorful space tunnels by matching vibrant star clusters to clear levels in a casual puzzle setup. Players rely on pattern recognition and quick swapping mechanics against time constraints to advance through visually engaging stages. The challenge increases with combo multipliers that enhance scoring opportunities and introduce dynamic obstacles.\n\nKey Features\n\n• Color matching puzzle mechanics  \n• Timed swapping controls  \n• Combo multiplier scoring system  \n• Progressive level difficulty  \n• Space-themed visual design"
+},
+{
+"id": "space-ripper-plastiline",
+"title": "Space Ripper Plastiline",
+"iframe": "https://html5.gamedistribution.com/e65ccd06d4f5481ea22bce7ab31e1223/",
+"description": "Navigate abstract puzzle shapes by cutting and shaping plastiline to clear colorful space obstacles. The core mechanic revolves around molding and slicing clay-like materials under time constraints to progress through increasingly complex stages. Players must carefully sculpt while managing limited moves to achieve optimal clearance in a casual, tactile setting.\n\nKey Features\n\n• Clay molding and slicing mechanic  \n• Touch-based shape manipulation  \n• Timed level completion challenges  \n• Progressive obstacle complexity  \n• Colorful plastiline visual style"
+},
+{
+"id": "space-chasers",
+"title": "Space Chasers",
+"iframe": "https://html5.gamedistribution.com/ad6056a9966c4c1a885cd4ed9e7289bc/",
+"description": "Navigate through cosmic obstacles by piloting a nimble spacecraft in this casual browser game. Players rely on precise maneuvering and timing to avoid hazards and collect rewards while advancing through progressively challenging star fields. The core mechanic revolves around spatial navigation with increasing difficulty pacing designed to test reflex and strategy.\n\nKey Features\n\n• Precision spacecraft control system  \n• Obstacle navigation challenges  \n• Progressive difficulty scaling  \n• Reward collection mechanics  \n• Space-themed navigation environment"
+},
+{
+"id": "discover-the-space",
+"title": "Discover The Space",
+"iframe": "https://html5.gamedistribution.com/6b9bde799af44e25889d94a27435399b/",
+"description": "Navigate through shifting starfields using a precise touch control scheme to align and collect cosmic objects. Players manipulate gravity wells to influence trajectories, aiming to gather rare celestial fragments while avoiding drifting hazards. Progression unlocks increasingly complex spatial puzzles that test timing and strategic planning across the cosmic environment.\n\nKey Features\n\n• Gravity manipulation mechanic  \n• Touch-based trajectory control  \n• Increasingly complex spatial puzzles  \n• Fragment collection objectives  \n• Cosmic environment visuals"
+},
+{
+"id": "space-purge",
+"title": "Space Purge",
+"iframe": "https://html5.gamedistribution.com/108c7157c07445bd84a425ae25d30fdc/",
+"description": "Blast waves of cosmic debris to clear hazardous orbits, using precise timing and pattern recognition in this casual arcade experience. Players navigate varied space hazards through increasingly complex wave patterns, aiming to maintain clean and stable sectors. Rapid reflexes and adapting to shifting debris clusters form the core of the challenge.\n\nKey Features\n\n• Orbital debris clearing mechanic  \n• Tap-based timing controls  \n• Progressive wave difficulty scaling  \n• Score multiplier combo system  \n• Space-themed visual design"
+},
+{
+"id": "elevator-space",
+"title": "ELEVATOR SPACE",
+"iframe": "https://html5.gamedistribution.com/040051f8442d4593a329a3131d5d31d4/",
+"description": "Navigate a vertical space tower by timing elevator movements to reach higher floors while avoiding spatial hazards. The game blends platform timing with elevator control mechanics to challenge players’ reflexes and precision. Progress through increasingly complex shaft layouts where strategic elevator use is essential to overcome obstacles and advance.\n\nKey Features\n\n• Elevator timing and control  \n• Hazard avoidance challenges  \n• Progressive floor layouts  \n• Reflex-based platforming  \n• Space-themed vertical tower"
+},
+{
+"id": "space-blaze",
+"title": "Space Blaze",
+"iframe": "https://html5.gamedistribution.com/a1c4858cc2db451bb97c8e926257b49a/",
+"description": "Navigate fast-paced space obstacles using precise timing and reflexes in this casual arcade challenge. Players guide a blazing trail through shifting cosmic barriers, mastering momentum-based movement to survive increasingly complex sequences. Each level tests adaptive control and quick decision-making as colorful space visuals emphasize rapid, rhythmic gameplay.\n\nKey Features\n\n• Momentum-driven obstacle navigation  \n• Tap and swipe control inputs  \n• Progressive level complexity  \n• Time attack scoring system  \n• Neon space-themed visuals"
+},
+{
+"id": "space-tunnel",
+"title": "Space Tunnel",
+"iframe": "https://html5.gamedistribution.com/5f7a94bf64f84d73a2245258a350a2b1/",
+"description": "Navigate a fast-paced tunnel maze by skillfully adjusting your speed and direction to avoid obstacles and collect points. The game challenges players to master precise timing and reflexes as the tunnel's layout shifts dynamically through each level. Progression depends on surviving increasingly complex sequences, demanding focus and quick decision-making.\n\nKey Features\n\n• Dynamic tunnel obstacle patterns  \n• Speed control and directional input  \n• Increasingly complex level design  \n• Score collection and timing challenges  \n• Futuristic sci-fi corridor setting"
+},
+{
+"id": "space-zap",
+"title": "Space Zap!",
+"iframe": "https://html5.gamedistribution.com/d8473e2847244587b898b21a24c72e83/",
+"description": "Zap approaching threats in rapid-fire sequences, aiming to clear waves of glowing targets while managing a limited energy shield. Players react with precise timing to survive escalating patterns of neon enemies in a vibrant, abstract space arena. The challenge lies in mastering quick reflexes and scoring high before the shield depletes.\n\nKey Features\n\n• Rapid target shooting mechanic  \n• Energy shield durability system  \n• Increasing enemy wave difficulty  \n• Score-based level progression  \n• Neon-lit space arena setting"
+},
+{
+"id": "space-cord",
+"title": "Space Cord",
+"iframe": "https://html5.gamedistribution.com/4d3395d4f4554f23bb727ae83d6f9036/",
+"description": "Navigate a twisting network of electrified cords to link matching nodes while managing limited moves and increasing puzzle difficulty. The core mechanic revolves around drawing connected pathways without crossing lines, requiring strategic planning under a time constraint. Challenging levels demand careful spatial awareness and puzzle-solving, all set in a sleek, neon-infused digital environment.\n\nKey Features\n\n• Line-drawing connection puzzles  \n• Limited move count challenge  \n• Increasing puzzle complexity  \n• Time-based scoring system  \n• Neon digital circuit theme"
+},
+{
+"id": "space-frontier-online",
+"title": "Space Frontier Online",
+"iframe": "https://html5.gamedistribution.com/66345bcc402140bab771716e0a1cd5d7/",
+"description": "Navigate orbital stations and manage resources to expand your space presence in this casual online game. Players engage with a dynamic upgrading system where spacecraft components evolve progressively. Exploring interstellar environments adds depth to the journey, while managing limited supplies challenges strategic planning. The emphasis on modular ship building supports varied playstyles and gradual advancement.\n\nKey Features\n\n• Modular spacecraft component upgrades  \n• Resource management and allocation controls  \n• Progressive interstellar exploration levels  \n• Online cooperative and competitive modes  \n• Space station command interface"
+},
+{
+"id": "space-jack",
+"title": "Space Jack",
+"iframe": "https://html5.gamedistribution.com/0bd2344d87d9460db29a68123ec1b923/",
+"description": "Pilot a colorful spaceship through fast-paced obstacle courses, avoiding hazards while collecting glowing orbs to boost your score in space-themed stages. The game features intuitive tilt controls for smooth navigation. Players aim to master timing and precision as they progress through increasingly challenging levels with dynamic environments.\n\nKey Features\n\n• Tilt-based flight control  \n• Orb collection scoring system  \n• Timed obstacle courses  \n• Progressive difficulty scaling  \n• Space-themed visual design"
+}
+]
+}

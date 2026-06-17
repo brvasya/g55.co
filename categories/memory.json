@@ -205,12 +205,6 @@
 "description": "Match pairs of cards by flipping them using memory and observation to reveal identical symbols in each round. The game challenges players to remember card positions across multiple sets, increasing difficulty as new layouts unlock. Casual players can sharpen their recall skills by progressing through grid sizes and timed modes for added pressure.\n\nKey Features\n\n• Classic card matching mechanic  \n• Mouse or touch card flipping controls  \n• Gradual grid size difficulty scaling  \n• Timed challenge mode option  \n• Simple visual card design"
 },
 {
-"id": "space-memory",
-"title": "Space Memory",
-"iframe": "https://html5.gamedistribution.com/0edf2b36d839482898b2c7687428ac60/",
-"description": "Match pairs of cosmic symbols to unlock hidden sequences in this memory challenge. The game tests pattern recognition with increasing grid sizes, requiring players to recall star clusters and planetary icons. Completing levels within limited moves advances through abstract celestial stages, where timing and precision play crucial roles in overcoming more complex arrangements.\n\nKey Features\n\n• Symbol matching memory mechanic  \n• Sequential pattern recall controls  \n• Progressive grid size challenge  \n• Move-limited level design  \n• Cosmic-themed visual elements"
-},
-{
 "id": "army-vehicles-and-aircraft-memory",
 "title": "Army Vehicles And Aircraft Memory",
 "iframe": "https://html5.gamedistribution.com/5c96d186514b4cae8a43510aaa2a9d3b/",
@@ -305,12 +299,6 @@
 "title": "City Transport Memory",
 "iframe": "https://html5.gamedistribution.com/0e42d0a4c19947ff9b14e3c5648c25b0/",
 "description": "Match pairs of urban icons and landmarks to sharpen memory skills in this casual puzzle game. Players flip cards to find matching city transport symbols, relying on pattern recognition to clear each level. The core mechanic revolves around timed recall and attention, challenging users to progress through increasingly complex card layouts suited for all ages.\n\nKey Features\n\n• classic card matching system  \n• timed memory challenge  \n• progressive difficulty stages  \n• simple point scoring mechanism  \n• urban transit themed icons"
-},
-{
-"id": "outer-space-memory",
-"title": "Outer Space Memory",
-"iframe": "https://html5.gamedistribution.com/b0b08d973c76410a8a6486ddf2dd0e5c/",
-"description": "Match pairs of cosmic symbols to test and sharpen your memory skills in this outer space themed puzzle. Players flip cards to uncover matches, navigating through levels with increasing complexity that demand careful recall and strategy. Timing and pattern recognition form the core challenge as you strive to clear each stage efficiently.\n\nKey Features\n\n• Card flip memory mechanic  \n• Progressive level difficulty  \n• Timed match challenges  \n• Pattern recognition tasks  \n• Space-themed visual elements"
 },
 {
 "id": "memory-with-flags",

@@ -480,6 +480,11 @@
 "description": "Sorting games focus on arranging elements where players organize objects, reorder sequences, and group items through logic driven interaction mechanics. These experiences emphasize structure and placement similar to <a href='/?c=stack'>stack games</a>, requiring attention to order and visual alignment. Gameplay centers on organizing elements correctly and progressing through increasingly complex arrangements."
 },
 {
+"id": "space",
+"name": "Space",
+"description": ""
+},
+{
 "id": "sports",
 "name": "Sports",
 "description": "Sports games focus on competing in structured athletic activities, controlling player actions, and achieving victory through skill based performance mechanics. Players pass, shoot, aim, and coordinate movements while progressing through match scenarios and score driven challenges across different sports environments. Competitive gameplay connects to team based action in <a href='/?c=soccer'>soccer games</a>, court based encounters in <a href='/?c=basketball'>basketball games</a>, and field strategy challenges across <a href='/?c=football'>football games</a>. Cue based precision challenges appear in <a href='/?c=pool'>pool games</a> where players line up shots and control angles to sink balls into pockets across classic billiards tables. Precision focused mechanics also appear in <a href='/?c=golf'>golf games</a> while timing driven rallies define <a href='/?c=tennis'>tennis games</a>. These browser sports experiences emphasize competitive progression loops, skill execution systems, and match based gameplay pacing suited for engaging online play."

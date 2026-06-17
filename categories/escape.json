@@ -325,12 +325,6 @@
 "description": "Unlock perimeter fences and navigate guard patrols in a multiplayer setting where timing and stealth are vital to slipping past security. Players employ quick decision-making to explore interconnected cells and corridors, aiming to break free before being detected. Dynamic player interaction and threat levels increase tension and require strategic movement.\n\nKey Features\n\n• Stealth-based evasion mechanics  \n• Multiplayer escape coordination  \n• Time-sensitive alert system  \n• Progressive map unlocking  \n• Prison-themed environment"
 },
 {
-"id": "space-room-escape",
-"title": "Space Room Escape",
-"iframe": "https://html5.gamedistribution.com/ceb597364ddc4bf8a34734ac6e51c95c/",
-"description": "Explore intricate puzzles by interacting with objects and clues to unlock new areas in a confined space setting. The core mechanic revolves around discovering hidden codes and manipulating environmental elements to escape challenging locked rooms. Players must carefully analyze details under pressure, using observation and logic to progress through increasingly complex stages designed for casual players and younger audiences.\n\nKey Features\n\n• Environmental puzzle interaction  \n• Code deciphering mechanics  \n• Progressive locked room challenges  \n• Point-and-click exploration control  \n• Minimalist sci-fi room design"
-},
-{
 "id": "cyber-highway-escape",
 "title": "Cyber Highway Escape",
 "iframe": "https://html5.gamedistribution.com/eb01fd92038d4ab9b4722aba898855ea/",
@@ -449,12 +443,6 @@
 "title": "Help imposter escape",
 "iframe": "https://html5.gamedistribution.com/8216f403c4e44efa8b1a81dc56dcf568/",
 "description": "Navigate confined spaces as the imposter while avoiding detection by opponents in tense escape sequences. The core mechanic hinges on stealth movement and timing to slip through checkpoints unnoticed. Each level challenges players to outwit AI pursuers in dimly lit environments. Progression unlocks new routes and subtle distractions to aid your getaway.\n\nKey Features\n\n• Stealth based movement controls  \n• AI detection avoidance system  \n• Level progression through checkpoints  \n• Tactical distraction tools  \n• Dark, suspenseful escape settings"
-},
-{
-"id": "space-escape",
-"title": "Space Escape",
-"iframe": "https://html5.gamedistribution.com/090ccd305dd443dba05ef6b5b2df87fe/",
-"description": "Navigate shifting corridors and solve complex puzzles to break out of hazardous environments in this escape game. Players interact with environmental clues and mechanism-based locks to progress through increasingly difficult stages. The gameplay emphasizes careful observation and timing, challenging players to find their way to freedom while managing limited resources under pressure.\n\nKey Features\n\n• Interactive puzzle mechanism design  \n• Point-and-click control interface  \n• Progressive puzzle difficulty curve  \n• Time-sensitive escape challenges  \n• Sci-fi themed atmospheric levels"
 },
 {
 "id": "one-escape",
@@ -847,12 +835,6 @@
 "description": "Solve intricate puzzles by searching for hidden clues and manipulating objects within locked rooms. This escape game relies on observation and critical thinking to unlock doors and progress through consecutive environments, challenging players to decipher patterns and use interactive items strategically. The setting involves confined spaces where every detail can lead to freedom.\n\nKey Features\n\n• Object interaction puzzles  \n• Logical pattern decoding  \n• Sequential room unlocking  \n• Hint system assistance  \n• Indoor confined environment"
 },
 {
-"id": "space-prison-escape-2",
-"title": "Space Prison Escape 2",
-"iframe": "https://html5.gamedistribution.com/1a4417c79ee64dcea8fd131df207c08e/",
-"description": "Navigate complex puzzles and secure your freedom by solving cryptic codes and unlocking hidden compartments in a sci-fi prison environment. This escape game challenges you to use observation and logic to progress through interconnected cells and security systems. Each section introduces varied puzzle elements that test your ability to decipher clues and manipulate futuristic locks.\n\nKey Features\n\n• Logic puzzle and code cracking  \n• Interactive lock manipulation  \n• Multi-stage cell escape progression  \n• Clue discovery and inventory use  \n• Sci-fi prison setting ambiance"
-},
-{
 "id": "escape-point-4",
 "title": "Escape Point 4",
 "iframe": "https://html5.gamedistribution.com/c7f45138b721479f86eca71e3edda98b/",
@@ -863,12 +845,6 @@
 "title": "Temple Escape",
 "iframe": "https://html5.gamedistribution.com/d94ebd40d5c049759d77737a835eb2f1/",
 "description": "Navigate intricate temple corridors using agile movement mechanics to solve environmental puzzles and uncover hidden traps. Players must carefully time actions and decipher ancient markings to progress through each chamber, aiming to escape while avoiding deadly obstacles. The game’s focus on rhythm-based trap evasion offers a tense yet approachable experience for casual players.\n\nKey Features\n\n• Rhythm-based trap evasion  \n• Environmental puzzle interaction  \n• Time-sensitive movement challenges  \n• Ancient artifact discovery system  \n• Multi-level temple progression"
-},
-{
-"id": "space-prison-escape",
-"title": "Space Prison Escape",
-"iframe": "https://html5.gamedistribution.com/b3a7087f139b46969d449934984357a7/",
-"description": "Navigate complex prison modules using stealth and timed movements to unlock corridors and evade guards in this sci-fi escape challenge. Players rely on precise interactions with high-tech security systems to progress through levels inside a space detention center. The core gameplay revolves around manipulating futuristic locks and crafting escape routes while avoiding capture.  \n\nKey Features\n\n• Security system hacking puzzles  \n• Stealth-based movement controls  \n• Timed escape challenges  \n• Multi-level prison layouts  \n• Sci-fi environment elements"
 },
 {
 "id": "aeroplane-escape",

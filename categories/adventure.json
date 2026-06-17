@@ -481,12 +481,6 @@
 "description": "Navigate challenging obstacle courses with precise backflips and timing in this physics-based platformer. Players must master aerial flips and momentum to reach checkpoints and avoid hazards. The game emphasizes skillful mid-air control and stage progression through increasingly complex level designs, offering casual players a simple yet engaging agility challenge.\n\nKey Features\n\n• Physics based flipping mechanic  \n• Timing sensitive movement controls  \n• Increasing difficulty stage progression  \n• Checkpoint system for retries  \n• Colorful obstacle course environments"
 },
 {
-"id": "flip-space-love-adventure",
-"title": "Flip Space Love Adventure",
-"iframe": "https://html5.gamedistribution.com/11a05de5646b4c4bb695d7b0fbc9e8f3/",
-"description": "Navigate shifting gravity fields to explore puzzling cosmic environments in this adventure game. Players manipulate spatial flips to realign platforms and unlock pathways, challenging their spatial awareness and timing. Progression revolves around mastering gravity inversion to reach elusive objectives scattered throughout each level.\n\nKey Features\n\n• Gravity inversion puzzle mechanics  \n• Spatial platform manipulation controls  \n• Increasing difficulty in level design  \n• Unlockable pathway challenges  \n• Cosmic-themed environment aesthetics"
-},
-{
 "id": "shadoworld-adventure",
 "title": "Shadoworld Adventure",
 "iframe": "https://html5.gamedistribution.com/7ab94d63e147481f898896b4b385fc6f/",
@@ -623,12 +617,6 @@
 "title": "Super Knight Adventure",
 "iframe": "https://html5.gamedistribution.com/c85a719fe1424792bd8329c22e958006/",
 "description": "Explore sprawling environments as you control a valiant knight wielding a trusty sword to overcome varied enemy types and platforming challenges. The gameplay centers on strategic melee combat combined with precise timing to navigate through levels filled with traps and hidden secrets. Defeating foes and unlocking new areas drives progression in this classic adventure quest.\n\nKey Features\n\n• Sword-based melee combat  \n• Responsive player movement controls  \n• Progressive enemy difficulty scaling  \n• Hidden item collection system  \n• Medieval fantasy environment design"
-},
-{
-"id": "space-adventure",
-"title": "Space Adventure",
-"iframe": "https://html5.gamedistribution.com/bd4f95b74b914def91eca9733697934f/",
-"description": "Pilot customizable starships through vast cosmic sectors using real-time navigation controls, avoiding unpredictable asteroid fields. Collect rare space artifacts while managing energy reserves in a procedurally generated galaxy. Survive hostile encounters and uncover hidden routes as you aim to maximize your exploration score.\n\nKey Features\n\n• Real-time starship piloting  \n• Energy reserve management system  \n• Procedural galaxy map exploration  \n• Dynamic asteroid field navigation  \n• Artifact collection progression"
 },
 {
 "id": "mineblock-dragon-adventure",
@@ -809,12 +797,6 @@
 "title": "Bear Chase Game Adventure",
 "iframe": "https://html5.gamedistribution.com/9b2574e583ae43ac871add59d7b151b9/",
 "description": "Navigate dense forest landscapes using stealth movement in Bear Chase Game Adventure, an exploration-focused quest where players track elusive bears through shifting environments. Use timing and pathfinding skills to outmaneuver wildlife obstacles and complete each tracking stage. Progression unfolds through increasingly complex routes, challenging player reflexes amid natural wilderness settings.\n\nKey Features\n\n• Stealth based tracking mechanic  \n• Precision pathfinding controls  \n• Increasing route complexity  \n• Timed challenge stages  \n• Forest wildlife encounter system"
-},
-{
-"id": "panda-space-adventure",
-"title": "Panda Space Adventure",
-"iframe": "https://html5.gamedistribution.com/2698b99bb5d345c7a4bb443a573621cd/",
-"description": "Pilot a nimble panda spacecraft through cosmic obstacles and resource collection in this adventure game. Navigate asteroid fields using responsive thrust controls to complete challenging space missions. As levels increase, manage fuel and avoid hazards to progress deeper into unknown sectors of the galaxy.\n\nKey Features\n\n• Precision spacecraft thrust mechanics  \n• Resource gathering in hazardous zones  \n• Progressive asteroid field complexity  \n• Fuel management and navigation controls  \n• Cosmic space exploration setting"
 },
 {
 "id": "underwater-cycling-adventure",
@@ -1013,12 +995,6 @@
 "title": "Dot Adventure",
 "iframe": "https://html5.gamedistribution.com/b23575943f1a491fa1c7fdca97002cc3/",
 "description": "Navigate pixelated obstacles using precise timing to guide a solitary dot through varied levels. The core mechanic revolves around tight control and trajectory planning as you progress through increasingly complex challenges. Players aim to reach the endpoint while avoiding hazards that test reflexes and strategic movement in each stage.\n\nKey Features\n\n• Precise trajectory control system  \n• Timing-based obstacle navigation  \n• Incremental level difficulty ramp  \n• Checkpoint respawn mechanics  \n• Minimalist pixel art style"
-},
-{
-"id": "space-adventure-pinball",
-"title": "Space Adventure Pinball",
-"iframe": "https://html5.gamedistribution.com/58a6922f7ccd465d89f2c00c4cf01b9a/",
-"description": "Launch flippers to propel a glowing orb through cosmic bumpers and winding lanes in this arcade pinball challenge. Players manipulate the momentum and angle of shots to hit targets scattered across futuristic tables inspired by outer space. Success depends on chaining combos and activating multipliers to maximize scores and unlock increasingly complex layouts.\n\nKey Features\n\n• Flipper timing and aim mechanics  \n• Combo-based scoring system  \n• Progressive table complexity  \n• Multiplier activation modes  \n• Space-themed pinball elements"
 },
 {
 "id": "aladdin-adventure",

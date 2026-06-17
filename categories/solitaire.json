@@ -295,12 +295,6 @@
 "description": "Arrange cards using strategic stacking sequences in this classic solitaire challenge, where each move follows traditional freecell rules involving four open cells for temporary card storage. Players work through a shuffled deck aiming to build foundation piles from Ace to King according to suit, testing their skill at managing limited freecell mobility to solve complex layouts efficiently.\n\nKey Features\n\n• Four freecell temporary slots  \n• Card sorting by suit and rank  \n• Strategic use of empty columns  \n• Incremental difficulty in layouts  \n• Classic card deck presentation"
 },
 {
-"id": "spaces-solitaire",
-"title": "Spaces Solitaire",
-"iframe": "https://html5.gamedistribution.com/17225960b791439b885effd91a6d62b4/",
-"description": "Arrange cards by suit and rank to clear the tableau in this solitaire variant that challenges pattern recognition and strategic sequencing. Players build descending stacks with alternating colors while managing limited moves to reveal hidden cards, enhancing classic solitaire depth. Unique nested stack mechanic demands careful planning to unlock full clearance, appealing to casual gamers and younger players alike.\n\nKey Features\n\n• Classic alternating color stacking  \n• Limited move management system  \n• Nested stack reveal mechanic  \n• Progressive tableau unlocking  \n• Casual-friendly card visuals"
-},
-{
 "id": "solitaire-match",
 "title": "Solitaire Match",
 "iframe": "https://html5.gamedistribution.com/ea31cf7a9ecf41e3a7d8d7bc6d57d447/",
