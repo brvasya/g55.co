@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "photo-block-journey",
+"title": "Photo Block Journey",
+"iframe": "https://html5.gamedistribution.com/1299bfbb40384fbea821d39f8853f925/",
+"description": "Navigate intricate puzzle grids by aligning colorful photo blocks to clear levels and advance through increasingly complex challenges. The core mechanic revolves around strategic block matching within a vibrant casual puzzle setting. Players aim to achieve high scores by efficiently planning moves under limited turns or time constraints, with new board layouts introducing fresh tactical puzzles.\n\nKey Features\n\n• Strategic block matching mechanic  \n• Grid-based puzzle navigation  \n• Turn and time-limited challenges  \n• Progressive level difficulty scaling  \n• Colorful photo block visual theme"
+},
+{
 "id": "hyper-block-tetris-party",
 "title": "Hyper Block Tetris Party",
 "iframe": "https://html5.gamedistribution.com/3a607b721dab4cd49dfaad2ac5aa65b0/",
