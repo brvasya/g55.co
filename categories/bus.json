@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mountain-bus-driver",
+"title": "Mountain Bus Driver",
+"iframe": "https://html5.gamedistribution.com/78056fce3de343b4bdebeaece5a65ad7/",
+"description": "Navigate precarious mountain roads while maneuvering a rugged bus through twisting paths with realistic vehicle handling physics. Balance speed and control to avoid steep cliffs and deliver passengers safely to high-altitude destinations. The game challenges players to master incline navigation and maintain bus stability across varied terrain. Tight turns and gravity effects add to the driving complexity.\n\nKey Features\n\n• Physics-driven bus handling  \n• Incline and cliff navigation  \n• Terrain-based stability challenges  \n• Time-based passenger delivery  \n• Mountain road environments"
+},
+{
 "id": "bus-escape-clear-jam",
 "title": "Bus Escape: Clear Jam",
 "iframe": "https://html5.gamedistribution.com/9fc92d0c20434f779cfb934aa7e5fa33/",

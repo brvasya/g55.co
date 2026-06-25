@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snakelands-io",
+"title": "SnakeLands.io",
+"iframe": "https://html5.gamedistribution.com/8ca616dfb6a048ecaa0134dca416405e/",
+"description": "Navigate vibrant arenas as a growing serpent, slithering strategically to collect glowing orbs and outmaneuver rivals. The core mechanic revolves around controlling smooth snake movement to expand length while avoiding collisions that end your run. Quick reflexes and tactical positioning shape progression in a dynamic multiplayer environment, offering an evolving survival challenge.\n\nKey Features\n\n• Fluid directional snake control  \n• Orb collection length growth  \n• Collision avoidance challenges  \n• Multiplayer arena survival mode  \n• Colorful segmented snake design"
+},
+{
 "id": "push-io",
 "title": "Push.io",
 "iframe": "https://html5.gamedistribution.com/4888156f33814739a696e11b32556159/",

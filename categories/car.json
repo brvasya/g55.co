@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "cars-vs-zombies",
+"title": "Cars vs Zombies",
+"iframe": "https://html5.gamedistribution.com/837f9a9ab7694e7eaaee0824052425a8/",
+"description": "Navigate fast vehicles through zombie-infested streets, using strategic driving and dodging skills to survive waves of undead attackers. Players must manage unique vehicle controls while avoiding or smashing zombies to progress, blending casual racing with survival elements in an urban post-apocalyptic setting.\n\nKey Features\n\n• Vehicle collision attack system  \n• Responsive driving controls  \n• Increasing zombie wave difficulty  \n• Survival endurance mode  \n• Urban apocalypse backdrop"
+},
+{
 "id": "cartoon-cars-spot-the-difference",
 "title": "Cartoon Cars Spot the Difference",
 "iframe": "https://html5.gamedistribution.com/18bd46043fa74cb2ac2d2c8b85a37a77/",
