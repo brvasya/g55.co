@@ -383,22 +383,19 @@ foreach ($items as $item) {
     if (isset($seenIdsInRun[$id])) continue;
     $seenIdsInRun[$id] = true;
 
-    $outPath = rtrim($cdnDir, '/') . '/' . $id . '.png';
-    $thumbExists = is_file($outPath) && filesize($outPath) > 0;
-    $isExistingId = isset($existingIds[$id]);
-
-    if ($isExistingId && $thumbExists) {
+    if (isset($existingIds[$id])) {
         $skippedExistingId++;
         continue;
     }
 
-    if (!$isExistingId && $thumbExists) {
+    $outPath = rtrim($cdnDir, '/') . '/' . $id . '.png';
+    if (is_file($outPath) && filesize($outPath) > 0) {
         $skippedExistingThumb++;
         continue;
     }
 
     $iframe = pick_iframe($item);
-    if (!$isExistingId && $iframe === '') continue;
+    if ($iframe === '') continue;
 
     $assetUrl = pick_asset_512x384($item);
     if ($assetUrl === '') {
@@ -451,18 +448,16 @@ foreach ($items as $item) {
 
     $created++;
 
-    if (!$isExistingId) {
-        $publishPages[] = [
-            "id" => $id,
-            "title" => $title,
-            "iframe" => $iframe,
-            "description" => ""
-        ];
-    }
+    $publishPages[] = [
+        "id" => $id,
+        "title" => $title,
+        "iframe" => $iframe,
+        "description" => ""
+    ];
 
     $results[] = [
         "id" => $id,
-        "status" => $isExistingId ? "repaired_missing_thumbnail" : "created_thumbnail",
+        "status" => "created_thumbnail",
         "thumb" => $outPath,
         "asset" => $assetUrl
     ];
