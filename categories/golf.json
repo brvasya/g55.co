@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "tiny-golf-king",
+"title": "Tiny Golf King",
+"iframe": "https://html5.gamedistribution.com/4b94472f98f442339ca0eb5312950482/",
+"description": "Chip shots navigate miniature golf courses with precision aiming, testing timing and spatial judgment to sink the ball in fewer strokes. Players tackle increasingly complex holes featuring varied obstacles and terrain layouts that demand strategic shot planning. Smooth mouse or tap controls guide the ball’s trajectory as the game challenges accuracy and stroke efficiency across compact course settings.\n\nKey Features\n\n• Precision aiming mechanic  \n• Stroke count challenge system  \n• Varied obstacle course layouts  \n• Intuitive mouse and tap controls  \n• Miniature golf theme courses"
+},
+{
 "id": "mini-golf-battle",
 "title": "Mini Golf Battle",
 "iframe": "https://html5.gamedistribution.com/f13a0ab3316c4be8b273610a5f2c872c/",
