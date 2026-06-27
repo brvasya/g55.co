@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "moto-race-city",
+"title": "Moto Race City",
+"iframe": "https://html5.gamedistribution.com/ee9daf29916348fb8f4450f2c387bf6a/",
+"description": "Race nimble motorcycles through vibrant city streets, mastering tight turns and accelerating through dynamic urban environments. The game centers on responsive bike handling and navigating progressively complex road layouts while avoiding obstacles. Players aim to complete each stage efficiently, competing against time and refining their riding skills on detailed city tracks.\n\nKey Features\n\n• Responsive motorcycle control system  \n• Time-based stage progression  \n• Obstacle avoidance mechanics  \n• Multiple urban track environments  \n• Upgradeable speed and handling stats"
+},
+{
 "id": "boat-game-racing-simulator-3d",
 "title": "Boat Game: Racing Simulator 3D",
 "iframe": "https://html5.gamedistribution.com/f4b1cfeb63274fcd9e11df58a55c72ee/",
