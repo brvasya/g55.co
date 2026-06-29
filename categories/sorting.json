@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "magic-water-sort-color-puzzle",
+"title": "Magic Water Sort: Color Puzzle",
+"iframe": "https://html5.gamedistribution.com/084a14d3019743be83ea7e97bba261f3/",
+"description": "Sort colored liquids by pouring them between tubes to group matching shades together. Players manipulate varying tube sizes and carefully sequence moves to clear all colors without mixing. Strategic planning is crucial as the puzzle challenges increase in complexity, testing logic and patience through multiple levels that escalate difficulty.\n\nKey Features\n\n• color matching sorting mechanic  \n• drag-and-drop liquid transfer control  \n• progressive level complexity scaling  \n• unlimited undo move option  \n• casual glass tube puzzle setting"
+},
+{
 "id": "food-sort-puzzle",
 "title": "Food Sort Puzzle",
 "iframe": "https://html5.gamedistribution.com/a33f22c5bbbc4a0e9a5c6b3cfc2f5288/",
