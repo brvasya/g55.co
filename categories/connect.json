@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "summer-onet-connect",
+"title": "Summer Onet Connect",
+"iframe": "https://html5.gamedistribution.com/57dccdd922f146b6be9171c5041e810f/",
+"description": "Match identical tiles by quickly spotting connecting paths in a relaxed grid puzzle combining pattern recognition and strategic clearance. Players focus on uncovering pairs through a path-linking system, advancing through increasingly complex layouts while managing limited moves. The game emphasizes visual pairing and spatial logic with a bright, summer-inspired interface.\n\nKey Features\n\n• Path-linking tile matching  \n• Click and drag control scheme  \n• Increasing layout complexity  \n• Limited move strategic challenge  \n• Vibrant seasonal tile design"
+},
+{
 "id": "connect-the-dots-color-lines",
 "title": "Connect the Dots - Color Lines",
 "iframe": "https://html5.gamedistribution.com/6d2c333e23f84f8c9e3d531fada91186/",

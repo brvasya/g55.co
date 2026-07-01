@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "sweet-match",
+"title": "Sweet Match",
+"iframe": "https://html5.gamedistribution.com/d54d5b9cc9ee42f6b51df68efee2259a/",
+"description": "Match colorful candies by swapping tiles to clear the board and reach target scores. Players solve increasingly complex puzzles using pattern recognition and tile alignment in a vibrant casual setting. Levels introduce limited moves and special candy combos that challenge timing and strategy for achieving high scores.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Pattern matching control scheme  \n• Increasing move-limited challenges  \n• Special candy combo effects  \n• Bright casual puzzle design"
+},
+{
 "id": "drag-match-maze-tile",
 "title": "DRAG & Match Maze - TILE",
 "iframe": "https://html5.gamedistribution.com/3671480c01774d2f96686228237d4121/",

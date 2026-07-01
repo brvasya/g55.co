@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "racing-in-city",
+"title": "Racing in City",
+"iframe": "https://html5.gamedistribution.com/670fce13db0d4edbb396fa155db80f11/",
+"description": "Navigate urban streets with precision vehicle control in this casual racing challenge. Players steer compact cars through city layouts, mastering tight turns and accelerating to beat time limits on varied street courses. Progression involves upgrading vehicle stats to improve handling and speed, while avoiding obstacles and traffic adds to the driving strategy.\n\nKey Features\n\n• Precision car steering mechanics  \n• Timed urban circuit challenges  \n• Vehicle upgrade system  \n• Obstacle avoidance dynamics  \n• City street racing environments"
+},
+{
 "id": "moto-race-city",
 "title": "Moto Race City",
 "iframe": "https://html5.gamedistribution.com/ee9daf29916348fb8f4450f2c387bf6a/",
