@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "cute-animal-world",
+"title": "Cute Animal World",
+"iframe": "https://html5.gamedistribution.com/2618b45729854f8cbdf0616f8f175702/",
+"description": "Match adorable creatures by swapping colorful tiles to complete puzzles and clear levels. The game challenges players with increasing complexity through limited moves and combo mechanics, making each stage a unique test of pattern recognition. Collect rewards and unlock new puzzles as you advance in this casual, animal-themed adventure.\n\nKey Features\n\n• Tile swapping matching system  \n• Limited move puzzle challenges  \n• Progressive level unlocking  \n• Combo chain scoring mechanics  \n• Animal-themed visual design"
+},
+{
 "id": "drop-animals",
 "title": "Drop Animals",
 "iframe": "https://html5.gamedistribution.com/56f1b5e636354b24a39f4c0845af5dd2/",

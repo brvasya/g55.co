@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "world-wars-tanks",
+"title": "World Wars - Tanks",
+"iframe": "https://html5.gamedistribution.com/7fd03dcfe17541c9a7749c50dcfe25de/",
+"description": "Drive armored tanks across strategic battlefields where maneuvering and positioning are key to overcoming enemy forces. Engage with vehicle-based combat that challenges your timing and shot accuracy while navigating different terrain layouts. Progress through diverse missions that test adaptability and shooting precision in realistic tank battles aimed at controlling territory.\n\nKey Features\n\n• Tank movement with physics-based controls  \n• Player targeting and firing mechanics  \n• Mission progression with increasing difficulty  \n• Terrain-influenced combat scenarios  \n• Historical-themed armored vehicle warfare"
+},
+{
 "id": "magic-brick-wars",
 "title": "Magic Brick Wars",
 "iframe": "https://html5.gamedistribution.com/a9964948ad434acfb106811d323e6464/",

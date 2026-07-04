@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "steal-a-fish",
+"title": "Steal A Fish",
+"iframe": "https://html5.gamedistribution.com/d9afb8cc970c48c4b7cacef65a5aef61/",
+"description": "Sneak through aquatic environments to grab elusive fish while avoiding detection using stealth movement and timing. Players must carefully navigate underwater obstacles and shifting currents to successfully snatch fish without alarming nearby creatures. The challenge grows as players unlock new areas and encounter different fish behaviors, testing precision and strategy in each level.\n\nKey Features\n\n• Stealth-based movement mechanic  \n• Timing-sensitive interaction system  \n• Progressive underwater level design  \n• Fish evasion AI patterns  \n• Subtle aquatic environment effects"
+},
+{
 "id": "fishing-catch-the-secret-brainrot",
 "title": "Fishing: Catch the Secret Brainrot",
 "iframe": "https://html5.gamedistribution.com/87b1d0b74a5b419db493e523f07644d0/",

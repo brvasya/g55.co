@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "hexa-arrows-puzzle",
+"title": "Hexa Arrows Puzzle",
+"iframe": "https://html5.gamedistribution.com/e09153d93e634528ab452c266285b8b4/",
+"description": "Match and rotate colored arrows to solve intricate hexagonal puzzles in this casual brain teaser. Players manipulate arrow patterns to clear levels with increasing complexity, focusing on spatial arrangement and pattern recognition. The challenge lies in aligning directional arrows within hex tiles to complete each stage’s unique configuration, offering engaging puzzle progression for teens and kids.\n\nKey Features\n\n• Hexagonal grid rotation mechanic  \n• Directional arrow matching system  \n• Increasing pattern complexity levels  \n• Time-limited challenge mode  \n• Vibrant geometric visual style"
+},
+{
 "id": "power-puzzle",
 "title": "Power Puzzle",
 "iframe": "https://html5.gamedistribution.com/d4a7c2d0d8914a888912ca21d0e20ae7/",

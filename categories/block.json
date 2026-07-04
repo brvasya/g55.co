@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "break-a-lucky-block",
+"title": "Break a Lucky Block!",
+"iframe": "https://html5.gamedistribution.com/888a2117ad844ae98181a85d1b8764df/",
+"description": "Smash colored blocks as they randomly appear to reveal hidden rewards in this casual puzzle game. Players break blocks by matching colors with timing-based taps, aiming to clear the board before running out of moves. The game mixes chance and quick decision-making, challenging players to unlock lucky bonuses and chain combos for higher scores.\n\nKey Features\n\n• Color matching break mechanic  \n• Tap-based block destruction  \n• Move limit challenge system  \n• Combo chain scoring  \n• Randomized block sequences"
+},
+{
 "id": "photo-block-journey",
 "title": "Photo Block Journey",
 "iframe": "https://html5.gamedistribution.com/1299bfbb40384fbea821d39f8853f925/",
