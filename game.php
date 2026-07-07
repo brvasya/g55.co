@@ -44,11 +44,11 @@
 <?php if ($seriesLinks): ?>
 <nav class="cluster">
 <h2>More <?php echo h($currentSeriesTitle) ?> Games</h2>
-<ul class="series">
+<section class="series">
 <?php foreach ($seriesLinks as $p): ?>
-<li><a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a></li>
+<a class="thumbnail" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><span class="<?php echo rawurlencode($p['category']); ?>"><?php echo h($p['title']); ?></span></a>
 <?php endforeach; ?>
-</ul>
+</section>
 </nav>
 <?php endif; ?>
 <?php if (!empty($currentCluster)): ?>
