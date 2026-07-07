@@ -58,6 +58,7 @@ li {
 h1 {
     font-size: 20px;
     margin: 0;
+    color: #eee;
 }
 h2 {
     font-size: 20px;
@@ -68,6 +69,9 @@ a, a:visited {
     color: #fff;
     text-decoration: none;
     pointer-events: auto;
+}
+a:hover {
+    color: #0099cc;
 }
 p {
     margin: 0;
@@ -253,6 +257,7 @@ p {
     transition: transform 0.2s ease;
 }
 .tag:hover {
+    color: #fff;
     transform: scale(1.02);
     background-color: #0099cc !important;
 }
