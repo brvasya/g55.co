@@ -7,7 +7,9 @@
 </ul>
 </nav>
 <footer>
-<span>&#169; <?php echo date('Y'); ?> G55.CO</span>
+<div>&#169; <?php echo date('Y'); ?> G55.CO</div>
+<div>
 <a href="/privacy-policy.php">Privacy Policy</a>
 <a href="mailto:crazygames888@gmail.com">Contact Us</a>
+</div>
 </footer>
