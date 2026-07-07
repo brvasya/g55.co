@@ -178,6 +178,7 @@ p {
     gap: 5px;
 }
 .thumbnail {
+    color: #fff !important;
     aspect-ratio: 170 / 128;
     overflow: hidden;
     border-radius: 10px;
