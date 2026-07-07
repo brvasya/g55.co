@@ -177,7 +177,7 @@ p {
     border: 3px solid #111;
     box-sizing: border-box;
     background-size: cover;
-    background-color: #333;
+    background-color: #222;
     transition: transform 0.2s ease;
  flex: 0 0 calc((100% - (var(--cols) - 1) * 5px) / var(--cols));
  --cols: 2;
@@ -251,7 +251,7 @@ p {
 }
 .tag:hover {
     transform: scale(1.02);
-    background-color: #bfae3a !important;
+    background-color: #0099cc !important;
 }
 .categories > li > .tag {
     background-position: 10px;
