@@ -85,7 +85,7 @@ p {
     display: flex;
 }
 .tower_l, .embed, .ads {
-    background-color: #333;
+    background-color: #222;
     position: relative;
     overflow: hidden;
     border-radius: 5px;
@@ -123,9 +123,6 @@ p {
 }
 .description.c .series {
     margin: 0;
-}
-.description.c .tag {
-    background-color: #333;
 }
 .description.c, .cluster.c {
     order: unset;
