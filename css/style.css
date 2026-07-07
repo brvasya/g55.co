@@ -137,6 +137,9 @@ p {
 .cluster {
     order: 3;
 }
+.cluster .grid {
+    padding-top: 0;
+}
 .tower_l {
     width: 160px;
     height: 600px !important;
