@@ -99,7 +99,7 @@ p {
 }
 .categories, .pagination, .series {
     margin: 0 25px;
-    padding: 0 !important;
+    padding: 0;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
