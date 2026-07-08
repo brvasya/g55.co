@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mob-rush",
+"title": "Mob Rush",
+"iframe": "https://html5.gamedistribution.com/855cc8f25275408b82249eca4aa15115/",
+"description": "Attack waves of enemies using tactical mob movements in this casual action game. Players build and control squads to survive escalating enemy waves, using positioning and timing to outmaneuver foes. The gameplay revolves around real-time unit deployment with strategic resource management to withstand continuous assaults.\n\nKey Features\n\n• Squad-based mob deployment  \n• Real-time positioning control  \n• Increasing enemy wave difficulty  \n• Resource management system  \n• Urban street battle setting"
+},
+{
 "id": "monster-squad-rush",
 "title": "Monster Squad Rush",
 "iframe": "https://html5.gamedistribution.com/9dd0094f9a864db89ca7edaf6d2d96b9/",

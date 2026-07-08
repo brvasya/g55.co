@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "potion-sort",
+"title": "Potion Sort",
+"iframe": "https://html5.gamedistribution.com/1e850284c3ef4ca5bdb1614b430ed1fa/",
+"description": "Sort colorful potions by matching shapes and colors through strategic swaps within a limited grid. Players uncover increasingly complex mixtures as they progress, balancing speed and accuracy to clear each level's challenges. The core mechanic revolves around pattern recognition under time pressure in a whimsical, alchemy-inspired setting.\n\nKey Features\n\n• Color and shape matching puzzle  \n• Grid-based swap controls  \n• Timed level challenges  \n• Increasing puzzle complexity  \n• Alchemy-themed visual elements"
+},
+{
 "id": "magic-water-sort-color-puzzle",
 "title": "Magic Water Sort: Color Puzzle",
 "iframe": "https://html5.gamedistribution.com/084a14d3019743be83ea7e97bba261f3/",

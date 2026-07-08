@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "zoo-restaurant",
+"title": "Zoo Restaurant",
+"iframe": "https://html5.gamedistribution.com/cddd6db7a1564019bc6569ab3d327530/",
+"description": "Manage a bustling restaurant set inside a lively zoo where players prepare and serve meals to a variety of animal customers. The core mechanic centers on quick recipe assembly and multitasking under time pressure, challenging players to optimize their workflow and keep both animals and staff satisfied. As the game progresses, new recipes and customer types increase the complexity and pace.\n\nKey Features\n\n• Multitasking kitchen management  \n• Time-based recipe preparation  \n• Increasing customer variety  \n• Upgradeable cooking stations  \n• Animal-themed restaurant setting"
+},
+{
 "id": "restaurant-simulator-burgers-pizza",
 "title": "Restaurant Simulator: Burgers & Pizza",
 "iframe": "https://html5.gamedistribution.com/990eb0343915410bbb1a0210f99cac3c/",

@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "rope-stitch-puzzle",
+"title": "Rope Stitch Puzzle",
+"iframe": "https://html5.gamedistribution.com/415ff1a9b6604cadba3f5f661b938cb7/",
+"description": "Manipulate interwoven ropes by untying and stitching knots to restore their original alignment. This tactile puzzle centers on controlling rope segments to match patterns through dragging and twisting actions. Each level introduces increasingly complex entanglements that challenge spatial reasoning and precise finger coordination.\n\nKey Features\n\n• Knot manipulation core mechanic  \n• Drag and twist rope controls  \n• Progressive complexity in puzzles  \n• Pattern matching challenge system  \n• Casual tactile puzzle theme"
+},
+{
 "id": "hexa-arrows-puzzle",
 "title": "Hexa Arrows Puzzle",
 "iframe": "https://html5.gamedistribution.com/e09153d93e634528ab452c266285b8b4/",
