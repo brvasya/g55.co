@@ -101,7 +101,7 @@ if ($hasC) {
       'category' => $catId,
     ];
 
-    foreach ($pages as $p) {
+    /*foreach ($pages as $p) {
       if (str_contains($p['iframe'], 'html5.g55.co')) {
         $featuredItems[] = [
           'id' => $p['id'],
@@ -110,7 +110,7 @@ if ($hasC) {
           'category' => $catId,
         ];
       }
-    }
+    }*/
   }
 
   $h1 = ($totalCount > 0 ? number_format($totalCount) . ' ' : '') . $site['title'];
