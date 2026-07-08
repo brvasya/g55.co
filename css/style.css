@@ -110,8 +110,11 @@ p {
 .pagination .tag {
     padding: 10px;
     flex: auto;
-    background: #333;
+    background: #222;
     text-align: center;
+}
+.pagination .tag:hover {
+    background: #333 !important;
 }
 .description {
     width: calc(100% - 250px);
