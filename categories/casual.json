@@ -1,6 +1,48 @@
 {
 "pages": [
 {
+"id": "bubbits",
+"title": "Bubbits",
+"iframe": "https://html5.gamedistribution.com/ce37b495e7d74ad584f7accfedfdadb5/",
+"description": ""
+},
+{
+"id": "potion-sort",
+"title": "Potion Sort",
+"iframe": "https://html5.gamedistribution.com/1e850284c3ef4ca5bdb1614b430ed1fa/",
+"description": ""
+},
+{
+"id": "rope-stitch-puzzle",
+"title": "Rope Stitch Puzzle",
+"iframe": "https://html5.gamedistribution.com/415ff1a9b6604cadba3f5f661b938cb7/",
+"description": ""
+},
+{
+"id": "tile-pair-match",
+"title": "Tile Pair Match",
+"iframe": "https://html5.gamedistribution.com/d0d5fb613e974872be6d2c2946ad3d54/",
+"description": ""
+},
+{
+"id": "mob-rush",
+"title": "Mob Rush",
+"iframe": "https://html5.gamedistribution.com/855cc8f25275408b82249eca4aa15115/",
+"description": ""
+},
+{
+"id": "zoo-restaurant",
+"title": "Zoo Restaurant",
+"iframe": "https://html5.gamedistribution.com/cddd6db7a1564019bc6569ab3d327530/",
+"description": ""
+},
+{
+"id": "stylish-nail-art",
+"title": "Stylish Nail Art",
+"iframe": "https://html5.gamedistribution.com/0ea1a266cc93466895ad111392ed1f71/",
+"description": ""
+},
+{
 "id": "mazoo",
 "title": "Mazoo",
 "iframe": "https://html5.gamedistribution.com/127143fc77714d4f9c07ed80ae9227f1/",
