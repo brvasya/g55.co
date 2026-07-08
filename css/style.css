@@ -110,6 +110,7 @@ p {
 .pagination .tag {
     padding: 10px;
     flex: auto;
+    background: #333;
     text-align: center;
 }
 .description {
