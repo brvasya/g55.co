@@ -110,7 +110,7 @@ if ($pageIndex !== -1) {
     $radius = 1;
     $max = count($pages);
 
-    while (count($similar) < 6 && (($pageIndex - $radius) >= 0 || ($pageIndex + $radius) < $max)) {
+    while (count($similar) < 4 && (($pageIndex - $radius) >= 0 || ($pageIndex + $radius) < $max)) {
         $left = $pageIndex - $radius;
         $right = $pageIndex + $radius;
 
@@ -120,7 +120,7 @@ if ($pageIndex !== -1) {
             if ($pid !== '' && !isset($used[$pid])) {
                 $similar[] = $p;
                 $used[$pid] = true;
-                if (count($similar) >= 6) {
+                if (count($similar) >= 4) {
                     break;
                 }
             }
@@ -132,7 +132,7 @@ if ($pageIndex !== -1) {
             if ($pid !== '' && !isset($used[$pid])) {
                 $similar[] = $p;
                 $used[$pid] = true;
-                if (count($similar) >= 6) {
+                if (count($similar) >= 4) {
                     break;
                 }
             }

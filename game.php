@@ -29,9 +29,11 @@
 </div>
 <aside class="tower_r">
 <div class="ads"><script async src="/js/336x280.js"></script></div>
+<div class="grid">
 <?php foreach ($similar as $p): ?>
-<a class="tag" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></a>
+<a class="thumbnail" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><span class="<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></span></a>
 <?php endforeach; ?>
+</div>
 <a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
 </aside>
 </section>
