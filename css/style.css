@@ -138,6 +138,9 @@ p {
 .description.c, .cluster.c {
     order: unset;
 }
+.description.c .tag {
+    background-position: unset;
+}
 .cluster {
     order: 3;
 }
