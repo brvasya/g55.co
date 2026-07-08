@@ -170,7 +170,7 @@ p {
 --cols: 2;
 }
 .embed {
-    width: calc(100% - 516px);
+    width: calc(100% - 346px);
     display: flex;
 }
 .embed-code {
