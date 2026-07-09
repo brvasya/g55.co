@@ -37,12 +37,6 @@
 <a class="tag <?php echo rawurlencode($cid); ?>" href="<?php echo h($moreHref); ?>"><?php echo h($moreText); ?></a>
 </aside>
 </section>
-<?php if (!$sandbox): ?>
-<div class="embed-code">
-<button class="tag copy" onclick="navigator.clipboard.writeText(document.querySelector('code').textContent); this.innerText='Copied!'; setTimeout(()=>this.innerText='Copy Embed Code',1500);">Copy Embed Code</button>
-<code><?php echo h('<iframe src="' . $iframeSrc . '" width="960" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe>'); ?></code>
-</div>
-<?php endif; ?>
 <?php if ($seriesLinks): ?>
 <nav class="cluster">
 <h2>More <?php echo h($currentSeriesTitle) ?> Games</h2>
