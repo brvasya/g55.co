@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "jelly-monsters-link-puzzle",
+"title": "Jelly Monsters Link Puzzle",
+"iframe": "https://html5.gamedistribution.com/7e86037ddb88415687479f0adebf5bf0/",
+"description": "Match colorful jelly monsters by swapping adjacent pieces in a grid-based puzzle that challenges pattern recognition and planning. Players must clear connected clusters to advance through increasingly difficult levels featuring shifting jelly arrangements. Strategic moves and combo chains are essential to overcome time limits and unlock new puzzles, creating a dynamic tile-matching experience suited for casual gamers.\n\nKey Features\n\n• Grid swap mechanics  \n• Combo-based clearing system  \n• Progressive level difficulty  \n• Time-limited puzzle stages  \n• Vibrant jelly creature visuals"
+},
+{
 "id": "rope-stitch-puzzle",
 "title": "Rope Stitch Puzzle",
 "iframe": "https://html5.gamedistribution.com/415ff1a9b6604cadba3f5f661b938cb7/",

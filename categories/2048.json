@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "2048-snake-io",
+"title": "2048 Snake.io",
+"iframe": "https://html5.gamedistribution.com/2b02a32600534fe38857f28bae216ea7/",
+"description": "Navigate a growing snake through a grid to combine numbered tiles and increase your score in this twist on classic action puzzles. Skillfully maneuver to avoid crashing while tactically merging tiles with number matching mechanics challenging your spatial and planning abilities. Each advancement tests timing and precision, blending movement control with strategic tile alignment for continuous progression.\n\nKey Features\n\n• Number merging tile mechanic  \n• Precision snake movement control  \n• Increasing grid complexity challenge  \n• Score multiplier progression system  \n• Minimalist arcade puzzle setting"
+},
+{
 "id": "caterfall-2048",
 "title": "Caterfall 2048",
 "iframe": "https://html5.gamedistribution.com/a71168b1feb94d4bbeb466d22c292b53/",
