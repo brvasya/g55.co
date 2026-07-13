@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "fruit-cafe-match-3",
+"title": "Fruit Cafe: Match 3",
+"iframe": "https://html5.gamedistribution.com/1bfa9930ed87442c97cf1f4b22e08572/",
+"description": "Match identical fruit pieces across colorful boards by swapping tiles to create combos and clear levels. Players navigate through grid-based puzzles that increase in difficulty and complexity, using strategic matching to unlock new stages. Each level challenges players to meet specific scoring goals or clear obstacles within limited moves, focusing on pattern recognition and timed decision making.\n\nKey Features\n\n• Tile swap matching mechanic  \n• Turn-limited puzzle progression  \n• Increasingly complex grid layouts  \n• Score-based level objectives  \n• Vibrant fruit-themed visuals"
+},
+{
 "id": "kitty-match-3-puzzle-game",
 "title": "Kitty Match 3 puzzle game",
 "iframe": "https://html5.gamedistribution.com/74d4566d990d431ab7e58166f3fc3d2d/",

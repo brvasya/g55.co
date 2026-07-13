@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "word-deck-solitaire",
+"title": "Word Deck Solitaire",
+"iframe": "https://html5.gamedistribution.com/b3f0a72d53b740eaaa6bec1815290341/",
+"description": "Arrange letter cards into valid words while clearing the deck using solitaire-style turns. This word puzzle blends card sorting with language strategy, challenging players to build and discard word sequences efficiently. Progression involves managing limited moves to optimize word formation and maximize scoring, appealing to casual gamers and teens interested in calm yet thoughtful gameplay.\n\nKey Features\n\n• Letter card sorting mechanic  \n• Word construction and discard controls  \n• Move-limited puzzle progression  \n• Score tracking and optimization  \n• Casual vocabulary challenge"
+},
+{
 "id": "word-game-2026",
 "title": "Word Game 2026",
 "iframe": "https://html5.gamedistribution.com/26a55f4431144dd3a7230222c772e676/",

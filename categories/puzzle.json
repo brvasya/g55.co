@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "tap-out-puzzle",
+"title": "Tap Out Puzzle",
+"iframe": "https://html5.gamedistribution.com/2e5ee9c8ee884a94929f83f903ad6983/",
+"description": "Tap puzzle pieces to clear the board while managing limited moves and matching patterns. This casual game challenges players to think ahead as they strategically tap clusters to unlock new levels. Progression is tied to efficient tile clearing, with a colorful grid layout enhancing the puzzle-solving experience.\n\nKey Features\n\n• Cluster matching tap mechanic  \n• Limited move challenge system  \n• Level-based progression design  \n• Strategic tile clearing control  \n• Colorful grid puzzle layout"
+},
+{
 "id": "jelly-monsters-link-puzzle",
 "title": "Jelly Monsters Link Puzzle",
 "iframe": "https://html5.gamedistribution.com/7e86037ddb88415687479f0adebf5bf0/",

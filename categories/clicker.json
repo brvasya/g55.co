@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mole-dig-clicker",
+"title": "Mole Dig Clicker",
+"iframe": "https://html5.gamedistribution.com/8b914b33d9384bca84712eb2b4c4aade/",
+"description": "Dig through layers of soil by clicking rapidly to uncover hidden moles and gather resources in this casual miner clicker. The core mechanic revolves around timed digging bursts that reveal underground tunnels, while managing cooldowns to maximize excavations. Progression unlocks new tools to speed up digging and discover rare mole types, adding strategic depth to the underground exploration.\n\nKey Features\n\n• Click-based excavation mechanic  \n• Resource management and upgrades  \n• Cooldown taktics for digging speed  \n• Discovery of multiple mole variants  \n• Soil layer progression system"
+},
+{
 "id": "67-clicker",
 "title": "67 Clicker",
 "iframe": "https://html5.gamedistribution.com/f078134f39634ca78dcd4a8479a314a2/",
