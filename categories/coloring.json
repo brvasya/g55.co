@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "woolloop-color-puzzle",
+"title": "Woolloop! Color Puzzle",
+"iframe": "https://html5.gamedistribution.com/340a4d0d820d41a2a5285b4da3211842/",
+"description": "Match and rotate colored wool loops to clear puzzle stages in this casual game. Players arrange interconnected loops by swapping pieces on a grid, challenging spatial reasoning and timing. Levels increase in complexity with multi-loop combos and limited moves, encouraging strategic planning in a colorful, relaxed setting.\n\nKey Features\n\n• Loop matching puzzle mechanic  \n• Grid-based swap controls  \n• Increasing stage complexity  \n• Combo chain scoring system  \n• Vibrant wool-themed visuals"
+},
+{
 "id": "color-ring-sorting-match",
 "title": "Color Ring Sorting Match",
 "iframe": "https://html5.gamedistribution.com/ca2f42058e294d1ea4b9d556d00dd426/",

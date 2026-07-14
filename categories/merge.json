@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "cake-merge-2",
+"title": "Cake Merge 2",
+"iframe": "https://html5.gamedistribution.com/c89cf76cc0804e51a12259a9e1e1f09f/",
+"description": "Combine matching cakes on a grid to create larger, more valuable treats while managing limited space and strategic merges. The gameplay revolves around spatial puzzle mechanics where players progressively unlock new cake types, aiming to fill the board efficiently before running out of moves.\n\nKey Features\n\n• Grid-based matching puzzle  \n• Strategic merge combo system  \n• Progressive cake unlocking  \n• Move limit challenge  \n• Colorful dessert-themed visuals"
+},
+{
 "id": "merge-lagoon",
 "title": "Merge Lagoon",
 "iframe": "https://html5.gamedistribution.com/7e7b6107748646f2b18f69bf535663b6/",

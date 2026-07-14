@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "zen-solitaire",
+"title": "Zen Solitaire",
+"iframe": "https://html5.gamedistribution.com/544c6a00c1e54c4f85ac81aa00420425/",
+"description": "Arrange cards in sequential order by suit to clear the tableau in this solitaire game with a relaxed pace. Players build stacks using classic card arrangement mechanics aiming to empty the table, progressing through increasingly challenging layouts. The calm, minimalist design encourages focus and thoughtful planning without distracting themes or time pressure.\n\nKey Features\n\n• Sequential card stacking  \n• Drag and drop controls  \n• Increasing layout complexity  \n• Undo move option  \n• Minimalist card design"
+},
+{
 "id": "solitaire-farm-seasons-5",
 "title": "Solitaire Farm Seasons 5",
 "iframe": "https://html5.gamedistribution.com/567ad47ea5d04edaaa29a80cd9f9d1a3/",
