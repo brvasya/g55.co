@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "panda-restaurant",
+"title": "Panda Restaurant",
+"iframe": "https://html5.gamedistribution.com/0ba41aaf94e04edfbc5cc31c34ec3996/",
+"description": "Manage restaurant orders by quickly preparing dishes in a fast-paced kitchen environment. Players combine ingredients and assemble meals under time pressure while handling customer demands to keep service flowing smoothly. Levels increase in difficulty with diverse recipes and multitasking challenges that test your speed and accuracy.\n\nKey Features\n\n• Ingredient combining mechanic  \n• Time management controls  \n• Progressive recipe complexity  \n• Multitasking order system  \n• Casual kitchen setting"
+},
+{
 "id": "zoo-restaurant",
 "title": "Zoo Restaurant",
 "iframe": "https://html5.gamedistribution.com/cddd6db7a1564019bc6569ab3d327530/",
