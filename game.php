@@ -20,9 +20,9 @@
 <p><?php echo h($desc); ?></p>
 </section>
 <section class="game">
-<?php /*?><aside class="tower_l">
+<aside class="tower_l">
 <script async src="/js/160x600.js"></script>
-</aside><?php */?>
+</aside>
 <div class="embed">
 <button class="fullscreen" onclick="document.querySelector('.embed iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe<?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>" scrolling="no" allowfullscreen></iframe>

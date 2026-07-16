@@ -159,7 +159,7 @@ p {
 --cols: 2;
 }
 .embed {
-    width: calc(100% - 346px);
+    width: calc(100% - 516px);
     display: flex;
 }
 .embed iframe {
