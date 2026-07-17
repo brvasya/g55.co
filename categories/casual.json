@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "puzzle-trails",
+"title": "Puzzle Trails",
+"iframe": "https://html5.gamedistribution.com/a23bb7dc7ac24ca8914e0285824dc8ad/",
+"description": ""
+},
+{
+"id": "triple-shelf-match",
+"title": "Triple Shelf Match",
+"iframe": "https://html5.gamedistribution.com/7941fa7f0df84c53a5e1bf6f4833bc2e/",
+"description": ""
+},
+{
+"id": "hidden-object-time-travel",
+"title": "Hidden Object Time Travel",
+"iframe": "https://html5.gamedistribution.com/89d1fe70d5ee43af97ff8bfdc2183e9a/",
+"description": ""
+},
+{
+"id": "animal-klotski",
+"title": "Animal Klotski",
+"iframe": "https://html5.gamedistribution.com/ba097c40e304481daa8064d6e8b42f7d/",
+"description": ""
+},
+{
 "id": "dragon-egg-master",
 "title": "Dragon Egg Master",
 "iframe": "https://html5.gamedistribution.com/7e5fa050cf904c779fe39bd4cffa7760/",
