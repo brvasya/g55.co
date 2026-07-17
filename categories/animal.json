@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "animal-klotski",
+"title": "Animal Klotski",
+"iframe": "https://html5.gamedistribution.com/ba097c40e304481daa8064d6e8b42f7d/",
+"description": "Slide animal-shaped blocks around a grid to clear a path and arrange pieces strategically in this classic puzzle format. Using spatial reasoning to navigate the unique shapes, players aim to free the main block by shifting others in limited moves. The game blends charming animal motifs with progressively challenging board layouts, catering to casual players seeking a balanced mental workout.\n\nKey Features\n\n• Block sliding puzzle mechanic  \n• Grid-based spatial manipulation  \n• Incremental difficulty levels  \n• Time-trial challenge mode  \n• Animal shape-themed pieces"
+},
+{
 "id": "cute-animal-world",
 "title": "Cute Animal World",
 "iframe": "https://html5.gamedistribution.com/2618b45729854f8cbdf0616f8f175702/",

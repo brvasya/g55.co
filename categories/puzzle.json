@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "puzzle-trails",
+"title": "Puzzle Trails",
+"iframe": "https://html5.gamedistribution.com/a23bb7dc7ac24ca8914e0285824dc8ad/",
+"description": "Match colorful pieces quickly to clear increasingly complex puzzle boards, relying on pattern recognition and strategic placement. Each level challenges players to navigate fresh tile arrangements, encouraging thoughtful moves to unlock new stages. The casual gameplay blends simple tap controls with escalating difficulty that keeps younger players and teens engaged. Puzzle progression rewards honing logic and timing skills.\n\nKey Features\n\n• Pattern matching tile mechanic  \n• Tap and drag control scheme  \n• Level-based difficulty curve  \n• Time-limited puzzle stages  \n• Vibrant casual game visuals"
+},
+{
 "id": "tap-out-puzzle",
 "title": "Tap Out Puzzle",
 "iframe": "https://html5.gamedistribution.com/2e5ee9c8ee884a94929f83f903ad6983/",

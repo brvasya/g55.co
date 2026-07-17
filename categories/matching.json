@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "triple-shelf-match",
+"title": "Triple Shelf Match",
+"iframe": "https://html5.gamedistribution.com/7941fa7f0df84c53a5e1bf6f4833bc2e/",
+"description": "Match colored tiles by swapping to create sets of three or more in a grid-based puzzle challenge that tests pattern recognition. Strategic tile placement and quick decision-making drive progression through increasingly complex levels that introduce chain reactions and timed moves. Players aim to clear target areas efficiently while navigating limited moves in a vibrant casual setting.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Grid-based matching puzzles  \n• Increasing puzzle complexity  \n• Chain reaction scoring system  \n• Time-limited challenge modes"
+},
+{
 "id": "tile-pair-match",
 "title": "Tile Pair Match",
 "iframe": "https://html5.gamedistribution.com/d0d5fb613e974872be6d2c2946ad3d54/",
