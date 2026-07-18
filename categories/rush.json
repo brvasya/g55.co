@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "astro-kitty-rush",
+"title": "Astro Kitty Rush",
+"iframe": "https://html5.gamedistribution.com/6dac0ca9d993462594121f94d402c604/",
+"description": "Navigate a colorful space landscape by guiding a swift feline avatar through floating platforms and tricky obstacles. This casual arcade challenge tests timing and reflex skills as you leap between asteroids collecting scattered stars while avoiding gravity wells. Speed and momentum influence traversal, creating dynamic movement puzzles that keep each level fresh and engaging.\n\nKey Features\n\n• Precision platform jumping mechanics  \n• Momentum-based movement control  \n• Increasing difficulty with environmental hazards  \n• Star collection progression system  \n• Space-themed cosmic arcade setting"
+},
+{
 "id": "mob-rush",
 "title": "Mob Rush",
 "iframe": "https://html5.gamedistribution.com/855cc8f25275408b82249eca4aa15115/",
