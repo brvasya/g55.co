@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "hospital-surgeon-doctor-game",
+"title": "Hospital Surgeon Doctor Game",
+"iframe": "https://html5.gamedistribution.com/0c3106a053264cc3bf7ac398aeb9433d/",
+"description": "Perform surgical procedures in a hospital setting, managing patients through step-by-step operations to stabilize their health. Players handle various medical tools and follow diagnostic clues to complete treatments under time constraints. This casual experience challenges reflexes and decision-making while simulating a fast-paced emergency room atmosphere.\n\nKey Features\n\n• Interactive surgical tool controls  \n• Patient condition monitoring  \n• Time-limited operation stages  \n• Progressive treatment difficulty  \n• Emergency room medical scenarios"
+},
+{
 "id": "doctor-chicken",
 "title": "Doctor Chicken",
 "iframe": "https://html5.gamedistribution.com/a1a8298042604801a9146f8e5d8ddb78/",

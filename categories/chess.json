@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mate-in-chess",
+"title": "Mate in Chess",
+"iframe": "https://html5.gamedistribution.com/470897c1db9f42b38674a5e05adfddc0/",
+"description": "Strategically position your pieces to deliver checkmate and outwit your opponent’s moves in this chess puzzle game. The gameplay revolves around classical chess mechanics, emphasizing precise calculation and tactical foresight to end matches decisively. Each challenge presents unique board setups that test your ability to foresee consequences and plan several moves ahead.\n\nKey Features\n\n• Classic chess piece movements  \n• Turn-based tactical positioning  \n• Increasing puzzle difficulty levels  \n• Single-player practice mode  \n• Chessboard with standard rules"
+},
+{
 "id": "daily-chess-puzzle",
 "title": "Daily Chess Puzzle",
 "iframe": "https://html5.gamedistribution.com/0362c1db89fd4d8f9497b67985fe4b55/",
