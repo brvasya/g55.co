@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "tanks",
+"title": "Tanks",
+"iframe": "https://html5.gamedistribution.com/a5c3d507a80b436082585b3053fc5720/",
+"description": "Drive mechanized tanks through strategic combat scenarios focusing on tactical movement and precise aiming. Players must maneuver armored vehicles while managing limited ammunition to outlast enemy units. The gameplay emphasizes positioning and timing in a challenging battlefield environment. Progression unfolds through increasingly difficult encounter waves testing reflexes and adaptability.\n\nKey Features\n\n• Tank movement with turret rotation  \n• Ammunition management system  \n• Enemy wave escalation challenge  \n• Multi-stage mission progression  \n• Armored vehicle combat setting"
+},
+{
 "id": "artillery-vs-tanks",
 "title": "Artillery Vs Tanks",
 "iframe": "https://html5.gamedistribution.com/8c85fb2b116f4299927e33071c852847/",
