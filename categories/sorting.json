@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ice-cream-sort",
+"title": "Ice Cream Sort",
+"iframe": "https://html5.gamedistribution.com/f274129357c0449583f5364da4c45c31/",
+"description": "Sort ice cream scoops into matching cones by color and shape to clear each level’s board. Players engage with a pattern recognition mechanic that challenges quick sorting speed against growing complexity. Each stage introduces new scoop types, demanding sharper attention and faster decision-making to progress through increasingly tricky arrangements.\n\nKey Features\n\n• Color and shape sorting mechanic  \n• Mouse-driven drag and drop controls  \n• Level-based difficulty scaling  \n• Time limit pressure system  \n• Ice cream parlor visual theme"
+},
+{
 "id": "marble-sort",
 "title": "Marble Sort",
 "iframe": "https://html5.gamedistribution.com/0ad5260ef01948faa1b4fab8ecd4c1b2/",

@@ -1,40 +1,22 @@
 {
 "pages": [
 {
-"id": "escape-the-alien-prison",
-"title": "Escape the Alien Prison",
-"iframe": "https://html5.gamedistribution.com/be797a3996324c03b20bad496a82819f/",
-"description": ""
-},
-{
 "id": "dig-flow-save-water",
 "title": "Dig & Flow - Save Water",
 "iframe": "https://html5.gamedistribution.com/73610772c65b44d088be3ade536c12a1/",
-"description": ""
-},
-{
-"id": "zombie-conquer-countries",
-"title": "Zombie Conquer Countries",
-"iframe": "https://html5.gamedistribution.com/c6699f6f8a2f4444a4dd256834734f87/",
-"description": ""
+"description": "Dig channels a steady stream of water through intricate pipe networks to prevent leaks and conserve resources in this casual puzzle experience. Players manipulate flow paths by rotating valves and connecting segments to ensure uninterrupted water supply. Progression challenges increase pipe complexity, demanding strategic routing under time constraints.\n\nKey Features\n\n• Pipe rotation and connection mechanic  \n• Valve control for flow direction  \n• Increasing network complexity stages  \n• Time-based water conservation challenges  \n• Puzzle setting with water system theme"
 },
 {
 "id": "pop-fruit",
 "title": "Pop Fruit",
 "iframe": "https://html5.gamedistribution.com/36637018e58a4aaa91dd7603ab121852/",
-"description": ""
-},
-{
-"id": "ice-cream-sort",
-"title": "Ice Cream Sort",
-"iframe": "https://html5.gamedistribution.com/f274129357c0449583f5364da4c45c31/",
-"description": ""
+"description": "Match and pop vibrant fruits by swapping adjacent pieces to trigger chain reactions and clear the board efficiently. Players engage with a classic casual grid setup where strategic swaps and combo building drive level progression through increasingly challenging puzzles. The core challenge lies in maximizing fruit bursts before available moves run out, appealing to casual gamers aiming for high scores.\n\nKey Features\n\n• tile swapping core mechanic  \n• combo chain reaction system  \n• limited move level challenges  \n• score multiplier progression  \n• colorful fruit puzzle grid"
 },
 {
 "id": "spin-thru",
 "title": "Spin Thru",
 "iframe": "https://html5.gamedistribution.com/05597b1988a6444b9133517998e700d2/",
-"description": ""
+"description": "Navigate spinning obstacles using precise timing and quick reflexes in this casual browser challenge. Players guide a rotating object through shifting barriers, testing coordination and pattern recognition. The objective is to advance through increasingly tricky sequences without collision, emphasizing rhythm and spatial awareness in an abstract setting.\n\nKey Features\n\n• Rotational movement control  \n• Timing-based obstacle navigation  \n• Progressive difficulty ramps  \n• Checkpoint respawn system  \n• Abstract minimalist visuals"
 },
 {
 "id": "wood-hexa-factory",
