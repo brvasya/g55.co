@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "puzzle-solitaire-picture-match",
+"title": "Puzzle Solitaire Picture Match",
+"iframe": "https://html5.gamedistribution.com/010ae5d2510049478e431650bf2a91e0/",
+"description": "Match pairs of image tiles to clear the board in this casual solitaire puzzle. Players rotate and swap tiles to uncover identical pictures while managing limited moves and strategic positioning. The game challenges players to solve layered matching puzzles, featuring progressive difficulty through increasingly complex layouts. Ideal for casual gamers and younger players seeking visual puzzle fun.\n\nKey Features\n\n• tile rotation and swapping mechanics  \n• limited move strategy system  \n• layered matching puzzle layouts  \n• progressive difficulty scaling  \n• visual picture tile theme"
+},
+{
 "id": "puzzle-trails",
 "title": "Puzzle Trails",
 "iframe": "https://html5.gamedistribution.com/a23bb7dc7ac24ca8914e0285824dc8ad/",
