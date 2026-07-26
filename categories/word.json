@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "theme-word-search",
+"title": "Theme word search",
+"iframe": "https://html5.gamedistribution.com/8ef6df8127544198bb85cff7df89ef02/",
+"description": "Scan and connect themed word clusters under time pressure in this casual puzzle game. Players uncover hidden vocabulary by quickly selecting matching words from a grid, with a word search mechanic driving the challenge. Progression unlocks larger puzzles with increasing complexity, inviting focused pattern recognition suited for teens and kids.\n\nKey Features\n\n• Timed word selection gameplay  \n• Grid-based word search puzzles  \n• Increasing difficulty levels  \n• Vocabulary pattern recognition  \n• Casual puzzle challenge"
+},
+{
 "id": "word-search-universe-animals",
 "title": "Word Search Universe Animals",
 "iframe": "https://html5.gamedistribution.com/bd685997d9824a07b1e79aa2753e2b48/",
