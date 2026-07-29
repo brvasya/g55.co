@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "my-perfect-farm",
+"title": "My Perfect Farm",
+"iframe": "https://html5.gamedistribution.com/1e48218939b048bc842bd6f715f54b7e/",
+"description": "Manage resources and arrange crops strategically in colorful animated fields to build thriving farm plots. Planting and harvesting sequences form the core mechanic, guiding players through seasonal challenges and unlocking new produce varieties. Expansion options allow gradual growth of the homestead, encouraging continual optimization of layouts for higher yields and efficient workflows.\n\nKey Features\n\n• Crop planting and harvesting cycles  \n• Drag-and-drop field management  \n• Seasonal growth variation system  \n• Progressive plot expansion stages  \n• Bright farm-themed visual style"
+},
+{
 "id": "farm-vs-zombies",
 "title": "Farm vs Zombies",
 "iframe": "https://html5.gamedistribution.com/557d5359337f4ed6aa97d2f1da0acf41/",
