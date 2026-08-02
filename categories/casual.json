@@ -1,82 +1,28 @@
 {
 "pages": [
 {
-"id": "jewels-coloring-puzzle",
-"title": "Jewels Coloring Puzzle",
-"iframe": "https://html5.gamedistribution.com/7d3dc4230c904feda6b08f0bc87cb4ba/",
-"description": ""
-},
-{
-"id": "fish-sort",
-"title": "Fish Sort",
-"iframe": "https://html5.gamedistribution.com/3c8c6bee93124a6da49127d3569b1f21/",
-"description": ""
-},
-{
-"id": "arrow-cube-escape",
-"title": "Arrow Cube Escape",
-"iframe": "https://html5.gamedistribution.com/756ba194e9bb481e876a9d8ee3304258/",
-"description": ""
-},
-{
-"id": "quiz-x",
-"title": "Quiz X",
-"iframe": "https://html5.gamedistribution.com/5869bcc4d5d44f368a0bba7c17229f5d/",
-"description": ""
-},
-{
 "id": "cut-n-fill",
 "title": "Cut N´ Fill",
 "iframe": "https://html5.gamedistribution.com/50da2aa89f1d4165890ea7b3336cec53/",
-"description": ""
-},
-{
-"id": "running-late",
-"title": "Running Late",
-"iframe": "https://html5.gamedistribution.com/3d3cd4eaee1343eaa84fa86d0f9ccf5b/",
-"description": ""
-},
-{
-"id": "ufo-io-armada",
-"title": "UFO IO Armada!",
-"iframe": "https://html5.gamedistribution.com/cd0c7bbbe2114f7498cd094bd5297a8d/",
-"description": ""
+"description": "Cut terrain by tracing precise lines to reshape the landscape, then fill gaps with the right angles to create stable platforms. This puzzle mechanic challenges players to balance accurate cuts with space management to complete each level. Progression introduces increasingly complex shapes and tighter layout constraints requiring careful spatial planning.\n\nKey Features\n\n• Line cutting terrain reshaping  \n• Platform creation through filling  \n• Increasing puzzle complexity  \n• Precision based level progression  \n• Minimalist geometric visual style"
 },
 {
 "id": "sand-loop",
 "title": "Sand Loop",
 "iframe": "https://html5.gamedistribution.com/705a3aaced784d7f8bc57f677a6348c8/",
-"description": ""
-},
-{
-"id": "fashion-valkyries-saga-of-style",
-"title": "Fashion Valkyries Saga of Style",
-"iframe": "https://html5.gamedistribution.com/670cb4da29454bb199651e47de4e9b4e/",
-"description": ""
+"description": "Manipulate shifting sand patterns to create continuous loops and clear dynamic obstacles in this minimalist puzzle experience. Players engage with intuitive drag mechanics to connect pathways and maintain unbroken circuits, testing spatial reasoning and timing under increasing complexity.\n\nKey Features\n\n• Drag-based loop creation  \n• Dynamic obstacle interaction  \n• Progressive puzzle difficulty  \n• Time-sensitive challenge mode  \n• Minimalist visual design"
 },
 {
 "id": "arrow-legend",
 "title": "Arrow Legend",
 "iframe": "https://html5.gamedistribution.com/dac45ce47c73420893b51829053b7fc4/",
-"description": ""
+"description": "Launch arrows with precise timing to hit moving targets in dynamic challenge levels, testing your reflexes and aiming skills. Navigate through variable wind conditions that affect arrow trajectories, unlocking new stages as you improve. Each progression demands sharper accuracy to complete increasingly complex shooting challenges and master the bow mechanics.\n\nKey Features\n\n• Timing based arrow shooting  \n• Wind influenced trajectory physics  \n• Progressive target difficulty  \n• Score based level advancement  \n• Casual archery challenge theme"
 },
 {
 "id": "onu-live",
 "title": "Onu Live",
 "iframe": "https://html5.gamedistribution.com/e910bd60591344bd975b76ad0e4c3717/",
-"description": ""
-},
-{
-"id": "12-minute-escape",
-"title": "12 Minute Escape",
-"iframe": "https://html5.gamedistribution.com/32ba498c969b4db6aeba3a16b8fe8515/",
-"description": ""
-},
-{
-"id": "build-a-rollercoaster-simulator",
-"title": "Build a Rollercoaster: Simulator",
-"iframe": "https://html5.gamedistribution.com/72d861a52f3c4e788ae0421649633be3/",
-"description": ""
+"description": "Match colorful tiles quickly to clear the board in this casual puzzle experience. Players engage with a unique tile swapping mechanic aimed at creating combos and chain reactions, all within a vibrant interface designed for quick decision-making. Timing and pattern recognition form the core challenge as players strive to improve their scores across increasingly complex boards.\n\nKey Features\n\n• Tile swapping combo system  \n• Quick pattern matching controls  \n• Increasing difficulty levels  \n• Scoring multiplier mechanics  \n• Bright casual puzzle aesthetic"
 },
 {
 "id": "goose-cup",

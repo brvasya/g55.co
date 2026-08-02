@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "build-a-rollercoaster-simulator",
+"title": "Build a Rollercoaster: Simulator",
+"iframe": "https://html5.gamedistribution.com/72d861a52f3c4e788ae0421649633be3/",
+"description": "Construct intricate rollercoaster tracks by assembling twists, loops, and drops with precise track placement mechanics. Players experiment with various ride elements to create thrilling circuits while managing coaster speed and safety. The challenge revolves around balancing excitement and rider satisfaction through dynamic design strategies in a theme park environment.\n\nKey Features\n\n• Track building and customization  \n• Speed and g-force management  \n• Rider excitement optimization system  \n• Level-based construction challenges  \n• Theme park ride simulation"
+},
+{
 "id": "family-simulator-beach-games",
 "title": "Family Simulator Beach Games",
 "iframe": "https://html5.gamedistribution.com/2f628fd6df1c459ea9a6295b768bfb71/",

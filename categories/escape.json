@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "12-minute-escape",
+"title": "12 Minute Escape",
+"iframe": "https://html5.gamedistribution.com/32ba498c969b4db6aeba3a16b8fe8515/",
+"description": "Search for hidden clues and solve puzzles under pressing time constraints in this compact escape room challenge. The game uses a point-and-click mechanic where players interact with objects to unlock doors and progress through increasingly complex environments. Time management plays a critical role as you race against a strict twelve-minute limit to unravel each room’s secrets.\n\nKey Features\n\n• Point-and-click puzzle interactions  \n• Time-based progression system  \n• Environment exploration and clue gathering  \n• Multiple room escape scenarios  \n• Casual puzzle challenge pacing"
+},
+{
+"id": "arrow-cube-escape",
+"title": "Arrow Cube Escape",
+"iframe": "https://html5.gamedistribution.com/756ba194e9bb481e876a9d8ee3304258/",
+"description": "Navigate complex cube mazes using precise arrow controls to escape intricate puzzles. Each level demands strategic input to align pathways and manipulate cube orientations toward the exit. The gameplay revolves around directional navigation and spatial reasoning challenges, requiring players to plan moves carefully in order to progress through increasingly difficult stages.\n\nKey Features\n\n• Arrow-based cube navigation  \n• Spatial puzzle alignment  \n• Progressive maze difficulty  \n• Time-based challenge mode  \n• Minimalistic geometric visuals"
+},
+{
 "id": "escape-the-alien-prison",
 "title": "Escape the Alien Prison",
 "iframe": "https://html5.gamedistribution.com/be797a3996324c03b20bad496a82819f/",

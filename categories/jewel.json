@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "jewels-coloring-puzzle",
+"title": "Jewels Coloring Puzzle",
+"iframe": "https://html5.gamedistribution.com/7d3dc4230c904feda6b08f0bc87cb4ba/",
+"description": "Match and fill jewels with vibrant colors using a grid-based painting mechanic in this casual puzzle experience. Players strategically color connected gems to complete intricate patterns and clear stages while managing limited moves. Each level introduces new color combinations that require attention to spatial arrangement and timing to progress.\n\nKey Features\n\n• Grid puzzle coloring mechanic  \n• Pattern completion objectives  \n• Limited move challenge system  \n• Progressive color complexity  \n• Bright gemstone visual style"
+},
+{
 "id": "fallling-jewels",
 "title": "Fallling Jewels",
 "iframe": "https://html5.gamedistribution.com/5dc9d72665e540619e3fa741124e7462/",
