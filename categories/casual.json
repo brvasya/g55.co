@@ -1,34 +1,16 @@
 {
 "pages": [
 {
-"id": "tennis-masters-2026",
-"title": "Tennis Masters 2026",
-"iframe": "https://html5.gamedistribution.com/ab2f156d72894fd8a5dedb85b34a05e4/",
-"description": ""
-},
-{
 "id": "siege-break",
 "title": "Siege Break",
 "iframe": "https://html5.gamedistribution.com/23b2fe26392247f49fb73598a5797e16/",
-"description": ""
-},
-{
-"id": "fruity-craft-merge",
-"title": "Fruity Craft Merge",
-"iframe": "https://html5.gamedistribution.com/6ffd8a287f944d2584e5fcf6bfdc2b3f/",
-"description": ""
-},
-{
-"id": "card-clash-battle-arena",
-"title": "Card Clash : Battle Arena",
-"iframe": "https://html5.gamedistribution.com/1ab0c43c073e4de9a5fe96985d1ec084/",
-"description": ""
+"description": "Use ladders and barricades to navigate defensive positions and breach enemy lines in this physics-based strategy challenge. Players deploy diverse siege weapons to dismantle structures and overcome escalating fortress defenses. Strategic placement and timing are crucial to progress through increasingly complex stages that test both tactical skill and resource management.\n\nKey Features\n\n• Physics-based siege mechanics  \n• Weapon aiming and deployment control  \n• Progressive fortress destruction stages  \n• Resource management for upgrades  \n• Tactical obstacle navigation"
 },
 {
 "id": "mycothreememo",
 "title": "MycoThreeMemo",
 "iframe": "https://html5.gamedistribution.com/749fedb1ec4e43dc841e25bd3da77146/",
-"description": ""
+"description": "Match sequences of colored fungi to clear each level in a charming casual puzzle setup that tests memory and pattern recognition. Players interact with a series of mycelium-inspired tiles using a tile-based recall mechanic, aiming to complete increasingly complex memory challenges. Subtle natural woodland visuals create a soothing backdrop as players tackle puzzles that grow in difficulty.\n\nKey Features\n\n• Tile-based memory matching  \n• Click and recall input system  \n• Progressive puzzle difficulty scaling  \n• Timed challenge gameplay mode  \n• Mushroom and forest theme elements"
 },
 {
 "id": "cut-n-fill",
