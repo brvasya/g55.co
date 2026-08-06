@@ -1,40 +1,22 @@
 {
 "pages": [
 {
-"id": "battle-shot-elite",
-"title": "Battle Shot Elite",
-"iframe": "https://html5.gamedistribution.com/941884f64e32420fb9791859d7d3fba3/",
-"description": ""
-},
-{
 "id": "worldguessr",
 "title": "WorldGuessr",
 "iframe": "https://html5.gamedistribution.com/fef00656129743768437b7589b7c48b1/",
-"description": ""
+"description": "Explore virtual locations by analyzing visual clues and mapping your guesses in this geography puzzle game. Use the map interface to pinpoint where you think each scene is situated, testing your knowledge of landmarks and environments. The challenge lies in deducing exact positions from limited on-screen hints to score higher points.\n\nKey Features\n\n• Map-based location guessing  \n• Clue interpretation gameplay  \n• Time-limited rounds progression  \n• Scoring system precision challenge  \n• Real-world scenery exploration"
 },
 {
 "id": "one-shot-tower-physics-destroyer",
 "title": "One Shot Tower : Physics Destroyer",
 "iframe": "https://html5.gamedistribution.com/b7ec9ba4531c4119a170f8bdddacec11/",
-"description": ""
-},
-{
-"id": "color-screw-rescue-puzzle",
-"title": "Color Screw Rescue Puzzle",
-"iframe": "https://html5.gamedistribution.com/ae03d0fea588430883bf812537c74b62/",
-"description": ""
-},
-{
-"id": "witchy-sisters-relax-puzzle",
-"title": "Witchy Sisters – Relax Puzzle",
-"iframe": "https://html5.gamedistribution.com/155fcf825be24068b12da9a1127695d9/",
-"description": ""
+"description": "Launch projectiles to demolish intricate tower structures built on realistic physics, targeting strategic weak points to collapse the entire construction in one precise shot. Each level challenges players to adjust shot angles and force, testing spatial reasoning within varied destructible environments. Timing and accuracy dictate success as players progress through escalating structural puzzles.\n\nKey Features\n\n• Physics-based destruction mechanics  \n• Projectile angle and power control  \n• Increasingly complex tower designs  \n• Single shot precision challenge  \n• Casual puzzle gameplay environment"
 },
 {
 "id": "rummy-classic",
 "title": "Rummy Classic",
 "iframe": "https://html5.gamedistribution.com/55ed25f4945c4cf5a333cfb2d1063ebe/",
-"description": ""
+"description": "Arrange sets and runs of cards to clear your hand faster than opponents in a classic tile-matching style. The game uses pick-and-discard mechanics with flexible hand management, challenging players to spot optimal melds. Matching sequences or groups is the key to winning rounds against AI or other casual players.\n\nKey Features\n\n• Hand management tile system  \n• Card draw and discard controls  \n• Opponent turn-based progression  \n• Meld formation and scoring  \n• Casual card game layout"
 },
 {
 "id": "siege-break",
