@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "light-bulb-puzzle",
+"title": "Light Bulb Puzzle",
+"iframe": "https://html5.gamedistribution.com/8e5f5ee4edd84cc7b5c3f32dc4aec649/",
+"description": "Toggle lights on a grid to solve increasingly complex patterns by flipping switches that affect adjacent bulbs. Each level challenges players to deduce the correct sequence that illuminates or darkens bulbs in order, requiring logical reasoning and spatial awareness. The puzzle’s minimalistic design emphasizes clear visual feedback as players progress through layered configurations.\n\nKey Features\n\n• Switch toggle puzzle mechanics  \n• Adjacency-based light flipping  \n• Increasing difficulty levels  \n• Sequential pattern solving  \n• Minimalist grid layout"
+},
+{
 "id": "glam-guru-puzzle-collection",
 "title": "Glam Guru Puzzle Collection",
 "iframe": "https://html5.gamedistribution.com/ede2db8c5f4d4eef841c0cda948e4ecd/",

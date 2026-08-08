@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "2048-sort-factory",
+"title": "2048 Sort Factory",
+"iframe": "https://html5.gamedistribution.com/94f14de101df47568ffb9b5f91fa47f8/",
+"description": "Slide numbered tiles strategically to combine matching values and clear the grid in this puzzle challenge that blends numerical logic with spatial planning. Players weave through ascending tile numbers, balancing placement and merges to reach higher scores without filling the board. The increasing complexity of tile generation tests both foresight and adaptability in a quiet, abstract setting.\n\nKey Features\n\n• Tile sliding and merging mechanic  \n• Strategic placement controls  \n• Grid space management challenge  \n• Score-based progression system  \n• Minimalist numeric puzzle design"
+},
+{
 "id": "2048-snake-io",
 "title": "2048 Snake.io",
 "iframe": "https://html5.gamedistribution.com/2b02a32600534fe38857f28bae216ea7/",
