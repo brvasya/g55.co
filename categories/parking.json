@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "park-fever",
+"title": "Park Fever",
+"iframe": "https://html5.gamedistribution.com/b434d014d65640d8a1582af70665f0d5/",
+"description": "Build and manage attractions to keep visitors entertained in a casual park simulation that focuses on strategic placement and resource management. Players balance expanding rides and amenities with visitor satisfaction to grow their park over multiple levels. The core challenge revolves around optimizing layout efficiency while handling dynamic guest needs and park finances.\n\nKey Features\n\n• Attraction placement strategy  \n• Resource allocation mechanics  \n• Visitor satisfaction management  \n• Level-based park expansion  \n• Casual simulation environment"
+},
+{
 "id": "park-me-draw-path",
 "title": "Park Me: Draw Path",
 "iframe": "https://html5.gamedistribution.com/d60f8c65c1f64c838d6aa490ed5c649d/",
