@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "office-golf",
+"title": "Office Golf",
+"iframe": "https://html5.gamedistribution.com/19c63777ed1e4653b64b2200560907fd/",
+"description": "Putt precision shots using simple controls in this minimalistic casual game that mimics office environments with unusual golf setups. Players navigate compact levels featuring ramps and obstacles, aiming to sink the ball in as few attempts as possible. The challenge grows subtly as course layouts vary and timing becomes crucial for better scores.\n\nKey Features\n\n• Precision aiming mechanic  \n• Tap-based shot control  \n• Progressive course difficulty  \n• Time-limited scoring mode  \n• Office-inspired obstacle designs"
+},
+{
 "id": "tiny-golf-king",
 "title": "Tiny Golf King",
 "iframe": "https://html5.gamedistribution.com/4b94472f98f442339ca0eb5312950482/",
