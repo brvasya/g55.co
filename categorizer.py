@@ -158,15 +158,220 @@ def maybe_normalize_tokens(
     return out
 
 
-def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[int]:
-    if not tokens or not key_tokens or len(key_tokens) > len(tokens):
+def plural_surface_forms(t: str) -> set[str]:
+    """Return common plural spellings for a normalized token."""
+    t = (t or "").strip().lower()
+    if not t:
+        return set()
+
+    if t.endswith("y") and len(t) > 1 and t[-2] not in "aeiou":
+        return {t[:-1] + "ies"}
+    if t.endswith(("s", "x", "z", "ch", "sh")):
+        return {t + "es"}
+    return {t + "s"}
+
+
+def gerund_surface_forms(t: str) -> set[str]:
+    """Return a practical gerund spelling for a normalized token."""
+    t = (t or "").strip().lower()
+    if not t:
+        return set()
+
+    if t.endswith("ie") and len(t) > 2:
+        return {t[:-2] + "ying"}
+    if t.endswith("e") and not t.endswith(("ee", "ye")):
+        return {t[:-1] + "ing"}
+    if (
+        len(t) >= 3
+        and t[-1] not in "aeiouwxy"
+        and t[-2] in "aeiou"
+        and t[-3] not in "aeiou"
+    ):
+        return {t + t[-1] + "ing"}
+    return {t + "ing"}
+
+
+def agent_surface_forms(t: str) -> set[str]:
+    """Return a practical -er agent-noun spelling for a normalized token."""
+    t = (t or "").strip().lower()
+    if not t:
+        return set()
+
+    if t.endswith("y") and len(t) > 1 and t[-2] not in "aeiou":
+        return {t[:-1] + "ier"}
+    if t.endswith("e"):
+        return {t + "r"}
+    if (
+        len(t) >= 3
+        and t[-1] not in "aeiouwxy"
+        and t[-2] in "aeiou"
+        and t[-3] not in "aeiou"
+    ):
+        return {t + t[-1] + "er"}
+    return {t + "er"}
+
+
+def is_usable_fused_surface(surface: str) -> bool:
+    surface = (surface or "").strip().lower()
+    if not surface or not surface.isalnum():
+        return False
+    return len(surface) >= 3 or surface in {"2d", "3d", "io", "vs"}
+
+
+def build_fused_lexicon(
+    slugs: list[str],
+    plural_enabled: bool,
+    gerund_enabled: bool,
+    agent_enabled: bool,
+) -> dict[str, list[tuple[str, str]]]:
+    """
+    Build surface -> normalized-token choices from all category filenames.
+
+    The lexicon lets a fully lowercase token such as ``zombieshooter`` be
+    segmented as ``zombie`` + ``shooter`` and normalized to
+    ``zombie`` + ``shoot``. It therefore does not depend on CamelCase.
+    """
+    surface_to_canonical: dict[str, set[str]] = {}
+
+    for slug in slugs:
+        for raw in tokenize_slug(slug):
+            normalized = maybe_normalize_tokens(
+                [raw], plural_enabled, gerund_enabled, agent_enabled
+            )[0]
+            if not normalized:
+                continue
+
+            surfaces = {raw, normalized}
+            if plural_enabled:
+                surfaces.update(plural_surface_forms(normalized))
+            if gerund_enabled:
+                surfaces.update(gerund_surface_forms(normalized))
+            if agent_enabled:
+                surfaces.update(agent_surface_forms(normalized))
+
+            for surface in surfaces:
+                if is_usable_fused_surface(surface):
+                    surface_to_canonical.setdefault(surface, set()).add(normalized)
+
+    by_first: dict[str, list[tuple[str, str]]] = {}
+    for surface, canonicals in surface_to_canonical.items():
+        for canonical in canonicals:
+            by_first.setdefault(surface[0], []).append((surface, canonical))
+
+    for first in by_first:
+        by_first[first].sort(key=lambda pair: (-len(pair[0]), pair[0], pair[1]))
+
+    return by_first
+
+
+def split_fused_token(
+    token: str,
+    fused_lexicon: dict[str, list[tuple[str, str]]],
+) -> list[str]:
+    """Split one lowercase alphanumeric token into two or more known words."""
+    token = (token or "").strip().lower()
+    if len(token) < 6 or not token.isalnum() or not fused_lexicon:
         return []
-    hits = []
+
+    memo = {}
+
+    def solve(pos: int):
+        if pos == len(token):
+            return [], []
+        if pos in memo:
+            return memo[pos]
+
+        best = None
+        best_rank = None
+
+        for surface, canonical in fused_lexicon.get(token[pos], []):
+            if not token.startswith(surface, pos):
+                continue
+
+            # A one-piece exact token is not fused. Keeping it intact also
+            # prevents ordinary category names from being rewritten.
+            if pos == 0 and len(surface) == len(token):
+                continue
+
+            rest = solve(pos + len(surface))
+            if rest is None:
+                continue
+
+            rest_tokens, rest_lengths = rest
+            candidate_tokens = [canonical] + rest_tokens
+            candidate_lengths = [len(surface)] + rest_lengths
+
+            # Prefer the most conservative valid split: fewer pieces first,
+            # then longer pieces, then deterministic lexical ordering.
+            rank = (
+                -len(candidate_tokens),
+                sum(length * length for length in candidate_lengths),
+                tuple(candidate_lengths),
+                tuple(candidate_tokens),
+            )
+            if best_rank is None or rank > best_rank:
+                best_rank = rank
+                best = candidate_tokens, candidate_lengths
+
+        memo[pos] = best
+        return best
+
+    result = solve(0)
+    if result is None or len(result[0]) < 2:
+        return []
+    return result[0]
+
+
+def tokenize_for_matching(
+    text: str,
+    plural_enabled: bool,
+    gerund_enabled: bool,
+    agent_enabled: bool,
+    fused_lexicon: dict[str, list[tuple[str, str]]],
+) -> list[str]:
+    """Tokenize, split recognized fused words, and normalize every part."""
+    out = []
+    for raw in tokenize_slug(text):
+        fused_parts = split_fused_token(raw, fused_lexicon)
+        if fused_parts:
+            out.extend(fused_parts)
+        else:
+            out.extend(
+                maybe_normalize_tokens(
+                    [raw], plural_enabled, gerund_enabled, agent_enabled
+                )
+            )
+    return out
+
+
+def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[int]:
+    if not tokens or not key_tokens:
+        return []
+
+    hits = set()
     k = len(key_tokens)
-    for i in range(0, len(tokens) - k + 1):
-        if tokens[i:i + k] == key_tokens:
-            hits.append(i)
-    return hits
+    if k <= len(tokens):
+        for i in range(0, len(tokens) - k + 1):
+            if tokens[i:i + k] == key_tokens:
+                hits.add(i)
+
+    # Also compare compact forms across token boundaries. This covers both a
+    # fused keyword filename against a spaced title and a spaced keyword
+    # filename against a fused title after normalization.
+    compact_key = "".join(key_tokens)
+    for i in range(len(tokens)):
+        compact_title = ""
+        for j in range(i, len(tokens)):
+            compact_title += tokens[j]
+            if compact_title == compact_key:
+                hits.add(i)
+                break
+            if len(compact_title) >= len(compact_key):
+                break
+            if not compact_key.startswith(compact_title):
+                break
+
+    return sorted(hits)
 
 
 def build_match_priority(hits: list[int], key_tokens: list[str], slug: str) -> tuple[int, int, int, int]:
@@ -369,6 +574,7 @@ class CategorizerApp(tk.Tk):
         plural_enabled: bool,
         gerund_enabled: bool,
         agent_enabled: bool,
+        fused_lexicon: dict[str, list[tuple[str, str]]],
     ):
         keywords = []
         for fn in self.files:
@@ -377,8 +583,13 @@ class CategorizerApp(tk.Tk):
             slug = slug_from_filename(fn)
             if not slug:
                 continue
-            tokens = tokenize_slug(slug)
-            tokens = maybe_normalize_tokens(tokens, plural_enabled, gerund_enabled, agent_enabled)
+            tokens = tokenize_for_matching(
+                slug,
+                plural_enabled,
+                gerund_enabled,
+                agent_enabled,
+                fused_lexicon,
+            )
             keywords.append({"file": fn, "slug": slug, "tokens": tokens})
 
         keywords.sort(key=lambda k: (len(k["tokens"]), len(k["slug"])), reverse=True)
@@ -395,14 +606,32 @@ class CategorizerApp(tk.Tk):
         gerund_enabled = bool(self.gerunds_var.get())
         agent_enabled = bool(self.agent_nouns_var.get())
 
-        keywords = self.build_keyword_map(plural_enabled, gerund_enabled, agent_enabled)
+        all_slugs = [slug_from_filename(fn) for fn in self.files]
+        fused_lexicon = build_fused_lexicon(
+            all_slugs,
+            plural_enabled,
+            gerund_enabled,
+            agent_enabled,
+        )
+
+        keywords = self.build_keyword_map(
+            plural_enabled,
+            gerund_enabled,
+            agent_enabled,
+            fused_lexicon,
+        )
         if not keywords:
             messagebox.showinfo("No keywords", "No other categories found to use as keywords.")
             return
 
         current_slug = slug_from_filename(self.current_file)
-        current_tokens = tokenize_slug(current_slug)
-        current_tokens = maybe_normalize_tokens(current_tokens, plural_enabled, gerund_enabled, agent_enabled)
+        current_tokens = tokenize_for_matching(
+            current_slug,
+            plural_enabled,
+            gerund_enabled,
+            agent_enabled,
+            fused_lexicon,
+        )
 
         self.clear_results()
 
@@ -415,8 +644,13 @@ class CategorizerApp(tk.Tk):
             if not title:
                 continue
 
-            title_tokens = tokenize_slug(title)
-            title_tokens = maybe_normalize_tokens(title_tokens, plural_enabled, gerund_enabled, agent_enabled)
+            title_tokens = tokenize_for_matching(
+                title,
+                plural_enabled,
+                gerund_enabled,
+                agent_enabled,
+                fused_lexicon,
+            )
 
             current_priority = None
             current_hits = []
