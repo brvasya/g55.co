@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "crafttower",
+"title": "CraftTower",
+"iframe": "https://html5.gamedistribution.com/75efd864d09a482bb1e4b00817b724ce/",
+"description": "Stack blocks precisely to build the tallest tower possible in this physics-based casual game. Players balance each piece carefully on shifting platforms, testing their timing and spatial awareness. Increasingly unstable conditions and narrowing surfaces create a steady challenge as you aim to reach new heights and beat your previous records.\n\nKey Features\n\n• Physics driven stacking mechanic  \n• Precise block placement control  \n• Balancing under dynamic conditions  \n• Increasing difficulty with tower height  \n• Minimalist casual visual theme"
+},
+{
 "id": "fruity-craft-merge",
 "title": "Fruity Craft Merge",
 "iframe": "https://html5.gamedistribution.com/6ffd8a287f944d2584e5fcf6bfdc2b3f/",

@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "ultra-realistic-blockcraft",
+"title": "Ultra Realistic BlockCraft",
+"iframe": "https://html5.gamedistribution.com/484487c7d43b415c85db89d8e007c684/",
+"description": "Navigate blocky landscapes to strategically place and break blocks using physics-based interactions in this visually detailed casual sandbox. Players experiment with spatial puzzles and building challenges centered on realistic block behavior. The game’s core mechanic involves manipulating individual blocks’ positions to create or solve structures with gradual complexity. Exploration of block properties drives the main challenge. \n\nKey Features\n\n• Physics-based block placement  \n• Intuitive drag-and-drop controls  \n• Progressive puzzle difficulty  \n• Sandbox mode for free building  \n• Voxel-style detailed environment"
+},
+{
+"id": "blockcraft-truck-jigsaw",
+"title": "Blockcraft Truck Jigsaw",
+"iframe": "https://html5.gamedistribution.com/17bdc8aacafb4a68b9ed75b020029f14/",
+"description": "Assemble intricate truck-shaped puzzles by fitting various jigsaw pieces together to complete blocky vehicle images. The gameplay centers on pattern recognition and spatial arrangement, with players challenged to finish colorful, pixelated trucks. Progression occurs through increasingly complex puzzles that test observation and problem-solving under casual, kid-friendly themes.\n\nKey Features\n\n• Detailed truck jigsaw puzzles  \n• Piece rotation and placement controls  \n• Gradual puzzle complexity scaling  \n• Time-trial and relaxed modes  \n• Vibrant pixel art truck designs"
+},
+{
+"id": "blockpuzzle-color-blast",
+"title": "BlockPuzzle : Color Blast",
+"iframe": "https://html5.gamedistribution.com/e194ba517b1a466fbcf793ac34828957/",
+"description": "Arrange and clear colorful shapes by fitting blocks into the grid to complete vibrant patterns and progress through increasingly challenging puzzles. The core mechanic revolves around strategic placement of differently shaped pieces, aiming to clear lines and maximize space efficiency. Players can advance by unlocking new block sets and mastering layout tactics against time or limited moves.\n\nKey Features\n\n• Strategic block placement mechanic  \n• Drag and drop color matching controls  \n• Progressive puzzle difficulty levels  \n• Time-based and move-limited modes  \n• Bright, colorful grid design"
+},
+{
+"id": "blockcraft-cars-jigsaw",
+"title": "Blockcraft Cars Jigsaw",
+"iframe": "https://html5.gamedistribution.com/8674797a405b49ccaf71584d0c66a579/",
+"description": "Solve custom car-shaped puzzles by assembling colorful jigsaw pieces that fit into blocky vehicle silhouettes. Players progress through various car models featuring distinctive block-style designs, honing spatial recognition and pattern matching skills. This casual puzzle format challenges quick placement and careful observation to complete each unique car image smoothly.\n\nKey Features\n\n• Block-style vehicle silhouettes  \n• Piece rotation and fitting mechanics  \n• Multiple car model puzzles  \n• Time-based completion challenge  \n• Casual puzzle gameplay atmosphere"
+},
+{
+"id": "blockcraft-cars-hidden-keys",
+"title": "Blockcraft Cars Hidden Keys",
+"iframe": "https://html5.gamedistribution.com/a7367fb9c72c4070bed0bd7a45aa189e/",
+"description": "Explore detailed blocky environments while driving a variety of customizable cars to uncover hidden keys scattered across different locations. The game combines casual driving mechanics with exploratory puzzle elements, challenging players to navigate unique maps and unlock new areas. Collect keys to progress through levels that feature pixelated graphics and interactive objects for discovery.\n\nKey Features\n\n• Customizable vehicle selection  \n• Exploration-driven key discovery  \n• Progressive unlockable areas  \n• Simple driving control scheme  \n• Pixel art block environment"
+},
+{
 "id": "break-a-lucky-block",
 "title": "Break a Lucky Block!",
 "iframe": "https://html5.gamedistribution.com/888a2117ad844ae98181a85d1b8764df/",
@@ -1111,12 +1141,6 @@
 "description": "Launch colorful bubbles strategically to break through stacks of blocks while managing limited shots and obstacles. Players control bubble angles and timing to clear rows of bricks with varying durability, aiming to prevent the blocks from reaching the bottom of the screen. The game features progressive difficulty where tougher blocks require multiple hits to destroy.\n\nKey Features\n\n• Bubble trajectory aiming system  \n• Limited shot count management  \n• Blocks with variable hit points  \n• Increasing level difficulty stages  \n• Casual arcade puzzle setup"
 },
 {
-"id": "pixelcraft-hidden-diamond-blocks",
-"title": "Pixelcraft Hidden Diamond Blocks",
-"iframe": "https://html5.gamedistribution.com/106b464486ec403293166935cb3a35fa/",
-"description": "Mine pixelated blocks to reveal hidden diamonds while navigating a tile-based grid in this casual puzzle game. Players use careful block-selection mechanics to uncover valuable gems beneath the surface, aiming to maximize their finds before running out of moves. Progression involves increasingly complex block layouts that challenge pattern recognition and strategic thinking.\n\nKey Features\n\n• Tile-based block mining  \n• Strategic block selection controls  \n• Increasingly complex grid patterns  \n• Limited moves challenge system  \n• Pixel-art gem discovery theme"
-},
-{
 "id": "brick-block",
 "title": "Brick Block",
 "iframe": "https://html5.gamedistribution.com/7e5f2d550b824b9ebde0789d065b9290/",
@@ -1151,12 +1175,6 @@
 "title": "Block Pile",
 "iframe": "https://html5.gamedistribution.com/05f54d8c0d3243f0b86741c60dab2aec/",
 "description": "Stack falling blocks quickly to clear piles and prevent the screen from overflowing in this casual puzzler. Players must position pieces with precision as they form complete lines to keep progressing. The game challenges quick spatial reasoning and timing without any complex setting, offering straightforward, engaging gameplay for casual fans and younger players.\n\nKey Features\n\n• Fast-paced block stacking  \n• Precision placement controls  \n• Increasing pile height challenge  \n• Line clearing for score progression  \n• Minimalistic casual puzzle design"
-},
-{
-"id": "blocks-super-match3",
-"title": "Blocks Super Match3",
-"iframe": "https://html5.gamedistribution.com/390c0781733d4354a322817cdce3ed77/",
-"description": "Match colored blocks to create combos and clear levels in this tile-based puzzle game. Players use drag-and-drop controls to swap adjacent blocks, aiming to complete level-specific objectives under move limits. Puzzle variations introduce locked tiles and special blocks, increasing challenge as players advance through a grid-themed environment.\n\nKey Features\n\n• Tile matching core mechanic  \n• Drag-and-drop block swapping  \n• Move-limited level progression  \n• Locked and special block challenges  \n• Grid-based puzzle layout"
 },
 {
 "id": "slide-block-fall-down",

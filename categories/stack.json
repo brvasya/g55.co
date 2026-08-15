@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "stackball-io",
+"title": "StackBall.io",
+"iframe": "https://html5.gamedistribution.com/5258fdc404504bf386327bdfe255e4b3/",
+"description": "Bounce a ball down a twisting tower by breaking through colorful platforms while avoiding black obstacles that end your run. The core mechanic revolves around fast-paced timing and reflexes as you control the ball’s descent by bouncing and smashing through layers. Each level tests precision and rhythm with increasing speed and complexity for casual players.\n\nKey Features\n\n• Platform breaking physics  \n• Bounce control input  \n• Increasing tower descent speed  \n• Obstacle avoidance challenge  \n• Stacked level progression"
+},
+{
 "id": "chickz-stack",
 "title": "ChickZ Stack",
 "iframe": "https://html5.gamedistribution.com/96f82746df35411e81a1227bc9fbd798/",

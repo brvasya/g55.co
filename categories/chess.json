@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "gbox-chessmazes",
+"title": "GBox ChessMazes",
+"iframe": "https://html5.gamedistribution.com/d0a71c0e57ce4ee3b9c0496d037bfc4c/",
+"description": "Navigate intricate puzzle grids by strategically moving chess pieces through maze-like layouts, combining classic board mechanics with spatial reasoning challenges. Players advance by unlocking pathways and overcoming blockages created by uniquely shaped maze walls. Each level introduces increasingly complex routes and demands precise planning to reach the goal position efficiently.\n\nKey Features\n\n• Chess piece movement puzzles  \n• Grid-based spatial navigation  \n• Increasing difficulty curve  \n• Unlockable maze segments  \n• Abstract minimalist environment"
+},
+{
 "id": "chess-multiplayer-online",
 "title": "Chess Multiplayer Online",
 "iframe": "https://html5.gamedistribution.com/7ad8fee4eccb422aa1fcbf9c2038cdc7/",

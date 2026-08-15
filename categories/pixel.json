@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "pixelcraft-jigsaw",
+"title": "Pixelcraft Jigsaw",
+"iframe": "https://html5.gamedistribution.com/1f327ecddf0d42fbb163815f2eaf3cc9/",
+"description": "Arrange pixelated jigsaw pieces to complete vibrant images using drag-and-drop controls in this casual puzzle challenge. Puzzle complexity increases gradually, requiring careful pattern recognition and spatial organization skills. Players navigate a neat interface designed for relaxed progression and accessible gameplay. Solve each level to unlock new pixel-art puzzles with charming detail and color.\n\nKey Features\n\n• Drag-and-drop piece placement  \n• Increasing puzzle complexity levels  \n• Pattern matching and spatial reasoning  \n• Time tracking optional mode  \n• Pixel art visual style"
+},
+{
+"id": "pixelcraft-differences",
+"title": "Pixelcraft Differences",
+"iframe": "https://html5.gamedistribution.com/0ea83f427c75415e9409b257dc2709a8/",
+"description": "Spot differences between two pixel art images by carefully examining each section for subtle variations. The gameplay challenges players to identify discrepancies in a timed setting, relying on sharp observation to progress through multiple visually intricate scenes. Each level introduces new layouts, encouraging focus and speed to complete increasingly complex pixel-perfect comparisons.\n\nKey Features\n\n• Spot the pixel art differences  \n• Timed visual puzzle rounds  \n• Incremental level complexity  \n• Click or tap selection controls  \n• Colorful retro pixel scenes"
+},
+{
+"id": "pixelcraft-hidden-diamond-blocks",
+"title": "Pixelcraft Hidden Diamond Blocks",
+"iframe": "https://html5.gamedistribution.com/106b464486ec403293166935cb3a35fa/",
+"description": "Mine pixelated blocks to reveal hidden diamonds while navigating a tile-based grid in this casual puzzle game. Players use careful block-selection mechanics to uncover valuable gems beneath the surface, aiming to maximize their finds before running out of moves. Progression involves increasingly complex block layouts that challenge pattern recognition and strategic thinking.\n\nKey Features\n\n• Tile-based block mining  \n• Strategic block selection controls  \n• Increasingly complex grid patterns  \n• Limited moves challenge system  \n• Pixel-art gem discovery theme"
+},
+{
 "id": "pixel-journey",
 "title": "Pixel Journey",
 "iframe": "https://html5.gamedistribution.com/9092aea23740452c987308b4bd9ad602/",

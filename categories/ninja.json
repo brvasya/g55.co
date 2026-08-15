@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ninjadash",
+"title": "NinjaDash",
+"iframe": "https://html5.gamedistribution.com/65e44f1237b24683ae56896c6207d4c3/",
+"description": "Dash through fast-paced obstacle sequences using precise timing in this casual game designed for quick reflexes and smooth control. Navigate diverse level themes filled with dynamic hazards, where the objective is to reach the end without losing momentum or life. Timing jumps and dodges unlock new stages and challenge increasingly complex movement patterns.\n\nKey Features\n\n• Precision-based jumping mechanic  \n• Responsive touch and keyboard controls  \n• Progressive obstacle difficulty scaling  \n• Unlockable stages with unique layouts  \n• Dynamic environmental hazards"
+},
+{
 "id": "ninja-survivor",
 "title": "Ninja Survivor",
 "iframe": "https://html5.gamedistribution.com/6ff158a48fed4f3aa40877422662a71a/",

@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "noobhood-halloweencraft",
+"title": "NoobHood HalloweenCraft",
+"iframe": "https://html5.gamedistribution.com/edec3f0a547a4e88985fcb91554b8664/",
+"description": "Build and customize your own pixel-style world by collecting resources and crafting items in a sandbox environment. Use block placement mechanics to shape structures and explore evolving areas while overcoming obstacles. The game blends creative building with exploration, offering a charming seasonal twist tied to Halloween themes and characters.\n\nKey Features\n\n• Block placement crafting system  \n• Resource gathering mechanics  \n• Progression through unlockable items  \n• Seasonal Halloween environment  \n• Exploration with collectible challenges"
+},
+{
+"id": "wugy-halloweentower-war",
+"title": "Wugy HalloweenTower War",
+"iframe": "https://html5.gamedistribution.com/90d708b11a71494cb6cca14c6872b590/",
+"description": "Command waves of troops to defend and conquer in this Halloween-themed tower battle game. Players deploy unique unit combinations to withstand relentless enemy assaults while upgrading fortifications for stronger defense. Strategic placement and timing are crucial in navigating levels filled with dynamic enemy types and obstacles. Progress through increasingly challenging stages to dominate the spooky battlefield.\n\nKey Features\n\n• Troop deployment strategy  \n• Real-time tower defense control  \n• Progressive upgrade system  \n• Multiple enemy archetypes  \n• Halloween-themed battle environment"
+},
+{
 "id": "bingo-halloween",
 "title": "Bingo Halloween",
 "iframe": "https://html5.gamedistribution.com/1689e447cc5c4c809edee18b20fd1225/",
@@ -251,12 +263,6 @@
 "title": "Halloween Snake and Blocks",
 "iframe": "https://html5.gamedistribution.com/44785ece69034b0d8b0d7b29d06c6132/",
 "description": "Navigate a growing snake through clusters of numbered blocks, breaking them by matching the snake's length with each block’s value. The unique blend of classic snake movement and block-breaking strategy challenges players to avoid losing length while clearing increasingly dense obstacles. Set against a Halloween backdrop, the game tests timing and spatial awareness with its progressive difficulty.\n\nKey Features\n\n• Length-based block clearing  \n• Precise snake movement control  \n• Increasingly complex block patterns  \n• Progressive level difficulty system  \n• Halloween-themed visual style"
-},
-{
-"id": "halloween-clown-dressup",
-"title": "Halloween Clown Dressup",
-"iframe": "https://html5.gamedistribution.com/60dbe0c9176b4bc8af3bc8fd3a4cd0c0/",
-"description": "Mix and match clown costumes and accessories to create spooky Halloween looks for your character in this dressup game. Use a wardrobe selection mechanic to customize outfits, combining hats, makeup, and clothing to complete eerie styles. The challenge lies in crafting unique Halloween clown appearances while exploring a broad collection of themed items.\n\nKey Features\n\n• Wardrobe selection customization  \n• Drag and drop outfit controls  \n• Unlockable costume pieces  \n• Multiple makeup and accessory options  \n• Halloween clown visual theme"
 },
 {
 "id": "halloween-ghost-balls",
@@ -611,12 +617,6 @@
 "title": "Halloween Painting Slide",
 "iframe": "https://html5.gamedistribution.com/bfd0d98d405a42e9b08842491a2c007c/",
 "description": "Slide colorful panels across a puzzle grid to complete spooky images in this Halloween-themed brain teaser. Players manipulate tile positions by carefully swapping elements to reveal hidden drawings, challenging their spatial reasoning. Each level presents unique pattern arrangements, demanding quick strategic moves to clear puzzles before reaching the final haunting design.\n\nKey Features\n\n• Sliding tile puzzle mechanics  \n• Strategic panel swapping control  \n• Increasing pattern complexity  \n• Time-based challenge progression  \n• Halloween art style themes"
-},
-{
-"id": "cute-halloween-dressup",
-"title": "Cute Halloween Dressup",
-"iframe": "https://html5.gamedistribution.com/daaf7fcde7ad4ac1845f5211672aaa59/",
-"description": "Select and customize spooky outfits using layered wardrobe elements in this Halloween-themed dress-up experience. Players mix and match clothing pieces with drag-and-drop controls to style a festive character while unlocking new costume items through completing themed challenges. Experimenting with accessories and makeup creates unique looks for seasonal fun and creativity.\n\nKey Features\n\n• Layered outfit customization system  \n• Drag-and-drop clothing controls  \n• Unlockable themed costume sets  \n• Accessory and makeup styling options  \n• Seasonal Halloween design elements"
 },
 {
 "id": "scary-halloween-party",

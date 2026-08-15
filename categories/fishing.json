@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "fishconnect",
+"title": "FISHCONNECT",
+"iframe": "https://html5.gamedistribution.com/dce5b0a6b05945c2abf0382ce7d0d852/",
+"description": "Match colorful fish by connecting paths in a grid to clear levels and earn points. The game’s core mechanic revolves around strategic path linking between aquatic creatures to create chain reactions. Players aim to complete puzzles with limited moves while discovering new connection patterns and unlocking varied challenges.\n\nKey Features\n\n• Path linking puzzle system  \n• Grid-based movement controls  \n• Move-limited level progression  \n• Chain reaction scoring mechanic  \n• Aquatic theme visual elements"
+},
+{
+"id": "the-fishercat-online",
+"title": "The Fishercat Online",
+"iframe": "https://html5.gamedistribution.com/f3083f5d56c94fde992dcae559c07541/",
+"description": "Cast fishing lines and manage your catching strategy in a charming online world where skillful timing and pattern recognition guide success. Players engage with a dynamic fishing mechanic that requires precision and patience to reel in diverse aquatic creatures. Progression unfolds through unlocking new fishing spots and improving gear, offering a steady challenge for casual players.\n\nKey Features\n\n• Precision casting mechanic  \n• Dynamic fish behavior patterns  \n• Gear upgrade system  \n• Exploration of multiple fishing zones  \n• Casual multiplayer interaction"
+},
+{
+"id": "fish3d-io",
+"title": "Fish3D.io",
+"iframe": "https://html5.gamedistribution.com/f7c3aa63b13641ee8d7d2ffbbe1bdf4b/",
+"description": "Navigate a vibrant aquatic arena by controlling a colorful fish to outmaneuver rivals and dominate the underwater landscape. The game centers on responsive movement that rewards quick reflexes and strategic positioning among schools of differently sized opponents. Compete to grow larger by consuming smaller fish while avoiding threats, with a dynamic environment fueling constant challenges.\n\nKey Features\n\n• Fluid 3D swimming controls  \n• Competitive growth mechanics  \n• Reactive AI fish behaviors  \n• Real-time arena survival scoring  \n• Colorful oceanic multiplayer setting"
+},
+{
 "id": "fishing-dog",
 "title": "Fishing Dog",
 "iframe": "https://html5.gamedistribution.com/d1edf119422340008b296deb6c345bb4/",
@@ -605,12 +623,6 @@
 "title": "Cute Fish Memory Challenge",
 "iframe": "https://html5.gamedistribution.com/2fd8bc10c9804287a7f2ff2dce911bbe/",
 "description": "Match pairs of colorful aquatic creatures by memorizing their positions in a timed sequence. This memory challenge uses a grid layout where players flip cards to reveal cute fish, testing recall accuracy under pressure. Progress through increasing difficulty levels featuring more fish pairs and shorter reveal times to sharpen visual memory skills in a playful marine setting.\n\nKey Features\n\n• Card flipping memory mechanic  \n• Timed recall grid puzzles  \n• Increasing pair count difficulty  \n• Accuracy scoring system  \n• Playful underwater visuals"
-},
-{
-"id": "fish-world-match3",
-"title": "Fish World Match3",
-"iframe": "https://html5.gamedistribution.com/518852b65c2c431b9779e4ca9accfc14/",
-"description": "Match colorful sea creatures by swapping tiles in a grid-based puzzle to clear the board and uncover hidden marine life. Players chain combos of fish and ocean objects using classic match-three mechanics while navigating progressively challenging stages. The game blends vibrant underwater visuals with strategic tile matching to achieve high scores and unlock new levels.\n\nKey Features\n\n• Tile swapping matching system  \n• Combo chain scoring mechanics  \n• Level-based board progression  \n• Timed and move-limited puzzles  \n• Underwater sea creature theme"
 },
 {
 "id": "fishing-mania",

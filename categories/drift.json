@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "driftclicker",
+"title": "DriftClicker",
+"iframe": "https://html5.gamedistribution.com/a02de4821afa46c3b69dd95385c314db/",
+"description": "Click rapidly to trigger cascading effects on dynamic drifting objects, manipulating their speed and trajectory to unlock new interactive stages. Players experiment with unique incremental mechanics centered around timing and precision to maximize scores. The gameplay blends simple click controls with evolving challenges, encouraging skillful rhythm and accuracy in each progression phase.\n\nKey Features\n\n• Incremental click timing system  \n• Dynamic object drift physics  \n• Score based level unlocks  \n• Cascading combo multipliers  \n• Minimalist casual interface"
+},
+{
 "id": "slippery-drift-racing",
 "title": "Slippery Drift Racing",
 "iframe": "https://html5.gamedistribution.com/f312653358ec4c959a68e43bef2b72c6/",

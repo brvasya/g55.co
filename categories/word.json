@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "wordsoccer-io",
+"title": "Wordsoccer.io",
+"iframe": "https://html5.gamedistribution.com/6b79c78e9fee464ab85abb0b4469d616/",
+"description": "Control a dynamic online soccer match where quick word formation replaces traditional ball passing, challenging your vocabulary and reflexes. Use letter tiles to craft words that score points and maneuver your team across the field in real time. Fast decision making and strategic wordplay determine your success in this unique io hybrid.\n\nKey Features\n\n• Real-time word creation mechanics  \n• Multiplayer arena control system  \n• Progressive scoring and ranking  \n• Turn-based letter placement control  \n• Casual sports-themed competition"
+},
+{
 "id": "theme-word-search",
 "title": "Theme word search",
 "iframe": "https://html5.gamedistribution.com/8ef6df8127544198bb85cff7df89ef02/",

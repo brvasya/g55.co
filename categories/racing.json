@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "racecar-steeplechase-master",
+"title": "Racecar Steeplechase Master",
+"iframe": "https://html5.gamedistribution.com/ca1d5f237047461faab7d4f2d8bd5de1/",
+"description": "Navigate a series of challenging jumps as you race a customizable steeplechase vehicle across dynamic obstacle tracks. Precise timing and quick reflexes drive the core gameplay, demanding careful control of your car's speed and balance to clear hurdles while maintaining momentum. Each stage tests your ability to master varied terrain and obstacle patterns, aiming for the fastest course completion.\n\nKey Features\n\n• Precision timing vehicle control  \n• Dynamic obstacle negotiation  \n• Momentum-based speed management  \n• Progressive course difficulty  \n• Casual racing obstacle theme"
+},
+{
 "id": "racing-in-city",
 "title": "Racing in City",
 "iframe": "https://html5.gamedistribution.com/670fce13db0d4edbb396fa155db80f11/",
@@ -1223,12 +1229,6 @@
 "title": "SuperCar Racing",
 "iframe": "https://html5.gamedistribution.com/b371cbb4c6654b96a94248c957ac90e7/",
 "description": "Race agile supercars through tightly designed tracks focusing on precision steering and reactive acceleration control to outpace rivals. Players navigate sharp corners and varied track layouts while optimizing boost management to secure first place in competitive circuits. The game emphasizes vehicle handling skills and lap time improvement across multiple racing tournaments.\n\nKey Features\n\n• Precision steering control system  \n• Boost management mechanic  \n• Multiple competitive circuits  \n• Time trial and championship modes  \n• Supercar-themed race environments"
-},
-{
-"id": "off-road-4x4-jeep-racing-xtreme-3d",
-"title": "Off road 4X4 Jeep Racing Xtreme 3D",
-"iframe": "https://html5.gamedistribution.com/8fbfa5123696414b872fc908ca610c9f/",
-"description": "Navigate rugged off-road trails in a powerful 4X4 Jeep, mastering dynamic control mechanics to overcome rough terrain. Players maneuver tight corners and steep slopes, aiming to finish courses against challenging time limits. With varied environments and vehicle handling based on terrain physics, the game tests driving precision and adaptability in intense racing conditions.\n\nKey Features\n\n• Physics-based off-road driving  \n• Responsive 4X4 vehicle controls  \n• Time trial progression system  \n• Terrain impact on handling  \n• Jeep racing in rugged environments"
 },
 {
 "id": "road-racing-highway-car-chase",

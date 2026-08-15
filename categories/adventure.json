@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "steve-adventurecraft-aqua",
+"title": "Steve AdventureCraft Aqua",
+"iframe": "https://html5.gamedistribution.com/dc420a9e29654ef2bcd887ff6120dcc3/",
+"description": "Explore underwater realms by guiding Steve through puzzle-solving and resource gathering using clever block manipulation. Players interact with environmental elements to unlock new paths while managing limited air supply in watery stages. The challenge lies in mastering timing and spatial awareness to progress through diverse aquatic levels.\n\nKey Features\n\n• Block manipulation puzzles  \n• Timing-based movement controls  \n• Air supply management mechanic  \n• Level progression through unlockables  \n• Underwater-themed environment"
+},
+{
+"id": "steve-adventurecraft-nether",
+"title": "Steve AdventureCraft Nether",
+"iframe": "https://html5.gamedistribution.com/2fc13a70715c4d19a3ad3a3e7c9c1a84/",
+"description": "Explore blocky terrain by mining resources and crafting tools in this casual sandbox adventure. Navigate procedurally generated Nether-like worlds while managing inventory and avoiding hostile mobs. The game challenges players to gather materials and survive through strategic resource use and environmental navigation. Progress by expanding your crafting repertoire and exploring diverse underground biomes.\n\nKey Features\n\n• Resource gathering and crafting  \n• Inventory management controls  \n• Procedural Nether biome generation  \n• Hostile mob avoidance tactics  \n• Crafting-based progression system"
+},
+{
 "id": "fox-adventure",
 "title": "Fox Adventure",
 "iframe": "https://html5.gamedistribution.com/a8ac99e5ba244f5fb4138880dbee5339/",
@@ -71,12 +83,6 @@
 "title": "Typing Adventure",
 "iframe": "https://html5.gamedistribution.com/7394b1cc17484d47a33718374c2a59ec/",
 "description": "Race against time by typing words quickly to advance through levels in this adventure-themed game. Players improve their typing accuracy and speed to overcome challenges while unlocking new stages that test reflexes and skill. The core mechanic revolves around on-the-fly word recognition under pressure, providing a progressively demanding gameplay environment suitable for casual gamers and younger audiences.\n\nKey Features\n\n• Timed typing challenge system  \n• Progressive word difficulty tiers  \n• Speed and accuracy tracking  \n• Level-based unlock progression  \n• Casual-friendly keyboard interaction"
-},
-{
-"id": "heroball-adventures-2",
-"title": "HeroBall Adventures 2",
-"iframe": "https://html5.gamedistribution.com/10f1eb1a1b2a4eeeb0ab0807c0c1b08b/",
-"description": "Navigate dynamic puzzle arenas using precise timing and reflexes to collect scattered relics and unlock new levels. Players manipulate bouncing balls with unique physics behavior, adapting to varying platform layouts and obstacle patterns. Each stage offers escalating complexity, encouraging skillful control to overcome traps and environmental puzzles in a vibrant fantasy world.\n\nKey Features\n\n• Physics-based ball control  \n• Reaction timing challenges  \n• Multi-level puzzle progression  \n• Unlockable ball skins  \n• Fantasy platform environments"
 },
 {
 "id": "egg-adventure-2",
@@ -485,12 +491,6 @@
 "title": "Shadoworld Adventure",
 "iframe": "https://html5.gamedistribution.com/7ab94d63e147481f898896b4b385fc6f/",
 "description": "Explore mysterious environments by solving intricate puzzles in a shadow-driven world where controlling light and darkness shapes your path. Navigate shifting terrains using a unique light manipulation mechanic to uncover hidden secrets and overcome spatial challenges. Levels gradually unlock new shadow abilities, inviting careful planning and creative problem-solving.\n\nKey Features\n\n• Light manipulation puzzle mechanics  \n• Environmental navigation controls  \n• Progressive shadow ability unlocks  \n• Inventory-based item interaction  \n• Dark fantasy aesthetic elements"
-},
-{
-"id": "heroball-adventures",
-"title": "Heroball Adventures",
-"iframe": "https://html5.gamedistribution.com/e08e8bbd00df4038a71dc2a30b71d7b8/",
-"description": "Navigate a series of platform-based puzzles using physics-driven ball movement to reach new stages filled with unique obstacles. Each level requires precise timing and spatial awareness as players control the trajectory of rolling orbs through vibrant environments designed for casual exploration. Challenges increase progressively, inviting players to master momentum and timing to advance.\n\nKey Features\n\n• Physics-based ball movement  \n• Precision timing controls  \n• Progressive puzzle complexity  \n• Multiple environment themes  \n• Collectible item challenges"
 },
 {
 "id": "dolfje-weerwolfje-soup-adventure",

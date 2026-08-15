@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "spacewars-invaders",
+"title": "Spacewars Invaders",
+"iframe": "https://html5.gamedistribution.com/83b1f90cab554e86b92d29c6d44d60b3/",
+"description": "Navigate waves of hostile alien ships using precise turret aiming and rapid-fire shots to eliminate encroaching enemies across multiple levels. Players manage defensive positioning while adapting to escalating attack patterns, aiming to protect their base in a classic space combat setting. The core mechanic centers on shooting accuracy combined with strategic movement through increasingly challenging stages.\n\nKey Features\n\n• Rapid-fire turret control  \n• Progressive enemy wave patterns  \n• Defensive base protection  \n• Score multiplier system  \n• Retro space shooter theme"
+},
+{
+"id": "spacecraft-i",
+"title": "Spacecraft I",
+"iframe": "https://html5.gamedistribution.com/50dc5582b3544f5b9f0fe33a0efb05e4/",
+"description": "Navigate dynamic asteroid fields using precision thruster controls in this space-themed casual game. Players pilot a small, agile spacecraft, relying on careful momentum management to avoid collisions and collect valuable resources. Each level challenges reflexes and spatial awareness as obstacles become progressively complex, testing navigation skill in infinite survival mode.\n\nKey Features\n\n• Momentum-based flight controls  \n• Resource collection mechanics  \n• Increasing obstacle complexity  \n• Infinite survival gameplay  \n• Asteroid belt spatial challenges"
+},
+{
+"id": "spacecraft-ii",
+"title": "Spacecraft II",
+"iframe": "https://html5.gamedistribution.com/a45556c70c7743318873c725b0d81e58/",
+"description": "Pilot a compact spacecraft through dynamic cosmic environments, navigating precise maneuvering controls to avoid obstacles and collect resources. The gameplay emphasizes tight steering mechanics paired with timed resource gathering as you progress through increasingly complex spatial challenges. Players must master smooth navigation to survive in shifting asteroid fields and unlock new levels of interstellar exploration.\n\nKey Features\n\n• Precision spacecraft control  \n• Resource collection system  \n• Increasing spatial navigation difficulty  \n• Level-based progression checkpoints  \n• Asteroid field obstacle patterns"
+},
+{
 "id": "space-war",
 "title": "Space War",
 "iframe": "https://html5.gamedistribution.com/a04c7ea80b864900b4ab86dacd05fdfa/",
@@ -545,12 +563,6 @@
 "title": "Space Roll",
 "iframe": "https://html5.gamedistribution.com/4bc9a2dc825b42c887178da94a69b193/",
 "description": "Roll spherical objects through increasingly complex obstacle courses, mastering momentum and timing in a casual physics-based challenge. Navigate narrow platforms and rotating barriers to reach checkpoints while avoiding pitfalls. The core mechanic revolves around precise rolling control on modular levels designed for escalating difficulty, ideal for casual players seeking quick reflex puzzles.\n\nKey Features\n\n• Momentum based rolling control  \n• Modular obstacle course progression  \n• Timing precision challenges  \n• Checkpoint recovery system  \n• Colorful platform environments"
-},
-{
-"id": "space-match3",
-"title": "Space Match3",
-"iframe": "https://html5.gamedistribution.com/e57c5cba342d4be981836b4c11d38bbb/",
-"description": "Match colored tiles by swapping adjacent pieces within a limited move count to clear the board and score points. The game uses classic match-3 mechanics set against an interstellar backdrop where players progress through an increasing difficulty curve. Strategic tile selection and combo chaining are essential to conquer challenging levels scattered across the galaxy.\n\nKey Features\n\n• Tile swapping puzzle mechanics  \n• Move limit strategy system  \n• Level progression with increasing difficulty  \n• Combo chaining for score multipliers  \n• Space-themed board designs"
 },
 {
 "id": "space-attack-chicken-invaders",

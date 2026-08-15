@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "fgp-bubbleshooter",
+"title": "FGP Bubbleshooter",
+"iframe": "https://html5.gamedistribution.com/127c290309bb4b7096dab06c711ad58e/",
+"description": "Match colored bubbles by aiming and shooting with precision to clear the screen in this casual puzzle game. Players use a classic bubble shooter mechanic where clusters of three or more bubbles pop upon contact, progressing through increasingly challenging layouts. Timing shots and planning angles add a strategic layer, while multiple levels provide steady difficulty growth.\n\nKey Features\n\n• Precision aiming bubble shots  \n• Cluster matching bubble mechanic  \n• Level progression with layout variation  \n• Score tracking and combo system  \n• Casual puzzle with colorful bubbles"
+},
+{
 "id": "bubble-shooter-pirate-treasures",
 "title": "Bubble Shooter Pirate Treasures",
 "iframe": "https://html5.gamedistribution.com/ceccfc14ea414640840979ab92790710/",

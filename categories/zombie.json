@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "zombiecraft-2",
+"title": "ZombieCraft 2",
+"iframe": "https://html5.gamedistribution.com/2e1d31ed3a3a4c98974176dff242a9a2/",
+"description": "Build and defend blocky bases while fending off waves of pixelated zombie enemies in this action-driven crafting shooter. Players navigate a voxel-style world using a combination of shooting and construction mechanics to gather resources and survive increasing horde challenges. Progress involves upgrading weapons and fortifications to withstand tougher undead assaults.\n\nKey Features\n\n• First-person voxel shooting  \n• Base building and fortification  \n• Resource collection and crafting  \n• Wave-based enemy progression  \n• Pixel-art zombie undead theme"
+},
+{
+"id": "zombiehunter-io",
+"title": "ZombieHunter.IO",
+"iframe": "https://html5.gamedistribution.com/7e4b1e485a0248fea8239ebc387203a2/",
+"description": "Survive waves of relentless zombie hordes while scavenging for weapons and upgrades in this fast-paced io game. Players navigate a minimalistic map using precise aiming and shooting mechanics to defend their position against growing enemy numbers. The challenge lies in managing limited resources and adapting to increasing threat levels to achieve the highest survival time.\n\nKey Features\n\n• Top-down shooting controls  \n• Resource collection and upgrades  \n• Increasing zombie wave difficulty  \n• Real-time multiplayer arena  \n• Minimalist post-apocalyptic setting"
+},
+{
 "id": "zombie-conquer-countries",
 "title": "Zombie Conquer Countries",
 "iframe": "https://html5.gamedistribution.com/c6699f6f8a2f4444a4dd256834734f87/",

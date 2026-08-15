@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "carfight-io",
+"title": "CarFight.io",
+"iframe": "https://html5.gamedistribution.com/16184cc7d4104f27a1604e12e808afea/",
+"description": "Crash and ram other cars in a chaotic multiplayer battle using precise vehicle control and real-time physics to dominate opponents on the arena arena. Players navigate fast-paced car combat where survival depends on timely evasions and aggressive attacks. Upgrading and outmaneuvering rivals across progressively intense matches is key to lasting longer in the heat of battle.\n\nKey Features\n\n• Physics based car collisions  \n• Real-time vehicle steering controls  \n• Survival focused multiplayer matches  \n• Upgradeable vehicle durability system  \n• Fast paced arena combat environment"
+},
+{
 "id": "cars-vs-zombies",
 "title": "Cars vs Zombies",
 "iframe": "https://html5.gamedistribution.com/837f9a9ab7694e7eaaee0824052425a8/",
@@ -1351,12 +1357,6 @@
 "description": "Arrange scattered puzzle pieces to recreate classic Ford car models in this jigsaw puzzle game. Players fit interlocking pieces to complete each image, testing spatial reasoning and attention to detail. As the puzzles grow in complexity, players work through various car designs, sharpening visual and problem-solving skills.\n\nKey Features\n\n• Piece rotation puzzle mechanic  \n• Mouse dragging and dropping controls  \n• Increasing puzzle piece counts  \n• Timed challenge mode option  \n• Classic Ford car imagery"
 },
 {
-"id": "blockcraft-cars-hidden-keys",
-"title": "Blockcraft Cars Hidden Keys",
-"iframe": "https://html5.gamedistribution.com/a7367fb9c72c4070bed0bd7a45aa189e/",
-"description": "Explore detailed blocky environments while driving a variety of customizable cars to uncover hidden keys scattered across different locations. The game combines casual driving mechanics with exploratory puzzle elements, challenging players to navigate unique maps and unlock new areas. Collect keys to progress through levels that feature pixelated graphics and interactive objects for discovery.\n\nKey Features\n\n• Customizable vehicle selection  \n• Exploration-driven key discovery  \n• Progressive unlockable areas  \n• Simple driving control scheme  \n• Pixel art block environment"
-},
-{
 "id": "car-logos-quiz",
 "title": "Car Logos Quiz",
 "iframe": "https://html5.gamedistribution.com/7ae6679e722d453aa1cf553abb78949f/",
@@ -1451,12 +1451,6 @@
 "title": "Pedal Cars Jigsaw",
 "iframe": "https://html5.gamedistribution.com/2de0e15806c545c9b462beb7f08a1c3e/",
 "description": "Assemble scattered puzzle pieces to reveal detailed pedal car illustrations in this jigsaw challenge. The core mechanic revolves around traditional piece placement combined with image recognition to complete each vibrant vehicle, enhancing focus and spatial reasoning. Players aim to finish various pedal car scenes under time constraints, advancing through increasingly complex puzzles designed for casual gamers and kids.\n\nKey Features\n\n• Classic jigsaw piece fitting  \n• Image-based puzzle completion  \n• Time limited challenge stages  \n• Progressive puzzle difficulty levels  \n• Colorful pedal car artwork"
-},
-{
-"id": "blockcraft-cars-jigsaw",
-"title": "Blockcraft Cars Jigsaw",
-"iframe": "https://html5.gamedistribution.com/8674797a405b49ccaf71584d0c66a579/",
-"description": "Solve custom car-shaped puzzles by assembling colorful jigsaw pieces that fit into blocky vehicle silhouettes. Players progress through various car models featuring distinctive block-style designs, honing spatial recognition and pattern matching skills. This casual puzzle format challenges quick placement and careful observation to complete each unique car image smoothly.\n\nKey Features\n\n• Block-style vehicle silhouettes  \n• Piece rotation and fitting mechanics  \n• Multiple car model puzzles  \n• Time-based completion challenge  \n• Casual puzzle gameplay atmosphere"
 },
 {
 "id": "suv-classic-car-parking-real-driving",

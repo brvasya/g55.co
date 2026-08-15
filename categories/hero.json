@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "heroball-superhero",
+"title": "Heroball SuperHero",
+"iframe": "https://html5.gamedistribution.com/a3303e881e7b40a1b4ed71cd18065554/",
+"description": "Combine fast-paced ball control with superhero power-ups to navigate dynamic arenas and outscore opponents in this casual game. Players manipulate a character who merges sports agility with unique abilities in short matches to reach scoring goals while avoiding defenders. The gameplay balances quick reflexes and strategic power use for progression through increasing difficulty levels.\n\nKey Features\n\n• Superhero ability activation  \n• Precise ball handling controls  \n• Increasing arena difficulty  \n• Time-limited match rounds  \n• Dynamic player movement system"
+},
+{
+"id": "heroball-run",
+"title": "Heroball Run",
+"iframe": "https://html5.gamedistribution.com/5e6a841626cd4591bb1afd9600239074/",
+"description": "Navigate fast-paced obstacle courses using quick reflexes and precise timing in this arcade runner. Players tap to jump and dodge a variety of hazards while collecting coins along endless levels, testing their endurance and responsiveness. The game challenges users to beat high scores by mastering its rhythmic pace in a vibrant urban environment.\n\nKey Features\n\n• Tap-based jump controls  \n• Endless obstacle sprinting  \n• Progressive difficulty scaling  \n• Coin collection scoring system  \n• Colorful cityscape backdrop"
+},
+{
+"id": "heroball-christmas-love",
+"title": "HeroBall Christmas Love",
+"iframe": "https://html5.gamedistribution.com/51cbddadf6d7440b9bb4b4cf38cb4ce6/",
+"description": "Control festive hero characters as they pass and shoot a glowing ball through dynamic Christmas-themed arenas to score points against opponents. The gameplay revolves around timed throws and strategic positioning, with each level increasing the challenge by introducing new obstacles and quicker enemy movements. Advance through exciting holiday stages while managing precise ball control to win matches.\n\nKey Features\n\n• Timed projectile passing mechanic  \n• Player movement with dodge controls  \n• Increasing arena obstacle complexity  \n• Scoring system with combo multipliers  \n• Seasonal holiday visual elements"
+},
+{
+"id": "heroball-adventures",
+"title": "Heroball Adventures",
+"iframe": "https://html5.gamedistribution.com/e08e8bbd00df4038a71dc2a30b71d7b8/",
+"description": "Navigate a series of platform-based puzzles using physics-driven ball movement to reach new stages filled with unique obstacles. Each level requires precise timing and spatial awareness as players control the trajectory of rolling orbs through vibrant environments designed for casual exploration. Challenges increase progressively, inviting players to master momentum and timing to advance.\n\nKey Features\n\n• Physics-based ball movement  \n• Precision timing controls  \n• Progressive puzzle complexity  \n• Multiple environment themes  \n• Collectible item challenges"
+},
+{
+"id": "heroball-adventures-2",
+"title": "HeroBall Adventures 2",
+"iframe": "https://html5.gamedistribution.com/10f1eb1a1b2a4eeeb0ab0807c0c1b08b/",
+"description": "Navigate dynamic puzzle arenas using precise timing and reflexes to collect scattered relics and unlock new levels. Players manipulate bouncing balls with unique physics behavior, adapting to varying platform layouts and obstacle patterns. Each stage offers escalating complexity, encouraging skillful control to overcome traps and environmental puzzles in a vibrant fantasy world.\n\nKey Features\n\n• Physics-based ball control  \n• Reaction timing challenges  \n• Multi-level puzzle progression  \n• Unlockable ball skins  \n• Fantasy platform environments"
+},
+{
 "id": "up-hero",
 "title": "Up Hero",
 "iframe": "https://html5.gamedistribution.com/e545b983f4ad4284a220080dad9d9330/",

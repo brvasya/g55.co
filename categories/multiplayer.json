@@ -1,6 +1,48 @@
 {
 "pages": [
 {
+"id": "pirates-and-cannons-multi-player",
+"title": "Pirates and Cannons Multi player",
+"iframe": "https://html5.gamedistribution.com/24fde017959d4004a773ccddf80489ad/",
+"description": "Command enemy ships by firing cannons in real-time maritime battles focused on positioning and timing. Navigate your vessel with precise aiming of broadside attacks while coordinating with other players in multiplayer skirmishes. Master the cannon reload mechanic to outgun rival pirates on the high seas where teamwork and quick reflexes decide victory.\n\nKey Features\n\n• Multiplayer naval cannon combat  \n• Real-time aiming and shooting controls  \n• Cannon reload timing challenges  \n• Team-based ship coordination system  \n• Pirate ship battle environment"
+},
+{
+"id": "yatzy-multi-player",
+"title": "Yatzy Multi player",
+"iframe": "https://html5.gamedistribution.com/c104670786304520b6a40c1d7916d83b/",
+"description": "Roll dice strategically to match combinations in a turn-based multiplayer setting. This game relies on chance and decision-making as players compete to fill their score sheets with optimal patterns. Timing your choices against opponents is crucial to securing the highest total points in each round.\n\nKey Features\n\n• Dice roll combination scoring  \n• Turn-based matching strategy  \n• Competitive multiplayer rounds  \n• Scoring sheet progression system  \n• Casual social gameplay focus"
+},
+{
+"id": "backgammon-multi-player",
+"title": "Backgammon Multi player",
+"iframe": "https://html5.gamedistribution.com/f6830c91576c4cde8b7a43852606f552/",
+"description": "Move your checkers strategically across the board to outsmart your opponents in this multiplayer backgammon game. Players roll dice to determine moves, balancing offensive and defensive plays while aiming to clear all their pieces first. The gameplay involves positioning, risk-taking with dice rolls, and timing to gain advantage against real players or bots.\n\nKey Features\n\n• Dice roll based movement  \n• Strategic checker positioning  \n• Turn-based opponent interaction  \n• Multiplayer matchmaking system  \n• Classic board and piece design"
+},
+{
+"id": "dart-tournament-multi-player",
+"title": "Dart Tournament Multi player",
+"iframe": "https://html5.gamedistribution.com/babac22d422c4816a23b077ac1c637d4/",
+"description": "Compete in real-time dart throwing contests against multiple players in this casual multiplayer experience. Aim and throw darts with timing-based mechanics to land high scores on standard dartboards. Match rounds test precision and quick decision-making, advancing through increasing difficulty levels for better ranking.\n\nKey Features\n\n• Timing-based dart throwing mechanics  \n• Real-time multiplayer matches  \n• Competitive score ranking system  \n• Multiple round progression  \n• Classic pub-style dartboard design"
+},
+{
+"id": "neon-pong-multi-player",
+"title": "Neon Pong Multi player",
+"iframe": "https://html5.gamedistribution.com/3a5db47142df4f429affb73c50fe1e36/",
+"description": "Bounce glowing paddles in this fast-paced neon arena where reflexes define the match. Players control vertical paddles to deflect an intense light ball, aiming to outscore opponents in a dynamic multiplayer setup. The game challenges precision timing and quick reactions under flashing neon visuals. Matches evolve by increasing ball speed, pushing players to refine their paddle control.\n\nKey Features\n\n• Paddle deflection mechanics  \n• Multiplayer competitive matches  \n• Increasing ball velocity progression  \n• Real-time player score tracking  \n• Neon-lit futuristic arena setting"
+},
+{
+"id": "fruit-pop-multi-player",
+"title": "Fruit Pop Multi player",
+"iframe": "https://html5.gamedistribution.com/21dad2d061c24b479eb22d3e73a5fff9/",
+"description": "Match colorful fruits quickly using tile-swapping mechanics in a lively multiplayer setting. Players compete or cooperate to create combos and clear boards, aiming to achieve high scores against others in real time. Timing chain reactions is crucial as the tile grid introduces evolving challenges that test pattern recognition and speed under pressure.\n\nKey Features\n\n• Tile-swapping combo system  \n• Real-time multiplayer matches  \n• Chain reaction scoring strategy  \n• Progressive board difficulty scaling  \n• Vibrant fruit-themed visuals"
+},
+{
+"id": "air-hockey-multi-player",
+"title": "Air Hockey Multi player",
+"iframe": "https://html5.gamedistribution.com/6aacfeb68cab4e8e9bf12d651cf50199/",
+"description": "Slide the striker across the digital air hockey table to outscore your opponent in intense multiplayer rounds. The game revolves around quick reflexes and precise puck control to launch strategic hits and defend your goal. Compete in real-time matches where timing and positioning determine victory against other casual players.\n\nKey Features\n\n• Fast-paced paddle flick mechanic  \n• Multiplayer real-time scoring  \n• Dynamic puck rebound physics  \n• Incremental match rounds progression  \n• Classic arcade air hockey theme"
+},
+{
 "id": "fidget-spinner-multiplayers",
 "title": "Fidget Spinner Multiplayers",
 "iframe": "https://html5.gamedistribution.com/f83f817b36434e008d8e3963d365af90/",

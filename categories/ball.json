@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "balls2048",
+"title": "Balls2048",
+"iframe": "https://html5.gamedistribution.com/c643559d4fa74ae9b5b6040a1999c99d/",
+"description": "Slide numbered balls to combine identical values, using spatial matching to reach higher numbers in a simple grid setup. The core mechanic revolves around merging balls with like values to create increasing totals, offering a puzzle challenge of strategic movement. Players aim to achieve the highest score possible while managing limited space and planning moves ahead.\n\nKey Features\n\n• Number merging mechanic  \n• Directional slide controls  \n• Increasing value progression  \n• Score-based challenge system  \n• Minimalist grid puzzle design"
+},
+{
 "id": "cyber-rolling-going-ball-3d",
 "title": "Cyber Rolling Going Ball 3D",
 "iframe": "https://html5.gamedistribution.com/a6ae873f4c4a4c7a95337b614e19a0ad/",
@@ -101,12 +107,6 @@
 "title": "Sticky Ball Rush",
 "iframe": "https://html5.gamedistribution.com/fc7b9986ce08478eaa5108f395604f14/",
 "description": "Launch and stick a bouncing ball through fast-paced obstacle courses, using precise timing to navigate sticky pads that alter momentum and direction. Players guide the ball’s unique adhesion mechanic to overcome traps and progress through increasingly complex levels. The challenge focuses on timing jumps and controlling sticky surfaces to reach each stage’s end.  \n\nKey Features\n\n• Sticky surface adhesion mechanic  \n• Precision timing based controls  \n• Increasing level complexity  \n• Momentum-based movement puzzles  \n• Colorful obstacle course environments"
-},
-{
-"id": "basket-ball-run",
-"title": "Basket Ball Run",
-"iframe": "https://html5.gamedistribution.com/20b101441dba4b56842aa5a10c31df22/",
-"description": "Navigate fast-paced urban tracks while controlling a character who dribbles a basketball through multiple obstacle-filled levels. The gameplay focuses on timing jumps and sidesteps to maintain momentum and collect scattered balls for score boosts. The challenge ramps up with tighter gaps and moving hazards as players aim to reach the finish line without losing control.  \n\nKey Features\n\n• Basketball dribbling runner mechanic  \n• Responsive tap and swipe controls  \n• Increasing obstacle difficulty  \n• Collectible scoring system  \n• Urban street setting elements"
 },
 {
 "id": "inferno-monster-ball-hell-run",
@@ -1183,12 +1183,6 @@
 "description": "Drag and launch colorful orbs to clear intricate patterns in a physics puzzle setting. Players must time shots carefully and navigate limited moves to solve each level’s unique ball arrangement. As challenges evolve, mastering the aiming mechanic is crucial to unlock more complex stages and improve precision skills.\n\nKey Features\n\n• Physics-based orb launching  \n• Precision aiming controls  \n• Progressive puzzle difficulty  \n• Limited move challenge system  \n• Color-matching pattern objectives"
 },
 {
-"id": "2-foot-ball",
-"title": "2 Foot Ball",
-"iframe": "https://html5.gamedistribution.com/c89ec51b6eea46deb5bacc35f3bda92d/",
-"description": "Manipulate two football players simultaneously to pass and score against increasing defensive pressure in this casual sports challenge. The game’s unique dual-control system requires managing timing and positioning under tight constraints. As you advance, defenses grow smarter and faster, pushing your coordination and precision to new limits.  \n\nKey Features\n\n• Dual-character movement control  \n• Precision passing timing  \n• Defensive AI progression  \n• Penalty shootout mode  \n• Simplified football environment"
-},
-{
 "id": "fill-the-balls",
 "title": "Fill The Balls",
 "iframe": "https://html5.gamedistribution.com/16c82daa46e04a73bdb07abfdc181ae9/",
@@ -1805,12 +1799,6 @@
 "title": "Aluminium Foil Ball Maker",
 "iframe": "https://html5.gamedistribution.com/d0694ade1a8d400ba37e0d4a8406dc2e/",
 "description": "Fold and shape virtual aluminium foil into complex designs using touch-based controls in casual interactive scenarios. Players manipulate the foil’s malleability and texture to create increasingly intricate shapes, improving their folding precision and timing. The game challenges spatial reasoning through progressive difficulty levels centered on real-time foil bending mechanics.\n\nKey Features\n\n• Touch drag folding controls  \n• Realistic foil deformation physics  \n• Progressive shape complexity  \n• Time-based precision challenges  \n• Minimalistic casual gameplay setting"
-},
-{
-"id": "basket-ball-challenge-flick-the-ball",
-"title": "Basket Ball Challenge Flick The Ball",
-"iframe": "https://html5.gamedistribution.com/00eb37b2801e4a73a90bcdcbb56cdfb4/",
-"description": "Flick the ball with precision to score baskets in this casual challenge that tests timing and aim. Players engage with a simple flicking mechanic to navigate shots through increasingly tricky hoops. Each successful basket advances difficulty, requiring sharper reflexes and angle adjustments under pressure. The straightforward street basketball vibe keeps the focus on shot accuracy and quick decision-making.\n\nKey Features\n\n• Flick shot aiming mechanic  \n• Tap and drag control system  \n• Increasing shot difficulty levels  \n• Time-based scoring challenge  \n• Urban street basketball setting"
 },
 {
 "id": "fall-ball",

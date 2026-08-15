@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "colorwars-io",
+"title": "ColorWars.io",
+"iframe": "https://html5.gamedistribution.com/eabf2a389dea46ed9b36fcb03482d443/",
+"description": "Compete by capturing territory through color painting on a dynamic grid in this fast-paced .io experience. Players move and strategically claim areas while avoiding enemy attacks and traps. The core mechanic revolves around territory control using swift movement and color spreading, challenging players to dominate by expanding their zones before rivals can counter.\n\nKey Features\n\n• Territory capture via area painting  \n• Real-time movement and evasion  \n• Competitive multiplayer arena  \n• Risk-based expansion strategy  \n• Vibrant color zone mechanics"
+},
+{
+"id": "colorwars-io-conquest-game",
+"title": "ColorWars.io - Conquest Game",
+"iframe": "https://html5.gamedistribution.com/ed99a63b0a35407792cbd1f93b7b7b83/",
+"description": "Control territories by claiming colored zones in intense multiplayer battles. Players strategically expand their area using fast-paced area capture mechanics to outmaneuver opponents. The game features dynamic color spreading across a grid landscape where the objective is to dominate the map through swift territorial conquest.\n\nKey Features\n\n• Real-time area capture mechanic  \n• Mouse-driven territory control  \n• Increasing map dominance challenge  \n• Multiplayer competitive mode  \n• Grid-based color territory system"
+},
+{
 "id": "color-screw-rescue-puzzle",
 "title": "Color Screw Rescue Puzzle",
 "iframe": "https://html5.gamedistribution.com/ae03d0fea588430883bf812537c74b62/",
@@ -347,12 +359,6 @@
 "title": "Tie-Dye Explosion of Color",
 "iframe": "https://html5.gamedistribution.com/ae88fffc003a46ae8d6789a3e3d26a04/",
 "description": "Combine colors dynamically to create vibrant tie-dye patterns in this interactive coloring experience. Players manipulate swirling dye flows using touch or mouse input to blend hues and fill intricate designs. The focus lies on mastering fluid color mixing mechanics while navigating progressive levels of complexity that challenge coordination and creativity.\n\nKey Features\n\n• Fluid dynamics coloring mechanic  \n• Direct touch and mouse controls  \n• Increasing pattern complexity  \n• Color blending challenge system  \n• Psychedelic art style influence"
-},
-{
-"id": "blockpuzzle-color-blast",
-"title": "BlockPuzzle : Color Blast",
-"iframe": "https://html5.gamedistribution.com/e194ba517b1a466fbcf793ac34828957/",
-"description": "Arrange and clear colorful shapes by fitting blocks into the grid to complete vibrant patterns and progress through increasingly challenging puzzles. The core mechanic revolves around strategic placement of differently shaped pieces, aiming to clear lines and maximize space efficiency. Players can advance by unlocking new block sets and mastering layout tactics against time or limited moves.\n\nKey Features\n\n• Strategic block placement mechanic  \n• Drag and drop color matching controls  \n• Progressive puzzle difficulty levels  \n• Time-based and move-limited modes  \n• Bright, colorful grid design"
 },
 {
 "id": "color-bump-dancer",

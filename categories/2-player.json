@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "italian-brainrot-bomb-2player",
+"title": "Italian Brainrot Bomb - 2Player",
+"iframe": "https://html5.gamedistribution.com/11fe130143b8496fbdcaee5a58a918aa/",
+"description": "Compete in fast-paced rounds where players alternate triggering explosive chain reactions in a strategic turn-based duel. The core mechanic revolves around managing timed detonations to outsmart your opponent on a shared grid. This casual two-player setup challenges quick thinking and spatial awareness as you try to dominate each match.\n\nKey Features\n\n• Turn-based explosive chain reactions  \n• Strategic timing and positioning  \n• Competitive two-player mechanics  \n• Grid-based duel environment  \n• Casual player-friendly interface"
+},
+{
+"id": "youtuber-mcraft-2player",
+"title": "Youtuber Mcraft 2Player",
+"iframe": "https://html5.gamedistribution.com/1af135df04c44b60a54bd78b5c998c6d/",
+"description": "Compete side-by-side by building and mining in split-screen multiplayer, using block placement and resource gathering to outpace opponents. The core mechanic revolves around toggling between crafting blocks and navigating terrain, as players aim to strategically expand their bases or hinder each other’s progress in a pixelated world. Fast thinking and quick moves test coordination and planning.\n\nKey Features\n\n• Two-player split-screen mode  \n• Block crafting and placement  \n• Resource gathering challenges  \n• Competitive base expansion  \n• Pixel-art multiplayer arena"
+},
+{
+"id": "sprunki-lava-escape-2player",
+"title": "Sprunki Lava Escape 2Player",
+"iframe": "https://html5.gamedistribution.com/e31d4ef8a77948959a074e286ec10133/",
+"description": "Navigate slippery platforms and coordinate movement in this cooperative escape game where two players must work together to overcome hazardous lava flows. Timing and precision define the core mechanic as you dodge erupting lava hazards while progressing through multi-stage levels. Quick reflexes and teamwork are essential to successfully reach the exit and avoid molten traps.\n\nKey Features\n\n• Cooperative two-player controls  \n• Timed lava flow obstacles  \n• Precision platform navigation  \n• Progressive level difficulty scaling  \n• Hazardous volcanic environment"
+},
+{
 "id": "2-player-games-design-salon",
 "title": "2 Player Games Design Salon",
 "iframe": "https://html5.gamedistribution.com/6aa82d8f437740c194658586bb1e4e61/",
