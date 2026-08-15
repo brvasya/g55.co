@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "chess-multiplayer-online",
+"title": "Chess Multiplayer Online",
+"iframe": "https://html5.gamedistribution.com/7ad8fee4eccb422aa1fcbf9c2038cdc7/",
+"description": "Move strategic pieces across a digital board to outmaneuver your opponent in this online multiplayer chess match. Players plan each move carefully with turn-based mechanics emphasizing positional strategy and piece control. The game challenges users to checkmate the opposing king while adapting to different player styles and skill levels.\n\nKey Features\n\n• Turn-based tactical gameplay  \n• Online multiplayer matchmaking  \n• Classic chess piece movements  \n• Progressive ranking system  \n• Minimalist virtual board design"
+},
+{
 "id": "mate-in-chess",
 "title": "Mate in Chess",
 "iframe": "https://html5.gamedistribution.com/470897c1db9f42b38674a5e05adfddc0/",

@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "cute-farm-match-puzzle",
+"title": "Cute Farm Match Puzzle",
+"iframe": "https://html5.gamedistribution.com/b632f14dd1384b3f859911ec92d0cad1/",
+"description": "Match colorful animals to clear levels in charming puzzle boards, using strategic swaps to create combos and reach score targets. Players advance through increasingly intricate layouts featuring diverse farm-themed elements that introduce fresh obstacles and boosters. Timing and pattern planning shape success as progression unlocks new challenges and rewards.\n\nKey Features\n\n• Grid-based matching mechanic  \n• Swap control with combo system  \n• Incremental level difficulty scaling  \n• Booster activation and management  \n• Farm animal puzzle motifs"
+},
+{
 "id": "my-perfect-farm",
 "title": "My Perfect Farm",
 "iframe": "https://html5.gamedistribution.com/1e48218939b048bc842bd6f715f54b7e/",

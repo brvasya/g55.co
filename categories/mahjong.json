@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mahjong-bird-tiles",
+"title": "Mahjong Bird Tiles",
+"iframe": "https://html5.gamedistribution.com/ce87532247ac4814b2a4bf47ddaf7041/",
+"description": "Match pairs of bird-themed tiles using strategic tile selection to clear the board in this casual puzzle challenge. Tiles are arranged in layered formations requiring careful planning to unlock matching pieces. Progress through increasingly complex layouts that demand pattern recognition and precision clicking to succeed and reveal the full set.\n\nKey Features\n\n• Tile matching with layered formations  \n• Mouse-driven tile selection controls  \n• Increasingly complex board layouts  \n• Time-limited and puzzle progression modes  \n• Nature-inspired bird tile designs"
+},
+{
 "id": "safari-story-mahjong",
 "title": "Safari Story Mahjong",
 "iframe": "https://html5.gamedistribution.com/c45a9d1bd22c42aea4b974ca598dfb07/",
