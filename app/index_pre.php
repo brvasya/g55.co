@@ -54,8 +54,6 @@ if ($hasC) {
   $cat = $catMap[$cid];
   $currentCluster = find_cluster_for_category($grouped, $cid);
   list($_, $pages) = load_category_pages($cid);
-  $seriesClusters = build_game_series_clusters($pages);
-  $seriesBlocks = array_slice($seriesClusters, 0, 1);
 
   $pager = category_pages_pagination($pages, 64, 'p');
   $pageNum = $pager['page'];
