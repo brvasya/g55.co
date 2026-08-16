@@ -51,13 +51,46 @@ def clean_page(it: dict) -> dict:
     }
 
 
-def slug_from_filename(fn: str) -> str:
+def raw_slug_from_filename(fn: str) -> str:
     base = fn[:-5] if fn.lower().endswith(".json") else fn
-    return base.strip().lower()
+    return base.strip()
+
+
+def slug_from_filename(fn: str) -> str:
+    return raw_slug_from_filename(fn).lower()
+
+
+def split_camel_case_boundaries(s: str) -> str:
+    """
+    Insert spaces at CamelCase and acronym-to-word boundaries.
+
+    Examples:
+      ZombieShooter -> Zombie Shooter
+      FPSZombie     -> FPS Zombie
+      HTML5Game     -> HTML5 Game
+    """
+    s = s or ""
+    out = []
+
+    for i, ch in enumerate(s):
+        if i > 0 and ch.isupper():
+            prev = s[i - 1]
+            next_ch = s[i + 1] if i + 1 < len(s) else ""
+            starts_word = prev.islower() or prev.isdigit()
+            ends_acronym = prev.isupper() and bool(next_ch) and next_ch.islower()
+            if starts_word or ends_acronym:
+                out.append(" ")
+        out.append(ch)
+
+    return "".join(out)
 
 
 def tokenize_slug(s: str) -> list[str]:
-    s = (s or "").strip().lower().replace("-", " ")
+    # Detect case boundaries before lowercasing; otherwise ZombieShooter would
+    # irreversibly become zombieshooter. Lowercase fused words are handled
+    # later by the category-derived fused lexicon.
+    s = split_camel_case_boundaries((s or "").strip())
+    s = s.lower().replace("-", " ")
     parts = []
     cur = ""
     for ch in s:
@@ -580,11 +613,12 @@ class CategorizerApp(tk.Tk):
         for fn in self.files:
             if fn == self.current_file:
                 continue
-            slug = slug_from_filename(fn)
+            raw_slug = raw_slug_from_filename(fn)
+            slug = raw_slug.lower()
             if not slug:
                 continue
             tokens = tokenize_for_matching(
-                slug,
+                raw_slug,
                 plural_enabled,
                 gerund_enabled,
                 agent_enabled,
@@ -606,7 +640,7 @@ class CategorizerApp(tk.Tk):
         gerund_enabled = bool(self.gerunds_var.get())
         agent_enabled = bool(self.agent_nouns_var.get())
 
-        all_slugs = [slug_from_filename(fn) for fn in self.files]
+        all_slugs = [raw_slug_from_filename(fn) for fn in self.files]
         fused_lexicon = build_fused_lexicon(
             all_slugs,
             plural_enabled,
@@ -624,9 +658,10 @@ class CategorizerApp(tk.Tk):
             messagebox.showinfo("No keywords", "No other categories found to use as keywords.")
             return
 
-        current_slug = slug_from_filename(self.current_file)
+        current_raw_slug = raw_slug_from_filename(self.current_file)
+        current_slug = current_raw_slug.lower()
         current_tokens = tokenize_for_matching(
-            current_slug,
+            current_raw_slug,
             plural_enabled,
             gerund_enabled,
             agent_enabled,
