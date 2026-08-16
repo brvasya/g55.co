@@ -1,16 +1,10 @@
 {
 "pages": [
 {
-"id": "choco-blast-block-merge",
-"title": "Choco Blast : Block Merge",
-"iframe": "https://html5.gamedistribution.com/0c9d047ce9c54b20bfc013b27d4864c9/",
-"description": ""
-},
-{
 "id": "spread",
 "title": "Spread",
 "iframe": "https://html5.gamedistribution.com/cfdd085e6f9643498da11fc05d91ca80/",
-"description": ""
+"description": "Manipulate colored cells on a grid to spread and dominate adjacent spaces, relying on strategic tile placement to expand territory. The core mechanic revolves around pattern recognition and area control within a minimalist setting. Players aim to outmaneuver space limitations and maximize coverage to achieve high scores.\n\nKey Features\n\n• Grid-based territory expansion  \n• Strategic tile placement controls  \n• Progressive difficulty levels  \n• Time attack scoring mode  \n• Minimalist abstract visual style"
 },
 {
 "id": "order-of-operation-challenge",
