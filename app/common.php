@@ -210,12 +210,8 @@ function detect_game_series_key(string $title): string {
         return '';
     }
 
-    if (count($words) >= 2 && preg_match('/^\d+$/', $words[1])) {
+    if (count($words) >= 1) {
         return $words[0];
-    }
-
-    if (count($words) >= 2) {
-        return $words[0] . ' ' . $words[1];
     }
 
     return '';
