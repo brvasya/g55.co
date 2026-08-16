@@ -61,14 +61,6 @@ def slug_from_filename(fn: str) -> str:
 
 
 def split_camel_case_boundaries(s: str) -> str:
-    """
-    Insert spaces at CamelCase and acronym-to-word boundaries.
-
-    Examples:
-      ZombieShooter -> Zombie Shooter
-      FPSZombie     -> FPS Zombie
-      HTML5Game     -> HTML5 Game
-    """
     s = s or ""
     out = []
 
@@ -86,9 +78,6 @@ def split_camel_case_boundaries(s: str) -> str:
 
 
 def tokenize_slug(s: str) -> list[str]:
-    # Detect case boundaries before lowercasing; otherwise ZombieShooter would
-    # irreversibly become zombieshooter. Lowercase fused words are handled
-    # later by the category-derived fused lexicon.
     s = split_camel_case_boundaries((s or "").strip())
     s = s.lower().replace("-", " ")
     parts = []
@@ -110,8 +99,6 @@ def singularize_token(t: str) -> str:
     if len(t) < 4:
         return t
 
-    # Handle useful "ies" exceptions before the generic y-rule.
-    # Without this, zombies becomes zomby and will not match zombie.json.
     ies_keep_e = {
         "zombies": "zombie",
     }
@@ -192,7 +179,6 @@ def maybe_normalize_tokens(
 
 
 def plural_surface_forms(t: str) -> set[str]:
-    """Return common plural spellings for a normalized token."""
     t = (t or "").strip().lower()
     if not t:
         return set()
@@ -205,7 +191,6 @@ def plural_surface_forms(t: str) -> set[str]:
 
 
 def gerund_surface_forms(t: str) -> set[str]:
-    """Return a practical gerund spelling for a normalized token."""
     t = (t or "").strip().lower()
     if not t:
         return set()
@@ -225,7 +210,6 @@ def gerund_surface_forms(t: str) -> set[str]:
 
 
 def agent_surface_forms(t: str) -> set[str]:
-    """Return a practical -er agent-noun spelling for a normalized token."""
     t = (t or "").strip().lower()
     if not t:
         return set()
@@ -257,13 +241,6 @@ def build_fused_lexicon(
     gerund_enabled: bool,
     agent_enabled: bool,
 ) -> dict[str, list[tuple[str, str]]]:
-    """
-    Build surface -> normalized-token choices from all category filenames.
-
-    The lexicon lets a fully lowercase token such as ``zombieshooter`` be
-    segmented as ``zombie`` + ``shooter`` and normalized to
-    ``zombie`` + ``shoot``. It therefore does not depend on CamelCase.
-    """
     surface_to_canonical: dict[str, set[str]] = {}
 
     for slug in slugs:
@@ -301,7 +278,6 @@ def split_fused_token(
     token: str,
     fused_lexicon: dict[str, list[tuple[str, str]]],
 ) -> list[str]:
-    """Split one lowercase alphanumeric token into two or more known words."""
     token = (token or "").strip().lower()
     if len(token) < 6 or not token.isalnum() or not fused_lexicon:
         return []
@@ -321,8 +297,6 @@ def split_fused_token(
             if not token.startswith(surface, pos):
                 continue
 
-            # A one-piece exact token is not fused. Keeping it intact also
-            # prevents ordinary category names from being rewritten.
             if pos == 0 and len(surface) == len(token):
                 continue
 
@@ -334,8 +308,6 @@ def split_fused_token(
             candidate_tokens = [canonical] + rest_tokens
             candidate_lengths = [len(surface)] + rest_lengths
 
-            # Prefer the most conservative valid split: fewer pieces first,
-            # then longer pieces, then deterministic lexical ordering.
             rank = (
                 -len(candidate_tokens),
                 sum(length * length for length in candidate_lengths),
@@ -362,7 +334,6 @@ def tokenize_for_matching(
     agent_enabled: bool,
     fused_lexicon: dict[str, list[tuple[str, str]]],
 ) -> list[str]:
-    """Tokenize, split recognized fused words, and normalize every part."""
     out = []
     for raw in tokenize_slug(text):
         fused_parts = split_fused_token(raw, fused_lexicon)
@@ -388,9 +359,6 @@ def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[
             if tokens[i:i + k] == key_tokens:
                 hits.add(i)
 
-    # Also compare compact forms across token boundaries. This covers both a
-    # fused keyword filename against a spaced title and a spaced keyword
-    # filename against a fused title after normalization.
     compact_key = "".join(key_tokens)
     for i in range(len(tokens)):
         compact_title = ""
