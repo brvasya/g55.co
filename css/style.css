@@ -117,18 +117,8 @@ p {
     white-space: pre-line;
     order: 2;
 }
-.description.c h2, h3 {
-    margin: 0;
-    padding: 0;
-}
-.description.c .series {
-    margin: 0;
-}
 .description.c, .cluster.c {
     order: unset;
-}
-.description.c .tag {
-    background-position: unset;
 }
 .cluster {
     order: 3;
