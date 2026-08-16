@@ -1,6 +1,42 @@
 {
 "pages": [
 {
+"id": "riddlemath",
+"title": "RiddleMath",
+"iframe": "https://html5.gamedistribution.com/a74a2b0e637149389b9a805f2dd21feb/",
+"description": "Solve numeric puzzles by deducing hidden values and uncovering relationships between numbers in a minimalist interface. Players engage with logic-based riddles that progressively increase in difficulty, challenging their pattern recognition and arithmetic skills while aiming to complete each level’s unique numeric challenge efficiently.\n\nKey Features\n\n• Logic puzzle deduction mechanic  \n• Interactive number placement controls  \n• Progressive difficulty scaling system  \n• Timed challenge mode option  \n• Minimalist numeric interface design"
+},
+{
+"id": "mathpup-story",
+"title": "MathPup Story",
+"iframe": "https://html5.gamedistribution.com/e5a8e00912854b1ca124e6d6e2a82fce/",
+"description": "Navigate through colorful math challenges by guiding a playful pup character in various casual puzzles that combine number solving with interactive elements. Players use intuitive point-and-click controls to answer math problems and unlock new levels filled with charming visuals and increasingly complex tasks. The main goal is to advance through stages by completing numeric challenges that test logic and arithmetic skills.\n\nKey Features\n\n• Point-and-click puzzle solving  \n• Progressive numerical difficulty scaling  \n• Interactive character movement controls  \n• Stage-based level unlocking system  \n• Kid-friendly educational theme"
+},
+{
+"id": "mathpup-chase-multiplication",
+"title": "MathPup Chase Multiplication",
+"iframe": "https://html5.gamedistribution.com/8222ed2a00c64befa49e5f271dd4cebe/",
+"description": "Chase fast-moving targets to solve multiplication problems in this engaging casual game. Players guide a spirited pup through a series of timed challenges that test quick mental math and accuracy. The game mixes timed pursuit sequences with on-the-fly calculation, pushing players to improve multiplication skills while navigating dynamic play areas.\n\nKey Features\n\n• Timed multiplication chase mechanics  \n• Player-controlled pup movement  \n• Increasing difficulty levels progression  \n• Accuracy-based scoring system  \n• Bright cartoon-style visual theme"
+},
+{
+"id": "quickmath",
+"title": "QuickMath",
+"iframe": "https://html5.gamedistribution.com/af7018bf973f4f61aab145f0edef25a1/",
+"description": "Solve rapid-fire math problems testing numerical speed and accuracy in this casual browser game. Players tackle a series of timed quizzes where mental agility and calculation precision are essential. The game challenges players to answer as many questions as possible before time runs out, enhancing quick arithmetic skills in a simple, distraction-free setting.\n\nKey Features\n\n• Timed mental calculation rounds  \n• Keyboard input for answer submission  \n• Increasing difficulty levels  \n• Score tracking and accuracy feedback  \n• Minimalist, distraction-free interface"
+},
+{
+"id": "mathpup-truck-counting",
+"title": "MathPup Truck Counting",
+"iframe": "https://html5.gamedistribution.com/78bceeed9d934807adb7815f5cf611d8/",
+"description": "Count trucks by identifying groups and matching numbers to complete levels in a simple number recognition format. Players interact with animated truck icons to develop counting skills while progressing through increasing difficulty stages. The focus on visual number matching helps casual gamers and kids improve basic math recognition in a relaxed, vehicle-themed environment.\n\nKey Features\n\n• Truck icon grouping mechanic  \n• Number selection interface  \n• Incremental level difficulty  \n• Visual counting challenges  \n• Casual vehicle-themed design"
+},
+{
+"id": "mathpup-golf-addition",
+"title": "MathPup Golf Addition",
+"iframe": "https://html5.gamedistribution.com/9461a12f63ba46f0b8b751ba084a847f/",
+"description": "Aim and shoot golf balls into numbered holes combining basic addition skills in a colorful math-themed course. Players apply addition to calculate ball trajectories, advancing through levels with increasing numeric challenges. The gameplay blends simple arithmetic with putting precision, creating a unique educational twist in a casual golf environment.\n\nKey Features\n\n• Addition-based shot calculations  \n• Mouse-driven aiming and power control  \n• Progressive difficulty with numeric targets  \n• Score tracking for math accuracy  \n• Bright, educational golf course design"
+},
+{
 "id": "math-stars",
 "title": "Math Stars",
 "iframe": "https://html5.gamedistribution.com/e7e5bb0e6caf47b5965d813736921e76/",

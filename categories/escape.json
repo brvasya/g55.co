@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "mrescape-game",
+"title": "MrEscape Game",
+"iframe": "https://html5.gamedistribution.com/2b02e2bda77b4bd598bef2f11a20160a/",
+"description": "Navigate through intricate escape puzzles by interacting with detailed room elements to uncover clues and solve riddles. This casual brain teaser challenges players to think critically as they piece together hidden objects and decode layered puzzles. The gradual revelation of new compartments pushes progress, ideal for teens and casual gamers who enjoy a steady discovery pace.\n\nKey Features\n\n• Interactive object puzzle solving  \n• Point-and-click navigation controls  \n• Progressive clue unlocking system  \n• Inventory management mechanics  \n• Themed room exploration environment"
+},
+{
+"id": "gardenescape",
+"title": "GardenEscape",
+"iframe": "https://html5.gamedistribution.com/7f111bf679f7430db38c36d17d151d7d/",
+"description": "Match colorful tiles to clear intricate garden puzzles while navigating a time-based combo mechanic that challenges your puzzle-solving speed and strategy. Players improve their score by chaining tile matches and unlocking bonus rounds hidden within the lush garden setting, aiming to achieve the highest rank across increasingly complex levels.\n\nKey Features\n\n• Timed tile matching combos  \n• Strategic pattern recognition  \n• Progressive puzzle difficulty  \n• Bonus round unlock system  \n• Garden-themed visual design"
+},
+{
 "id": "12-minute-escape",
 "title": "12 Minute Escape",
 "iframe": "https://html5.gamedistribution.com/32ba498c969b4db6aeba3a16b8fe8515/",

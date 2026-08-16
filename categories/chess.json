@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "chessfield",
+"title": "ChessField",
+"iframe": "https://html5.gamedistribution.com/a0383d2637904f0ea9e8b837b9c8acd1/",
+"description": "Move pieces strategically across the board to outsmart your opponent in this casual chess experience. The game emphasizes turn-based tactical decision making with classic piece movements in a traditional chess setting. Each match challenges players to anticipate threats and control key squares to checkmate the rival king.\n\nKey Features\n\n• Classic chess piece mechanics  \n• Turn-based strategic moves  \n• Progressive difficulty levels  \n• Timed and untimed modes  \n• Traditional chessboard layout"
+},
+{
 "id": "gbox-chessmazes",
 "title": "GBox ChessMazes",
 "iframe": "https://html5.gamedistribution.com/d0a71c0e57ce4ee3b9c0496d037bfc4c/",

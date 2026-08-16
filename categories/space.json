@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "spaceugh",
+"title": "SpaceUgh!",
+"iframe": "https://html5.gamedistribution.com/85e66fd3526a4fed845f3ddb02f414fb/",
+"description": "Navigate and avoid incoming hazards in fast-paced arcade style levels. Players steer a spaceship through diverse obstacles using intuitive controls, aiming to survive consecutive waves while gradually increasing difficulty. Each stage introduces new movement patterns and enemy projectiles that challenge reflexes and timing in a vibrant cosmic setting.\n\nKey Features\n\n• Precise spaceship maneuvering controls  \n• Increasing wave-based obstacle patterns  \n• Reflex-based survival challenges  \n• Gradual difficulty escalation system  \n• Colorful cosmic arcade visuals"
+},
+{
+"id": "spaceguard-io",
+"title": "SpaceGuard.io",
+"iframe": "https://html5.gamedistribution.com/7d68c9c508a8414a90f9b7e8877ab6d6/",
+"description": "Pilot swift spacecraft through chaotic multiplayer battles in a minimalist cosmic arena, managing precise movement and positioning to outmaneuver opponents. Compete in fast-paced survival rounds where tactical control and shooting accuracy determine success. The game’s emphasis on tight controls and competitive timing tests players’ reflexes in a stark space setting.\n\nKey Features\n\n• Top-down spacecraft movement  \n• Precision aiming and shooting  \n• Survival-based multiplayer rounds  \n• Dynamic player elimination system  \n• Minimalist outer space visuals"
+},
+{
 "id": "spacewars-invaders",
 "title": "Spacewars Invaders",
 "iframe": "https://html5.gamedistribution.com/83b1f90cab554e86b92d29c6d44d60b3/",

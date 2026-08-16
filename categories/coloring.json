@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "superwings-colorswitch",
+"title": "Superwings ColorSwitch",
+"iframe": "https://html5.gamedistribution.com/46dfc57a169c444dba80727ea074844a/",
+"description": "Tap to match flying Superwings with color-changing platforms in fast-paced timing challenges. The game centers on precise color coordination as players switch hues to safely land the planes amid shifting sequences. Progression depends on accuracy and speed, making each level a test of reflexes and color recognition designed for casual players of all ages.\n\nKey Features\n\n• Color matching flight mechanic  \n• Tap-based color switching controls  \n• Increasing timing difficulty progression  \n• Sequential landing platform challenges  \n• Airplane-themed casual gameplay"
+},
+{
+"id": "colorpoly",
+"title": "ColorPoly",
+"iframe": "https://html5.gamedistribution.com/7f2c24315f074c3d9fff7bbd91f41573/",
+"description": "Navigate through vivid geometric puzzles by matching and rotating colorful polygons, testing your spatial reasoning and quick reflexes. Each level challenges players with increasingly complex shape arrangements that require precise alignment and timing. Progression introduces fresh pattern variations to keep the casual gameplay engaging for teens and kids.  \n\nKey Features\n\n• Polygon rotation and matching mechanic  \n• Tap and drag control scheme  \n• Level progression with pattern complexity  \n• Time-based scoring challenge  \n• Colorful geometric visual style"
+},
+{
+"id": "1bird-1color-1target",
+"title": "1Bird 1Color 1Target",
+"iframe": "https://html5.gamedistribution.com/c0a15d33127b4800a74175efdeef513f/",
+"description": "Control a single bird navigating precise linear paths to match its color with designated targets, testing timing and spatial awareness. The core mechanic revolves around color matching with minimal movement options, creating a unique puzzle environment where players must hit exact points on the screen. This casual challenge gradually increases in difficulty.\n\nKey Features\n\n• Single bird movement control  \n• Color-based matching puzzles  \n• Timing and precision challenges  \n• Incremental difficulty levels  \n• Minimalist visual design"
+},
+{
+"id": "colorbox-puzzle",
+"title": "ColorBox Puzzle",
+"iframe": "https://html5.gamedistribution.com/22131bb4eb3f499d9b7dd68064ebde9d/",
+"description": "Arrange colored blocks strategically to clear grids in a puzzle format that tests spatial reasoning and planning skills. The gameplay revolves around positioning and matching color combinations, with increasing difficulty through complex layouts and limited moves. Players advance through progressive levels that require adapting strategies to unlock subsequent challenges.\n\nKey Features\n\n• Color matching and block placement  \n• Point-and-click tile manipulation  \n• Level-based puzzle difficulty  \n• Move restriction challenge system  \n• Vibrant color grid interface"
+},
+{
 "id": "colorwars-io",
 "title": "ColorWars.io",
 "iframe": "https://html5.gamedistribution.com/eabf2a389dea46ed9b36fcb03482d443/",
@@ -509,12 +533,6 @@
 "title": "Color Snake 3D Online",
 "iframe": "https://html5.gamedistribution.com/fc78c854765f4a22b8a8a020a6a01be2/",
 "description": "Navigate a vibrant, segmented snake through dynamic 3D environments while collecting colorful orbs that extend its length. The core mechanic centers on smooth, responsive movement combined with strategic path planning to avoid collisions and maximize growth. Players face the ongoing challenge of maneuvering a continuously lengthening snake, testing their agility and timing within shifting spatial layouts.\n\nKey Features\n\n• Fluid 3D snake controls  \n• Orb collection growth system  \n• Avoidance of collision hazards  \n• Progressive length extension challenge  \n• Bright, colorful visual design"
-},
-{
-"id": "color-match-3d",
-"title": "Color Match 3D",
-"iframe": "https://html5.gamedistribution.com/304d8aae153849439ac1d65d56b86a55/",
-"description": "Navigate vibrant 3D puzzles by matching colors to fill shapes and clear levels in this casual coloring challenge. Players engage with a unique color blending mechanic to solve progressively intricate designs. Timed stages add urgency as players apply precise matching to unlock new patterns and achieve visual harmony.\n\nKey Features\n\n• 3D color matching puzzles  \n• Precision touch controls  \n• Increasing pattern complexity  \n• Timed level challenges  \n• Vivid color blending effects"
 },
 {
 "id": "bounce-challenge-colors-game",
@@ -1975,12 +1993,6 @@
 "description": "Coloring marine creatures and intricate underwater scenes fills the gameplay in this casual coloring game. Players interact with detailed templates using a simple paint mechanic to bring vibrant ocean environments to life. Completing each design requires selecting colors carefully to match thematic elements, offering a relaxing yet visually engaging experience beneath the waves.\n\nKey Features\n\n• Interactive coloring paint tool  \n• Detailed ocean-themed templates  \n• Progressive unlock of new scenes  \n• Simple point-and-click controls  \n• Focus on marine life artistry"
 },
 {
-"id": "hellokids-color-by-number",
-"title": "HelloKids Color By Number",
-"iframe": "https://html5.gamedistribution.com/5095980a4b4944f19f0ac7c2223c3fb0/",
-"description": "Fill color by matching numbered sections to a preset palette in this casual coloring game. Players advance through various artworks by following the color-by-number system, developing precision and attention to detail. The focus is on completing images accurately to unlock new patterns and levels, offering a relaxing and structured creative outlet for younger audiences.\n\nKey Features\n\n• Number-coded coloring grids  \n• Tap to fill controls  \n• Progressive image unlocking  \n• Level-based pattern complexity  \n• Child-friendly visual themes"
-},
-{
 "id": "coloring-underwater-world",
 "title": "Coloring Underwater World",
 "iframe": "https://html5.gamedistribution.com/4c2655007070420ea72ebd54159f9265/",
@@ -1997,12 +2009,6 @@
 "title": "Coloring Underwater World 3",
 "iframe": "https://html5.gamedistribution.com/e55edc5803cc48aaa196556ae9c55adf/",
 "description": "Choose colors and apply shading to various underwater creatures and scenes using touch or click controls. This coloring activity revolves around filling detailed ocean-themed illustrations with vibrant palettes while progressing through multiple levels unlocking new aquatic designs. The goal centers on creativity and precision in applying colors within intricate boundaries across diverse marine backgrounds.\n\nKey Features\n\n• Detailed marine life illustrations  \n• Interactive color palette selection  \n• Level-based aquatic scenes  \n• Precision fill mechanics  \n• Underwater environment themes"
-},
-{
-"id": "pixelart-color-by-number",
-"title": "PixelArt Color By Number",
-"iframe": "https://html5.gamedistribution.com/7c3b41bbadf4403a815fe9b5031a0a33/",
-"description": "Fill numbered pixel grids by matching colors to reveal detailed images. This game emphasizes precision in selecting and applying colors based on numerical cues across pixelated art. Players advance by completing various color-by-number puzzles with growing complexity. The challenge lies in uncovering unique pixel artworks while maintaining accuracy within time limits.\n\nKey Features\n\n• Numeric color matching mechanic  \n• Click and fill pixel controls  \n• Increasing puzzle complexity  \n• Time-limited coloring stages  \n• Pixel art image themes"
 },
 {
 "id": "flappy-color-birds",
@@ -2069,12 +2075,6 @@
 "title": "COLOR_LABYRINTH",
 "iframe": "https://html5.gamedistribution.com/f225832c606a4b9aa909ded8ff1747e7/",
 "description": "Navigate intricate maze patterns by applying color fills to connected pathways, unlocking new sections with each completed labyrinth. Players manipulate brush strokes to solve spatial puzzles and reveal vibrant artwork embedded within complex grid structures. The challenge lies in identifying optimal color sequences to clear levels while exploring abstract environments.\n\nKey Features\n\n• Path coloring puzzle gameplay  \n• Brush stroke control mechanics  \n• Progressive labyrinth unlocking  \n• Puzzle difficulty scaling system  \n• Abstract maze visual themes"
-},
-{
-"id": "hellokids-coloring-time",
-"title": "HelloKids Coloring Time",
-"iframe": "https://html5.gamedistribution.com/34b65ebf985443deafb2bffb755e13dd/",
-"description": "Select colors to fill detailed illustrations using a digital palette and brush tools, guiding creativity through layer-based painting mechanics. The game emphasizes careful color placement to complete charming scenes appealing to casual and younger players. Progression involves unlocking new pictures to color, encouraging experimentation without time limits.\n\nKey Features\n\n• Layer-based coloring system  \n• Digital brush and palette controls  \n• Progressive image unlocking  \n• No time or move restrictions  \n• Kid-friendly illustration themes"
 },
 {
 "id": "color-hexagon",

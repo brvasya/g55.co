@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "extreme-footgolf-evolution",
+"title": "Extreme FootGolf Evolution",
+"iframe": "https://html5.gamedistribution.com/4335e7cc7b0a4ec0847cffbf71579dff/",
+"description": "Kick powerful shots across dynamic footgolf courses blending soccer and golf mechanics to navigate varied terrains and obstacles. Players aim to complete holes with precise ball control and strategic power adjustments, progressing through levels that increase in complexity and environmental challenges. Timing each kick and adapting to unique course layouts form the core experience designed for casual play.\n\nKey Features\n\n• Precision ball striking mechanics  \n• Power and angle shot control  \n• Progressive course difficulty levels  \n• Time-based scoring challenges  \n• Outdoor footgolf course environments"
+},
+{
 "id": "office-golf",
 "title": "Office Golf",
 "iframe": "https://html5.gamedistribution.com/19c63777ed1e4653b64b2200560907fd/",
@@ -269,12 +275,6 @@
 "title": "Golf Royale",
 "iframe": "https://html5.gamedistribution.com/69602bd748a84b70b4856822b6224ad7/",
 "description": "Compete in fast-paced multiplayer golf battles where accurate swings and quick aiming decide the winner. Use precise shot timing and strategic positioning on miniature courses filled with obstacles to outplay opponents. The game challenges players to master dynamic club control while navigating compact arenas for the top score.\n\nKey Features\n\n• Precision shot timing mechanic  \n• Real-time multiplayer matchmaking  \n• Obstacle-based course design  \n• Progressive unlockable golf clubs  \n• Compact arcade-style golf arenas"
-},
-{
-"id": "mathpup-golf-addition",
-"title": "MathPup Golf Addition",
-"iframe": "https://html5.gamedistribution.com/9461a12f63ba46f0b8b751ba084a847f/",
-"description": "Aim and shoot golf balls into numbered holes combining basic addition skills in a colorful math-themed course. Players apply addition to calculate ball trajectories, advancing through levels with increasing numeric challenges. The gameplay blends simple arithmetic with putting precision, creating a unique educational twist in a casual golf environment.\n\nKey Features\n\n• Addition-based shot calculations  \n• Mouse-driven aiming and power control  \n• Progressive difficulty with numeric targets  \n• Score tracking for math accuracy  \n• Bright, educational golf course design"
 },
 {
 "id": "presidential-golf",

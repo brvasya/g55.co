@@ -1,6 +1,36 @@
 {
 "pages": [
 {
+"id": "pubg-infinity-battlefield-ops",
+"title": "PUBG Infinity BattleField OPS",
+"iframe": "https://html5.gamedistribution.com/399effb5336c43568bc13e77d62ea1be/",
+"description": "Navigate chaotic battle zones using tactical movement and real-time targeting in this casual multiplayer shooter. Engage in intense combat featuring dynamic weapon switching and strategic positioning. Players focus on outlasting opponents and securing victory through precision aiming and adaptive play, set in expansive urban terrain. Progress through rounds by mastering rapid reflexes and map awareness.\n\nKey Features\n\n• Real-time weapon switching  \n• Tactical movement controls  \n• Progressive match rounds  \n• Competitive elimination mode  \n• Urban combat environments"
+},
+{
+"id": "battlecube-online",
+"title": "BattleCube.online",
+"iframe": "https://html5.gamedistribution.com/ff9b5cac171a42cbadb694fa65d2766c/",
+"description": "Control cubic avatars in fast-paced online battles, navigating dynamic arenas and engaging in pixel-style combat. The game features intense multiplayer skirmishes where players compete to eliminate rivals using precision movement and timing. Survival depends on tactical positioning within grid-based maps, offering a unique blend of casual action and strategic play.\n\nKey Features\n\n• Online multiplayer arena combat  \n• Grid-based character movement  \n• Timed elimination rounds  \n• Responsive keyboard controls  \n• Pixelated cube-themed environment"
+},
+{
+"id": "penguinbattle-io",
+"title": "PenguinBattle.io",
+"iframe": "https://html5.gamedistribution.com/b131952897bd4d2780f964a8a10164d2/",
+"description": "Compete for dominance by controlling agile penguins in a fast-paced arena where dodge and dash tactics are essential. Use quick sliding maneuvers to outlast opponents in a vibrant icy battlefield. The challenge lies in balancing aggressive attacks with evasive movement to secure the highest survival score and emerge victorious.\n\nKey Features\n\n• Sliding movement control  \n• Dodge and attack mechanics  \n• Survival score tracking  \n• Multiplayer arena battles  \n• Arctic-themed environment"
+},
+{
+"id": "pillowbattle-io",
+"title": "PillowBattle.io",
+"iframe": "https://html5.gamedistribution.com/7d72b95529fe48de9a9b029869dc2c35/",
+"description": "PillowBattle.io lets players toss soft pillows in fast-paced arena matches where dodging and targeting opponents is key. Maneuver around a simple open map using smooth 2D movement controls to knock rivals out of the play zone. The goal centers on outlasting others by carefully timing throws and using environmental cover to avoid hits.\n\nKey Features\n\n• Physics-based projectile throwing  \n• Responsive 2D movement controls  \n• Survival elimination rounds  \n• Dynamic player knockback effects  \n• Casual arena fighting setting"
+},
+{
+"id": "battledudes-io",
+"title": "BattleDudes.io",
+"iframe": "https://html5.gamedistribution.com/5093a3a0c54649de8bf8391d26ea0a38/",
+"description": "Navigate fast-paced arena combat using a combination of shooting and dodging in this io game. Players control agile characters who must outmaneuver opponents while managing limited ammunition and weapon cooldowns. The objective is to survive and eliminate rivals in a continuous battle for dominance, emphasizing quick reflexes and strategic positioning.\n\nKey Features\n\n• Top-down shooter controls  \n• Real-time multiplayer combat  \n• Ammo management and cooldowns  \n• Survival leaderboard system  \n• Minimalist arena setting"
+},
+{
 "id": "battle-shot-elite",
 "title": "Battle Shot Elite",
 "iframe": "https://html5.gamedistribution.com/941884f64e32420fb9791859d7d3fba3/",
@@ -485,12 +515,6 @@
 "title": "Mech Battle Simulator",
 "iframe": "https://html5.gamedistribution.com/c532f80355c84f339ac14cdda9be025d/",
 "description": "Pilot mechanized combat units through dynamic mission zones involving strategic positioning and real-time targeting. The game centers on modular mech customization that influences weapon systems and armor durability as players fight waves of automated drones. Progression demands adapting loadouts and mastering battlefield mobility, with escalating difficulty ramps that test both reflex and planning skills.\n\nKey Features\n\n• Modular mech customization system  \n• Real-time energy weapon management  \n• Progressive enemy drone waves  \n• Tactical movement and cover use  \n• Multi-environment battle zones"
-},
-{
-"id": "gungame-poligon-battle-royale",
-"title": "GunGame Poligon Battle Royale",
-"iframe": "https://html5.gamedistribution.com/c43c108ebd914fbfa9dddfcbcbadcae2/",
-"description": "Engage in fast-paced gun battles where players continuously upgrade their weapons after each elimination, navigating a polygonal arena that emphasizes quick reflexes and strategic shooting. The game’s core mechanic centers on progressing through a weapon tier system while surviving against multiple opponents across shrinking zones. Mastering movement and aiming is essential to outlast others in this casual battle environment.\n\nKey Features\n\n• Weapon upgrade after each kill  \n• Dynamic polygonal arena maps  \n• Progressive elimination challenge  \n• Shrinking safe zone mechanic  \n• Multiplayer battle royale mode"
 },
 {
 "id": "xmas-rooftop-battles",

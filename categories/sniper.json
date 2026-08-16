@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snipndrop",
+"title": "SnipNdrop",
+"iframe": "https://html5.gamedistribution.com/4eb069483a504badbf484b595f13cb82/",
+"description": "Manipulate objects by strategically slicing and dropping pieces to solve spatial puzzles in this casual browser game. Players engage with a physics-based cutting mechanic to guide fragments toward target areas, aiming to clear complex levels that progressively test precision and timing. The gameplay encourages experimentation within abstract stages that emphasize logical placement and sequence.\n\nKey Features\n\n• Physics-driven slicing mechanic  \n• Drag-and-drop object control  \n• Increasing puzzle complexity  \n• Time-based challenge scoring  \n• Minimalist abstract visual style"
+},
+{
 "id": "sniper-for-brainrot",
 "title": "Sniper for Brainrot",
 "iframe": "https://html5.gamedistribution.com/e41aeb486db5460c972b56afe000e727/",

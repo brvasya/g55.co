@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "clicktheplay",
+"title": "ClickThePlay",
+"iframe": "https://html5.gamedistribution.com/a5836f40cffb49ebb27997cee0614613/",
+"description": "Click objects quickly as they appear to test your reflexes and precision in this casual timing game. The gameplay centers on rapid clicking sequences that challenge hand-eye coordination across increasingly demanding stages. Players must respond swiftly to changing targets, maintaining speed to progress through varied levels of intensity.\n\nKey Features\n\n• Rapid click response mechanic  \n• Increasing sequence complexity  \n• Timed precision challenge  \n• Level progression system  \n• Casual reflex training setting"
+},
+{
 "id": "mole-dig-clicker",
 "title": "Mole Dig Clicker",
 "iframe": "https://html5.gamedistribution.com/8b914b33d9384bca84712eb2b4c4aade/",

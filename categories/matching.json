@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "hexamatch",
+"title": "HexaMatch",
+"iframe": "https://html5.gamedistribution.com/b0a9187ecbf943f2b59dfc5e91936d8f/",
+"description": "Match colorful hexagonal tiles to clear the board and unlock new puzzle layers in this casual strategy game. Players must plan moves carefully to create chain reactions that maximize tile clearance, advancing through progressively challenging configurations. The hexagonal grid setup adds a twist to familiar matching mechanics, encouraging strategic thinking and pattern recognition. \n\nKey Features\n\n• Hexagonal tile matching system  \n• Strategic chain reaction combos  \n• Increasing puzzle complexity  \n• Limited move challenge mode  \n• Colorful geometric puzzle theme"
+},
+{
+"id": "shapematcher",
+"title": "ShapeMatcher",
+"iframe": "https://html5.gamedistribution.com/054bf2e6cb4a46afb3fca913cc74d643/",
+"description": "Match and rotate colorful shapes to complete challenging puzzles in a casual setting. Players arrange geometric pieces to fit perfectly within grid outlines, testing spatial reasoning and timing. Levels increase in complexity with shape variety and layout size, encouraging quick thinking and strategy to clear stages before time runs out.\n\nKey Features\n\n• Shape rotation and placement  \n• Timed puzzle challenges  \n• Progressive difficulty levels  \n• Grid-based spatial puzzles  \n• Bright geometric visuals"
+},
+{
+"id": "dinomatch-mahjong-pairs",
+"title": "DinoMatch: Mahjong Pairs",
+"iframe": "https://html5.gamedistribution.com/0d033a94592845d8bbe814039cba3e57/",
+"description": "Match pairs of mahjong tiles by carefully revealing hidden pieces on a vibrant dinosaur-themed board to clear each challenging level. The game uses traditional tile-matching mechanics with a twist of colorful prehistoric icons, requiring players to strategically uncover and pair matching dinosaur symbols before time runs out.\n\nKey Features\n\n• Mahjong tile matching system  \n• Click and reveal controls  \n• Time-limited level challenges  \n• Progressive difficulty scaling  \n• Dinosaur-themed tile designs"
+},
+{
+"id": "candymatch-io",
+"title": "CandyMatch.io",
+"iframe": "https://html5.gamedistribution.com/3f126d9cf4f649aa85201d9bc4453190/",
+"description": "Match colored candies quickly in a fast-paced multiplayer arena where reflexes and pattern recognition determine your rank. Players swap adjacent pieces to create chains and trigger combos against competitors. The game challenges you to outscore others by chaining matches and reacting to shifting board layouts, demanding sharp focus in a lively, candy-themed environment.\n\nKey Features\n\n• Real-time candy matching battles  \n• Swipe controls for quick swaps  \n• Combo multipliers increasing score  \n• Ranked multiplayer leaderboard system  \n• Colorful candy-themed arena visuals"
+},
+{
 "id": "forest-tile-match",
 "title": "Forest Tile Match",
 "iframe": "https://html5.gamedistribution.com/3ef8dda8916d4867b20db49a7e23286d/",
@@ -29,12 +53,6 @@
 "title": "Tile Pair Match",
 "iframe": "https://html5.gamedistribution.com/d0d5fb613e974872be6d2c2946ad3d54/",
 "description": "Match pairs of tiles by flipping them to reveal symbols and clear the board. Players rely on memory recall as the core mechanic, navigating through grid layouts with increasing complexity. The main goal is to find all matching pairs efficiently while managing limited moves or time in casual settings ideal for teens and kids.\n\nKey Features\n\n• Memory-based tile flipping  \n• Tap controls for selection  \n• Progressive grid difficulties  \n• Time and move limits  \n• Simple casual visual style"
-},
-{
-"id": "perfect-match-3d",
-"title": "Perfect Match 3D",
-"iframe": "https://html5.gamedistribution.com/66560ec39d244483a1dcc6245f59f6ce/",
-"description": "Match colorful 3D gems by swiping to create chains in this casual puzzle game. Players clear levels by achieving specific combination goals while navigating spatial challenges presented in a three-dimensional layout. Each stage introduces unique block arrangements and obstacles that require strategic planning and quick pattern recognition to progress. The game targets a wide audience including teens and kids seeking straightforward but engaging puzzle action.\n\nKey Features\n\n• Swipe-based gem matching  \n• Three-dimensional puzzle grids  \n• Level-specific combination targets  \n• Time-limited challenge modes  \n• Vibrant color-coded visuals"
 },
 {
 "id": "sweet-match",
@@ -115,12 +133,6 @@
 "description": "Swap colorful bento pieces to create matching sets and clear the board in timed puzzle rounds. Players adjust their moves to form combos and use limited swaps strategically to overcome increasingly tricky layouts. The game challenges you with pattern recognition and tactical planning as you progress through diverse puzzle stages.\n\nKey Features\n\n• Swap-based tile matching  \n• Combo chain scoring system  \n• Limited move strategic play  \n• Increasing puzzle complexity  \n• Vibrant food-themed visuals"
 },
 {
-"id": "goods-triple-match-3d",
-"title": "Goods Triple Match 3D",
-"iframe": "https://html5.gamedistribution.com/931dfd68632142c7b3e882009866d288/",
-"description": "Match colorful goods by aligning three or more items to clear levels in this 3D puzzle environment. Players swap adjacent objects to trigger chain reactions while managing limited moves and unlocking new challenges through a multi-layered board. The game blends spatial reasoning with timed sequences to keep progressing through increasingly complex patterns.\n\nKey Features\n\n• 3D spatial matching grids  \n• Swap-based chain reaction combos  \n• Limited move puzzle constraints  \n• Progressive level unlocking system  \n• Colorful object-themed tiles"
-},
-{
 "id": "daily-match",
 "title": "Daily Match",
 "iframe": "https://html5.gamedistribution.com/a523b0c0ab444333b57347b6604f10c6/",
@@ -137,12 +149,6 @@
 "title": "Fruit Goals Match",
 "iframe": "https://html5.gamedistribution.com/c15832a0057346399182efb8bf29007c/",
 "description": "Match colorful fruit icons to clear increasingly complex boards in this casual puzzle game. Players swap adjacent pieces to form lines or clusters by color, tackling timed and move-limited levels that introduce combo chains and special fruit effects. Strategic placement is key to advancing through a vibrant grid filled with juicy challenges targeting teens and kids.\n\nKey Features\n\n• Color-matching swap mechanic  \n• Timed and limited-move modes  \n• Combo chain reward system  \n• Special fruit power-ups  \n• Vibrant fruit-themed grids"
-},
-{
-"id": "prism-match-3d",
-"title": "Prism Match 3D",
-"iframe": "https://html5.gamedistribution.com/dbc504babec040ae805e6cdb7c19e4e3/",
-"description": "Match colorful gems by swiping across a three-dimensional grid to create combos and clear levels. Players navigate shifting cube layers to strategically align prism blocks, balancing limited moves and spatial puzzles. Each stage introduces new patterns demanding quick adaptation and foresight for higher scores and progression.\n\nKey Features\n\n• 3D gem matching mechanics  \n• Swipe gesture controls  \n• Layered puzzle complexity  \n• Move-limited stage challenges  \n• Vibrant crystal cube design"
 },
 {
 "id": "athena-match-2",
@@ -265,12 +271,6 @@
 "description": "Match colored gems by swapping adjacent tiles to create chains and clear the board in this puzzle challenge. Use strategic moves to trigger combo cascades across levels with increasing complexity. The cosmic backdrop enhances each encounter, inviting players to unlock new stages and boost their scores through precise matching tactics.\n\nKey Features\n\n• Tile swapping combo system  \n• Cascading match mechanics  \n• Level-based progression challenges  \n• Score multiplier bonuses  \n• Space-themed visual design"
 },
 {
-"id": "match-3d-puzzle-saga",
-"title": "Match 3D Puzzle Saga",
-"iframe": "https://html5.gamedistribution.com/96d4461569d24b6dafd883f59710f03f/",
-"description": "Match colored shapes swiftly to clear increasingly complex grids in this spatial puzzle challenge. Players rotate and slide pieces to achieve multi-directional matches, navigating limited moves and timed rounds for a high score. Each level introduces unique pattern variations that demand sharper observation and planning to advance through dozens of stages.\n\nKey Features\n\n• Multi-angle matching mechanic  \n• Touch and drag controls  \n• Limited move-based progression  \n• Timed scoring challenges  \n• Colorful geometric shapes"
-},
-{
 "id": "royal-garden-match",
 "title": "Royal Garden Match",
 "iframe": "https://html5.gamedistribution.com/b511303e158f4d15b58484a5558dd173/",
@@ -299,12 +299,6 @@
 "title": "Candy Match Puzzle",
 "iframe": "https://html5.gamedistribution.com/ce1352f9133c4f198cb6465c407c0ff8/",
 "description": "Match colorful candy pieces on a grid to create chains and clear levels in a classic matching puzzle style. Players swap adjacent candies to trigger chain reactions and work through increasingly complex grids with limited moves. Strategic placement and combo building are key to progressing across multiple stages designed for casual players and kids.\n\nKey Features\n\n• Tile swapping matching mechanic  \n• Chain reaction combo system  \n• Increasingly complex level design  \n• Limited move challenge structure  \n• Colorful candy-themed visuals"
-},
-{
-"id": "mojo-match-3d",
-"title": "Mojo Match 3D",
-"iframe": "https://html5.gamedistribution.com/caee014ec4584f6290102cf0ab9e4bd6/",
-"description": "Match gems by swapping colorful blocks to clear 3D layers in a vibrant puzzle space. Players strategize moves to connect items while navigating multi-dimensional match grids that increase difficulty as levels progress. The objective centers on clearing complex stacks under move limits to advance through casual challenges.\n\nKey Features\n\n• Multi-layered 3D board design  \n• Swap-based matching mechanics  \n• Increasing level complexity  \n• Move limit challenge system  \n• Colorful gem stacking visuals"
 },
 {
 "id": "soo-match-room-design",
@@ -505,12 +499,6 @@
 "description": "Match colorful tiles by aligning royal symbols in a grid to clear the board and earn points. Strategically swap icons to create sequences and unlock special combos that boost your score. Progress through increasing difficulty levels featuring unique tile arrangements designed for casual players and children alike.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Combo-based scoring system  \n• Level-based difficulty progression  \n• Special tile power-ups  \n• Royal symbol visual theme"
 },
 {
-"id": "balloon-match-3d",
-"title": "Balloon Match 3D",
-"iframe": "https://html5.gamedistribution.com/3e00328b8b184561a6ed0bc5ac750153/",
-"description": "Match colorful balloons by aligning three or more in a dynamic 3D grid to clear the board and score points. Players rotate the cluster to find the best placement, managing limited moves while aiming to complete increasingly complex levels. Timing the chain reactions becomes crucial as challenges escalate in vibrant floating environments.\n\nKey Features\n\n• 3D rotational matching mechanic  \n• Limited move strategic placement  \n• Progressive level complexity  \n• Chain reaction scoring system  \n• Colorful balloon cluster puzzles"
-},
-{
 "id": "romantic-match-tactics",
 "title": "Romantic Match Tactics",
 "iframe": "https://html5.gamedistribution.com/aa1f7a9868b9446380f0d567b1581555/",
@@ -695,12 +683,6 @@
 "title": "Candy Chain Match",
 "iframe": "https://html5.gamedistribution.com/1ccc4c090faf4b118a9f7d9863a34eab/",
 "description": "Match cascading candy pieces to create long chains and clear the board in this casual puzzle game. Players connect adjacent candy nodes using a drag mechanic to trigger chain reactions and earn points. Each level introduces new layout challenges, requiring quick pattern recognition and strategic matching to complete objectives and unlock further puzzles.\n\nKey Features\n\n• Chain linking drag control  \n• Increasing board complexity  \n• Score-based level progression  \n• Puzzle layout variation system  \n• Colorful candy-themed visuals"
-},
-{
-"id": "cinderella-match-3d",
-"title": "Cinderella Match 3D",
-"iframe": "https://html5.gamedistribution.com/1bbcf7a66ab6438ab7ea1960a78efde8/",
-"description": "Match colorful gems by swapping them to create cascades and clear levels filled with sparkling treasures. Players solve each puzzle by strategically targeting clusters for chain reactions while advancing through vibrant stages that highlight dynamic 3D jewel layouts. The challenge grows as new gem types and obstacles appear, requiring careful planning to reach high scores.\n\nKey Features\n\n• Gem swapping chain reaction mechanic  \n• Tap and drag control scheme  \n• Increasing puzzle difficulty progression  \n• Score multiplier combo system  \n• Vibrant 3D jewel stage design"
 },
 {
 "id": "forest-match-2",

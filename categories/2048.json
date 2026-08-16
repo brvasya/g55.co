@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "2048skill-edition",
+"title": "2048Skill Edition",
+"iframe": "https://html5.gamedistribution.com/7966e140ae314702ab90781554da313b/",
+"description": "Slide numbered tiles strategically to merge them into higher values, testing your planning and spatial reasoning skills in a classic grid setup. Each move combines like numbers, aiming to reach the coveted 2048 tile while managing limited board space. This edition offers an adjusted scoring system that adds fresh depth to familiar merging mechanics.\n\nKey Features\n\n• Tile merging core mechanic  \n• Directional swipe controls  \n• Increasing difficulty thresholds  \n• Score multiplier system  \n• Minimalist grid interface"
+},
+{
 "id": "2048-sort-factory",
 "title": "2048 Sort Factory",
 "iframe": "https://html5.gamedistribution.com/94f14de101df47568ffb9b5f91fa47f8/",

@@ -1,6 +1,54 @@
 {
 "pages": [
 {
+"id": "craftmart",
+"title": "CraftMart",
+"iframe": "https://html5.gamedistribution.com/b8c3d90dea1147659b4cb410d61d971f/",
+"description": "Arrange colorful blocks to create intricate patterns and solve spatial puzzles in this casual game. Using a dynamic drag-and-drop mechanic, players experiment with different shapes and rotations to fill grids without gaps. The challenge grows as levels add varied block sizes and limited moves, encouraging strategy and careful planning.\n\nKey Features\n\n• Drag-and-drop block placement  \n• Rotation controls for puzzle pieces  \n• Increasing grid complexity  \n• Limited moves per level  \n• Vibrant geometric visual style"
+},
+{
+"id": "worldcraft-3",
+"title": "WorldCraft 3",
+"iframe": "https://html5.gamedistribution.com/a7c2f298ce5a4c6ea595b1f58cf5dc2a/",
+"description": "Explore vast worlds by gathering resources and constructing settlements in this casual game tailored for young players. The gameplay centers on managing diverse building elements while guiding villagers to expand their domain. Progression involves unlocking new areas and crafting tools, blending exploration with strategic planning to achieve growth and stability.\n\nKey Features\n\n• Resource collection mechanics  \n• Settler movement commands  \n• Area unlocking progression  \n• Tool crafting system  \n• Expansive settlement environments"
+},
+{
+"id": "zoocraft",
+"title": "ZooCraft",
+"iframe": "https://html5.gamedistribution.com/d38cc7bbcc4341f9b71588a15e38bc2e/",
+"description": "Manage and expand a vibrant virtual zoo by collecting and caring for a diverse array of animal species. Players balance animal needs and habitat customization to keep visitors satisfied while unlocking new creatures and exhibits. The game blends resource management with a playful exploration of wildlife environments, offering steady progression through zoo upgrades and expansions.\n\nKey Features\n\n• Animal care and feeding mechanics  \n• Habitat customization options  \n• Visitor satisfaction tracking  \n• Progressive species unlocking system  \n• Casual zoo management theme"
+},
+{
+"id": "pinatacraft",
+"title": "PinataCraft",
+"iframe": "https://html5.gamedistribution.com/8008ab44b4924597bb8f6de6d27cf363/",
+"description": "Collect colorful piñatas by moving strategically through puzzle grids, triggering chain reactions that clear obstacles and unlock progression. The gameplay centers on matching vibrant items to solve increasingly complex setups. Casual players tackle timed challenges while navigating vibrant party-themed levels, aiming to maximize their scores and advance. Unique combo mechanics add depth to the matching core.\n\nKey Features\n\n• Chain reaction puzzle matching  \n• Grid-based movement control  \n• Timed challenge levels  \n• Score multiplier combo system  \n• Vibrant festive visual theme"
+},
+{
+"id": "craftmine",
+"title": "CraftMine",
+"iframe": "https://html5.gamedistribution.com/df7e4dc5cbab4203900121d3a24b0288/",
+"description": "Mine resources and build structures using strategic tile placement in this casual browser game. Players match colored blocks to clear paths while managing limited moves and expanding their mining domain. Each level introduces different resource types and obstacles, challenging players to think ahead and optimize their approach within a puzzle-based setting.\n\nKey Features\n\n• Tile matching mining mechanics  \n• Limited move puzzle challenges  \n• Resource collection and management  \n• Progressive difficulty with obstacles  \n• Casual puzzle mining theme"
+},
+{
+"id": "worldcraft-2",
+"title": "WorldCraft 2",
+"iframe": "https://html5.gamedistribution.com/5ab6c0365d0e44ff834bb2084fddf0b5/",
+"description": "Explore dynamic block-building and resource gathering in a casual sandbox environment where creativity shapes the world. Players interact through mining and crafting mechanics, constructing unique structures while managing limited resources. Progression focuses on expanding capabilities and unlocking new materials, encouraging experimentation and leisurely exploration on handcrafted maps.\n\nKey Features\n\n• Block placement and mining system  \n• Crafting based item creation  \n• Resource management mechanics  \n• Unlockable crafting recipes  \n• Sandbox world exploration"
+},
+{
+"id": "craftbox-jigsaw-puzzle",
+"title": "CraftBox Jigsaw Puzzle",
+"iframe": "https://html5.gamedistribution.com/a6ec5489f3e0481f86de9c3ae7ea965d/",
+"description": "Piece together colorful puzzles using a drag-and-drop jigsaw mechanic to complete unique images. Players must fit irregularly shaped pieces into place while managing complexity and gradually unlocking new puzzles. The game challenges visual recognition and spatial reasoning through timed puzzles and increasing difficulty levels.\n\nKey Features\n\n• Drag-and-drop piece fitting  \n• Visual pattern matching  \n• Progressive puzzle difficulty  \n• Timed challenge mode  \n• Vibrant image designs"
+},
+{
+"id": "craftsman-3d-gangster",
+"title": "CraftsMan 3D Gangster",
+"iframe": "https://html5.gamedistribution.com/5fb6010076ff46668fb94be7cd289bcb/",
+"description": "Navigate complex 3D environments using precision movement and tactical timing to evade or confront gang rivals across urban settings. The gameplay centers on mastering spatial awareness and strategic positioning to complete objectives involving territory control and survival against hostile NPC factions. Players advance through layered challenges that test both reflexes and decision-making in dynamic street scenarios.\n\nKey Features\n\n• Precision movement in urban 3D maps  \n• Strategic positioning against rival NPCs  \n• Territory control progression system  \n• Timed survival challenge modes  \n• Gangster-themed city environments"
+},
+{
 "id": "crafttower",
 "title": "CraftTower",
 "iframe": "https://html5.gamedistribution.com/75efd864d09a482bb1e4b00817b724ce/",

@@ -1,6 +1,48 @@
 {
 "pages": [
 {
+"id": "cute-sheep-skyblock",
+"title": "Cute Sheep SkyBlock",
+"iframe": "https://html5.gamedistribution.com/856fcda2826d449bae34cc9d3efe90ce/",
+"description": "Build and manage a floating island by collecting resources and expanding structures in this casual block-based game. Players strategically place blocks and breed cute sheep to gather materials, aiming to develop their SkyBlock environment. The game combines resource farming with spatial planning on a floating platform, challenging players to grow their island while balancing limited space.\n\nKey Features\n\n• Resource collection from sheep farming  \n• Block placement and island expansion  \n• Progression through material upgrades  \n• Inventory management and crafting system  \n• Casual sky-themed block building"
+},
+{
+"id": "blockfit-puzzler",
+"title": "BlockFit Puzzler",
+"iframe": "https://html5.gamedistribution.com/74ac12fb37804b29869691447c46c1b3/",
+"description": "Arrange falling blocks to perfectly fill horizontal lines in this casual puzzle experience. The gameplay revolves around spatial reasoning and quick placement, where players clear levels by completing rows without gaps. Timed challenges and increasing block variety introduce progression and pressure, making careful stacking essential for success among younger audiences.\n\nKey Features\n\n• Gravity-based block placement  \n• Keyboard and mouse controls  \n• Increasing level difficulty  \n• Time trial scoring mode  \n• Colorful geometric puzzle pieces"
+},
+{
+"id": "tap2block",
+"title": "Tap2Block",
+"iframe": "https://html5.gamedistribution.com/fef25717347249109c7b9f6208476541/",
+"description": "Tap rapidly to stack blocks with precision and steadily build taller structures while balancing increasing instability. The gameplay revolves around timing taps perfectly to align each new block atop the previous one, challenging spatial awareness and reflexes. Players aim to create the highest possible tower without toppling it, testing skill in an endless stacking scenario.\n\nKey Features\n\n• Tap timing alignment mechanic  \n• Responsive block placement controls  \n• Progressive tower instability challenge  \n• Endless stacking mode system  \n• Minimalist geometric visual style"
+},
+{
+"id": "blockup",
+"title": "BlockUP!",
+"iframe": "https://html5.gamedistribution.com/83f67be9512a422eb44d5eb948ad295e/",
+"description": "Arrange falling blocks swiftly to create full horizontal lines in this casual puzzle experience. Players manipulate a variety of geometric shapes that descend steadily, aiming to clear layers and prevent the stack from reaching the top. The game challenges spatial awareness and timing through progressively faster levels, inviting careful placement to maximize line clears and score.\n\nKey Features\n\n• Shape rotation and placement  \n• Progressive speed increase  \n• Line clearing scoring system  \n• Intuitive keyboard controls  \n• Minimalist block puzzle theme"
+},
+{
+"id": "mineblock-earth-survival",
+"title": "MineBlock Earth Survival",
+"iframe": "https://html5.gamedistribution.com/aa097c63a9c446cba8d9f5be49f08bc8/",
+"description": "Explore a blocky world by mining resources and crafting tools to endure harsh environmental hazards in this pixelated survival challenge. Navigate nighttime dangers using crafted weapons and shelter while managing stamina and hunger in a dynamic day-night cycle. Progress by unlocking stronger gear and expanding your base to withstand increasingly tough threats.\n\nKey Features\n\n• Resource mining and crafting system  \n• Stamina and hunger management  \n• Dynamic day-night survival cycle  \n• Base building and defense upgrades  \n• Procedural terrain exploration"
+},
+{
+"id": "blockbuster-puzzle",
+"title": "BlockBuster Puzzle",
+"iframe": "https://html5.gamedistribution.com/b2cc0cd4b40a40dd84b8d452e7c5d6f8/",
+"description": "Match colored blocks to clear grids and create chain reactions in a dynamic puzzle setup. Players swap and align pieces under increasing time pressure, aiming to unlock progressively difficult levels. Strategic planning and swift moves challenge players as they push through color-coded stages of escalating complexity.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Grid-based chain reaction system  \n• Increasing level difficulty  \n• Time-limited move sequences  \n• Color matching puzzle elements"
+},
+{
+"id": "mineblocks-3d-maze",
+"title": "MineBlocks 3D Maze",
+"iframe": "https://html5.gamedistribution.com/1ecbfc918b234216bc599edf5efb9b55/",
+"description": "Navigate complex 3D mazes by strategically mining blocks to forge new paths and uncover hidden routes. Players manipulate block-breaking mechanics within a layered labyrinth environment, aiming to solve spatial puzzles and advance through progressively intricate levels. The game challenges spatial reasoning as players carve their way through cubic structures to reach each exit point.\n\nKey Features\n\n• Block mining navigation system  \n• Precision movement controls  \n• Increasing maze complexity  \n• Time-based challenge modes  \n• Cubic labyrinth 3D setting"
+},
+{
 "id": "choco-blast-block-merge",
 "title": "Choco Blast : Block Merge",
 "iframe": "https://html5.gamedistribution.com/0c9d047ce9c54b20bfc013b27d4864c9/",

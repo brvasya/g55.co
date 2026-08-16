@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "pixelforces-io",
+"title": "PixelForces.io",
+"iframe": "https://html5.gamedistribution.com/f52f0c6bf06c48ea8839543a0a72bbe9/",
+"description": "Engage in fast-paced multiplayer combat by maneuvering pixelated soldiers across dynamic 2D arenas, using precise shooting and tactical positioning to outlast opponents. Collect weapon upgrades and adapt to varied map layouts to secure victory. The game blends arcade-style shooting with strategic movement as players aim to dominate the competitive battlefield.\n\nKey Features\n\n• Top-down shooting mechanics  \n• Responsive character controls  \n• Weapon upgrade system  \n• Dynamic pixel art arenas  \n• Multiplayer elimination rounds"
+},
+{
+"id": "pixelart-color-by-number",
+"title": "PixelArt Color By Number",
+"iframe": "https://html5.gamedistribution.com/7c3b41bbadf4403a815fe9b5031a0a33/",
+"description": "Fill numbered pixel grids by matching colors to reveal detailed images. This game emphasizes precision in selecting and applying colors based on numerical cues across pixelated art. Players advance by completing various color-by-number puzzles with growing complexity. The challenge lies in uncovering unique pixel artworks while maintaining accuracy within time limits.\n\nKey Features\n\n• Numeric color matching mechanic  \n• Click and fill pixel controls  \n• Increasing puzzle complexity  \n• Time-limited coloring stages  \n• Pixel art image themes"
+},
+{
 "id": "pixelcraft-jigsaw",
 "title": "Pixelcraft Jigsaw",
 "iframe": "https://html5.gamedistribution.com/1f327ecddf0d42fbb163815f2eaf3cc9/",
@@ -335,12 +347,6 @@
 "title": "Pixel Gun 3D Free Coins and Gems",
 "iframe": "https://html5.gamedistribution.com/c6efbe50ba6247b682c4d8a173e074d9/",
 "description": "Collect and spend coins and gems to customize your pixelated arsenal and unlock new weapons in an open multiplayer arena. Navigate blocky environments with responsive controls while competing against other players for dominance. Progression hinges on upgrading gear and managing in-game currency to maintain a tactical edge in fast-paced combat.\n\nKey Features\n\n• Coin and gem collection system  \n• Character and weapon customization  \n• Multiplayer competitive battles  \n• Upgrade based weapon progression  \n• Pixelated arena combat settings"
-},
-{
-"id": "gungame-24-pixel",
-"title": "GunGame 24 Pixel",
-"iframe": "https://html5.gamedistribution.com/f57c55c88e534595a89283bd8078122c/",
-"description": "Navigate pixelated arenas using varied firearm mechanics in this fast-paced shooter. Players cycle through different weapons as they defeat opponents, mastering each unique gun to climb the ranks. Progression depends on adapting to changing armaments and surviving increasingly intense combat stages, challenging reflexes and precision.\n\nKey Features\n\n• Weapon cycling mechanic  \n• Pixel art arena combat  \n• Progressive difficulty scaling  \n• Score-based survival mode  \n• Quick-reflex shooter gameplay"
 },
 {
 "id": "crazy-pubg-pixel",

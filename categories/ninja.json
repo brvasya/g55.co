@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "ninjaroof",
+"title": "NinjaRoof",
+"iframe": "https://html5.gamedistribution.com/6bfd6b77827c418eb5dc2d33be6bc911/",
+"description": "Leap and dash across rooftops using fluid parkour moves, timing jumps to avoid gaps and hazards while navigating urban skylines. The gameplay centers on acrobatic movement and precision landing, challenging players to chain combos and maintain momentum through increasingly difficult platform sequences. Score progression rewards skillful traversal and careful route planning.  \n\nKey Features\n\n• Fluid parkour movement system  \n• Precision jump timing controls  \n• Combo chain scoring mechanics  \n• Progressive rooftop level design  \n• Urban skyline platforming theme"
+},
+{
 "id": "ninjadash",
 "title": "NinjaDash",
 "iframe": "https://html5.gamedistribution.com/65e44f1237b24683ae56896c6207d4c3/",

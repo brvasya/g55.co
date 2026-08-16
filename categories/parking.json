@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "aquapark-fun-loop",
+"title": "AquaPark Fun Loop",
+"iframe": "https://html5.gamedistribution.com/3010f6dc89ac4a8f8ab719f92e3eba1b/",
+"description": "Race through twisting water slides, steering your inflatable raft with smooth controls to hit loops and drops in this casual poolside challenge. Navigate dynamic currents and timed jumps to maintain speed and avoid obstacles while enjoying colorful aquatic settings. Progress through increasingly complex slide layouts that test reflexes and precision.\n\nKey Features\n\n• Raft steering and momentum control  \n• Timing-based jump mechanics  \n• Obstacle avoidance challenges  \n• Progressive slide difficulty levels  \n• Vibrant water park environment"
+},
+{
+"id": "waterpark-slide-io",
+"title": "WaterPark Slide.io",
+"iframe": "https://html5.gamedistribution.com/f784ba5eadd74fe086179c672821224f/",
+"description": "Navigate twisting water slides while competing for length and speed in a dynamic io environment. Players control a growing water slide mechanism that extends by absorbing sections to outpace rivals, challenging others in increasing crowd density. Mastering fluid movement and strategic expansion is key to becoming the longest and fastest on the board.\n\nKey Features\n\n• Slide extension through absorption  \n• Real-time competitive movement control  \n• Crowd density collision challenge  \n• Progressive player length advantage  \n• Waterpark themed competitive arena"
+},
+{
+"id": "duckpark-io",
+"title": "DuckPark io",
+"iframe": "https://html5.gamedistribution.com/0a7b14bd07ac46029ebc8939cce18079/",
+"description": "Battle quack across a lively arena to outmaneuver rivals in fast-paced multiplayer action. Players control agile ducks using smooth sliding movement to capture territory and score points while avoiding elimination. The game challenges quick reflexes and strategic positioning on dynamic maps designed for casual competition.\n\nKey Features\n\n• Sliding movement control system  \n• Competitive territory capture mechanic  \n• Progressive score-based survival rounds  \n• Local and online multiplayer modes  \n• Colorful animal-themed arena design"
+},
+{
+"id": "ipark-my-car",
+"title": "iPark my car",
+"iframe": "https://html5.gamedistribution.com/ec0da6349758480993ff80b687a8b871/",
+"description": "Navigate precise parking spots using timed movement controls in this casual car parking challenge. Maneuver different vehicles through narrow spaces without collisions while managing limited attempts per level. Each stage tests patience and spatial awareness, offering progressively tighter parking scenarios for players seeking a relaxed yet skillful driving experience.\n\nKey Features\n\n• Precision positioning mechanics  \n• Button-based vehicle control scheme  \n• Increasingly narrow parking spaces  \n• Time-limited parking attempts  \n• Urban parking lot settings"
+},
+{
 "id": "park-fever",
 "title": "Park Fever",
 "iframe": "https://html5.gamedistribution.com/b434d014d65640d8a1582af70665f0d5/",

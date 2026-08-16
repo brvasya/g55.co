@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "mergeworld-io",
+"title": "MergeWorld.io",
+"iframe": "https://html5.gamedistribution.com/620586734576432db5d33390796dd0c5/",
+"description": "Combine and evolve units on a dynamic grid to dominate opponents in strategic merges. Players create powerful formations by linking identical pieces, managing limited space while expanding their territory. The game challenges quick decision-making and adaptive tactics to outsmart rivals in a continuously shifting arena.\n\nKey Features\n\n• Strategic tile merging system  \n• Grid-based unit placement control  \n• Progressive territory expansion  \n• Real-time multiplayer competitive mode  \n• Minimalistic arena visual style"
+},
+{
+"id": "mergeduel-io",
+"title": "MergeDuel.io",
+"iframe": "https://html5.gamedistribution.com/05017bab2dbe4802968bf84231e08e24/",
+"description": "Merge units strategically on a grid to create stronger fighters as you battle other players in a fast-paced io environment. Players combine matching elements to upgrade their army, testing quick thinking and spatial awareness in each round. The game challenges you to outsmart opponents using tactical merges while managing limited space to dominate the arena.\n\nKey Features\n\n• Grid based merging mechanic  \n• Tactical unit combination controls  \n• Competitive player arena progression  \n• Time limited match rounds  \n• Minimalist visual design"
+},
+{
 "id": "cake-merge-2",
 "title": "Cake Merge 2",
 "iframe": "https://html5.gamedistribution.com/c89cf76cc0804e51a12259a9e1e1f09f/",
@@ -539,12 +551,6 @@
 "title": "Thor Merge",
 "iframe": "https://html5.gamedistribution.com/5a12e99c2997451f98813349fa7e8d46/",
 "description": "Combine elements by dragging and merging them to create higher-level items in this puzzle adventure. Players continuously experiment with merging patterns to unlock new combinations and advance through increasing tiers of complexity. The game challenges casual players to optimize merges and explore progression with a lightly mythological theme hinted through iconography and naming.\n\nKey Features\n\n• drag and merge combo mechanic  \n• incremental item evolution system  \n• tiered progression challenges  \n• limited move strategic puzzles  \n• Norse-inspired thematic hints"
-},
-{
-"id": "popcats-merge-the-cats",
-"title": "PopCats: Merge the cats!",
-"iframe": "https://html5.gamedistribution.com/90f445f874d146bab03ae0e80ac6a477/",
-"description": "Combine and match different cats by merging them into higher-level creatures while managing the board space and timing merges carefully. This merge puzzle centers on arranging adorable feline characters in a grid, aiming to evolve them up through strategic combinations and unlock new cat varieties. Progression challenges players to optimize merges and expand their collection of charming pops.\n\nKey Features\n\n• grid-based cat merging  \n• strategic board space management  \n• evolving unique cat varieties  \n• merge chain progression system  \n• colorful casual puzzle theme"
 },
 {
 "id": "merge-cubes-2048-3d",

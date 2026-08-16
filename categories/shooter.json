@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "roboshoot",
+"title": "RoboShoot",
+"iframe": "https://html5.gamedistribution.com/bc698ccda84a44b5984e052ad2ab559d/",
+"description": "Engage in fast-paced shooting challenges where quick reflexes and target accuracy define success. Players rely on precision aiming and fast shooting mechanics to overcome waves of robotic enemies across varied arenas. Progression comes through mastering weapon handling and adapting to increasing difficulty, keeping gameplay sharp and responsive for casual audiences.\n\nKey Features\n\n• Precision shooting mechanics  \n• Mouse and keyboard controls  \n• Wave-based enemy encounters  \n• Progressive difficulty scaling  \n• Futuristic robot-themed arenas"
+},
+{
+"id": "airshoot-wars",
+"title": "AirShoot Wars",
+"iframe": "https://html5.gamedistribution.com/319ffbbc7bd84286bba7c615033994d0/",
+"description": "Pilot agile fighter jets through intense aerial dogfights using rapid-fire cannons and evasive maneuvers. The game challenges players to outfly waves of enemy aircraft while upgrading weapons and unlocking new combat zones. Strategic targeting and precise controls are crucial to surviving escalating battle scenarios in a fast-paced war environment.\n\nKey Features\n\n• Jet dogfight combat mechanics  \n• Responsive flight control system  \n• Progressive enemy waves difficulty  \n• Weapon upgrade pathways  \n• Military aerial battle setting"
+},
+{
+"id": "shooterz-io",
+"title": "ShooterZ.io",
+"iframe": "https://html5.gamedistribution.com/696543c05fe842fbacbb9a5348bff341/",
+"description": "Navigate fast-paced arenas using precise aiming and shooting mechanics to eliminate opponents while collecting power-ups in a competitive multiplayer environment. The game challenges players to outshoot rivals with quick reflexes and strategic positioning in chaotic battle zones designed for casual clashes and escalating score streaks.\n\nKey Features\n\n• Precision aiming and shooting  \n• Responsive movement controls  \n• Score-based elimination system  \n• Dynamic power-up pickups  \n• Compact multiplayer arenas"
+},
+{
 "id": "grandfather-road-chase-realistic-shooter-guns",
 "title": "Grandfather Road Chase Realistic Shooter Guns",
 "iframe": "https://html5.gamedistribution.com/37f7c40867a74df68691a1083250e737/",
@@ -655,12 +673,6 @@
 "description": "Engage enemies using ranged firearms in tense block-based combat scenarios that test your aiming skills and reaction time. Navigate destructible environments while managing limited ammo to survive waves of opponents. Strategic cover use and rapid shooting maneuvers are crucial to clear levels and advance through tougher challenges.\n\nKey Features\n\n• Precision shooting mechanics  \n• Tactical cover based movement  \n• Ammo management system  \n• Progressive enemy wave difficulty  \n• Blocky voxel art style"
 },
 {
-"id": "paintball-fun-shooting-multiplayer",
-"title": "PaintBall Fun Shooting Multiplayer",
-"iframe": "https://html5.gamedistribution.com/a02f65c79ae14d5b979b7d0aeab8fa21/",
-"description": "Engage in fast-paced paintball combat where players shoot colorful projectiles to tag opponents in multiplayer matches. The game centers on aiming precision and quick movement to outmaneuver rivals across various playful arenas. Compete to dominate matches by tagging more players while dodging incoming shots in casual, team-based battles.\n\nKey Features\n\n• Projectile shooting and aiming mechanics  \n• Responsive movement controls  \n• Multiplayer match scoring system  \n• Team-based gameplay dynamics  \n• Colorful paintball arena environments"
-},
-{
 "id": "shoot-the-robbers",
 "title": "Shoot The Robbers",
 "iframe": "https://html5.gamedistribution.com/f87b5443b40a4221a475881eb9deef36/",
@@ -751,12 +763,6 @@
 "description": "Shoot flying emojis using precise aiming controls in this fast-paced 2D shooter where timing and accuracy are essential. Dodge incoming projectiles as you target different emoji types, each requiring unique strategies. Levels increase in difficulty with more aggressive emoji waves, challenging your reflexes and shooting speed for high scores.\n\nKey Features\n\n• Precision aiming with mouse control  \n• Multiple emoji enemy types  \n• Increasing wave difficulty system  \n• Reaction-based dodging mechanic  \n• Casual arcade shooter style"
 },
 {
-"id": "paintwars-shoot",
-"title": "PaintWars Shoot",
-"iframe": "https://html5.gamedistribution.com/4d07bcfc1341459ba7c0bca58aaed98f/",
-"description": "Launch paint-filled projectiles at colorful opponents in fast-paced shooting battles. Players use a dynamic paintball gun mechanic to tag rivals and control territory, aiming to cover surfaces with vibrant colors in quick rounds. Strategic aiming and timing are essential to dominate the arena and outmatch other players.\n\nKey Features\n\n• Paintball shooting mechanics  \n• Precision aiming controls  \n• Territory coverage objective  \n• Timed round challenges  \n• Colorful arena environments"
-},
-{
 "id": "vox-shooting",
 "title": "Vox Shooting",
 "iframe": "https://html5.gamedistribution.com/eda8eac1c54e4e3ab3ed8b73bc24aec0/",
@@ -779,12 +785,6 @@
 "title": "Robot Shooting",
 "iframe": "https://html5.gamedistribution.com/15a775ecda7949b6a48d0ef21f4230f7/",
 "description": "Shoot waves of robotic enemies using strategic targeting and rapid-fire controls to survive intense encounters in this shooter. Players rely on precise aim and quick reflexes to dismantle mechanical foes across multiple assault phases. The escalating challenge demands mastery of shooting mechanics amid a futuristic robotic warfare setting.\n\nKey Features\n\n• Precision aiming and shooting  \n• Rapid-fire control mechanics  \n• Progressive enemy wave escalation  \n• Score-based survival mode  \n• Futuristic robotic combat theme"
-},
-{
-"id": "gungame-shooting-warfare-blocky-gangster",
-"title": "GunGame shooting warfare blocky gangster",
-"iframe": "https://html5.gamedistribution.com/6f09a32e739f4888a80b71d2f3d47c2c/",
-"description": "Engage in fast-paced shooting combat in a blocky urban environment where players navigate chaotic city streets using tactical gunplay. The game centers on weapon switching and precision aiming against rival gangsters, challenging players to outshoot opponents in close-quarter battles. Progression revolves around gaining new firearms and mastering diverse shooting mechanics across varied map zones.\n\nKey Features\n\n• Weapon switching combat system  \n• Precision aiming controls  \n• Progressive firearm unlocks  \n• Close-quarter city maps  \n• Blocky gangster theme"
 },
 {
 "id": "clock-shoot-game",

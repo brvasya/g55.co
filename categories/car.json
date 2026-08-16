@@ -1,6 +1,42 @@
 {
 "pages": [
 {
+"id": "carjamcolor",
+"title": "CarJamcolor",
+"iframe": "https://html5.gamedistribution.com/aaa7b1b4519f4ffe844867a71a8ba2b1/",
+"description": "Match colorful cars to create chain reactions in this casual puzzler. Players must carefully swap tiles to align matching vehicles and clear the board, testing pattern recognition and spatial planning. The game’s bright palette and incremental difficulty introduce new challenges as players aim to reach higher scores through strategic moves.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Chain reaction scoring system  \n• Increasing puzzle complexity  \n• Time-based challenge mode  \n• Colorful car-themed visuals"
+},
+{
+"id": "cool-supercars-stunts-pvp",
+"title": "Cool SuperCars Stunts PvP",
+"iframe": "https://html5.gamedistribution.com/c0ec7c50918143e8b7ba4b32282ed0e9/",
+"description": "Perform daring car stunts using high-speed supercars on challenging tracks to outscore opponents in competitive PvP battles. Master precise vehicle handling and timing to execute flips, jumps, and rolls across dynamic stunt arenas. Success depends on chain combos and avoiding crashes while competing against players in real-time events.\n\nKey Features\n\n• Physics based stunt driving  \n• Real-time player versus player  \n• Combo scoring system  \n• Variety of stunt arenas  \n• Customizable supercar models"
+},
+{
+"id": "supercar-racing",
+"title": "SuperCar Racing",
+"iframe": "https://html5.gamedistribution.com/b371cbb4c6654b96a94248c957ac90e7/",
+"description": "Race agile supercars through tightly designed tracks focusing on precision steering and reactive acceleration control to outpace rivals. Players navigate sharp corners and varied track layouts while optimizing boost management to secure first place in competitive circuits. The game emphasizes vehicle handling skills and lap time improvement across multiple racing tournaments.\n\nKey Features\n\n• Precision steering control system  \n• Boost management mechanic  \n• Multiple competitive circuits  \n• Time trial and championship modes  \n• Supercar-themed race environments"
+},
+{
+"id": "supercars-puzzle-game",
+"title": "SuperCars Puzzle Game",
+"iframe": "https://html5.gamedistribution.com/2b37ac4bdd1e4ee79d713f310b83e2d1/",
+"description": "Arrange colorful car pieces by matching puzzle shapes to complete vibrant supercar images. The game challenges players to strategically fit irregular puzzle fragments together, testing spatial reasoning and pattern recognition skills. Progressing through multiple levels reveals increasingly complex designs featuring sleek vehicle aesthetics aimed at casual gamers and younger audiences.\n\nKey Features\n\n• Shape-matching puzzle mechanic  \n• Drag and drop piece controls  \n• Level-based difficulty scaling  \n• Time-attack and relaxed modes  \n• Car-themed image sets"
+},
+{
+"id": "deathcar-io",
+"title": "DeathCar.io",
+"iframe": "https://html5.gamedistribution.com/6ea87abc31684c18905b9533e7e37be0/",
+"description": "Navigate a deadly battlefield by controlling a heavily armed vehicle, engaging opponents in fast-paced multiplayer combat. Use precision driving and strategic weapon use to survive waves of enemy vehicles, while upgrading your car’s offensive and defensive capabilities. The gameplay blends tactical vehicle dueling with survival elements in a chaotic arena setting.\n\nKey Features\n\n• Vehicle-based multiplayer combat  \n• Real-time driving and shooting controls  \n• Progressive weapon and armor upgrades  \n• Survival arena battle mode  \n• Destructible environment elements"
+},
+{
+"id": "carwarz-io",
+"title": "CarWarz.io",
+"iframe": "https://html5.gamedistribution.com/4b7befe60f2842a0904b689c4bed912b/",
+"description": "Battle fierce multiplayer matches by controlling fast cars equipped with weapons in a chaotic top-down arena. Players compete against others in real-time, using precise vehicle steering and strategic shooting to dominate the battlefield. Survival depends on navigating tight spaces while upgrading car abilities to outlast opponents in this competitive io arena.\n\nKey Features\n\n• Vehicle combat with weapon upgrades  \n• Real-time multiplayer car control  \n• Survival through arena elimination  \n• Score-based ranking progression  \n• Top-down urban battle setting"
+},
+{
 "id": "carfight-io",
 "title": "CarFight.io",
 "iframe": "https://html5.gamedistribution.com/16184cc7d4104f27a1604e12e808afea/",
@@ -3017,12 +3053,6 @@
 "title": "Fancy Cars Hidden Stars",
 "iframe": "https://html5.gamedistribution.com/c7e6f6d322a94ddbaf50ec6f46e6c9bc/",
 "description": "Search for cleverly hidden stars inside detailed car scenes by navigating diverse vehicle designs and spotting subtle visual cues. Players observe intricate car models and discover cleverly concealed objects across multiple levels. The main challenge lies in visual accuracy and sharp attention to detail while exploring vibrant automotive settings.\n\nKey Features\n\n• Hidden-object star discovery  \n• Detailed car scene exploration  \n• Visual clue identification challenge  \n• Level-based progression system  \n• Automotive-themed puzzle environments"
-},
-{
-"id": "ipark-my-car",
-"title": "iPark my car",
-"iframe": "https://html5.gamedistribution.com/ec0da6349758480993ff80b687a8b871/",
-"description": "Navigate precise parking spots using timed movement controls in this casual car parking challenge. Maneuver different vehicles through narrow spaces without collisions while managing limited attempts per level. Each stage tests patience and spatial awareness, offering progressively tighter parking scenarios for players seeking a relaxed yet skillful driving experience.\n\nKey Features\n\n• Precision positioning mechanics  \n• Button-based vehicle control scheme  \n• Increasingly narrow parking spaces  \n• Time-limited parking attempts  \n• Urban parking lot settings"
 },
 {
 "id": "slot-car-racing",

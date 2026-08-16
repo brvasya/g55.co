@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "3dash",
+"title": "3Dash",
+"iframe": "https://html5.gamedistribution.com/ba08d794f5c84775b848781e70497849/",
+"description": "Navigate dynamic 3D puzzle arenas by manipulating shapes and paths to clear tricky stages. The game emphasizes spatial reasoning through precise block arrangement across multiple increasingly complex levels. Players must balance timing and angle control to solve geometric challenges that demand both patience and strategy.\n\nKey Features\n\n• 3D puzzle shape manipulation  \n• Precision timing controls  \n• Progressive difficulty scaling  \n• Multi-level geometric challenges  \n• Minimalist abstract visual style"
+},
+{
 "id": "panda-dash-auto-shooting",
 "title": "Panda Dash Auto Shooting",
 "iframe": "https://html5.gamedistribution.com/5b5d6fb2a240493f8b6dd34cb798d612/",

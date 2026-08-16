@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mazex",
+"title": "MazeX",
+"iframe": "https://html5.gamedistribution.com/7757a58f69ca4b21af4ed2653c3adce4/",
+"description": "Navigate complex labyrinths using intuitive control schemes to find hidden exits. This casual game emphasizes spatial reasoning through maze exploration, challenging players to uncover optimal routes while avoiding obstacles. Levels increase in complexity, encouraging strategic thinking and careful planning to master each puzzling scenario.\n\nKey Features\n\n• Maze navigation core mechanic  \n• Responsive directional controls  \n• Increasing puzzle complexity  \n• Time challenge scoring system  \n• Labyrinth theme environments"
+},
+{
 "id": "maze-runner-3d-cards-hunt-2018",
 "title": "Maze Runner 3D Cards Hunt 2018",
 "iframe": "https://html5.gamedistribution.com/e7afb027a2fb4c2385cf60f694e331e3/",

@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "racerking",
+"title": "RacerKing",
+"iframe": "https://html5.gamedistribution.com/d87c3f6b9bc6494495c0068565fc1c90/",
+"description": "Navigate colorful tracks using precise timing and quick reflexes in this casual racing experience. Players control small, vibrant cars employing skillful steering and acceleration to outpace rivals and beat lap times. Each course features varied layouts demanding sharp cornering and speed management for victory across progressive levels.\n\nKey Features\n\n• Precision steering controls  \n• Time attack progression system  \n• Dynamic track layout variation  \n• Rival AI pacing challenge  \n• Bright cartoon-style visuals"
+},
+{
+"id": "racingmasters",
+"title": "RacingMasters",
+"iframe": "https://html5.gamedistribution.com/c467b9064fdb423dac07d0f7e794296a/",
+"description": "Race through dynamic casual tracks focusing on timing and quick reflexes to navigate challenging turns. Players control a fast-paced vehicle in progressive stages designed to test precision and rhythm. Collectible boosts and adaptive obstacles create a varied challenge for teens and kids seeking accessible yet engaging gameplay.\n\nKey Features\n\n• Precision timing vehicle control  \n• Progressive track difficulty system  \n• Collectible speed boost pickups  \n• Reflex-based obstacle avoidance  \n• Colorful casual racing environments"
+},
+{
+"id": "toysrace",
+"title": "ToysRace",
+"iframe": "https://html5.gamedistribution.com/9c22c3168baf41348f2a916313bc5abf/",
+"description": "Race colorful toy vehicles through dynamic obstacle courses in this casual browser game. Players navigate tight corners and unexpected ramps using precise timing and steering mechanics. Collecting scattered power-ups adds strategic depth, while escalating track complexity challenges reflexes. The game’s bright, playful environments enhance the engaging race experience for teens and kids.\n\nKey Features\n\n• Precise steering control system  \n• Power-up collection mechanics  \n• Increasing track difficulty levels  \n• Time attack challenge mode  \n• Vibrant miniature toy vehicle theme"
+},
+{
 "id": "racecar-steeplechase-master",
 "title": "Racecar Steeplechase Master",
 "iframe": "https://html5.gamedistribution.com/ca1d5f237047461faab7d4f2d8bd5de1/",
@@ -353,12 +371,6 @@
 "title": "Speed Demons Race",
 "iframe": "https://html5.gamedistribution.com/5c12f5002b8246a686d277bf14d13bb4/",
 "description": "Race high-speed vehicles through dynamic tracks challenging reflexes and precision. The game emphasizes quick cornering and maintaining top velocity while navigating narrow lanes and tight turns. Players push their driving skills to beat rivals and master lap timing, focusing on vehicle acceleration and handling dynamics. Progression hinges on improving times and unlocking faster cars in competitive settings.\n\nKey Features\n\n• Precision driving mechanics  \n• Responsive acceleration and braking  \n• Progressive car unlock system  \n• Time trial challenges  \n• Varied race track environments"
-},
-{
-"id": "flyway-duo-race",
-"title": "FlyWay Duo Race",
-"iframe": "https://html5.gamedistribution.com/56bdfe8235be4828ba4dc15b44a79b59/",
-"description": "Race colorful flying vehicles through fast-paced air lanes in this multiplayer competition. Players navigate twisting aerial tracks while managing acceleration and steering precision to outpace rivals. The game challenges reaction speed and coordination, with vibrant environments enhancing the casual racing experience.\n\nKey Features\n\n• Twin-player cooperative controls  \n• Dynamic aerial track layouts  \n• Precision steering and boost timing  \n• Time trial and head-to-head modes  \n• Bright cartoon-style flying vehicles"
 },
 {
 "id": "crazy-racing",
@@ -955,12 +967,6 @@
 "description": "Race through vibrant 3D obstacle courses by running, jumping, and dodging hazards in this fast-paced multiplayer challenge. Master timing and precision as you navigate moving platforms and avoid pitfalls to reach the finish line. Levels ramp up with more complex obstacles that test reflexes and spatial awareness in a colorful, arcade-style environment.\n\nKey Features\n\n• Physics-based running mechanic  \n• Player-controlled jumping and dodging  \n• Increasing obstacle difficulty levels  \n• Competitive multiplayer races  \n• Colorful 3D platform environments"
 },
 {
-"id": "motorbike-racer-3d",
-"title": "MotorBike Racer 3D",
-"iframe": "https://html5.gamedistribution.com/cd70a5bb3cb74d5991ca0968c1f22007/",
-"description": "Race agile motorcycles through vibrant 3D tracks filled with tight turns and obstacles, using precise acceleration and braking to maintain control. The game challenges players to master physics-based handling and improve lap times on varied circuits. Speed and timing are critical in advancing through progressively harder races and unlocking new bike models.\n\nKey Features\n\n• Physics-based motorcycle control  \n• Precision acceleration and braking  \n• Progressive lap time challenges  \n• Unlockable bike customization  \n• 3D circuit environments"
-},
-{
 "id": "sky-track-racing-master",
 "title": "Sky Track Racing Master",
 "iframe": "https://html5.gamedistribution.com/d0b784e04eb4419a87cdec05005dc2fc/",
@@ -1225,12 +1231,6 @@
 "description": "Race agile horses through dynamic 3D derby tracks, mastering timing and positioning to overtake rivals. Navigate varied course layouts using smooth riding controls while managing sprint boosts to secure first place. The game challenges players to adapt their racing lines and pace for competitive finishes in each colorful derby event.\n\nKey Features\n\n• 3D horse riding physics  \n• Responsive sprint boost control  \n• Multiple derby track layouts  \n• Competitive AI opponent behavior  \n• Vibrant outdoor racing arenas"
 },
 {
-"id": "supercar-racing",
-"title": "SuperCar Racing",
-"iframe": "https://html5.gamedistribution.com/b371cbb4c6654b96a94248c957ac90e7/",
-"description": "Race agile supercars through tightly designed tracks focusing on precision steering and reactive acceleration control to outpace rivals. Players navigate sharp corners and varied track layouts while optimizing boost management to secure first place in competitive circuits. The game emphasizes vehicle handling skills and lap time improvement across multiple racing tournaments.\n\nKey Features\n\n• Precision steering control system  \n• Boost management mechanic  \n• Multiple competitive circuits  \n• Time trial and championship modes  \n• Supercar-themed race environments"
-},
-{
 "id": "road-racing-highway-car-chase",
 "title": "Road Racing: Highway Car Chase",
 "iframe": "https://html5.gamedistribution.com/9967926389e140c48ed771c193ef3f52/",
@@ -1379,12 +1379,6 @@
 "title": "Nave X Racer",
 "iframe": "https://html5.gamedistribution.com/cd548c6f5d144f0ba7eba0c751c9218e/",
 "description": "Race futuristic spacecraft through dynamic tracks filled with sharp turns and high-speed boosts, requiring precise timing and reflexes to maintain momentum. Navigate advanced hover mechanics as you compete to finish first in challenging circuits. Compete in time trials or head-to-head races to climb the leaderboard and master intricate track layouts.\n\nKey Features\n\n• Hovercraft handling dynamics  \n• Responsive speed boost controls  \n• Time trial and multiplayer modes  \n• Progressive track difficulty  \n• Sci-fi racing environments"
-},
-{
-"id": "police-motorbike-race-simulator-3d",
-"title": "Police MotorBike Race Simulator 3D",
-"iframe": "https://html5.gamedistribution.com/415c344da63b4a748c9b79bdc7c08b88/",
-"description": "Race through urban streets on a police motorbike, mastering realistic 3D physics to navigate tight corners and avoid obstacles. Players steer the bike using precision controls to complete time-based challenges and chase down targets. Balancing speed and control is key to advancing through increasingly difficult race stages set in a city environment.\n\nKey Features\n\n• Physics driven motorbike handling  \n• Precision steering and throttle control  \n• Time attack and pursuit challenges  \n• Progressive difficulty levels  \n• Urban street race environments"
 },
 {
 "id": "supercars-speed-race",

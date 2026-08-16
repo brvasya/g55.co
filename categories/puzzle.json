@@ -1,6 +1,30 @@
 {
 "pages": [
 {
+"id": "puzzlejam",
+"title": "PuzzleJam",
+"iframe": "https://html5.gamedistribution.com/ad3d80f7955f46c5afd41f1bfac3858c/",
+"description": "Manipulate vibrant puzzle pieces to unlock intricate patterns in this casual brain teaser. The game challenges players to connect matching shapes by rotating and sliding tiles across a dynamic grid. Each level presents unique spatial puzzles that increase in complexity, encouraging strategic thinking and pattern recognition in a colorful, abstract setting.\n\nKey Features\n\n• Tile rotation and sliding mechanic  \n• Pattern matching puzzle objectives  \n• Increasing level complexity  \n• Time-based scoring system  \n• Abstract vibrant visual style"
+},
+{
+"id": "hex-puzzleguys",
+"title": "HeX PuzzleGuys",
+"iframe": "https://html5.gamedistribution.com/657afaed169b45b6a678637be1912c65/",
+"description": "Arrange and rotate hexagonal tiles to fit precise patterns and clear puzzle boards using spatial logic and shape manipulation. The gameplay challenges players to solve increasingly complex hex-based puzzles, testing pattern recognition and strategic placement. Levels progressively introduce varied tile shapes and limited moves to enhance the difficulty and depth.\n\nKey Features\n\n• Hexagonal tile rotation mechanics  \n• Pattern recognition challenges  \n• Limited move puzzle progression  \n• Shape fitting spatial logic  \n• Casual puzzle board layouts"
+},
+{
+"id": "puzzleguys-hearts",
+"title": "PuzzleGuys Hearts",
+"iframe": "https://html5.gamedistribution.com/5af35a6227d746aebaae91bb0ec98167/",
+"description": "Match colorful heart-shaped pieces to solve puzzles in a grid-based layout focused on strategy and pattern recognition. Players connect clusters of hearts to clear the board and unlock deeper levels filled with varied challenges. The game combines tile matching with spatial reasoning, inviting casual gamers to plan moves carefully under increasing complexity.\n\nKey Features\n\n• Cluster matching puzzle mechanics  \n• Drag and connect heart tiles  \n• Level-based challenge progression  \n• Time-limited puzzle modes  \n• Colorful heart grid layout"
+},
+{
+"id": "hdpuzzles-food",
+"title": "HDPuzzles Food",
+"iframe": "https://html5.gamedistribution.com/d8baf88cb47d4b12922e3b296c9a9e22/",
+"description": "Arrange pieces to solve jigsaw puzzles featuring food-themed images and develop spatial reasoning through pattern recognition. Each level presents a unique puzzle shape requiring careful piece placement to complete vivid culinary scenes. The challenge lies in visualizing and fitting irregular puzzle pieces to reveal appetizing compositions that engage casual gamers and younger players.\n\nKey Features\n\n• Irregular puzzle piece fitting  \n• Drag-and-drop piece placement  \n• Level-based puzzle completion  \n• Visual pattern recognition challenge  \n• Food-themed imagery"
+},
+{
 "id": "light-bulb-puzzle",
 "title": "Light Bulb Puzzle",
 "iframe": "https://html5.gamedistribution.com/8e5f5ee4edd84cc7b5c3f32dc4aec649/",
@@ -775,22 +799,10 @@
 "description": "Manipulate interactive puzzle elements to harmonize quirky Skibidi Toilet characters with their environment, relying on spatial logic to unlock each stage. The game challenges players to identify unique connections and timing patterns, progressing through a series of cleverly constructed levels that blend chaotic scenarios with methodical puzzle solving.\n\nKey Features\n\n• Interactive spatial puzzle mechanics  \n• Object manipulation and timing control  \n• Progressive level complexity  \n• Pattern recognition challenges  \n• Whimsical character-driven setting"
 },
 {
-"id": "blockbuster-puzzle",
-"title": "BlockBuster Puzzle",
-"iframe": "https://html5.gamedistribution.com/b2cc0cd4b40a40dd84b8d452e7c5d6f8/",
-"description": "Match colored blocks to clear grids and create chain reactions in a dynamic puzzle setup. Players swap and align pieces under increasing time pressure, aiming to unlock progressively difficult levels. Strategic planning and swift moves challenge players as they push through color-coded stages of escalating complexity.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Grid-based chain reaction system  \n• Increasing level difficulty  \n• Time-limited move sequences  \n• Color matching puzzle elements"
-},
-{
 "id": "insect-pic-puzzles",
 "title": "Insect Pic Puzzles",
 "iframe": "https://html5.gamedistribution.com/c37ddb49df4d4e9ea021e7df97ae66b6/",
 "description": "Arrange scrambled insect images to restore detailed photo puzzles in this casual brain teaser. Players manipulate jigsaw pieces with drag-and-drop controls to complete various levels featuring realistic bug illustrations. Timed challenges add urgency as puzzle complexity increases with each stage, testing spatial reasoning and pattern recognition in a nature-inspired setting.\n\nKey Features\n\n• Drag-and-drop puzzle assembly  \n• Increasing piece count difficulty  \n• Timed completion challenges  \n• Hint system for stuck players  \n• Insect-themed jigsaw visuals"
-},
-{
-"id": "colorbox-puzzle",
-"title": "ColorBox Puzzle",
-"iframe": "https://html5.gamedistribution.com/22131bb4eb3f499d9b7dd68064ebde9d/",
-"description": "Arrange colored blocks strategically to clear grids in a puzzle format that tests spatial reasoning and planning skills. The gameplay revolves around positioning and matching color combinations, with increasing difficulty through complex layouts and limited moves. Players advance through progressive levels that require adapting strategies to unlock subsequent challenges.\n\nKey Features\n\n• Color matching and block placement  \n• Point-and-click tile manipulation  \n• Level-based puzzle difficulty  \n• Move restriction challenge system  \n• Vibrant color grid interface"
 },
 {
 "id": "cute-puzzles",
@@ -2017,12 +2029,6 @@
 "description": "Manipulate abstract puzzle pieces to align complex geometric patterns in this brain-teasing challenge. The game tasks players with rotating and fitting shards into a futuristic electronic framework, emphasizing spatial reasoning and precise placement. Levels increase in difficulty as new shapes and constraints appear, pushing players to refine their strategy and timing.\n\nKey Features\n\n• Rotation based puzzle alignment  \n• Spatial reasoning mechanics  \n• Progressive pattern complexity  \n• Time-limited challenge modes  \n• Futuristic electronic interface"
 },
 {
-"id": "bmw-m340i-xdrive-puzzle",
-"title": "BMW M340i xDrive Puzzle",
-"iframe": "https://html5.gamedistribution.com/e5042b69f2d0420791d760420f98a0b0/",
-"description": "Arrange puzzle pieces to complete intricate images featuring the BMW M340i xDrive, focusing on spatial matching and image reconstruction. Players manipulate tile-based segments to restore visuals while navigating time constraints and increasing difficulty levels. The game blends automotive-themed puzzles with classic jigsaw mechanics, challenging players to sharpen their pattern recognition and problem-solving skills.\n\nKey Features\n\n• Tile swapping and rotation  \n• Time-limited puzzle challenges  \n• Progressive difficulty stages  \n• Interactive image preview system  \n• Automotive visual theme"
-},
-{
 "id": "ferrari-812-gts-puzzle",
 "title": "Ferrari 812 GTS Puzzle",
 "iframe": "https://html5.gamedistribution.com/4897d329e34e44bda68b220de89bcef6/",
@@ -2227,12 +2233,6 @@
 "description": "Match colorful car tiles by swapping adjacent pieces to clear the board and score points. The core mechanic revolves around strategic tile matching combined with a sleek Cadillac CT4 visual theme that adds a vehicle-oriented twist to the puzzles. Players aim to solve each layout through careful moves while unlocking new challenges and board variations.\n\nKey Features\n\n• Tile swapping match system  \n• Strategic move planning  \n• Progressive puzzle difficulty  \n• Score-based level unlocking  \n• Car-themed tile design"
 },
 {
-"id": "xdrive-iperformance-puzzle",
-"title": "xDrive iPerformance Puzzle",
-"iframe": "https://html5.gamedistribution.com/87a419e8ddf24ba4829824442b408220/",
-"description": "Match and clear tiles by swapping adjacent pieces in this puzzle game to form patterns and complete levels. The gameplay relies on strategic tile positioning with increasing difficulty as you progress through varied puzzle boards. Players must think ahead to optimize moves and unlock new challenges, testing pattern recognition and planning skills.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Strategic move planning  \n• Level-based puzzle progression  \n• Pattern recognition challenges  \n• Casual puzzle board settings"
-},
-{
 "id": "audi-rs6-avant-puzzle",
 "title": "Audi RS6 Avant Puzzle",
 "iframe": "https://html5.gamedistribution.com/b6a52cb6d0b44544b48614f76e3872e3/",
@@ -2321,12 +2321,6 @@
 "title": "Huracan Evo Puzzle",
 "iframe": "https://html5.gamedistribution.com/90e57335c39a4b05bb2ddeb7d22dbc17/",
 "description": "Arrange colorful tiles to clear intricate patterns in a fast-paced puzzle environment where spatial awareness and strategic swaps drive your progress. Players match multi-shape clusters to unlock new boards filled with layered challenges and increasing complexity. Each level tests pattern recognition and timing, offering a gradual ramp-up designed for casual puzzlers of all ages.\n\nKey Features\n\n• Pattern-matching tile clusters   \n• Grid-based swapping controls  \n• Progressive level complexity  \n• Time-limited puzzle stages  \n• Vibrant geometric art style"
-},
-{
-"id": "supercars-puzzle-game",
-"title": "SuperCars Puzzle Game",
-"iframe": "https://html5.gamedistribution.com/2b37ac4bdd1e4ee79d713f310b83e2d1/",
-"description": "Arrange colorful car pieces by matching puzzle shapes to complete vibrant supercar images. The game challenges players to strategically fit irregular puzzle fragments together, testing spatial reasoning and pattern recognition skills. Progressing through multiple levels reveals increasingly complex designs featuring sleek vehicle aesthetics aimed at casual gamers and younger audiences.\n\nKey Features\n\n• Shape-matching puzzle mechanic  \n• Drag and drop piece controls  \n• Level-based difficulty scaling  \n• Time-attack and relaxed modes  \n• Car-themed image sets"
 },
 {
 "id": "a-class-sedan-puzzle",

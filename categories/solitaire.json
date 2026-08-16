@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "mojicon-garden-jigsolitaire",
+"title": "Mojicon Garden JigSolitaire",
+"iframe": "https://html5.gamedistribution.com/679c57024b5944f584585244718e1cee/",
+"description": "Match and clear colorful tiles by carefully planning your moves in this casual solitaire puzzle. Players manipulate tile layouts to reveal and remove pairs, aiming to solve increasingly complex board arrangements. Timing and spatial reasoning add layers of challenge as you progress through unique tile patterns and combinations.\n\nKey Features\n\n• tile matching core mechanic  \n• strategic tile selection controls  \n• gradual difficulty with puzzle progression  \n• score-based performance tracking  \n• vibrant colorful tile visuals"
+},
+{
 "id": "zen-solitaire",
 "title": "Zen Solitaire",
 "iframe": "https://html5.gamedistribution.com/544c6a00c1e54c4f85ac81aa00420425/",

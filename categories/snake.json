@@ -1,6 +1,42 @@
 {
 "pages": [
 {
+"id": "snakemaxx",
+"title": "SnakeMaxx",
+"iframe": "https://html5.gamedistribution.com/d5a03822f6cd4807a9f8d1d65212efe2/",
+"description": "Control a growing serpent that navigates a confined arena, dodging obstacles while consuming items to extend its length. The game challenges players to master precise timing and spatial awareness to avoid crashing into the snake’s tail or walls. Levels progressively increase in difficulty, introducing tighter spaces that test reflexes and strategic movement.\n\nKey Features\n\n• Dynamic snake growth mechanic  \n• Responsive directional controls  \n• Increasing arena complexity  \n• Score-based level advancement  \n• Minimalist arcade-style visuals"
+},
+{
+"id": "snakez",
+"title": "SnakeZ",
+"iframe": "https://html5.gamedistribution.com/7f0f577eef2f401c94d5e290254782e8/",
+"description": "Navigate a growing snake through a dynamic grid, using precise direction control to avoid collisions while collecting items that extend its length. The challenge intensifies as the snake’s speed gradually increases, requiring sharper reflexes and strategic path choices to survive longer sessions.\n\nKey Features\n\n• Continuous snake lengthening mechanic  \n• Arrow key direction controls  \n• Increasing movement speed challenge  \n• Score tracking system  \n• Minimalistic grid environment"
+},
+{
+"id": "snakevsnumbers",
+"title": "SnakeVsNumbers",
+"iframe": "https://html5.gamedistribution.com/912f098589004ab08ec782d011339c7b/",
+"description": "Navigate a growing snake through numbered blocks that shrink with each collision, using strategic movement to clear the path and extend your length. The game challenges players to combine precision and planning as the snake’s size influences which blocks can be broken. Progression comes from managing the snake’s length while avoiding obstacles in an abstract, number-based arena.\n\nKey Features\n\n• Numbered block breaking mechanic  \n• Directional swipe controls  \n• Length-based growth system  \n• Endless progression scoring  \n• Minimalist numeric visuals"
+},
+{
+"id": "classicsnake-io",
+"title": "ClassicSnake.io",
+"iframe": "https://html5.gamedistribution.com/ac203bbf406043b49ef1ca2c97129999/",
+"description": "Navigate a growing snake through a shared arena, avoiding collisions while collecting pellets to increase length and outmaneuver opponents. Movement relies on precise directional control to avoid crashing into walls or other snakes as the play area steadily fills with competitors, creating an escalating challenge of spatial awareness and timing.\n\nKey Features\n\n• Continuous snake growth mechanic  \n• Directional input movement control  \n• Collision based elimination system  \n• Multiplayer arena survival mode  \n• Dynamic length-based scoring"
+},
+{
+"id": "neonsnake-io",
+"title": "neonSnake.io",
+"iframe": "https://html5.gamedistribution.com/ab3a469cfed94672ace71f318b170e38/",
+"description": "Navigate a glowing serpentine avatar, weaving through opponents to grow by absorbing their trails and avoid collisions in a vibrant multiplayer arena. Movement relies on precise timing and spatial awareness to outmaneuver other players. Survive longer to become the longest neon snake on the board, capitalizing on speed and positioning rather than power-ups or weapons.\n\nKey Features\n\n• Trail-based growth mechanic  \n• Responsive directional controls  \n• Multiplayer survival competition  \n• Length-based scoring system  \n• Neon-lit cyber arena environment"
+},
+{
+"id": "snakelands-io",
+"title": "SnakeLands.io",
+"iframe": "https://html5.gamedistribution.com/8ca616dfb6a048ecaa0134dca416405e/",
+"description": "Navigate vibrant arenas as a growing serpent, slithering strategically to collect glowing orbs and outmaneuver rivals. The core mechanic revolves around controlling smooth snake movement to expand length while avoiding collisions that end your run. Quick reflexes and tactical positioning shape progression in a dynamic multiplayer environment, offering an evolving survival challenge.\n\nKey Features\n\n• Fluid directional snake control  \n• Orb collection length growth  \n• Collision avoidance challenges  \n• Multiplayer arena survival mode  \n• Colorful segmented snake design"
+},
+{
 "id": "snake-go-escape-puzzle",
 "title": "Snake Go - Escape Puzzle",
 "iframe": "https://html5.gamedistribution.com/73d8b722929e42d192795617dc4dd372/",

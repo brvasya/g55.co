@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "adventureisland",
+"title": "AdventureIsland",
+"iframe": "https://html5.gamedistribution.com/c8fdbac5053642a19ad7b338787b562e/",
+"description": "Navigate vibrant island environments while collecting hidden items and avoiding traps in this casual exploration game. Use simple touch or click controls to reveal secrets and progress through increasingly tricky stages, aiming to achieve high scores. The colorful setting invites players to uncover surprises while managing timed challenges and obstacle patterns.\n\nKey Features\n\n• Item collection exploration mechanic  \n• Touch and click input controls  \n• Increasing stage difficulty levels  \n• Time-based scoring system  \n• Colorful island-themed visuals"
+},
+{
 "id": "steve-adventurecraft-aqua",
 "title": "Steve AdventureCraft Aqua",
 "iframe": "https://html5.gamedistribution.com/dc420a9e29654ef2bcd887ff6120dcc3/",
@@ -215,12 +221,6 @@
 "title": "Boing Bang Adventure Lite",
 "iframe": "https://html5.gamedistribution.com/444056d403fd4c379e315f3a961ad195/",
 "description": "Bounce through challenging platform puzzles using precise timing and momentum control. Guide the elastic character through vibrant stages where adjusting jump strength and trajectory is key to overcoming obstacles and reaching each level’s exit portal. Collectible items and teleportation pads add layers of complexity to this lighthearted adventure designed for casual gamers.\n\nKey Features\n\n• Momentum-based jump control  \n• Teleportation pad mechanics  \n• Collectible item progression  \n• Time-sensitive platform obstacles  \n• Colorful stage environments"
-},
-{
-"id": "snowball-adventure",
-"title": "SnowBall Adventure",
-"iframe": "https://html5.gamedistribution.com/d2e78edeb37b4854bafabe313b03fb5e/",
-"description": "Launch snowballs across challenging icy terrain in this casual adventure puzzle where players navigate frozen obstacles using trajectory aiming and power control. Progress through increasingly complex levels by adjusting angle and strength to hit distant targets. Environmental hazards and moving platforms require precision to clear each stage and reach new snowy zones.\n\nKey Features\n\n• Trajectory-based projectile aiming  \n• Power and angle adjustment controls  \n• Increasing level complexity progression  \n• Moving platform obstacle navigation  \n• Snow and ice environment physics"
 },
 {
 "id": "insectaquest-adventures",

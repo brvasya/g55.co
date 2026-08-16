@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "ddtank-tap",
+"title": "DDTank Tap",
+"iframe": "https://html5.gamedistribution.com/790405ac88c2483a96e9594d786c7476/",
+"description": "Engage in strategic shooting battles using customizable weapon loadouts to defeat opponents in fast-paced turn-based combat. Players adjust angles and power to launch attacks across destructible environments, aiming to outsmart rival tanks. Progression unlocks enhanced gear while maintaining a casual setting suited for teens and kids wanting quick tactical matches.\n\nKey Features\n\n• Turn-based projectile combat  \n• Adjustable shot power and angle  \n• Destructible environment elements  \n• Weapon upgrade progression system  \n• Casual tactical multiplayer mode"
+},
+{
+"id": "tankhit",
+"title": "TankHit",
+"iframe": "https://html5.gamedistribution.com/40587fe9f76b4ef1a8ddf3d9588483d4/",
+"description": "Control a tank that shoots bouncing projectiles to destroy enemy fortifications and outsmart opponents. The gameplay centers on precise aiming and timing to utilize ricochets and hit targets behind cover. Levels challenge players to clear structures with limited shots while adjusting for angle and power, making each stage a strategic puzzle to solve.\n\nKey Features\n\n• Ricochet projectile mechanics  \n• Angle and power aiming controls  \n• Destructible environmental targets  \n• Limited shot resource system  \n• Casual tactical puzzle progression"
+},
+{
 "id": "tanksio-online",
 "title": "TanksIO.online",
 "iframe": "https://html5.gamedistribution.com/277331f7a87d468486a200a9657cc793/",

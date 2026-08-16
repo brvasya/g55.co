@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "minipool-io",
+"title": "MiniPool.io",
+"iframe": "https://html5.gamedistribution.com/2fbf4907c6b246a3be5fb2860229e46f/",
+"description": "Control a dynamic cue ball to strike targets on a compact pool table, utilizing precision aiming and shot power to outscore opponents. The gameplay focuses on quick turn-based shots with real-time physics affecting ball movement and collision. Players compete in fast-paced rounds aiming to sink balls efficiently while navigating tight spaces and angles.\n\nKey Features\n\n• Precision aiming mechanic  \n• Real-time physics simulation  \n• Turn-based quick shot system  \n• Competitive scoring rounds  \n• Compact pool table arena"
+},
+{
 "id": "billiard-diamond-challenge",
 "title": "Billiard Diamond Challenge",
 "iframe": "https://html5.gamedistribution.com/d915f03f46804091933c3be8d17273be/",

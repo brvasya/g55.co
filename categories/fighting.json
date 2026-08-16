@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "double-streetfight",
+"title": "Double StreetFight",
+"iframe": "https://html5.gamedistribution.com/a1ac5911d5b0458f826b851f9c282082/",
+"description": "Navigate dynamic close-quarters combat in a fast-paced street fighting environment, combining timed attack combos and precise movement controls. The game challenges players to outmaneuver opponents using reactive counterattacks while progressing through escalating rounds. Unique enemy patterns test reflexes as the street setting intensifies each duel.\n\nKey Features\n\n• Timed combo attack system  \n• Responsive movement controls  \n• Increasing difficulty waves  \n• Reactive enemy AI behavior  \n• Urban street fight arenas"
+},
+{
 "id": "mma-super-fight",
 "title": "MMA Super Fight",
 "iframe": "https://html5.gamedistribution.com/ecb0b16cbec642228f1eeaf148dc3dd4/",

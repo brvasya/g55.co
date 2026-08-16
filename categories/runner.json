@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "homerun-derby",
+"title": "HomeRun Derby",
+"iframe": "https://html5.gamedistribution.com/ad3bc5a5550640a5ac89d197fb153d61/",
+"description": "Swing timing and precision determine your success as you face pitched balls aiming to hit home runs. Players engage with a timing-based batting mechanic to launch critical hits and advance through rounds, aiming for higher scores in this casual baseball-themed competition. Mastering bat angles and response speed challenges reaction skills while progressing through increasingly tough pitching sequences.\n\nKey Features\n\n• Timing-based batting system  \n• Mouse or tap swing controls  \n• Progressive pitching difficulty  \n• Score multiplier combos  \n• Baseball derby round structure"
+},
+{
+"id": "minerunner",
+"title": "MineRunner",
+"iframe": "https://html5.gamedistribution.com/c21ced723adb4fe7aba45c346ef25b25/",
+"description": "Navigate complex underground tunnels while avoiding hazards in this casual game. Players control a nimble character negotiating maze-like passages where quick reflexes and precise timing are essential. The core mechanic centers on strategic movement through dynamically generated levels, aiming to collect items and survive increasingly difficult challenges designed for teens and kids.\n\nKey Features\n\n• Maze navigation puzzles  \n• Responsive character movement  \n• Hazard avoidance timing  \n• Progressive difficulty scaling  \n• Cartoony underground setting"
+},
+{
+"id": "tomatorunner",
+"title": "TomatoRunner",
+"iframe": "https://html5.gamedistribution.com/871c3697d87f47269c67f5eb20219b04/",
+"description": "Navigate complex obstacle courses by controlling a nimble tomato character, using precise timing and quick reflexes to overcome varied platform challenges. Players jump and dash through colorful levels, aiming to reach the finish line while avoiding hazards. Each stage grows more demanding, testing movement skills within a playful, cartoon-style environment.\n\nKey Features\n\n• Precision platforming controls  \n• Time-based obstacle navigation  \n• Progressive level difficulty  \n• Collectible item system  \n• Vibrant cartoon aesthetics"
+},
+{
 "id": "super-runcraft",
 "title": "Super RunCraft",
 "iframe": "https://html5.gamedistribution.com/c5942ec4d034485fb21c9223744e7281/",

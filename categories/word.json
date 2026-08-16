@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "wordowl",
+"title": "WordOwl",
+"iframe": "https://html5.gamedistribution.com/00925361587c4e4e9598cab1e813502f/",
+"description": "Select and arrange letters to form words and score points in this casual browser game. Players engage in a turn-based word puzzle using a grid layout where letter placement and combo creation are essential to clearing levels. Progression includes increasing difficulty with puzzles that test vocabulary skills, aiming for high scores to advance through stages.\n\nKey Features\n\n• Letter placement puzzle grid  \n• Turn-based word formation  \n• Increasing word difficulty levels  \n• Score-based progression system  \n• Casual vocabulary challenge"
+},
+{
+"id": "wordmix",
+"title": "WordMix",
+"iframe": "https://html5.gamedistribution.com/1a6a78397d78471c8dc03e83ed2064d0/",
+"description": "Arrange letters to form words under time pressure in this word puzzle challenge. Players swap and link letter tiles to create valid words while racing against a countdown, testing vocabulary and quick thinking. The game’s puzzle grid layout adds tactical depth as players seek optimal letter placements to maximize scores.\n\nKey Features\n\n• Tile swapping word formation  \n• Countdown timer pressure  \n• Progressive puzzle grid complexity  \n• Score multiplier reward system  \n• Casual vocabulary challenge"
+},
+{
 "id": "wordsoccer-io",
 "title": "Wordsoccer.io",
 "iframe": "https://html5.gamedistribution.com/6b79c78e9fee464ab85abb0b4469d616/",

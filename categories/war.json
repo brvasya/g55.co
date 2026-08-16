@@ -1,6 +1,42 @@
 {
 "pages": [
 {
+"id": "warzone-clash",
+"title": "WarZone Clash",
+"iframe": "https://html5.gamedistribution.com/9e6b04d509ec43e897f024f17e391cab/",
+"description": "Navigate fast-paced combat scenarios using diverse weapon loadouts while managing energy resources to outlast waves of enemy units. The game blends strategic shooting with timed power-up boosts across urban battlegrounds, challenging players to survive escalating enemy encounters. Progression is built around clearing increasingly difficult stages and mastering responsive aiming controls.\n\nKey Features\n\n• Energy-based weapon system  \n• Precision aiming controls  \n• Wave survival challenge  \n• Power-up timing mechanics  \n• Urban battlefield setting"
+},
+{
+"id": "picowars",
+"title": "PicoWars",
+"iframe": "https://html5.gamedistribution.com/887136b69cbd4ae09d8448471a429c3c/",
+"description": "Engage in pixelated battles by capturing and defending bases using strategic unit deployment and timed resource management. Coordinate swarms of small combatants across retro-style arenas where territory control dictates victory. The challenge lies in balancing offensive waves while expanding your influence to outlast opponents in dynamic skirmishes.\n\nKey Features\n\n• Tactical unit placement system  \n• Resource collection and timing  \n• Progressive territory control maps  \n• Dynamic multiplayer match modes  \n• Retro pixel art battlefield"
+},
+{
+"id": "minewar-soldiers-vs-zombies",
+"title": "MineWar Soldiers vs Zombies",
+"iframe": "https://html5.gamedistribution.com/c614269eaafa47b68c8953ac8f4463b0/",
+"description": "Command turrets and deploy soldiers against relentless zombie hordes in this casual browser challenge. Manage your defensive perimeter using strategic placement of infantry and automated weapons to hold ground through escalating waves. With survival as the main goal, pockets of mines add tactical depth to the battlefield and pressure decision making under siege.\n\nKey Features\n\n• Turret and soldier deployment  \n• Real-time defensive positioning  \n• Progressive wave difficulty scaling  \n• Mine placement dynamics  \n• Post-apocalyptic zombie theme"
+},
+{
+"id": "paintwars-shoot",
+"title": "PaintWars Shoot",
+"iframe": "https://html5.gamedistribution.com/4d07bcfc1341459ba7c0bca58aaed98f/",
+"description": "Launch paint-filled projectiles at colorful opponents in fast-paced shooting battles. Players use a dynamic paintball gun mechanic to tag rivals and control territory, aiming to cover surfaces with vibrant colors in quick rounds. Strategic aiming and timing are essential to dominate the arena and outmatch other players.\n\nKey Features\n\n• Paintball shooting mechanics  \n• Precision aiming controls  \n• Territory coverage objective  \n• Timed round challenges  \n• Colorful arena environments"
+},
+{
+"id": "tonkwars-io",
+"title": "TonkWars.io",
+"iframe": "https://html5.gamedistribution.com/69d7787150e54b498ab9e0b96755eb16/",
+"description": "Command enemy tanks with precise turret control in this fast-paced multiplayer battle arena. Navigate destructible environments while managing limited ammo to outmaneuver foes in timed skirmishes. Engage in top-down tank combat where strategic positioning and quick reflexes determine victory in competitive matches.\n\nKey Features\n\n• Top-down tank battle mechanics  \n• Turret aiming and recoil control  \n• Timed arena combat rounds  \n• Ammo conservation strategy  \n• Destructible battlefield terrain"
+},
+{
+"id": "paperwar-io",
+"title": "PaperWar.io",
+"iframe": "https://html5.gamedistribution.com/cfa73398f23a40feaed85292ab9ae51d/",
+"description": "Control a paper plane in intense aerial battles where precision steering and swift maneuvering are crucial to outlast rivals in a dynamic arena. Players compete using simple flight controls to claim territory while avoiding collisions and managing speed. Dodging and tactical positioning define the challenge, set in a minimalistic but chaotic environment focused on competitive survival.\n\nKey Features\n\n• paper plane flight control  \n• arena territory capture  \n• collision avoidance tactics  \n• score-based survival mode  \n• minimalistic aerial combat setting"
+},
+{
 "id": "world-wars-tanks",
 "title": "World Wars - Tanks",
 "iframe": "https://html5.gamedistribution.com/7fd03dcfe17541c9a7749c50dcfe25de/",
@@ -529,12 +565,6 @@
 "description": "Pilot WWII fighter planes through intense aerial dogfights, managing altitude and speed to outmaneuver enemy squadrons. The game’s focus on fixed-wing aircraft combat challenges players to balance aggressive attacks with evasive maneuvers in open sky environments. Progression involves completing successive air missions under changing war conditions to regain air supremacy.\n\nKey Features\n\n• Fixed-wing aerial combat control  \n• Altitude and speed management  \n• Mission-based level progression  \n• Enemy fighter squadron engagements  \n• World War II air battle setting"
 },
 {
-"id": "airshoot-wars",
-"title": "AirShoot Wars",
-"iframe": "https://html5.gamedistribution.com/319ffbbc7bd84286bba7c615033994d0/",
-"description": "Pilot agile fighter jets through intense aerial dogfights using rapid-fire cannons and evasive maneuvers. The game challenges players to outfly waves of enemy aircraft while upgrading weapons and unlocking new combat zones. Strategic targeting and precise controls are crucial to surviving escalating battle scenarios in a fast-paced war environment.\n\nKey Features\n\n• Jet dogfight combat mechanics  \n• Responsive flight control system  \n• Progressive enemy waves difficulty  \n• Weapon upgrade pathways  \n• Military aerial battle setting"
-},
-{
 "id": "mob-war",
 "title": "Mob War",
 "iframe": "https://html5.gamedistribution.com/ada8af03289b4e3a8f513f3d03fc9bcc/",
@@ -569,12 +599,6 @@
 "title": "Turn Based Ship war",
 "iframe": "https://html5.gamedistribution.com/e37d549d24ed4857aa5b6da8b893c720/",
 "description": "Engage in strategic ship-to-ship combat where you issue commands in turn-based sequences to outmaneuver opponents. Utilize tactical positioning and calibrated weapon strikes to dominate naval skirmishes. Battles unfold across grid-based waters, demanding careful planning and timing to sink enemy vessels and control the seas.\n\nKey Features\n\n• Turn-based naval combat system  \n• Command point allocation controls  \n• Enemy ship AI behavior patterns  \n• Grid map tactical positioning  \n• Classic warship engagement theme"
-},
-{
-"id": "gungame-paintball-wars",
-"title": "GunGame Paintball Wars",
-"iframe": "https://html5.gamedistribution.com/b95f76e3afe447378ebeb903fcf24b1d/",
-"description": "Engage in rapid paintball gun battles where players navigate colorful arenas using precise shooting mechanics while advancing through competitive rounds. The game challenges players to outshoot opponents with quick reflexes and strategic cover usage. Each match demands skillful aiming and timing to dominate in vibrant team-based skirmishes designed for casual players.\n\nKey Features\n\n• Precision shooting mechanics  \n• Dynamic arena navigation  \n• Competitive round progression  \n• Team-based combat system  \n• Bright paintball war setting"
 },
 {
 "id": "sky-jet-wars",

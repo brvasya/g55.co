@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "zombiesonthetimes",
+"title": "ZombiesOnTheTimes",
+"iframe": "https://html5.gamedistribution.com/a54466e0f0554b279047421ea8bd48d7/",
+"description": "Navigate waves of relentless undead attacks using strategic positioning and timed boosts in this casual browser game. Players must manage scarce resources and adapt movement patterns to survive escalating zombie hordes. The core mechanic revolves around dynamic evasion combined with opportunistic counterattacks in an urban decay setting, challenging players to last as long as possible.\n\nKey Features\n\n• Dynamic zombie swarm evasion  \n• Resource management gameplay loop  \n• Progressive wave difficulty scaling  \n• Timed speed boost mechanic  \n• Post-apocalyptic city environment"
+},
+{
+"id": "crazyzombies-3d",
+"title": "CrazyZombies 3D",
+"iframe": "https://html5.gamedistribution.com/4187d9fa2d5c46788b2c297e88c78639/",
+"description": "Fight off waves of undead using 3D shooting mechanics and precise aiming to survive relentless zombie hordes. Navigate diverse environments while managing ammo and health to push through escalating enemy waves. The main objective is to withstand all attack phases and unlock upgraded weapons for better defense.\n\nKey Features\n\n• 3D third-person shooting controls  \n• Health and ammo resource management  \n• Progressive zombie wave difficulty  \n• Weapon upgrade and customization system  \n• Urban and post-apocalyptic level design"
+},
+{
 "id": "zombiecraft-2",
 "title": "ZombieCraft 2",
 "iframe": "https://html5.gamedistribution.com/2e1d31ed3a3a4c98974176dff242a9a2/",
@@ -149,12 +161,6 @@
 "title": "State of Zombies 3",
 "iframe": "https://html5.gamedistribution.com/d41c933f8d18490a914a3bfe6a06def1/",
 "description": "Navigate varied zombie-infested environments using precise aiming mechanics to eliminate threats and progress through challenging waves. Players depend on tactical shooting to survive relentless undead hordes while upgrading weapons and unlocking new zones, balancing quick reflexes with strategic positioning to achieve high scores and extend gameplay.\n\nKey Features\n\n• Precision aiming with firearms  \n• Wave-based enemy encounters  \n• Weapon upgrade progression system  \n• Tactical positioning challenges  \n• Post-apocalyptic urban setting"
-},
-{
-"id": "minewar-soldiers-vs-zombies",
-"title": "MineWar Soldiers vs Zombies",
-"iframe": "https://html5.gamedistribution.com/c614269eaafa47b68c8953ac8f4463b0/",
-"description": "Command turrets and deploy soldiers against relentless zombie hordes in this casual browser challenge. Manage your defensive perimeter using strategic placement of infantry and automated weapons to hold ground through escalating waves. With survival as the main goal, pockets of mines add tactical depth to the battlefield and pressure decision making under siege.\n\nKey Features\n\n• Turret and soldier deployment  \n• Real-time defensive positioning  \n• Progressive wave difficulty scaling  \n• Mine placement dynamics  \n• Post-apocalyptic zombie theme"
 },
 {
 "id": "super-sergeant-zombies",

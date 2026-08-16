@@ -1,6 +1,54 @@
 {
 "pages": [
 {
+"id": "cinderella-match-3d",
+"title": "Cinderella Match 3D",
+"iframe": "https://html5.gamedistribution.com/1bbcf7a66ab6438ab7ea1960a78efde8/",
+"description": "Match colorful gems by swapping them to create cascades and clear levels filled with sparkling treasures. Players solve each puzzle by strategically targeting clusters for chain reactions while advancing through vibrant stages that highlight dynamic 3D jewel layouts. The challenge grows as new gem types and obstacles appear, requiring careful planning to reach high scores.\n\nKey Features\n\n• Gem swapping chain reaction mechanic  \n• Tap and drag control scheme  \n• Increasing puzzle difficulty progression  \n• Score multiplier combo system  \n• Vibrant 3D jewel stage design"
+},
+{
+"id": "balloon-match-3d",
+"title": "Balloon Match 3D",
+"iframe": "https://html5.gamedistribution.com/3e00328b8b184561a6ed0bc5ac750153/",
+"description": "Match colorful balloons by aligning three or more in a dynamic 3D grid to clear the board and score points. Players rotate the cluster to find the best placement, managing limited moves while aiming to complete increasingly complex levels. Timing the chain reactions becomes crucial as challenges escalate in vibrant floating environments.\n\nKey Features\n\n• 3D rotational matching mechanic  \n• Limited move strategic placement  \n• Progressive level complexity  \n• Chain reaction scoring system  \n• Colorful balloon cluster puzzles"
+},
+{
+"id": "mojo-match-3d",
+"title": "Mojo Match 3D",
+"iframe": "https://html5.gamedistribution.com/caee014ec4584f6290102cf0ab9e4bd6/",
+"description": "Match gems by swapping colorful blocks to clear 3D layers in a vibrant puzzle space. Players strategize moves to connect items while navigating multi-dimensional match grids that increase difficulty as levels progress. The objective centers on clearing complex stacks under move limits to advance through casual challenges.\n\nKey Features\n\n• Multi-layered 3D board design  \n• Swap-based matching mechanics  \n• Increasing level complexity  \n• Move limit challenge system  \n• Colorful gem stacking visuals"
+},
+{
+"id": "match-3d-puzzle-saga",
+"title": "Match 3D Puzzle Saga",
+"iframe": "https://html5.gamedistribution.com/96d4461569d24b6dafd883f59710f03f/",
+"description": "Match colored shapes swiftly to clear increasingly complex grids in this spatial puzzle challenge. Players rotate and slide pieces to achieve multi-directional matches, navigating limited moves and timed rounds for a high score. Each level introduces unique pattern variations that demand sharper observation and planning to advance through dozens of stages.\n\nKey Features\n\n• Multi-angle matching mechanic  \n• Touch and drag controls  \n• Limited move-based progression  \n• Timed scoring challenges  \n• Colorful geometric shapes"
+},
+{
+"id": "prism-match-3d",
+"title": "Prism Match 3D",
+"iframe": "https://html5.gamedistribution.com/dbc504babec040ae805e6cdb7c19e4e3/",
+"description": "Match colorful gems by swiping across a three-dimensional grid to create combos and clear levels. Players navigate shifting cube layers to strategically align prism blocks, balancing limited moves and spatial puzzles. Each stage introduces new patterns demanding quick adaptation and foresight for higher scores and progression.\n\nKey Features\n\n• 3D gem matching mechanics  \n• Swipe gesture controls  \n• Layered puzzle complexity  \n• Move-limited stage challenges  \n• Vibrant crystal cube design"
+},
+{
+"id": "goods-triple-match-3d",
+"title": "Goods Triple Match 3D",
+"iframe": "https://html5.gamedistribution.com/931dfd68632142c7b3e882009866d288/",
+"description": "Match colorful goods by aligning three or more items to clear levels in this 3D puzzle environment. Players swap adjacent objects to trigger chain reactions while managing limited moves and unlocking new challenges through a multi-layered board. The game blends spatial reasoning with timed sequences to keep progressing through increasingly complex patterns.\n\nKey Features\n\n• 3D spatial matching grids  \n• Swap-based chain reaction combos  \n• Limited move puzzle constraints  \n• Progressive level unlocking system  \n• Colorful object-themed tiles"
+},
+{
+"id": "perfect-match-3d",
+"title": "Perfect Match 3D",
+"iframe": "https://html5.gamedistribution.com/66560ec39d244483a1dcc6245f59f6ce/",
+"description": "Match colorful 3D gems by swiping to create chains in this casual puzzle game. Players clear levels by achieving specific combination goals while navigating spatial challenges presented in a three-dimensional layout. Each stage introduces unique block arrangements and obstacles that require strategic planning and quick pattern recognition to progress. The game targets a wide audience including teens and kids seeking straightforward but engaging puzzle action.\n\nKey Features\n\n• Swipe-based gem matching  \n• Three-dimensional puzzle grids  \n• Level-specific combination targets  \n• Time-limited challenge modes  \n• Vibrant color-coded visuals"
+},
+{
+"id": "color-match-3d",
+"title": "Color Match 3D",
+"iframe": "https://html5.gamedistribution.com/304d8aae153849439ac1d65d56b86a55/",
+"description": "Navigate vibrant 3D puzzles by matching colors to fill shapes and clear levels in this casual coloring challenge. Players engage with a unique color blending mechanic to solve progressively intricate designs. Timed stages add urgency as players apply precise matching to unlock new patterns and achieve visual harmony.\n\nKey Features\n\n• 3D color matching puzzles  \n• Precision touch controls  \n• Increasing pattern complexity  \n• Timed level challenges  \n• Vivid color blending effects"
+},
+{
 "id": "fruits-link-match3",
 "title": "Fruits Link Match3",
 "iframe": "https://html5.gamedistribution.com/615558cf931f4ba49e2c8d901986ec09/",

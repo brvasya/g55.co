@@ -1,6 +1,48 @@
 {
 "pages": [
 {
+"id": "gunspin",
+"title": "GunSpin",
+"iframe": "https://html5.gamedistribution.com/917cce8c44c44638a8cdc2a1794b65c8/",
+"description": "Spin the gun turret strategically to eliminate incoming targets in this casual shooting challenge. Precision aiming and timing form the heart of each level, where quick reflexes decide survival against waves of enemies. Players advance through increasingly complex stages, mastering the unique rotational mechanic to overcome steady escalation in task difficulty and score goals.\n\nKey Features\n\n• Rotational turret aiming mechanic  \n• Quick reflex target elimination  \n• Progressive wave-based levels  \n• Score multiplier combo system  \n• Minimalist arcade shooting style"
+},
+{
+"id": "gunhit",
+"title": "GunHit",
+"iframe": "https://html5.gamedistribution.com/5d14f231b5834cfe9cb006e547dd27f8/",
+"description": "Shoot down waves of incoming targets using precise timing and rapid-fire mechanics in a casual browser setting. Players must rely on quick reflexes to manage weapon cooldowns and maintain accuracy across increasingly difficult stages. Each level challenges players to improve their aim and shoot efficiency under pressure, making strategic use of the available firing system to progress.\n\nKey Features\n\n• Rapid-fire targeting gameplay  \n• Responsive click-and-shoot controls  \n• Progressive enemy wave difficulty  \n• Weapon cooldown timing system  \n• Minimalist arcade shooting theme"
+},
+{
+"id": "gungame-paintball-wars",
+"title": "GunGame Paintball Wars",
+"iframe": "https://html5.gamedistribution.com/b95f76e3afe447378ebeb903fcf24b1d/",
+"description": "Engage in rapid paintball gun battles where players navigate colorful arenas using precise shooting mechanics while advancing through competitive rounds. The game challenges players to outshoot opponents with quick reflexes and strategic cover usage. Each match demands skillful aiming and timing to dominate in vibrant team-based skirmishes designed for casual players.\n\nKey Features\n\n• Precision shooting mechanics  \n• Dynamic arena navigation  \n• Competitive round progression  \n• Team-based combat system  \n• Bright paintball war setting"
+},
+{
+"id": "gunfu-stickman-2",
+"title": "GunFu Stickman 2",
+"iframe": "https://html5.gamedistribution.com/54051bd5a055495da4170bcabc1f5e56/",
+"description": "Control a stickman armed with twin pistols as you chain fluid gunfights against waves of shadowy foes in increasingly complex arenas. The game's core mechanic centers on precise shooting and rapid movement, demanding quick reflexes to survive enemy volleys while progressing through stages with escalating difficulty.\n\nKey Features\n\n• Dual wield shooting mechanics  \n• Responsive stickman agility controls  \n• Wave-based enemy assault progression  \n• Score multiplier combo system  \n• Minimalist silhouette combat arenas"
+},
+{
+"id": "gungame-shooting-warfare-blocky-gangster",
+"title": "GunGame shooting warfare blocky gangster",
+"iframe": "https://html5.gamedistribution.com/6f09a32e739f4888a80b71d2f3d47c2c/",
+"description": "Engage in fast-paced shooting combat in a blocky urban environment where players navigate chaotic city streets using tactical gunplay. The game centers on weapon switching and precision aiming against rival gangsters, challenging players to outshoot opponents in close-quarter battles. Progression revolves around gaining new firearms and mastering diverse shooting mechanics across varied map zones.\n\nKey Features\n\n• Weapon switching combat system  \n• Precision aiming controls  \n• Progressive firearm unlocks  \n• Close-quarter city maps  \n• Blocky gangster theme"
+},
+{
+"id": "gungame-24-pixel",
+"title": "GunGame 24 Pixel",
+"iframe": "https://html5.gamedistribution.com/f57c55c88e534595a89283bd8078122c/",
+"description": "Navigate pixelated arenas using varied firearm mechanics in this fast-paced shooter. Players cycle through different weapons as they defeat opponents, mastering each unique gun to climb the ranks. Progression depends on adapting to changing armaments and surviving increasingly intense combat stages, challenging reflexes and precision.\n\nKey Features\n\n• Weapon cycling mechanic  \n• Pixel art arena combat  \n• Progressive difficulty scaling  \n• Score-based survival mode  \n• Quick-reflex shooter gameplay"
+},
+{
+"id": "gungame-poligon-battle-royale",
+"title": "GunGame Poligon Battle Royale",
+"iframe": "https://html5.gamedistribution.com/c43c108ebd914fbfa9dddfcbcbadcae2/",
+"description": "Engage in fast-paced gun battles where players continuously upgrade their weapons after each elimination, navigating a polygonal arena that emphasizes quick reflexes and strategic shooting. The game’s core mechanic centers on progressing through a weapon tier system while surviving against multiple opponents across shrinking zones. Mastering movement and aiming is essential to outlast others in this casual battle environment.\n\nKey Features\n\n• Weapon upgrade after each kill  \n• Dynamic polygonal arena maps  \n• Progressive elimination challenge  \n• Shrinking safe zone mechanic  \n• Multiplayer battle royale mode"
+},
+{
 "id": "gunfighter-gunmans-proof",
 "title": "Gunfighter Gunmans Proof",
 "iframe": "https://html5.gamedistribution.com/550279c80d4a4139938aeb8d30fb5001/",

@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "xdrive-iperformance-puzzle",
+"title": "xDrive iPerformance Puzzle",
+"iframe": "https://html5.gamedistribution.com/87a419e8ddf24ba4829824442b408220/",
+"description": "Match and clear tiles by swapping adjacent pieces in this puzzle game to form patterns and complete levels. The gameplay relies on strategic tile positioning with increasing difficulty as you progress through varied puzzle boards. Players must think ahead to optimize moves and unlock new challenges, testing pattern recognition and planning skills.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Strategic move planning  \n• Level-based puzzle progression  \n• Pattern recognition challenges  \n• Casual puzzle board settings"
+},
+{
+"id": "bmw-m340i-xdrive-puzzle",
+"title": "BMW M340i xDrive Puzzle",
+"iframe": "https://html5.gamedistribution.com/e5042b69f2d0420791d760420f98a0b0/",
+"description": "Arrange puzzle pieces to complete intricate images featuring the BMW M340i xDrive, focusing on spatial matching and image reconstruction. Players manipulate tile-based segments to restore visuals while navigating time constraints and increasing difficulty levels. The game blends automotive-themed puzzles with classic jigsaw mechanics, challenging players to sharpen their pattern recognition and problem-solving skills.\n\nKey Features\n\n• Tile swapping and rotation  \n• Time-limited puzzle challenges  \n• Progressive difficulty stages  \n• Interactive image preview system  \n• Automotive visual theme"
+},
+{
 "id": "good-to-drive",
 "title": "Good to drive",
 "iframe": "https://html5.gamedistribution.com/1d0c0b0ec97049df9a9ea81e209ce065/",

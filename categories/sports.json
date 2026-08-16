@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "esport-gamer-tycoon",
+"title": "eSport Gamer Tycoon",
+"iframe": "https://html5.gamedistribution.com/3d6e1cc8f0314aae8df563647252cdfe/",
+"description": "Manage a growing roster of competitive players by optimizing their training schedules and managing tournament entries in this strategy-focused tycoon game. Balance resource allocation and monitor team performance through an intuitive interface as you climb the ranks of the eSports world. Progress unlocks specialized coaching features that refine player skills and team synergies.\n\nKey Features\n\n• Player roster development system  \n• Training schedule optimization tools  \n• Tournament participation management  \n• Skill upgrade progression trees  \n• Competitive esports environment simulation"
+},
+{
 "id": "sportbike-simulator",
 "title": "Sportbike Simulator",
 "iframe": "https://html5.gamedistribution.com/8e7d21d413324d47a71277255adf4a7d/",

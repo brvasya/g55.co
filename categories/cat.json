@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "popcats-merge-the-cats",
+"title": "PopCats: Merge the cats!",
+"iframe": "https://html5.gamedistribution.com/90f445f874d146bab03ae0e80ac6a477/",
+"description": "Combine and match different cats by merging them into higher-level creatures while managing the board space and timing merges carefully. This merge puzzle centers on arranging adorable feline characters in a grid, aiming to evolve them up through strategic combinations and unlock new cat varieties. Progression challenges players to optimize merges and expand their collection of charming pops.\n\nKey Features\n\n• grid-based cat merging  \n• strategic board space management  \n• evolving unique cat varieties  \n• merge chain progression system  \n• colorful casual puzzle theme"
+},
+{
+"id": "catrobot-idle-td-battle-cat",
+"title": "CatRobot Idle TD Battle Cat",
+"iframe": "https://html5.gamedistribution.com/e45f8640e1d945a0aa08a4cd4838245a/",
+"description": "Defend your base by deploying and upgrading a mix of cat and robot units in this idle tower defense game. Strategically position your forces to automatically fend off waves of quirky enemies while managing resource flow and unit upgrades. Progression revolves around unlocking new catrobot variants and enhancing their abilities to withstand increasingly tough battles.\n\nKey Features\n\n• Automated tower defense combat  \n• Unit deployment and positioning  \n• Upgrade based progression system  \n• Resource management mechanics  \n• Hybrid cat-and-robot character units"
+},
+{
 "id": "cat-pancake-diner",
 "title": "Cat Pancake Diner",
 "iframe": "https://html5.gamedistribution.com/0d955c95d25d4736994fe4efdd7f102c/",

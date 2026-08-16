@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "findanimalio",
+"title": "FindAnimalIO",
+"iframe": "https://html5.gamedistribution.com/8e66d8ef18f74bc587e9cdaf75aefaa8/",
+"description": "Track and capture elusive animals using quick reflexes and sharp observation skills in this casual multiplayer experience. Players compete in a dynamic arena where agility and timing are crucial to locate and tag wildlife before opponents do. The gameplay centers on movement strategy and target prioritization, creating tense moments as players navigate shrinking safe zones.\n\nKey Features\n\n• Real-time multiplayer tracking  \n• Precision movement controls  \n• Competitive tagging mechanics  \n• Progressive safe zone shrinkage  \n• Wildlife spotting challenges"
+},
+{
 "id": "animal-klotski",
 "title": "Animal Klotski",
 "iframe": "https://html5.gamedistribution.com/ba097c40e304481daa8064d6e8b42f7d/",

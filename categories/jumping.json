@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "outjump",
+"title": "OutJump",
+"iframe": "https://html5.gamedistribution.com/6426f9e3f24642e3803b2543a6b4a315/",
+"description": "Jump across a series of challenging platforms, using precise timing to navigate ever-changing gaps and obstacles. The game centers on quick reflexes and measured leaps, where players must gauge their jumps carefully to avoid falling. As the levels progress, the platforms become more spaced and unpredictable, testing the player’s hand-eye coordination and reaction speed.\n\nKey Features\n\n• Precision-based platform jumping  \n• Responsive timing mechanics  \n• Increasing platform distance challenges  \n• Endless mode progression system  \n• Minimalist visual style"
+},
+{
+"id": "helixjump-io",
+"title": "HelixJump.io",
+"iframe": "https://html5.gamedistribution.com/7da11989b21749de811d9fe495822c8c/",
+"description": "Bounce the ball through a twisting helix tower by rotating the structure, avoiding colored obstacles and gaps to advance. Players rely on precise timing and spatial awareness to navigate falling sequences, aiming to reach the base while controlling a bouncing sphere’s trajectory. Levels increase in difficulty, requiring quick reflexes across stacked ring platforms.\n\nKey Features\n\n• Helix tower rotation control  \n• Obstacle avoidance timing  \n• Progressive level difficulty  \n• High score tracking system  \n• Minimalist geometric visuals"
+},
+{
 "id": "jump-master",
 "title": "Jump Master",
 "iframe": "https://html5.gamedistribution.com/e0250be9a0ff4355a9dccf3716128597/",

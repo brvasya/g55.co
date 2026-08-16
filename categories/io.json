@@ -1,6 +1,24 @@
 {
 "pages": [
 {
+"id": "pewpewio-online",
+"title": "PewPewIO.online",
+"iframe": "https://html5.gamedistribution.com/7e6d42d4952e4de1aa9a2928b72b8df1/",
+"description": "Navigate a minimalist arena using twin-stick controls to outshoot opponents in this fast-paced casual shooter. Players dodge and fire in an open map where survival depends on precise movement and rapid elimination of enemies. The game emphasizes quick reflexes and strategic positioning, offering constant action in a sparse combat environment.\n\nKey Features\n\n• Twin-stick shooting mechanic  \n• Responsive movement controls  \n• Fast-paced arena combat  \n• Score-based survival system  \n• Minimalist visual style"
+},
+{
+"id": "candyio",
+"title": "CandyIO",
+"iframe": "https://html5.gamedistribution.com/eceebc4946414da1b9bcce76801edc42/",
+"description": "Control and grow your digital blob in this fast-paced io game, absorbing smaller candies to increase size while avoiding larger opponents. Maneuver with precision to outsmart rivals and dominate the leaderboard as your character evolves in a colorful arena setting. The challenge lies in balancing aggressive expansion with strategic evasion against multiple players.\n\nKey Features\n\n• Real-time blob growth mechanic  \n• Responsive mouse or touch controls  \n• Competitive multiplayer arena  \n• Size-based survival challenge  \n• Vibrant candy-themed environment"
+},
+{
+"id": "fish3d-io",
+"title": "Fish3D.io",
+"iframe": "https://html5.gamedistribution.com/f7c3aa63b13641ee8d7d2ffbbe1bdf4b/",
+"description": "Navigate a vibrant aquatic arena by controlling a colorful fish to outmaneuver rivals and dominate the underwater landscape. The game centers on responsive movement that rewards quick reflexes and strategic positioning among schools of differently sized opponents. Compete to grow larger by consuming smaller fish while avoiding threats, with a dynamic environment fueling constant challenges.\n\nKey Features\n\n• Fluid 3D swimming controls  \n• Competitive growth mechanics  \n• Reactive AI fish behaviors  \n• Real-time arena survival scoring  \n• Colorful oceanic multiplayer setting"
+},
+{
 "id": "ufo-io-armada",
 "title": "UFO IO Armada!",
 "iframe": "https://html5.gamedistribution.com/cd0c7bbbe2114f7498cd094bd5297a8d/",
@@ -13,22 +31,10 @@
 "description": "Control a dynamic meme avatar in a fast-paced online arena where timing and strategy shape the outcome. Players navigate a growing grid of icons, capturing and evolving memes through quick reflexes and pattern recognition. The challenge lies in balancing offense and defense while moving smoothly across a vibrant digital playground.\n\nKey Features\n\n• Avatar movement with momentum  \n• Grid-based capture mechanics  \n• Progression through meme evolution  \n• Competitive multiplayer matches  \n• Digital pop culture art style"
 },
 {
-"id": "snakelands-io",
-"title": "SnakeLands.io",
-"iframe": "https://html5.gamedistribution.com/8ca616dfb6a048ecaa0134dca416405e/",
-"description": "Navigate vibrant arenas as a growing serpent, slithering strategically to collect glowing orbs and outmaneuver rivals. The core mechanic revolves around controlling smooth snake movement to expand length while avoiding collisions that end your run. Quick reflexes and tactical positioning shape progression in a dynamic multiplayer environment, offering an evolving survival challenge.\n\nKey Features\n\n• Fluid directional snake control  \n• Orb collection length growth  \n• Collision avoidance challenges  \n• Multiplayer arena survival mode  \n• Colorful segmented snake design"
-},
-{
 "id": "push-io",
 "title": "Push.io",
 "iframe": "https://html5.gamedistribution.com/4888156f33814739a696e11b32556159/",
 "description": "Push opponents off a flat arena using precise timing and spatial control in this fast-paced .io battle. Players push and shove rivals in a physics-based struggle to be the last one standing while navigating competitors’ movements on a minimalistic stage. Master the momentum to dominate stages and survive increasingly aggressive opponents in chaotic matches.\n\nKey Features\n\n• Physics-driven pushing combat  \n• Arena survival scoring system  \n• Responsive directional controls  \n• Opponent crowd dynamics  \n• Minimalist competitive arenas"
-},
-{
-"id": "paperwar-io",
-"title": "PaperWar.io",
-"iframe": "https://html5.gamedistribution.com/cfa73398f23a40feaed85292ab9ae51d/",
-"description": "Control a paper plane in intense aerial battles where precision steering and swift maneuvering are crucial to outlast rivals in a dynamic arena. Players compete using simple flight controls to claim territory while avoiding collisions and managing speed. Dodging and tactical positioning define the challenge, set in a minimalistic but chaotic environment focused on competitive survival.\n\nKey Features\n\n• paper plane flight control  \n• arena territory capture  \n• collision avoidance tactics  \n• score-based survival mode  \n• minimalistic aerial combat setting"
 },
 {
 "id": "sworded-io-spin-and-rub",
@@ -41,12 +47,6 @@
 "title": "Brainrot World Hole.io",
 "iframe": "https://html5.gamedistribution.com/380aeec3d95c4aaebfef99add92dc387/",
 "description": "Consume objects and outgrow opponents in this fast-paced multiplayer arena. Players maneuver a growing entity using intuitive controls, aiming to absorb smaller players while avoiding larger threats. The core mechanic revolves around strategic movement and size scaling within an urban maze setting, challenging players to dominate the server through tactical positioning and timely aggression.\n\nKey Features\n\n• Size-based absorption mechanic  \n• Responsive movement controls  \n• Competitive multiplayer scaling  \n• Dynamic arena environment  \n• Urban maze-themed gameplay"
-},
-{
-"id": "mergeduel-io",
-"title": "MergeDuel.io",
-"iframe": "https://html5.gamedistribution.com/05017bab2dbe4802968bf84231e08e24/",
-"description": "Merge units strategically on a grid to create stronger fighters as you battle other players in a fast-paced io environment. Players combine matching elements to upgrade their army, testing quick thinking and spatial awareness in each round. The game challenges you to outsmart opponents using tactical merges while managing limited space to dominate the arena.\n\nKey Features\n\n• Grid based merging mechanic  \n• Tactical unit combination controls  \n• Competitive player arena progression  \n• Time limited match rounds  \n• Minimalist visual design"
 },
 {
 "id": "conquer-io",
@@ -77,12 +77,6 @@
 "title": "Goal io",
 "iframe": "https://html5.gamedistribution.com/9cbefaea941b42d4bdda21fc497ca659/",
 "description": "Control a fast-moving orb in an arena where quick reflexes determine survival. You navigate multidirectional movement to capture orbs scattered around the battlefield while competing against other players in real time. The game challenges players to balance offense and defense as they grow larger and dominate the playing field.\n\nKey Features\n\n• Orb absorption growth mechanic  \n• Multidirectional player movement  \n• Real-time multiplayer arena combat  \n• Competitive size-based ranking  \n• Minimalist circular arena design"
-},
-{
-"id": "squidgame-io",
-"title": "SquidGame.io",
-"iframe": "https://html5.gamedistribution.com/8256a6e4d51c45c6abe055782066efed/",
-"description": "Navigate an intense multiplayer arena where timing and quick decision-making are crucial to survive complex elimination rounds. Players rely on spatial awareness and strategic movement as they compete to outlast others in a dynamic environment that blends fast-paced actions with sudden challenges. Each round escalates difficulty, pushing reflexes and adaptability to the limit.\n\nKey Features\n\n• Real-time player elimination rounds  \n• Responsive movement controls  \n• Increasingly difficult survival stages  \n• Multiplayer competitive dynamics  \n• Minimalistic arena design"
 },
 {
 "id": "meme-challenge-io",
@@ -235,12 +229,6 @@
 "description": "Navigate a fast-paced multiplayer arena competing for territory and dominance using quick movement and strategic positioning. Players control small avatars to capture zones and avoid rival opponents aiming to gain the largest controlled area. The game challenges dexterity and map awareness with a dynamic shrinking playfield adding pressure over time.\n\nKey Features\n\n• Real-time territory capture mechanic  \n• Responsive avatar movement controls  \n• Competitive player elimination system  \n• Dynamic shrinking arena map  \n• Minimalist colorful io setting"
 },
 {
-"id": "superhero-io-2-chaos-giant",
-"title": "SuperHero.io 2 Chaos Giant",
-"iframe": "https://html5.gamedistribution.com/7199be15f22042cf9abbd402f3a10976/",
-"description": "Battle opponents using dynamic hero abilities in fast-paced online arenas where timing and movement define success. Players command unique superhero avatars with special powers to outmaneuver foes and dominate chaotic environments. Progress through combat rounds by mastering ability cooldowns and strategic positioning to become the ultimate champion in this io-style multiplayer clash.\n\nKey Features\n\n• Ability cooldown management  \n• Real-time multiplayer combat  \n• Strategic movement and dodging  \n• Round-based progression system  \n• Competitive arena setting"
-},
-{
 "id": "slither-dragon-io",
 "title": "Slither Dragon.io",
 "iframe": "https://html5.gamedistribution.com/bde26e84b9414b40892cf4561368134d/",
@@ -263,12 +251,6 @@
 "title": "Monsters.io",
 "iframe": "https://html5.gamedistribution.com/45dcf1431b524b0f86daf70e91c08920/",
 "description": "Compete in fast-paced multiplayer battles by controlling customizable monsters that grow stronger as you defeat opponents. The core mechanic revolves around strategic positioning and quick reflexes in an arena where survival depends on outmaneuvering rival creatures. Players aim to become the biggest monster by absorbing others while navigating dynamic environments and increasing their abilities.\n\nKey Features\n\n• Monster growth and evolution  \n• Real-time multiplayer combat  \n• Arena survival scoring system  \n• Responsive movement controls  \n• Varied monster designs and skins"
-},
-{
-"id": "tonkwars-io",
-"title": "TonkWars.io",
-"iframe": "https://html5.gamedistribution.com/69d7787150e54b498ab9e0b96755eb16/",
-"description": "Command enemy tanks with precise turret control in this fast-paced multiplayer battle arena. Navigate destructible environments while managing limited ammo to outmaneuver foes in timed skirmishes. Engage in top-down tank combat where strategic positioning and quick reflexes determine victory in competitive matches.\n\nKey Features\n\n• Top-down tank battle mechanics  \n• Turret aiming and recoil control  \n• Timed arena combat rounds  \n• Ammo conservation strategy  \n• Destructible battlefield terrain"
 },
 {
 "id": "amogus-io",
@@ -349,12 +331,6 @@
 "description": "Control a customizable avatar in fast-paced multiplayer confrontations, securing resources and defeating rivals to dominate the arena. Players navigate a dynamic map using precision movement, balancing offense and defense in real time. Progression hinges on strategic upgrades and skillful play, emphasizing quick decision-making in a vibrant io setting designed for casual gamers.\n\nKey Features\n\n• Real-time multiplayer combat  \n• Precision avatar movement controls  \n• Resource collection and upgrade system  \n• Dynamic arena map variations  \n• Competitive player ranking system"
 },
 {
-"id": "battledudes-io",
-"title": "BattleDudes.io",
-"iframe": "https://html5.gamedistribution.com/5093a3a0c54649de8bf8391d26ea0a38/",
-"description": "Navigate fast-paced arena combat using a combination of shooting and dodging in this io game. Players control agile characters who must outmaneuver opponents while managing limited ammunition and weapon cooldowns. The objective is to survive and eliminate rivals in a continuous battle for dominance, emphasizing quick reflexes and strategic positioning.\n\nKey Features\n\n• Top-down shooter controls  \n• Real-time multiplayer combat  \n• Ammo management and cooldowns  \n• Survival leaderboard system  \n• Minimalist arena setting"
-},
-{
 "id": "dont-fall-io",
 "title": "Dont Fall io",
 "iframe": "https://html5.gamedistribution.com/eb5e0fabe46c481899eccee61bfa8db5/",
@@ -419,12 +395,6 @@
 "title": "Disk.io",
 "iframe": "https://html5.gamedistribution.com/0d6aabae66f6400897f3cf7228ab48d6/",
 "description": "Control a fast-spinning disk to capture territory and outmaneuver opponents in a minimalist arena. Players grow their disk by absorbing smaller segments while avoiding larger rivals in a competitive io environment. The focus on quick reflexes and precise movement makes conquering the map both a tactical and reflex challenge.\n\nKey Features\n\n• territory capture mechanic  \n• momentum-based disk control  \n• size-based player progression  \n• competitive multiplayer arena  \n• minimalist geometric visuals"
-},
-{
-"id": "pillowbattle-io",
-"title": "PillowBattle.io",
-"iframe": "https://html5.gamedistribution.com/7d72b95529fe48de9a9b029869dc2c35/",
-"description": "PillowBattle.io lets players toss soft pillows in fast-paced arena matches where dodging and targeting opponents is key. Maneuver around a simple open map using smooth 2D movement controls to knock rivals out of the play zone. The goal centers on outlasting others by carefully timing throws and using environmental cover to avoid hits.\n\nKey Features\n\n• Physics-based projectile throwing  \n• Responsive 2D movement controls  \n• Survival elimination rounds  \n• Dynamic player knockback effects  \n• Casual arena fighting setting"
 },
 {
 "id": "shootup-io",
@@ -505,12 +475,6 @@
 "description": "Collect and control a growing cluster of colored slush blobs while avoiding collisions with opposing players in a dynamic arena. Maneuver your slime mass carefully to absorb smaller clusters and expand your territory, balancing growth with agility. The challenge revolves around strategic movement and timing to dominate the playfield in this competitive multiplayer environment.\n\nKey Features\n\n• Cluster absorption mechanics  \n• Directional movement controls  \n• Competitive player elimination  \n• Score-based leaderboard progression  \n• Vibrant colorful arena setting"
 },
 {
-"id": "carwarz-io",
-"title": "CarWarz.io",
-"iframe": "https://html5.gamedistribution.com/4b7befe60f2842a0904b689c4bed912b/",
-"description": "Battle fierce multiplayer matches by controlling fast cars equipped with weapons in a chaotic top-down arena. Players compete against others in real-time, using precise vehicle steering and strategic shooting to dominate the battlefield. Survival depends on navigating tight spaces while upgrading car abilities to outlast opponents in this competitive io arena.\n\nKey Features\n\n• Vehicle combat with weapon upgrades  \n• Real-time multiplayer car control  \n• Survival through arena elimination  \n• Score-based ranking progression  \n• Top-down urban battle setting"
-},
-{
 "id": "flipsurf-io",
 "title": "FlipSurf.io",
 "iframe": "https://html5.gamedistribution.com/4748c8a0c7e6418fab81efbf491433f8/",
@@ -523,40 +487,10 @@
 "description": "Swim through open waters as a hungry shark hunting smaller fish and avoiding larger predators in this fast-paced io experience. Players use swift, directional movement to chase prey and grow in size while competing with others in a dynamic ocean arena. The goal is to dominate by evolving into the top predator through strategic feeding and survival.\n\nKey Features\n\n• Directional swimming control  \n• Size-based growth progression  \n• Multiplayer ocean arena  \n• Competitive predator ranking  \n• Underwater survival dynamics"
 },
 {
-"id": "penguinbattle-io",
-"title": "PenguinBattle.io",
-"iframe": "https://html5.gamedistribution.com/b131952897bd4d2780f964a8a10164d2/",
-"description": "Compete for dominance by controlling agile penguins in a fast-paced arena where dodge and dash tactics are essential. Use quick sliding maneuvers to outlast opponents in a vibrant icy battlefield. The challenge lies in balancing aggressive attacks with evasive movement to secure the highest survival score and emerge victorious.\n\nKey Features\n\n• Sliding movement control  \n• Dodge and attack mechanics  \n• Survival score tracking  \n• Multiplayer arena battles  \n• Arctic-themed environment"
-},
-{
-"id": "duckpark-io",
-"title": "DuckPark io",
-"iframe": "https://html5.gamedistribution.com/0a7b14bd07ac46029ebc8939cce18079/",
-"description": "Battle quack across a lively arena to outmaneuver rivals in fast-paced multiplayer action. Players control agile ducks using smooth sliding movement to capture territory and score points while avoiding elimination. The game challenges quick reflexes and strategic positioning on dynamic maps designed for casual competition.\n\nKey Features\n\n• Sliding movement control system  \n• Competitive territory capture mechanic  \n• Progressive score-based survival rounds  \n• Local and online multiplayer modes  \n• Colorful animal-themed arena design"
-},
-{
 "id": "trafficcontrol-io",
 "title": "TrafficControl.io",
 "iframe": "https://html5.gamedistribution.com/13788c19806f42f2b1e1cd35794cbd03/",
 "description": "Manage vehicle flows by directing cars through complex intersections in a dynamic browser arena. Players adjust traffic signals to prevent collisions while balancing the timing of multiple lanes for optimal flow. The game features fast-paced decision-making with increasingly dense traffic waves, challenging players to maintain smooth traffic without jams or crashes.\n\nKey Features\n\n• Real-time signal switching  \n• Multi-lane intersection control  \n• Increasing traffic density challenge  \n• Competitive multiplayer scoring  \n• Urban road traffic environment"
-},
-{
-"id": "candymatch-io",
-"title": "CandyMatch.io",
-"iframe": "https://html5.gamedistribution.com/3f126d9cf4f649aa85201d9bc4453190/",
-"description": "Match colored candies quickly in a fast-paced multiplayer arena where reflexes and pattern recognition determine your rank. Players swap adjacent pieces to create chains and trigger combos against competitors. The game challenges you to outscore others by chaining matches and reacting to shifting board layouts, demanding sharp focus in a lively, candy-themed environment.\n\nKey Features\n\n• Real-time candy matching battles  \n• Swipe controls for quick swaps  \n• Combo multipliers increasing score  \n• Ranked multiplayer leaderboard system  \n• Colorful candy-themed arena visuals"
-},
-{
-"id": "helixjump-io",
-"title": "HelixJump.io",
-"iframe": "https://html5.gamedistribution.com/7da11989b21749de811d9fe495822c8c/",
-"description": "Bounce the ball through a twisting helix tower by rotating the structure, avoiding colored obstacles and gaps to advance. Players rely on precise timing and spatial awareness to navigate falling sequences, aiming to reach the base while controlling a bouncing sphere’s trajectory. Levels increase in difficulty, requiring quick reflexes across stacked ring platforms.\n\nKey Features\n\n• Helix tower rotation control  \n• Obstacle avoidance timing  \n• Progressive level difficulty  \n• High score tracking system  \n• Minimalist geometric visuals"
-},
-{
-"id": "pixelforces-io",
-"title": "PixelForces.io",
-"iframe": "https://html5.gamedistribution.com/f52f0c6bf06c48ea8839543a0a72bbe9/",
-"description": "Engage in fast-paced multiplayer combat by maneuvering pixelated soldiers across dynamic 2D arenas, using precise shooting and tactical positioning to outlast opponents. Collect weapon upgrades and adapt to varied map layouts to secure victory. The game blends arcade-style shooting with strategic movement as players aim to dominate the competitive battlefield.\n\nKey Features\n\n• Top-down shooting mechanics  \n• Responsive character controls  \n• Weapon upgrade system  \n• Dynamic pixel art arenas  \n• Multiplayer elimination rounds"
 },
 {
 "id": "farmers-io",
@@ -577,40 +511,16 @@
 "description": "Navigate grid-based arenas to place strategic bombs that clear paths and trap opponents in fast-paced matches. Use timed explosions to control space and outlast other players in multiplayer battles. Master bomb placement and movement timing to dominate in explosive confrontations where careful positioning decides victory.\n\nKey Features\n\n• Grid-based bomb placement mechanics  \n• Responsive character movement controls  \n• Player elimination survival challenge  \n• Multiplayer realtime arena battles  \n• Minimalistic urban maze setting"
 },
 {
-"id": "spaceguard-io",
-"title": "SpaceGuard.io",
-"iframe": "https://html5.gamedistribution.com/7d68c9c508a8414a90f9b7e8877ab6d6/",
-"description": "Pilot swift spacecraft through chaotic multiplayer battles in a minimalist cosmic arena, managing precise movement and positioning to outmaneuver opponents. Compete in fast-paced survival rounds where tactical control and shooting accuracy determine success. The game’s emphasis on tight controls and competitive timing tests players’ reflexes in a stark space setting.\n\nKey Features\n\n• Top-down spacecraft movement  \n• Precision aiming and shooting  \n• Survival-based multiplayer rounds  \n• Dynamic player elimination system  \n• Minimalist outer space visuals"
-},
-{
 "id": "eat-io-online",
 "title": "Eat.io Online",
 "iframe": "https://html5.gamedistribution.com/2d40030319a84311b7d95d11aa10c789/",
 "description": "Navigate a vivid multiplayer arena by controlling a growing cell that consumes smaller orbs to increase in size. The central mechanic involves strategic movement and timely splitting to absorb adversaries, adding layers of risk and reward. Players aim to dominate the petri dish by balancing speed and size while avoiding larger threats.\n\nKey Features\n\n• Cell growth through orb consumption  \n• Split movement mechanic for attacks  \n• Dynamic risk and reward system  \n• Multiplayer mass leaderboard  \n• Abstract microscopic setting"
 },
 {
-"id": "mergeworld-io",
-"title": "MergeWorld.io",
-"iframe": "https://html5.gamedistribution.com/620586734576432db5d33390796dd0c5/",
-"description": "Combine and evolve units on a dynamic grid to dominate opponents in strategic merges. Players create powerful formations by linking identical pieces, managing limited space while expanding their territory. The game challenges quick decision-making and adaptive tactics to outsmart rivals in a continuously shifting arena.\n\nKey Features\n\n• Strategic tile merging system  \n• Grid-based unit placement control  \n• Progressive territory expansion  \n• Real-time multiplayer competitive mode  \n• Minimalistic arena visual style"
-},
-{
-"id": "basketballdunk-io",
-"title": "BasketballDunk.io",
-"iframe": "https://html5.gamedistribution.com/565f2ece78f449738659f3750bc7314c/",
-"description": "Shoot and dodge opponents in fast-paced multiplayer matches using precise aiming and timing. Players engage in competitive basketball scoring through movement-based controls, leveraging spatial awareness in a minimalistic court environment. The main challenge lies in outmaneuvering rivals to land successful dunks while managing game momentum.\n\nKey Features\n\n• Precision shot aiming mechanic  \n• Responsive player movement controls  \n• Dynamic opponent evasion system  \n• Ranked matchmaking progression  \n• Simplified basketball court setting"
-},
-{
 "id": "snowheroes-io",
 "title": "SnowHeroes.io",
 "iframe": "https://html5.gamedistribution.com/76499477666b4e4d81d04a4baa9ca61b/",
 "description": "Battle players navigate icy arenas using agile snow vehicles to outmaneuver opponents and claim dominance. The core mechanic revolves around swift movement and tactical positioning on slippery surfaces. Players aim to control territory while fending off rivals in dynamic multiplayer matches. Each round emphasizes quick reflexes and skillful driving to secure victory in the chilly battleground.\n\nKey Features\n\n• Agile snow vehicle controls  \n• Multiplayer territorial combat  \n• Dynamic icy arena design  \n• Reflex-based movement challenges  \n• Progression through ranked matches"
-},
-{
-"id": "shooterz-io",
-"title": "ShooterZ.io",
-"iframe": "https://html5.gamedistribution.com/696543c05fe842fbacbb9a5348bff341/",
-"description": "Navigate fast-paced arenas using precise aiming and shooting mechanics to eliminate opponents while collecting power-ups in a competitive multiplayer environment. The game challenges players to outshoot rivals with quick reflexes and strategic positioning in chaotic battle zones designed for casual clashes and escalating score streaks.\n\nKey Features\n\n• Precision aiming and shooting  \n• Responsive movement controls  \n• Score-based elimination system  \n• Dynamic power-up pickups  \n• Compact multiplayer arenas"
 },
 {
 "id": "clash-blade-io",
@@ -673,12 +583,6 @@
 "description": "Control a bouncing orb in a dynamic arena where collision and momentum decide survival and scoring. Maneuvering relies on precise timing and rebound angles to outlast opponents while accumulating points. The gameplay emphasizes physics-based interactions and spatial awareness in a fast-paced environment.\n\nKey Features\n\n• Physics driven momentum control  \n• Timing-based rebound mechanics  \n• Competitive scoring survival mode  \n• Multiplayer arena encounters  \n• Minimalistic abstract visual style"
 },
 {
-"id": "waterpark-slide-io",
-"title": "WaterPark Slide.io",
-"iframe": "https://html5.gamedistribution.com/f784ba5eadd74fe086179c672821224f/",
-"description": "Navigate twisting water slides while competing for length and speed in a dynamic io environment. Players control a growing water slide mechanism that extends by absorbing sections to outpace rivals, challenging others in increasing crowd density. Mastering fluid movement and strategic expansion is key to becoming the longest and fastest on the board.\n\nKey Features\n\n• Slide extension through absorption  \n• Real-time competitive movement control  \n• Crowd density collision challenge  \n• Progressive player length advantage  \n• Waterpark themed competitive arena"
-},
-{
 "id": "ragdoll-io",
 "title": "Ragdoll.io",
 "iframe": "https://html5.gamedistribution.com/92fd763445b345f4b6740d509127eeb8/",
@@ -703,12 +607,6 @@
 "description": "Slash and throw blades to outmaneuver and eliminate opponents in a fast-paced multiplayer arena. Players control precise knife-throwing mechanics to compete in real-time combat, testing reflexes and spatial accuracy against multiple human foes. The goal is to survive and climb the leaderboard by mastering blade trajectories and timing in an ever-shrinking battle zone.\n\nKey Features\n\n• Precision knife-throwing mechanics  \n• Real-time multiplayer combat controls  \n• Survival leaderboard progression  \n• Dynamic arena shrinking system  \n• Minimalist arena battle setting"
 },
 {
-"id": "neonsnake-io",
-"title": "neonSnake.io",
-"iframe": "https://html5.gamedistribution.com/ab3a469cfed94672ace71f318b170e38/",
-"description": "Navigate a glowing serpentine avatar, weaving through opponents to grow by absorbing their trails and avoid collisions in a vibrant multiplayer arena. Movement relies on precise timing and spatial awareness to outmaneuver other players. Survive longer to become the longest neon snake on the board, capitalizing on speed and positioning rather than power-ups or weapons.\n\nKey Features\n\n• Trail-based growth mechanic  \n• Responsive directional controls  \n• Multiplayer survival competition  \n• Length-based scoring system  \n• Neon-lit cyber arena environment"
-},
-{
 "id": "cleanup-io",
 "title": "CleanUp.IO",
 "iframe": "https://html5.gamedistribution.com/53796e321dc944e984d61f32eb84e2fa/",
@@ -725,12 +623,6 @@
 "title": "Dragon io",
 "iframe": "https://html5.gamedistribution.com/c579ae734741444db81d403f9209e8d7/",
 "description": "Control a growing dragon as you scavenge glowing orbs and battle other players in a dynamic multiplayer arena. The gameplay involves smooth aerial movement combined with eating mechanics to increase your size and strength. Players face constant threats from rivals while aiming to dominate the io map through strategic positioning and rapid growth.\n\nKey Features\n\n• Aerial movement and dodging  \n• Orb collection size mechanic  \n• PvP combat with other dragons  \n• Dynamic multiplayer arena system  \n• Colorful fantasy dragon theme"
-},
-{
-"id": "superhero-io",
-"title": "SuperHero.io",
-"iframe": "https://html5.gamedistribution.com/9faec663ce9b4b1ba4fa6bee4abc53cd/",
-"description": "Compete against multiple players in fast-paced battles where quick reflexes and strategic movement define success. Navigate dynamic arenas while using unique attack and defense tactics to eliminate opponents. The game challenges players to adapt in real time to survive waves of clashes and climb the leaderboard.\n\nKey Features\n\n• real-time multiplayer combat  \n• agile character movement system  \n• knockout elimination rounds  \n• arena-based free-for-all mode  \n• stylized competitive visuals"
 },
 {
 "id": "water-slides-io",
@@ -829,12 +721,6 @@
 "description": "Launch your snowball to knock opponents from a shrinking circular arena in this fast-paced multiplayer contest. Players grow their snowballs by collecting snow patches while balancing control and momentum on icy terrain. The main challenge lies in outmaneuvering rivals using physics-based rolling mechanics to dominate the arena and stay last standing.\n\nKey Features\n\n• Physics-based rolling controls  \n• Competitive arena survival mode  \n• Snowball size growth mechanic  \n• Real-time multiplayer clashes  \n• Icy terrain friction effects"
 },
 {
-"id": "minipool-io",
-"title": "MiniPool.io",
-"iframe": "https://html5.gamedistribution.com/2fbf4907c6b246a3be5fb2860229e46f/",
-"description": "Control a dynamic cue ball to strike targets on a compact pool table, utilizing precision aiming and shot power to outscore opponents. The gameplay focuses on quick turn-based shots with real-time physics affecting ball movement and collision. Players compete in fast-paced rounds aiming to sink balls efficiently while navigating tight spaces and angles.\n\nKey Features\n\n• Precision aiming mechanic  \n• Real-time physics simulation  \n• Turn-based quick shot system  \n• Competitive scoring rounds  \n• Compact pool table arena"
-},
-{
 "id": "eg-baller-io",
 "title": "EG Baller IO",
 "iframe": "https://html5.gamedistribution.com/5a5da27de7a246298005d9f3269d574c/",
@@ -895,12 +781,6 @@
 "description": "Navigate a lively arena filled with colorful smiley faces where swift movement and precise timing dictate survival. Players control their avatar to outmaneuver opponents, absorb smaller players, and grow in size. The game’s core revolves around dynamic collision and absorption mechanics, with the challenge centered on dominating the free-for-all battlefield.\n\nKey Features\n\n• Real-time multiplayer arena action  \n• Precise avatar movement controls  \n• Size growth through player absorption  \n• Free-for-all survival objectives  \n• Vibrant emoticon-themed visuals"
 },
 {
-"id": "bighero-io",
-"title": "BigHero.io",
-"iframe": "https://html5.gamedistribution.com/043d6e58d4b04b78ba85cab0f8da74a6/",
-"description": "Navigate dynamic multiplayer arenas by competing against other players in intense real-time matches. Utilize precise movement and strategic positioning to dominate the io-style combat environment. The game challenges players to survive and outscore opponents by adapting quickly to evolving battle conditions. Progression involves mastering various control schemes and tactical decisions.\n\nKey Features\n\n• Online multiplayer arena battles  \n• Real-time player movement controls  \n• Score-based survival competition  \n• Tactical positioning mechanics  \n• Casual-friendly io gameplay"
-},
-{
 "id": "io-games-wormate",
 "title": "io Games Wormate",
 "iframe": "https://html5.gamedistribution.com/5de58f905419482d99f12b98de5aa1ab/",
@@ -943,12 +823,6 @@
 "description": "Control a continuously evolving letter grid to connect words and outscore opponents in this fast-paced puzzle arena. Players strategically shift and rotate tiles to form chains, challenging others in real-time word battles. Each round tests vocabulary skills and quick thinking as the board changes dynamically, pushing players to adapt and claim victory.\n\nKey Features\n\n• Tile rotation and shifting mechanics  \n• Real-time word chain formation  \n• Dynamic board evolution system  \n• Competitive multiplayer scoring  \n• Minimalistic puzzle arena setting"
 },
 {
-"id": "classicsnake-io",
-"title": "ClassicSnake.io",
-"iframe": "https://html5.gamedistribution.com/ac203bbf406043b49ef1ca2c97129999/",
-"description": "Navigate a growing snake through a shared arena, avoiding collisions while collecting pellets to increase length and outmaneuver opponents. Movement relies on precise directional control to avoid crashing into walls or other snakes as the play area steadily fills with competitors, creating an escalating challenge of spatial awareness and timing.\n\nKey Features\n\n• Continuous snake growth mechanic  \n• Directional input movement control  \n• Collision based elimination system  \n• Multiplayer arena survival mode  \n• Dynamic length-based scoring"
-},
-{
 "id": "warehousepanic-io",
 "title": "WarehousePANIC.io",
 "iframe": "https://html5.gamedistribution.com/805ac10a96664c5a8ec6e8ce3c88a094/",
@@ -977,12 +851,6 @@
 "title": "NIGHTPOINT.io",
 "iframe": "https://html5.gamedistribution.com/f436f570a9a34ef88fdbd63607c603b6/",
 "description": "Navigate a dynamic multiplayer arena where quick reflexes and spatial awareness determine survival. Players engage in fast-paced encounters relying on precision controls and strategic movement amid unpredictable opponents. Constantly adapt to evolving combat scenarios while striving to dominate the scoreboard in a minimalist environment. Gameplay emphasizes skillful positioning and timing to outlast competitors.\n\nKey Features\n\n• Precision movement controls  \n• Competitive arena scoring system  \n• Real-time multiplayer combat  \n• Adaptive player ranking progression  \n• Minimalist visual design"
-},
-{
-"id": "deathcar-io",
-"title": "DeathCar.io",
-"iframe": "https://html5.gamedistribution.com/6ea87abc31684c18905b9533e7e37be0/",
-"description": "Navigate a deadly battlefield by controlling a heavily armed vehicle, engaging opponents in fast-paced multiplayer combat. Use precision driving and strategic weapon use to survive waves of enemy vehicles, while upgrading your car’s offensive and defensive capabilities. The gameplay blends tactical vehicle dueling with survival elements in a chaotic arena setting.\n\nKey Features\n\n• Vehicle-based multiplayer combat  \n• Real-time driving and shooting controls  \n• Progressive weapon and armor upgrades  \n• Survival arena battle mode  \n• Destructible environment elements"
 },
 {
 "id": "flaap-io",
