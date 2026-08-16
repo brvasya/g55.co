@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "candy-match-move",
+"title": "Candy Match Move",
+"iframe": "https://html5.gamedistribution.com/c3d44f78f6494eb3b9555f8236391f24/",
+"description": "Swap colorful candies strategically to clear levels and unlock new puzzles in this casual match-three game. Players must identify matching groups within a limited number of moves to progress through a series of increasingly complex boards. The game emphasizes pattern recognition and planning ahead to maximize score and overcome challenges typical of the casual puzzle setting.\n\nKey Features\n\n• Match-three swap mechanic  \n• Limited move level design  \n• Progressive puzzle difficulty  \n• Score multiplier combos  \n• Bright candy-themed visuals"
+},
+{
 "id": "hexamatch",
 "title": "HexaMatch",
 "iframe": "https://html5.gamedistribution.com/b0a9187ecbf943f2b59dfc5e91936d8f/",

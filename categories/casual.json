@@ -1,28 +1,16 @@
 {
 "pages": [
 {
-"id": "screwloose-cats-tail-rescue",
-"title": "Screwloose Cats: Tail Rescue",
-"iframe": "https://html5.gamedistribution.com/e807eda40d024282bc2ec644798a4710/",
-"description": ""
-},
-{
 "id": "crystal-circuit",
 "title": "Crystal Circuit",
 "iframe": "https://html5.gamedistribution.com/69b4ae7c503c41a993f9181ba7dd58ba/",
-"description": ""
-},
-{
-"id": "candy-match-move",
-"title": "Candy Match Move",
-"iframe": "https://html5.gamedistribution.com/c3d44f78f6494eb3b9555f8236391f24/",
-"description": ""
+"description": "Manipulate vibrant crystals to form continuous circuits by rotating and connecting energy nodes across complex grids. Players strategically align paths to achieve flawless power flow in each puzzle stage, mastering spatial arrangement and timing to unlock higher difficulty levels. The game combines intricate pattern recognition with a colorful, abstract environment focused on precision and planning.\n\nKey Features\n\n• Energy circuit rotation mechanic  \n• Grid-based puzzle alignment  \n• Increasing stage complexity  \n• Time-limited challenge mode  \n• Abstract crystal-themed visuals"
 },
 {
 "id": "candy-flow-factory",
 "title": "Candy Flow Factory",
 "iframe": "https://html5.gamedistribution.com/54be8e1518a34505a31d23e0d4f95e26/",
-"description": ""
+"description": "Manipulate colorful candy streams by strategically directing their flow through factory pipes and conveyors. Use precise timing to merge and reroute sweet ingredients, overcoming increasingly complex puzzles that demand managing multiple flow paths simultaneously. The puzzle factory setting challenges players to optimize candy production by unlocking new pipe layouts and flow controls.\n\nKey Features\n\n• Stream redirection puzzle mechanics  \n• Interactive pipe connecting controls  \n• Progressive puzzle complexity levels  \n• Unlockable factory components systems  \n• Colorful confectionery production theme"
 },
 {
 "id": "spread",
