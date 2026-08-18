@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "grand-fruit-connect",
+"title": "Grand Fruit Connect",
+"iframe": "https://html5.gamedistribution.com/579a9818703d4aaba116bca2616432fe/",
+"description": ""
+},
+{
+"id": "snake-duel",
+"title": "Snake Duel",
+"iframe": "https://html5.gamedistribution.com/8b15910a7ae247da9b36923bded72e32/",
+"description": ""
+},
+{
 "id": "crystal-circuit",
 "title": "Crystal Circuit",
 "iframe": "https://html5.gamedistribution.com/69b4ae7c503c41a993f9181ba7dd58ba/",
