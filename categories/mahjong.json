@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "cute-mahjong-connect",
+"title": "Cute Mahjong Connect",
+"iframe": "https://html5.gamedistribution.com/bec0b111881c461cacabc5d44a8f65bc/",
+"description": "Match pairs of Mahjong tiles by selecting tiles that can be connected through clear paths to clear the board in this charming puzzle game. The gameplay revolves around visual pattern recognition and strategic tile removal, challenging players to uncover all matching pairs before time or moves run out. The colorful tile art and grid layout provide a casual setting suited for teens and kids looking for relaxed yet engaging puzzle sessions.\n\nKey Features\n\n• tile matching with pathfinding  \n• click and connect controls  \n• time-limited clearing challenges  \n• multiple puzzle layouts  \n• colorful casual interface"
+},
+{
 "id": "mahjong-bird-tiles",
 "title": "Mahjong Bird Tiles",
 "iframe": "https://html5.gamedistribution.com/ce87532247ac4814b2a4bf47ddaf7041/",

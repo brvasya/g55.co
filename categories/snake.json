@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snake-attack-shooter",
+"title": "Snake Attack Shooter",
+"iframe": "https://html5.gamedistribution.com/06ddc678a24c424785b944ab4ef5719e/",
+"description": "Shoot and dodge in fast-paced snake battles where timing your attacks and quick reflexes are crucial. Use targeted shooting mechanics to take down advancing serpent-like enemies while navigating tight spaces. The game challenges players to survive waves by managing weapon cooldowns and positioning. Progression rewards sharper aim and faster reactions in increasingly dense enemy formations.\n\nKey Features\n\n• Precision shooting mechanics  \n• Responsive movement controls  \n• Wave-based survival challenges  \n• Cooldown management system  \n• Serpent enemy AI patterns"
+},
+{
 "id": "snakemaxx",
 "title": "SnakeMaxx",
 "iframe": "https://html5.gamedistribution.com/d5a03822f6cd4807a9f8d1d65212efe2/",
