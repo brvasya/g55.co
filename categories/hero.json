@@ -1,6 +1,264 @@
 {
 "pages": [
 {
+"id": "heroic-knight",
+"title": "Heroic Knight",
+"iframe": "https://html5.gamedistribution.com/ea9a40f010ad4d9486290e8eb9c177a8/",
+"description": "Control a heroic knight on quest-driven levels, wielding sword combat and shield defense to overcome diverse enemy waves. Explore action-packed stages with timing-based strikes and strategic blocking to advance through progressively difficult challenges. Master melee combat techniques while navigating classic fantasy environments in this casual adventure.\n\nKey Features\n\n• Sword and shield combat  \n• Timing-based parry system  \n• Progressive enemy difficulty  \n• Multi-stage quest levels  \n• Classic fantasy setting"
+},
+{
+"id": "heroic-quest",
+"title": "Heroic Quest",
+"iframe": "https://html5.gamedistribution.com/b5fef590edec426ab2bc78ba42564b5f/",
+"description": "Navigate puzzle-like environments by connecting mysterious artifacts to unlock secret chambers. This casual game combines pattern recognition with timed challenges to test player agility and logic. Progression occurs through increasingly intricate levels, each revealing new layers of the enigma and subtle shifts in the gameplay rhythm.\n\nKey Features\n\n• Artifact linking core mechanic  \n• Tap and swipe controls  \n• Time-based level challenges  \n• Puzzle difficulty scaling  \n• Ancient ruin aesthetic elements"
+},
+{
+"id": "bullet-heroes",
+"title": "Bullet Heroes",
+"iframe": "https://html5.gamedistribution.com/366a198cba9742ad9a755dbef736743c/",
+"description": "Dodge incoming projectiles while controlling fast-paced character movement in this action-packed casual game. Players master timing and positioning to survive waves of enemies and avoid bullet patterns. Each level escalates with more complex attack sequences, requiring sharp reflexes and strategic dodging to progress through intense challenges.\n\nKey Features\n\n• Precision dodging mechanics  \n• Responsive character controls  \n• Increasing wave difficulty  \n• Timed survival challenges  \n• Colorful arcade-style visuals"
+},
+{
+"id": "jetpack-heroes",
+"title": "Jetpack Heroes",
+"iframe": "https://html5.gamedistribution.com/ac413184a32546f483b0b39ccd2af9ae/",
+"description": "Soar through dynamic levels using a jetpack, navigating vertical obstacles while collecting items with precise flight controls. Players must manage fuel carefully to reach checkpoints, making strategic use of thrust and momentum to advance. The game challenges timing and spatial awareness within fast-paced airborne segments designed for casual play.\n\nKey Features\n\n• Jetpack fuel management system  \n• Precision thrust flight controls  \n• Obstacle navigation challenges  \n• Checkpoint progression mechanic  \n• Airborne arcade level design"
+},
+{
+"id": "cage-busters-slingshot-heroes",
+"title": "Cage Busters: Slingshot Heroes",
+"iframe": "https://html5.gamedistribution.com/93153716d48d41a18c82f3ebb4e694a4/",
+"description": "Launch precise slingshot shots to break free trapped characters while navigating through intricately designed cages. Players must master trajectory aiming and timing mechanics to overcome escalating structural puzzles. Levels challenge with unique cage formations requiring strategic shot placement to release all heroes and clear the stage.\n\nKey Features\n\n• Precision trajectory aiming system  \n• Timing-based shot mechanic  \n• Progressive cage complexity levels  \n• Multiple character rescue objectives  \n• Casual puzzle shooting gameplay"
+},
+{
+"id": "lost-heroes",
+"title": "Lost Heroes",
+"iframe": "https://html5.gamedistribution.com/0a0e049a97ae482aab92c03a39e2abea/",
+"description": "Navigate mysterious environments using precise timing and logic puzzles to guide your characters through each challenge. The game blends spatial reasoning with progressive unlocks that test patience and wit across uniquely crafted levels. Players focus on unlocking paths and solving intricate puzzles to reunite scattered groups of heroes.\n\nKey Features\n\n• Timing-based puzzle mechanics  \n• Character group coordination  \n• Level unlock progression system  \n• Pathfinding challenge elements  \n• Subtle fantasy adventure theme"
+},
+{
+"id": "infinite-heroes",
+"title": "Infinite Heroes",
+"iframe": "https://html5.gamedistribution.com/b30cbdd7de794f779fee2875a017d159/",
+"description": "Navigate endless waves of foes using a combination of timing and strategy, harnessing a core mechanic centered around dynamic ability chaining. The setting blends vibrant, ever-changing arenas with escalating difficulty, inviting players to adapt their tactics on the fly. Your goal is to survive as long as possible while unlocking new skill interactions and overcoming layered enemy patterns.\n\nKey Features\n\n• Dynamic ability chaining system  \n• Responsive tactical controls  \n• Increasing enemy wave difficulty  \n• Progressive skill unlocks  \n• Vibrant arena environments"
+},
+{
+"id": "clash-of-heroes",
+"title": "Clash of Heroes",
+"iframe": "https://html5.gamedistribution.com/abdddd162970413c8e05be57b2df8ab1/",
+"description": "Match strategic units across colorful puzzle grids to clear pathways and defeat waves of opponents. Combining tactical placement with chain reactions, players unlock new challenges and refine strategies through progressive levels. The game challenges casual players to optimize moves and capitalize on combo mechanics for victory.\n\nKey Features\n\n• Tile-matching tactical combat  \n• Chain reaction combo system  \n• Progressive puzzle difficulty  \n• Unit placement strategy  \n• Casual-friendly visual style"
+},
+{
+"id": "raid-heroes-sword-and-magic",
+"title": "Raid Heroes: Sword and Magic",
+"iframe": "https://html5.gamedistribution.com/7f68896426114510b1d5271bbb63a22b/",
+"description": "Deploy heroes to engage in tactical battles combining swordplay and spellcasting in a casual fantasy environment. Command individual characters, each wielding unique weapons and magic abilities, to overcome waves of enemies and complete mission objectives. Progress through levels by managing resources and unlocking new skills to refine your combat strategy.\n\nKey Features\n\n• Character-specific sword and magic combat  \n• Tactical squad movement controls  \n• Level-based enemy wave progression  \n• Skill unlocking and upgrade system  \n• Fantasy-themed battle arenas"
+},
+{
+"id": "funny-heroes-emergency",
+"title": "Funny Heroes Emergency",
+"iframe": "https://html5.gamedistribution.com/cc153e6e3ce047ddab19ab8b385b4ef1/",
+"description": "Control a squad of quirky heroes navigating emergency scenarios filled with timed puzzles and quick reflex challenges. Experiment with character-specific abilities to overcome obstacles and manage chaotic environments. Levels escalate in difficulty introducing new hazards and requiring strategic use of each hero’s unique skills to resolve crises efficiently.\n\nKey Features\n\n• Character ability swapping system  \n• Timed puzzle resolution mechanics  \n• Increasing hazard complexity  \n• Multi-stage emergency scenarios  \n• Cartoonish visual emergency theme"
+},
+{
+"id": "heroes-towers",
+"title": "Heroes Towers",
+"iframe": "https://html5.gamedistribution.com/f0acb78b3b1f48da81db48cac3f84b29/",
+"description": "Manage multiple towers by upgrading and defending them against waves of enemies in this strategic casual game. Players balance resource allocation and timing to maximize tower efficiency and protect their base from increasingly difficult threats. The game features diverse tower types with distinct attack styles, requiring adaptive strategies to progress through escalating challenge levels.\n\nKey Features\n\n• Multi-tower defense management  \n• Resource allocation mechanics  \n• Progressive enemy wave difficulty  \n• Upgrade and placement strategy  \n• Fantasy-themed battle environment"
+},
+{
+"id": "angry-heroes",
+"title": "Angry Heroes",
+"iframe": "https://html5.gamedistribution.com/d628d0c891494139b9f04f556caf23b0/",
+"description": "Control unique characters as they clash through dynamic level progression in Angry Heroes. Players deploy strategic moves to overcome waves of enemies using varied attack styles and timed combos. The game challenges reflexes and decision-making in a vibrant casual setting focused on quick, engaging encounters within each stage.\n\nKey Features\n\n• Character-specific combat styles  \n• Precision timing attack system  \n• Progressive enemy wave difficulty  \n• Quick-stage challenge mode  \n• Colorful casual gameplay design"
+},
+{
+"id": "heroes-inc",
+"title": "Heroes Inc!",
+"iframe": "https://html5.gamedistribution.com/96786b8279e147bca97f7a50e2dac08b/",
+"description": "Master stealthy movements and tactical decision-making to lead a dynamic team through unpredictable challenges. This casual title blends intuitive controls with varied mission objectives that test reflexes and strategy. Players unlock new abilities and navigate evolving stages, adapting to different scenarios aimed at achieving team success in a variety of environments and obstacles.\n\nKey Features\n\n• Squad-based tactical control  \n• Adaptive mission objectives  \n• Ability upgrade system  \n• Progressive level challenges  \n• Casual strategic gameplay"
+},
+{
+"id": "heroes-of-mangara-the-frost-crown",
+"title": "Heroes of Mangara. The Frost Crown",
+"iframe": "https://html5.gamedistribution.com/b30c9c75aea74e16834f3b1cc14c9d42/",
+"description": "Command strategic units across frozen battlefields collecting relics to claim the Frost Crown. Maneuver diverse hero types while managing tactical positioning and resource gathering in icy environments. Unlock new areas and face increasing defensive challenges as you aim to dominate contested zones and secure your victory in layered encounter stages.\n\nKey Features\n\n• Tactical hero positioning system  \n• Resource gathering and management  \n• Progressive zone control challenges  \n• Unlockable strategic battlefields  \n• Icy-themed environmental hazards"
+},
+{
+"id": "heroes-of-mangara",
+"title": "Heroes of Mangara",
+"iframe": "https://html5.gamedistribution.com/af4195c9d1c2421bb8ecacae6af1892a/",
+"description": "Explore strategic battles by commanding unique heroes across dynamic hex-grid maps in this casual adventure. Utilize turn-based combat tactics and character-specific abilities to overcome enemy forces. Progress through diverse stages with challenge ramps that test both planning and timing, offering an engaging mix of puzzle and RPG elements for teens and kids alike.\n\nKey Features\n\n• Turn-based hex-grid combat  \n• Unique hero ability system  \n• Progressive stage difficulty scaling  \n• Tactical positioning mechanics  \n• Casual fantasy adventure theme"
+},
+{
+"id": "loot-heroes",
+"title": "Loot Heroes",
+"iframe": "https://html5.gamedistribution.com/bf2db88e1281450dba3a1ce798fda4d7/",
+"description": "Explore diverse heroes as you engage in real-time combat, utilizing ability cooldowns to strategically defeat waves of enemies and collect valuable loot throughout dungeon levels. Progression involves upgrading heroes and unlocking new equipment, with a fantasy-themed setting enhancing the immersive challenge. The core mechanic blends action and RPG elements to push players toward maximizing their character’s potential in battle.\n\nKey Features\n\n• Real-time ability cooldown combat  \n• Hero upgrade and customization  \n• Enemy wave survival challenge  \n• Loot-based progression system  \n• Fantasy dungeon exploration"
+},
+{
+"id": "loot-heroes-2",
+"title": "Loot Heroes 2",
+"iframe": "https://html5.gamedistribution.com/25fc2f9e7f9b4a28aa97e9fb4d94aa87/",
+"description": "Command enemies with varied heroes in strategic side-scrolling battles, deploying unique abilities and tactical timing to overcome waves of monsters. Progress through distinct levels where upgrading hero skills and team composition is crucial to survive escalating challenges. Modes include solo campaigns and cooperative play, set in a vibrant fantasy world filled with mythical creatures.\n\nKey Features\n\n• Hero-based squad combat  \n• Skill upgrade and customization  \n• Wave survival challenge system  \n• Cooperative multiplayer mode  \n• Fantasy-themed enemy designs"
+},
+{
+"id": "royal-heroes",
+"title": "Royal Heroes",
+"iframe": "https://html5.gamedistribution.com/f72fa0871967454ab6e2bfde8113e7fc/",
+"description": "Command armies of unique units to conquer territory in dynamic match-based battles, using strategic placement and timing to overcome AI opponents. Progress through diverse levels that increase in difficulty, adapting your tactics to unlock new stages and refine your approach. Success hinges on managing unit abilities and battlefield positioning to dominate the map.\n\nKey Features\n\n• Turn-based unit deployment  \n• Tactical battlefield control  \n• Progressive level difficulty  \n• Unlockable strategic units  \n• Medieval fantasy setting"
+},
+{
+"id": "hurdles-heroes",
+"title": "Hurdles Heroes",
+"iframe": "https://html5.gamedistribution.com/24238ae04d7c486eb3810964d2fe5103/",
+"description": "Leap over dynamic hurdle sequences to master timing and rhythm in this casual browser game. Players control a sprinter navigating track obstacles using precise jumps and pace adjustments. The challenge lies in maintaining momentum across increasingly complex levels to claim victory. The game introduces variable hurdle heights and spacing to test reflexes and coordination.\n\nKey Features\n\n• Timing-based jumping mechanic  \n• Sprint speed control system  \n• Increasing hurdle difficulty levels  \n• Progressive obstacle spacing variations  \n• Track and field athletic setting"
+},
+{
+"id": "moon-clash-heroes",
+"title": "Moon Clash Heroes",
+"iframe": "https://html5.gamedistribution.com/484fd9160d3f481d86e21506de376b0c/",
+"description": "Engage in fast-paced arena battles controlling unique heroes with diverse abilities and dynamic movement. Players must tactically combine attacks and defensive moves to outlast opponents in varied game modes, mastering ability cooldowns and positioning to dominate each round. The setting blends vibrant, action-packed environments where skillful timing is key to victory.\n\nKey Features\n\n• Hero-based combat mechanics  \n• Ability cooldown management  \n• Tactical movement and positioning  \n• Multiple competitive game modes  \n• Colorful arena battle settings"
+},
+{
+"id": "sprinter-heroes",
+"title": "Sprinter Heroes",
+"iframe": "https://html5.gamedistribution.com/447ee332cf1c4fe18b46206ad3e1a754/",
+"description": "Race through dynamic obstacle courses using quick reflexes and timed sprints to outpace rivals in this casual platform game. Precision in jumping and dodging is crucial as players navigate fast-paced stages with escalating difficulty. Progress unlocks new environments and challenges that test agility and speed consistency.\n\nKey Features\n\n• Timing-based sprint mechanic  \n• Responsive character movement controls  \n• Increasing obstacle complexity  \n• Stage progression with unlockable levels  \n• Colorful casual platform environments"
+},
+{
+"id": "sugar-heroes",
+"title": "Sugar Heroes",
+"iframe": "https://html5.gamedistribution.com/b24567e39b5248eabe77a704dbb555a9/",
+"description": "Match and clear colorful candy pieces to achieve level targets in this casual puzzle game. Players engage with a swap-to-match mechanic, combining adjacent sweets to trigger chain reactions and unlock new board configurations. Success depends on strategic moves within limited turns, progressing through increasingly intricate layouts suitable for all ages.\n\nKey Features\n\n• Swap-to-match puzzle mechanic  \n• Limited move challenge system  \n• Chain reaction combo scoring  \n• Gradual board complexity progression  \n• Colorful candy-themed visuals"
+},
+{
+"id": "afk-heroes",
+"title": "AFK HEROES",
+"iframe": "https://html5.gamedistribution.com/643bb9ee47f34067a862104065e0bd66/",
+"description": "Manage idle hero battles through strategic upgrades and team formation in a casual fantasy setting. Players guide their characters to automatically fight waves of enemies while optimizing gear and abilities to maximize damage output. Progression relies on balancing resource collection and enhancing heroes to overcome increasingly difficult foes and unlock new stages.\n\nKey Features\n\n• Idle combat with automated attacks  \n• Hero upgrade and gear management  \n• Wave-based enemy progression system  \n• Team synergy and formation tactics  \n• Casual fantasy-themed interface"
+},
+{
+"id": "heroes-legend",
+"title": "Heroes Legend",
+"iframe": "https://html5.gamedistribution.com/9e2b193d046342f0b25f5366f2df7d9b/",
+"description": "Guide characters through puzzles using pattern matching and timed reflexes in a colorful casual setting. Players combine elemental orbs to unlock new levels and face increasing difficulty, testing quick thinking within charming environments. Progression depends on strategic moves across vibrant stages, offering a light challenge suited for teens and kids.\n\nKey Features\n\n• Element matching puzzle mechanics  \n• Tap and drag control scheme  \n• Progressive level difficulty scaling  \n• Time-limited challenge modes  \n• Bright casual visual design"
+},
+{
+"id": "uno-heroes",
+"title": "UNO Heroes",
+"iframe": "https://html5.gamedistribution.com/1478c9ad8c9a4a1aa38880c871d10e96/",
+"description": "Match cards by color or number while managing special action cards to outplay opponents in a fast-paced turn-based setting. Players focus on strategic card placement and timing to reduce their hand before rivals, navigating card draws and skip turns. The gameplay challenges quick thinking and adaptive tactics to claim victory in casual multiplayer rounds.\n\nKey Features\n\n• Color and number matching mechanic  \n• Turn-based player actions  \n• Special action card effects  \n• Progressive hand reduction challenge  \n• Casual card game pacing"
+},
+{
+"id": "fantasy-heroes",
+"title": "Fantasy Heroes",
+"iframe": "https://html5.gamedistribution.com/2cf8bb9dde454899b274d03f8e44c496/",
+"description": "Embark on strategic team battles by commanding diverse fantasy heroes with unique abilities. Navigate dynamic combat arenas where timing and skill usage shape victory. Build your party through progression and unlock powerful skills to overcome increasingly tough opponents. This casual experience blends character growth with tactical challenges for approachable yet engaging gameplay.\n\nKey Features\n\n• Ability-based hero control  \n• Party formation strategy  \n• Skill upgrade progression  \n• PvP and cooperative modes  \n• Fantasy-themed combat arenas"
+},
+{
+"id": "pilot-heroes",
+"title": "Pilot Heroes",
+"iframe": "https://html5.gamedistribution.com/982da94f9cfb4b0c86b5216b3f384509/",
+"description": "Fly through challenging aerial courses using precise controls in this casual flying game. Players navigate diverse obstacles while mastering gradual speed and altitude adjustments to reach checkpoints. Movement depends on timing and smooth coordination, offering a laid-back pace suited for younger or less experienced pilots aiming to improve their skills.\n\nKey Features\n\n• Precision-based flight controls  \n• Navigational obstacle challenges  \n• Progressive checkpoint system  \n• Speed and altitude management  \n• Casual aviation-themed gameplay"
+},
+{
+"id": "heroes-of-myths",
+"title": "Heroes of Myths",
+"iframe": "https://html5.gamedistribution.com/553949bb2a284dda91b17d118b4ccb17/",
+"description": "Navigate mythical realms as you assemble teams of legendary heroes with unique abilities to overcome tactical battles. Command varied units using turn-based strategy that tests positioning and timing against challenging foes. Progress through escalating encounters where mastering hero synergy unlocks new strengths and strategies suited for casual players and younger audiences.\n\nKey Features\n\n• Turn-based tactical combat  \n• Hero ability synergy system  \n• Progressive challenge scaling  \n• Team formation strategy  \n• Fantasy-inspired character roster"
+},
+{
+"id": "rugby-down-heroes",
+"title": "Rugby Down Heroes",
+"iframe": "https://html5.gamedistribution.com/eb67fe18b1a14eaa96da36333d8ccc20/",
+"description": "Control agile rugby players as they dash, pass, and tackle through dynamic casual matches, mastering fast-paced ball handling and strategic positioning. Progress by overcoming increasingly skilled AI opponents across varied small-scale pitches, with a focus on timing passes and scoring tries. Each round tests your reflexes and team coordination in compact rugby encounters.\n\nKey Features\n\n• Responsive player movement controls  \n• Time-based passing mechanic  \n• Skill-matched AI opponents  \n• Score-driven level progression  \n• Simplified rugby field layouts"
+},
+{
+"id": "city-heroes",
+"title": "City Heroes",
+"iframe": "https://html5.gamedistribution.com/00d0edc019ba4a4da221a1579fc28f56/",
+"description": "Navigate through dynamic urban obstacles using quick reflexes and careful timing in this casual browser game. Players rely on precise movement and strategic positioning to overcome various city-centered challenges. As progression unfolds, increasing environmental hazards and crowd density test player adaptability and skill. The game balances simple controls with escalating difficulty to engage casual gamers and younger audiences.\n\nKey Features\n\n• Precision timing movement mechanic  \n• Urban obstacle navigation system  \n• Gradual difficulty ramp with hazards  \n• Score-based level progression  \n• City-themed casual gameplay setting"
+},
+{
+"id": "count-masters-superhero",
+"title": "Count Masters Superhero",
+"iframe": "https://html5.gamedistribution.com/1c13e10d8e4049b98b3e20cfd685ee37/",
+"description": "Navigate chaotic obstacle courses with a crowd of colorful characters in this casual game, where commanding groups through dynamic level layouts is key. Players must manage their runners’ movement speed and positioning to overcome barriers and rival squads. Progression involves timing runs and expanding the team, adding a layer of strategy to each stage’s pace and flow.\n\nKey Features\n\n• Group control crowd mechanics  \n• Timing-based movement system  \n• Progressive team size growth  \n• Obstacle course navigation  \n• Casual multiplayer race theme"
+},
+{
+"id": "the-superhero-league",
+"title": "The Superhero League",
+"iframe": "https://html5.gamedistribution.com/fd9317037d2c44efb6e56d2e26f446cf/",
+"description": "Lead powerful heroes through diverse missions, using unique abilities to overcome obstacles and enemies in a casual setting. Players develop their team by unlocking skills and managing resources to succeed in challenges. Progression depends on strategic choices and timing, with a mix of action and tactical gameplay elements enhancing the experience.\n\nKey Features\n\n• Hero ability upgrade system  \n• Tactical team positioning controls  \n• Mission-based level progression  \n• Resource management mechanics  \n• Casual superhero theme integration"
+},
+{
+"id": "superhero-drop-and-save",
+"title": "Superhero Drop and Save",
+"iframe": "https://html5.gamedistribution.com/53d71cac67b74ae4960205d8c52c6773/",
+"description": "Navigate descending platforms to catch falling objects using precise timing in this casual browser game. Players tap and swipe to control a superhero’s position while avoiding hazards and collecting bonuses. Challenging increasingly fast drop speeds test reflexes and accuracy, with each level pushing players to improve their save rate and reaction time.\n\nKey Features\n\n• Platform navigation timing  \n• Touch and swipe controls  \n• Progressive falling speed  \n• Scoring based on catches  \n• Superhero costume variety"
+},
+{
+"id": "bullet-superhero",
+"title": "Bullet - Superhero",
+"iframe": "https://html5.gamedistribution.com/6cbd063e83ff487383ecf099bad30e7a/",
+"description": "Navigate fast-paced levels as a swift superhero using precise timing to overcome obstacles and enemies in dynamic urban environments. The game challenges players with rapid reflex control and physics-based movement, requiring mastery of jumping and dodging mechanics. Progress through increasing difficulty stages as you aim to survive and achieve high scores in each session.\n\nKey Features\n\n• Precision jump timing mechanic  \n• Physics-based obstacle navigation  \n• Progressive level difficulty scaling  \n• Reflex-driven enemy evasion  \n• Urban superhero action setting"
+},
+{
+"id": "superhero-dentist",
+"title": "Superhero Dentist",
+"iframe": "https://html5.gamedistribution.com/075d89f83740456fbe71488695189a34/",
+"description": "Perform dental procedures using superhero tools to rescue patients in a fast-paced casual setting. Players navigate through different cases demanding precise timing and tool selection to clean and fix teeth efficiently. The game challenges players to improve speed and accuracy across escalating levels while managing unusual dental conditions.\n\nKey Features\n\n• Timing-based tool usage  \n• Interactive patient treatment controls  \n• Progressive case difficulty scaling  \n• Special superhero gadget mechanics  \n• Casual dental clinic atmosphere"
+},
+{
+"id": "superhero-tower",
+"title": "Superhero Tower",
+"iframe": "https://html5.gamedistribution.com/d94419206e2a4f6ba5daa9a52f0afc42/",
+"description": "Build and defend a towering stronghold by strategically placing superhero units that fend off waves of advancing enemies. The game blends tactical tower placement with real-time hero abilities to overcome escalating threats. Progress through increasingly challenging levels where positioning and timing determine your success against relentless foes.\n\nKey Features\n\n• Tactical hero placement system  \n• Real-time ability activation  \n• Progressive enemy wave difficulty  \n• Upgradeable defensive towers  \n• Urban cityscape tower setting"
+},
+{
+"id": "flappy-superhero-dunk",
+"title": "Flappy Superhero Dunk",
+"iframe": "https://html5.gamedistribution.com/82c40f3c28ec4d76be602aaa5cc63ba3/",
+"description": "Navigate a flying superhero through vertically scrolling obstacles by precise tapping to keep airborne momentum while executing timing-based dunks. The game combines flapping mechanics with basketball-inspired goal scoring, challenging players to balance flight control and dunk accuracy across increasingly tricky stages. Each successful dunk pushes progression and scores points in dynamic settings.\n\nKey Features\n\n• Tap controlled flight momentum  \n• Timing-based dunk execution  \n• Increasing stage difficulty levels  \n• Score multiplier combo system  \n• Cartoon superhero aerial theme"
+},
+{
+"id": "flick-superhero",
+"title": "Flick Superhero",
+"iframe": "https://html5.gamedistribution.com/030c951be5df4b0b833642ddaf66f40c/",
+"description": "Use flick gestures to launch your superhero through challenging obstacle courses, testing your timing and precision. Navigate through levels where quick reflexes and strategic flicks determine success, aiming to reach new high scores. Each stage adds fresh complications and demands faster reactions as you master the flick-based movement system.\n\nKey Features\n\n• Flick gesture movement controls  \n• Time-sensitive obstacle navigation  \n• Progressive difficulty stages  \n• Score-based challenge modes  \n• Superhero action theme"
+},
+{
+"id": "punch-superhero",
+"title": "Punch Superhero",
+"iframe": "https://html5.gamedistribution.com/d3bb4c75312f407789ad98651f02d1f6/",
+"description": "Throw punches with timing and precision to defeat waves of opponents in a fast-paced casual brawler. Players master combo sequences and dodge mechanics to advance through increasingly challenging rounds. The game focuses on hand-to-hand combat skill progression as you take on diverse enemy types across simple but engaging stages.\n\nKey Features\n\n• Combo-based punch system  \n• Responsive player input controls  \n• Increasing enemy difficulty tiers  \n• Time attack challenge mode  \n• Stylized urban fight setting"
+},
+{
+"id": "kawaii-superhero-avatar-maker",
+"title": "Kawaii Superhero Avatar Maker",
+"iframe": "https://html5.gamedistribution.com/6d4e5506bf5c4134861540bc61b3541f/",
+"description": "Customize adorable superheroes with a wide range of facial features and costumes in this character creation game. Players experiment with sliders and selection menus to design unique avatars, using a detailed layering system for outfits and accessories. The main task is to craft distinct looks by combining visual elements, targeting casual gamers who enjoy creative personalization.\n\nKey Features\n\n• Layer-based character customization  \n• Facial feature adjustment sliders  \n• Costume and accessory selection  \n• Save and share avatar designs  \n• Kawaii style art options"
+},
+{
+"id": "superhero-toy-shop",
+"title": "Superhero Toy Shop",
+"iframe": "https://html5.gamedistribution.com/c94ef33278824e48b28c6eb1f0e5def8/",
+"description": "Manage a bustling toy shop tailored for superhero fans, combining inventory control with customer service strategy. Players arrange and sell themed toys, using time management and sorting mechanics to meet unique demand challenges. The game blends casual shop simulation with character-driven interactions, focusing on stock rotation and satisfying varied superhero enthusiasts.\n\nKey Features\n\n• Toy sorting and categorization  \n• Customer interaction timing  \n• Inventory restocking challenges  \n• Time management gameplay loops  \n• Superhero-themed merchandise"
+},
+{
+"id": "guess-the-superhero",
+"title": "Guess the Superhero",
+"iframe": "https://html5.gamedistribution.com/2f716e8f3e0d4feaa574422a668c6eab/",
+"description": "Identify superheroes from silhouette clues by selecting the correct character name quickly. The core mechanic relies on pattern recognition with timed guessing, testing players’ ability to recall iconic costume shapes and poses. Progressing through multiple rounds with increasing silhouette complexity challenges your memory and speed while keeping a comic-inspired vibe.\n\nKey Features\n\n• Silhouette puzzle identification  \n• Timed multiple-choice guessing  \n• Difficulty escalation by round  \n• Score tracking and leaderboards  \n• Comic hero visual theme"
+},
+{
+"id": "web-shot-spider-superhero",
+"title": "Web Shot: Spider Superhero",
+"iframe": "https://html5.gamedistribution.com/58db9e0efb65455ba928d4e8fb270cf2/",
+"description": "Swing through urban rooftops controlling web-shooting movements to defeat enemies in dynamic levels. Players utilize precise timing and aerial momentum to navigate challenging terrain while engaging in fast-paced combat. The game’s unique mechanic revolves around web-based traversal that tests reflexes as players face waves of villains aiming to halt their progress.\n\nKey Features\n\n• Web shooting traversal mechanic  \n• Aerial swinging controls  \n• Progressive enemy wave challenges  \n• Time attack scoring system  \n• Urban superhero setting"
+},
+{
 "id": "design-with-me-superhero-tutu-outfits",
 "title": "Design With Me SuperHero Tutu Outfits",
 "iframe": "https://html5.gamedistribution.com/51d6df943434489286ee27d5034a3c77/",
