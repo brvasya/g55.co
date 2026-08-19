@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "snake-duel",
+"title": "Snake Duel",
+"iframe": "https://html5.gamedistribution.com/8b15910a7ae247da9b36923bded72e32/",
+"description": "Control serpentine avatars in fast-paced head-to-head challenges where quick reflexes and strategic movement determine the victor. Navigate twisting arenas with precise directional inputs while avoiding opponents’ attacks and environmental hazards. The game emphasizes real-time positioning and collision tactics, pushing players to outmaneuver rivals in escalating match rounds.\n\nKey Features\n\n• Real-time snake movement control  \n• Competitive arena dueling system  \n• Reflex-based collision avoidance  \n• Progressive round elimination format  \n• Minimalist top-down visual style"
+},
+{
 "id": "snake-attack-shooter",
 "title": "Snake Attack Shooter",
 "iframe": "https://html5.gamedistribution.com/06ddc678a24c424785b944ab4ef5719e/",

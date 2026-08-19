@@ -1,6 +1,12 @@
 {
 "pages": [
 {
+"id": "grand-fruit-connect",
+"title": "Grand Fruit Connect",
+"iframe": "https://html5.gamedistribution.com/579a9818703d4aaba116bca2616432fe/",
+"description": "Match and link colorful fruit tiles to clear the board in a puzzle layout relying on pattern recognition and strategic planing. Players connect adjacent fruits to form chains and aim to reach level-specific targets or time goals. The game challenges spatial logic through its grid-based mechanic, engaging casual players with smooth tile swapping and combo building.\n\nKey Features\n\n• chain connection mechanic  \n• swipe tile control system  \n• level-based target progression  \n• combo scoring multiplier  \n• vibrant fruit tile visuals"
+},
+{
 "id": "summer-onet-connect",
 "title": "Summer Onet Connect",
 "iframe": "https://html5.gamedistribution.com/57dccdd922f146b6be9171c5041e810f/",
