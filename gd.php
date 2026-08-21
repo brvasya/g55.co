@@ -22,29 +22,6 @@ if ($page < 1 || $page > 500) {
     exit;
 }
 
-function make_id_from_title(string $title): string {
-    $s = trim($title);
-    if ($s === '') return '';
-
-    $s = mb_strtolower($s, 'UTF-8');
-
-    if (function_exists('iconv')) {
-        $t = @iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $s);
-        if ($t !== false && $t !== '') $s = $t;
-    }
-
-    $s = preg_replace('/[^a-z0-9]+/i', '-', $s);
-    $s = trim($s, '-');
-    $s = preg_replace('/-+/', '-', $s);
-
-    if (strlen($s) > 120) {
-        $s = substr($s, 0, 120);
-        $s = rtrim($s, '-');
-    }
-
-    return $s;
-}
-
 function pick_iframe(array $item): string {
     if (!empty($item['Url']) && is_string($item['Url'])) return trim($item['Url']);
 
@@ -377,7 +354,13 @@ foreach ($items as $item) {
 
     if ($title === '') continue;
 
-    $id = make_id_from_title($title);
+    $id = '';
+    if (isset($item['Md5']) && is_string($item['Md5'])) {
+        $id = trim($item['Md5']);
+    } elseif (isset($item['md5']) && is_string($item['md5'])) {
+        $id = trim($item['md5']);
+    }
+
     if ($id === '') continue;
 
     if (isset($seenIdsInRun[$id])) continue;
