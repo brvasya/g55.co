@@ -128,160 +128,6 @@ def save_json_file(path: str, items: list, wrapper, mode: str):
         json.dump(payload, f, ensure_ascii=False, indent=0)
 
 
-def category_keyword_from_filename(name: str) -> str:
-    name = os.path.splitext((name or "").strip())[0]
-    return name.lower().replace("-", " ").strip()
-
-
-def tokenize_text(s: str) -> list[str]:
-    s = (s or "").strip().lower().replace("-", " ")
-    parts = []
-    cur = ""
-    for ch in s:
-        if ch.isalnum():
-            cur += ch
-        else:
-            if cur:
-                parts.append(cur)
-                cur = ""
-    if cur:
-        parts.append(cur)
-    return parts
-
-
-def singularize_token(t: str) -> str:
-    t = (t or "").strip().lower()
-    if len(t) < 4:
-        return t
-
-    if t.endswith("ies") and len(t) > 4:
-        return t[:-3] + "y"
-
-    if t.endswith("es") and len(t) > 4:
-        base = t[:-2]
-        if base.endswith(("s", "x", "z")) or base.endswith(("ch", "sh")):
-            return base
-
-    if t.endswith("s") and not t.endswith("ss") and len(t) > 3:
-        return t[:-1]
-
-    return t
-
-
-def gerund_to_base_token(t: str) -> str:
-    t = (t or "").strip().lower()
-    if len(t) < 6 or not t.endswith("ing"):
-        return t
-
-    stem = t[:-3]
-    if len(stem) < 3:
-        return t
-
-    if len(stem) >= 2 and stem[-1] == stem[-2] and stem[-1] not in "aeiou":
-        stem = stem[:-1]
-
-    if stem.endswith(("ac", "ag", "at", "iv", "iz", "us", "ov", "ul", "ur")):
-        return stem + "e"
-
-    return stem
-
-
-def agent_noun_to_base_token(t: str) -> str:
-    t = (t or "").strip().lower()
-    if len(t) < 5:
-        return t
-
-    if t.endswith("ier") and len(t) > 4:
-        return t[:-3] + "y"
-
-    if t.endswith("er") and len(t) > 4:
-        stem = t[:-2]
-
-        if len(stem) >= 2 and stem[-1] == stem[-2] and stem[-1] not in "aeiou":
-            stem = stem[:-1]
-
-        if stem.endswith(("ac", "ag", "at", "iv", "iz", "us", "ov", "ul", "ur")):
-            return stem + "e"
-
-        return stem
-
-    return t
-
-
-def normalize_token_variants(t: str) -> set[str]:
-    t = (t or "").strip().lower()
-    if not t:
-        return set()
-
-    out = {t}
-
-    s = singularize_token(t)
-    out.add(s)
-
-    g = gerund_to_base_token(t)
-    out.add(g)
-    out.add(singularize_token(g))
-
-    a = agent_noun_to_base_token(t)
-    out.add(a)
-    out.add(singularize_token(a))
-
-    return {x for x in out if x}
-
-
-def normalized_forms_for_text(s: str) -> list[set[str]]:
-    return [normalize_token_variants(tok) for tok in tokenize_text(s)]
-
-
-def keyword_matches_title(title: str, keyword: str) -> bool:
-    keyword_tokens = tokenize_text(keyword)
-    title_forms = normalized_forms_for_text(title)
-
-    if not keyword_tokens or not title_forms:
-        return False
-
-    if len(keyword_tokens) > len(title_forms):
-        return False
-
-    normalized_keyword_tokens = []
-    for tok in keyword_tokens:
-        variants = normalize_token_variants(tok)
-        normalized_keyword_tokens.append(variants)
-
-    k = len(normalized_keyword_tokens)
-    for i in range(0, len(title_forms) - k + 1):
-        ok = True
-        for j in range(k):
-            if title_forms[i + j].isdisjoint(normalized_keyword_tokens[j]):
-                ok = False
-                break
-        if ok:
-            return True
-
-    return False
-
-
-def count_title_keyword_matches(pages, keyword: str) -> int:
-    keyword = (keyword or "").strip().lower().replace("-", " ")
-    if not keyword:
-        return 0
-
-    count = 0
-    for it in pages:
-        title = str(it.get("title", "")).strip()
-        if keyword_matches_title(title, keyword):
-            count += 1
-    return count
-
-
-def title_matches_keyword(title: str, keyword: str) -> bool:
-    keyword = (keyword or "").strip().lower().replace("-", " ")
-    title = (title or "").strip()
-    if not keyword:
-        return False
-    return keyword_matches_title(title, keyword)
-
-
 def description_has_bullet(description: str) -> bool:
     return "•" in str(description or "")
 
@@ -330,16 +176,8 @@ def find_duplicate_title_indexes(items) -> set[int]:
     return find_duplicate_field_indexes(items, "title")
 
 
-def find_duplicate_iframe_indexes(items) -> set[int]:
-    return find_duplicate_field_indexes(items, "iframe")
-
-
 def count_duplicate_titles(items) -> int:
     return len(find_duplicate_title_indexes(items))
-
-
-def count_duplicate_iframes(items) -> int:
-    return len(find_duplicate_iframe_indexes(items))
 
 
 class JsonGui(tk.Tk):
@@ -553,13 +391,9 @@ class JsonGui(tk.Tk):
             return
 
         completed = count_items_with_bullets(self.items)
-        file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
-        keyword = category_keyword_from_filename(file_name)
-        matched = count_title_keyword_matches(self.items, keyword)
         duplicate_titles = count_duplicate_titles(self.items)
-        duplicate_iframes = count_duplicate_iframes(self.items)
 
-        text = f"Descriptions: {completed}/{total}   Titles: {matched}/{total}   Dup titles: {duplicate_titles}   Dup iframes: {duplicate_iframes}"
+        text = f"Descriptions: {completed}/{total}   Dup titles: {duplicate_titles}"
         self.set_status(f"{prefix}  {text}" if prefix else text)
 
     def refresh_category_list(self):
@@ -654,7 +488,7 @@ class JsonGui(tk.Tk):
             messagebox.showerror("Load failed", f"Could not load JSON:\n{e}")
             self.set_status("Load failed")
 
-    def save_json(self, silent: bool = True) -> bool:
+    def save_json(self) -> bool:
         if not self.current_file:
             return False
         try:
@@ -666,7 +500,7 @@ class JsonGui(tk.Tk):
             return False
 
     def autosave(self) -> bool:
-        return self.save_json(silent=True)
+        return self.save_json()
 
     def refresh_list(self):
         self.listbox.delete(0, tk.END)
@@ -680,18 +514,14 @@ class JsonGui(tk.Tk):
                     self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
             return
 
-        file_name = os.path.basename(self.current_file) if self.current_file else self.file_var.get()
-        keyword = category_keyword_from_filename(file_name)
         duplicate_title_indexes = find_duplicate_title_indexes(self.items)
-        duplicate_iframe_indexes = find_duplicate_iframe_indexes(self.items)
-        duplicate_indexes = duplicate_title_indexes | duplicate_iframe_indexes
 
         for idx, it in enumerate(self.items):
             label = it.get("title") or it.get("id") or "(empty)"
             self.listbox.insert(tk.END, label)
 
             has_bullet = description_has_bullet(it.get("description", ""))
-            is_duplicate = idx in duplicate_indexes
+            is_duplicate = idx in duplicate_title_indexes
 
             if is_duplicate:
                 self.listbox.itemconfig(idx, bg="#fff1b8", fg="#7a5200")
@@ -707,10 +537,7 @@ class JsonGui(tk.Tk):
         if current_id:
             return
 
-        if self.is_root_categories_mode():
-            value = self.title_var.get().strip()
-        else:
-            value = self.title_var.get().strip()
+        value = self.title_var.get().strip()
 
         if not value:
             return
@@ -823,7 +650,7 @@ class JsonGui(tk.Tk):
             f"Found {len(self.search_matches)} match(es) by {label}   Showing {self.search_pos + 1}/{len(self.search_matches)}"
         )
 
-    def build_game_description_rule(self, game_title: str, category: str) -> str:
+    def build_game_description_rule(self, game_title: str) -> str:
         return f"""
 MASTER INDIVIDUAL GAME DESCRIPTION GENERATOR RULE V2 (PRODUCTION)
 
@@ -834,7 +661,6 @@ Style must resemble high quality gaming portal editorial content.
 
 INPUT VARIABLES
 - Game title: {game_title}
-- Primary category: {category}
 - Core mechanic: unknown
 - Theme or setting: unknown
 - Player goal: unknown
@@ -978,8 +804,8 @@ Before output ensure:
 END RULE
 """.strip()
 
-    def generate_description_text(self, client, game_title: str, category: str) -> str:
-        rule = self.build_game_description_rule(game_title, category)
+    def generate_description_text(self, client, game_title: str) -> str:
+        rule = self.build_game_description_rule(game_title)
         response = client.responses.create(
             model="gpt-4.1-mini",
             input=rule,
@@ -1011,7 +837,6 @@ END RULE
         ):
             return
 
-        category = category_keyword_from_filename(os.path.basename(self.current_file or ""))
         client = OpenAI(api_key=api_key)
         generated = 0
 
@@ -1024,7 +849,7 @@ END RULE
             self.update_idletasks()
 
             try:
-                text = self.generate_description_text(client, game_title, category)
+                text = self.generate_description_text(client, game_title)
             except Exception as e:
                 messagebox.showerror(
                     "Batch generation stopped",
@@ -1062,7 +887,6 @@ END RULE
 
         item = self.read_form()
         game_title = item.get("title", "").strip()
-        category = category_keyword_from_filename(os.path.basename(self.current_file or ""))
 
         if not game_title:
             messagebox.showwarning("Missing title", "Enter game title first.")
@@ -1075,7 +899,7 @@ END RULE
 
         try:
             client = OpenAI(api_key=api_key)
-            text = self.generate_description_text(client, game_title, category)
+            text = self.generate_description_text(client, game_title)
         except Exception as e:
             messagebox.showerror("OpenAI error", str(e))
             return
