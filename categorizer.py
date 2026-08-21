@@ -101,6 +101,7 @@ def singularize_token(t: str) -> str:
 
     ies_keep_e = {
         "zombies": "zombie",
+        "heroes": "hero",
     }
     if t in ies_keep_e:
         return ies_keep_e[t]
