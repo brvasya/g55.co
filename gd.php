@@ -133,26 +133,11 @@ function image_from_bytes(string $bytes): array {
     return [$im, "ok"];
 }
 
-function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): array {
+function resize_to_png($srcIm, int $dstW, int $dstH, string $outPath): array {
     $srcW = imagesx($srcIm);
     $srcH = imagesy($srcIm);
 
     if ($srcW <= 0 || $srcH <= 0) return [false, "bad_source_dimensions"];
-
-    $srcAspect = $srcW / $srcH;
-    $dstAspect = $dstW / $dstH;
-
-    if ($srcAspect > $dstAspect) {
-        $cropH = $srcH;
-        $cropW = (int)round($srcH * $dstAspect);
-        $srcX = (int)floor(($srcW - $cropW) / 2);
-        $srcY = 0;
-    } else {
-        $cropW = $srcW;
-        $cropH = (int)round($srcW / $dstAspect);
-        $srcX = 0;
-        $srcY = (int)floor(($srcH - $cropH) / 2);
-    }
 
     $dstIm = imagecreatetruecolor($dstW, $dstH);
     if ($dstIm === false) return [false, "dst_create_failed"];
@@ -162,7 +147,7 @@ function resize_cover_to_png($srcIm, int $dstW, int $dstH, string $outPath): arr
     $transparent = imagecolorallocatealpha($dstIm, 0, 0, 0, 127);
     imagefilledrectangle($dstIm, 0, 0, $dstW, $dstH, $transparent);
 
-    $ok = imagecopyresampled($dstIm, $srcIm, 0, 0, $srcX, $srcY, $dstW, $dstH, $cropW, $cropH);
+    $ok = imagecopyresampled($dstIm, $srcIm, 0, 0, 0, 0, $dstW, $dstH, $srcW, $srcH);
     if (!$ok) {
         imagedestroy($dstIm);
         return [false, "resample_failed"];
@@ -415,7 +400,7 @@ foreach ($items as $item) {
         continue;
     }
 
-    list($okSave, $st3) = resize_cover_to_png($srcIm, $thumbW, $thumbH, $outPath);
+    list($okSave, $st3) = resize_to_png($srcIm, $thumbW, $thumbH, $outPath);
     imagedestroy($srcIm);
 
     if (!$okSave) {
