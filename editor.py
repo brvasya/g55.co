@@ -690,14 +690,11 @@ class JsonGui(tk.Tk):
             label = it.get("title") or it.get("id") or "(empty)"
             self.listbox.insert(tk.END, label)
 
-            has_title_match = title_matches_keyword(it.get("title", ""), keyword)
             has_bullet = description_has_bullet(it.get("description", ""))
             is_duplicate = idx in duplicate_indexes
 
             if is_duplicate:
                 self.listbox.itemconfig(idx, bg="#fff1b8", fg="#7a5200")
-            elif not has_title_match:
-                self.listbox.itemconfig(idx, bg="#ffe5e5", fg="#a00000")
             elif not has_bullet:
                 self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
 
