@@ -205,16 +205,7 @@ function normalize_game_series_title(string $title): string {
 
 function detect_game_series_key(string $title): string {
     $words = array_values(array_filter(explode(' ', normalize_game_series_title($title))));
-
-    if (!$words) {
-        return '';
-    }
-
-    if (count($words) >= 1) {
-        return $words[0];
-    }
-
-    return '';
+    return $words[0] ?? '';
 }
 
 function build_game_series_clusters(array $pages): array {
@@ -240,10 +231,10 @@ function build_game_series_clusters(array $pages): array {
     return array_values($clusters);
 }
 
-function find_series_cluster_for_page(array $clusters, string $pageId): array {
+function find_game_cluster_for_page(array $clusters, string $pageId): array {
     foreach ($clusters as $cluster) {
         foreach ($cluster as $page) {
-            if ($page['id'] === $pageId) {
+            if (($page['id'] ?? '') === $pageId) {
                 return $cluster;
             }
         }
@@ -252,6 +243,36 @@ function find_series_cluster_for_page(array $clusters, string $pageId): array {
     return [];
 }
 
+function cluster_links_except_current(array $cluster, string $pageId): array {
+    return array_values(array_filter(
+        $cluster,
+        fn($page) => ($page['id'] ?? '') !== $pageId
+    ));
+}
+
 function series_cluster_title(array $cluster): string {
     return ucwords($cluster[0]['_series_key']);
 }
+
+function build_creator_clusters(array $pages): array {
+    $clusters = [];
+
+    foreach ($pages as $page) {
+        $creator = trim((string)($page['creator'] ?? ''));
+
+        if ($creator === '') {
+            continue;
+        }
+
+        $clusters[strtolower($creator)][] = $page;
+    }
+
+    foreach ($clusters as $key => $group) {
+        if (count($group) < 2) {
+            unset($clusters[$key]);
+        }
+    }
+
+    return array_values($clusters);
+}
+
