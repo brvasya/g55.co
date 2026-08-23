@@ -79,7 +79,7 @@ function pages_to_id_set(array $pages): array {
     return $ids;
 }
 
-function http_get_bytes(string $url, int $timeoutSeconds = 60, int $maxBytes = 128000000): array {
+function http_get_bytes(string $url, int $timeoutSeconds = 60, int $maxBytes = 256000000): array {
     if (!function_exists('curl_init')) return [null, "curl_missing"];
 
     $ch = curl_init($url);
