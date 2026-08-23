@@ -4,408 +4,476 @@
 "id": "620bc2ad63ca41b69bba637414be141f",
 "title": "2048 Ball Arena",
 "iframe": "https://html5.gamedistribution.com/620bc2ad63ca41b69bba637414be141f/",
+"creator": "Yunus Kahramanoğlu – Independent Developer",
 "description": "Navigate a dynamic ball arena where merging numbered tiles drives the core gameplay challenge. Players slide and combine matching tiles to climb scoring levels, aiming to reach higher numbers in a confined grid environment. Strategic movement is crucial as space quickly fills, testing planning and reaction in this casual puzzle setting.\n\nKey Features\n\n• Tile merging core mechanic  \n• Swipe based directional control  \n• Increasing grid congestion challenge  \n• Scoring progression with level unlocks  \n• Minimalist arena visual style"
 },
 {
 "id": "94f14de101df47568ffb9b5f91fa47f8",
 "title": "2048 Sort Factory",
 "iframe": "https://html5.gamedistribution.com/94f14de101df47568ffb9b5f91fa47f8/",
+"creator": "Crazy Pixel",
 "description": "Slide numbered tiles strategically across a compact grid to merge matching values while managing limited moves in this minimalistic puzzle. Players must combine tiles to reach higher numbers and clear space, balancing spatial reasoning with tile generation patterns. Each level challenges players to optimize merges under increasing complexity, testing foresight and tactical planning.\n\nKey Features\n\n• tile sliding and merging mechanic  \n• grid-based spatial puzzle control  \n• move limit progression challenge  \n• chain reaction merge system  \n• minimalist numeric tile design"
 },
 {
 "id": "2b02a32600534fe38857f28bae216ea7",
 "title": "2048 Snake.io",
 "iframe": "https://html5.gamedistribution.com/2b02a32600534fe38857f28bae216ea7/",
+"creator": "GamePush",
 "description": "Navigate a growing snake around the grid, strategically merging tiles while avoiding collisions to increase your score. Movement mimics classic snake controls combined with tile-merging mechanics, challenging players to balance expansion and spatial awareness. Collect numbered tiles to upgrade your length and push toward higher totals in progressively difficult sessions.\n\nKey Features\n\n• Tile merging mechanic integration  \n• Directional snake movement control  \n• Progressive score tracking system  \n• Increasing grid complexity levels  \n• Classic snake arcade aesthetic"
 },
 {
 "id": "a71168b1feb94d4bbeb466d22c292b53",
 "title": "Caterfall 2048",
 "iframe": "https://html5.gamedistribution.com/a71168b1feb94d4bbeb466d22c292b53/",
+"creator": "GamePush",
 "description": "Slide numbered tiles across a grid to combine matching values and clear space in a cascading puzzle challenge. This game revolves around strategic tile merging with a gravity-driven mechanic that causes tiles to fall like a waterfall after each move. Players aim to reach high-value tiles to maximize their score before the board fills, testing pattern recognition and planning skills.\n\nKey Features\n\n• Gravity affected tile merging  \n• Strategic sliding controls  \n• Progressive combination goals  \n• Score multiplier system  \n• Minimalist numeric grid design"
 },
 {
 "id": "c51a61ffce8044a6b1333575047534f3",
 "title": "Reach 2048",
 "iframe": "https://html5.gamedistribution.com/c51a61ffce8044a6b1333575047534f3/",
+"creator": "BUSIDOL",
 "description": "Slide numbered tiles on a grid to combine matching values and reach the 2048 tile. Each move shifts all tiles in one direction, requiring strategic planning to prevent the board from filling up. The challenge intensifies as tiles merge and higher numbers appear, testing your foresight in this minimalist puzzle setting.\n\nKey Features\n\n• Sliding tile combination mechanic  \n• Directional swipe controls  \n• Incremental tile value progression  \n• Score tracking and move count  \n• Minimalist grid puzzle layout"
 },
 {
 "id": "055561e9c9da4e69b8a724d06500fdd6",
 "title": "2048 Mayhem.io",
 "iframe": "https://html5.gamedistribution.com/055561e9c9da4e69b8a724d06500fdd6/",
+"creator": "Fo Technology",
 "description": "Slide numbered tiles around a grid to combine matching values and avoid running out of moves in this strategic puzzle challenge. Players merge tiles by directionally sliding them, aiming to reach increasingly higher numbers before the board fills up. The gameplay unfolds on a minimalist grid, requiring careful planning and quick decision-making to maximize tile combinations and score.\n\nKey Features\n\n• directional tile sliding control  \n• merging matching number tiles  \n• progressive board space management  \n• increasing tile value goals  \n• minimalistic grid puzzle interface"
 },
 {
 "id": "a8ecea31288d4f6581ae36db798ce9ac",
 "title": "2048 Merge World",
 "iframe": "https://html5.gamedistribution.com/a8ecea31288d4f6581ae36db798ce9ac/",
+"creator": "Inlogic Software",
 "description": "Slide numbered tiles on a grid to combine matching values and create higher numbers. This twist on the classic merge puzzle challenges players to strategically plan moves as tiles multiply, aiming to reach the elusive 2048 tile. The smooth tile sliding mechanic demands careful foresight in each step, rewarding patience and tactical merging.\n\nKey Features\n\n• Tile sliding merge mechanic  \n• Grid-based numeric puzzle control  \n• Increasing tile value progression  \n• Single-player strategic planning  \n• Minimalist numeric theme"
 },
 {
 "id": "64f303f9d8fa4d34ae962b82d4f78af3",
 "title": "2048 Block Fusion",
 "iframe": "https://html5.gamedistribution.com/64f303f9d8fa4d34ae962b82d4f78af3/",
+"creator": "GamePush",
 "description": "Combine numbered tiles strategically to create higher value blocks on a grid, aiming to reach the elusive 2048 tile. The sliding tile mechanic challenges players to plan moves carefully while managing limited space. Each move fuses identical blocks, increasing complexity as the board fills. Progression relies on tactical foresight and spatial awareness in this casual puzzle setting.\n\nKey Features\n\n• Sliding tile merge mechanic  \n• Directional swipe controls  \n• Increasing difficulty grid sizes  \n• Score-based progression system  \n• Minimalist numeric puzzle theme"
 },
 {
 "id": "0e5b95715bb34907ae915ad4e985cd50",
 "title": "Fusion 2048",
 "iframe": "https://html5.gamedistribution.com/0e5b95715bb34907ae915ad4e985cd50/",
+"creator": "Tejas Shrimali",
 "description": "Combine numbered tiles by strategic sliding to reach higher values in this grid-based puzzle challenge. Players merge matching numbers through directional swipes while managing limited board space to avoid stalls. The game features progressive difficulty with increasing tile values and requires careful planning to maximize combos and unlock new tile stages.\n\nKey Features\n\n• Directional swipe tile merging  \n• Incremental grid value progression  \n• Space management challenge  \n• Combo chain scoring system  \n• Numeric puzzle with futuristic style"
 },
 {
 "id": "5b5b258f7ed64796afd5f7e3653f18e1",
 "title": "Cubes 2048.io",
 "iframe": "https://html5.gamedistribution.com/5b5b258f7ed64796afd5f7e3653f18e1/",
+"creator": "PuzzleGame.Com",
 "description": "Slide numbered cubes strategically to combine matching values using grid movement controls in an abstract puzzle setup. Players aim to reach the 2048 tile by merging like cubes efficiently while navigating limited space, balancing strategic moves to optimize placements. The game challenges spatial reasoning with simple swipe mechanics across a minimalist board. \n\nKey Features\n\n• Tile merging grid system  \n• Directional swipe controls  \n• Progressive tile value challenge  \n• Score tracking and best moves  \n• Minimalist cube visual style"
 },
 {
 "id": "3dd209336a1a45c0a94095f9369b0930",
 "title": "2048 - Blocks destruction",
 "iframe": "https://html5.gamedistribution.com/3dd209336a1a45c0a94095f9369b0930/",
+"creator": "GamePush",
 "description": "Slide numbered tiles on a grid to combine matching values and clear space using a merging mechanic based on powers of two. Players aim to strategically manage tile movements within a limited 4x4 board, balancing incremental merges with the risk of running out of moves. The challenge lies in optimizing each slide to reach higher blocks, testing numeric pattern recognition and spatial planning.\n\nKey Features\n\n• Tile merging numeric system  \n• Four-directional swipe controls  \n• Incremental block value progression  \n• Undo move option  \n• Minimalist grid interface"
 },
 {
 "id": "c45fcb5a355246978a69403a78cfe961",
 "title": "2048 Cube Merge",
 "iframe": "https://html5.gamedistribution.com/c45fcb5a355246978a69403a78cfe961/",
+"creator": "Inlogic Software",
 "description": "Slide and combine numbered cubes on a 3D grid to create higher value blocks in a spatial puzzle setting. Players merge matching cubes strategically to clear space and reach the elusive 2048 tile, navigating limited moves on a twisting cube surface. Puzzle progression evolves as blocks stack in three dimensions, requiring spatial awareness and planned merges to succeed.\n\nKey Features\n\n• 3D cube merging mechanic  \n• Swipe control for block movement  \n• Increasing merge target challenge  \n• Limited move count system  \n• Spatial puzzle with cube grid"
 },
 {
 "id": "70ef8d996c70455f97db1d5edcb65554",
 "title": "2048 Merge Circle",
 "iframe": "https://html5.gamedistribution.com/70ef8d996c70455f97db1d5edcb65554/",
+"creator": "jimo game",
 "description": "Combine numbered tiles by sliding circular game pieces across a hexagonal grid to create higher values in this merging puzzle. The core mechanic revolves around strategic tile movement and merging circles to clear the board while aiming for the highest tile. Players must plan moves to prevent the grid from filling up, balancing quick merges and thoughtful positioning.\n\nKey Features\n\n• Circular tile sliding mechanic  \n• Strategic merge combinations  \n• Progressive tile value goals  \n• Grid space management challenge  \n• Minimalist geometric puzzle style"
 },
 {
 "id": "1144b9340c2a4d359b2d03cb5ff1e3b7",
 "title": "2048 Run Gorgeous Balls",
 "iframe": "https://html5.gamedistribution.com/1144b9340c2a4d359b2d03cb5ff1e3b7/",
+"creator": "PuzzleGame.Com",
 "description": "Slide numbered balls strategically to combine powers and advance through dynamic puzzle stages. Players maneuver glowing spheres across a grid, merging matching numbers to reach higher tile values and clear space. The challenge lies in planning precise moves to create chain reactions while managing limited grid space in a visually vibrant numeric puzzle environment.\n\nKey Features\n\n• Number merging tile mechanic  \n• Grid-based sliding controls  \n• Incremental score progression  \n• Chain reaction tile combos  \n• Neon-themed puzzle visuals"
 },
 {
 "id": "d93028bdc51945e48977d7125466f97f",
 "title": "2048 Match Balls",
 "iframe": "https://html5.gamedistribution.com/d93028bdc51945e48977d7125466f97f/",
+"creator": "Inlogic Software",
 "description": "Match numbered balls by sliding them across a grid to combine identical values and reach higher scores. This puzzle challenges players to strategically merge tiles while managing limited space on a compact board. The gameplay gradually increases in difficulty, requiring careful planning and foresight to avoid gridlock and maximize tile combinations.\n\nKey Features\n\n• Grid-based sliding tile mechanic  \n• Strategic merging of number balls  \n• Increasing difficulty with space limits  \n• Score tracking and combo system  \n• Minimalist numeric puzzle design"
 },
 {
 "id": "588cfae14b0748628b75e0fe3d86a1fb",
 "title": "Qube 2048",
 "iframe": "https://html5.gamedistribution.com/588cfae14b0748628b75e0fe3d86a1fb/",
+"creator": "Mirra Games",
 "description": "Slide numbered cubes strategically across the grid to merge identical blocks and increase their value in this mathematical puzzle. Using precise spatial moves, you create higher-value cubes while aiming to clear space for further merges. The challenge revolves around managing limited grid positions to achieve the highest possible score before no moves remain.\n\nKey Features\n\n• Number merging puzzle mechanic  \n• Directional slide controls  \n• Increasing cube value progression  \n• Score optimization challenge  \n• Minimalist grid-based interface"
 },
 {
 "id": "7769005e476c4c64a4eaee210e5946aa",
 "title": "2048 Puzzle: Connect the Balls",
 "iframe": "https://html5.gamedistribution.com/7769005e476c4c64a4eaee210e5946aa/",
+"creator": "AdelikDev",
 "description": "Slide numbered balls across a grid to merge matching values and create higher-numbered balls in a strategic puzzle format. Players manipulate tile movements to combine multiples of two, aiming to reach the elusive 2048 tile while managing limited space. This tile-merging mechanic challenges spatial reasoning and planning through steady progression.\n\nKey Features\n\n• Number matching merge system  \n• Swipe-based tile control  \n• Increasing difficulty levels  \n• Score tracking progression  \n• Minimalist grid interface"
 },
 {
 "id": "7966e140ae314702ab90781554da313b",
 "title": "2048Skill Edition",
 "iframe": "https://html5.gamedistribution.com/7966e140ae314702ab90781554da313b/",
+"creator": "Shenzhen haikuo yuntour rede tecnologia co., LTD",
 "description": "Slide and combine numbered tiles on a grid to create higher values using strategic merging mechanics. This puzzle challenges your planning and spatial awareness as you aim to reach a target tile through limited board space. Success depends on careful tile movement and number alignment, with increasing difficulty as the board fills up.\n\nKey Features\n\n• Tile merging strategy system  \n• Four-direction swipe controls  \n• Score-based progression targets  \n• Undo move option support  \n• Minimalistic grid puzzle design"
 },
 {
 "id": "41781bcf12bb47c19a35fc1d0faaad70",
 "title": "2048 Number Match",
 "iframe": "https://html5.gamedistribution.com/41781bcf12bb47c19a35fc1d0faaad70/",
+"creator": "Inlogic Software",
 "description": "Slide numbered tiles on a grid to combine matching values and reach the 2048 tile in this strategic puzzle challenge. Players must plan moves to merge tiles efficiently while managing limited space on a compact square board. The core mechanic involves numeric tile matching and spatial optimization to achieve the highest possible tile within few moves.\n\nKey Features\n\n• Tile merging numeric mechanic  \n• Swipe gesture movement controls  \n• Increasing tile values progression  \n• Score tracking and high score system  \n• Minimalist grid puzzle layout"
 },
 {
 "id": "41c6f9380faf4410a5df1f6b81b81975",
 "title": "2048 Cube Shooting Merge",
 "iframe": "https://html5.gamedistribution.com/41c6f9380faf4410a5df1f6b81b81975/",
+"creator": "PuzzleGame.Com",
 "description": "Combine matching numbered cubes by shooting merged blocks to create higher value tiles in a 3D grid. Players aim to strategically position and shoot cubes to trigger chain merges and clear space on the rotating board, advancing through increasingly complex puzzles. Precision shooting mechanics and spatial management define the core challenge for casual players.\n\nKey Features\n\n• Cube shooting merge mechanic  \n• Rotating 3D puzzle board  \n• Strategic positioning control  \n• Chain merge scoring system  \n• Progressive puzzle difficulty"
 },
 {
 "id": "45c9c545b6014eb1a6d8b8cb206fd1a0",
 "title": "Chain Cube 2048 3D Merge Game",
 "iframe": "https://html5.gamedistribution.com/45c9c545b6014eb1a6d8b8cb206fd1a0/",
+"creator": "PuzzleGame.Com",
 "description": "Combine numbered cubes by swiping them in multiple directions to create larger values in a shifting 3D grid. Players must strategically merge blocks to reach higher numbers while managing increasingly complex spatial arrangements. The game challenges spatial awareness and planning within a clean cube-themed environment.\n\nKey Features\n\n• Three-dimensional merging mechanic  \n• Swipe control for cube movement  \n• Progressive block combination levels  \n• Increasing spatial complexity challenge  \n• Minimalist geometric cube design"
 },
 {
 "id": "5370293cd9434e4abe9084397f091ed6",
 "title": "Cards 2048",
 "iframe": "https://html5.gamedistribution.com/5370293cd9434e4abe9084397f091ed6/",
+"creator": "GameBerry Studio",
 "description": "Match numbered cards on a grid by sliding them in four directions to combine and create increasingly higher values. The core 2048 merging mechanic blends with a card-based interface where players strategize to reach the elusive 2048 tile. The game tests pattern recognition and spatial planning as players aim to clear space and build stronger cards on limited moves.\n\nKey Features\n\n• Slide and combine numbered cards\n• Grid-based spatial puzzle control\n• Progressive tile merging challenge\n• Score tracking and move limits\n• Minimalist card design interface"
 },
 {
 "id": "15d323f5810a40188bac09c8d23c97a4",
 "title": "2048 Drop Merge",
 "iframe": "https://html5.gamedistribution.com/15d323f5810a40188bac09c8d23c97a4/",
+"creator": "PuzzleGame.Com",
 "description": "Slide and merge numbered tiles to strategically combine them into higher values, guiding falling pieces in a puzzle grid to reach the coveted 2048 tile. The game challenges players to manage limited space and plan merges carefully with increasing difficulty as the board fills. Players navigate a smooth drop-and-merge mechanic focused on spatial awareness and forward planning.\n\nKey Features\n\n• Tile sliding merge mechanic  \n• Precision drop controls  \n• Incremental challenge progression  \n• Score tracking and combos  \n• Minimalist numeric puzzle setting"
 },
 {
 "id": "17498fe164a3427f9f78d5329ff7e391",
 "title": "Military Cubes 2048",
 "iframe": "https://html5.gamedistribution.com/17498fe164a3427f9f78d5329ff7e391/",
+"creator": "IT-Hype",
 "description": "Slide numbered military cubes to combine identical units and dominate the grid with tactical merges. Players must strategically plan movements to maximize cube values while managing limited space, aiming to reach the highest possible tile. The game offers a puzzle twist on classic merging mechanics with a distinct military-themed cube set.\n\nKey Features\n\n• Grid-based merging mechanic  \n• Directional swipe cube movement  \n• Increasing cube value progression  \n• Limited board space challenge  \n• Tactical unit combination system"
 },
 {
 "id": "5c583e0578964184a151873b6629105a",
 "title": "2048 X2 Legends",
 "iframe": "https://html5.gamedistribution.com/5c583e0578964184a151873b6629105a/",
+"creator": "Inlogic Software",
 "description": "Slide numbered tiles on a grid to combine matching pairs, doubling their value as you strategize for higher scores in this fast-paced puzzle challenge. The gameplay builds on classic tile merging mechanics but adds a twist with a unique doubling system that demands planning each move carefully. Aim to reach the highest possible tile while navigating progressively crowded boards.\n\nKey Features\n\n• Tile merging and doubling mechanic  \n• Swipe control for tile movement  \n• Increasing board clutter challenge  \n• Score multiplier system  \n• Minimalist numerical grid design"
 },
 {
 "id": "15efe6fa1f254c349687ab950adce938",
 "title": "Tropical Cubes 2048",
 "iframe": "https://html5.gamedistribution.com/15efe6fa1f254c349687ab950adce938/",
+"creator": "IT-Hype",
 "description": "Slide and merge vibrant tropical cubes to reach new number combinations before the grid fills up. This puzzle challenges players to strategically combine matching cubes through swipe gestures while managing limited space on a colorful tropical-themed board. Progression demands careful planning to avoid blocking moves and maximize score.\n\nKey Features\n\n• Tile merging swipe mechanic  \n• Strategic grid space management  \n• Incremental score milestones  \n• Endless puzzle mode system  \n• Tropical color palette interface"
 },
 {
 "id": "7327ac4f2c334b13bf34266719d986fb",
 "title": "2048 Ballz",
 "iframe": "https://html5.gamedistribution.com/7327ac4f2c334b13bf34266719d986fb/",
+"creator": "VarCo",
 "description": "Slide numbered balls strategically to merge them and clear levels with limited shots. Players combine physics-based bouncing mechanics to advance through increasingly complex brick patterns, aiming to break all bricks before running out of balls. Each round tests timing and precision as brick durability rises.\n\nKey Features\n\n• Ball trajectory merging system  \n• Tap and drag ball launch control  \n• Progressive brick durability levels  \n• Unlockable ball upgrade paths  \n• Physics-based brick breaking patterns"
 },
 {
 "id": "0db7bd8ab1564e2880a2bb3fbdf4e396",
 "title": "Chain Disk 2048",
 "iframe": "https://html5.gamedistribution.com/0db7bd8ab1564e2880a2bb3fbdf4e396/",
+"creator": "bestgames.com",
 "description": "Slide numbered discs across a grid to merge matching values and clear space while chaining combos for higher scores. The core mechanic revolves around strategic disk placement and number combination, challenging players to optimize moves within limited space. This minimalistic puzzle emphasizes spatial reasoning and numerical growth, making it engaging for casual players of all ages.\n\nKey Features\n\n• Number merging grid system  \n• Strategic tile sliding controls  \n• Increasing difficulty thresholds  \n• Combo chain scoring mechanics  \n• Minimalist numeric puzzle design"
 },
 {
 "id": "3b20090739f94b54bd92c0861bed1e57",
 "title": "2048 Lines",
 "iframe": "https://html5.gamedistribution.com/3b20090739f94b54bd92c0861bed1e57/",
+"creator": "Agame",
 "description": "Slide and merge numbered tiles on a grid to create higher values through strategic moves. The gameplay revolves around combining lines of identical numbers, requiring spatial planning to avoid gridlock and reach target tiles. Players progress by increasing tile values under time or move constraints, offering a minimalist numeric puzzle challenge focused on pattern formation and tile alignment.\n\nKey Features\n\n• Tile merging line mechanics  \n• Directional swipe control scheme  \n• Increasing tile value progression  \n• Time and move-limited modes  \n• Clean minimalist numeric grid"
 },
 {
 "id": "96d66522797040b785278f101def9f82",
 "title": "INVERSION 2048",
 "iframe": "https://html5.gamedistribution.com/96d66522797040b785278f101def9f82/",
+"creator": "Realinspirer",
 "description": "Navigate shifting gravity fields to line up tiles and reach higher numbers in this numerical puzzle challenge. The core inversion mechanic flips tile values and puzzles the board layout, testing your spatial reasoning and planning skills. Progress through increasingly complex levels where precise moves multiply your score and unlock new challenges.\n\nKey Features\n\n• Gravity inversion puzzle mechanics  \n• Tile merging and value flipping  \n• Level-based number goals  \n• Progressive difficulty scaling  \n• Minimalist abstract visual style"
 },
 {
 "id": "fc7a011107794204878fd12c9a0ee804",
 "title": "2048 Defense",
 "iframe": "https://html5.gamedistribution.com/fc7a011107794204878fd12c9a0ee804/",
+"creator": "Simplicity Games",
 "description": "Slide numbered tiles strategically on a grid to merge them and defend against incoming waves of enemies by deploying combined units. This game blends the classic 2048 puzzle mechanic with tower defense strategy, challenging players to balance tile merging and battlefield positioning under pressure. Progress through escalating levels featuring increasingly tough adversaries and tactical map layouts.\n\nKey Features\n\n• Tile merging defense system  \n• Grid based unit placement  \n• Progressive enemy wave difficulty  \n• Resource management for upgrades  \n• Puzzle and tactical hybrid gameplay"
 },
 {
 "id": "a0265ff1e34c4a1cb92a9996b2787526",
 "title": "2048 Runner",
 "iframe": "https://html5.gamedistribution.com/a0265ff1e34c4a1cb92a9996b2787526/",
+"creator": "XiferGames",
 "description": "Navigate tiles with directional swipes to merge matching numbers while continuously moving through a compact grid environment. The gameplay hinges on strategic positioning and combining numeric blocks to progress, challenging players to find the highest achievable tile. Movement timing and spatial awareness play critical roles in this puzzle-runner hybrid experience.\n\nKey Features\n\n• Swipe-based tile merging mechanics  \n• Continuous movement across limited grid  \n• Increasing tile values challenge  \n• Score tracking for progression  \n• Minimalist numeric puzzle theme"
 },
 {
 "id": "ce48aa563bf54682ba21b0cd3ee8864e",
 "title": "2048: Puzzle Classic",
 "iframe": "https://html5.gamedistribution.com/ce48aa563bf54682ba21b0cd3ee8864e/",
+"creator": "Holger Sindbaek",
 "description": "Slide numbered tiles across the grid to merge matching values and create higher numbers using tile combining mechanics. Players must strategically plan moves in a limited space as the board fills up, aiming to reach the elusive 2048 tile. The simple numeric puzzle challenges spatial awareness and foresight in progressive grid-shifting gameplay.\n\nKey Features\n\n• Tile merging core mechanic  \n• Swipe control movement system  \n• Incremental number progression  \n• Undo last move option  \n• Minimalist numeric grid design"
 },
 {
 "id": "7e1a325865f141bab73c690ab778ab80",
 "title": "Stacktris 2048",
 "iframe": "https://html5.gamedistribution.com/7e1a325865f141bab73c690ab778ab80/",
+"creator": "Mirra Games",
 "description": "Stack falling blocks to match numbers and clear the playfield drives gameplay in this puzzle mix merging classic stacking with numerical merging mechanics. Players combine tiles with identical values on a vertical grid, aiming to reach higher sums and prevent overflow. The mix of spatial arrangement and arithmetic strategy shapes the challenge for casual gamers of all ages.\n\nKey Features\n\n• Number merging stacking mechanic  \n• Precise block placement controls  \n• Increasing difficulty grid management  \n• Progressive tile value system  \n• Minimalistic geometric visual theme"
 },
 {
 "id": "2a93599e2e5547aeb0114dde6553cf2b",
 "title": "2048 Billiards 3D",
 "iframe": "https://html5.gamedistribution.com/2a93599e2e5547aeb0114dde6553cf2b/",
+"creator": "PuzzleGame.Com",
 "description": "Slide numbered balls around a dynamic three-dimensional billiards table, matching them to combine and reach higher values. The game’s core merging mechanic challenges players to think spatially and plan shots carefully in a 3D pool environment. As balls merge, the player aims to create larger number tiles while navigating realistic ball physics and table angles.\n\nKey Features\n\n• Tile merging gameplay system  \n• Precision aiming and shot control  \n• Progressive number target challenges  \n• 3D billiards physics simulation  \n• Casual puzzle and pool hybrid"
 },
 {
 "id": "c0f6932df5ba487cb6eb50eca21eb9ae",
 "title": "2048 Ball Buster",
 "iframe": "https://html5.gamedistribution.com/c0f6932df5ba487cb6eb50eca21eb9ae/",
+"creator": "PuzzleGame.Com",
 "description": "Swap and merge numbered balls on a dynamic grid to create higher values and clear space for continuous play. Combining tile movement with strategic positioning, this puzzle challenges players to optimize each move for maximum scores and board management. Increasing ball values ultimately tests number matching skills while aiming for the highest possible tile.\n\nKey Features\n\n• Number tile sliding mechanic  \n• Strategic merge and placement  \n• Progressive value unlocking  \n• Score-based level goals  \n• Minimalist numeric puzzle design"
 },
 {
 "id": "8b136120d69e473f8a383350fde3530a",
 "title": "Chain Cube: 2048 merge",
 "iframe": "https://html5.gamedistribution.com/8b136120d69e473f8a383350fde3530a/",
+"creator": "CASUAL AZUR GAMES",
 "description": "Slide and merge numbered cubes on a grid to create chains that reach higher values. Players manipulate tile positions with swipe controls, combining matching cubes through strategic placement. The challenge lies in managing limited space as tiles merge in ascending sequences, aiming to achieve the highest possible chain combinations.\n\nKey Features\n\n• Swipe-based cube merging  \n• Sequential tile combination mechanics  \n• Grid space management challenge  \n• Score multiplier progression system  \n• Minimalistic geometric visual style"
 },
 {
 "id": "ba6c3e3c7a7c42fcb52850d9c5f5bd64",
 "title": "Hexa 2048 Puzzle - Block Merge",
 "iframe": "https://html5.gamedistribution.com/ba6c3e3c7a7c42fcb52850d9c5f5bd64/",
+"creator": "BotaGame",
 "description": "Merge matching hexagonal tiles to create higher value blocks in this spatial puzzle challenge. Players slide clusters across the hex board to combine identical pieces strategically, aiming to reach the elusive 2048 tile. The game tests pattern recognition and spatial planning through increasing complexity as the board fills up. Tactile block sliding defines progression in this casual brain teaser.\n\nKey Features\n\n• Hexagonal tile merging system  \n• Swipe-based cluster sliding controls  \n• Increasing board complexity levels  \n• Score tracking and target tile goal  \n• Minimalist geometric puzzle aesthetic"
 },
 {
 "id": "215fe57b25a5486a860b88d09db47c8f",
 "title": "Bubble 2048",
 "iframe": "https://html5.gamedistribution.com/215fe57b25a5486a860b88d09db47c8f/",
+"creator": "DDSH",
 "description": "Combine numbered bubbles by sliding them across a grid to reach higher values and clear space. Players tactically merge equal bubbles using directional swipes to create a target 2048 bubble, managing limited moves and increasing complexity with each step. The minimalist bubble theme adds a simple yet strategic twist on classic sliding puzzles.\n\nKey Features\n\n• Merge matching numbered bubbles  \n• Directional swipe grid control  \n• Increasing puzzle complexity  \n• Move limit challenge system  \n• Clean bubble-themed interface"
 },
 {
 "id": "c5c39da5654d41f69c3047a6975ad315",
 "title": "2048 ABC Runner",
 "iframe": "https://html5.gamedistribution.com/c5c39da5654d41f69c3047a6975ad315/",
+"creator": "bestgames.com",
 "description": "Slide numbered tiles across the grid to combine matching characters in this spatial puzzle runner. Players engage the classic merging mechanic with an innovative twist on continuous lateral movement, aiming to reach the highest tile possible before running out of moves. Timing each slide and planning merges become key to breaking through increasingly complex tile arrangements.\n\nKey Features\n\n• Tile merging movement mechanic  \n• Continuous side-scrolling runner control  \n• Progressive difficulty grid levels  \n• Score multiplier streak system  \n• Abstract numeric puzzle theme"
 },
 {
 "id": "efd9e3f1a0b74cc6bcb24b05510b06e9",
 "title": "2048 Run 3D",
 "iframe": "https://html5.gamedistribution.com/efd9e3f1a0b74cc6bcb24b05510b06e9/",
+"creator": "PuzzleGame.Com",
 "description": "Slide numeric tiles along a continuous 3D path to merge matching numbers and clear the track before it fills. The game blends spatial puzzle solving with reflex-based movement, challenging players to plan merges rapidly while navigating a twisting course. Progression increases difficulty by speeding up the tile flow, testing quick thinking amid vibrant minimalist visuals.\n\nKey Features\n\n• Tile merging puzzle mechanic  \n• Swipe gesture movement control  \n• Increasing track speed challenge  \n• Endless mode with score tracking  \n• Neon-lit tunnel environment"
 },
 {
 "id": "447f60b5fee84fb185c2870bea8d913c",
 "title": "2 For 2048",
 "iframe": "https://html5.gamedistribution.com/447f60b5fee84fb185c2870bea8d913c/",
+"creator": "SNSHUB",
 "description": "Slide and merge numbered tiles using arithmetic combinations to reach target values in a compact grid. Players strategically combine pairs of tiles to optimize space and achieve higher numbers, navigating increasingly complex arrangements. Success depends on efficient tile movement and anticipating chain merges within limited moves.\n\nKey Features\n\n• Tile sliding and merging mechanics  \n• Strategic pair combination controls  \n• Increasing difficulty grid layouts  \n• Move-limited challenge system  \n• Minimalist numbered tile theme"
 },
 {
 "id": "7e866049885645aa91e1fff120b8267d",
 "title": "2048 Wooden Edition",
 "iframe": "https://html5.gamedistribution.com/7e866049885645aa91e1fff120b8267d/",
+"creator": "Playtouch",
 "description": "Combine matching numbered tiles by sliding them on a wooden grid to reach higher powers. This game challenges you to strategize moves carefully within limited space to create the ultimate tile and avoid filling the board. The tactile wooden appearance adds a rustic feel to the classic merging puzzle gameplay, enhancing focus on spatial planning and progressive scoring.\n\nKey Features\n\n• Tile merging mechanics  \n• Swipe-based movement controls  \n• Increasing difficulty levels  \n• Score tracking and ranking system  \n• Wooden board visual theme"
 },
 {
 "id": "eed4bf8d6226480e987cc2b922d5e1c9",
 "title": "2048 X2 Merge Blocks",
 "iframe": "https://html5.gamedistribution.com/eed4bf8d6226480e987cc2b922d5e1c9/",
+"creator": "Inlogic Software",
 "description": "Slide and combine numbered tiles to create higher values using a double merging mechanic that multiplies block values with each match. Navigate a grid to strategically merge identical tiles, aiming to reach the largest possible number while managing limited space. The game challenges players to think ahead in this number puzzle format featuring progressive tile values.\n\nKey Features\n\n• Tile sliding and merging system  \n• Incremental block value multiplication  \n• Limited grid space challenge  \n• Score tracking with tile progression  \n• Minimalist numeric puzzle design"
 },
 {
 "id": "713d172e6d9645bab2407c23afb038c8",
 "title": "2048",
 "iframe": "https://html5.gamedistribution.com/713d172e6d9645bab2407c23afb038c8/",
+"creator": "Upjogos",
 "description": "Slide numbered tiles on a grid to merge matching values and form higher numbers, using strategic swipes to optimize space and create the elusive 2048 tile. The gameplay revolves around spatial planning and number combination within a limited 4x4 board. Players face the challenge of balancing tile movement and placement to avoid gridlock and achieve the high-score target.\n\nKey Features\n\n• Grid-based tile merging mechanic  \n• Swipe control input system  \n• Increasing tile value progression  \n• Game over on full board lock  \n• Minimalist numerical puzzle setting"
 },
 {
 "id": "d10352ef607f4c46b2e089b5df292ccf",
 "title": "2048 Drag 'n drop",
 "iframe": "https://html5.gamedistribution.com/d10352ef607f4c46b2e089b5df292ccf/",
+"creator": "Gamesonline.co.id",
 "description": "Slide numbered tiles across the grid to combine matching values using a drag and drop mechanic. Each move requires careful planning to merge tiles and avoid filling the board, aiming to create higher numbers before the space runs out. The puzzle challenges spatial reasoning by balancing tile placement and chain merges in a compact interface.\n\nKey Features\n\n• Drag and drop tile movement  \n• Number merging puzzle mechanic  \n• Board space management challenge  \n• Increasing tile value progression  \n• Minimalist grid interface"
 },
 {
 "id": "e319d42f51d7462eb2cdb123b84d3cdd",
 "title": "Chain Cube 2048 3D",
 "iframe": "https://html5.gamedistribution.com/e319d42f51d7462eb2cdb123b84d3cdd/",
+"creator": "bestgames.com",
 "description": "Slide and combine numbered cubes in a three-dimensional space to create higher values, using spatial rotation to align matching blocks. Players must strategically chain merges to reach higher cube numbers while managing limited movement options. The challenge increases as the playing field fills and options narrow, testing spatial reasoning and planning skills.\n\nKey Features\n\n• 3D cube sliding mechanic  \n• Spatial rotation controls  \n• Progressive numeric merging system  \n• Limited move strategy challenge  \n• Minimalistic geometric visuals"
 },
 {
 "id": "7a8c3c0b219b408abe4b399c9f0563e0",
 "title": "2048 Fruits",
 "iframe": "https://html5.gamedistribution.com/7a8c3c0b219b408abe4b399c9f0563e0/",
+"creator": "Theplaygame.com",
 "description": "Slide and combine matching fruit tiles to create higher-value numbers in this tile-merging puzzle game. Players manage a growing grid where strategic movement and careful planning are essential to avoid filling the board. The challenge is to reach the elusive 2048 tile while optimizing merges and spatial awareness.\n\nKey Features\n\n• Tile sliding and merging mechanic  \n• Strategic numerical combination control  \n• Progressive grid space management  \n• Score tracking and tile value goals  \n• Colorful fruit-themed visual style"
 },
 {
 "id": "e4834283bce2457980b6cb1da52c1430",
 "title": "2048",
 "iframe": "https://html5.gamedistribution.com/e4834283bce2457980b6cb1da52c1430/",
+"creator": "Game Debut",
 "description": "Swipe numbered tiles across a grid to merge matching values and create higher numbers in this minimalist puzzle challenge. Players strategically combine tiles moving in four directions to reach the elusive 2048 tile, testing spatial reasoning and planning skills through incremental tile fusion. The simple tile-matching mechanic unfolds on a clean interface that keeps focus on strategic growth and score optimization.\n\nKey Features\n\n• Tile sliding and merging mechanic  \n• Four-directional player controls  \n• Increasing tile value progression  \n• Undo move option system  \n• Minimalist grid-based interface"
 },
 {
 "id": "27faa2f420904e8ba0ba96e6764ac716",
 "title": "Ancient 2048",
 "iframe": "https://html5.gamedistribution.com/27faa2f420904e8ba0ba96e6764ac716/",
+"creator": "JulGames",
 "description": "Slide identical tiles across the board to merge matching numbers using classic grid-based merging mechanics. Players need to strategically combine numbered blocks to reach higher values while managing limited movement options. The gameplay is set against an ancient, minimalist backdrop where planning each merge carefully is essential to avoid running out of moves and achieving the highest tile possible.\n\nKey Features\n\n• Tile merging grid mechanic  \n• Directional swipe controls  \n• Increasing tile value targets  \n• Move limitation challenge system  \n• Ancient artifact visual theme"
 },
 {
 "id": "efec93704a6d4f9e83fd78536231192c",
 "title": "2048 Drop",
 "iframe": "https://html5.gamedistribution.com/efec93704a6d4f9e83fd78536231192c/",
+"creator": "SUCCESS Corporation",
 "description": "Stack numbered tiles by dropping them strategically to create matching sums in a grid-based puzzle environment. Combining identical tiles triggers chain reactions to reach higher numbers while managing limited space. Precision in placement and timing is vital to avoid filling the board and to push your score beyond challenging thresholds.\n\nKey Features\n\n• Tile matching and merging  \n• Gravity-based drop mechanic  \n• Increasing difficulty levels  \n• Score-based progression system  \n• Minimalistic grid layout"
 },
 {
 "id": "23405c5dd9024b5bb5096e22c1fdd5bd",
 "title": "2048 Legend",
 "iframe": "https://html5.gamedistribution.com/23405c5dd9024b5bb5096e22c1fdd5bd/",
+"creator": "Inlogic Software",
 "description": "Slide numbered tiles on a grid to merge matching values using strategic moves that combine quick thinking and spatial planning. Players focus on elevating tile numbers to create higher powers of two while managing limited space in a progressively crowded board. The original puzzle’s numeric theme requires careful decision-making to reach the elusive 2048 tile and beyond in a classic solo mode.\n\nKey Features\n\n• Tile merging puzzle mechanic  \n• Swipe control movement system  \n• Increasing board occupancy challenge  \n• Single-player scoring progression  \n• Numeric power-of-two tile theme"
 },
 {
 "id": "6ca3aa213f904b098c2057346621e436",
 "title": "2048 Balls",
 "iframe": "https://html5.gamedistribution.com/6ca3aa213f904b098c2057346621e436/",
+"creator": "Active Games",
 "description": "Combine numbered balls by merging pairs with the same value to create larger ones and clear the board. The gameplay focuses on strategic placement and anticipation as balls slide across a grid, challenging players to reach high numbers before running out of space. Each move requires planning to avoid clutter in this minimalist numeric puzzle experience.\n\nKey Features\n\n• Sequential ball merging mechanic  \n• Grid-based sliding controls  \n• Progressive tile value challenges  \n• Limited movement space management  \n• Numeric puzzle theme"
 },
 {
 "id": "a8f15bb166b943f39cce60e2d5b5fb26",
 "title": "2048 Automatic Strategy",
 "iframe": "https://html5.gamedistribution.com/a8f15bb166b943f39cce60e2d5b5fb26/",
+"creator": "PixelMaskGames",
 "description": "Slide numbered tiles to merge matching values and trigger automatic moves in a timed grid puzzle. The game relies on chain merging mechanics where strategic tile placement initiates cascaded combinations that amplify scores. Players aim to optimize merging sequences against increasing grid saturation. An automatic move strategy helps balance risk and reward under pressure.\n\nKey Features\n\n• Chain merging tile mechanic  \n• Swipe-based tile repositioning  \n• Grid congestion challenge scaling  \n• Automatic move prediction system  \n• Numeric tile fusion gameplay"
 },
 {
 "id": "92de8e9129254edb9244acf4f11fb6f0",
 "title": "2048 Balls",
 "iframe": "https://html5.gamedistribution.com/92de8e9129254edb9244acf4f11fb6f0/",
+"creator": "Gamebuilt.com",
 "description": "Combine numbered balls by sliding tiles across a grid to create higher value balls and clear space. The mechanics involve merging identical balls through directional swipes on a confined board while aiming to reach the highest possible number. Strategic tile movements and thoughtful merges are essential to avoid gridlock and maximize score in this minimalist puzzle environment.\n\nKey Features\n\n• Slide and merge numbered balls  \n• Grid-based tile movement controls  \n• Increasing difficulty with tile congestion  \n• Endless progression scoring system  \n• Minimalist numeric puzzle theme"
 },
 {
 "id": "0580bcde308647c597a9d3d5d7129948",
 "title": "Classic 2048 Puzzle",
 "iframe": "https://html5.gamedistribution.com/0580bcde308647c597a9d3d5d7129948/",
+"creator": "FG Studio",
 "description": "Slide numbered tiles on a grid to merge matching values and reach higher scores through strategic placement. The game revolves around combining powers of two by shifting tiles up, down, left, or right within a limited space, challenging players to think several moves ahead to avoid a full board. Each move must carefully balance tile consolidation with space management.\n\nKey Features\n\n• Swipe directional tile movement  \n• Numeric tile merging mechanic  \n• Increasing difficulty with tile density  \n• Score tracking progression system  \n• Minimalist grid puzzle layout"
 },
 {
 "id": "823ae62e275a4b82a07a1d9d2272e7e4",
 "title": "2048 Cards",
 "iframe": "https://html5.gamedistribution.com/823ae62e275a4b82a07a1d9d2272e7e4/",
+"creator": "FG Studio",
 "description": "Slide numbered cards to merge them and create higher values in a minimalist puzzle grid. Combining the strategic placement of cards challenges players to reach the elusive 2048 tile while managing limited space. Progression depends on careful planning and anticipating tile merges to maximize scoring potential.\n\nKey Features\n\n• Tile sliding and merging mechanic  \n• Strategic spatial card placement  \n• Increasing tile value progression  \n• Limited movement grid system  \n• Minimalist numeric puzzle theme"
 },
 {
 "id": "ccd91f666118435f8e499f57f7e4ed65",
 "title": "2048 Challenges",
 "iframe": "https://html5.gamedistribution.com/ccd91f666118435f8e499f57f7e4ed65/",
+"creator": "Yupi.io",
 "description": "Merge numbered tiles by sliding a grid of blocks to reach higher values while managing limited board space. The gameplay balances spatial strategy and tile combination, challenging players to plan moves carefully in a minimalist puzzle environment. Progression tests pattern recognition and foresight under increasing complexity and tile spawn rates.\n\nKey Features\n\n• Sliding tile combination mechanic  \n• Directional swipe control scheme  \n• Progressive board space constraints  \n• Incremental difficulty scaling system  \n• Minimalist numeric tile design"
 },
 {
 "id": "8edc0d9de59d46c59bee62b9f3079002",
 "title": "2048 Puzzle",
 "iframe": "https://html5.gamedistribution.com/8edc0d9de59d46c59bee62b9f3079002/",
+"creator": "New Kids Games",
 "description": "Slide numbered tiles strategically on a grid to combine matching values and create higher numbers in this minimalist puzzle challenge. Players navigate merging mechanics by planning tile movements across limited board space, aiming to reach the elusive 2048 tile through careful placement and foresight.\n\nKey Features\n\n• Tile sliding combination mechanic  \n• Directional arrow key controls  \n• Increasing tile value progression  \n• Score tracking and move counter  \n• Clean minimalist grid design"
 },
 {
 "id": "15b53c0e6cd247679e58ec9472d26834",
 "title": "Brick 2048",
 "iframe": "https://html5.gamedistribution.com/15b53c0e6cd247679e58ec9472d26834/",
+"creator": "JulGames",
 "description": "Slide numbered tiles across the grid to combine matching blocks using a strategic twist on the merging mechanic. Players push bricks to create higher value tiles while managing limited space on the board. The challenge is to reach target numbers without filling the grid, requiring careful planning of each move. Different tile combinations introduce varied progression patterns.\n\nKey Features\n\n• Tile sliding merge system\n• Grid management challenge\n• Progressive block value stacking\n• Turn-based movement control\n• Casual puzzle interface"
 },
 {
 "id": "75949162d21444759c9c788e7492c4a6",
 "title": "2048 Solitaire",
 "iframe": "https://html5.gamedistribution.com/75949162d21444759c9c788e7492c4a6/",
+"creator": "Yizhiyuan Network Technology Co., Ltd.",
 "description": "Merge numbered tiles by sliding cards within a solitaire layout that combines classic 2048 merging with strategic patience. Players carefully arrange cards by rank and suit to clear the tableau in this unique fusion of tile combining and solitaire tactics. Timing and foresight shape your path to a high score in this casual puzzler.\n\nKey Features\n\n• Tile sliding merge mechanic  \n• Card rank and suit arrangement  \n• Tableau clearing strategy  \n• Score chaining and combo system  \n• Classic solitaire visual theme"
 },
 {
 "id": "80240ad837384eee871f5a2934f6085c",
 "title": "EG Hexar 2048",
 "iframe": "https://html5.gamedistribution.com/80240ad837384eee871f5a2934f6085c/",
+"creator": "EcapsGames.com",
 "description": "Match numbered hex tiles by sliding to combine values and clear the board in a strategic hex grid twist on classic tile merging. Players navigate through hexagonal cells using precise swipes, aiming to reach higher numbered tiles while managing limited moves. The game unfolds on a minimalist hex puzzle field with escalating difficulty as tiles evolve.\n\nKey Features\n\n• Hexagonal tile sliding mechanic  \n• Strategic merge and clear system  \n• Increasing tile values challenge  \n• Limited move-based progression  \n• Minimalist hex grid layout"
 },
 {
 "id": "e82186549e10495c9877379bd50100f9",
 "title": "2048 Pucks",
 "iframe": "https://html5.gamedistribution.com/e82186549e10495c9877379bd50100f9/",
+"creator": "DAB3Games",
 "description": "Slide and merge identical pucks on a grid to reach high-value combinations in this strategic puzzle game. Players control movement by swiping all pucks simultaneously, requiring careful planning to align matching pieces and avoid gridlock. The challenge increases with each move, pushing for skillful merges to achieve the largest puck values before running out of space.\n\nKey Features\n\n• Sliding puck merge gameplay  \n• Simultaneous directional controls  \n• Increasing grid congestion challenge  \n• Score-based progression system  \n• Minimalist board design"
 },
 {
 "id": "40ac5aea85eb4fc1b74f5aa57f94e38b",
 "title": "2048 Classic Edition",
 "iframe": "https://html5.gamedistribution.com/40ac5aea85eb4fc1b74f5aa57f94e38b/",
+"creator": "Playtouch",
 "description": "Slide numbered tiles on a grid to merge matching values using strategic swipe controls. The game challenges players to combine tiles progressively into higher powers of two to reach the ultimate 2048 tile, testing pattern recognition and forward planning skills. The smooth, minimalist interface emphasizes the classic puzzle experience without distractions.\n\nKey Features\n\n• Tile merging number mechanic  \n• Swipe control input system  \n• Increasing tile value challenge  \n• Undo move function option  \n• Minimalist grid puzzle setting"
 },
 {
 "id": "57dae79781e740afb9b8bab342a75003",
 "title": "Undead 2048",
 "iframe": "https://html5.gamedistribution.com/57dae79781e740afb9b8bab342a75003/",
+"creator": "Minijuegos.com",
 "description": "Slide numbered tiles across the grid to combine matching undead creatures and unlock higher zombie forms. The game blends classic puzzle merging with a post-apocalyptic undead theme where players aim to reach the ultimate 2048-level monster. Strategic movement is essential as tile space fills up, creating increasing challenges to clear the board and evolve your creatures.\n\nKey Features\n\n• tile merging puzzle mechanic  \n• swipe control movement system  \n• incremental undead evolution stages  \n• block space management challenge  \n• dark post-apocalyptic visual style"
 },
 {
 "id": "1a7f01b72f8241ce825e443c2309c1ff",
 "title": "2048 Dragon Island",
 "iframe": "https://html5.gamedistribution.com/1a7f01b72f8241ce825e443c2309c1ff/",
+"creator": "MarketJS",
 "description": "Slide numbered tiles strategically across a grid to merge matching values and form higher numbers in a unique puzzle challenge. The gameplay uses tile-combining mechanics inspired by classic block merging, set against a mystical dragon island backdrop. Players aim to reach the elusive 2048 tile while managing limited moves and spatial constraints. Merging involves both tactical planning and spatial awareness.\n\nKey Features\n\n• Tile sliding and merging mechanic  \n• Grid-based spatial strategy  \n• Progressive number combining challenge  \n• Move limitation system  \n• Dragon island visual theme"
 },
 {
 "id": "721ef8f7793949f382d702723d58ee1c",
 "title": "2048 Merge",
 "iframe": "https://html5.gamedistribution.com/721ef8f7793949f382d702723d58ee1c/",
+"creator": "Minijuegos.com",
 "description": "Slide numbered tiles to merge matching pairs and create larger values in this grid-based puzzle where spatial strategy is key. Combining identical numbers forces players to think ahead in a confined playing area. The game challenges users to maximize tile values by consecutive merges while managing limited moves and space.\n\nKey Features\n\n• Tile merging puzzle mechanic  \n• Directional swipe controls  \n• Increasing tile value progression  \n• Score tracking system  \n• Minimalist numeric grid design"
 },
 {
 "id": "c2820a1635844cff8c6c9b2bf0771df0",
 "title": "2048 Cuteness Edition",
 "iframe": "https://html5.gamedistribution.com/c2820a1635844cff8c6c9b2bf0771df0/",
+"creator": "Code This Lab srl",
 "description": "Slide numbered tiles on a colorful grid to merge matching pairs using strategic moves that combine puzzle logic with number progression. Each action influences positioning to reach higher tile values and clear space for future merges, challenging players to optimize limited moves in a charming, pastel-themed setting.\n\nKey Features\n\n• Tile sliding merge mechanic  \n• Strategic move planning  \n• Increasing tile value progression  \n• Limited move challenge system  \n• Pastel color palette"
 }
 ]
