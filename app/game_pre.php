@@ -54,18 +54,14 @@ if ($page === null) {
 }
 
 $seriesClusters = build_game_series_clusters($pages);
-$currentSeriesCluster = find_series_cluster_for_page($seriesClusters, $page['id']);
+$currentSeriesCluster = find_game_cluster_for_page($seriesClusters, $page['id']);
 $currentSeriesTitle = $currentSeriesCluster ? series_cluster_title($currentSeriesCluster) : '';
+$seriesLinks = cluster_links_except_current($currentSeriesCluster, $page['id']);
 
-$seriesLinks = [];
-
-if ($currentSeriesCluster) {
-  foreach ($currentSeriesCluster as $p) {
-    if ($p['id'] !== $page['id']) {
-      $seriesLinks[] = $p;
-    }
-  }
-}
+$creatorClusters = build_creator_clusters($pages);
+$currentCreatorCluster = find_game_cluster_for_page($creatorClusters, $page['id']);
+$currentCreatorTitle = $currentCreatorCluster ? trim((string)($page['creator'] ?? '')) : '';
+$creatorLinks = cluster_links_except_current($currentCreatorCluster, $page['id']);
 
 $pageTitle = $page['title'];
 $title = $pageTitle . ' ▶ Play Free ' . $cat['name'] . ' Game Online';
