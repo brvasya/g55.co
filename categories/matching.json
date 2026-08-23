@@ -1,6 +1,18 @@
 {
 "pages": [
 {
+"id": "5c7fa259eec6486f828a43aedbd01347",
+"title": "Match Factory",
+"iframe": "https://html5.gamedistribution.com/5c7fa259eec6486f828a43aedbd01347/",
+"description": "Match colored pieces strategically to clear rows and combos in this grid-based puzzle challenge. The core mechanic emphasizes quick pattern recognition and chain reactions that affect the playfield dynamically. Levels increase in difficulty by introducing limited moves and time constraints, pushing players to optimize their matches for higher scores and new unlocks.\n\nKey Features\n\n• Color matching pattern combos  \n• Precise tile swapping controls  \n• Move-limited level progression  \n• Combo multiplier scoring system  \n• Bright grid puzzle visuals"
+},
+{
+"id": "56b5cb9b86014d5f8bf726ca5c4ff06e",
+"title": "Match Fighter",
+"iframe": "https://html5.gamedistribution.com/56b5cb9b86014d5f8bf726ca5c4ff06e/",
+"description": "Match pieces swiftly to clear a dynamic puzzle grid while triggering chain reactions for higher scores. Players use an intuitive drag-and-drop matching mechanic across increasingly complex layouts, aiming to outpace time limits and unlock new challenge levels. Patterns and colors shift as rounds progress, demanding quick thinking and adaptive strategies.\n\nKey Features\n\n• Drag-and-drop matching mechanic  \n• Time attack puzzle stages  \n• Chain reaction scoring system  \n• Level progression with difficulty scaling  \n• Colorful dynamic puzzle grids"
+},
+{
 "id": "3ef8dda8916d4867b20db49a7e23286d",
 "title": "Forest Tile Match",
 "iframe": "https://html5.gamedistribution.com/3ef8dda8916d4867b20db49a7e23286d/",
