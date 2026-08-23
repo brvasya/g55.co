@@ -16,7 +16,7 @@
 <main>
 <article>
 <section class="description <?php echo rawurlencode($cid); ?>">
-<h1><?php echo h($h1); ?> <?php if (!empty($page['creator'])): ?><span>by <?php echo h($page['creator']); ?></span><?php endif; ?></h1>
+<h1><?php echo h($h1); ?><?php if (!empty($page['creator'])): ?><span> by <?php echo h($page['creator']); ?></span><?php endif; ?></h1>
 <p><?php echo h($desc); ?></p>
 </section>
 <section class="game">
