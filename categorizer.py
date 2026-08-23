@@ -43,12 +43,15 @@ def save_json_any(path: str, pages: list[dict], wrapper):
 
 
 def clean_page(it: dict) -> dict:
-    return {
+    page = {
         "id": str(it.get("id", "")).strip(),
         "title": str(it.get("title", "")).strip(),
         "iframe": str(it.get("iframe", "")).strip(),
-        "description": str(it.get("description", "")).strip(),
     }
+    if "creator" in it:
+        page["creator"] = str(it.get("creator", "")).strip()
+    page["description"] = str(it.get("description", "")).strip()
+    return page
 
 
 def raw_slug_from_filename(fn: str) -> str:
