@@ -222,13 +222,14 @@ function build_game_series_clusters(array $pages): array {
         $clusters[$key][] = $page;
     }
 
-    foreach ($clusters as $key => $group) {
-        if (count($group) < 2) {
-            unset($clusters[$key]);
-        }
-    }
+    return keep_multi_game_clusters($clusters);
+}
 
-    return array_values($clusters);
+function keep_multi_game_clusters(array $clusters): array {
+    return array_values(array_filter(
+        $clusters,
+        fn($group) => count($group) >= 2
+    ));
 }
 
 function find_game_cluster_for_page(array $clusters, string $pageId): array {
@@ -267,12 +268,6 @@ function build_creator_clusters(array $pages): array {
         $clusters[strtolower($creator)][] = $page;
     }
 
-    foreach ($clusters as $key => $group) {
-        if (count($group) < 2) {
-            unset($clusters[$key]);
-        }
-    }
-
-    return array_values($clusters);
+    return keep_multi_game_clusters($clusters);
 }
 
