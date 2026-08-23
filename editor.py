@@ -1,7 +1,11 @@
+import html
 import json
 import os
 import re
 import tkinter as tk
+import urllib.error
+import urllib.parse
+import urllib.request
 import webbrowser
 from openai import OpenAI
 from tkinter import ttk, messagebox
@@ -58,6 +62,130 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
+def normalize_creator_value(value) -> str:
+    if isinstance(value, dict):
+        return str(value.get("name", "")).strip()
+    return str(value or "").strip()
+
+
+def is_gamedistribution_iframe(url: str) -> bool:
+    url = str(url or "").strip()
+    if not url:
+        return False
+    try:
+        parsed = urllib.parse.urlparse(url)
+    except Exception:
+        return False
+    return parsed.scheme in ("http", "https") and parsed.hostname == "html5.gamedistribution.com"
+
+
+def http_get_text(url: str, timeout_seconds: int = 10, max_bytes: int = 2_000_000):
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "g55-gd-bot/1.0",
+            "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",
+        },
+        method="GET",
+    )
+
+    try:
+        with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
+            status = getattr(response, "status", 200)
+            if status < 200 or status >= 300:
+                return None, f"http_status:{status}"
+
+            chunks = []
+            total = 0
+            while True:
+                chunk = response.read(65536)
+                if not chunk:
+                    break
+                total += len(chunk)
+                if total > max_bytes:
+                    return None, "html_too_large"
+                chunks.append(chunk)
+
+            if not chunks:
+                return None, "empty_body"
+
+            charset = response.headers.get_content_charset() or "utf-8"
+            raw = b"".join(chunks)
+            try:
+                return raw.decode(charset, errors="replace"), "ok"
+            except LookupError:
+                return raw.decode("utf-8", errors="replace"), "ok"
+    except urllib.error.HTTPError as e:
+        return None, f"http_status:{e.code}"
+    except urllib.error.URLError as e:
+        return None, f"url_error:{e.reason}"
+    except TimeoutError:
+        return None, "timeout"
+    except Exception as e:
+        return None, f"fetch_error:{e}"
+
+
+def find_creator_in_json(value) -> str:
+    if isinstance(value, dict):
+        creator = value.get("creator")
+        if isinstance(creator, dict):
+            name = normalize_creator_value(creator)
+            if name:
+                return name
+
+        for child in value.values():
+            name = find_creator_in_json(child)
+            if name:
+                return name
+
+    elif isinstance(value, list):
+        for child in value:
+            name = find_creator_in_json(child)
+            if name:
+                return name
+
+    return ""
+
+
+def extract_creator_name(page_html: str) -> str:
+    for json_text in re.findall(
+        r"""<script[^>]*type=["']application/ld\+json["'][^>]*>(.*?)</script>""",
+        page_html,
+        flags=re.IGNORECASE | re.DOTALL,
+    ):
+        try:
+            decoded = json.loads(json_text.strip())
+        except Exception:
+            continue
+        name = find_creator_in_json(decoded)
+        if name:
+            return html.unescape(name).strip()
+
+    match = re.search(
+        r"""["']creator["']\s*:\s*\{[^{}]*["']name["']\s*:\s*["']([^"']+)["']""",
+        page_html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    if match:
+        return html.unescape(match.group(1)).strip()
+
+    return ""
+
+def fetch_creator_name(iframe_url: str):
+    if not is_gamedistribution_iframe(iframe_url):
+        return "", "not_gamedistribution_iframe"
+
+    page_html, status = http_get_text(iframe_url)
+    if page_html is None:
+        return "", status
+
+    creator = extract_creator_name(page_html)
+    if not creator:
+        return "", "creator_not_found"
+
+    return creator, "ok"
+
+
 def normalize_loaded_json(loaded, file_name: str):
     if file_name == "categories.json":
         if isinstance(loaded, dict) and "categories" in loaded and isinstance(loaded["categories"], list):
@@ -95,14 +223,15 @@ def load_json_file(path: str):
     else:
         for it in items:
             if isinstance(it, dict):
-                cleaned.append(
-                    {
-                        "id": str(it.get("id", "")).strip(),
-                        "title": str(it.get("title", "")).strip(),
-                        "iframe": str(it.get("iframe", "")).strip(),
-                        "description": str(it.get("description", "")).strip(),
-                    }
-                )
+                page = {
+                    "id": str(it.get("id", "")).strip(),
+                    "title": str(it.get("title", "")).strip(),
+                    "iframe": str(it.get("iframe", "")).strip(),
+                }
+                if "creator" in it:
+                    page["creator"] = normalize_creator_value(it.get("creator"))
+                page["description"] = str(it.get("description", "")).strip()
+                cleaned.append(page)
 
     return cleaned, wrapper, mode
 
@@ -114,6 +243,19 @@ def save_json_file(path: str, items: list, wrapper, mode: str):
             items,
             key=lambda it: str(it.get("name", "")).strip().lower()
         )
+    else:
+        normalized_pages = []
+        for it in items:
+            page = {
+                "id": str(it.get("id", "")).strip(),
+                "title": str(it.get("title", "")).strip(),
+                "iframe": str(it.get("iframe", "")).strip(),
+            }
+            if "creator" in it:
+                page["creator"] = normalize_creator_value(it.get("creator"))
+            page["description"] = str(it.get("description", "")).strip()
+            normalized_pages.append(page)
+        items_to_save = normalized_pages
 
     if wrapper is None:
         payload = items_to_save
@@ -138,6 +280,10 @@ def count_items_with_bullets(items) -> int:
         if description_has_bullet(it.get("description", "")):
             count += 1
     return count
+
+
+def count_items_with_creator(items) -> int:
+    return sum(1 for it in items if normalize_creator_value(it.get("creator", "")))
 
 
 def category_description_has_link(description: str) -> bool:
@@ -284,13 +430,19 @@ class JsonGui(tk.Tk):
         self.open_iframe_btn = ttk.Button(form, text="Open", command=self.open_iframe_url, width=10)
         self.open_iframe_btn.grid(row=5, column=1, sticky="e", pady=(0, 8))
 
+        self.creator_label = ttk.Label(form, text="Creator")
+        self.creator_label.grid(row=6, column=0, sticky="w")
+        self.creator_var = tk.StringVar()
+        self.creator_entry = ttk.Entry(form, textvariable=self.creator_var, width=48)
+        self.creator_entry.grid(row=7, column=0, columnspan=2, sticky="we", pady=(0, 8))
+
         self.desc_label = ttk.Label(form, text="Description")
-        self.desc_label.grid(row=6, column=0, sticky="w")
+        self.desc_label.grid(row=8, column=0, sticky="w")
         self.desc_text = tk.Text(form, width=48, height=9, wrap="word")
-        self.desc_text.grid(row=7, column=0, columnspan=2, sticky="we", pady=(0, 8))
+        self.desc_text.grid(row=9, column=0, columnspan=2, sticky="we", pady=(0, 8))
 
         btn_row = ttk.Frame(form)
-        btn_row.grid(row=8, column=0, columnspan=2, sticky="we")
+        btn_row.grid(row=10, column=0, columnspan=2, sticky="we")
 
         ttk.Button(btn_row, text="New", command=self.new_template).pack(side="left")
         ttk.Button(btn_row, text="Add", command=self.add_item).pack(side="left", padx=6)
@@ -298,6 +450,15 @@ class JsonGui(tk.Tk):
         ttk.Button(btn_row, text="Delete", command=self.delete_item).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Generate Desc", command=self.generate_description_with_openai).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Batch Generate Missing", command=self.batch_generate_missing_descriptions).pack(side="left", padx=6)
+
+        self.creator_row = ttk.Frame(form)
+        self.creator_row.grid(row=11, column=0, columnspan=2, sticky="we", pady=(8, 0))
+        self.fetch_creators_btn = ttk.Button(
+            self.creator_row,
+            text="Fetch Missing Creators",
+            command=self.batch_fetch_missing_creators,
+        )
+        self.fetch_creators_btn.pack(side="left")
 
         search = ttk.LabelFrame(right, text="Find", padding=10)
         search.pack(fill="x", pady=(10, 0))
@@ -370,6 +531,9 @@ class JsonGui(tk.Tk):
             self.iframe_label.grid_remove()
             self.iframe_entry.grid_remove()
             self.open_iframe_btn.grid_remove()
+            self.creator_label.grid_remove()
+            self.creator_entry.grid_remove()
+            self.creator_row.grid_remove()
             self.desc_label.grid()
             self.desc_text.grid()
         else:
@@ -377,6 +541,9 @@ class JsonGui(tk.Tk):
             self.iframe_label.grid()
             self.iframe_entry.grid()
             self.open_iframe_btn.grid()
+            self.creator_label.grid()
+            self.creator_entry.grid()
+            self.creator_row.grid()
             self.desc_label.grid()
             self.desc_text.grid()
         self.reset_search_state()
@@ -391,9 +558,10 @@ class JsonGui(tk.Tk):
             return
 
         completed = count_items_with_bullets(self.items)
+        creators = count_items_with_creator(self.items)
         duplicate_titles = count_duplicate_titles(self.items)
 
-        text = f"Descriptions: {completed}/{total}   Dup titles: {duplicate_titles}"
+        text = f"Descriptions: {completed}/{total}   Creators: {creators}/{total}   Dup titles: {duplicate_titles}"
         self.set_status(f"{prefix}  {text}" if prefix else text)
 
     def refresh_category_list(self):
@@ -552,12 +720,23 @@ class JsonGui(tk.Tk):
                 "description": self.desc_text.get("1.0", "end").strip(),
             }
 
-        return {
+        item = {
             "id": self.id_var.get().strip(),
             "title": self.title_var.get().strip(),
             "iframe": self.iframe_var.get().strip(),
             "description": self.desc_text.get("1.0", "end").strip(),
         }
+
+        creator = self.creator_var.get().strip()
+        had_creator_key = (
+            self.selected_index is not None
+            and 0 <= self.selected_index < len(self.items)
+            and "creator" in self.items[self.selected_index]
+        )
+        if creator or had_creator_key:
+            item["creator"] = creator
+
+        return item
 
     def write_form(self, it):
         self.id_var.set(it.get("id", ""))
@@ -567,6 +746,7 @@ class JsonGui(tk.Tk):
             self.title_var.set(it.get("title", ""))
 
         self.iframe_var.set(it.get("iframe", ""))
+        self.creator_var.set(normalize_creator_value(it.get("creator", "")))
         self.desc_text.delete("1.0", "end")
         self.desc_text.insert("1.0", it.get("description", ""))
 
@@ -811,6 +991,82 @@ END RULE
             input=rule,
         )
         return (response.output_text or "").strip()
+
+    def batch_fetch_missing_creators(self):
+        if self.is_root_categories_mode():
+            messagebox.showwarning("Wrong mode", "This function is only for individual game pages.")
+            return
+
+        targets = [
+            idx for idx, it in enumerate(self.items)
+            if not normalize_creator_value(it.get("creator", ""))
+            and is_gamedistribution_iframe(it.get("iframe", ""))
+        ]
+
+        if not targets:
+            messagebox.showinfo(
+                "Nothing to fetch",
+                "No GameDistribution pages with a missing creator were found in this JSON file.",
+            )
+            return
+
+        if not messagebox.askyesno(
+            "Fetch missing creators",
+            f"Fetch creator metadata for {len(targets)} GameDistribution page(s) in the current JSON file?",
+        ):
+            return
+
+        fetched = 0
+        failed = 0
+        failed_examples = []
+
+        for pos, idx in enumerate(targets, start=1):
+            item = self.items[idx]
+            title = str(item.get("title", "")).strip() or str(item.get("id", "")).strip() or "(untitled)"
+            iframe = str(item.get("iframe", "")).strip()
+
+            self.set_status(f"Fetching creator {pos}/{len(targets)}: {title}")
+            self.update_idletasks()
+
+            creator, status = fetch_creator_name(iframe)
+            if creator:
+                item["creator"] = creator
+                fetched += 1
+
+                if fetched % 25 == 0 and not self.autosave():
+                    messagebox.showerror(
+                        "Auto save failed",
+                        f"Fetched {fetched} creator(s), but the JSON checkpoint could not be saved.",
+                    )
+                    self.refresh_list()
+                    return
+            else:
+                failed += 1
+                if len(failed_examples) < 5:
+                    failed_examples.append(f"{title}: {status}")
+
+        if fetched and fetched % 25 != 0 and not self.autosave():
+            messagebox.showerror(
+                "Auto save failed",
+                f"Fetched {fetched} creator(s), but the JSON file could not be saved.",
+            )
+            self.refresh_list()
+            return
+
+        self.refresh_list()
+        if self.selected_index is not None and 0 <= self.selected_index < len(self.items):
+            self.goto_index(self.selected_index)
+
+        self.update_page_match_status(
+            f"Creator fetch complete: {fetched} fetched, {failed} failed"
+        )
+
+        message = f"Fetched and saved {fetched} creator(s)."
+        if failed:
+            message += f"\n\n{failed} page(s) could not be resolved."
+            if failed_examples:
+                message += "\n\nExamples:\n" + "\n".join(failed_examples)
+        messagebox.showinfo("Done", message)
 
     def batch_generate_missing_descriptions(self):
         if self.is_root_categories_mode():
