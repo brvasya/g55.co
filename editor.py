@@ -408,12 +408,9 @@ class JsonGui(tk.Tk):
         self.name_title_label.grid(row=0, column=0, sticky="w")
 
         self.title_var = tk.StringVar()
-        self.title_entry = ttk.Entry(form, textvariable=self.title_var, width=42)
-        self.title_entry.grid(row=1, column=0, sticky="we", pady=(0, 8), padx=(0, 6))
+        self.title_entry = ttk.Entry(form, textvariable=self.title_var, width=48)
+        self.title_entry.grid(row=1, column=0, columnspan=2, sticky="we", pady=(0, 8))
         self.title_entry.bind("<KeyRelease>", self.on_title_change)
-
-        self.copy_title_btn = ttk.Button(form, text="Copy", command=self.copy_title, width=10)
-        self.copy_title_btn.grid(row=1, column=1, sticky="e", pady=(0, 8))
 
         ttk.Label(form, text="Id").grid(row=2, column=0, sticky="w")
         self.id_var = tk.StringVar()
@@ -488,20 +485,6 @@ class JsonGui(tk.Tk):
         self.search_matches = []
         self.search_pos = -1
         self.last_search_query = ""
-
-    def copy_title(self):
-        value = self.title_var.get().strip()
-        if not value:
-            self.set_status("Title is empty")
-            return
-
-        try:
-            self.clipboard_clear()
-            self.clipboard_append(value)
-            self.update_idletasks()
-            self.set_status("Title copied")
-        except Exception:
-            self.set_status("Copy failed")
 
     def open_iframe_url(self):
         if self.is_root_categories_mode():
