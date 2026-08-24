@@ -3,7 +3,7 @@
 "name": "G55 Games",
 "short_name": "G55 Games",
 "description": "Free Online Games",
-"start_url": "/?utm_source=pwa&utm_medium=app",
+"start_url": "/?utm_source=pwa",
 "scope": "/",
 "display": "standalone",
 "background_color": "#111111",
