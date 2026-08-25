@@ -803,34 +803,51 @@ class CategorizerApp(tk.Tk):
                 min_tokens,
             )
 
+            direct_current_priority = None
+            if direct_current_tokens:
+                direct_current_hits = find_all_subseq_positions(direct_title_tokens, direct_current_tokens)
+                if direct_current_hits:
+                    direct_current_priority = build_match_priority(
+                        direct_current_hits, direct_current_tokens, current_slug
+                    )
+
             title_tokens = direct_title_tokens
             current_tokens = direct_current_tokens
+            current_priority = direct_current_priority
 
-            # Only fill a missing direct category with semantic aliases.
-            if best is None and agent_exceptions_enabled:
-                title_tokens = tokenize_for_matching(
-                    title,
-                    plural_enabled,
-                    gerund_enabled,
-                    agent_enabled,
-                    True,
-                    semantic_fused_lexicon,
-                )
-                current_tokens = semantic_current_tokens
-                best, best_priority, best_score, ties = self.find_best_keyword_match(
-                    title_tokens,
-                    semantic_keywords,
-                    min_tokens,
-                )
+            # Semantic aliases are a true fallback: use them only when there is
+            # no direct category match anywhere, including the current category.
+            if best is None:
+                if direct_current_priority is not None:
+                    skipped_self += 1
+                    continue
+
+                if agent_exceptions_enabled:
+                    title_tokens = tokenize_for_matching(
+                        title,
+                        plural_enabled,
+                        gerund_enabled,
+                        agent_enabled,
+                        True,
+                        semantic_fused_lexicon,
+                    )
+                    current_tokens = semantic_current_tokens
+                    best, best_priority, best_score, ties = self.find_best_keyword_match(
+                        title_tokens,
+                        semantic_keywords,
+                        min_tokens,
+                    )
+
+                    current_priority = None
+                    if current_tokens:
+                        current_hits = find_all_subseq_positions(title_tokens, current_tokens)
+                        if current_hits:
+                            current_priority = build_match_priority(
+                                current_hits, current_tokens, current_slug
+                            )
 
             if best is None:
                 continue
-
-            current_priority = None
-            if current_tokens:
-                current_hits = find_all_subseq_positions(title_tokens, current_tokens)
-                if current_hits:
-                    current_priority = build_match_priority(current_hits, current_tokens, current_slug)
 
             if current_priority is not None:
                 if current_priority >= best_priority:
