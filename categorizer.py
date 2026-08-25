@@ -7,6 +7,14 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
 
 
+AGENT_EXCEPTIONS = {
+    "archer": "archery",
+    "archers": "archery",
+    "biker": "bike",
+    "bikers": "bike",
+}
+
+
 def list_json_files(folder: str) -> list[str]:
     out = []
     try:
@@ -57,10 +65,6 @@ def clean_page(it: dict) -> dict:
 def raw_slug_from_filename(fn: str) -> str:
     base = fn[:-5] if fn.lower().endswith(".json") else fn
     return base.strip()
-
-
-def slug_from_filename(fn: str) -> str:
-    return raw_slug_from_filename(fn).lower()
 
 
 def split_camel_case_boundaries(s: str) -> str:
@@ -141,8 +145,14 @@ def gerund_to_base_token(t: str) -> str:
     return stem
 
 
+def apply_agent_exception_token(t: str) -> str:
+    t = (t or "").strip().lower()
+    return AGENT_EXCEPTIONS.get(t, t)
+
+
 def agent_noun_to_base_token(t: str) -> str:
     t = (t or "").strip().lower()
+
     if len(t) < 5:
         return t
 
@@ -168,16 +178,21 @@ def maybe_normalize_tokens(
     plural_enabled: bool,
     gerund_enabled: bool,
     agent_enabled: bool,
+    agent_exceptions_enabled: bool,
 ) -> list[str]:
     out = []
     for x in tokens:
         t = x
+        if agent_exceptions_enabled:
+            t = apply_agent_exception_token(t)
         if gerund_enabled:
             t = gerund_to_base_token(t)
         if agent_enabled:
             t = agent_noun_to_base_token(t)
         if plural_enabled:
             t = singularize_token(t)
+        if agent_exceptions_enabled:
+            t = apply_agent_exception_token(t)
         out.append(t)
     return out
 
@@ -244,13 +259,14 @@ def build_fused_lexicon(
     plural_enabled: bool,
     gerund_enabled: bool,
     agent_enabled: bool,
+    agent_exceptions_enabled: bool,
 ) -> dict[str, list[tuple[str, str]]]:
     surface_to_canonical: dict[str, set[str]] = {}
 
     for slug in slugs:
         for raw in tokenize_slug(slug):
             normalized = maybe_normalize_tokens(
-                [raw], plural_enabled, gerund_enabled, agent_enabled
+                [raw], plural_enabled, gerund_enabled, agent_enabled, agent_exceptions_enabled
             )[0]
             if not normalized:
                 continue
@@ -336,6 +352,7 @@ def tokenize_for_matching(
     plural_enabled: bool,
     gerund_enabled: bool,
     agent_enabled: bool,
+    agent_exceptions_enabled: bool,
     fused_lexicon: dict[str, list[tuple[str, str]]],
 ) -> list[str]:
     out = []
@@ -346,7 +363,7 @@ def tokenize_for_matching(
         else:
             out.extend(
                 maybe_normalize_tokens(
-                    [raw], plural_enabled, gerund_enabled, agent_enabled
+                    [raw], plural_enabled, gerund_enabled, agent_enabled, agent_exceptions_enabled
                 )
             )
     return out
@@ -465,6 +482,9 @@ class CategorizerApp(tk.Tk):
         self.agent_nouns_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Er", variable=self.agent_nouns_var).pack(side="left", padx=10)
 
+        self.agent_exceptions_var = tk.BooleanVar(value=True)
+        ttk.Checkbutton(top, text="Agent Exceptions", variable=self.agent_exceptions_var).pack(side="left", padx=10)
+
         self.min_tokens_var = tk.IntVar(value=1)
         ttk.Label(top, text="Min keyword tokens").pack(side="left", padx=(12, 4))
         ttk.Spinbox(top, from_=1, to=5, width=3, textvariable=self.min_tokens_var).pack(side="left")
@@ -579,6 +599,7 @@ class CategorizerApp(tk.Tk):
         plural_enabled: bool,
         gerund_enabled: bool,
         agent_enabled: bool,
+        agent_exceptions_enabled: bool,
         fused_lexicon: dict[str, list[tuple[str, str]]],
     ):
         keywords = []
@@ -594,6 +615,7 @@ class CategorizerApp(tk.Tk):
                 plural_enabled,
                 gerund_enabled,
                 agent_enabled,
+                agent_exceptions_enabled,
                 fused_lexicon,
             )
             keywords.append({"file": fn, "slug": slug, "tokens": tokens})
@@ -611,6 +633,7 @@ class CategorizerApp(tk.Tk):
         plural_enabled = bool(self.plurals_var.get())
         gerund_enabled = bool(self.gerunds_var.get())
         agent_enabled = bool(self.agent_nouns_var.get())
+        agent_exceptions_enabled = bool(self.agent_exceptions_var.get())
 
         all_slugs = [raw_slug_from_filename(fn) for fn in self.files]
         fused_lexicon = build_fused_lexicon(
@@ -618,12 +641,14 @@ class CategorizerApp(tk.Tk):
             plural_enabled,
             gerund_enabled,
             agent_enabled,
+            agent_exceptions_enabled,
         )
 
         keywords = self.build_keyword_map(
             plural_enabled,
             gerund_enabled,
             agent_enabled,
+            agent_exceptions_enabled,
             fused_lexicon,
         )
         if not keywords:
@@ -637,6 +662,7 @@ class CategorizerApp(tk.Tk):
             plural_enabled,
             gerund_enabled,
             agent_enabled,
+            agent_exceptions_enabled,
             fused_lexicon,
         )
 
@@ -656,11 +682,11 @@ class CategorizerApp(tk.Tk):
                 plural_enabled,
                 gerund_enabled,
                 agent_enabled,
+                agent_exceptions_enabled,
                 fused_lexicon,
             )
 
             current_priority = None
-            current_hits = []
 
             if current_tokens:
                 current_hits = find_all_subseq_positions(title_tokens, current_tokens)
