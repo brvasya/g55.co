@@ -1,13 +1,6 @@
 {
 "pages": [
 {
-"id": "5fc3261d72e6452f91c9fbd224991222",
-"title": "Block Eating Simulator",
-"iframe": "https://html5.gamedistribution.com/5fc3261d72e6452f91c9fbd224991222/",
-"creator": "CursoraLabs",
-"description": "Navigate dynamic grids by devouring blocks to grow in size and outmaneuver rivals. The core mechanic revolves around strategic movement and timely block consumption, challenging players to expand efficiently while avoiding obstacles. Progression is tied to size accumulation, rewarding careful planning and quick reflexes in a colorful, abstract arena setting.\n\nKey Features\n\n• strategic block consumption mechanic  \n• responsive grid-based movement controls  \n• size growth progression system  \n• obstacle avoidance challenge  \n• abstract arena visual style"
-},
-{
 "id": "f311c6a4660248078f367ad5691dbe54",
 "title": "Gladiator Simulator",
 "iframe": "https://html5.gamedistribution.com/f311c6a4660248078f367ad5691dbe54/",
@@ -62,13 +55,6 @@
 "iframe": "https://html5.gamedistribution.com/f7fcef09c2ca4c7286fec95aef502e31/",
 "creator": "JulGames",
 "description": "Race agile motorbikes through urban streets mastering timing and balance to complete tight courses. Precise control over acceleration and steering challenges players as they navigate twisting routes with increasing difficulty. Collecting points and avoiding crashes forms the core experience, inviting casual players to improve their skills across multiple levels.\n\nKey Features\n\n• Responsive motorbike steering controls  \n• Balance and timing based obstacle navigation  \n• Progressive difficulty with complex courses  \n• Points collection and scoring system  \n• Urban street racing environment"
-},
-{
-"id": "990eb0343915410bbb1a0210f99cac3c",
-"title": "Restaurant Simulator: Burgers & Pizza",
-"iframe": "https://html5.gamedistribution.com/990eb0343915410bbb1a0210f99cac3c/",
-"creator": "Playgama",
-"description": "Manage food prep and order fulfillment using precise timing and ingredient combinations in this restaurant-themed simulation. Players assemble burgers and pizzas by selecting toppings and cooking methods through drag-and-drop controls, striving to serve customers quickly and accurately as customer complexity increases through levels. The challenge lies in multitasking different meal types while balancing speed and quality.\n\nKey Features\n\n• Ingredient selection and assembly  \n• Drag-and-drop preparation controls  \n• Increasing customer order complexity  \n• Time management and multitasking challenge  \n• Burger and pizza cooking mechanics"
 },
 {
 "id": "72d861a52f3c4e788ae0421649633be3",
