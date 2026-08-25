@@ -9,9 +9,15 @@ CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
 
 AGENT_EXCEPTIONS = {
     "archer": "archery",
-    "archers": "archery",
     "biker": "bike",
-    "bikers": "bike",
+    "defender": "defense",
+    "fighter": "fighting",
+    "wrestler": "fighting",
+    "racer": "racing",
+    "jumper": "jumping",
+    "farmer": "farming",
+    "fisherman": "fishing",
+    "angler": "fishing",
 }
 
 
