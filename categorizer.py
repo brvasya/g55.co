@@ -51,6 +51,11 @@ AGENT_EXCEPTIONS = {
     "tailor": "fashion",
 
     "babysitter": "baby",
+
+    "commando": "shooter",
+    "gunslinger": "shooter",
+    "swat": "shooter",
+    "skeet": "shooter",
 }
 
 
