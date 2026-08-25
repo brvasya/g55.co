@@ -430,11 +430,6 @@
 "description": "Rescue games focus on completing mission based objectives in <a href='/?c=adventure'>adventure games</a> where players locate targets, overcome obstacles, and guide characters or items to safety through structured scenarios. These experiences involve navigation and problem solving elements similar to <a href='/?c=escape'>escape games</a>, combining environmental awareness with goal focused progression. Gameplay centers on reaching objectives efficiently while adapting to changing situations and level layouts."
 },
 {
-"id": "restaurant",
-"name": "Restaurant",
-"description": "Restaurant Games focus on preparing meals, serving customers, and managing food businesses through cooking and time management gameplay. Players take orders, cook dishes, organize ingredients, and keep customers satisfied while balancing speed and efficiency. Many games combine kitchen management systems, restaurant upgrades, and customer service mechanics that create a rewarding progression loop. This category is part of <a href=\"/?c=cooking\">cooking games</a> and features a wide variety of cafes, diners, food trucks, and restaurant management scenarios designed for players who enjoy operating and growing virtual food businesses."
-},
-{
 "id": "runner",
 "name": "Runner",
 "description": "Runner games focus on continuous movement in <a href='/?c=platform'>platform games</a> where players move forward automatically, avoid obstacles, and react quickly through timing based mechanics. These experiences emphasize speed and flow similar to <a href='/?c=rush'>rush games</a>, requiring quick decisions and consistent control. Gameplay centers on maintaining momentum, avoiding hazards, and progressing through endless or level based challenges."
