@@ -667,6 +667,39 @@ class CategorizerApp(tk.Tk):
         keywords.sort(key=lambda k: (len(k["tokens"]), len(k["slug"])), reverse=True)
         return keywords
 
+    def find_best_keyword_match(
+        self,
+        title_tokens: list[str],
+        keywords,
+        min_tokens: int,
+    ):
+        best = None
+        best_priority = None
+        best_score = -1
+        ties = 0
+
+        for kw in keywords:
+            kt = kw["tokens"]
+            if len(kt) < min_tokens:
+                continue
+
+            hits = find_all_subseq_positions(title_tokens, kt)
+            if not hits:
+                continue
+
+            priority = build_match_priority(hits, kt, kw["slug"])
+            score = build_display_score(priority)
+
+            if best_priority is None or priority > best_priority:
+                best_priority = priority
+                best_score = score
+                best = kw
+                ties = 0
+            elif priority == best_priority:
+                ties += 1
+
+        return best, best_priority, best_score, ties
+
     def scan(self):
         if not self.current_file:
             messagebox.showwarning("No source", "Select a source category first.")
@@ -680,35 +713,69 @@ class CategorizerApp(tk.Tk):
         agent_exceptions_enabled = bool(self.agent_exceptions_var.get())
 
         all_slugs = [raw_slug_from_filename(fn) for fn in self.files]
-        fused_lexicon = build_fused_lexicon(
+
+        # Pass 1: literal/morphological matching only.
+        # Semantic exceptions are intentionally disabled here so a semantic alias
+        # can never defeat a genuine category keyword already present in a title.
+        direct_fused_lexicon = build_fused_lexicon(
             all_slugs,
             plural_enabled,
             gerund_enabled,
             agent_enabled,
-            agent_exceptions_enabled,
+            False,
         )
-
-        keywords = self.build_keyword_map(
+        direct_keywords = self.build_keyword_map(
             plural_enabled,
             gerund_enabled,
             agent_enabled,
-            agent_exceptions_enabled,
-            fused_lexicon,
+            False,
+            direct_fused_lexicon,
         )
-        if not keywords:
+        if not direct_keywords:
             messagebox.showinfo("No keywords", "No other categories found to use as keywords.")
             return
 
+        # Pass 2: semantic fallback. It is used only when pass 1 finds no
+        # destination category at all.
+        semantic_fused_lexicon = direct_fused_lexicon
+        semantic_keywords = direct_keywords
+        if agent_exceptions_enabled:
+            semantic_fused_lexicon = build_fused_lexicon(
+                all_slugs,
+                plural_enabled,
+                gerund_enabled,
+                agent_enabled,
+                True,
+            )
+            semantic_keywords = self.build_keyword_map(
+                plural_enabled,
+                gerund_enabled,
+                agent_enabled,
+                True,
+                semantic_fused_lexicon,
+            )
+
         current_raw_slug = raw_slug_from_filename(self.current_file)
         current_slug = current_raw_slug.lower()
-        current_tokens = tokenize_for_matching(
+
+        direct_current_tokens = tokenize_for_matching(
             current_raw_slug,
             plural_enabled,
             gerund_enabled,
             agent_enabled,
-            agent_exceptions_enabled,
-            fused_lexicon,
+            False,
+            direct_fused_lexicon,
         )
+        semantic_current_tokens = direct_current_tokens
+        if agent_exceptions_enabled:
+            semantic_current_tokens = tokenize_for_matching(
+                current_raw_slug,
+                plural_enabled,
+                gerund_enabled,
+                agent_enabled,
+                True,
+                semantic_fused_lexicon,
+            )
 
         self.clear_results()
 
@@ -721,49 +788,49 @@ class CategorizerApp(tk.Tk):
             if not title:
                 continue
 
-            title_tokens = tokenize_for_matching(
+            direct_title_tokens = tokenize_for_matching(
                 title,
                 plural_enabled,
                 gerund_enabled,
                 agent_enabled,
-                agent_exceptions_enabled,
-                fused_lexicon,
+                False,
+                direct_fused_lexicon,
             )
 
-            current_priority = None
+            best, best_priority, best_score, ties = self.find_best_keyword_match(
+                direct_title_tokens,
+                direct_keywords,
+                min_tokens,
+            )
 
+            title_tokens = direct_title_tokens
+            current_tokens = direct_current_tokens
+
+            # Only fill a missing direct category with semantic aliases.
+            if best is None and agent_exceptions_enabled:
+                title_tokens = tokenize_for_matching(
+                    title,
+                    plural_enabled,
+                    gerund_enabled,
+                    agent_enabled,
+                    True,
+                    semantic_fused_lexicon,
+                )
+                current_tokens = semantic_current_tokens
+                best, best_priority, best_score, ties = self.find_best_keyword_match(
+                    title_tokens,
+                    semantic_keywords,
+                    min_tokens,
+                )
+
+            if best is None:
+                continue
+
+            current_priority = None
             if current_tokens:
                 current_hits = find_all_subseq_positions(title_tokens, current_tokens)
                 if current_hits:
                     current_priority = build_match_priority(current_hits, current_tokens, current_slug)
-
-            best = None
-            best_priority = None
-            best_score = -1
-            ties = 0
-
-            for kw in keywords:
-                kt = kw["tokens"]
-                if len(kt) < min_tokens:
-                    continue
-
-                hits = find_all_subseq_positions(title_tokens, kt)
-                if not hits:
-                    continue
-
-                priority = build_match_priority(hits, kt, kw["slug"])
-                score = build_display_score(priority)
-
-                if best_priority is None or priority > best_priority:
-                    best_priority = priority
-                    best_score = score
-                    best = kw
-                    ties = 0
-                elif priority == best_priority:
-                    ties += 1
-
-            if best is None:
-                continue
 
             if current_priority is not None:
                 if current_priority >= best_priority:
