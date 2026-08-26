@@ -30,6 +30,7 @@ AGENT_EXCEPTIONS = {
     "pinball": "ball",
     "pong": "ball",
     "slope": "ball",
+    "zuma": "ball",
 
     #basketball
     "dunk": "basketball",
@@ -78,6 +79,7 @@ AGENT_EXCEPTIONS = {
 
     #connect
     "conect": "connect",
+    "connection": "connect",
     "linker": "connect",
     "onnect": "connect",
 
@@ -94,9 +96,11 @@ AGENT_EXCEPTIONS = {
     "grill": "cooking",
     "kitchen": "cooking",
     "pancake": "cooking",
+    "pastry": "cooking",
     "recipe": "cooking",
     "recipes": "cooking",
     "salad": "cooking",
+    "smoothie": "cooking",
 
     #defense
     "defence": "defense",
@@ -127,7 +131,6 @@ AGENT_EXCEPTIONS = {
 
     #driving
     "atv": "driving",
-    "demolition": "driving",
     "rickshaw": "driving",
     "taxi": "driving",
     "tractor": "driving",
@@ -161,6 +164,7 @@ AGENT_EXCEPTIONS = {
     "slap": "fighting",
     "sumo": "fighting",
     "sumos": "fighting",
+    "wrestle": "fighting",
     "wrestler": "fighting",
     "wrestling": "fighting",
 
@@ -230,6 +234,7 @@ AGENT_EXCEPTIONS = {
 
     #matching
     "kyodai": "matching",
+    "matchems": "matching",
     "onet": "matching",
     "pair": "matching",
     "pairs": "matching",
@@ -261,6 +266,9 @@ AGENT_EXCEPTIONS = {
     #offroad
     "jeep": "offroad",
 
+    #parking
+    "unpark": "parking",
+
     #pool
     "billiard": "pool",
 
@@ -280,14 +288,18 @@ AGENT_EXCEPTIONS = {
     "ludo": "puzzle",
     "minesweeper": "puzzle",
     "nonogram": "puzzle",
+    "pipes": "puzzle",
     "plumber": "puzzle",
     "puzzlez": "puzzle",
     "reversi": "puzzle",
+    "scatty": "puzzle",
     "screw": "puzzle",
     "sokoban": "puzzle",
     "suika": "puzzle",
     "tac": "puzzle",
     "tangram": "puzzle",
+    "unroll": "puzzle",
+    "untangle": "puzzle",
     "wheely": "puzzle",
     "yatzy": "puzzle",
 
@@ -315,6 +327,7 @@ AGENT_EXCEPTIONS = {
     "rushy": "rush",
 
     #shooter
+    "blaster": "shooter",
     "commando": "shooter",
     "gunslinger": "shooter",
     "shootout": "shooter",
@@ -338,6 +351,7 @@ AGENT_EXCEPTIONS = {
     #solitaire
     "freecell": "solitaire",
     "patience": "solitaire",
+    "soli": "solitaire",
     "tripeaks": "solitaire",
 
     #sorting
@@ -383,6 +397,9 @@ AGENT_EXCEPTIONS = {
     "stuntz": "stunt",
     "wheelie": "stunt",
 
+    #sudoku
+    "wordoku": "sudoku",
+
     #survival
     "survive": "survival",
     "survivor": "survival",
@@ -405,6 +422,8 @@ AGENT_EXCEPTIONS = {
     "letter": "word",
     "type": "word",
     "typing": "word",
+    "wordmeister": "word",
+    "wordscapes": "word",
     "wordy": "word",
 
 }
