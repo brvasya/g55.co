@@ -109,7 +109,6 @@ AGENT_EXCEPTIONS = {
     "drifty": "drift",
 
     #driving
-    "jeep": "driving",
     "rickshaw": "driving",
 
     #farming
@@ -223,6 +222,9 @@ AGENT_EXCEPTIONS = {
     "fusion": "merge",
     "merger": "merge",
     "merging": "merge",
+
+    #offroad
+    "jeep": "offroad",
 
     #pool
     "billiard": "pool",
