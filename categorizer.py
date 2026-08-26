@@ -1208,6 +1208,22 @@ class CategorizerApp(tk.Tk):
                             )
 
             if best is None:
+                if current_priority is not None:
+                    skipped_self += 1
+                    continue
+
+                if self.current_file.lower() != "casual.json":
+                    casual_fn = next(
+                        (fn for fn in self.files if fn.lower() == "casual.json"),
+                        "",
+                    )
+                    if casual_fn:
+                        self.tree.insert(
+                            "",
+                            "end",
+                            values=(gid, title, "orphan", casual_fn, "0"),
+                        )
+                        candidates += 1
                 continue
 
             if current_priority is not None:
