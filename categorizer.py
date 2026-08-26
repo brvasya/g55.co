@@ -75,7 +75,6 @@ AGENT_EXCEPTIONS = {
 
     #coloring
     "colouring": "coloring",
-    "colourings": "coloring",
 
     #connect
     "conect": "connect",
@@ -86,34 +85,21 @@ AGENT_EXCEPTIONS = {
     #cooking
     "bake": "cooking",
     "baker": "cooking",
-    "bakeries": "cooking",
-    "bakers": "cooking",
     "bakery": "cooking",
-    "bakes": "cooking",
     "baking": "cooking",
     "bbq": "cooking",
-    "bbqs": "cooking",
     "burger": "cooking",
-    "burgers": "cooking",
     "chef": "cooking",
-    "chefs": "cooking",
     "cuisine": "cooking",
-    "cuisines": "cooking",
     "cupcakes": "cooking",
     "grill": "cooking",
-    "grills": "cooking",
     "kitchen": "cooking",
-    "kitchens": "cooking",
     "pancake": "cooking",
-    "pancakes": "cooking",
-    "pastries": "cooking",
     "pastry": "cooking",
     "recipe": "cooking",
     "recipes": "cooking",
     "salad": "cooking",
-    "salads": "cooking",
     "smoothie": "cooking",
-    "smoothies": "cooking",
 
     #defense
     "defence": "defense",
@@ -144,17 +130,12 @@ AGENT_EXCEPTIONS = {
 
     #driving
     "atv": "driving",
-    "atvs": "driving",
     "rickshaw": "driving",
-    "rickshaws": "driving",
     "taxi": "driving",
-    "taxis": "driving",
     "tractor": "driving",
-    "tractors": "driving",
 
     #farming
     "farmer": "farming",
-    "farmers": "farming",
     "harvesting": "farming",
 
     #fashion
@@ -173,43 +154,29 @@ AGENT_EXCEPTIONS = {
     #fighting
     "boxing": "fighting",
     "brawler": "fighting",
-    "brawlers": "fighting",
     "fighter": "fighting",
-    "fighters": "fighting",
     "gladiator": "fighting",
-    "gladiators": "fighting",
     "karate": "fighting",
     "punch": "fighting",
-    "punches": "fighting",
     "samurai": "fighting",
-    "samurais": "fighting",
     "slap": "fighting",
-    "slaps": "fighting",
     "sumo": "fighting",
     "sumos": "fighting",
     "wrestle": "fighting",
     "wrestler": "fighting",
-    "wrestlers": "fighting",
     "wrestling": "fighting",
 
     #fishing
     "angler": "fishing",
-    "anglers": "fishing",
     "fisherman": "fishing",
-    "fishermen": "fishing",
 
     #flying
     "airplane": "flying",
-    "airplanes": "flying",
     "aviation": "flying",
     "aviator": "flying",
-    "aviators": "flying",
     "glider": "flying",
-    "gliders": "flying",
     "helicopter": "flying",
-    "helicopters": "flying",
     "pilot": "flying",
-    "pilots": "flying",
     "plane": "flying",
     "planes": "flying",
 
@@ -247,10 +214,8 @@ AGENT_EXCEPTIONS = {
     #jumping
     "hopping": "jumping",
     "jumper": "jumping",
-    "jumpers": "jumping",
     "jumpy": "jumping",
     "leap": "jumping",
-    "leaps": "jumping",
 
     #kids
     "children": "kids",
@@ -343,11 +308,8 @@ AGENT_EXCEPTIONS = {
     "formula": "racing",
     "karting": "racing",
     "racer": "racing",
-    "racers": "racing",
-    "rallies": "racing",
     "rally": "racing",
     "speedway": "racing",
-    "speedways": "racing",
 
     #rescue
     "ambulance": "rescue",
@@ -364,13 +326,9 @@ AGENT_EXCEPTIONS = {
 
     #shooter
     "blaster": "shooter",
-    "blasters": "shooter",
     "commando": "shooter",
-    "commandos": "shooter",
     "gunslinger": "shooter",
-    "gunslingers": "shooter",
     "shootout": "shooter",
-    "shootouts": "shooter",
     "shooty": "shooter",
     "skeet": "shooter",
     "swat": "shooter",
@@ -384,12 +342,8 @@ AGENT_EXCEPTIONS = {
 
     #soccer
     "foosball": "soccer",
-    "foosballs": "soccer",
     "freekick": "soccer",
-    "freekicks": "soccer",
     "goalkeeper": "soccer",
-    "goalkeepers": "soccer",
-    "penalties": "soccer",
     "penalty": "soccer",
 
     #solitaire
@@ -424,19 +378,14 @@ AGENT_EXCEPTIONS = {
     "hockey": "sports",
     "skate": "sports",
     "skateboard": "sports",
-    "skateboards": "sports",
     "skater": "sports",
-    "skaters": "sports",
     "skates": "sports",
     "skating": "sports",
     "ski": "sports",
     "skiing": "sports",
-    "skis": "sports",
     "snowboard": "sports",
-    "snowboards": "sports",
     "volley": "sports",
     "volleyball": "sports",
-    "volleyballs": "sports",
 
     #stack
     "stacka": "stack",
@@ -445,7 +394,6 @@ AGENT_EXCEPTIONS = {
     #stunt
     "stuntz": "stunt",
     "wheelie": "stunt",
-    "wheelies": "stunt",
 
     #sudoku
     "wordoku": "sudoku",
@@ -570,12 +518,15 @@ def singularize_token(t: str) -> str:
     if len(t) < 4:
         return t
 
-    ies_keep_e = {
-        "zombies": "zombie",
+    plural_exceptions = {
+        "fishermen": "fisherman",
         "heroes": "hero",
+        "smoothies": "smoothie",
+        "wheelies": "wheelie",
+        "zombies": "zombie",
     }
-    if t in ies_keep_e:
-        return ies_keep_e[t]
+    if t in plural_exceptions:
+        return plural_exceptions[t]
 
     if t.endswith("ies") and len(t) > 4:
         return t[:-3] + "y"
@@ -647,6 +598,10 @@ def maybe_normalize_tokens(
     out = []
     for x in tokens:
         t = x
+        if agent_exceptions_enabled:
+            t = apply_agent_exception_token(t)
+        if plural_enabled:
+            t = singularize_token(t)
         if agent_exceptions_enabled:
             t = apply_agent_exception_token(t)
         if gerund_enabled:
