@@ -8,6 +8,9 @@ CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
 
 
 AGENT_EXCEPTIONS = {
+    #adventure
+    "rpg": "adventure",
+
     #archery
     "archer": "archery",
     "archero": "archery",
@@ -23,11 +26,14 @@ AGENT_EXCEPTIONS = {
     "arkanoid": "ball",
     "ballz": "ball",
     "breakout": "ball",
+    "marble": "ball",
     "pinball": "ball",
     "pong": "ball",
+    "slope": "ball",
 
     #basketball
     "dunk": "basketball",
+    "hoops": "basketball",
 
     #battle
     "battler": "battle",
@@ -43,8 +49,11 @@ AGENT_EXCEPTIONS = {
     "motorcycle": "bike",
 
     #block
+    "10x10": "block",
     "blockz": "block",
+    "brick": "block",
     "tetris": "block",
+    "tetriz": "block",
     "unblock": "block",
 
     #brain
@@ -69,6 +78,7 @@ AGENT_EXCEPTIONS = {
 
     #connect
     "conect": "connect",
+    "linker": "connect",
     "onnect": "connect",
 
     #cooking
@@ -77,11 +87,16 @@ AGENT_EXCEPTIONS = {
     "bakery": "cooking",
     "baking": "cooking",
     "bbq": "cooking",
+    "burger": "cooking",
     "chef": "cooking",
+    "cuisine": "cooking",
+    "cupcakes": "cooking",
     "grill": "cooking",
     "kitchen": "cooking",
+    "pancake": "cooking",
     "recipe": "cooking",
     "recipes": "cooking",
+    "salad": "cooking",
 
     #defense
     "defence": "defense",
@@ -96,9 +111,11 @@ AGENT_EXCEPTIONS = {
     #doctor
     "dental": "doctor",
     "dentist": "doctor",
+    "er": "doctor",
     "medical": "doctor",
     "surgeon": "doctor",
     "surgery": "doctor",
+    "vaccine": "doctor",
 
     #dog
     "doggy": "dog",
@@ -109,10 +126,15 @@ AGENT_EXCEPTIONS = {
     "drifty": "drift",
 
     #driving
+    "atv": "driving",
+    "demolition": "driving",
     "rickshaw": "driving",
+    "taxi": "driving",
+    "tractor": "driving",
 
     #farming
     "farmer": "farming",
+    "harvesting": "farming",
 
     #fashion
     "barber": "fashion",
@@ -130,10 +152,13 @@ AGENT_EXCEPTIONS = {
     #fighting
     "boxing": "fighting",
     "brawler": "fighting",
+    "drunken": "fighting",
     "fighter": "fighting",
     "gladiator": "fighting",
     "karate": "fighting",
+    "punch": "fighting",
     "samurai": "fighting",
+    "slap": "fighting",
     "sumo": "fighting",
     "sumos": "fighting",
     "wrestler": "fighting",
@@ -158,10 +183,12 @@ AGENT_EXCEPTIONS = {
     "touchdown": "football",
 
     #golf
+    "minigolf": "golf",
     "putt": "golf",
 
     #gun
     "bazooka": "gun",
+    "pistol": "gun",
 
     #halloween
     "hallowen": "halloween",
@@ -174,6 +201,8 @@ AGENT_EXCEPTIONS = {
     #horror
     "haunted": "horror",
     "scary": "horror",
+    "slender": "horror",
+    "slenderman": "horror",
     "slendrina": "horror",
     "terror": "horror",
 
@@ -181,8 +210,10 @@ AGENT_EXCEPTIONS = {
     "imposter": "impostor",
 
     #jumping
+    "hopping": "jumping",
     "jumper": "jumping",
     "jumpy": "jumping",
+    "leap": "jumping",
 
     #kids
     "children": "kids",
@@ -191,10 +222,14 @@ AGENT_EXCEPTIONS = {
     "mahjongg": "mahjong",
 
     #makeup
+    "lip": "makeup",
     "manicure": "makeup",
+    "nails": "makeup",
     "pedicure": "makeup",
+    "tattoo": "makeup",
 
     #matching
+    "kyodai": "matching",
     "onet": "matching",
     "pair": "matching",
     "pairs": "matching",
@@ -234,17 +269,26 @@ AGENT_EXCEPTIONS = {
     "bolts": "puzzle",
     "checkers": "puzzle",
     "domino": "puzzle",
+    "dominoes": "puzzle",
     "draughts": "puzzle",
+    "erase": "puzzle",
+    "fireboy": "puzzle",
+    "hex": "puzzle",
+    "hexa": "puzzle",
+    "lines": "puzzle",
     "lock": "puzzle",
     "ludo": "puzzle",
     "minesweeper": "puzzle",
     "nonogram": "puzzle",
     "plumber": "puzzle",
     "puzzlez": "puzzle",
+    "reversi": "puzzle",
     "screw": "puzzle",
     "sokoban": "puzzle",
+    "suika": "puzzle",
     "tac": "puzzle",
     "tangram": "puzzle",
+    "wheely": "puzzle",
     "yatzy": "puzzle",
 
     #quiz
@@ -258,6 +302,7 @@ AGENT_EXCEPTIONS = {
     "speedway": "racing",
 
     #rescue
+    "ambulance": "rescue",
     "firefighter": "rescue",
     "rescuer": "rescue",
 
@@ -272,6 +317,7 @@ AGENT_EXCEPTIONS = {
     #shooter
     "commando": "shooter",
     "gunslinger": "shooter",
+    "shootout": "shooter",
     "shooty": "shooter",
     "skeet": "shooter",
     "swat": "shooter",
@@ -285,6 +331,7 @@ AGENT_EXCEPTIONS = {
 
     #soccer
     "foosball": "soccer",
+    "freekick": "soccer",
     "goalkeeper": "soccer",
     "penalty": "soccer",
 
@@ -294,8 +341,10 @@ AGENT_EXCEPTIONS = {
     "tripeaks": "solitaire",
 
     #sorting
+    "laundry": "sorting",
     "organize": "sorting",
     "organizer": "sorting",
+    "tidy": "sorting",
 
     #space
     "asteroid": "space",
@@ -305,6 +354,7 @@ AGENT_EXCEPTIONS = {
     "galactic": "space",
     "mars": "space",
     "moon": "space",
+    "solar": "space",
     "spaceship": "space",
     "starship": "space",
 

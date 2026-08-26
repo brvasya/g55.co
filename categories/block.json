@@ -1,6 +1,314 @@
 {
 "pages": [
 {
+"id": "bd5eaa2955434cc7b05bfcacb276f174",
+"title": "Brick Breaker",
+"iframe": "https://html5.gamedistribution.com/bd5eaa2955434cc7b05bfcacb276f174/",
+"creator": "BUSIDOL",
+"description": "Bounce a paddle to ricochet a fast-moving ball against a clustered wall of bricks, aiming to clear every one by hitting them precisely. The core mechanic involves controlling the paddle’s horizontal movement to direct the ball’s angle and speed, with levels advancing as brick patterns become more complex. Timing and positioning challenge casual players seeking quick reflex tests.\n\nKey Features\n\n• Paddle control with angle dynamics  \n• Brick destruction progression system  \n• Ball rebound physics variations  \n• Increasing level difficulty patterns  \n• Classic arcade style visuals"
+},
+{
+"id": "e953c15aaef4468ba9b1d4338fdafb81",
+"title": "Brick Blaze",
+"iframe": "https://html5.gamedistribution.com/e953c15aaef4468ba9b1d4338fdafb81/",
+"creator": "arcadiumgg",
+"description": "Stack colored bricks by matching clusters to clear challenging grids and prevent overflow. Players rotate and position falling brick groups in this arcade puzzle mix, aiming to create chains and combos for higher scores as levels gradually increase in difficulty. Strategic placement and timely clearing are essential to mastering the progressively complex layouts.\n\nKey Features\n\n• Cluster matching core mechanic  \n• Controlled brick rotation and placement  \n• Increasing grid complexity  \n• Combo chain scoring system  \n• Casual arcade puzzle style"
+},
+{
+"id": "50060980890049a689afa0e9ac1bcdfb",
+"title": "Brick Game Classic",
+"iframe": "https://html5.gamedistribution.com/50060980890049a689afa0e9ac1bcdfb/",
+"creator": "PuzzleGame.Com",
+"description": "Manipulate falling colored blocks to fill horizontal lines and clear the grid in this classic stacking puzzle. The game focuses on arranging brick shapes efficiently within a confined space to prevent overflow, challenging players with gradually increasing speeds that test quick thinking and spatial awareness.\n\nKey Features\n\n• Tetromino-like block shapes  \n• Directional controls for block placement  \n• Speed increase over time  \n• Line clear scoring system  \n• Minimalistic retro display style"
+},
+{
+"id": "bf48262b118340a2aee53af955de698f",
+"title": "Drop Bricks Breaker",
+"iframe": "https://html5.gamedistribution.com/bf48262b118340a2aee53af955de698f/",
+"creator": "bestgames.com",
+"description": "Stack falling bricks strategically to clear lines and prevent the screen from filling up in this casual arcade challenge. The game’s core mechanic revolves around precise placement and timing to manage the descending blocks, pushing players to improve their spatial awareness. Challenge increases as brick drop speed accelerates through progressively tougher stages.\n\nKey Features\n\n• Precision brick stacking control  \n• Increasing drop speed difficulty  \n• Progressive level stages  \n• Score multiplier combos  \n• Classic arcade visual style"
+},
+{
+"id": "e4740d5887674a4baaaed656623290d2",
+"title": "Colored Bricks",
+"iframe": "https://html5.gamedistribution.com/e4740d5887674a4baaaed656623290d2/",
+"creator": "GameBerry Studio",
+"description": "Match and clear groups of colored bricks to score points and advance through increasingly complex puzzle grids. Players manipulate clusters using precise drag-and-drop mechanics to form chains that vanish and trigger combos. Progression features escalating patterns and occasional timed challenges for added pressure and quick decision-making. The simple visual style centers on vibrant block arrangements, inviting casual gamers and younger players to strategize efficiently.\n\nKey Features\n\n• Drag-and-drop cluster matching  \n• Combo chain reaction system  \n• Progressive puzzle grid layouts  \n• Timed challenge stages  \n• Vibrant color block visuals"
+},
+{
+"id": "293910a569c94713919e185226171914",
+"title": "Turkey Twist Tetriz",
+"iframe": "https://html5.gamedistribution.com/293910a569c94713919e185226171914/",
+"creator": "Lof Games",
+"description": "Arrange falling blocks with precision to clear lines in this puzzle challenge that tests spatial reasoning and quick decision-making. Players manipulate geometric shapes to fit them into tight spaces, aiming to prevent the stack from reaching the top. The game features varying block patterns and accelerating drop speeds to increase difficulty as you progress.\n\nKey Features\n\n• Shape rotation and placement  \n• Fast drop control mechanics  \n• Progressive speed increments  \n• Line clearance scoring system  \n• Color-coded tetrimino blocks"
+},
+{
+"id": "d3e15ebd29894931bd5e1027ce707b2f",
+"title": "Reckless Tetriz",
+"iframe": "https://html5.gamedistribution.com/d3e15ebd29894931bd5e1027ce707b2f/",
+"creator": "Lof Games",
+"description": "Manipulate falling blocks to create full lines using spinning and swift placement tactics in a high-speed puzzle environment. The gameplay challenges players to adapt to an accelerated drop rate, pushing reflexes and spatial reasoning to the limit. Increasingly complex line clears and combo multipliers intensify the pressure for precise moves in frantic levels.\n\nKey Features\n\n• Fast-paced block rotation system  \n• Responsive keyboard and touch controls  \n• Progressive speed escalation  \n• Combo-based scoring mechanics  \n• Minimalist geometric visual theme"
+},
+{
+"id": "77087b953d9047198a48528927dab68a",
+"title": "Break MANY Bricks",
+"iframe": "https://html5.gamedistribution.com/77087b953d9047198a48528927dab68a/",
+"creator": "Poly Games",
+"description": "Break bricks apart by aiming precise ball shots to clear varied block formations in this classic arcade challenge. Players control ball trajectories with paddle movements to break through increasingly complex brick patterns and earn points. The game features multiple levels with unique brick layouts, requiring timing and angle adjustments for full clearance.\n\nKey Features\n\n• Paddle controlled ball aiming  \n• Varied brick pattern layouts  \n• Progressive level difficulty  \n• Angle-based ball rebound physics  \n• Classic arcade brick-breaking style"
+},
+{
+"id": "a10a6097a22443fa9362422526b4029e",
+"title": "Brick Breaker Retro",
+"iframe": "https://html5.gamedistribution.com/a10a6097a22443fa9362422526b4029e/",
+"creator": "BestGameSpot",
+"description": "Bounce a paddle-controlled ball to shatter colorful brick formations in classic arcade fashion. Players manipulate a horizontal paddle to keep the ball in play while targeting layered brick structures that require precise aiming and timing. Levels increase in difficulty with varied brick patterns, demanding steady reflexes and strategic ball positioning.\n\nKey Features\n\n• Paddle and ball control mechanics  \n• Multi-level brick clearing progression  \n• Increasingly complex brick arrangements  \n• Score-based performance tracking  \n• Retro pixel art aesthetic"
+},
+{
+"id": "3bc5461b7a124c8ea7b15a1d17a1f3f7",
+"title": "10x10 fill the grid !",
+"iframe": "https://html5.gamedistribution.com/3bc5461b7a124c8ea7b15a1d17a1f3f7/",
+"creator": "Playtouch",
+"description": "Arrange numbered pieces strategically to fill a 10 by 10 grid completely in this puzzle challenge. Players manipulate spatial placement with varying block shapes to clear lines and optimize grid usage. The main goal is completing rows without gaps, requiring careful planning and logical spatial reasoning.\n\nKey Features\n\n• Grid based block placement  \n• Shape rotation and movement controls  \n• Progressive row clearing challenge  \n• Increasing difficulty levels  \n• Minimalistic puzzle interface"
+},
+{
+"id": "2af87711bd1a46cfa84279ce19b26799",
+"title": "Brick Out",
+"iframe": "https://html5.gamedistribution.com/2af87711bd1a46cfa84279ce19b26799/",
+"creator": "Ramblo Digital Media",
+"description": "Break bricks by launching a bouncing ball and strategically aiming with a paddle to clear each level. The game challenges players to control ball speed and angle through precise paddle movements, breaking through layered brick arrangements. Progression comes from increasingly complex brick patterns and power-up drops that alter the ball’s behavior for varied gameplay.\n\nKey Features\n\n• Paddle ball reflection mechanic  \n• Aiming precision controls  \n• Layered brick clearing challenges  \n• Power-up effect system  \n• Classic arcade style presentation"
+},
+{
+"id": "3d3d68da6d5a471e93bab1c3bde01d70",
+"title": "Bricks Breaker",
+"iframe": "https://html5.gamedistribution.com/3d3d68da6d5a471e93bab1c3bde01d70/",
+"creator": "Playtouch",
+"description": "Launch a paddle to bounce a ball and shatter patterned rows of bricks using precise timing and aiming. Players control the paddle to keep the ball in play while clearing increasingly complex brick formations with variable durability. Progression introduces new brick types and power-ups that alter ball behavior and scoring dynamics, creating layered challenge and strategy for casual players.\n\nKey Features\n\n• Paddle control with precise ball aiming  \n• Multi-hit bricks with durability levels  \n• Power-up drops affecting ball speed  \n• Level progression with increasing complexity  \n• Classic arcade brick-breaking setup"
+},
+{
+"id": "8703859096d64b9aa0eb0165e577eebe",
+"title": "Brick Breaker",
+"iframe": "https://html5.gamedistribution.com/8703859096d64b9aa0eb0165e577eebe/",
+"creator": "Rokito Games",
+"description": "Bounce a ball to shatter layered brick formations using a paddle that slides horizontally across the screen. Players aim to clear increasingly complex layouts by controlling ball angles and speed, managing rebounds to prevent misses. The arcade-style challenge tests timing and precision, with each level introducing varied brick patterns and destruction mechanics.\n\nKey Features\n\n• Paddle-based ball control  \n• Brick breaking with angle physics  \n• Progressive level layouts  \n• Lives and score tracking system  \n• Classic arcade visual style"
+},
+{
+"id": "7c93aa8348d143f2b13c99042a10186b",
+"title": "10x10 Winter Gems",
+"iframe": "https://html5.gamedistribution.com/7c93aa8348d143f2b13c99042a10186b/",
+"creator": "Freak X Games",
+"description": "Match and clear sparkling gems on a 10 by 10 grid to create strategic chains and score points. The gameplay centers on aligning winter-themed jewels in rows or columns, testing your pattern recognition and planning skills. Unlock higher difficulty levels as you progress and face the challenge of making the most efficient moves before the board fills up.\n\nKey Features\n\n• grid-based gem matching  \n• tile swapping controls  \n• increasing board complexity  \n• timed challenge mode  \n• icy winter visual style"
+},
+{
+"id": "182d15222f0b4c8ca643bacf942b51d9",
+"title": "Numbers Bricks",
+"iframe": "https://html5.gamedistribution.com/182d15222f0b4c8ca643bacf942b51d9/",
+"creator": "Simplegame",
+"description": "Combine numbered bricks by matching values to clear the grid and reach target totals in this number puzzle. Players slide and stack numeric tiles within a confined space, using simple addition mechanics to merge bricks and prevent overflow. The challenge ramps up as higher numbers emerge, demanding careful planning and sequence strategies to maximize scores.\n\nKey Features\n\n• Numeric tile merging system  \n• Grid-based sliding controls  \n• Increasing difficulty thresholds  \n• Score multiplier progression  \n• Minimalist puzzle interface"
+},
+{
+"id": "6633a450877f432bbacd8237118f9dad",
+"title": "Brick Out 240",
+"iframe": "https://html5.gamedistribution.com/6633a450877f432bbacd8237118f9dad/",
+"creator": "trezegames",
+"description": "Smash clusters of colorful bricks by aiming a fast-moving ball against them in precision bounce patterns. Players control a wide paddle that reacts instantly to horizontal movement in each level, aiming to clear all blocks before the ball is lost. The game challenges timing and angle adjustment across its steadily increasing grid layouts.  \n\nKey Features\n\n• Paddle control with responsive movement  \n• Brick clearing through ball collision  \n• Level-based block arrangement variety  \n• Progressive difficulty scaling  \n• Classic arcade breakout theme"
+},
+{
+"id": "2cfc001d7d0b454c8b7e10118879630b",
+"title": "10x10 Gems Deluxe",
+"iframe": "https://html5.gamedistribution.com/2cfc001d7d0b454c8b7e10118879630b/",
+"creator": "Freak X Games",
+"description": "Arrange colorful gems strategically on a 10 by 10 grid to clear lines and maximize your score. This puzzle challenges players to fit various shaped gem clusters within the limited space, aiming to prevent the board from filling up. As pieces drop, careful spatial planning becomes essential to continue progressing through increasingly complex layouts.\n\nKey Features\n\n• grid-based block placement  \n• shape fitting puzzle mechanic  \n• line clearing scoring system  \n• progressive difficulty levels  \n• colorful gem tile design"
+},
+{
+"id": "2e23fb9c54d041169f0dd844ab6fee8d",
+"title": "Brick Breaker Endless",
+"iframe": "https://html5.gamedistribution.com/2e23fb9c54d041169f0dd844ab6fee8d/",
+"creator": "Dumadu Games Pvt Ltd",
+"description": "Bounce the ball to clear endless layers of colorful bricks in this fast-paced arcade challenge. Players control a paddle at the screen bottom, using precise horizontal movement to keep the ball in play while breaking brick patterns that increase in complexity. The goal is to achieve high scores by sustaining combos and managing power-ups that alter ball speed and paddle size.\n\nKey Features\n\n• Paddle control with smooth horizontal movement  \n• Brick layout progression with increasing difficulty  \n• Combo scoring and multiplier system  \n• Power-up effects changing ball dynamics  \n• Classic arcade brick-breaking gameplay"
+},
+{
+"id": "5128fe7c1f9f46428877d15ae4e0002e",
+"title": "Brick Surfer",
+"iframe": "https://html5.gamedistribution.com/5128fe7c1f9f46428877d15ae4e0002e/",
+"creator": "YAD.Com",
+"description": "Jump over moving bricks by controlling a fast-paced ball that rides on colorful blocks while avoiding gaps and obstacles. Players must time jumps precisely to stay on the ever-changing path made of stacked bricks. The game challenges reflexes and agility as the path shifts, creating a dynamic environment for continuous progression.\n\nKey Features\n\n• Precision timing jump mechanic  \n• Dynamic brick path generation  \n• Responsive ball movement controls  \n• Increasing difficulty escalation  \n• Casual arcade style setting"
+},
+{
+"id": "09ad72b06f814f9a9d7a0e6cfa28edeb",
+"title": "Eggs Brick Breaker",
+"iframe": "https://html5.gamedistribution.com/09ad72b06f814f9a9d7a0e6cfa28edeb/",
+"creator": "FG Studio",
+"description": "Bounce a paddle to shatter layers of colorful egg-shaped bricks in this casual arcade challenge. The unique twist involves eggs cracked into pieces when hit, requiring precise ball angles to clear each level. Players guide the ball’s trajectory through multiple stages of increasing complexity, aiming to demolish every fragile brick and advance.\n\nKey Features\n\n• Paddle and ball control mechanics  \n• Multi-layered brick breaking levels  \n• Increasing difficulty progression  \n• Score multiplier combos system  \n• Egg-themed destructible brick patterns"
+},
+{
+"id": "de989884190e43aa8913bf89a69aa04b",
+"title": "Bricks Master",
+"iframe": "https://html5.gamedistribution.com/de989884190e43aa8913bf89a69aa04b/",
+"creator": "QkyGames",
+"description": "Break rows of colorful bricks by launching strategic balls that bounce and collide across the screen in this physics-based puzzle challenge. Players carefully control the ball trajectory to clear layers of bricks before they descend too far. Timing shots and managing angles form the core mechanic, with increasingly complex brick patterns adding difficulty as you progress.\n\nKey Features\n\n• Strategic ball launching system  \n• Angle-based aiming controls  \n• Progressive brick layer challenges  \n• Bounce physics collision mechanic  \n• Casual arcade-style puzzle setting"
+},
+{
+"id": "27c48489701c4515b245273002c54441",
+"title": "Falling Bricks",
+"iframe": "https://html5.gamedistribution.com/27c48489701c4515b245273002c54441/",
+"creator": "MBG Network",
+"description": "Stack and arrange falling colored bricks with precision to clear lines and prevent the grid from filling up. The game uses gravity-based block dropping mechanics where players must quickly adapt to shifting shapes and space constraints. Levels escalate in speed and complexity, challenging players to maintain focus and plan their moves carefully to achieve the highest possible score.\n\nKey Features\n\n• Gravity-driven brick arrangement  \n• Fast-paced block placement controls  \n• Increasing line-clear difficulty  \n• Progressive speed scaling system  \n• Classic minimalist puzzle layout"
+},
+{
+"id": "f051fe25973446578975ee196105d563",
+"title": "Blocky Tetriz",
+"iframe": "https://html5.gamedistribution.com/f051fe25973446578975ee196105d563/",
+"creator": "Lof Games",
+"description": "Arrange falling shapes strategically to complete horizontal lines in a grid-based puzzle. This game revolves around matching block patterns through spatial reasoning, challenging players to maintain clear rows and avoid stacking to the top. As pieces drop continuously, efficient placement and quick decision-making are essential to progress through increasingly complex stages.\n\nKey Features\n\n• Grid-based block arranging  \n• Precise shape rotation controls  \n• Incremental difficulty tiers  \n• Continuous block drop mechanic  \n• Minimalist geometric visual style"
+},
+{
+"id": "c01085aea9564e36a592fad9cd0b6715",
+"title": "Jungle Bricks",
+"iframe": "https://html5.gamedistribution.com/c01085aea9564e36a592fad9cd0b6715/",
+"creator": "Freak X Games",
+"description": "Stack and break patterns of color-coded bricks using precise aim and timing in this physics-based puzzle challenge. Players manipulate a slingshot mechanism to launch projectiles that clear complex jungle-themed brick formations. Each level tests spatial reasoning and strategic shot planning against progressively intricate structures. The lush jungle backdrop and natural sounds add immersion without overshadowing gameplay depth.\n\nKey Features\n\n• Slingshot projectile aiming system  \n• Color-matching brick destruction  \n• Increasingly complex level designs  \n• Limited shot count challenge mode  \n• Jungle environment visual elements"
+},
+{
+"id": "c7a055a486b94be79663106e69981518",
+"title": "Summer Brick Out",
+"iframe": "https://html5.gamedistribution.com/c7a055a486b94be79663106e69981518/",
+"creator": "MBG Network",
+"description": "Break colored bricks by launching a bouncing ball strategically to clear levels and advance through increasingly complex patterns. Players rely on precise paddle control to keep the ball in play while targeting clusters of bricks to unlock the next stage. The casual arcade setup challenges timing and positioning to maximize brick destruction without losing the ball.\n\nKey Features\n\n• Paddle control with ball physics  \n• Brick breaking level progression  \n• Increasingly complex brick patterns  \n• Score multipliers for combo hits  \n• Bright summer-themed visual style"
+},
+{
+"id": "bea4d77241ea4ba5bdb725cd8b010aa3",
+"title": "Brick Dodge",
+"iframe": "https://html5.gamedistribution.com/bea4d77241ea4ba5bdb725cd8b010aa3/",
+"creator": "FTG",
+"description": "Navigate a small paddle at the bottom of the screen to dodge falling bricks that steadily increase in speed and frequency. The core mechanic involves precise lateral movement avoiding collisions while managing shrinking safe zones as the levels progress. Players challenge their reflexes in this minimalistic arcade game designed for quick rounds and gradual pace escalation.\n\nKey Features\n\n• Continuous brick falling patterns  \n• Responsive horizontal paddle control  \n• Increasing speed and density levels  \n• Time survival scoring system  \n• Arcade style geometric visuals"
+},
+{
+"id": "d4c1505999fe4e8bb40f0048b62f2564",
+"title": "Tetriz",
+"iframe": "https://html5.gamedistribution.com/d4c1505999fe4e8bb40f0048b62f2564/",
+"creator": "DiHits",
+"description": "Slide and arrange falling blocks to complete lines in this tile-matching puzzle game. Players rotate and position tetromino shapes to fill layers without gaps, using spatial awareness and timing to clear rows and avoid stacking too high. The challenge intensifies as the speed gradually increases, testing quick decision-making under pressure. Accuracy and pattern recognition are key to reaching higher levels.\n\nKey Features\n\n• Tetromino rotation and placement  \n• Spatial puzzle tile-matching  \n• Increasing speed level progression  \n• Line clearing scoring system  \n• Classic grid-based gameplay"
+},
+{
+"id": "c8ae1cadd764423fada1f52e87515bcd",
+"title": "Bricks",
+"iframe": "https://html5.gamedistribution.com/c8ae1cadd764423fada1f52e87515bcd/",
+"creator": "Nela´s games",
+"description": "Stack rows of colored bricks precisely to clear levels in this minimalist arcade puzzle game. Players tap and drag falling brick clusters to organize matching colors and trigger chain reactions. The challenge lies in managing limited space while anticipating new shapes to avoid a game over. Progression increases difficulty with faster dropping pieces and complex formations.\n\nKey Features\n\n• Color matching puzzle mechanic  \n• Drag and place brick clusters  \n• Increasing drop speed challenge  \n• Chain reaction clearing system  \n• Minimalist geometric visual style"
+},
+{
+"id": "f3c6bbea1c8e40b0ab744e1fc1c47a2b",
+"title": "Brick Breaker 2018",
+"iframe": "https://html5.gamedistribution.com/f3c6bbea1c8e40b0ab744e1fc1c47a2b/",
+"creator": "Black Sheep Games",
+"description": "Bounce a ball off a paddle to break colorful bricks arranged in various patterns and clear each level. Players aim precisely to target bricks that sometimes hide power-ups or require multiple hits to shatter. The game challenges reflexes with progressively complex formations and faster ball speeds, engaging casual players looking for straightforward brick-breaking action and classic arcade vibes.\n\nKey Features\n\n• Paddle control and ball physics  \n• Breakable multi-hit brick layers  \n• Progressive level difficulty  \n• Power-up collection system  \n• Classic arcade brick layouts"
+},
+{
+"id": "0ed162cc8a314755981e7d494b6a0bf3",
+"title": "Kung Fu Brick Breaker",
+"iframe": "https://html5.gamedistribution.com/0ed162cc8a314755981e7d494b6a0bf3/",
+"creator": "FG Studio",
+"description": "Bounce a martial arts styled ball to break colorful brick formations while mastering precise paddle angles and ricochet shots. Each level challenges players to clear complex layouts using unique power-ups that reflect kung fu themes. Timing and strategic shot placement are key as bricks react differently to impacts, adding depth to the classic brick breaker formula.\n\nKey Features\n\n• Paddle control with angle adjustment  \n• Brick patterns with reactive hit points  \n• Progression through increasingly complex layouts  \n• Power-ups themed around martial arts moves  \n• Score multipliers based on combo hits"
+},
+{
+"id": "edd70d338d034bf6888ca44a7d16e031",
+"title": "EG Brick Out",
+"iframe": "https://html5.gamedistribution.com/edd70d338d034bf6888ca44a7d16e031/",
+"creator": "EcapsGames.com",
+"description": "Bounce a ball against colored bricks to clear increasingly complex levels in this classic arcade-style breakout game. The game challenges players to precisely angle their paddle control to break clusters of bricks before time runs out. As levels progress, players face varied brick arrangements and speeds, encouraging quick reflexes and strategic shot placement for high scores.\n\nKey Features\n\n• Paddle angle control mechanics  \n• Brick destruction sequencing  \n• Timed level challenges  \n• Progressive difficulty scaling  \n• Retro arcade visual style"
+},
+{
+"id": "94e6c3b9bf93469badc2d98f98470c38",
+"title": "Brick Breaker",
+"iframe": "https://html5.gamedistribution.com/94e6c3b9bf93469badc2d98f98470c38/",
+"creator": "MarketJS",
+"description": "Launch a paddle to ricochet a ball and clear intricate brick formations arranged in multi-layered levels. The game emphasizes precision ball control and strategic targeting to break all bricks while navigating unique block patterns. Progression introduces increasingly complex layouts challenging reflexes and aiming skills in a classic arcade setting.\n\nKey Features\n\n• Paddle and ball physics  \n• Directional ball control system  \n• Progressive brick layout challenges  \n• Multi-level stage advancement  \n• Retro arcade brick design"
+},
+{
+"id": "71513b31f834431fa6130fae0b5a699d",
+"title": "Retro Brick Bust",
+"iframe": "https://html5.gamedistribution.com/71513b31f834431fa6130fae0b5a699d/",
+"creator": "JulGames",
+"description": "Launch precision-controlled paddles to bounce a pixelated ball and break colorful brick patterns in this classic arcade challenge. Players manipulate the paddle’s movement along the screen edge, aiming to clear each level by destroying all the bricks while avoiding letting the ball drop. Multiple brick types introduce varied durability, increasing the difficulty across progressive stages.\n\nKey Features\n\n• Paddle movement control system  \n• Multiple brick durability types  \n• Level-based progression design  \n• Ball physics and rebound angles  \n• Retro pixel art arcade style"
+},
+{
+"id": "891efba92310474b929c153f98f9c1d8",
+"title": "Bricks",
+"iframe": "https://html5.gamedistribution.com/891efba92310474b929c153f98f9c1d8/",
+"creator": "Gamebuilt.com",
+"description": "Break and clear layers of colored bricks by aiming and launching precise angles to trigger cascading effects. This puzzle challenges spatial planning through brick durability and rebound trajectories, demanding strategic shots to remove all bricks efficiently. Progression ramps up in complexity with layered brick patterns and limited moves, testing accuracy and foresight.\n\nKey Features\n\n• Angle-based brick breaking mechanic  \n• Precision aiming controls  \n• Increasing brick durability levels  \n• Move-limited puzzle progression  \n• Color-coded brick patterns"
+},
+{
+"id": "8857b75db8f141bd865469e8299b4733",
+"title": "Brick Out Challenge",
+"iframe": "https://html5.gamedistribution.com/8857b75db8f141bd865469e8299b4733/",
+"creator": "KidsGames4All",
+"description": "Bounce a paddle to break and clear layers of vividly colored bricks using angled ball ricochets that require precise timing and positioning. Each level stacks multiple rows of bricks that must be destroyed before the ball drops out of play, challenging quick reflexes and strategic aiming. Progression introduces increasingly complex brick patterns and speed variations to heighten the difficulty for casual players and younger audiences.\n\nKey Features\n\n• Paddle ball bounce control  \n• Brick layer clearing mechanics  \n• Increasing speed challenge levels  \n• Multi-row brick arrangements  \n• Retro arcade style visuals"
+},
+{
+"id": "5f328ff269d34a94aeb25a69477f58a2",
+"title": "Brick Breaker",
+"iframe": "https://html5.gamedistribution.com/5f328ff269d34a94aeb25a69477f58a2/",
+"creator": "BeedoGames",
+"description": "Bounce the ball against rows of multicolored bricks, aiming to clear stages using precise paddle control and strategic angle shots. Players manipulate a moving paddle along the bottom of the screen to keep the ball in play and break all bricks before losing all lives. Each level adds new brick formations and occasional power-ups that alter ball speed or paddle size.\n\nKey Features\n\n• Paddle ball rebound physics  \n• Horizontal paddle movement control  \n• Progressive brick layout challenges  \n• Power-up and ball speed variations  \n• Classic arcade brick-breaking theme"
+},
+{
+"id": "04fb4077f3b44a2a8ad32866c30f94f8",
+"title": "10x10",
+"iframe": "https://html5.gamedistribution.com/04fb4077f3b44a2a8ad32866c30f94f8/",
+"creator": "8Games.Net",
+"description": "Match numbered tiles into perfect squares using spatial reasoning and pattern recognition in this minimalistic puzzler. Rotate and arrange pieces on a 10-by-10 grid to fill rows and columns strategically while managing limited move counts. The challenge deepens as complexity grows with tighter space constraints, requiring precise placement to clear lines and advance through levels.\n\nKey Features\n\n• tile rotation and placement  \n• grid-based spatial puzzles  \n• move-limited challenge system  \n• progressive difficulty scaling  \n• minimalist puzzle interface"
+},
+{
+"id": "92b38c23b638477eb6f02028c71c15ea",
+"title": "Brick Out",
+"iframe": "https://html5.gamedistribution.com/92b38c23b638477eb6f02028c71c15ea/",
+"creator": "pogames.in",
+"description": "Bounce a paddle to break through colorful brick formations using precise ball control and strategic aiming. The game challenges players to clear levels by hitting various brick patterns, requiring quick reflexes and angle adjustments to progress through increasingly intricate stages. Its core mechanic hinges on managing ball trajectory against static and moving blocks in a classic arcade setup.\n\nKey Features\n\n• Paddle and ball control physics  \n• Brick destruction patterns  \n• Level-based progression system  \n• Score multiplier mechanics  \n• Retro arcade visual style"
+},
+{
+"id": "e8f83e3e685c4111a999d0613e4f38fd",
+"title": "Maya Brick Breaker",
+"iframe": "https://html5.gamedistribution.com/e8f83e3e685c4111a999d0613e4f38fd/",
+"creator": "Playtouch",
+"description": "Bounce a durable ball to smash stone blocks in ancient Mesoamerican architecture, using precise paddle control to clear layered brick walls. Players must manage ball speed and angles to break increasingly complex patterns while navigating gems that alter physics. Levels progress with escalating puzzle complexity and hidden bonus challenges, offering fast-paced reflex tests within a pyramid-themed environment.\n\nKey Features\n\n• Paddle control with ball trajectory  \n• Sequential brick breaking patterns  \n• Power-up gems affecting ball physics  \n• Progressive level puzzle design  \n• Mesoamerican pyramid visual style"
+},
+{
+"id": "1f93a31f6335476686af67958b5ec619",
+"title": "Brick Breaker : The Ultimate Challenge",
+"iframe": "https://html5.gamedistribution.com/1f93a31f6335476686af67958b5ec619/",
+"creator": "Playtouch",
+"description": "Control a paddle to bounce a ball and break layered brick formations, relying on precise angle shots and dynamic ball speed to clear each stage. Players advance through increasingly complex layouts that require strategic targeting and timing. The game challenges reflexes with a classic arcade setup focused on brick destruction and paddle movement.\n\nKey Features\n\n• Paddle ball rebound mechanics  \n• Precision aiming and timing control  \n• Progressive brick layout stages  \n• Increasing ball speed dynamics  \n• Classic arcade brick-breaking system"
+},
+{
+"id": "aeca7a638550449ba295a3b53d0fdefb",
+"title": "Sliding Bricks",
+"iframe": "https://html5.gamedistribution.com/aeca7a638550449ba295a3b53d0fdefb/",
+"creator": "Code This Lab srl",
+"description": "Slide numbered bricks across a compact grid to clear full lines and score points in this puzzle challenge. Players tactically shift pieces horizontally or vertically, planning moves to avoid blocking paths. The level progression introduces increasingly complex brick arrangements, testing spatial reasoning under time constraints.\n\nKey Features\n\n• Sliding tile repositioning mechanic  \n• Grid-based puzzle layout  \n• Increasing difficulty levels  \n• Time limit challenge mode  \n• Minimalist block design"
+},
+{
+"id": "3ba2147492db45fa9c53f21d87ef816c",
+"title": "Brick Breaker Levels",
+"iframe": "https://html5.gamedistribution.com/3ba2147492db45fa9c53f21d87ef816c/",
+"creator": "QkyGames",
+"description": "Bounce a pixel-perfect ball to shatter rows of colored bricks using a paddle controlled by precise horizontal movement. The gameplay revolves around clearing progressively complex brick patterns by deflecting the ball, where power-ups and breaking durable blocks add strategic depth. Players aim to clear all levels while managing ball speed and paddle positioning for optimal accuracy.\n\nKey Features\n\n• Paddle control with smooth horizontal movement  \n• Breakable brick layers with varying durability  \n• Incremental level difficulty progression  \n• Power-up drops impacting ball behavior  \n• Classic arcade style brick patterns"
+},
+{
+"id": "d2f3efb5fe1e4ce6a2b016f312b7f6e0",
+"title": "Brick Out",
+"iframe": "https://html5.gamedistribution.com/d2f3efb5fe1e4ce6a2b016f312b7f6e0/",
+"creator": "Code This Lab srl",
+"description": "Bounce a paddle to break layers of colorful bricks using precise angle control and timed shots in this classic arcade-style challenge. Players keep the ball in play by maneuvering a paddle along the screen’s bottom while clearing increasingly complex brick formations. The progression rewards strategic aiming and speed to prevent the ball from falling out, focusing on reflex-based paddle movement.\n\nKey Features\n\n• Paddle ball rebound mechanics  \n• Precise horizontal paddle control  \n• Layered brick clearing progression  \n• Speed and angle shot strategy  \n• Retro arcade visual style"
+},
+{
+"id": "2c3a4762932e474ebf78124c4de3fbf0",
+"title": "BrickZ",
+"iframe": "https://html5.gamedistribution.com/2c3a4762932e474ebf78124c4de3fbf0/",
+"creator": "Agame",
+"description": "Break rows of colored bricks by aiming and launching a bouncing ball that ricochets across the grid. Players manage precise angles to clear levels under limited moves, testing their spatial strategy and timing. Control shifts through varying brick durability and special blocks that alter ball behavior, creating a layered challenge suitable for casual play.\n\nKey Features\n\n• Brick breaking ricochet mechanic  \n• Angle aiming control system  \n• Limited move challenge progression  \n• Special effect bricks  \n• Casual arcade style"
+},
+{
 "id": "7896853578964f9c805bfcaaeeb4621c",
 "title": "Super Tetris",
 "iframe": "https://html5.gamedistribution.com/7896853578964f9c805bfcaaeeb4621c/",
