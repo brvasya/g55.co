@@ -20,8 +20,11 @@ AGENT_EXCEPTIONS = {
     "toddler": "baby",
 
     #ball
+    "arkanoid": "ball",
     "ballz": "ball",
+    "breakout": "ball",
     "pinball": "ball",
+    "pong": "ball",
 
     #basketball
     "dunk": "basketball",
@@ -41,7 +44,15 @@ AGENT_EXCEPTIONS = {
 
     #block
     "blockz": "block",
+    "tetris": "block",
     "unblock": "block",
+
+    #brain
+    "logic": "brain",
+    "logical": "brain",
+    "mind": "brain",
+    "riddle": "brain",
+    "smart": "brain",
 
     #cat
     "kitten": "cat",
@@ -65,6 +76,7 @@ AGENT_EXCEPTIONS = {
     "bakery": "cooking",
     "baking": "cooking",
     "chef": "cooking",
+    "kitchen": "cooking",
     "recipe": "cooking",
 
     #defense
@@ -74,6 +86,7 @@ AGENT_EXCEPTIONS = {
     "protect": "defense",
 
     #differences
+    "differs": "differences",
     "diffs": "differences",
 
     #doctor
@@ -94,8 +107,12 @@ AGENT_EXCEPTIONS = {
     "farmer": "farming",
 
     #fashion
+    "dress": "fashion",
+    "dressing": "fashion",
     "fashionista": "fashion",
+    "outfit": "fashion",
     "tailor": "fashion",
+    "wardrobe": "fashion",
 
     #fighting
     "boxing": "fighting",
@@ -103,6 +120,7 @@ AGENT_EXCEPTIONS = {
     "gladiator": "fighting",
     "karate": "fighting",
     "samurai": "fighting",
+    "sumo": "fighting",
     "wrestler": "fighting",
     "wrestling": "fighting",
 
@@ -112,7 +130,11 @@ AGENT_EXCEPTIONS = {
 
     #flying
     "airplane": "flying",
+    "aviation": "flying",
+    "aviator": "flying",
+    "glider": "flying",
     "helicopter": "flying",
+    "pilot": "flying",
     "plane": "flying",
 
     #football
@@ -148,6 +170,10 @@ AGENT_EXCEPTIONS = {
     #mahjong
     "mahjongg": "mahjong",
 
+    #matching
+    "pair": "matching",
+    "pairs": "matching",
+
     #math
     "addition": "math",
     "arithmetic": "math",
@@ -160,7 +186,14 @@ AGENT_EXCEPTIONS = {
     #maze
     "mazes": "maze",
 
+    #memory
+    "memorize": "memory",
+    "remember": "memory",
+
     #merge
+    "combine": "merge",
+    "fuse": "merge",
+    "fusion": "merge",
     "merger": "merge",
     "merging": "merge",
 
@@ -168,16 +201,30 @@ AGENT_EXCEPTIONS = {
     "billiard": "pool",
 
     #puzzle
+    "backgammon": "puzzle",
+    "bolts": "puzzle",
     "checkers": "puzzle",
+    "domino": "puzzle",
+    "lock": "puzzle",
     "ludo": "puzzle",
+    "minesweeper": "puzzle",
+    "nonogram": "puzzle",
     "plumber": "puzzle",
     "puzzlez": "puzzle",
+    "screw": "puzzle",
+    "sokoban": "puzzle",
+    "tac": "puzzle",
+    "tangram": "puzzle",
+    "yatzy": "puzzle",
 
     #quiz
     "trivia": "quiz",
 
     #racing
+    "formula": "racing",
+    "karting": "racing",
     "racer": "racing",
+    "rally": "racing",
     "speedway": "racing",
 
     #rescue
@@ -214,11 +261,18 @@ AGENT_EXCEPTIONS = {
     "freecell": "solitaire",
     "patience": "solitaire",
 
+    #sorting
+    "organize": "sorting",
+    "organizer": "sorting",
+
     #space
+    "asteroid": "space",
     "astronaut": "space",
     "cosmic": "space",
+    "cosmos": "space",
     "galactic": "space",
     "mars": "space",
+    "moon": "space",
     "spaceship": "space",
     "starship": "space",
 
@@ -226,6 +280,7 @@ AGENT_EXCEPTIONS = {
     "badminton": "sports",
     "bowling": "sports",
     "cricket": "sports",
+    "darts": "sports",
     "hockey": "sports",
     "skate": "sports",
     "skateboard": "sports",
@@ -248,14 +303,20 @@ AGENT_EXCEPTIONS = {
     #train
     "railroad": "train",
 
+    #tycoon
+    "business": "tycoon",
+    "manager": "tycoon",
+
     #war
     "warfare": "war",
 
     #word
     "crossword": "word",
     "hangman": "word",
+    "letter": "word",
     "typing": "word",
     "wordy": "word",
+
 }
 
 
