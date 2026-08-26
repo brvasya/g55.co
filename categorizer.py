@@ -70,7 +70,6 @@ AGENT_EXCEPTIONS = {
     #christmas
     "christman": "christmas",
     "santa": "christmas",
-    "santas": "christmas",
     "xmas": "christmas",
 
     #coloring
@@ -97,7 +96,6 @@ AGENT_EXCEPTIONS = {
     "pancake": "cooking",
     "pastry": "cooking",
     "recipe": "cooking",
-    "recipes": "cooking",
     "salad": "cooking",
     "smoothie": "cooking",
 
@@ -161,7 +159,6 @@ AGENT_EXCEPTIONS = {
     "samurai": "fighting",
     "slap": "fighting",
     "sumo": "fighting",
-    "sumos": "fighting",
     "wrestle": "fighting",
     "wrestler": "fighting",
     "wrestling": "fighting",
@@ -178,7 +175,6 @@ AGENT_EXCEPTIONS = {
     "helicopter": "flying",
     "pilot": "flying",
     "plane": "flying",
-    "planes": "flying",
 
     #football
     "rugby": "football",
@@ -198,7 +194,6 @@ AGENT_EXCEPTIONS = {
 
     #hero
     "superhero": "hero",
-    "superheroes": "hero",
 
     #horror
     "haunted": "horror",
@@ -235,7 +230,6 @@ AGENT_EXCEPTIONS = {
     "matchems": "matching",
     "onet": "matching",
     "pair": "matching",
-    "pairs": "matching",
 
     #math
     "addition": "math",
@@ -245,9 +239,6 @@ AGENT_EXCEPTIONS = {
     "mathematical": "math",
     "mathematics": "math",
     "multiplication": "math",
-
-    #maze
-    "mazes": "maze",
 
     #memory
     "memo": "memory",
@@ -275,7 +266,6 @@ AGENT_EXCEPTIONS = {
     "bolts": "puzzle",
     "checkers": "puzzle",
     "domino": "puzzle",
-    "dominoes": "puzzle",
     "draughts": "puzzle",
     "erase": "puzzle",
     "fireboy": "puzzle",
@@ -379,7 +369,6 @@ AGENT_EXCEPTIONS = {
     "skate": "sports",
     "skateboard": "sports",
     "skater": "sports",
-    "skates": "sports",
     "skating": "sports",
     "ski": "sports",
     "skiing": "sports",
@@ -519,9 +508,12 @@ def singularize_token(t: str) -> str:
         return t
 
     plural_exceptions = {
+        "dominoes": "domino",
         "fishermen": "fisherman",
         "heroes": "hero",
+        "mazes": "maze",
         "smoothies": "smoothie",
+        "superheroes": "superhero",
         "wheelies": "wheelie",
         "zombies": "zombie",
     }
