@@ -10,29 +10,44 @@ CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
 AGENT_EXCEPTIONS = {
     #archery
     "archer": "archery",
+    "archero": "archery",
     "archerry": "archery",
+    "bow": "archery",
     "bowman": "archery",
 
     #baby
     "babysitter": "baby",
+    "toddler": "baby",
+
+    #ball
+    "ballz": "ball",
 
     #basketball
     "dunk": "basketball",
 
+    #battle
+    "battler": "battle",
+
     #bike
     "bicycle": "bike",
     "biker": "bike",
+    "bmx": "bike",
     "cycling": "bike",
     "moto": "bike",
     "motocross": "bike",
     "motorbike": "bike",
     "motorcycle": "bike",
 
+    #block
+    "blockz": "block",
+    "unblock": "block",
+
     #cat
     "kitten": "cat",
     "kitty": "cat",
 
     #christmas
+    "christman": "christmas",
     "santa": "christmas",
     "xmas": "christmas",
 
@@ -41,6 +56,7 @@ AGENT_EXCEPTIONS = {
 
     #connect
     "conect": "connect",
+    "onnect": "connect",
 
     #cooking
     "bake": "cooking",
@@ -54,12 +70,14 @@ AGENT_EXCEPTIONS = {
     "defence": "defense",
     "defend": "defense",
     "defender": "defense",
+    "protect": "defense",
 
     #differences
     "diffs": "differences",
 
     #doctor
     "dentist": "doctor",
+    "medical": "doctor",
     "surgeon": "doctor",
     "surgery": "doctor",
 
@@ -69,11 +87,13 @@ AGENT_EXCEPTIONS = {
 
     #drift
     "drifter": "drift",
+    "drifty": "drift",
 
     #farming
     "farmer": "farming",
 
     #fashion
+    "fashionista": "fashion",
     "tailor": "fashion",
 
     #fighting
@@ -81,6 +101,7 @@ AGENT_EXCEPTIONS = {
     "fighter": "fighting",
     "gladiator": "fighting",
     "karate": "fighting",
+    "samurai": "fighting",
     "wrestler": "fighting",
     "wrestling": "fighting",
 
@@ -88,8 +109,14 @@ AGENT_EXCEPTIONS = {
     "angler": "fishing",
     "fisherman": "fishing",
 
+    #flying
+    "airplane": "flying",
+    "helicopter": "flying",
+    "plane": "flying",
+
     #football
-    "penalty": "football",
+    "rugby": "football",
+    "touchdown": "football",
 
     #golf
     "putt": "golf",
@@ -98,11 +125,24 @@ AGENT_EXCEPTIONS = {
     "hallowen": "halloween",
     "helloween": "halloween",
 
+    #hero
+    "superhero": "hero",
+    "superheroes": "hero",
+
+    #horror
+    "haunted": "horror",
+    "scary": "horror",
+    "terror": "horror",
+
     #impostor
     "imposter": "impostor",
 
     #jumping
     "jumper": "jumping",
+    "jumpy": "jumping",
+
+    #kids
+    "children": "kids",
 
     #mahjong
     "mahjongg": "mahjong",
@@ -110,21 +150,43 @@ AGENT_EXCEPTIONS = {
     #math
     "addition": "math",
     "arithmetic": "math",
+    "counting": "math",
+    "equations": "math",
     "mathematical": "math",
+    "mathematics": "math",
     "multiplication": "math",
+
+    #maze
+    "mazes": "maze",
+
+    #merge
+    "merger": "merge",
+    "merging": "merge",
 
     #pool
     "billiard": "pool",
 
+    #puzzle
+    "plumber": "puzzle",
+    "puzzlez": "puzzle",
+
+    #quiz
+    "trivia": "quiz",
+
     #racing
     "racer": "racing",
+    "speedway": "racing",
 
     #rescue
+    "firefighter": "rescue",
     "rescuer": "rescue",
 
     #restaurant
     "cafe": "restaurant",
     "diner": "restaurant",
+
+    #rush
+    "rushy": "rush",
 
     #shooter
     "commando": "shooter",
@@ -140,18 +202,54 @@ AGENT_EXCEPTIONS = {
     #sniper
     "snipe": "sniper",
 
+    #soccer
+    "foosball": "soccer",
+    "goalkeeper": "soccer",
+    "penalty": "soccer",
+
+    #solitaire
+    "freecell": "solitaire",
+    "patience": "solitaire",
+
     #space
     "astronaut": "space",
+    "cosmic": "space",
+    "galactic": "space",
     "mars": "space",
+    "spaceship": "space",
     "starship": "space",
+
+    #sports
+    "badminton": "sports",
+    "skate": "sports",
+    "skateboard": "sports",
+    "ski": "sports",
+    "snowboard": "sports",
+    "volley": "sports",
+    "volleyball": "sports",
+
+    #stack
+    "stacka": "stack",
+    "stacky": "stack",
+
+    #stunt
+    "stuntz": "stunt",
 
     #survival
     "survive": "survival",
     "survivor": "survival",
 
+    #train
+    "railroad": "train",
+
+    #war
+    "warfare": "war",
+
     #word
     "crossword": "word",
     "hangman": "word",
+    "typing": "word",
+    "wordy": "word",
 }
 
 
