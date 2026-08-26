@@ -17,6 +17,7 @@ AGENT_EXCEPTIONS = {
     "motorcycle": "bike",
 
     "defender": "defense",
+    "defence": "defense",
 
     "fighter": "fighting",
     "wrestler": "fighting",
