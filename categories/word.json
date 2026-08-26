@@ -1,6 +1,27 @@
 {
 "pages": [
 {
+"id": "091eea79ee9948c8be4ca2a69b5a0914",
+"title": "Wordmeister HD",
+"iframe": "https://html5.gamedistribution.com/091eea79ee9948c8be4ca2a69b5a0914/",
+"creator": "MarketJS",
+"description": "Construct words by connecting letter tiles under time pressure in this fast-paced puzzle challenge. Players assemble vocabulary from a cascade of randomized letter blocks, testing their spelling skills and quick thinking. The game features timed rounds with increasing difficulty as the board fills faster and new letter combos appear to extend play.\n\nKey Features\n\n• Letter tile matching mechanic  \n• Time-limited puzzle rounds  \n• Increasing board difficulty  \n• Combo-based scoring system  \n• Casual vocabulary building"
+},
+{
+"id": "d5b9904994d2409190e15efef8f118f6",
+"title": "Wordscapes",
+"iframe": "https://html5.gamedistribution.com/d5b9904994d2409190e15efef8f118f6/",
+"creator": "2Play",
+"description": "Arrange letters into words by connecting tiles on a crossword-style board. Using a limited pool of letters, players craft vocabulary to fill in puzzles that progressively unlock new levels. The gameplay revolves around word formation mechanics with a relaxing nature theme background enhancing the visual experience.\n\nKey Features\n\n• Letter tile connection mechanic  \n• Timed and untimed puzzle modes  \n• Gradual level difficulty increase  \n• Hint and shuffle control options  \n• Nature-themed visual design"
+},
+{
+"id": "b6439239c9ab43bf925defdb54ed0cbe",
+"title": "Wordmeister",
+"iframe": "https://html5.gamedistribution.com/b6439239c9ab43bf925defdb54ed0cbe/",
+"creator": "MarketJS",
+"description": "Build complex word chains by connecting letters on a twisting hex grid to score points and advance through levels. Each round challenges players to form longer, more strategic words by navigating unique tile patterns within limited moves. The game mixes spatial puzzle solving with vocabulary growth, encouraging quick thinking under pressure in a minimalist linguistic setting.\n\nKey Features\n\n• Hexagonal tile connection mechanic  \n• Timed word formation challenges  \n• Progressive level difficulty scaling  \n• Move-limited strategic planning  \n• Minimalist lexicon puzzle theme"
+},
+{
 "id": "ee60358606a3446ba40a94454a88ee4a",
 "title": "Type Sprint",
 "iframe": "https://html5.gamedistribution.com/ee60358606a3446ba40a94454a88ee4a/",

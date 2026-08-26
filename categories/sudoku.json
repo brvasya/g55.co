@@ -1,6 +1,13 @@
 {
 "pages": [
 {
+"id": "610bd768e7d74a96996df553e3a73b0c",
+"title": "Wordoku",
+"iframe": "https://html5.gamedistribution.com/610bd768e7d74a96996df553e3a73b0c/",
+"creator": "Code This Lab srl",
+"description": "Arrange letters on a grid to form valid words while following Sudoku-like constraints. Players place each letter only once per row, column, and box, combining word logic with spatial reasoning. Puzzle difficulty scales with grid size and letter variety, offering progressively complex challenges that blend vocabulary skills with number puzzle structure.\n\nKey Features\n\n• Letter placement with Sudoku rules  \n• Grid-based word formation  \n• Increasing puzzle size complexity  \n• Progressive difficulty levels  \n• Casual vocabulary puzzle style"
+},
+{
 "id": "6093bacbdf864c279f58c6fdec815b1c",
 "title": "Sudoku - Pin.Games",
 "iframe": "https://html5.gamedistribution.com/6093bacbdf864c279f58c6fdec815b1c/",
