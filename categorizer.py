@@ -61,6 +61,7 @@ AGENT_EXCEPTIONS = {
     #christmas
     "christman": "christmas",
     "santa": "christmas",
+    "santas": "christmas",
     "xmas": "christmas",
 
     #coloring
@@ -75,9 +76,12 @@ AGENT_EXCEPTIONS = {
     "baker": "cooking",
     "bakery": "cooking",
     "baking": "cooking",
+    "bbq": "cooking",
     "chef": "cooking",
+    "grill": "cooking",
     "kitchen": "cooking",
     "recipe": "cooking",
+    "recipes": "cooking",
 
     #defense
     "defence": "defense",
@@ -90,6 +94,7 @@ AGENT_EXCEPTIONS = {
     "diffs": "differences",
 
     #doctor
+    "dental": "doctor",
     "dentist": "doctor",
     "medical": "doctor",
     "surgeon": "doctor",
@@ -103,24 +108,35 @@ AGENT_EXCEPTIONS = {
     "drifter": "drift",
     "drifty": "drift",
 
+    #driving
+    "jeep": "driving",
+    "rickshaw": "driving",
+
     #farming
     "farmer": "farming",
 
     #fashion
+    "barber": "fashion",
+    "braid": "fashion",
+    "braided": "fashion",
     "dress": "fashion",
     "dressing": "fashion",
     "fashionista": "fashion",
+    "haircut": "fashion",
+    "hairstyle": "fashion",
     "outfit": "fashion",
     "tailor": "fashion",
     "wardrobe": "fashion",
 
     #fighting
     "boxing": "fighting",
+    "brawler": "fighting",
     "fighter": "fighting",
     "gladiator": "fighting",
     "karate": "fighting",
     "samurai": "fighting",
     "sumo": "fighting",
+    "sumos": "fighting",
     "wrestler": "fighting",
     "wrestling": "fighting",
 
@@ -136,6 +152,7 @@ AGENT_EXCEPTIONS = {
     "helicopter": "flying",
     "pilot": "flying",
     "plane": "flying",
+    "planes": "flying",
 
     #football
     "rugby": "football",
@@ -143,6 +160,9 @@ AGENT_EXCEPTIONS = {
 
     #golf
     "putt": "golf",
+
+    #gun
+    "bazooka": "gun",
 
     #halloween
     "hallowen": "halloween",
@@ -155,6 +175,7 @@ AGENT_EXCEPTIONS = {
     #horror
     "haunted": "horror",
     "scary": "horror",
+    "slendrina": "horror",
     "terror": "horror",
 
     #impostor
@@ -170,7 +191,12 @@ AGENT_EXCEPTIONS = {
     #mahjong
     "mahjongg": "mahjong",
 
+    #makeup
+    "manicure": "makeup",
+    "pedicure": "makeup",
+
     #matching
+    "onet": "matching",
     "pair": "matching",
     "pairs": "matching",
 
@@ -187,6 +213,7 @@ AGENT_EXCEPTIONS = {
     "mazes": "maze",
 
     #memory
+    "memo": "memory",
     "memorize": "memory",
     "remember": "memory",
 
@@ -205,6 +232,7 @@ AGENT_EXCEPTIONS = {
     "bolts": "puzzle",
     "checkers": "puzzle",
     "domino": "puzzle",
+    "draughts": "puzzle",
     "lock": "puzzle",
     "ludo": "puzzle",
     "minesweeper": "puzzle",
@@ -234,6 +262,7 @@ AGENT_EXCEPTIONS = {
     #restaurant
     "cafe": "restaurant",
     "diner": "restaurant",
+    "pizzeria": "restaurant",
 
     #rush
     "rushy": "rush",
@@ -260,6 +289,7 @@ AGENT_EXCEPTIONS = {
     #solitaire
     "freecell": "solitaire",
     "patience": "solitaire",
+    "tripeaks": "solitaire",
 
     #sorting
     "organize": "sorting",
@@ -284,7 +314,11 @@ AGENT_EXCEPTIONS = {
     "hockey": "sports",
     "skate": "sports",
     "skateboard": "sports",
+    "skater": "sports",
+    "skates": "sports",
+    "skating": "sports",
     "ski": "sports",
+    "skiing": "sports",
     "snowboard": "sports",
     "volley": "sports",
     "volleyball": "sports",
@@ -295,6 +329,7 @@ AGENT_EXCEPTIONS = {
 
     #stunt
     "stuntz": "stunt",
+    "wheelie": "stunt",
 
     #survival
     "survive": "survival",
@@ -308,12 +343,15 @@ AGENT_EXCEPTIONS = {
     "manager": "tycoon",
 
     #war
+    "battlefield": "war",
     "warfare": "war",
+    "warzone": "war",
 
     #word
     "crossword": "word",
     "hangman": "word",
     "letter": "word",
+    "type": "word",
     "typing": "word",
     "wordy": "word",
 
