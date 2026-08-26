@@ -914,9 +914,6 @@ class CategorizerApp(tk.Tk):
 
         all_slugs = [raw_slug_from_filename(fn) for fn in self.files]
 
-        # Pass 1: literal/morphological matching only.
-        # Semantic exceptions are intentionally disabled here so a semantic alias
-        # can never defeat a genuine category keyword already present in a title.
         direct_fused_lexicon = build_fused_lexicon(
             all_slugs,
             plural_enabled,
@@ -935,8 +932,6 @@ class CategorizerApp(tk.Tk):
             messagebox.showinfo("No keywords", "No other categories found to use as keywords.")
             return
 
-        # Pass 2: semantic fallback. It is used only when pass 1 finds no
-        # destination category at all.
         semantic_fused_lexicon = direct_fused_lexicon
         semantic_keywords = direct_keywords
         if agent_exceptions_enabled:
@@ -1015,8 +1010,6 @@ class CategorizerApp(tk.Tk):
             current_tokens = direct_current_tokens
             current_priority = direct_current_priority
 
-            # Semantic aliases are a true fallback: use them only when there is
-            # no direct category match anywhere, including the current category.
             if best is None:
                 if direct_current_priority is not None:
                     skipped_self += 1
