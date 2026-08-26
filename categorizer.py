@@ -21,6 +21,7 @@ AGENT_EXCEPTIONS = {
 
     #ball
     "ballz": "ball",
+    "pinball": "ball",
 
     #basketball
     "dunk": "basketball",
@@ -167,6 +168,8 @@ AGENT_EXCEPTIONS = {
     "billiard": "pool",
 
     #puzzle
+    "checkers": "puzzle",
+    "ludo": "puzzle",
     "plumber": "puzzle",
     "puzzlez": "puzzle",
 
@@ -221,6 +224,9 @@ AGENT_EXCEPTIONS = {
 
     #sports
     "badminton": "sports",
+    "bowling": "sports",
+    "cricket": "sports",
+    "hockey": "sports",
     "skate": "sports",
     "skateboard": "sports",
     "ski": "sports",
