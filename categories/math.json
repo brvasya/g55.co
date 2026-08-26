@@ -1,6 +1,69 @@
 {
 "pages": [
 {
+"id": "01dbf43f1d884408a99f2322198ce07b",
+"title": "Mathematical crossword",
+"iframe": "https://html5.gamedistribution.com/01dbf43f1d884408a99f2322198ce07b/",
+"creator": "GamePush",
+"description": "Fill in numeric answers on the crossword grid by solving arithmetic clues that intersect horizontally and vertically. This game challenges players to combine basic math skills with word puzzle logic, navigating through numeric hints balanced with grid placement constraints for progressive difficulty. Each level demands careful calculation and number fitting to complete the puzzle.\n\nKey Features\n\n• Numeric crossword puzzle integration  \n• Digit input and clue solving  \n• Increasing difficulty levels  \n• Time tracking mode option  \n• Educational math puzzle focus"
+},
+{
+"id": "5fd52b4b5c324fe59f749aa657a924e3",
+"title": "Planet Explorer Addition",
+"iframe": "https://html5.gamedistribution.com/5fd52b4b5c324fe59f749aa657a924e3/",
+"creator": "Lof Games",
+"description": "Explore uncharted planets by solving spatial puzzles that challenge your ability to add and combine objects accurately. This game uses number-based mechanics set in a colorful, cartoonish universe where you progress through levels by matching sums to unlock new areas. Navigating each stage demands quick thinking and precise addition skills to meet the puzzle goals.\n\nKey Features\n\n• Number matching puzzle challenges  \n• Mouse-driven object combination  \n• Incremental level difficulty scaling  \n• Time-trial and practice modes  \n• Vibrant planetary-themed visuals"
+},
+{
+"id": "bab7a376381940ecb93c7e79584e7ed5",
+"title": "Multiplication Roulette",
+"iframe": "https://html5.gamedistribution.com/bab7a376381940ecb93c7e79584e7ed5/",
+"creator": "trezegames",
+"description": "Spin the roulette wheel to solve multiplication challenges by matching numbers with their products under time pressure. Players must quickly calculate answers while navigating the dynamic number grid that shifts after each spin. Accuracy and speed are key to clearing increasingly complex rounds, blending chance with mental math in a casual, colorful setting.\n\nKey Features\n\n• Roulette wheel number selection  \n• Timed calculation mechanics  \n• Progressive difficulty scaling  \n• Dynamic shifting number grid  \n• Casual math challenge environment"
+},
+{
+"id": "de58a623cc61417cb70f8deeb242fef7",
+"title": "Addition Practice",
+"iframe": "https://html5.gamedistribution.com/de58a623cc61417cb70f8deeb242fef7/",
+"creator": "Lof Games",
+"description": "Practice solving addition problems by selecting the correct sums in a series of timed puzzles that challenge mental math skills. Players engage with a straightforward numeric interface to match equations under increasing time pressure, aiming to improve accuracy and speed. The game progresses through escalating difficulty levels that introduce larger numbers and more complex sums.\n\nKey Features\n\n• Timed arithmetic challenge mode  \n• Number selection input control  \n• Increasing difficulty stages  \n• Score tracking accuracy system  \n• Minimalist numeric interface"
+},
+{
+"id": "8e94116643194a3284f66e4b6ded79f1",
+"title": "Jungle Balloons Addition",
+"iframe": "https://html5.gamedistribution.com/8e94116643194a3284f66e4b6ded79f1/",
+"creator": "Lof Games",
+"description": "Match numbered balloons by summing their values to clear levels in a vibrant jungle backdrop. Players solve addition puzzles by selecting balloon pairs that add up to target sums, progressing through increasingly challenging stages. The game combines math skills with casual puzzle solving, set against a colorful natural environment to engage younger players.\n\nKey Features\n\n• Number matching addition mechanic  \n• Tap controls for balloon selection  \n• Increasingly complex sum targets  \n• Level-based progression system  \n• Jungle-themed visual elements"
+},
+{
+"id": "7572688b38bc447e8e1f8677555fb4f9",
+"title": "Arithmetic Line",
+"iframe": "https://html5.gamedistribution.com/7572688b38bc447e8e1f8677555fb4f9/",
+"creator": "GameNing",
+"description": "Navigate a sequence of numbers by solving arithmetic puzzles that require quick calculations and precise positioning on a numeric line. The gameplay revolves around balancing addition and subtraction challenges while progressing through increasingly complex levels. Players aim to accurately place values in alignment with number patterns to clear each stage and test their mental agility.\n\nKey Features\n\n• Number line placement mechanic  \n• Calculator-style input controls  \n• Progressive difficulty scaling  \n• Time-limited challenge mode  \n• Minimalist numeric puzzle theme"
+},
+{
+"id": "89574c11d33b491e92e78cd25186a3b2",
+"title": "Number Crunch Multiplication",
+"iframe": "https://html5.gamedistribution.com/89574c11d33b491e92e78cd25186a3b2/",
+"creator": "MathNook",
+"description": "Multiply sequences of numbers under timed conditions to solve challenging math puzzles that sharpen calculation skills. Use quick mental arithmetic as you tackle progressive levels featuring increasing difficulty and speed, testing both accuracy and reaction time. The game uses a clean interface focused on numeric input, offering a steady stream of multiplication problems for players seeking to improve their math fluency.\n\nKey Features\n\n• Timed multiplication challenges  \n• Numeric keypad input control  \n• Increasing difficulty stages  \n• Accuracy-based score tracking  \n• Minimalist math quiz interface"
+},
+{
+"id": "6011f310fa9040d88401b091e747ecd9",
+"title": "Mathematical Skills",
+"iframe": "https://html5.gamedistribution.com/6011f310fa9040d88401b091e747ecd9/",
+"creator": "New Kids Games",
+"description": "Solve timed math puzzles by selecting correct answers under a countdown pressure in a bright, classroom-inspired interface. The gameplay uses rapid number recognition and mental calculation as players progress through increasingly complex problem sets. Challenges include managing speed and accuracy while tackling basic arithmetic operations that test quick thinking and sharpen skills.\n\nKey Features\n\n• Timed arithmetic puzzle rounds  \n• Click-based answer selection  \n• Increasing difficulty tiers  \n• Progressive score tracking system  \n• Classroom visual theme"
+},
+{
+"id": "892a8ce4633c4935991425b2d87c317d",
+"title": "Arithmetic Game",
+"iframe": "https://html5.gamedistribution.com/892a8ce4633c4935991425b2d87c317d/",
+"creator": "Novel Games Limited",
+"description": "Solve a variety of arithmetic problems using timed calculations that test your mental agility and quick thinking. Players engage with number sequences and equations, aiming to improve accuracy while managing increasing difficulty levels. The game challenges pattern recognition and speed in a straightforward numeric interface designed for casual players and youth. \n\nKey Features\n\n• Timed mental math challenges  \n• Interactive number input controls  \n• Progressive difficulty scaling  \n• Accuracy score tracking system  \n• Simplistic numeric interface"
+},
+{
 "id": "e7e5bb0e6caf47b5965d813736921e76",
 "title": "Math Stars",
 "iframe": "https://html5.gamedistribution.com/e7e5bb0e6caf47b5965d813736921e76/",

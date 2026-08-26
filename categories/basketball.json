@@ -1,6 +1,209 @@
 {
 "pages": [
 {
+"id": "6b5e50d2d60c4441a3dc57ce574a8239",
+"title": "Dunk Challenge",
+"iframe": "https://html5.gamedistribution.com/6b5e50d2d60c4441a3dc57ce574a8239/",
+"creator": "bestgames.com",
+"description": "Execute precise shots to score slam dunks using timing-based controls in this arcade-style basketball challenge. Players aim to surpass point thresholds by mastering shot angles and power meters, progressing through increasing difficulty levels that test accuracy and reflexes. The minimalist court setting highlights skillful throw dynamics and fast-paced scoring.\n\nKey Features\n\n• Timing-based shot mechanic  \n• Power and angle control system  \n• Incremental difficulty stages  \n• Score threshold objectives  \n• Minimalist basketball court design"
+},
+{
+"id": "e6d46987e82841d585919ccc32664b44",
+"title": "Ragdoll Mega Dunk",
+"iframe": "https://html5.gamedistribution.com/e6d46987e82841d585919ccc32664b44/",
+"creator": "Mirra Games",
+"description": "Perform ragdoll-style dunks using exaggerated physics to score hoops across dynamic courts. Players manipulate floppy character limbs mid-air to execute combos and navigate tricky angles while aiming for perfect slam dunks. Casual arcade gameplay challenges timing and precision through progressively difficult arenas filled with obstacles and trick shot opportunities.\n\nKey Features\n\n• Physics-based ragdoll control  \n• Limb manipulation shooting system  \n• Increasingly complex arena layouts  \n• Combo scoring multiplier mechanic  \n• Cartoon sports environment"
+},
+{
+"id": "3ddd77e15f134657b15b0a31d01574ca",
+"title": "Crazy Dunk",
+"iframe": "https://html5.gamedistribution.com/3ddd77e15f134657b15b0a31d01574ca/",
+"creator": "MX Media & Entertainment Pte. Ltd",
+"description": "Jump through hoops by shooting basketballs with timing-based mechanics in a vibrant arcade setting focused on scoring combos. Players aim to master flick controls that challenge precision under a dynamic timer with increasing difficulty levels. The game's casual sports vibe encourages skillful play to rack up points and beat high scores in fast-paced rounds.\n\nKey Features\n\n• Timing-based flick shooting  \n• Combo-based scoring system  \n• Increasing difficulty stages  \n• Time-limited gameplay rounds  \n• Colorful arcade-style visuals"
+},
+{
+"id": "d27d386113dc48d4a4e2b091bc13a859",
+"title": "Crazy Dunk",
+"iframe": "https://html5.gamedistribution.com/d27d386113dc48d4a4e2b091bc13a859/",
+"creator": "ncsupergame",
+"description": "Shoot and time your basketball shots to score points in a dynamic street court setting where precise dunking technique is key. Players use tapping controls to navigate tricky angles and competing defenders, aiming to rack up combos and climb through increasingly difficult matches. Success depends on mastering shot timing and executing fast slam dunks against AI opponents.\n\nKey Features\n\n• Tap-based dunk timing  \n• Combo scoring system  \n• Increasing AI difficulty levels  \n• Quick match progression  \n• Urban street basketball theme"
+},
+{
+"id": "1d737f7517284e7991c62ca78a3962d7",
+"title": "Cut and Dunk",
+"iframe": "https://html5.gamedistribution.com/1d737f7517284e7991c62ca78a3962d7/",
+"creator": "QkyGames",
+"description": "Slice through dynamic 3D puzzles by cutting shapes to score precise basketball dunks. The core mechanic revolves around spatial slicing that shapes ball trajectories in creative ways. Players face sequential levels featuring varied obstacle placements demanding timing and accuracy. Gradually tougher challenges test your ability to craft perfect paths for the ball to reach the hoop through a physics-driven environment.\n\nKey Features\n\n• Shape cutting puzzle mechanic  \n• Gesture-based slicing controls  \n• Increasingly complex level designs  \n• Scoring tied to dunk precision  \n• Physics influenced ball dynamics"
+},
+{
+"id": "21ef5e971bc5485982238527dd7b4c20",
+"title": "Flappy Dunk",
+"iframe": "https://html5.gamedistribution.com/21ef5e971bc5485982238527dd7b4c20/",
+"creator": "tinyDream",
+"description": "Tap and release to time basketball dunks while controlling a bouncing ball through rotating hoops. Players navigate a rhythmic core mechanic that blends precise taps and momentum to pass through multiple nets, aiming to rack up high scores without missing. The challenge intensifies with faster rotations and tighter timing windows on each level.\n\nKey Features\n\n• Tap timing shot controls  \n• Momentum-based ball physics  \n• Increasing rotation speed challenge  \n• Endless scoring mode system  \n• Court-themed hoop obstacles"
+},
+{
+"id": "32a3e5b142cc4ab2b94887e346f7e692",
+"title": "Street Dunk",
+"iframe": "https://html5.gamedistribution.com/32a3e5b142cc4ab2b94887e346f7e692/",
+"creator": "QkyGames",
+"description": "Dribble and launch shots in Street Dunk’s arcade-style basketball matches, where precise timing of jumps and throws shapes every play. Players navigate dynamic street court settings, aiming to outscore opponents with rapid-fire dunk combos and tactical ball control. The game unfolds through escalating rounds that challenge quick reflexes and strategic positioning.\n\nKey Features\n\n• Timing-based shot mechanics  \n• Responsive movement controls  \n• Increasing difficulty rounds  \n• Combo scoring system  \n• Urban street court setting"
+},
+{
+"id": "d9cd3989c74b4e42930c8c6fc3db2202",
+"title": "Dunk Fall",
+"iframe": "https://html5.gamedistribution.com/d9cd3989c74b4e42930c8c6fc3db2202/",
+"creator": "QkyGames",
+"description": "Jump through rotating hoops to score baskets and avoid falling obstacles in this dynamic dunking challenge. Players time their jumps with precision as platforms shift unpredictably, aiming to rack up points before dropping off the edge. The combination of timing-based movement and escalating difficulty tests quick reflexes in a vibrant arcade-like court setting.\n\nKey Features\n\n• Timing-based jump mechanic  \n• Platform rotation and movement  \n• Progressive difficulty levels  \n• Score multiplier chains  \n• Arcade basketball theme"
+},
+{
+"id": "f70d9d0469054617a5694c3964caa732",
+"title": "Donut Slam Dunk",
+"iframe": "https://html5.gamedistribution.com/f70d9d0469054617a5694c3964caa732/",
+"creator": "MarketJS",
+"description": "Bounce and launch donuts into hoops using precise timing and trajectory in a colorful arcade setting. Players master a physics-based flick mechanic that challenges accuracy and aim to clear increasing score targets across vibrant levels. The game’s mix of quirky dessert-themed visuals and quick reflex puzzles creates a satisfying juggling of skill and pace.\n\nKey Features\n\n• physics-driven flick shots  \n• goal-oriented hoop targeting  \n• timed precision challenges  \n• progressive score milestones  \n• vibrant confectionery visuals"
+},
+{
+"id": "7b6dc6e256e74bdc9b05fec4e18c9433",
+"title": "Bouncy Dunks",
+"iframe": "https://html5.gamedistribution.com/7b6dc6e256e74bdc9b05fec4e18c9433/",
+"creator": "QkyGames",
+"description": "Bounce basketballs into moving hoops while mastering timed jumps and rebounds in a vibrant street court setting. The game’s pixel-perfect timing mechanic challenges players to chain dunks and score combos under a ticking shot clock. As you progress through increasingly dynamic hoop arrangements, precise control and rhythm provide the edge needed to reach high scores.\n\nKey Features\n\n• Timing based jump controls  \n• Combo scoring multiplier system  \n• Increasing difficulty levels  \n• Chain dunk progression mechanic  \n• Urban street basketball theme"
+},
+{
+"id": "48e7a11399f442aba1d1c59a483e0bb7",
+"title": "Doodle Dunk",
+"iframe": "https://html5.gamedistribution.com/48e7a11399f442aba1d1c59a483e0bb7/",
+"creator": "bestgames.com",
+"description": "Score points by flicking a hand-drawn basketball toward the hoop using precise drag-and-release controls. The game features varied shot trajectories based on swipe speed and angle, challenging players to master timing in dynamic doodle-themed court setups. Quickly adapting to moving backboards increases scoring potential and unlocks new levels.\n\nKey Features\n\n• Drag-and-release shooting mechanic  \n• Swipe-based angle and power control  \n• Moving hoop target challenges  \n• Level progression with increasing difficulty  \n• Hand-drawn doodle art style"
+},
+{
+"id": "392993c41bc84171a854b508659dc433",
+"title": "Dunk It Up",
+"iframe": "https://html5.gamedistribution.com/392993c41bc84171a854b508659dc433/",
+"creator": "FluffyFoxGames",
+"description": "Shoot basketballs with precision timing to score in a physics-based hoop challenge that tests aim and rhythm. Players launch shots using angle adjustments and power control, advancing through increasingly tricky levels that require mastering ball bounce trajectories. Each stage blends casual arcade pacing with skillful shot execution to reach target scores against a sporty backdrop.\n\nKey Features\n\n• Angle and power shot control  \n• Progressive difficulty levels  \n• Bounce trajectory physics  \n• Score target challenge system  \n• Casual arcade basketball setting"
+},
+{
+"id": "e1abd7678fed4ce381816003833a18d4",
+"title": "Dunk Game",
+"iframe": "https://html5.gamedistribution.com/e1abd7678fed4ce381816003833a18d4/",
+"creator": "Online Games io",
+"description": "Jump and time precise throws to score slam dunks in a vibrant basketball court setting. Players must master the flick-based shooting mechanic to rack up points against a challenging timer. The game involves chaining combos for higher scores while adjusting jump height and shot angle. Casual gamers can enjoy quick plays or aim for extended streaks to climb the leaderboard.\n\nKey Features\n\n• Flick shot timing system  \n• Adjustable jump height control  \n• Combo scoring multiplier  \n• Time-limited scoring rounds  \n• Street basketball court theme"
+},
+{
+"id": "ef0d52888a9b4c95bbbaa639c2aec01c",
+"title": "Dunk Fall",
+"iframe": "https://html5.gamedistribution.com/ef0d52888a9b4c95bbbaa639c2aec01c/",
+"creator": "FluffyFoxGames",
+"description": "Control physics-based basketball shots to time perfect dunks and clear challenging courts. Precision aiming and trajectory adjustment define the core mechanic, while players aim to master each level’s increasing difficulty. Progression is marked by unlocking varied obstacles and dynamic hoop placements, creating a casual but skill-demanding arcade experience.\n\nKey Features\n\n• Physics-driven shot control  \n• Timing based dunk mechanics  \n• Progressive level difficulty  \n• Obstacle avoidance challenges  \n• Dynamic court environments"
+},
+{
+"id": "491b256f6f454effaac109ac0dfb6308",
+"title": "Flipper Dunk",
+"iframe": "https://html5.gamedistribution.com/491b256f6f454effaac109ac0dfb6308/",
+"creator": "QkyGames",
+"description": "Launch basketballs with precision timing to score slam dunks using a pinball-style flipper mechanism. Players control the angle and force of each shot by strategically activating flippers, aiming to rack up points through accurate rebounds and trick shots. The game challenges players with dynamic ball physics and increasing difficulty in each round.\n\nKey Features\n\n• Pinball flipper launch control  \n• Timing-based shot precision  \n• Progressive scoring challenges  \n• Multiball combo mode  \n• Arcade basketball theme"
+},
+{
+"id": "d7affb1524c343119edd91bf31df888d",
+"title": "Basket Slam Dunk 2",
+"iframe": "https://html5.gamedistribution.com/d7affb1524c343119edd91bf31df888d/",
+"creator": "Ixel Games",
+"description": "Shoot and perform slam dunks using timing-based shots to rack up points in this basketball arcade game. Players control a dynamic jump meter to execute powerful dunks and outscore opponents across increasing difficulty levels. The focus lies on precision aiming and rhythm to conquer the arena’s fast-paced challenges.\n\nKey Features\n\n• Timing-based shot meter  \n• Controlled jump and dunk mechanics  \n• Increasing difficulty stages  \n• Competitive scoring system  \n• Urban basketball court setting"
+},
+{
+"id": "9d53cac3cb654aaaaf30178feca15c58",
+"title": "Hop Hop Dunk",
+"iframe": "https://html5.gamedistribution.com/9d53cac3cb654aaaaf30178feca15c58/",
+"creator": "FG Studio",
+"description": "Bounce the ball accurately to score points by making consecutive basketball shots using precise timing and angle control. Players rely on rhythmic jumping mechanics across increasingly challenging hoops that require strategic rebounds and shot power adjustments. Success depends on mastering progression through various court layouts to achieve high scores and beat personal records.\n\nKey Features\n\n• Timing based shot control  \n• Rhythm driven bounce mechanic  \n• Increasing difficulty courts  \n• Score multiplier system  \n• Casual sports arcade style"
+},
+{
+"id": "cf2e5965522f47ccadb7e5c07793908b",
+"title": "Dunk Legend",
+"iframe": "https://html5.gamedistribution.com/cf2e5965522f47ccadb7e5c07793908b/",
+"creator": "QkyGames",
+"description": "Jump into arcade-style basketball action by performing stylish dunks with timing-based input to rack up high scores. Players showcase skillful jump control and precise shot timing to chain combos and climb leaderboards. The street court setting challenges users to master aerial moves and beat rival dunkers in a fast-paced environment.\n\nKey Features\n\n• Timing-based dunk mechanic  \n• Smooth player jump control  \n• Combo scoring multiplier system  \n• Progressive difficulty tiers  \n• Urban street basketball backdrop"
+},
+{
+"id": "82c40f3c28ec4d76be602aaa5cc63ba3",
+"title": "Flappy Superhero Dunk",
+"iframe": "https://html5.gamedistribution.com/82c40f3c28ec4d76be602aaa5cc63ba3/",
+"creator": "BestGamesFreePlay.com",
+"description": "Fly through obstacles using precise tap controls to slam dunk in this aerial arcade challenge. Players navigate a nimble superhero character flapping between floating hoops, testing timing and reflexes under increasing speed. The goal is to score consecutive dunks without hitting hazards, progressing through escalating scoring targets and chain bonuses.\n\nKey Features\n\n• Tap based flapping mechanic  \n• Timing driven aerial navigation  \n• Escalating score objectives  \n• Combo streak scoring system  \n• Cartoon superhero urban setting"
+},
+{
+"id": "38d25f62e5d44e36a91a368039a9bf8f",
+"title": "dunk hoop",
+"iframe": "https://html5.gamedistribution.com/38d25f62e5d44e36a91a368039a9bf8f/",
+"creator": "pogames.in",
+"description": "Shoot precise shots to score points through challenging basketball hoops with varying rim heights and distances. The game relies on aiming and timing mechanics where players adjust their throw strength and angle to make successful dunks. Each level introduces new hoop placements to test precision and reflexes, keeping casual players engaged throughout the progression. The setting suggests a straightforward court backdrop focusing purely on shot skill rather than elaborate themes.\n\nKey Features\n\n• Aim and throw angle control  \n• Increasing rim difficulty levels  \n• Timed shot precision system  \n• Scoring-based progression unlocks  \n• Minimalistic basketball court design"
+},
+{
+"id": "f4f99c85417d499096610ab0b991ee16",
+"title": "Ultimate Dunk Hoop",
+"iframe": "https://html5.gamedistribution.com/f4f99c85417d499096610ab0b991ee16/",
+"creator": "FG Studio",
+"description": "Perform slam dunks by timing precise jumps and maneuvers to score points in vibrant street court settings. This basketball challenge tests your reflexes and shot accuracy as you compete to outscore rivals through combo dunks and quick moves. Players aim to climb leaderboards by refining their timing and mastering different dunk styles.\n\nKey Features\n\n• Timing-based dunk mechanics  \n• Responsive jump and movement controls  \n• Progressive scoring challenges  \n• Combo multiplier system  \n• Urban street basketball atmosphere"
+},
+{
+"id": "c400ac1f77f24c14b5a878831fc4ecdb",
+"title": "Ultimate Dunk Line 3",
+"iframe": "https://html5.gamedistribution.com/c400ac1f77f24c14b5a878831fc4ecdb/",
+"creator": "FG Studio",
+"description": "Shoot hoops and outpace opponents down the court in this arcade basketball challenge. Navigate a dynamic lineup of dunkers, timing jumps and passes precisely to score maximum points. The game tests your reflexes with fast-paced player switching and combo-based scoring sequences, set in vibrant street courts designed for casual competition.\n\nKey Features\n\n• Character swapping mechanic  \n• Combo dunk scoring system  \n• Timed possession challenges  \n• Progressive difficulty stages  \n• Urban basketball court visuals"
+},
+{
+"id": "974e4a6c39c647f88cb36a99e6366401",
+"title": "Slam Dunk Forever",
+"iframe": "https://html5.gamedistribution.com/974e4a6c39c647f88cb36a99e6366401/",
+"creator": "MarketJS",
+"description": "Control fast-paced basketball matches to score points and outmaneuver your opponents with precision shooting and timed dunks. Navigate dynamic courts while managing player stamina and timing combos to unlock new challenges. Each round tests your skill in synchronizing moves and maintaining offensive pressure for ultimate victory.\n\nKey Features\n\n• Timing-based shooting mechanics  \n• Player stamina management system  \n• Combo-driven scoring progression  \n• Unlockable court environments  \n• Urban basketball street theme"
+},
+{
+"id": "0c94fbcf27864c8c97e897b8e3fa28bd",
+"title": "Dunk Hoop",
+"iframe": "https://html5.gamedistribution.com/0c94fbcf27864c8c97e897b8e3fa28bd/",
+"creator": "8Games.Net",
+"description": "Jump and slam through dynamic basketball court challenges by timing dunks with precision and control. Players master aerial movement and flick shot mechanics under a street-style hoops setting to rack up combos and high scores. Each round increases difficulty with varied defender patterns, testing quick reflexes and shot accuracy for top leaderboard placement.\n\nKey Features\n\n• Flick-based dunk timing  \n• Aerial movement controls  \n• Increasing defender AI patterns  \n• Combo scoring multiplier system  \n• Urban street basketball theme"
+},
+{
+"id": "11ff7ddad65d4bc38dfd3c0629d5c4a1",
+"title": "Super Dunk Line 2",
+"iframe": "https://html5.gamedistribution.com/11ff7ddad65d4bc38dfd3c0629d5c4a1/",
+"creator": "kiz10.com",
+"description": "Swish basketballs down a moving hoop in a fluid, lane-based shooting challenge that tests timing and precision. Navigate shifting lines and chain combos to rack up points while avoiding missed shots that end your run. This fast-paced arcade game sharpens reflexes with an intuitive flick control mechanic on dynamic court setups.\n\nKey Features\n\n• Lane-switching shot timing  \n• Combo multiplier system  \n• Flick control shooting  \n• Increasing speed progression  \n• Bright arcade basketball theme"
+},
+{
+"id": "41bd4797777948e9b34c84769bafb4f7",
+"title": "Neon Dunk",
+"iframe": "https://html5.gamedistribution.com/41bd4797777948e9b34c84769bafb4f7/",
+"creator": "Minijuegos.com",
+"description": "Control a glowing ball as it arcs through futuristic neon-lit hoops, testing your timing and precision in rhythm-based basketball shots. Each level challenges you to master angle shots with variable bounce mechanics while progressing through vibrant cyber arenas that shift in complexity and speed. Precision and quick adjustments decide how far you advance.\n\nKey Features\n\n• Angle-based shot control  \n• Variable ball bounce physics  \n• Increasing level difficulty  \n• Timed scoring challenges  \n• Neon cyber arena stages"
+},
+{
+"id": "18e5ccb3075a4b74a33a7659937274bd",
+"title": "Dunk Hit",
+"iframe": "https://html5.gamedistribution.com/18e5ccb3075a4b74a33a7659937274bd/",
+"creator": "Red Eye Production",
+"description": "Jump to catch basketballs as they bounce on a rotating hoop, timing your taps to score precise dunks. The core mechanic challenges players to react quickly to ball trajectory while the hoop’s spin speed increases, testing reflexes and rhythm. As you progress, keep pace with faster throws and aim for high streaks to climb the score leaderboard.\n\nKey Features\n\n• Tap timing for dunk accuracy  \n• Increasing hoop rotation speed  \n• Combo streak scoring system  \n• Endless progressive difficulty  \n• Minimalist basketball court setting"
+},
+{
+"id": "3603c425d0394df0b85700761a36379a",
+"title": "Flappy Dunk",
+"iframe": "https://html5.gamedistribution.com/3603c425d0394df0b85700761a36379a/",
+"creator": "Red Eye Production",
+"description": "Tap and time shots to slam basketballs through hoops while flipping a character in midair. Using physics-based flick controls, players must master varied angles and momentum to score points and advance through increasingly challenging court layouts. Precision and rhythm determine success in this stylish, fast-paced street basketball challenge.\n\nKey Features\n\n• Flick control shot mechanic  \n• Momentum-driven scoring system  \n• Level progression with obstacles  \n• Time-based challenge mode  \n• Urban street basketball theme"
+},
+{
+"id": "1e114557c82349ffa04089dcbfb0605b",
+"title": "Basket Slam Dunk",
+"iframe": "https://html5.gamedistribution.com/1e114557c82349ffa04089dcbfb0605b/",
+"creator": "Ixel Games",
+"description": "Jump through hoops using precise timing to slam dunk over opponents in fast-paced street basketball challenges. This game combines aerial trick shots with dynamic ball control on urban courts, testing your ability to chain combos and outscore rival players. Match progression unlocks tougher defenders and varied court layouts for increasing challenge.  \n\nKey Features\n\n• Timing-based dunk combos  \n• Dynamic ball physics control  \n• Opponent AI difficulty scaling  \n• Unlockable urban court arenas  \n• Combo chaining scoring system"
+},
+{
 "id": "69d78d071f704fa183d75b4114ae40ec",
 "title": "Basketball Stars",
 "iframe": "https://html5.gamedistribution.com/69d78d071f704fa183d75b4114ae40ec/",
