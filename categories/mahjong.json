@@ -1,6 +1,13 @@
 {
 "pages": [
 {
+"id": "41d94a31938542589c58353279934784",
+"title": "Mahjong Match Line",
+"iframe": "https://html5.gamedistribution.com/41d94a31938542589c58353279934784/",
+"creator": "GameBerry Studio",
+"description": "Match tiles to create continuous lines in a grid-based layout, testing spatial reasoning and pattern recognition skills. The core mechanic involves linking identical mahjong tiles along clear paths without overlaps. Players aim to clear all tiles by forming valid connections under time pressure, navigating through increasingly complex board arrangements. Puzzle elements evolve with tile arrangements and unlocking new levels.\n\nKey Features\n\n• Tile matching line mechanic  \n• Drag and connect tile controls  \n• Time-limited puzzle challenges  \n• Progressive board complexity  \n• Traditional mahjong tile design"
+},
+{
 "id": "a81350af0baa4a419ae86451612e8566",
 "title": "Queen of Mahjong",
 "iframe": "https://html5.gamedistribution.com/a81350af0baa4a419ae86451612e8566/",
