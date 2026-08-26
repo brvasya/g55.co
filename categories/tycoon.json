@@ -1,6 +1,55 @@
 {
 "pages": [
 {
+"id": "bed7ebea8a4b42b3aca9903ecd135d62",
+"title": "Hotel Manager",
+"iframe": "https://html5.gamedistribution.com/bed7ebea8a4b42b3aca9903ecd135d62/",
+"creator": "Code This Lab srl",
+"description": "Manage dynamic guest requests and optimize room assignments in a hotel simulation centered on efficient resource allocation. Players balance daily operational tasks while upgrading facilities to meet guest satisfaction and financial goals. The challenge evolves through increasing guest types requiring tailored service strategies as the game progresses.\n\nKey Features\n\n• Resource management gameplay loop  \n• Interactive room upgrade system  \n• Guest satisfaction level tracking  \n• Progressive difficulty scaling  \n• Modern hotel environment setting"
+},
+{
+"id": "e76071c49ae04ff588f9d509ce9d2436",
+"title": "Airport Manager",
+"iframe": "https://html5.gamedistribution.com/e76071c49ae04ff588f9d509ce9d2436/",
+"creator": "igroutka.ru",
+"description": "Manage airport operations by scheduling flights and balancing runway usage with limited resources. Players optimize air traffic control with dynamic flight timing challenges and upgrade airport facilities to handle growing passenger flow. The core gameplay involves coordinating takeoffs and landings under time constraints while expanding services to improve overall efficiency.\n\nKey Features\n\n• Flight scheduling and runway management  \n• Real-time air traffic control mechanics  \n• Dynamic difficulty progression system  \n• Resource allocation and facility upgrades  \n• Airport operations simulation environment"
+},
+{
+"id": "4e69bd0a4d2e48b1927d9bd16e76c834",
+"title": "Boss Business Inc.",
+"iframe": "https://html5.gamedistribution.com/4e69bd0a4d2e48b1927d9bd16e76c834/",
+"creator": "NoticeGames.com",
+"description": "Manage quirky office chaos by directing diverse employees, balancing tasks and interruptions to grow your corporate empire. Utilize character-specific skills to optimize workflow across escalating levels of workplace disorder. Aim to expand the business while mastering a blend of time management and strategic resource allocation in a cartoon office setting.\n\nKey Features\n\n• Character-driven task assignments  \n• Dynamic interruption management  \n• Progressive office expansion levels  \n• Employee skill upgrades system  \n• Cartoon workplace environment"
+},
+{
+"id": "426b7e9ad9c74adfb71a36ba6d787a2b",
+"title": "Airport Manager Games",
+"iframe": "https://html5.gamedistribution.com/426b7e9ad9c74adfb71a36ba6d787a2b/",
+"creator": "JulGames",
+"description": "Manage airport logistics by coordinating runway usage and gate assignments in real-time, balancing aircraft arrivals and departures. Navigate the complexities of ground crew deployment and resource allocation to maintain smooth operations under increasing traffic pressure. Efficient scheduling and priority handling of different plane types test strategic planning in this airport setting.\n\nKey Features\n\n• Air traffic flow coordination  \n• Interactive ground crew management  \n• Dynamic scheduling challenges  \n• Resource-based efficiency upgrades  \n• Aircraft type prioritization system"
+},
+{
+"id": "e837d66b9c33449db2e7c7ab8b9082c8",
+"title": "Real Estate Business",
+"iframe": "https://html5.gamedistribution.com/e837d66b9c33449db2e7c7ab8b9082c8/",
+"creator": "F2K2.com",
+"description": "Buy, upgrade, and manage properties while balancing resources and market trends in this browser-based real estate simulator. Players navigate dynamic property values to expand their portfolio and unlock strategic investments. The game challenges players to optimize buying and selling timing under fluctuating economic conditions to maximize profits.\n\nKey Features\n\n• Property acquisition and upgrades  \n• Market trend analysis system  \n• Resource management mechanics  \n• Portfolio expansion progression  \n• Casual strategic investment gameplay"
+},
+{
+"id": "19a34e696d6e40deaa2e3fc2a875b8cc",
+"title": "Traffic Manager",
+"iframe": "https://html5.gamedistribution.com/19a34e696d6e40deaa2e3fc2a875b8cc/",
+"creator": "Playtouch",
+"description": "Manage complex vehicle flow through urban intersections, timing traffic signals to prevent jams and collisions. This game tasks players with adjusting lane priorities and signal cycles to optimize traffic efficiency in growing city zones. Strategic light control forms the core challenge, requiring attention to real-time traffic volume changes and occasional emergency vehicle routing.\n\nKey Features\n\n• Traffic signal timing mechanics  \n• Lane management controls  \n• Progressive city traffic complexity  \n• Emergency vehicle prioritization  \n• Urban traffic simulation setting"
+},
+{
+"id": "5f430c3c32fa43a2bb721edb35710c5b",
+"title": "Supermarket Manager",
+"iframe": "https://html5.gamedistribution.com/5f430c3c32fa43a2bb721edb35710c5b/",
+"creator": "Racz Ioan Paul II",
+"description": "Manage inventory and customer flow in a detailed supermarket simulator that challenges you to optimize shelf stocking and checkout efficiency. Use strategic restocking mechanics to keep products available and respond to fluctuating customer demands in various store layouts. The game pushes players to balance resource allocation and service speed to reach daily revenue targets.\n\nKey Features\n\n• Inventory management system  \n• Customer queue control  \n• Shelf restocking mechanics  \n• Progressive store layout challenges  \n• Casual supermarket setting"
+},
+{
 "id": "714130906d7548e9b75bee2108ea9d10",
 "title": "Money Factory: Tycoon Idle Game",
 "iframe": "https://html5.gamedistribution.com/714130906d7548e9b75bee2108ea9d10/",

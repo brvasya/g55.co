@@ -1,6 +1,41 @@
 {
 "pages": [
 {
+"id": "9addb82d5ce74fb5b2eab726f8524cac",
+"title": "Darts Jam",
+"iframe": "https://html5.gamedistribution.com/9addb82d5ce74fb5b2eab726f8524cac/",
+"creator": "HeiTie",
+"description": "Launch precision darts at circular targets using intuitive flick controls in this casual arcade game. Players aim to score high by mastering trajectory and timing in various themed arenas. The challenge increases with moving bullseyes and limited throws, rewarding accuracy and strategic shot placement for leaderboard progression.\n\nKey Features\n\n• Flick gesture aiming mechanic  \n• Moving bullseye targeting system  \n• Limited throw count challenge  \n• Time-based scoring rounds  \n• Colorful arcade arena environments"
+},
+{
+"id": "13cf5afabe284b8c98f7e5fb47f48914",
+"title": "Darts King",
+"iframe": "https://html5.gamedistribution.com/13cf5afabe284b8c98f7e5fb47f48914/",
+"creator": "Inlogic Software",
+"description": "Throw precise darts to hit target zones in scaled rounds where accuracy shapes your score. This game challenges players to balance aim and timing while progressing through varied dartboard layouts. Improving shot control unlocks more difficult levels with subtle changes in dart flight and scoring strategies.\n\nKey Features\n\n• Precision aiming mechanic  \n• Timing-based throw control  \n• Progressive difficulty stages  \n• Score-based level unlocking  \n• Classic pub game ambiance"
+},
+{
+"id": "143aecbfad8e404098d70d8009a0d791",
+"title": "Darts Club",
+"iframe": "https://html5.gamedistribution.com/143aecbfad8e404098d70d8009a0d791/",
+"creator": "Gamebuilt.com",
+"description": "Aim and throw precision darts against dynamic targets to navigate through multiple scoring zones, requiring steady hand control and timing accuracy. The gameplay centers on adjusting throw power and angle while targeting specific board segments to climb the leaderboards. Players can engage in various scoring modes to improve accuracy and compete for higher points in casual pub-style or tournament settings.\n\nKey Features\n\n• Power and angle throw mechanic  \n• Target segment precision system  \n• Progressive scoring challenges  \n• Multiple dartboard modes  \n• Casual pub and competitive themes"
+},
+{
+"id": "e732fc1278a64866a1695c30ea155167",
+"title": "Darts",
+"iframe": "https://html5.gamedistribution.com/e732fc1278a64866a1695c30ea155167/",
+"creator": "Gamebuilt.com",
+"description": "Aim accurately by throwing darts with precise mouse control to hit target zones and rack up points. This gameplay involves managing throw timing and power to achieve the highest score possible in standard dartboard layouts. Players advance by mastering different scoring segments and refining their grip on the trajectory required to win competitive rounds.\n\nKey Features\n\n• Precision aiming mechanic  \n• Mouse-based throw timing  \n• Scoring zone challenge  \n• Progressive difficulty levels  \n• Classic pub game setting"
+},
+{
+"id": "e2eeaeb41ece46f08f11f557669f0760",
+"title": "Arcade Darts",
+"iframe": "https://html5.gamedistribution.com/e2eeaeb41ece46f08f11f557669f0760/",
+"creator": "Code This Lab srl",
+"description": "Throw darts with precise timing to hit high scores in fast-paced arcade rounds. Players use simple flick controls to aim and release darts against increasingly challenging target patterns. Multiple scoring zones demand accuracy and quick adjustments, while bonus stages introduce moving targets to test reflexes further.\n\nKey Features\n\n• Flick-based aiming mechanics  \n• Timed dart throwing controls  \n• Progressive target difficulty levels  \n• Bonus moving target rounds  \n• Colorful arcade-style visuals"
+},
+{
 "id": "bca62aaf1d05409b819638a2d2e0f060",
 "title": "Bowling Stars",
 "iframe": "https://html5.gamedistribution.com/bca62aaf1d05409b819638a2d2e0f060/",
