@@ -29,7 +29,6 @@ AGENT_EXCEPTIONS = {
     "marble": "ball",
     "pinball": "ball",
     "pong": "ball",
-    "slope": "ball",
     "zuma": "ball",
 
     #basketball
@@ -155,7 +154,6 @@ AGENT_EXCEPTIONS = {
     #fighting
     "boxing": "fighting",
     "brawler": "fighting",
-    "drunken": "fighting",
     "fighter": "fighting",
     "gladiator": "fighting",
     "karate": "fighting",
