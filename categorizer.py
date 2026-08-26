@@ -8,55 +8,99 @@ CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
 
 
 AGENT_EXCEPTIONS = {
+    #archery
     "archer": "archery",
+    "archerry": "archery",
     "bowman": "archery",
 
+    #baby
+    "babysitter": "baby",
+
+    #bike
     "biker": "bike",
     "moto": "bike",
     "motorbike": "bike",
     "motorcycle": "bike",
 
-    "defender": "defense",
-    "defence": "defense",
+    #coloring
+    "colouring": "coloring",
 
-    "fighter": "fighting",
-    "wrestler": "fighting",
-    "gladiator": "fighting",
-    "boxing": "fighting",
+    #connect
+    "conect": "connect",
 
-    "racer": "racing",
-    "jumper": "jumping",
-
-    "farmer": "farming",
-
-    "fisherman": "fishing",
-    "angler": "fishing",
-
-    "penalty": "football",
-
-    "survivor": "survival",
-    "survive": "survival",
-
-    "drifter": "drift",
-
-    "chef": "cooking",
-    "baker": "cooking",
+    #cooking
     "bake": "cooking",
+    "baker": "cooking",
     "bakery": "cooking",
     "baking": "cooking",
+    "chef": "cooking",
 
+    #defense
+    "defence": "defense",
+    "defend": "defense",
+    "defender": "defense",
+
+    #doctor
     "dentist": "doctor",
-    "surgery": "doctor",
     "surgeon": "doctor",
+    "surgery": "doctor",
 
+    #drift
+    "drifter": "drift",
+
+    #fashion
     "tailor": "fashion",
 
-    "babysitter": "baby",
+    #farming
+    "farmer": "farming",
 
+    #fighting
+    "boxing": "fighting",
+    "fighter": "fighting",
+    "gladiator": "fighting",
+    "wrestler": "fighting",
+
+    #fishing
+    "angler": "fishing",
+    "fisherman": "fishing",
+
+    #football
+    "penalty": "football",
+
+    #halloween
+    "hallowen": "halloween",
+    "helloween": "halloween",
+
+    #impostor
+    "imposter": "impostor",
+
+    #jumping
+    "jumper": "jumping",
+
+    #mahjong
+    "mahjongg": "mahjong",
+
+    #racing
+    "racer": "racing",
+
+    #rescue
+    "rescuer": "rescue",
+
+    #shooter
     "commando": "shooter",
     "gunslinger": "shooter",
-    "swat": "shooter",
     "skeet": "shooter",
+    "swat": "shooter",
+
+    #simulator
+    "simulation": "simulator",
+
+    #sniper
+    "snipe": "sniper",
+
+    #survival
+    "survive": "survival",
+    "survivor": "survival",
 }
 
 
