@@ -16,11 +16,25 @@ AGENT_EXCEPTIONS = {
     #baby
     "babysitter": "baby",
 
+    #basketball
+    "dunk": "basketball",
+
     #bike
+    "bicycle": "bike",
     "biker": "bike",
+    "cycling": "bike",
     "moto": "bike",
+    "motocross": "bike",
     "motorbike": "bike",
     "motorcycle": "bike",
+
+    #cat
+    "kitten": "cat",
+    "kitty": "cat",
+
+    #christmas
+    "santa": "christmas",
+    "xmas": "christmas",
 
     #coloring
     "colouring": "coloring",
@@ -34,31 +48,41 @@ AGENT_EXCEPTIONS = {
     "bakery": "cooking",
     "baking": "cooking",
     "chef": "cooking",
+    "recipe": "cooking",
 
     #defense
     "defence": "defense",
     "defend": "defense",
     "defender": "defense",
 
+    #differences
+    "diffs": "differences",
+
     #doctor
     "dentist": "doctor",
     "surgeon": "doctor",
     "surgery": "doctor",
 
+    #dog
+    "doggy": "dog",
+    "puppy": "dog",
+
     #drift
     "drifter": "drift",
 
-    #fashion
-    "tailor": "fashion",
-
     #farming
     "farmer": "farming",
+
+    #fashion
+    "tailor": "fashion",
 
     #fighting
     "boxing": "fighting",
     "fighter": "fighting",
     "gladiator": "fighting",
+    "karate": "fighting",
     "wrestler": "fighting",
+    "wrestling": "fighting",
 
     #fishing
     "angler": "fishing",
@@ -66,6 +90,9 @@ AGENT_EXCEPTIONS = {
 
     #football
     "penalty": "football",
+
+    #golf
+    "putt": "golf",
 
     #halloween
     "hallowen": "halloween",
@@ -80,27 +107,51 @@ AGENT_EXCEPTIONS = {
     #mahjong
     "mahjongg": "mahjong",
 
+    #math
+    "addition": "math",
+    "arithmetic": "math",
+    "mathematical": "math",
+    "multiplication": "math",
+
+    #pool
+    "billiard": "pool",
+
     #racing
     "racer": "racing",
 
     #rescue
     "rescuer": "rescue",
 
+    #restaurant
+    "cafe": "restaurant",
+    "diner": "restaurant",
+
     #shooter
     "commando": "shooter",
     "gunslinger": "shooter",
+    "shooty": "shooter",
     "skeet": "shooter",
     "swat": "shooter",
 
     #simulator
+    "sim": "simulator",
     "simulation": "simulator",
 
     #sniper
     "snipe": "sniper",
 
+    #space
+    "astronaut": "space",
+    "mars": "space",
+    "starship": "space",
+
     #survival
     "survive": "survival",
     "survivor": "survival",
+
+    #word
+    "crossword": "word",
+    "hangman": "word",
 }
 
 
