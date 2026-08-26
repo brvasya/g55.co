@@ -1,6 +1,13 @@
 {
 "pages": [
 {
+"id": "c87214a4d34a418292a51dbd20d160fa",
+"title": "Russian Draughts",
+"iframe": "https://html5.gamedistribution.com/c87214a4d34a418292a51dbd20d160fa/",
+"creator": "RedFoc",
+"description": "Move pieces diagonally to capture opponents in classic Russian draughts, using multi-jump mechanics that add strategic depth. Players aim to outmaneuver and capture all opposing checkers on an 8x8 board, emphasizing forced capture rules unique to this variant. Timing and positioning are critical for mastering double and triple jumps across dark squares.\n\nKey Features\n\n• Diagonal multi-jump capture system  \n• Turn-based piece movement control  \n• Forced capture rule enforcement  \n• King promotion on board edges  \n• Classic 8x8 checkerboard setup"
+},
+{
 "id": "72f779937592412493f5f67c8d9c2113",
 "title": "Bolts - Unscrew It",
 "iframe": "https://html5.gamedistribution.com/72f779937592412493f5f67c8d9c2113/",
