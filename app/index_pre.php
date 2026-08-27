@@ -127,7 +127,7 @@ if ($hasC) {
     list(, $pages) = load_category_pages($catId);
     $totalCount += count($pages);
 
-    $newest = newest_page($pages);
+    foreach (array_slice($pages, 0, 4) as $newest)
     $gridItems[] = [
       'id' => $newest['id'],
       'title' => $newest['title'],
