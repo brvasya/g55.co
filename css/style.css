@@ -9,6 +9,7 @@ body {
 header {
     width: 70%;
     height: 90px;
+    margin-bottom: 25px;
     display: flex;
     position: relative;
     align-items: center;
