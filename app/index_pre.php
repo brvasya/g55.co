@@ -54,7 +54,7 @@ if ($hasC) {
   }
 
   $cat = $catMap[$cid];
-  list($_, $pages) = load_category_pages($cid);
+  list(, $pages) = load_category_pages($cid);
 
   $seriesClusters = build_game_series_clusters($pages);
   $seriesCategories = build_game_series_categories($seriesClusters, $cid);
@@ -68,14 +68,14 @@ if ($hasC) {
       exit;
     }
 
-    $activeSeriesKey = detect_game_series_key($_GET['t']);
-    $activeSeriesCluster = find_game_cluster_for_series_key($seriesClusters, $activeSeriesKey);
+    $activeSeriesCluster = find_game_cluster_for_series_key($seriesClusters, $_GET['t']);
 
     if (!$activeSeriesCluster) {
       header('Location: /?c=' . rawurlencode($cid), true, 302);
       exit;
     }
 
+    $activeSeriesKey = series_cluster_key($activeSeriesCluster);
     $activeSeriesTitle = series_cluster_title($activeSeriesCluster);
     $displayPages = $activeSeriesCluster;
   }
@@ -97,7 +97,7 @@ if ($hasC) {
     ];
   }
 
-  $count = count($displayPages);
+  $count = $pager['total_items'];
   $headingName = $cat['name'];
 
   if ($activeSeriesTitle !== '') {
@@ -124,7 +124,7 @@ if ($hasC) {
   foreach ($categories as $c) {
     $catId = $c['id'];
 
-    list($_, $pages) = load_category_pages($catId);
+    list(, $pages) = load_category_pages($catId);
     $totalCount += count($pages);
 
     $newest = newest_page($pages);
