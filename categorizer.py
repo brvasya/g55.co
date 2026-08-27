@@ -8,21 +8,54 @@ CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
 
 
 AGENT_EXCEPTIONS = {
+    #io
+
+    #action
+    "battler": "action",
+    "dynamon": "action",
+    "boxing": "action",
+    "brawler": "action",
+    "gladiator": "action",
+    "karate": "action",
+    "punch": "action",
+    "samurai": "action",
+    "slap": "action",
+    "sumo": "action",
+    "wrestle": "action",
+    "wrestler": "action",
+    "wrestling": "action",
+    "superhero": "action",
+    "imposter": "action",
+    "survive": "action",
+    "survivor": "action",
+
     #adventure
     "rpg": "adventure",
+    "backroom": "adventure",
+    "haunted": "adventure",
+    "scary": "adventure",
+    "slender": "adventure",
+    "slenderman": "adventure",
+    "slendrina": "adventure",
+    "terror": "adventure",
+    "minicraft": "adventure",
+    "ambulance": "adventure",
+    "firefighter": "adventure",
+    "rescuer": "adventure",
+    "alien": "adventure",
+    "asteroid": "adventure",
+    "astronaut": "adventure",
+    "cosmic": "adventure",
+    "cosmos": "adventure",
+    "galactic": "adventure",
+    "galaxy": "adventure",
+    "mars": "adventure",
+    "moon": "adventure",
+    "solar": "adventure",
+    "spaceship": "adventure",
+    "starship": "adventure",
 
-    #archery
-    "archer": "shooter",
-    "archero": "shooter",
-    "archerry": "shooter",
-    "bow": "shooter",
-    "bowman": "shooter",
-
-    #baby
-    "babysitter": "casual",
-    "toddler": "casual",
-
-    #ball
+    #arcade
     "arkanoid": "arcade",
     "ballz": "arcade",
     "breakout": "arcade",
@@ -30,116 +63,35 @@ AGENT_EXCEPTIONS = {
     "pinball": "arcade",
     "pong": "arcade",
     "zuma": "arcade",
+    "hopping": "arcade",
+    "jumpy": "arcade",
+    "leap": "arcade",
+    "vex": "arcade",
+    "rushy": "arcade",
+    "stacka": "arcade",
+    "stacky": "arcade",
 
-    #basketball
-    "dunk": "sports",
-    "hoops": "sports",
+    #board
+    "mahjongg": "board",
 
-    #battle
-    "battler": "action",
-    "dynamon": "action",
+    #card
+    "freecell": "card",
+    "patience": "card",
+    "soli": "card",
+    "tripeaks": "card",
 
-    #bike
-    "bicycle": "driving",
-    "biker": "driving",
-    "bmx": "driving",
-    "cycling": "driving",
-    "moto": "driving",
-    "motocross": "driving",
-    "motorbike": "driving",
-    "motorcycle": "driving",
-
-    #block
-    "10x10": "puzzle",
-    "blockz": "puzzle",
-    "brick": "puzzle",
-    "tetris": "puzzle",
-    "tetrix": "puzzle",
-    "tetriz": "puzzle",
-    "unblock": "puzzle",
-
-    #brain
-    "logic": "puzzle",
-    "logical": "puzzle",
-    "mind": "puzzle",
-    "riddle": "puzzle",
-    "smart": "puzzle",
-
-    #cat
+    #casual
+    "babysitter": "casual",
+    "toddler": "casual",
     "kitten": "casual",
     "kitty": "casual",
     "meow": "casual",
-
-    #christmas
     "christman": "casual",
     "santa": "casual",
     "xmas": "casual",
-
-    #coloring
     "colouring": "casual",
-
-    #connect
-    "conect": "puzzle",
-    "connection": "puzzle",
-    "linker": "puzzle",
-    "onnect": "puzzle",
-
-    #cooking
-    "bake": "simulator",
-    "baker": "simulator",
-    "bakery": "simulator",
-    "baking": "simulator",
-    "bbq": "simulator",
-    "burger": "simulator",
-    "chef": "simulator",
-    "cuisine": "simulator",
-    "cupcake": "simulator",
-    "grill": "simulator",
-    "kitchen": "simulator",
-    "muffin": "simulator",
-    "pancake": "simulator",
-    "pastry": "simulator",
-    "recipe": "simulator",
-    "salad": "simulator",
-    "slushy": "simulator",
-    "smoothie": "simulator",
-    "toast": "simulator",
-
-    #defense
-    "defence": "strategy",
-    "defend": "strategy",
-    "protect": "strategy",
-
-    #differences
-    "differs": "puzzle",
-    "diffs": "puzzle",
-
-    #doctor
-    "dental": "simulator",
-    "dentist": "simulator",
-    "er": "simulator",
-    "medical": "simulator",
-    "surgeon": "simulator",
-    "surgery": "simulator",
-    "vaccine": "simulator",
-
-    #dog
     "doggy": "casual",
     "puppy": "casual",
-
-    #drift
-    "drifty": "driving",
-
-    #driving
-    "atv": "driving",
-    "rickshaw": "driving",
-    "taxi": "driving",
-    "tractor": "driving",
-
-    #farming
-    "harvest": "simulator",
-
-    #fashion
     "barber": "casual",
     "braid": "casual",
     "braided": "casual",
@@ -152,126 +104,72 @@ AGENT_EXCEPTIONS = {
     "outfit": "casual",
     "tailor": "casual",
     "wardrobe": "casual",
-
-    #fighting
-    "boxing": "action",
-    "brawler": "action",
-    "gladiator": "action",
-    "karate": "action",
-    "punch": "action",
-    "samurai": "action",
-    "slap": "action",
-    "sumo": "action",
-    "wrestle": "action",
-    "wrestler": "action",
-    "wrestling": "action",
-
-    #fishing
-    "angler": "simulator",
-    "fisherman": "simulator",
-
-    #flying
-    "airplane": "simulator",
-    "aviation": "simulator",
-    "aviator": "simulator",
-    "copter": "simulator",
-    "glider": "simulator",
-    "helicopter": "simulator",
-    "pilot": "simulator",
-    "plane": "simulator",
-
-    #football
-    "rugby": "sports",
-    "touchdown": "sports",
-
-    #golf
-    "minigolf": "sports",
-    "putt": "sports",
-
-    #gun
-    "bazooka": "shooter",
-    "pistol": "shooter",
-
-    #halloween
     "hallowen": "casual",
     "helloween": "casual",
-
-    #hero
-    "superhero": "action",
-
-    #horror
-    "backroom": "adventure",
-    "haunted": "adventure",
-    "scary": "adventure",
-    "slender": "adventure",
-    "slenderman": "adventure",
-    "slendrina": "adventure",
-    "terror": "adventure",
-
-    #impostor
-    "imposter": "action",
-
-    #jumping
-    "hopping": "arcade",
-    "jumpy": "arcade",
-    "leap": "arcade",
-
-    #kids
     "children": "casual",
-
-    #mahjong
-    "mahjongg": "board",
-
-    #makeup
     "lip": "casual",
     "manicure": "casual",
     "nails": "casual",
     "pedicure": "casual",
     "tattoo": "casual",
 
-    #matching
+    #clicker
+
+    #driving
+    "bicycle": "driving",
+    "biker": "driving",
+    "bmx": "driving",
+    "cycling": "driving",
+    "moto": "driving",
+    "motocross": "driving",
+    "motorbike": "driving",
+    "motorcycle": "driving",
+    "drifty": "driving",
+    "atv": "driving",
+    "rickshaw": "driving",
+    "taxi": "driving",
+    "tractor": "driving",
+    "jeep": "driving",
+    "unpark": "driving",
+    "formula": "driving",
+    "karting": "driving",
+    "rally": "driving",
+    "speedway": "driving",
+    "stuntz": "driving",
+    "wheelie": "driving",
+    "railroad": "driving",
+
+    #puzzle
+    "10x10": "puzzle",
+    "blockz": "puzzle",
+    "brick": "puzzle",
+    "tetris": "puzzle",
+    "tetrix": "puzzle",
+    "tetriz": "puzzle",
+    "unblock": "puzzle",
+    "logic": "puzzle",
+    "logical": "puzzle",
+    "mind": "puzzle",
+    "riddle": "puzzle",
+    "smart": "puzzle",
+    "conect": "puzzle",
+    "connection": "puzzle",
+    "linker": "puzzle",
+    "onnect": "puzzle",
+    "differs": "puzzle",
+    "diffs": "puzzle",
     "kyodai": "puzzle",
     "matchems": "puzzle",
     "onet": "puzzle",
     "pair": "puzzle",
-
-    #math
-    "addition": "quiz",
-    "arithmetic": "quiz",
-    "counting": "quiz",
-    "equations": "quiz",
-    "mathematical": "quiz",
-    "mathematics": "quiz",
-    "multiplication": "quiz",
-
-    #memory
     "memo": "puzzle",
     "memorize": "puzzle",
     "remember": "puzzle",
-
-    #merge
     "combine": "puzzle",
     "fuse": "puzzle",
     "fusion": "puzzle",
     "merger": "puzzle",
     "merging": "puzzle",
-
-    #minecraft
-    "minicraft": "adventure",
-
-    #offroad
-    "jeep": "driving",
-
-    #parking
-    "unpark": "driving",
-
-    #platform
-    "vex": "arcade",
-
-    #pool
-    "billiard": "sports",
-
-    #puzzle
     "backgammon": "puzzle",
     "bolts": "puzzle",
     "checkers": "puzzle",
@@ -300,31 +198,29 @@ AGENT_EXCEPTIONS = {
     "untangle": "puzzle",
     "wheely": "puzzle",
     "yatzy": "puzzle",
+    "laundry": "puzzle",
+    "organize": "puzzle",
+    "tidy": "puzzle",
+    "wordoku": "puzzle",
 
     #quiz
+    "addition": "quiz",
+    "arithmetic": "quiz",
+    "counting": "quiz",
+    "equations": "quiz",
+    "mathematical": "quiz",
+    "mathematics": "quiz",
+    "multiplication": "quiz",
     "trivia": "quiz",
 
-    #racing
-    "formula": "driving",
-    "karting": "driving",
-    "rally": "driving",
-    "speedway": "driving",
-
-    #rescue
-    "ambulance": "adventure",
-    "firefighter": "adventure",
-    "rescuer": "adventure",
-
-    #restaurant
-    "cafe": "simulator",
-    "diner": "simulator",
-    "pizzeria": "simulator",
-    "tavern": "simulator",
-
-    #rush
-    "rushy": "arcade",
-
     #shooter
+    "archer": "shooter",
+    "archero": "shooter",
+    "archerry": "shooter",
+    "bow": "shooter",
+    "bowman": "shooter",
+    "bazooka": "shooter",
+    "pistol": "shooter",
     "blaster": "shooter",
     "commando": "shooter",
     "gunslinger": "shooter",
@@ -333,47 +229,68 @@ AGENT_EXCEPTIONS = {
     "shooty": "shooter",
     "skeet": "shooter",
     "swat": "shooter",
-
-    #simulator
-    "sim": "simulator",
-    "simulation": "simulator",
-
-    #sniper
     "snipe": "shooter",
 
-    #soccer
+    #simulator
+    "bake": "simulator",
+    "baker": "simulator",
+    "bakery": "simulator",
+    "baking": "simulator",
+    "bbq": "simulator",
+    "burger": "simulator",
+    "chef": "simulator",
+    "cuisine": "simulator",
+    "cupcake": "simulator",
+    "grill": "simulator",
+    "kitchen": "simulator",
+    "muffin": "simulator",
+    "pancake": "simulator",
+    "pastry": "simulator",
+    "recipe": "simulator",
+    "salad": "simulator",
+    "slushy": "simulator",
+    "smoothie": "simulator",
+    "toast": "simulator",
+    "dental": "simulator",
+    "dentist": "simulator",
+    "er": "simulator",
+    "medical": "simulator",
+    "surgeon": "simulator",
+    "surgery": "simulator",
+    "vaccine": "simulator",
+    "harvest": "simulator",
+    "angler": "simulator",
+    "fisherman": "simulator",
+    "airplane": "simulator",
+    "aviation": "simulator",
+    "aviator": "simulator",
+    "copter": "simulator",
+    "glider": "simulator",
+    "helicopter": "simulator",
+    "pilot": "simulator",
+    "plane": "simulator",
+    "cafe": "simulator",
+    "diner": "simulator",
+    "pizzeria": "simulator",
+    "tavern": "simulator",
+    "sim": "simulator",
+    "simulation": "simulator",
+    "business": "simulator",
+    "manager": "simulator",
+
+    #sports
+    "dunk": "sports",
+    "hoops": "sports",
+    "rugby": "sports",
+    "touchdown": "sports",
+    "minigolf": "sports",
+    "putt": "sports",
+    "billiard": "sports",
     "foosball": "sports",
     "footy": "sports",
     "freekick": "sports",
     "goalkeeper": "sports",
     "penalty": "sports",
-
-    #solitaire
-    "freecell": "card",
-    "patience": "card",
-    "soli": "card",
-    "tripeaks": "card",
-
-    #sorting
-    "laundry": "puzzle",
-    "organize": "puzzle",
-    "tidy": "puzzle",
-
-    #space
-    "alien": "adventure",
-    "asteroid": "adventure",
-    "astronaut": "adventure",
-    "cosmic": "adventure",
-    "cosmos": "adventure",
-    "galactic": "adventure",
-    "galaxy": "adventure",
-    "mars": "adventure",
-    "moon": "adventure",
-    "solar": "adventure",
-    "spaceship": "adventure",
-    "starship": "adventure",
-
-    #sports
     "badminton": "sports",
     "bowling": "sports",
     "cricket": "sports",
@@ -386,29 +303,10 @@ AGENT_EXCEPTIONS = {
     "volley": "sports",
     "volleyball": "sports",
 
-    #stack
-    "stacka": "arcade",
-    "stacky": "arcade",
-
-    #stunt
-    "stuntz": "driving",
-    "wheelie": "driving",
-
-    #sudoku
-    "wordoku": "puzzle",
-
-    #survival
-    "survive": "action",
-    "survivor": "action",
-
-    #train
-    "railroad": "driving",
-
-    #tycoon
-    "business": "simulator",
-    "manager": "simulator",
-
-    #war
+    #strategy
+    "defence": "strategy",
+    "defend": "strategy",
+    "protect": "strategy",
     "battalion": "strategy",
     "battlefield": "strategy",
     "siege": "strategy",
