@@ -1,6 +1,34 @@
 {
 "pages": [
 {
+"id": "ee2a40b1256b4274a86d04f6bad8bb9e",
+"title": "Circus Dart Wheel",
+"iframe": "https://html5.gamedistribution.com/ee2a40b1256b4274a86d04f6bad8bb9e/",
+"creator": "igroutka.ru",
+"description": "Aim precision darts at a rotating target to score points in this fast-paced browser game. Players test timing and accuracy while managing dart throws around a bustling circus-themed dart wheel. The challenge lies in hitting specific numbered sections as the wheel spins faster, with progression marked by increasingly complex speed patterns and target sizes.\n\nKey Features\n\n• Rotating target precision mechanic  \n• Timed dart throwing controls  \n• Increasing spin speed levels  \n• Scoring based on target zones  \n• Circus-themed visual design"
+},
+{
+"id": "e809425cd292479abac8a98c1877560a",
+"title": "Dart Wheel",
+"iframe": "https://html5.gamedistribution.com/e809425cd292479abac8a98c1877560a/",
+"creator": "JZJO.COM",
+"description": "Launch precision darts at a spinning target wheel, timing each throw to hit high-scoring segments and avoid penalties. The game uses flick gesture controls to simulate dart throws, challenging players to improve accuracy over multiple rounds. Scoring depends on hitting specific wheel zones, with difficulty increasing as the wheel speeds up during progression.\n\nKey Features\n\n• Flick gesture throwing mechanic  \n• Incremental speed increase challenge  \n• Scoring based on target segments  \n• Multi-round score tracking system  \n• Circular dartboard spin physics"
+},
+{
+"id": "9e7ce2b4be244373a936466545876411",
+"title": "Circus Dart Game",
+"iframe": "https://html5.gamedistribution.com/9e7ce2b4be244373a936466545876411/",
+"creator": "Instant Games Studio",
+"description": "Launch precise darts at spinning targets to score points in this circus-themed challenge. Players control timing and aim to hit moving objects that test hand-eye coordination and accuracy. Progression unfolds through increasingly tricky target patterns and faster rotations, creating a lively carnival atmosphere where precision is key.\n\nKey Features\n\n• Dart throwing accuracy mechanic  \n• Timing-based aiming controls  \n• Progressive target difficulty  \n• Scoring combo system  \n• Carnival setting with moving targets"
+},
+{
+"id": "3299dbc531f440e4b4aeedf672b4714d",
+"title": "Knife Dart",
+"iframe": "https://html5.gamedistribution.com/3299dbc531f440e4b4aeedf672b4714d/",
+"creator": "MarketJS",
+"description": "Throw sharp knives to stick them into rotating targets while avoiding hitting other knives already stuck. This game tests your timing and precision as you aim to clear each circular stage by landing darts on narrow sections. Levels increase in speed and complexity, challenging players to master steady throws under pressure.\n\nKey Features\n\n• Precision timing throwing mechanic  \n• Angular target rotation patterns  \n• Incremental stage difficulty progression  \n• Limited knife inventory per level  \n• Minimalistic dartboard visual theme"
+},
+{
 "id": "425d512c97d84b4292aea4ffe826e570",
 "title": "Cargo Skates",
 "iframe": "https://html5.gamedistribution.com/425d512c97d84b4292aea4ffe826e570/",

@@ -1,6 +1,27 @@
 {
 "pages": [
 {
+"id": "4f5403c2c71c40848305a962ec21aaac",
+"title": "Winter Tetrix Trails",
+"iframe": "https://html5.gamedistribution.com/4f5403c2c71c40848305a962ec21aaac/",
+"creator": "Lof Games",
+"description": "Arrange falling ice blocks using rotation and placement to clear horizontal lines in a winter-themed puzzle setting. Navigate through progressively challenging speeds and complex piece shapes while managing limited space on the board. The gameplay emphasizes precise timing with Tetris-style block fitting on an icy grid. Players aim to achieve higher scores by avoiding stack overflow under increasing pressure.\n\nKey Features\n\n• Classic block rotation mechanics  \n• Responsive keyboard controls  \n• Increasing difficulty levels  \n• Line clearance scoring system  \n• Snow and ice visual theme"
+},
+{
+"id": "5bc8865becdd4e2bb8da88f51c3f9bca",
+"title": "Neon Tetrix",
+"iframe": "https://html5.gamedistribution.com/5bc8865becdd4e2bb8da88f51c3f9bca/",
+"creator": "JM Neto Game Dev",
+"description": "Manipulate glowing tetromino shapes with precise rotation and placement to clear lines on the neon-lit grid. This puzzle challenges players to strategically stack pieces in a classic falling blocks format while adapting to increasing speed and occasional gravity shifts. Success depends on quick decision-making and spatial planning to maximize scores and avoid gridlock.\n\nKey Features\n\n• Tetromino rotation mechanics  \n• Keyboard or touchscreen controls  \n• Progressive speed and gravity challenges  \n• Endless mode with scoring system  \n• Neon grid visual aesthetic"
+},
+{
+"id": "0bc887a6fb664c85ad86aa7e3e863ff2",
+"title": "Tetrix",
+"iframe": "https://html5.gamedistribution.com/0bc887a6fb664c85ad86aa7e3e863ff2/",
+"creator": "xGAMES",
+"description": "Stack falling blocks strategically to clear horizontal lines in this retro-style puzzle game. Players rotate and place tetromino shapes to complete rows, testing quick thinking under increasing speed. The challenge builds through progressively faster piece drops and the need for precise placement in a minimalist arcade setting.\n\nKey Features\n\n• Tetromino rotation mechanics  \n• Directional block placement controls  \n• Increasing drop speed challenge  \n• Scoring based on line clears  \n• Classic arcade visual style"
+},
+{
 "id": "bd5eaa2955434cc7b05bfcacb276f174",
 "title": "Brick Breaker",
 "iframe": "https://html5.gamedistribution.com/bd5eaa2955434cc7b05bfcacb276f174/",
