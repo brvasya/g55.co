@@ -105,6 +105,10 @@ p {
     flex-wrap: wrap;
     gap: 10px;
 }
+.series .tag {
+    padding: 10px;
+    text-align: center;
+}
 .pagination {
     padding: 25px 0 0;
 }
