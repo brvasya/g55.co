@@ -96,11 +96,14 @@ AGENT_EXCEPTIONS = {
     "cupcake": "cooking",
     "grill": "cooking",
     "kitchen": "cooking",
+    "muffin": "cooking",
     "pancake": "cooking",
     "pastry": "cooking",
     "recipe": "cooking",
     "salad": "cooking",
+    "slushy": "cooking",
     "smoothie": "cooking",
+    "toast": "cooking",
 
     #defense
     "defence": "defense",
@@ -140,6 +143,7 @@ AGENT_EXCEPTIONS = {
     "barber": "fashion",
     "braid": "fashion",
     "braided": "fashion",
+    "chic": "fashion",
     "dress": "fashion",
     "dressing": "fashion",
     "fashionista": "fashion",
@@ -196,6 +200,7 @@ AGENT_EXCEPTIONS = {
     "superhero": "hero",
 
     #horror
+    "backroom": "horror",
     "haunted": "horror",
     "scary": "horror",
     "slender": "horror",
@@ -251,11 +256,17 @@ AGENT_EXCEPTIONS = {
     "merger": "merge",
     "merging": "merge",
 
+    #minecraft
+    "minicraft": "minecraft",
+
     #offroad
     "jeep": "offroad",
 
     #parking
     "unpark": "parking",
+
+    #platform
+    "vex": "platform",
 
     #pool
     "billiard": "pool",
@@ -308,6 +319,7 @@ AGENT_EXCEPTIONS = {
     "cafe": "restaurant",
     "diner": "restaurant",
     "pizzeria": "restaurant",
+    "tavern": "restaurant",
 
     #rush
     "rushy": "rush",
@@ -316,6 +328,7 @@ AGENT_EXCEPTIONS = {
     "blaster": "shooter",
     "commando": "shooter",
     "gunslinger": "shooter",
+    "pubg": "shooter",
     "shootout": "shooter",
     "shooty": "shooter",
     "skeet": "shooter",
@@ -330,6 +343,7 @@ AGENT_EXCEPTIONS = {
 
     #soccer
     "foosball": "soccer",
+    "footy": "soccer",
     "freekick": "soccer",
     "goalkeeper": "soccer",
     "penalty": "soccer",
