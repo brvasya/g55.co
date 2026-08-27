@@ -168,6 +168,8 @@ function build_game_series_categories(array $clusters, string $categoryId): arra
         ];
     }
 
+    usort($categories, fn($a, $b) => strcasecmp($a['title'], $b['title']));
+
     return $categories;
 }
 
