@@ -23,13 +23,13 @@ AGENT_EXCEPTIONS = {
     "toddler": "casual",
 
     #ball
-    "arkanoid": "sports",
-    "ballz": "sports",
-    "breakout": "sports",
-    "marble": "sports",
-    "pinball": "sports",
-    "pong": "sports",
-    "zuma": "sports",
+    "arkanoid": "arcade",
+    "ballz": "arcade",
+    "breakout": "arcade",
+    "marble": "arcade",
+    "pinball": "arcade",
+    "pong": "arcade",
+    "zuma": "arcade",
 
     #basketball
     "dunk": "sports",
