@@ -21,7 +21,7 @@
 <?php if (!empty($seriesCategories)): ?>
 <nav class="cluster c">
 <h2>Related Category Tags</h2>
-<ul class="categories">
+<ul class="series">
 <?php foreach ($seriesCategories as $series): ?>
 <li><a class="tag" href="<?php echo h($series['url']); ?>"><?php echo h($series['title']); ?></a></li>
 <?php endforeach; ?>
