@@ -5,7 +5,6 @@ require_once 'common.php';
 $index = load_site_index();
 $site = $index['site'];
 $categories = get_categories_sorted($index);
-$grouped = get_categories_clustered($index);
 
 $catMap = [];
 foreach ($categories as $c) {
@@ -37,12 +36,15 @@ function category_pages_pagination(array $allPages, int $perPage = 64, string $p
   ];
 }
 
-function category_url(string $cid, ?int $p = null): string {
-  if ($p === null || $p <= 1) return 'https://g55.co/?c=' . rawurlencode($cid);
-  return 'https://g55.co/?c=' . rawurlencode($cid) . '&p=' . (int) $p;
+function category_url(string $cid, ?int $p = null, string $seriesKey = ''): string {
+  $url = 'https://g55.co/?c=' . rawurlencode($cid);
+  if ($seriesKey !== '') $url .= '&t=' . rawurlencode($seriesKey);
+  if ($p !== null && $p > 1) $url .= '&p=' . (int) $p;
+  return $url;
 }
 
 $hasC = isset($_GET['c']);
+$seriesCategories = [];
 
 if ($hasC) {
   $cid = clean_slug($_GET['c']);
@@ -52,15 +54,38 @@ if ($hasC) {
   }
 
   $cat = $catMap[$cid];
-  $currentCluster = find_cluster_for_category($grouped, $cid);
   list($_, $pages) = load_category_pages($cid);
 
-  $pager = category_pages_pagination($pages, 64, 'p');
+  $seriesClusters = build_game_series_clusters($pages);
+  $seriesCategories = build_game_series_categories($seriesClusters, $cid);
+  $activeSeriesKey = '';
+  $activeSeriesTitle = '';
+  $displayPages = $pages;
+
+  if (isset($_GET['t'])) {
+    if (!is_string($_GET['t'])) {
+      header('Location: /?c=' . rawurlencode($cid), true, 302);
+      exit;
+    }
+
+    $activeSeriesKey = detect_game_series_key($_GET['t']);
+    $activeSeriesCluster = find_game_cluster_for_series_key($seriesClusters, $activeSeriesKey);
+
+    if (!$activeSeriesCluster) {
+      header('Location: /?c=' . rawurlencode($cid), true, 302);
+      exit;
+    }
+
+    $activeSeriesTitle = series_cluster_title($activeSeriesCluster);
+    $displayPages = $activeSeriesCluster;
+  }
+
+  $pager = category_pages_pagination($displayPages, 64, 'p');
   $pageNum = $pager['page'];
 
-  $canonical = category_url($cid, $pageNum);
-  $prevUrl = $pager['has_prev'] ? category_url($cid, $pageNum - 1) : null;
-  $nextUrl = $pager['has_next'] ? category_url($cid, $pageNum + 1) : null;
+  $canonical = category_url($cid, $pageNum, $activeSeriesKey);
+  $prevUrl = $pager['has_prev'] ? category_url($cid, $pageNum - 1, $activeSeriesKey) : null;
+  $nextUrl = $pager['has_next'] ? category_url($cid, $pageNum + 1, $activeSeriesKey) : null;
 
   $gridItems = [];
   foreach ($pager['items'] as $p) {
@@ -72,8 +97,20 @@ if ($hasC) {
     ];
   }
 
-  $count = count($pages);
-  $h1 = ($count > 0 ? number_format($count) . ' ' : '') . $cat['name'] . ' Games';
+  $count = count($displayPages);
+  $headingName = $cat['name'];
+
+  if ($activeSeriesTitle !== '') {
+    $normalizedCategoryName = normalize_game_series_title($cat['name']);
+    $seriesAlreadyInCategoryName = $normalizedCategoryName === $activeSeriesKey
+      || strpos($normalizedCategoryName, $activeSeriesKey . ' ') === 0;
+
+    if (!$seriesAlreadyInCategoryName) {
+      $headingName = $activeSeriesTitle . ' ' . $headingName;
+    }
+  }
+
+  $h1 = ($count > 0 ? number_format($count) . ' ' : '') . $headingName . ' Games';
   if ($pageNum > 1) $h1 .= ' Page ' . $pageNum;
 
   $desc = $cat['description'];
