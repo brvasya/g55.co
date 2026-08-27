@@ -158,7 +158,7 @@ function build_game_series_categories(array $clusters, string $categoryId): arra
     foreach ($clusters as $cluster) {
         $key = series_cluster_key($cluster);
 
-        if ($key === '') {
+        if ($key === '' || count($cluster) < 4) {
             continue;
         }
 
