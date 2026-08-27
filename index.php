@@ -19,7 +19,7 @@
 <p><?php echo $desc; ?></p>
 </section>
 <?php if (!empty($seriesCategories)): ?>
-<nav class="cluster c">
+<nav class="cluster">
 <h2>Related Category Tags</h2>
 <ul class="series">
 <?php foreach ($seriesCategories as $series): ?>
