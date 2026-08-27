@@ -59,10 +59,10 @@
 <?php endif; ?>
 <?php if (!empty($currentCluster)): ?>
 <nav class="cluster">
-<h2>Related Game Categories</h2>
-<ul class="categories">
-<?php foreach ($currentCluster as $c): ?>
-<li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
+<h2>Related Game Tags</h2>
+<ul class="series">
+<?php foreach ($seriesCategories as $series): ?>
+<li><a class="tag" href="<?php echo h($series['url']); ?>"><?php echo h($series['title']); ?></a></li>
 <?php endforeach; ?>
 </ul>
 </nav>
