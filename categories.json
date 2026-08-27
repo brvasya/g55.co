@@ -20,19 +20,24 @@
 "description": "2048 games focus on merging numbers in <a href='/?c=puzzle'>puzzle games</a> where players combine tiles, manage space, and build higher values through strategic movement mechanics. These experiences emphasize number progression and logic similar to <a href='/?c=sudoku'>sudoku games</a>, combining planning with pattern awareness. Gameplay centers on tile merging, space control, and score based progression."
 },
 {
-"id": "3d",
-"name": "3D",
-"description": "3D Games focus on navigating interactive environments rendered with depth, perspective, and spatial movement. Players explore virtual spaces, control characters or vehicles, and complete objectives using camera based orientation and real time physics interactions. Gameplay often involves platforming, combat, or driving systems supported by immersive world design and dynamic viewpoint control. These experiences leverage three dimensional rendering engines to create scalable level structures and responsive gameplay loops suitable for desktop browser play."
+"id": "action",
+"name": "Action",
+"description": ""
 },
 {
 "id": "adventure",
 "name": "Adventure",
-"description": "Adventure games focus on exploring environments, completing objectives, and progressing through scenario driven challenges using interaction based gameplay mechanics. Players navigate levels, uncover paths, and solve tasks while advancing through structured journeys and evolving situations. Exploration gameplay connects to escape based challenges found in <a href='/?c=escape'>escape games</a>, where players solve puzzles and navigate confined environments, while objective driven missions appear across <a href='/?c=rescue'>rescue games</a>. These browser adventure experiences emphasize progression loops, environment interaction systems, and goal oriented gameplay pacing suited for immersive online play."
+"description": ""
 },
 {
 "id": "animal",
 "name": "Animal",
 "description": "Animal games focus on interacting with creatures, exploring nature themed environments, and completing activity driven challenges through character based gameplay mechanics. Players control animals, manage behaviors, and engage with different scenarios while progressing through structured tasks and open ended experiences. Theme based gameplay connects to focused interactions in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>, while care and simulation elements appear across <a href='/?c=pet'>pet games</a>. These browser animal experiences emphasize character interaction loops, environment exploration systems, and activity driven progression suited for engaging online play."
+},
+{
+"id": "arcade",
+"name": "Arcade",
+"description": ""
 },
 {
 "id": "archery",
@@ -70,6 +75,11 @@
 "description": "Block Games focus on arranging, stacking, and clearing shapes through spatial challenges that reward planning and efficient moves. Players place blocks on grids, complete patterns, manage limited space, and solve increasingly complex layouts using logic driven mechanics. Many games feature row clearing systems, shape fitting objectives, and long tail gameplay styles such as block blast puzzles, block stacking challenges, and block placement strategy gameplay. This category connects naturally to broader <a href='/?c=puzzle'>puzzle games</a> while emphasizing pattern recognition, board management, and progression through structured puzzle levels."
 },
 {
+"id": "board",
+"name": "Board",
+"description": ""
+},
+{
 "id": "brain",
 "name": "Brain",
 "description": "Brain Games focus on solving logic challenges, training memory, and completing problem solving tasks through skill based thinking mechanics. Players analyze patterns, recognize sequences, calculate solutions, and make strategic decisions across increasingly complex levels. Many games feature number puzzles, memory challenges, word exercises, and long tail gameplay styles such as brain training activities and logic based puzzle solving. Players who enjoy these cognitive challenges can also explore <a href='/?c=puzzle'>puzzle games</a>, where reasoning, planning, and problem solving remain central to progression."
@@ -90,6 +100,11 @@
 "description": "Car games focus on driving vehicles in <a href='/?c=racing'>racing games</a> where players navigate tracks, manage speed, and compete through structured driving mechanics. These experiences emphasize vehicle handling and movement similar to <a href='/?c=driving'>driving games</a>, combining control with speed. Gameplay centers on track navigation, vehicle performance, and progression through racing challenges."
 },
 {
+"id": "card",
+"name": "Card",
+"description": ""
+},
+{
 "id": "casual",
 "name": "Casual",
 "description": "Casual Games focus on tapping, matching, sorting, stacking, and completing simple objectives through easy to learn gameplay systems. This category includes a wide variety of quick play experiences built around accessible controls, short sessions, and straightforward progression. Players can solve light puzzles, organize objects, manage simple tasks, and enjoy relaxing challenges without complex rules. Popular subcategories include <a href='/?c=sorting'>sorting games</a> and <a href='/?c=stack'>stack games</a>, alongside match based challenges and idle gameplay systems that offer a broad range of approachable gaming experiences."
@@ -98,11 +113,6 @@
 "id": "cat",
 "name": "Cat",
 "description": "Cat games focus on controlling feline characters in <a href='/?c=animal'>animal games</a> where players explore environments, complete playful tasks, and interact with objects through movement and behavior based mechanics. These experiences emphasize agility and curiosity driven gameplay similar to <a href='/?c=dog'>dog games</a>, while also connecting to care and interaction systems found in <a href='/?c=pet'>pet games</a>. Gameplay centers on responsive actions, light challenges, and character focused exploration."
-},
-{
-"id": "chess",
-"name": "Chess",
-"description": "Chess games focus on strategic board challenges in <a href='/?c=puzzle'>puzzle games</a> where players plan moves, control pieces, and outmaneuver opponents through rule based mechanics. These experiences emphasize strategy and foresight without relying on pattern matching or number systems. Gameplay centers on decision making, positioning, and progression through tactical encounters."
 },
 {
 "id": "christmas",
@@ -390,11 +400,6 @@
 "description": "Pet games focus on caring for and managing animals in <a href='/?c=animal'>animal games</a> where players feed, customize, and interact with characters through routine based gameplay systems. These experiences emphasize care and simulation mechanics while connecting to character driven interactions found in <a href='/?c=cat'>cat games</a> and <a href='/?c=dog'>dog games</a>. Gameplay centers on maintaining needs, building routines, and progressing through activity based systems."
 },
 {
-"id": "pixel",
-"name": "Pixel",
-"description": "Pixel games focus on visual style experiences in <a href='/?c=minecraft'>minecraft games</a> where players explore blocky environments, interact with simple graphics, and progress through gameplay driven by retro inspired design. These experiences emphasize creative visuals and building elements similar to <a href='/?c=craft'>craft games</a>, combining aesthetics with interaction. Gameplay centers on exploration, visual clarity, and structured progression."
-},
-{
 "id": "platform",
 "name": "Platform",
 "description": "Platform games focus on navigating environments, overcoming obstacles, and progressing through levels using movement based gameplay mechanics. Players run, jump, and react to hazards while advancing through structured stages that require timing and coordination. Movement driven gameplay connects to speed based challenges in <a href='/?c=runner'>runner games</a>, precision traversal across <a href='/?c=parkour'>parkour games</a>, and timing focused challenges in <a href='/?c=jumping'>jumping games</a>. Continuous motion appears in <a href='/?c=rush'>rush games</a> and quick reaction sequences in <a href='/?c=dash'>dash games</a>. These browser platform experiences emphasize control precision loops, obstacle avoidance systems, and progression based gameplay suited for engaging online play."
@@ -470,11 +475,6 @@
 "description": "Soccer games focus on team based matches in <a href='/?c=sports'>sports games</a> where players pass, shoot, and coordinate movement to score goals through structured gameplay systems. These experiences emphasize positioning and team strategy similar to <a href='/?c=football'>football games</a>, requiring timing, control, and tactical decision making. Gameplay centers on match flow, ball control, and competitive scoring mechanics."
 },
 {
-"id": "solitaire",
-"name": "Solitaire",
-"description": "Solitaire games focus on card based logic in <a href='/?c=puzzle'>puzzle games</a> where players organize sequences, follow rules, and complete structured layouts through strategic movement mechanics. These experiences emphasize planning and sequencing similar to <a href='/?c=mahjong'>mahjong games</a>, combining logic with step by step decisions. Gameplay centers on arranging cards, completing sets, and progressing through structured challenges."
-},
-{
 "id": "sorting",
 "name": "Sorting",
 "description": "Sorting games focus on arranging elements where players organize objects, reorder sequences, and group items through logic driven interaction mechanics. These experiences emphasize structure and placement similar to <a href='/?c=stack'>stack games</a>, requiring attention to order and visual alignment. Gameplay centers on organizing elements correctly and progressing through increasingly complex arrangements."
@@ -505,6 +505,11 @@
 "description": "Stickman games focus on stylized combat encounters in <a href='/?c=fighting'>fighting games</a> where players control simplified characters, execute attacks, and react to opponents through fast paced action mechanics. These experiences emphasize agility and timing similar to <a href='/?c=ninja'>ninja games</a>, combining fluid movement with combat interactions. Gameplay centers on quick reactions, attack sequences, and competitive duel scenarios."
 },
 {
+"id": "strategy",
+"name": "Strategy",
+"description": ""
+},
+{
 "id": "stunt",
 "name": "Stunt",
 "description": "Stunt games focus on performing tricks in <a href='/?c=racing'>racing games</a> where players launch vehicles, execute jumps, and complete aerial maneuvers through physics driven mechanics. These experiences emphasize control and execution similar to <a href='/?c=drift'>drift games</a>, combining movement with timing. Gameplay centers on completing tricks, landing successfully, and progressing through challenge based scenarios."
@@ -515,11 +520,6 @@
 "description": "Sudoku games focus on number based logic challenges in <a href='/?c=puzzle'>puzzle games</a> where players fill grids, follow rules, and complete structured layouts through reasoning driven mechanics. These experiences emphasize numerical logic and pattern consistency similar to <a href='/?c=2048'>2048 games</a>, requiring focus and accuracy. Gameplay centers on completing grids, maintaining constraints, and progressing through increasing difficulty."
 },
 {
-"id": "survival",
-"name": "Survival",
-"description": "Survival games focus on staying alive under pressure in <a href='/?c=horror'>horror games</a> where players manage threats, conserve resources, and eliminate enemies through sustained combat mechanics. These experiences emphasize endurance and adaptation similar to <a href='/?c=zombie'>zombie games</a>, requiring awareness and continuous response. Gameplay centers on lasting through encounters, managing danger, and progressing through escalating challenges."
-},
-{
 "id": "tank",
 "name": "Tank",
 "description": "Tank games focus on armored vehicle combat in <a href='/?c=war'>war games</a> where players control heavy units, aim precisely, and engage enemies through tactical movement and firing mechanics. These experiences emphasize battlefield combat similar to <a href='/?c=battle'>battle games</a>, combining positioning with attack timing. Gameplay centers on targeting accuracy, movement control, and mission based encounters."
@@ -528,11 +528,6 @@
 "id": "tennis",
 "name": "Tennis",
 "description": "Tennis games focus on timing based rallies in <a href='/?c=sports'>sports games</a> where players return shots, position strategically, and outplay opponents through responsive mechanics. These experiences emphasize timing and precision similar to <a href='/?c=golf'>golf games</a>, combining quick reactions with controlled input. Gameplay centers on rally exchanges, positioning, and match based progression."
-},
-{
-"id": "tower-defense",
-"name": "Tower Defense",
-"description": "Tower defense games focus on structured defensive planning in <a href='/?c=war'>war games</a> where players place units, control paths, and stop enemy waves through tactical setup mechanics. These experiences emphasize strategic positioning and upgrade systems similar to <a href='/?c=defense'>defense games</a>, combining planning with progression. Gameplay centers on optimizing layouts, upgrading units, and managing increasing difficulty."
 },
 {
 "id": "train",
