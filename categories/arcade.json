@@ -1,6 +1,48 @@
 {
 "pages": [
 {
+"id": "2b3a83ea427f41acba506c5a7f6b718a",
+"title": "Space Tanks: Arcade",
+"iframe": "https://html5.gamedistribution.com/2b3a83ea427f41acba506c5a7f6b718a/",
+"creator": "ales",
+"description": "Control agile tanks in fast-paced arcade combat focused on precise aiming and timed shooting. Navigate battle arenas that test your reflexes while managing energy-based weapon systems to destroy enemy units. The game challenges players to adapt shooting strategies and movement patterns through multiple escalating waves in a sci-fi setting.\n\nKey Features\n\n• Energy weapon cooldown mechanics  \n• Responsive twin-stick tank controls  \n• Progressive enemy wave difficulty  \n• Score attack arcade mode  \n• Futuristic space battlefield design"
+},
+{
+"id": "2d6f05873fbd419ab28141de3cd229d5",
+"title": "Noob Nightmare Arcade",
+"iframe": "https://html5.gamedistribution.com/2d6f05873fbd419ab28141de3cd229d5/",
+"creator": "Stickman vs Monster School Team",
+"description": "Navigate neon-lit pixel corridors avoiding traps and enemies in this arcade challenge where reflexes and timing shape survival. Each level tests movement precision within shifting patterns, demanding quick decisions to advance. Collect points and unlock shortcuts while mastering unique enemy behaviors to reach new high scores and keep the chaos under control.\n\nKey Features\n\n• Precision movement timing  \n• Reactive enemy pattern challenges  \n• Point collection and scoring system  \n• Unlockable level shortcuts  \n• Neon pixel art environment"
+},
+{
+"id": "fb4545278ad34b88b1943a16002c1629",
+"title": "Jump Ball Arcade",
+"iframe": "https://html5.gamedistribution.com/fb4545278ad34b88b1943a16002c1629/",
+"creator": "T",
+"description": "Bounce a ball through dynamic arcade levels by timing jumps precisely to navigate obstacles and platforms. Players must master a unique jump-and-bounce mechanic that combines momentum control with rapidly changing stage layouts. Each level introduces new patterns and increased speed, challenging reflexes and coordination while engaging casual gamers seeking a rhythmic challenge.\n\nKey Features\n\n• Precision bounce timing mechanics  \n• Responsive touch and keyboard controls  \n• Increasing difficulty with level progression  \n• Time attack and endless arcade modes  \n• Vibrant color-themed stage designs"
+},
+{
+"id": "2fd6018dd6464545a2dfeb883e85ae40",
+"title": "Builder Idle Arcade",
+"iframe": "https://html5.gamedistribution.com/2fd6018dd6464545a2dfeb883e85ae40/",
+"creator": "Lipsar Studio LLC",
+"description": "Build structures by managing resources and worker efficiency in this idle arcade game where thoughtful upgrade paths drive your progress. Balance construction speed and material flow to expand your site and unlock new building types. The challenge lies in optimizing task delegation while watching your settlement grow through incremental automation and upgrades.\n\nKey Features\n\n• Resource gathering management  \n• Worker task assignment controls  \n• Construction speed upgrades  \n• Incremental idle progression system  \n• Urban building environment elements"
+},
+{
+"id": "43e7fa2111674df2ac0d149ced9e8e9b",
+"title": "Arcade Golf",
+"iframe": "https://html5.gamedistribution.com/43e7fa2111674df2ac0d149ced9e8e9b/",
+"creator": "Code This Lab srl",
+"description": "Line up precise shots across varied golf courses aiming for the lowest score by mastering ball trajectory and power control. Players navigate through different hole layouts encouraging strategic shot placement and timing. The game challenges players to adjust swings to changing wind conditions and terrain, aiming for a perfect round in arcade-style golfing. \n\nKey Features\n\n• Precision swing mechanic  \n• Shot power and angle control  \n• Progressive course difficulty  \n• Wind effect simulation  \n• Casual golf-themed stages"
+},
+{
+"id": "d99ae6e8df8e419fba8dc1217e60ff0e",
+"title": "Arcade Car Drift",
+"iframe": "https://html5.gamedistribution.com/d99ae6e8df8e419fba8dc1217e60ff0e/",
+"creator": "JulGames",
+"description": "Slide the car through tight curves using precise drift controls in this browser racing game. Players master momentum and angle adjustments to chain together stylish drifts, competing on urban tracks where timing and skill define the best score. The core mechanic revolves around balancing speed with controlled slides to maximize points and avoid crashes.\n\nKey Features\n\n• Momentum-based drift control  \n• Angle adjustment mechanics  \n• Score combo chaining system  \n• Time trial leaderboard mode  \n• Urban street racing environment"
+},
+{
 "id": "6ee39997bda445d9937302cf3fecb377",
 "title": "Arcade Basketball",
 "iframe": "https://html5.gamedistribution.com/6ee39997bda445d9937302cf3fecb377/",

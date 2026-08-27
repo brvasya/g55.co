@@ -1,6 +1,160 @@
 {
 "pages": [
 {
+"id": "a0de198084f84ff8a657d46706d35bf7",
+"title": "Zombie Typing",
+"iframe": "https://html5.gamedistribution.com/a0de198084f84ff8a657d46706d35bf7/",
+"creator": "Cat Summer",
+"description": "Type targeted words rapidly to fend off waves of approaching zombies, using a dynamic keyboard input system that tests both speed and accuracy. Each level increases difficulty by introducing new zombie types and faster threats, requiring players to adapt quickly. The core challenge lies in mastering fast typing to survive increasingly intense attacks in this undead setting.\n\nKey Features\n\n• Keyboard typing combat mechanic  \n• Real-time word recognition controls  \n• Progressive zombie wave difficulty  \n• Score tracking with typing accuracy  \n• Horror-themed undead enemies"
+},
+{
+"id": "5b09e4ee63774113ad08820311835ad1",
+"title": "Zombie Typer",
+"iframe": "https://html5.gamedistribution.com/5b09e4ee63774113ad08820311835ad1/",
+"creator": "Arcade Lemon",
+"description": "Type rapid sequences of words to fend off waves of approaching zombies in this fast-paced typing challenge. Players improve their typing speed and accuracy while unlocking new levels that increase difficulty and introduce unique enemy types. The core mechanic blends keyboard fluency with survival strategy, set in a dark apocalyptic environment where quick reflexes determine progress.\n\nKey Features\n\n• progressive typing speed tests  \n• keyboard input accuracy focus  \n• escalating enemy wave challenges  \n• level unlock and ranking system  \n• post-apocalyptic zombie theme"
+},
+{
+"id": "4aa0b78887e64e1ab69ff666c0e9889c",
+"title": "Type Run",
+"iframe": "https://html5.gamedistribution.com/4aa0b78887e64e1ab69ff666c0e9889c/",
+"creator": "bestgames.com",
+"description": "Control a nimble runner navigating dynamic obstacle courses to reach checkpoints and survive timed challenges. The game blends smooth horizontal movement with precise jumping mechanics across varied levels. Players must adapt to shifting platforms and unpredictable traps while aiming for high scores in progressively complex stages.\n\nKey Features\n\n• Responsive side-scrolling controls  \n• Timed obstacle navigation  \n• Multi-level progression system  \n• Reactive platform hazards  \n• Casual arcade running style"
+},
+{
+"id": "80bc181a96fd4404b52ea97e1679700c",
+"title": "Ninja Crossword Challenge",
+"iframe": "https://html5.gamedistribution.com/80bc181a96fd4404b52ea97e1679700c/",
+"creator": "PuzzleGame.Com",
+"description": "Solve challenging word puzzles by placing ninja-themed clues into a crossword grid, testing pattern recognition and vocabulary skills under time pressure. Players advance through increasingly complex levels that mix traditional crossword mechanics with stealth-inspired hint systems. The objective is to complete all puzzles without errors while uncovering hidden ninja references.\n\nKey Features\n\n• Crossword grid puzzle solving  \n• Timed clue placement controls  \n• Increasing difficulty progression  \n• Stealth hint reveal mechanics  \n• Ninja-themed vocabulary sets"
+},
+{
+"id": "d414118fead340708438d18b13fe0543",
+"title": "Letters Memory Challenge",
+"iframe": "https://html5.gamedistribution.com/d414118fead340708438d18b13fe0543/",
+"creator": "Vi Games",
+"description": "Memorize sequences of letters and recall them in order using a pattern recognition mechanic to test and improve your memory skills. Players encounter progressively longer sequences that increase difficulty through spatial and timing elements across multiple rounds. The challenge lies in accurately matching each letter to maintain streaks and reach higher levels. This casual game is designed for focused mental training and gradual mastery.\n\nKey Features\n\n• Sequence recall gameplay  \n• Timed letter matching controls  \n• Increasing difficulty rounds  \n• Streak-based score system  \n• Cognitive skill enhancement"
+},
+{
+"id": "04cd9fc1063d43bcb10b7854423d9f68",
+"title": "Math Word Search",
+"iframe": "https://html5.gamedistribution.com/04cd9fc1063d43bcb10b7854423d9f68/",
+"creator": "Fun Best Games",
+"description": "Search for hidden number sequences within a grid by locating math-related words in this puzzle game. Players trace words based on arithmetic concepts to clear each level, improving pattern recognition and numeric vocabulary. Early stages introduce simple operations while later puzzles challenge with mixed math terms, blending word search mechanics with educational content.\n\nKey Features\n\n• Word tracing core mechanic  \n• Arithmetic-themed word puzzles  \n• Gradual difficulty progression  \n• Time-based scoring system  \n• Educational number recognition"
+},
+{
+"id": "e0592e6ecdf54ec7b3d67355b0e5a8d2",
+"title": "Mind Games: Math Crosswords",
+"iframe": "https://html5.gamedistribution.com/e0592e6ecdf54ec7b3d67355b0e5a8d2/",
+"creator": "GamePush",
+"description": "Solve number-based crossword puzzles by combining mental arithmetic with word logic in a grid layout. Players fill in intersecting math problems using addition and subtraction clues, aiming to complete each puzzle without mistakes. The game offers a steady increase in complexity as grid sizes and equation difficulty grow to challenge casual gamers and young minds.\n\nKey Features\n\n• Arithmetic crossword puzzle mechanics  \n• Interactive number input controls  \n• Progressive difficulty scaling levels  \n• Time-limited challenge mode  \n• Educational math puzzle theme"
+},
+{
+"id": "01dbf43f1d884408a99f2322198ce07b",
+"title": "Mathematical crossword",
+"iframe": "https://html5.gamedistribution.com/01dbf43f1d884408a99f2322198ce07b/",
+"creator": "GamePush",
+"description": "Fill in numeric answers on the crossword grid by solving arithmetic clues that intersect horizontally and vertically. This game challenges players to combine basic math skills with word puzzle logic, navigating through numeric hints balanced with grid placement constraints for progressive difficulty. Each level demands careful calculation and number fitting to complete the puzzle.\n\nKey Features\n\n• Numeric crossword puzzle integration  \n• Digit input and clue solving  \n• Increasing difficulty levels  \n• Time tracking mode option  \n• Educational math puzzle focus"
+},
+{
+"id": "7021a67f2ddc481dbe60520d7b767941",
+"title": "Letters Match",
+"iframe": "https://html5.gamedistribution.com/7021a67f2ddc481dbe60520d7b767941/",
+"creator": "GamePush",
+"description": "Match letter tiles quickly to clear the board and achieve high scores in this puzzle challenge. The game requires combining adjacent letters to form words, testing players’ vocabulary and strategic tile selection. Levels increase in difficulty by adding time limits and complex board layouts, pushing casual gamers to think fast and plan moves carefully.\n\nKey Features\n\n• Letter tile combination mechanic  \n• Timed word formation rounds  \n• Increasing board complexity  \n• Score multiplier progression system  \n• Casual vocab-based puzzle setting"
+},
+{
+"id": "abd7b621b0984808a7e181306d0d063c",
+"title": "Mahjong Word",
+"iframe": "https://html5.gamedistribution.com/abd7b621b0984808a7e181306d0d063c/",
+"creator": "Webgameapp",
+"description": "Match matching tiles in a timed puzzle setting to clear the board using a classic mahjong tile-pairing system. Players strategically select identical tiles from layered stacks, revealing hidden tiles beneath as they progress through increasingly complex layouts. The challenge comes from planning moves carefully to avoid blocking key pieces and finishing before time runs out.\n\nKey Features\n\n• Tile-pair matching mechanic  \n• Mouse-based tile selection  \n• Increasingly complex tile layouts  \n• Time-limited puzzle rounds  \n• Traditional mahjong tile art"
+},
+{
+"id": "3c7adf6eecfa448db0f45834bb4ee91f",
+"title": "EG Crossword Kids",
+"iframe": "https://html5.gamedistribution.com/3c7adf6eecfa448db0f45834bb4ee91f/",
+"creator": "EcapsGames.com",
+"description": "Solve simple crossword puzzles by placing words on grids designed for young learners, practicing vocabulary and spelling with interactive letter selections. Progress through levels that gradually increase puzzle complexity, encouraging problem-solving and reading skills development suited for casual gamers and children.\n\nKey Features\n\n• Letter placement crossword puzzles  \n• Interactive drag-and-drop controls  \n• Gradual difficulty progression  \n• Time-limited challenge mode  \n• Child-friendly vocabulary themes"
+},
+{
+"id": "bd1b4331b82b40a8bef59a9e18804574",
+"title": "Easy Kids Coloring Letters",
+"iframe": "https://html5.gamedistribution.com/bd1b4331b82b40a8bef59a9e18804574/",
+"creator": "Vi Games",
+"description": "Color letters on a digital canvas using simple touch controls to fill shapes and complete alphabet-themed illustrations. Players interact with bright, clean outlines that encourage matching colors and shapes while progressing through increasing difficulty levels designed for casual and young gamers. The game emphasizes color recognition and fine motor skills in a kid-friendly environment.\n\nKey Features\n\n• Interactive color filling mechanic  \n• Touch-based painting controls  \n• Graduated shape complexity  \n• Progressive alphabet challenges  \n• Child-friendly visual design"
+},
+{
+"id": "0f2709631ff94c82bf20dd08bcb4b825",
+"title": "Kids Hangman",
+"iframe": "https://html5.gamedistribution.com/0f2709631ff94c82bf20dd08bcb4b825/",
+"creator": "Fun Best Games",
+"description": "Solve word puzzles by guessing letters within limited attempts in this classic hangman experience designed for younger players. The game’s core mechanic combines letter selection with visual hints that gradually reveal a hidden word. Players aim to complete each word before running out of guesses, gradually increasing difficulty with each successful round.\n\nKey Features\n\n• Letter guessing puzzle mechanic  \n• Click-based letter selection control  \n• Progressive word difficulty levels  \n• Visual hangman drawing feedback  \n• Child-friendly word categories"
+},
+{
+"id": "6870af61b70b42f3a0f5226d81668bb7",
+"title": "Halloween Hangman",
+"iframe": "https://html5.gamedistribution.com/6870af61b70b42f3a0f5226d81668bb7/",
+"creator": "Fun Best Games",
+"description": "Solve spooky word puzzles by guessing letters one at a time before a ghostly figure completes its hangman frame. This Halloween themed word guessing challenge tests your vocabulary and deduction skills while racing against limited wrong attempts. Progress through increasingly tricky puzzles as you uncover hidden seasonal words with each successful round.\n\nKey Features\n\n• letter guessing core mechanic  \n• keyboard input controls  \n• limited incorrect guess challenge  \n• progressive word difficulty levels  \n• Halloween visual theme"
+},
+{
+"id": "edd1e75a4a6c44d984a60d9f147e52ea",
+"title": "Halloween Word Search",
+"iframe": "https://html5.gamedistribution.com/edd1e75a4a6c44d984a60d9f147e52ea/",
+"creator": "Fun Best Games",
+"description": "Find themed words hidden in a grid of letters by scanning horizontally, vertically, and diagonally to complete spooky puzzles. Players uncover Halloween-related terms through a classic word search mechanic that challenges observation and pattern recognition. The game features increasing difficulty levels that add timed rounds and a growing word list to conquer.  \n\nKey Features\n\n• Classic letter grid scanning  \n• Time-limited puzzle rounds  \n• Progressive word list expansion  \n• Hint and reveal options  \n• Seasonal Halloween vocabulary"
+},
+{
+"id": "17f59b95bf924d32b3f519bf06563666",
+"title": "Halloween Words Search",
+"iframe": "https://html5.gamedistribution.com/17f59b95bf924d32b3f519bf06563666/",
+"creator": "Lof Games",
+"description": "Search for hidden words by scanning a spooky grid filled with themed letter clusters. Players highlight word patterns using mouse drag controls, aiming to clear puzzles before time runs out in a progressively challenging word hunt. A Halloween atmosphere adds a seasonal twist to the classic hidden word mechanic, encouraging quick pattern recognition across varied puzzle layouts.\n\nKey Features\n\n• grid-based word search mechanic  \n• mouse drag selection controls  \n• timed puzzle progression system  \n• increasing difficulty levels  \n• Halloween-themed word sets"
+},
+{
+"id": "4f309619abce470290f976d7385a7080",
+"title": "Farm of Words",
+"iframe": "https://html5.gamedistribution.com/4f309619abce470290f976d7385a7080/",
+"creator": "Fun Best Games",
+"description": "Arrange letter tiles to form words and cultivate a growing farm by planting word crops. Using a grid-based word-building mechanic, players progress by expanding vocabulary fields while managing limited space and time. The challenge lies in strategic placement of word tiles to harvest bonuses and unlock new crops, blending language skill with farm-building elements.\n\nKey Features\n\n• Grid-based word tile placement  \n• Vocabulary expansion progression  \n• Time and space management challenges  \n• Crop unlocking system  \n• Casual farm-themed puzzle gameplay"
+},
+{
+"id": "f2d83984c38b41bcb95fe6ba478d7419",
+"title": "Escape Room Mystery Word",
+"iframe": "https://html5.gamedistribution.com/f2d83984c38b41bcb95fe6ba478d7419/",
+"creator": "GameZing",
+"description": "Navigate puzzling clues using word association to unlock hidden escape routes. This game challenges players to connect letters and discover secret phrases in confined spaces. Players advance by solving increasingly complex word puzzles under time constraints in mysterious room settings. The focus on vocabulary and pattern recognition drives the main challenge.\n\nKey Features\n\n• Word connection puzzle mechanic  \n• Letter selection control scheme  \n• Progressive difficulty levels  \n• Timed escape challenges  \n• Enigmatic room environments"
+},
+{
+"id": "c1c06a567d3348129ee4be8bb4cf4beb",
+"title": "Cross Connect Word",
+"iframe": "https://html5.gamedistribution.com/c1c06a567d3348129ee4be8bb4cf4beb/",
+"creator": "Viroh Games",
+"description": "Connect letter tiles to form words, arranging them across intersecting paths in an evolving puzzle grid. Players strategically build links between words, testing vocabulary and spatial reasoning under limited move constraints. The game challenges pattern recognition with overlapping letter connections, encouraging progression through increasingly complex board layouts.\n\nKey Features\n\n• Letter tile linking mechanic  \n• Strategic word placement controls  \n• Move-limited puzzle progression  \n• Dynamic intersecting grid system  \n• Casual vocabulary challenge"
+},
+{
+"id": "4857071352d449b383886bcf8627a231",
+"title": "Association - Connect Word",
+"iframe": "https://html5.gamedistribution.com/4857071352d449b383886bcf8627a231/",
+"creator": "GamePush",
+"description": "Identify word associations quickly to clear the board of linked terms. This word-connection puzzle challenges players to find logical links between words in timed rounds, improving vocabulary and pattern recognition. Progression increases with faster rounds that test quick thinking and association skills.\n\nKey Features\n\n• Word-link matching mechanic  \n• Quick selection controls  \n• Timed round progression  \n• Increasing difficulty tiers  \n• Vocabulary pattern recognition"
+},
+{
+"id": "f9fa626b2cf54efeb39b476bd6abc07a",
+"title": "Word Art – Color Book Puzzle",
+"iframe": "https://html5.gamedistribution.com/f9fa626b2cf54efeb39b476bd6abc07a/",
+"creator": "Gameyogi",
+"description": "Arrange color-coded letters into vibrant word patterns by solving intricate puzzles that require matching and logical placement. Players manipulate tiles on a grid to reveal hidden words, advancing through increasingly complex levels filled with colorful designs. The challenge lies in using spatial reasoning to clear all blocks while enjoying a creative, artistic atmosphere.\n\nKey Features\n\n• Tile matching word puzzles  \n• Grid-based spatial manipulation  \n• Progressive difficulty stages  \n• Color blending visual effects  \n• Casual artistic puzzle theme"
+},
+{
+"id": "248fce4f20ae4d7a925af5e458b959b2",
+"title": "Christmas Capital Letters",
+"iframe": "https://html5.gamedistribution.com/248fce4f20ae4d7a925af5e458b959b2/",
+"creator": "newgamess",
+"description": "Arrange letters under timed challenges to complete Christmas-themed words. The game tests quick letter recognition and placement, requiring precise keyboard input to finish each festive puzzle before time runs out. Players advance through increasing difficulty levels featuring holiday vocabulary, blending fast-paced typing and word building with a seasonal twist.\n\nKey Features\n\n• Timed letter selection mechanic  \n• Keyboard input accuracy required  \n• Increasing difficulty word puzzles  \n• Level progression with scoring system  \n• Christmas holiday vocabulary theme"
+},
+{
 "id": "16fcfe1e70e248efbd43c1dca4ab5337",
 "title": "Baby Animal Cross Word",
 "iframe": "https://html5.gamedistribution.com/16fcfe1e70e248efbd43c1dca4ab5337/",
