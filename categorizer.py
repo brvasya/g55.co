@@ -614,7 +614,19 @@ def maybe_normalize_tokens(
         if plural_enabled:
             t = singularize_token(t)
         if agent_exceptions_enabled:
-            t = apply_agent_exception_token(t)
+            mapped = apply_agent_exception_token(t)
+            if mapped != t:
+                t = mapped
+                if plural_enabled:
+                    t = singularize_token(t)
+                if gerund_enabled:
+                    t = gerund_to_base_token(t)
+                if agent_enabled:
+                    t = agent_noun_to_base_token(t)
+                if plural_enabled:
+                    t = singularize_token(t)
+            else:
+                t = mapped
         out.append(t)
     return out
 
