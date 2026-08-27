@@ -52,7 +52,19 @@ if ($page === null) {
 $seriesClusters = build_game_series_clusters($pages);
 $seriesCategories = build_game_series_categories($seriesClusters, $cid);
 $currentSeriesCluster = find_game_cluster_for_page($seriesClusters, $page['id']);
-$currentSeriesTitle = $currentSeriesCluster ? series_cluster_title($currentSeriesCluster) : '';
+$currentSeriesTitle = '';
+
+if ($currentSeriesCluster) {
+  $currentSeriesKey = series_cluster_key($currentSeriesCluster);
+  $normalizedCategoryName = normalize_game_series_title($cat['name']);
+  $seriesAlreadyInCategoryName = $normalizedCategoryName === $currentSeriesKey
+    || strpos($normalizedCategoryName, $currentSeriesKey . ' ') === 0;
+
+  $currentSeriesTitle = $seriesAlreadyInCategoryName
+    ? $cat['name']
+    : series_cluster_title($currentSeriesCluster) . ' ' . $cat['name'];
+}
+
 $seriesLinks = cluster_links_except_current($currentSeriesCluster, $page['id']);
 
 $creatorClusters = build_creator_clusters($pages);
