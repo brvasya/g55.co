@@ -50,6 +50,7 @@ if ($page === null) {
 }
 
 $seriesClusters = build_game_series_clusters($pages);
+$seriesCategories = build_game_series_categories($seriesClusters, $cid);
 $currentSeriesCluster = find_game_cluster_for_page($seriesClusters, $page['id']);
 $currentSeriesTitle = $currentSeriesCluster ? series_cluster_title($currentSeriesCluster) : '';
 $seriesLinks = cluster_links_except_current($currentSeriesCluster, $page['id']);
