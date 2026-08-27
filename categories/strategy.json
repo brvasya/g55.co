@@ -1,0 +1,11 @@
+{
+"pages": [
+{
+"id": "a8f15bb166b943f39cce60e2d5b5fb26",
+"title": "2048 Automatic Strategy",
+"iframe": "https://html5.gamedistribution.com/a8f15bb166b943f39cce60e2d5b5fb26/",
+"creator": "PixelMaskGames",
+"description": "Slide numbered tiles to merge matching values and trigger automatic moves in a timed grid puzzle. The game relies on chain merging mechanics where strategic tile placement initiates cascaded combinations that amplify scores. Players aim to optimize merging sequences against increasing grid saturation. An automatic move strategy helps balance risk and reward under pressure.\n\nKey Features\n\n• Chain merging tile mechanic  \n• Swipe-based tile repositioning  \n• Grid congestion challenge scaling  \n• Automatic move prediction system  \n• Numeric tile fusion gameplay"
+}
+]
+}
