@@ -1,6 +1,349 @@
 {
 "pages": [
 {
+"id": "697e0dace82447cd8341b06290ebb6b4",
+"title": "Red Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/697e0dace82447cd8341b06290ebb6b4/",
+"creator": "DAB3Games",
+"description": "Navigate geometric puzzles by rolling a red ball through maze-like platforms using precise physics controls. The player manipulates momentum and angles to solve spatial challenges, with each level introducing new block interactions and increasing complexity. Progression comes through mastering timing and careful maneuvering to reach the goal point without falling.\n\nKey Features\n\n• Momentum-based ball rolling\n• Tilt and roll physics control\n• Increasing block puzzle complexity\n• Time trial challenge mode\n• Abstract geometric platform setting"
+},
+{
+"id": "118bf483734549089d059105cf2600a1",
+"title": "Unroll Ball",
+"iframe": "https://html5.gamedistribution.com/118bf483734549089d059105cf2600a1/",
+"creator": "Parrot Games",
+"description": "Unroll tangled balls by guiding them along twisting paths to connect matching colors in a rolling puzzle challenge. Players manipulate the movement of multiple spheres that follow a winding track, requiring precise timing and planning to avoid collisions and clear levels. Progressively complex loops and color matching mechanics shape the core gameplay experience.\n\nKey Features\n\n• Rolling ball path navigation  \n• Multi-sphere movement control  \n• Increasingly complex level loops  \n• Color matching puzzle system  \n• Casual puzzle progression"
+},
+{
+"id": "9988eaeffe054ff2bf6dae16420b5a75",
+"title": "Red Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/9988eaeffe054ff2bf6dae16420b5a75/",
+"creator": "YAKPI",
+"description": "Solve intricate ball placement challenges by navigating a single red ball through physics-based puzzles. Players manipulate the ball's movement across static and moving platforms to reach the exit in each level. The game’s core involves precise timing and spatial reasoning, offering gradual difficulty increases and diverse obstacle interactions aimed at casual gamers and younger players.\n\nKey Features\n\n• Physics based ball control  \n• Platform navigation challenges  \n• Increasing difficulty levels  \n• Timed puzzle stages  \n• Minimalistic colorful design"
+},
+{
+"id": "628c3f2c9df848ad83ede330ef168eab",
+"title": "Ball Toss Puzzle",
+"iframe": "https://html5.gamedistribution.com/628c3f2c9df848ad83ede330ef168eab/",
+"creator": "Isaske Games",
+"description": "Launch colored balls into matching targets using precise aim and timing in this puzzle challenge. Players engage with a projectile trajectory mechanic to clear levels by hitting clusters of balls, advancing through increasingly complex board arrangements. The game tests accuracy and planning, offering casual players of all ages a satisfying spatial reasoning task.\n\nKey Features\n\n• Projectile trajectory aiming system  \n• Tap-based launch controls  \n• Progressive level difficulty scaling  \n• Cluster matching clearance mechanic  \n• Color-coded ball grouping challenge"
+},
+{
+"id": "cb5d09a2af5f49d6aff0218ab7d1b7fb",
+"title": "Orange Ball: BasketGo Puzzle",
+"iframe": "https://html5.gamedistribution.com/cb5d09a2af5f49d6aff0218ab7d1b7fb/",
+"creator": "MURAT KYABISHEV",
+"description": "Complete physics-based ball bouncing to navigate puzzle platforms challenges precision and timing in this vibrant orange sphere puzzle. Players manipulate ricocheting trajectories to avoid hazards while unlocking increasingly complex puzzles. Each level tests accuracy by requiring intricate bank shots and rebound calculations to progress through abstract environments.\n\nKey Features\n\n• Ball trajectory physics control  \n• Timing-based puzzle navigation  \n• Increasing puzzle complexity levels  \n• Rebound angle manipulation system  \n• Minimalist abstract puzzle settings"
+},
+{
+"id": "9eadf91eca9e4f22ac59df15e7f14257",
+"title": "Ball Sort Puzzle New",
+"iframe": "https://html5.gamedistribution.com/9eadf91eca9e4f22ac59df15e7f14257/",
+"creator": "BestGamesFreePlay.com",
+"description": "Sort colored balls by moving them between tubes to organize each tube by matching colors. The game challenges players to think ahead with limited moves and tube space, making every decision count as they clear complex arrangements. Progress through increasingly tricky layouts that test spatial reasoning and planning skills in a clean, minimal setting.\n\nKey Features\n\n• color sorting puzzle mechanic  \n• drag and drop ball movement  \n• limited tube capacity challenge  \n• progressive difficulty levels  \n• casual puzzle environment"
+},
+{
+"id": "9a4bc69920e84a4baf596c2a313c9880",
+"title": "Balls Lover Puzzle",
+"iframe": "https://html5.gamedistribution.com/9a4bc69920e84a4baf596c2a313c9880/",
+"creator": "BotaGame",
+"description": "Match colored balls by drawing chains to clear levels in this puzzle game. Players connect groups of identical spheres using swipe mechanics to trigger strategic blasts that rearrange the board. The playful ball-shuffling continues through increasingly complex grids, challenging spatial awareness and planning skills. Each stage demands careful linking to fully unlock the board’s vibrant puzzle.\n\nKey Features\n\n• Chain link connection mechanic  \n• Swipe-based ball selection control  \n• Progressive grid complexity levels  \n• Strategic blast trigger system  \n• Colorful spherical puzzle layout"
+},
+{
+"id": "8c7cfc38990648ddb950b966605a7039",
+"title": "Ball Puzzle",
+"iframe": "https://html5.gamedistribution.com/8c7cfc38990648ddb950b966605a7039/",
+"creator": "Inlogic Software",
+"description": "Match colored balls by strategic swaps to clear puzzle grids in Ball Puzzle. Players manipulate ball sequences using a drag-and-drop mechanic to create combos and unlock new levels. The layout evolves with added obstacles and timers, challenging players to think several moves ahead for advancing through increasingly complex stages.\n\nKey Features\n\n• Drag-and-drop ball swapping  \n• Combo chain reactions  \n• Timed level challenges  \n• Progressive puzzle complexity  \n• Color-coded grid design"
+},
+{
+"id": "cc1bbc59c9084433875d192ac22e3ec5",
+"title": "Ball Sort Puzzle",
+"iframe": "https://html5.gamedistribution.com/cc1bbc59c9084433875d192ac22e3ec5/",
+"creator": "SUN.STUDIO",
+"description": "Sort colored balls into matching tubes by swapping and stacking them in a limited space puzzle layout. Players use strategic sorting mechanics to arrange all balls by color within increasing level complexity, where tube capacity and ball placement patterns add unique spatial challenges.\n\nKey Features\n\n• Color sorting tube mechanics  \n• Drag and drop ball controls  \n• Increasing puzzle complexity  \n• Level-based progression system  \n• Casual spatial logic theme"
+},
+{
+"id": "61146fa9777849418bf094c9ca7aa75b",
+"title": "Unblock Ball Slide Puzzle",
+"iframe": "https://html5.gamedistribution.com/61146fa9777849418bf094c9ca7aa75b/",
+"creator": "PuzzleGame.Com",
+"description": "Slide numbered balls across a compact grid to clear pathways and unlock the exit in this spatial logic puzzle. Players carefully plan moves by shifting rows and columns to rearrange blocks, aiming to free the trapped ball through constrained sliding mechanics. Progression involves increasingly complex layouts with limited moves, challenging spatial reasoning for casual puzzle fans and younger players.\n\nKey Features\n\n• Grid-based sliding puzzles  \n• Row and column block shifting  \n• Move-limited level challenges  \n• Unlock exit objective system  \n• Minimalist ball and block design"
+},
+{
+"id": "2f97ba2d17f843a7962259524c6ebc71",
+"title": "Ball Sort: Color Puzzle",
+"iframe": "https://html5.gamedistribution.com/2f97ba2d17f843a7962259524c6ebc71/",
+"creator": "GamePush",
+"description": "Sort colored balls into matching tubes by strategic swapping and stacking to clear levels efficiently. The puzzle mechanic revolves around rearranging multiple balls within limited moves on vertical tubes, challenging pattern recognition and planning skills. Players progress through increasingly complex arrangements that require thoughtful sequencing, focusing on color grouping and spatial logic.\n\nKey Features\n\n• color matching tube puzzles  \n• ball swapping and stacking controls  \n• increasing level complexity  \n• move-limited challenge system  \n• casual color sorting gameplay"
+},
+{
+"id": "0f29df3824bc483aa0b7fe0d2ad9c7a7",
+"title": "Baby Cat Puzzle Time",
+"iframe": "https://html5.gamedistribution.com/0f29df3824bc483aa0b7fe0d2ad9c7a7/",
+"creator": "Vi Games",
+"description": "Match colorful tiles to clear levels in Baby Cat Puzzle Time, using strategic swaps to guide cute cat characters to safety. Navigate puzzle boards with limited moves, unlocking new challenges as you advance. Each puzzle demands careful planning to rescue adorable pets and complete increasingly tricky layouts.\n\nKey Features\n\n• Tile matching swap mechanics  \n• Move-limited puzzle stages  \n• Cat rescue progression system  \n• Time-based challenge mode  \n• Whimsical pet-themed visuals"
+},
+{
+"id": "f96e5d62d7af4a4987b0b4a9ce1770e5",
+"title": "Animal Puzzle",
+"iframe": "https://html5.gamedistribution.com/f96e5d62d7af4a4987b0b4a9ce1770e5/",
+"creator": "Vi Games",
+"description": "Arrange animal-shaped puzzle pieces to clear each level’s grid in this casual brain teaser. Players manipulate uniquely shaped tiles to fit together snugly, unlocking new challenging layouts as they advance. The game blends charming creature graphics with spatial reasoning puzzles, urging players to complete every animal silhouette without overlap or gaps.\n\nKey Features\n\n• Shape-based tile fitting mechanic  \n• Drag and drop piece control  \n• Level progression with increasing difficulty  \n• Hint system for tricky puzzles  \n• Colorful animal-themed visuals"
+},
+{
+"id": "51c9dda8a80d4e9a9a5c3005c8d47e9f",
+"title": "Cartoon Animals Puzzle",
+"iframe": "https://html5.gamedistribution.com/51c9dda8a80d4e9a9a5c3005c8d47e9f/",
+"creator": "Vi Games",
+"description": "Match colorful animal icons by swapping adjacent pieces to clear puzzle grids in Cartoon Animals Puzzle. The game challenges players with tile-based movement and chain reactions to reach set targets under move limits. Players progress through increasingly complex levels featuring playful animal themes and strategic matching mechanics.\n\nKey Features\n\n• Swap-based matching mechanic  \n• Tile clearing with chain reactions  \n• Move-limited level challenges  \n• Progressive difficulty stages  \n• Animal-themed puzzle grids"
+},
+{
+"id": "68dbcbe06ab64c67b17369f1c0575a8d",
+"title": "Wild Animals Puzzle",
+"iframe": "https://html5.gamedistribution.com/68dbcbe06ab64c67b17369f1c0575a8d/",
+"creator": "Aurora Games",
+"description": "Match animal-shaped pieces by fitting them into colorful grid puzzles, using spatial reasoning and pattern recognition. Each level introduces new challenges like time limits and limited moves to test your skills. The game’s wildlife theme immerses players in diverse habitats while completing increasingly complex puzzles that require careful placement to progress.\n\nKey Features\n\n• Shape matching grid mechanic  \n• Strategic piece placement controls  \n• Time and move limit challenges  \n• Progressive difficulty levels  \n• Wildlife habitat visual themes"
+},
+{
+"id": "2f01a7ae2338449a99320734156e2526",
+"title": "Exotic Animals Puzzle Time",
+"iframe": "https://html5.gamedistribution.com/2f01a7ae2338449a99320734156e2526/",
+"creator": "Vi Games",
+"description": "Match colorful tiles and swap exotic animal icons to clear puzzle boards in this casual brain teaser. Players strategize around a unique pattern-matching mechanic to complete increasingly complex levels. Each stage challenges you to unlock new species variations through a limited number of moves, encouraging thoughtful planning as you advance through vibrant habitats.\n\nKey Features\n\n• Pattern-matching tile swaps  \n• Limited-move puzzle challenges  \n• Unlockable exotic animal icons  \n• Progressive habitat-themed stages  \n• Strategic level completion goals"
+},
+{
+"id": "e5a2cf635eb34cb693056a6ab4eb7d80",
+"title": "Animals Puzzle",
+"iframe": "https://html5.gamedistribution.com/e5a2cf635eb34cb693056a6ab4eb7d80/",
+"creator": "WillingGames.com",
+"description": "Arrange animal-shaped tiles to complete intricate puzzles that test spatial reasoning and pattern recognition. Players manipulate a variety of uniquely shaped pieces that represent different creatures, aiming to fit them perfectly within themed grids. Challenges increase with complex puzzle layouts and time-limited modes encouraging quick strategic thinking.\n\nKey Features\n\n• Tile rotation and placement mechanic  \n• Drag-and-drop puzzle interaction  \n• Increasing difficulty levels  \n• Time challenge mode option  \n• Animal-themed puzzle designs"
+},
+{
+"id": "2eadd28dd01b433c8f1205f9c1e58044",
+"title": "Animals Jigsaw Puzzle Horses",
+"iframe": "https://html5.gamedistribution.com/2eadd28dd01b433c8f1205f9c1e58044/",
+"creator": "GamesFine.com",
+"description": "Arrange detailed horse-themed jigsaw puzzles by fitting irregular pieces to complete vivid animal images. Players engage with puzzle piece rotation and edge matching mechanics to restore scenes featuring various horse breeds. Challenging piece counts increase as you progress, testing spatial recognition and patience in a serene, animal-inspired environment.\n\nKey Features\n\n• Rotational puzzle piece fitting  \n• Drag and drop piece controls  \n• Progressive piece count difficulty  \n• Time trial challenge mode  \n• Equine-themed visual designs"
+},
+{
+"id": "f10f9f0df2584ee6b449b315fd7c10ca",
+"title": "Animals Jigsaw Puzzle Eagle",
+"iframe": "https://html5.gamedistribution.com/f10f9f0df2584ee6b449b315fd7c10ca/",
+"creator": "GamesFine.com",
+"description": "Arrange detailed animal piece shapes using intuitive drag-and-drop controls to solve increasingly complex puzzles. The game challenges players to complete scenes by fitting jigsaw pieces into naturalistic animal images. Progression unlocks new sets with varied piece counts, encouraging precision and visual matching skills for casual puzzle solving.\n\nKey Features\n\n• Drag-and-drop puzzle assembly  \n• Varied piece complexity progression  \n• Visual shape matching challenge  \n• Time trial and free play modes  \n• Animal-themed puzzle images"
+},
+{
+"id": "e0368609daba45c59e0f394eefe4cc74",
+"title": "Animals Jigsaw Puzzle Tiger",
+"iframe": "https://html5.gamedistribution.com/e0368609daba45c59e0f394eefe4cc74/",
+"creator": "GamesFine.com",
+"description": "Assemble colorful tiger-themed puzzle pieces by dragging and fitting intricate jigsaw shapes together across increasingly complex layouts. Players engage with classic puzzle mechanics that emphasize spatial reasoning and pattern recognition to complete vivid animal images. Progression revolves around mastering different puzzle sizes, offering a steady rise in difficulty tailored for younger and casual gamers.\n\nKey Features\n\n• Drag-and-drop puzzle assembly  \n• Progressive piece count challenges  \n• Pattern matching and spatial logic  \n• Time-based completion tracking  \n• Vivid wildlife imagery"
+},
+{
+"id": "b010c765e74f469da2a8b195fbc59a9d",
+"title": "Animals Puzzle",
+"iframe": "https://html5.gamedistribution.com/b010c765e74f469da2a8b195fbc59a9d/",
+"creator": "newgamess",
+"description": "Solve colorful tile-matching puzzles by connecting animal tiles in chain reactions across grid levels. The core mechanic involves strategic linking of identical creatures to clear progressively intricate boards and unlock new challenges. Players face increasing puzzle complexity that sharpens pattern recognition and planning skills within a vibrant animal-themed setting.\n\nKey Features\n\n• Chain-link matching mechanic  \n• Mouse-driven tile selection  \n• Level-based puzzle progression  \n• Time-limited challenge modes  \n• Animal motif visual design"
+},
+{
+"id": "c6aa23de781e465d87709a3bf3c2c79d",
+"title": "Animal Puzzle",
+"iframe": "https://html5.gamedistribution.com/c6aa23de781e465d87709a3bf3c2c79d/",
+"creator": "nau.games",
+"description": "Match animal-shaped pieces by strategic placement to complete vibrant puzzles in this casual brain teaser. Players engage with pattern recognition and spatial reasoning in a colorful natural setting, aiming to clear levels by aligning creatures with similar attributes. Progression flows through increasingly complex boards that test logic and timing.\n\nKey Features\n\n• Pattern matching with animal tiles  \n• Drag and drop puzzle controls  \n• Progressive difficulty scaling  \n• Timed and untimed play modes  \n• Nature-inspired visual theme"
+},
+{
+"id": "ece14b04297e4842a7715ecbc48b020c",
+"title": "Animals Jigsaw Puzzle Elephants",
+"iframe": "https://html5.gamedistribution.com/ece14b04297e4842a7715ecbc48b020c/",
+"creator": "GamesFine.com",
+"description": "Assemble intricate jigsaw puzzles by fitting colorful elephant pieces together in this casual brain teaser. Players slide and rotate puzzle pieces to complete vibrant scenes featuring detailed elephant illustrations. The challenge increases with puzzle complexity and piece count, testing spatial reasoning and pattern recognition.\n\nKey Features\n\n• Piece rotation and placement  \n• Drag-and-drop puzzle controls  \n• Progressive difficulty levels  \n• Time trial and relaxed modes  \n• Elephant-themed imagery"
+},
+{
+"id": "b9a3d4623b1443c38df1483b5b3a9aeb",
+"title": "Animal Puzzles",
+"iframe": "https://html5.gamedistribution.com/b9a3d4623b1443c38df1483b5b3a9aeb/",
+"creator": "Fun Best Games",
+"description": "Arrange colorful animal-shaped puzzle pieces to complete vibrant scenes while navigating varying piece shapes and interlocking mechanics. Match patterns and contours to solve each stage, challenging spatial reasoning with increasing complexity. The game’s pacing adapts as players unlock new animal-themed puzzles featuring engaging visual designs suited for casual and younger audiences.\n\nKey Features\n\n• Shape-matching puzzle mechanics  \n• Drag-and-drop piece placement  \n• Progressive difficulty levels  \n• Unlockable animal scene sets  \n• Child-friendly visual style"
+},
+{
+"id": "e31439424c3b4f73a75ab744f06e2fbd",
+"title": "Animals Slide Puzzle",
+"iframe": "https://html5.gamedistribution.com/e31439424c3b4f73a75ab744f06e2fbd/",
+"creator": "GamesFine.com",
+"description": "Slide shuffled animal tiles into correct order by swapping adjacent pieces, testing spatial reasoning and pattern recognition. Arrange various nature-themed creatures across grid-based puzzles, progressively increasing in complexity to complete each scenario. The core mechanic revolves around strategic tile movement under move limits, offering casual players engaging brain teasers.\n\nKey Features\n\n• Tile swapping puzzle mechanic  \n• Grid-based incremental challenges  \n• Limited move strategic planning  \n• Time attack and relaxed modes  \n• Nature-inspired animal visuals"
+},
+{
+"id": "37a67d974d754010bc7dbb4d50db5c5c",
+"title": "Animal Sort - Cute Puzzle Game",
+"iframe": "https://html5.gamedistribution.com/37a67d974d754010bc7dbb4d50db5c5c/",
+"creator": "Tiny Castle Studio",
+"description": "Match and arrange adorable animal icons to clear colorful puzzle grids in this casual sorting challenge. Players tap groups of matching creatures to trigger chain reactions and progress through progressively complex layouts. The game blends simple cluster matching with charming animal characters to keep arranging and clearing the board the main goal.\n\nKey Features\n\n• Cluster matching mechanics  \n• Tap-based sorting controls  \n• Increasing puzzle complexity  \n• Chain reaction scoring system  \n• Cute animal themed icons"
+},
+{
+"id": "613ca82199d44fb2be3db85e31008e4a",
+"title": "Animal Block Pop Puzzle",
+"iframe": "https://html5.gamedistribution.com/613ca82199d44fb2be3db85e31008e4a/",
+"creator": "BestGamesFreePlay.com",
+"description": "Match clusters of colorful animal blocks to clear the board in this puzzle challenge. Players use pattern recognition and strategic swaps to pop groups of blocks, advancing through increasingly difficult stages. The game features a vibrant animal block theme that requires planning moves to achieve high scores and unlock new levels.\n\nKey Features\n\n• Cluster matching mechanic  \n• Tap and drag control scheme  \n• Progressive puzzle difficulty  \n• Time-limited challenge rounds  \n• Animal-themed block sets"
+},
+{
+"id": "b5c96767c4484a959e6154fc64a73144",
+"title": "Logic Storm: Animals Puzzle",
+"iframe": "https://html5.gamedistribution.com/b5c96767c4484a959e6154fc64a73144/",
+"creator": "WillingGames.com",
+"description": "Solve intricate puzzles by matching animal shapes to clear each level in a grid-based layout that tests spatial reasoning and pattern recognition. Players must strategically plan moves to unlock new challenges and navigate increasingly complex animal-themed boards. Progression introduces layered puzzle elements that deepen cognitive engagement and refine puzzle-solving skills.\n\nKey Features\n\n• Shape matching puzzle mechanic  \n• Strategic move planning controls  \n• Layered level difficulty progression  \n• Unlockable puzzle board variations  \n• Animal-themed visual design elements"
+},
+{
+"id": "3b1bd062a03f4da284075bfeec0f585a",
+"title": "Checkers 3D",
+"iframe": "https://html5.gamedistribution.com/3b1bd062a03f4da284075bfeec0f585a/",
+"creator": "JulGames",
+"description": "Move and capture pieces using 3D spatial tactics on a classic checkers board where jumps follow realistic diagonal paths. Players aim to strategically outmaneuver opponents by promoting checkers to kings that move backwards across elevated platforms. The game blends traditional rules with depth perception challenges for casual and younger players seeking thoughtful pacing.\n\nKey Features\n\n• Diagonal jump capture mechanic  \n• Turn-based piece movement control  \n• King promotion with backward moves  \n• Progressive difficulty levels  \n• 3D isometric board perspective"
+},
+{
+"id": "78efb51ba02a4c448654ddb547e32390",
+"title": "Domino Falls 3D",
+"iframe": "https://html5.gamedistribution.com/78efb51ba02a4c448654ddb547e32390/",
+"creator": "8Games.Net",
+"description": "Line up and topple intricate domino chains in immersive 3D environments using precise timing and careful placement. Players must plan moves to knock down complex patterns while navigating physics-based interactions. Levels increase in complexity with varied domino arrangements, inviting casual gamers to sharpen spatial reasoning and reaction skills in a visually engaging setting.\n\nKey Features\n\n• Physics-based domino toppling  \n• Precision timing controls  \n• Progressive pattern complexity  \n• Level challenges with scoring  \n• 3D spatial puzzle environments"
+},
+{
+"id": "6bddb0e4b7ef4bc7a63345e592df6863",
+"title": "Sokoban 3D Chapter 3",
+"iframe": "https://html5.gamedistribution.com/6bddb0e4b7ef4bc7a63345e592df6863/",
+"creator": "BeedoGames",
+"description": "Push crates through intricate 3D mazes with precise spatial puzzles combining traditional Sokoban block-pushing with depth navigation. Manipulate multiple layers within multi-level warehouses to solve increasingly complex arrangements. Advanced pathfinding and camera angles create layered gameplay challenges for gradually unlocking new chapters and rearranging obstacles.\n\nKey Features\n\n• 3D block-pushing mechanics  \n• Multi-layered spatial puzzles  \n• Progressive maze complexity  \n• Adjustable camera perspectives  \n• Warehouse environment design"
+},
+{
+"id": "ab7e677e102947848bb13d07caccd237",
+"title": "Minesweeper 3D",
+"iframe": "https://html5.gamedistribution.com/ab7e677e102947848bb13d07caccd237/",
+"creator": "PulseNova",
+"description": "Uncover safe spots by revealing blocks on a 3D grid while deducing mine positions through numerical clues. This version enhances the classic puzzle with depth-based spatial reasoning across multiple stacked layers, challenging players to navigate complex mine layouts. The goal is to clear all tiles without triggering hidden explosives, testing your logic under increasing difficulty.\n\nKey Features\n\n• 3D spatial mine detection  \n• Multi-layer grid navigation  \n• Numerical clue deduction  \n• Progressive puzzle complexity  \n• Isometric puzzle environment"
+},
+{
+"id": "df4587af11f94555b973dd0b0b8cd818",
+"title": "3D Tangram",
+"iframe": "https://html5.gamedistribution.com/df4587af11f94555b973dd0b0b8cd818/",
+"creator": "BestGamesFreePlay.com",
+"description": "Manipulate geometric shapes by fitting colorful polygons into complex puzzles using spatial reasoning and rotational placement. Each level challenges players to complete patterns precisely by arranging tangram pieces without overlap. Progression unlocks increasingly intricate designs demanding sharper problem-solving skills from a calm, abstract setting.\n\nKey Features\n\n• Precise polygon fitting mechanics  \n• Drag and rotate shape controls  \n• Increasingly complex puzzle patterns  \n• Timed and relaxed play modes  \n• Minimalist geometric visual style"
+},
+{
+"id": "e5761671aa0e4d2eac325d75f251717e",
+"title": "Hexa loop 3D",
+"iframe": "https://html5.gamedistribution.com/e5761671aa0e4d2eac325d75f251717e/",
+"creator": "Seryas Games",
+"description": "Navigate hexagonal tiles to create seamless loops in a dynamic 3D environment. Players rotate and align colored segments to complete continuous paths, advancing through increasingly intricate spatial puzzles. The game challenges spatial reasoning with an evolving geometric setup, making every level a fresh exercise in pattern recognition and strategic rotation.\n\nKey Features\n\n• Hexagonal tile rotation mechanic  \n• Color-matching loop formation  \n• Increasing puzzle complexity  \n• Spatial reasoning challenge levels  \n• 3D geometric puzzle layouts"
+},
+{
+"id": "103b07eed06a478c8b98894b3c378b06",
+"title": "Domino Smash 3D",
+"iframe": "https://html5.gamedistribution.com/103b07eed06a478c8b98894b3c378b06/",
+"creator": "PuzzleGame.Com",
+"description": "Slide and topple complex 3D domino setups with precise timing and chain reaction control. Players manipulate detailed physics-based rows to trigger extensive cascades of falling tiles. Levels gradually increase in difficulty, challenging players to strategically arrange and tip over diverse domino patterns for maximum impact and score. Casual fans of puzzle and kinetic games will find satisfying progression in this tactile environment.\n\nKey Features\n\n• physics-driven domino chain reactions  \n• precise tile positioning controls  \n• escalating puzzle complexity  \n• time-based scoring system  \n• 3D spatial domino arrangements"
+},
+{
+"id": "c6e6a126216d4b3bbb681042c06220dd",
+"title": "3D Match Puzzle Mania",
+"iframe": "https://html5.gamedistribution.com/c6e6a126216d4b3bbb681042c06220dd/",
+"creator": "Inlogic Software",
+"description": "Match colorful 3D blocks by rotating and aligning clusters in a vibrant puzzle environment. Players manipulate puzzle shapes to clear levels filled with spatial challenges and shifting block formations. Success depends on strategic matching and timing to overcome complex stacking patterns across progressive stages.\n\nKey Features\n\n• Three-dimensional block manipulation  \n• Cluster rotation controls  \n• Progressive level complexity  \n• Time-based scoring challenges  \n• Vivid colorful puzzle setting"
+},
+{
+"id": "5f7a66a29cd843dbb3b80921cc3bcaab",
+"title": "Hazel Tangle Rope 3D: Sorting Puzzle",
+"iframe": "https://html5.gamedistribution.com/5f7a66a29cd843dbb3b80921cc3bcaab/",
+"creator": "dotplay gmbh",
+"description": "Untangle intersecting ropes by sorting their colors in this 3D puzzle game that tests spatial reasoning and pattern recognition. Players manipulate twisted cords within a cubic frame to group matching strands together, overcoming increasingly complex knot arrangements. Each level challenges you to methodically separate and align tangled ropes to complete the sorting objective efficiently.\n\nKey Features\n\n• Color matching rope sorting  \n• 3D spatial manipulation controls  \n• Progressive knot complexity levels  \n• Time tracking and move count  \n• Minimalist puzzle environment"
+},
+{
+"id": "ad85d363343e47b5b396d086b9087d82",
+"title": "3D Kid Sliding Puzzle",
+"iframe": "https://html5.gamedistribution.com/ad85d363343e47b5b396d086b9087d82/",
+"creator": "wavegame",
+"description": "Slide colorful 3D puzzle pieces across a grid to reconstruct vivid images in this engaging spatial challenge. Players manipulate cubic tiles using intuitive dragging controls to restore order and complete levels filled with progressively harder arrangements. The tactile sliding mechanic tests spatial reasoning while offering a relaxing visual experience designed for casual gamers.\n\nKey Features\n\n• 3D cubic tile sliding  \n• Drag-and-drop piece control  \n• Increasing puzzle complexity  \n• Timed and untimed modes  \n• Vibrant image restoration theme"
+},
+{
+"id": "3cb2c3b36dca4446b037be38ddc12379",
+"title": "Screw Masters 3D Puzzle",
+"iframe": "https://html5.gamedistribution.com/3cb2c3b36dca4446b037be38ddc12379/",
+"creator": "Caner",
+"description": "Manipulate intricate 3D screw puzzles by rotating and aligning components to complete complex mechanical assemblies. Players engage with precise spatial reasoning across progressive stages that challenge their logic and dexterity. The game tests patience and problem-solving as players navigate multi-layered screw configurations to unlock the final mechanism.\n\nKey Features\n\n• 3D rotational puzzle mechanics  \n• Precision component alignment controls  \n• Increasing puzzle complexity progression  \n• Multi-layer mechanical assembly challenges  \n• Casual-friendly brainteaser setting"
+},
+{
+"id": "ee9758da2f734a13af3781fbd42c3558",
+"title": "Domino Solitaire",
+"iframe": "https://html5.gamedistribution.com/ee9758da2f734a13af3781fbd42c3558/",
+"creator": "BlackMoon Design",
+"description": "Arrange numbered domino tiles in strategic order to clear the board by matching ends. The game uses classic domino placement mechanics, requiring thoughtful sequencing of tiles to build chains. Players face the challenge of managing limited moves while aiming to empty their hand. The setting is minimal and focused on tile strategy, catering to casual players seeking logical puzzle progression.\n\nKey Features\n\n• Sequential tile matching system  \n• Drag and drop tile placement  \n• Limited move strategic challenge  \n• Hand clearance progression target  \n• Classic domino tile design"
+},
+{
+"id": "2d38da1c3bb94dad8362f5e4dfa7ea81",
+"title": "Domino Solitaire",
+"iframe": "https://html5.gamedistribution.com/2d38da1c3bb94dad8362f5e4dfa7ea81/",
+"creator": "GameBerry Studio",
+"description": "Arrange numbered domino tiles in strategic sequences to clear the board by matching ends. Players manipulate tile placement through sliding controls while managing limited moves to solve layered puzzles. The game challenges pattern recognition and planning as tiles must fit perfectly within a confined space to progress through increasingly complex levels.\n\nKey Features\n\n• Sequential tile matching mechanic  \n• Slide-based tile placement control  \n• Puzzle complexity progression system  \n• Limited move challenge mode  \n• Classic domino pattern theme"
+},
+{
+"id": "0362c1db89fd4d8f9497b67985fe4b55",
+"title": "Daily Chess Puzzle",
+"iframe": "https://html5.gamedistribution.com/0362c1db89fd4d8f9497b67985fe4b55/",
+"creator": "Catafractum",
+"description": "Solve challenging chess puzzles by identifying the best move in each position to improve strategic thinking and pattern recognition. Each daily brain teaser tests tactical skill through unique board setups and common chess motifs. Progress by completing puzzles of varying difficulty designed to refine calculation speed and positional understanding.\n\nKey Features\n\n• Tactical move identification mechanic  \n• Single-click piece control system  \n• Increasing puzzle difficulty levels  \n• Daily puzzle challenge mode  \n• Classic chessboard theme"
+},
+{
+"id": "17a33f4057c54631ab56386df4449c13",
+"title": "Nugget Man Survival Puzzle",
+"iframe": "https://html5.gamedistribution.com/17a33f4057c54631ab56386df4449c13/",
+"creator": "Meyagames",
+"description": "Navigate intricate puzzle grids using strategic movement patterns to outlast dynamic hazards in Nugget Man Survival Puzzle. Manipulate collectible nuggets to unlock safe zones while adapting to shifting tile mechanics that test planning and reflexes. Levels challenge players to balance survival instincts with clever resource placement under time constraints.\n\nKey Features\n\n• Tile-based movement puzzles  \n• Nugget collection resource system  \n• Hazard avoidance challenges  \n• Progressive difficulty tiers  \n• Survival-themed grid environments"
+},
+{
+"id": "8edc0d9de59d46c59bee62b9f3079002",
+"title": "2048 Puzzle",
+"iframe": "https://html5.gamedistribution.com/8edc0d9de59d46c59bee62b9f3079002/",
+"creator": "New Kids Games",
+"description": "Slide numbered tiles strategically on a grid to combine matching values and create higher numbers in this minimalist puzzle challenge. Players navigate merging mechanics by planning tile movements across limited board space, aiming to reach the elusive 2048 tile through careful placement and foresight.\n\nKey Features\n\n• Tile sliding combination mechanic  \n• Directional arrow key controls  \n• Increasing tile value progression  \n• Score tracking and move counter  \n• Clean minimalist grid design"
+},
+{
+"id": "0580bcde308647c597a9d3d5d7129948",
+"title": "Classic 2048 Puzzle",
+"iframe": "https://html5.gamedistribution.com/0580bcde308647c597a9d3d5d7129948/",
+"creator": "FG Studio",
+"description": "Slide numbered tiles on a grid to merge matching values and reach higher scores through strategic placement. The game revolves around combining powers of two by shifting tiles up, down, left, or right within a limited space, challenging players to think several moves ahead to avoid a full board. Each move must carefully balance tile consolidation with space management.\n\nKey Features\n\n• Swipe directional tile movement  \n• Numeric tile merging mechanic  \n• Increasing difficulty with tile density  \n• Score tracking progression system  \n• Minimalist grid puzzle layout"
+},
+{
+"id": "ba6c3e3c7a7c42fcb52850d9c5f5bd64",
+"title": "Hexa 2048 Puzzle - Block Merge",
+"iframe": "https://html5.gamedistribution.com/ba6c3e3c7a7c42fcb52850d9c5f5bd64/",
+"creator": "BotaGame",
+"description": "Merge matching hexagonal tiles to create higher value blocks in this spatial puzzle challenge. Players slide clusters across the hex board to combine identical pieces strategically, aiming to reach the elusive 2048 tile. The game tests pattern recognition and spatial planning through increasing complexity as the board fills up. Tactile block sliding defines progression in this casual brain teaser.\n\nKey Features\n\n• Hexagonal tile merging system  \n• Swipe-based cluster sliding controls  \n• Increasing board complexity levels  \n• Score tracking and target tile goal  \n• Minimalist geometric puzzle aesthetic"
+},
+{
+"id": "ce48aa563bf54682ba21b0cd3ee8864e",
+"title": "2048: Puzzle Classic",
+"iframe": "https://html5.gamedistribution.com/ce48aa563bf54682ba21b0cd3ee8864e/",
+"creator": "Holger Sindbaek",
+"description": "Slide numbered tiles across the grid to merge matching values and create higher numbers using tile combining mechanics. Players must strategically plan moves in a limited space as the board fills up, aiming to reach the elusive 2048 tile. The simple numeric puzzle challenges spatial awareness and foresight in progressive grid-shifting gameplay.\n\nKey Features\n\n• Tile merging core mechanic  \n• Swipe control movement system  \n• Incremental number progression  \n• Undo last move option  \n• Minimalist numeric grid design"
+},
+{
+"id": "3b20090739f94b54bd92c0861bed1e57",
+"title": "2048 Lines",
+"iframe": "https://html5.gamedistribution.com/3b20090739f94b54bd92c0861bed1e57/",
+"creator": "Agame",
+"description": "Slide and merge numbered tiles on a grid to create higher values through strategic moves. The gameplay revolves around combining lines of identical numbers, requiring spatial planning to avoid gridlock and reach target tiles. Players progress by increasing tile values under time or move constraints, offering a minimalist numeric puzzle challenge focused on pattern formation and tile alignment.\n\nKey Features\n\n• Tile merging line mechanics  \n• Directional swipe control scheme  \n• Increasing tile value progression  \n• Time and move-limited modes  \n• Clean minimalist numeric grid"
+},
+{
+"id": "7769005e476c4c64a4eaee210e5946aa",
+"title": "2048 Puzzle: Connect the Balls",
+"iframe": "https://html5.gamedistribution.com/7769005e476c4c64a4eaee210e5946aa/",
+"creator": "AdelikDev",
+"description": "Slide numbered balls across a grid to merge matching values and create higher-numbered balls in a strategic puzzle format. Players manipulate tile movements to combine multiples of two, aiming to reach the elusive 2048 tile while managing limited space. This tile-merging mechanic challenges spatial reasoning and planning through steady progression.\n\nKey Features\n\n• Number matching merge system  \n• Swipe-based tile control  \n• Increasing difficulty levels  \n• Score tracking progression  \n• Minimalist grid interface"
+},
+{
 "id": "d31e902a63eb4528919accab0299db78",
 "title": "Untangle Rings Master",
 "iframe": "https://html5.gamedistribution.com/d31e902a63eb4528919accab0299db78/",
@@ -1014,13 +1357,6 @@
 "iframe": "https://html5.gamedistribution.com/1093480777c741aaa2358363fc19912f/",
 "creator": "Playtouch",
 "description": "Roll five dice strategically to score combinations based on classic Yahtzee rules in this timeless dice game. Players aim to fill their scorecard with specific patterns like full house, straights, and multiple-of-a-kind sets through limited rerolls. The gameplay combines chance with decision-making as you balance risk and reward in each round.\n\nKey Features\n\n• Dice reroll decision system  \n• Scorecard combination tracking  \n• Risk management in rolls  \n• Multiple scoring categories  \n• Casual numeric puzzle challenge"
-},
-{
-"id": "6937d0e144cf4602bd71b1bbab184ce4",
-"title": "Tic Tac Toe Arcade",
-"iframe": "https://html5.gamedistribution.com/6937d0e144cf4602bd71b1bbab184ce4/",
-"creator": "T",
-"description": "Place Xs and Os strategically to outsmart your opponent on a classic 3x3 grid, using turn-based marking mechanics that demand pattern recognition and tactical blocking to win. The game challenges players to arrange three identical symbols in a row while anticipating rival moves, suited for casual fans seeking quick, brain-teasing matches.\n\nKey Features\n\n• Turn-based symbol placement  \n• Grid pattern strategy system  \n• Competitive opponent blocking  \n• Single and multiplayer modes  \n• Minimalist arcade visuals"
 },
 {
 "id": "92d479f1e7444b10abbb86f8f3b77816",
@@ -2304,13 +2640,6 @@
 "description": "Solve complex numeric arrangements using logic-based cell interactions in a puzzle grid. Players adjust number placements through pattern recognition and deduction to unlock successive levels with increasing difficulty and subtle hints provided after multiple attempts. The challenge lies in mastering strategic sequencing within each puzzle to clear the board efficiently under time constraints.\n\nKey Features\n\n• Grid-based number placement  \n• Strategic pattern deduction  \n• Progressive puzzle difficulty  \n• Hint usage after retries  \n• Casual logic puzzle theme"
 },
 {
-"id": "1582fa53376648328dafde0aaba468ef",
-"title": "Pin Board Puzzle",
-"iframe": "https://html5.gamedistribution.com/1582fa53376648328dafde0aaba468ef/",
-"creator": "gamesmunch.com",
-"description": "Manipulate pins strategically to clear puzzles by triggering chain reactions with precise timing. Players engage with a unique pin placement mechanic that challenges spatial reasoning and sequencing skills across multiple levels. Success depends on how effectively pins interact, requiring careful planning and adaptation as difficulty gradually increases.\n\nKey Features\n\n• Chain reaction pin mechanics  \n• Precise placement controls  \n• Increasing puzzle complexity  \n• Level-based progression system  \n• Casual puzzle environment"
-},
-{
 "id": "1df679cf5896477e8b9ed01414f510e8",
 "title": "Best Friends Puzzle",
 "iframe": "https://html5.gamedistribution.com/1df679cf5896477e8b9ed01414f510e8/",
@@ -2997,13 +3326,6 @@
 "description": "Match colorful emojis on a grid to clear patterns and score points in this casual puzzle challenge. Players swap adjacent tiles to create chains of matching symbols while navigating increasingly complex layouts and timed rounds. The core mechanic revolves around strategic tile swapping and combo building that tests quick thinking and spatial recognition.\n\nKey Features\n\n• Tile swapping matching mechanic  \n• Strategic combo chain creation  \n• Timed puzzle challenge rounds  \n• Level progression with increasing difficulty  \n• Colorful emoji-based grid layouts"
 },
 {
-"id": "f21b6caa00a2437b9f9e073c99def1d0",
-"title": "Caveman Board Puzzles",
-"iframe": "https://html5.gamedistribution.com/f21b6caa00a2437b9f9e073c99def1d0/",
-"creator": "Lof Games",
-"description": "Arrange stone tiles by sliding them across the board to create matching patterns in a prehistoric environment. Players manipulate a limited grid space with puzzle mechanics that emphasize spatial reasoning and careful planning. Completing each board unlocks progressively complex layouts involving ancient symbols and natural elements.\n\nKey Features\n\n• Tile sliding spatial puzzles  \n• Pattern matching gameplay  \n• Increasing grid complexity  \n• Unlockable puzzle layouts  \n• Prehistoric visual theme"
-},
-{
 "id": "d03f630717874101b4bbb5cd6edda70a",
 "title": "Fast And Furious Puzzle",
 "iframe": "https://html5.gamedistribution.com/d03f630717874101b4bbb5cd6edda70a/",
@@ -3445,13 +3767,6 @@
 "description": "Match colorful puzzle pieces by swapping tiles to clear levels in a vibrant cartoon-inspired world. Players navigate through grid-based puzzles where strategic moves unlock new challenges and advance through stages with increasing complexity. The playful theme complements the tile-swapping core mechanic focused on pattern recognition and level completion.\n\nKey Features\n\n• Tile swapping puzzle gameplay  \n• Grid-based level progression  \n• Pattern matching challenge system  \n• Strategic move limitation  \n• Cartoon styled visual design"
 },
 {
-"id": "929ebe279f65452db385b0149718067f",
-"title": "Birds Board Puzzles",
-"iframe": "https://html5.gamedistribution.com/929ebe279f65452db385b0149718067f/",
-"creator": "Lof Games",
-"description": "Arrange colorful birds across a grid to solve spatial puzzles that test pattern recognition and logic skills. Players interact by selecting and positioning bird pieces in a limited space to complete specific shapes or sequences. Progression involves increasingly complex layouts and varying bird types, challenging casual gamers and younger audiences to plan moves carefully.\n\nKey Features\n\n• Grid-based spatial puzzles  \n• Drag and drop bird placement  \n• Increasing puzzle complexity  \n• Sequence completion challenges  \n• Bright avian-themed visuals"
-},
-{
 "id": "97e7915e0a0f43879ffc3b10cb0cdc1e",
 "title": "Falling Puzzles",
 "iframe": "https://html5.gamedistribution.com/97e7915e0a0f43879ffc3b10cb0cdc1e/",
@@ -3800,13 +4115,6 @@
 "iframe": "https://html5.gamedistribution.com/113e6abaf68d4eeaa8ca70f36081689c/",
 "creator": "Lof Games",
 "description": "Match colorful fruit tiles by sliding them across a grid to clear levels in this puzzle challenge. The game features a tile-swapping mechanic combined with limited moves per stage, requiring strategic planning to complete each pattern. Progression involves unlocking new puzzles with varied board layouts that test your matching skills.\n\nKey Features\n\n• Tile swapping grid puzzles  \n• Strategic move limitation system  \n• Progressive difficulty ramps  \n• Unlockable level boards  \n• Bright fruit-themed visuals"
-},
-{
-"id": "cb953b7e602a4169bc2f976b89998bfe",
-"title": "RC 125 Action Puzzle",
-"iframe": "https://html5.gamedistribution.com/cb953b7e602a4169bc2f976b89998bfe/",
-"creator": "WillingGames.com",
-"description": "Navigate complex puzzle grids by carefully matching and placing pieces to clear levels in RC 125 Action Puzzle. Manipulate spatial arrangements through precise positioning strategies to unlock new challenges. Progression involves increasing puzzle difficulty with varied pattern complexity, demanding sharper logic and timing to achieve completion within limited moves.\n\nKey Features\n\n• Pattern matching core mechanic  \n• Piece placement control scheme  \n• Increasing puzzle difficulty tiers  \n• Move-limited challenge system  \n• Abstract puzzle grid setting"
 },
 {
 "id": "261112169a484804b66e18143df296cf",
