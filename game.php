@@ -57,7 +57,7 @@
 </section>
 </nav>
 <?php endif; ?>
-<?php if (!empty($currentCluster)): ?>
+<?php if (!empty($seriesCategories)): ?>
 <nav class="cluster">
 <h2>Related Game Tags</h2>
 <ul class="series">
