@@ -91,7 +91,7 @@ function build_game_series_clusters(array $pages): array {
     foreach ($pages as $page) {
         $key = detect_game_series_key($page['title']);
 
-        if ($key === '' || preg_match('/^.{4,}$/u', $key) !== 1) {
+        if ($key === '') {
             continue;
         }
 
@@ -158,7 +158,7 @@ function build_game_series_categories(array $clusters, string $categoryId): arra
     foreach ($clusters as $cluster) {
         $key = series_cluster_key($cluster);
 
-        if ($key === '') {
+        if ($key === '' || preg_match('/^.{4,}$/u', $key) !== 1) {
             continue;
         }
 
