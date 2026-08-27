@@ -12,7 +12,6 @@ AGENT_EXCEPTIONS = {
     "multiplayer": "io",
 
     #action
-    "3d": "action",
     "battle": "action",
     "fighting": "action",
     "hero": "action",
@@ -73,7 +72,6 @@ AGENT_EXCEPTIONS = {
     "starship": "adventure",
 
     #arcade
-    "2-player": "arcade",
     "ball": "arcade",
     "dash": "arcade",
     "jumping": "arcade",
@@ -204,13 +202,10 @@ AGENT_EXCEPTIONS = {
     "2048": "puzzle",
     "block": "puzzle",
     "brain": "puzzle",
-    "bubble-shooter": "puzzle",
     "connect": "puzzle",
     "differences": "puzzle",
-    "hidden-object": "puzzle",
     "jewel": "puzzle",
     "jigsaw": "puzzle",
-    "match-3": "puzzle",
     "matching": "puzzle",
     "maze": "puzzle",
     "memory": "puzzle",
