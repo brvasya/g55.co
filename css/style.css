@@ -134,7 +134,7 @@ p {
     white-space: pre-line;
     order: 2;
 }
-.description.c, .cluster.c {
+.description.c {
     order: unset;
 }
 .cluster {
