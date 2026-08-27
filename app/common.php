@@ -251,8 +251,47 @@ function cluster_links_except_current(array $cluster, string $pageId): array {
     ));
 }
 
+function series_cluster_key(array $cluster): string {
+    return (string)($cluster[0]['_series_key'] ?? '');
+}
+
 function series_cluster_title(array $cluster): string {
-    return ucwords($cluster[0]['_series_key']);
+    return ucwords(series_cluster_key($cluster));
+}
+
+function find_game_cluster_for_series_key(array $clusters, string $seriesKey): array {
+    $seriesKey = detect_game_series_key($seriesKey);
+
+    if ($seriesKey === '') {
+        return [];
+    }
+
+    foreach ($clusters as $cluster) {
+        if (series_cluster_key($cluster) === $seriesKey) {
+            return $cluster;
+        }
+    }
+
+    return [];
+}
+
+function build_game_series_categories(array $clusters, string $categoryId): array {
+    $categories = [];
+
+    foreach ($clusters as $cluster) {
+        $key = series_cluster_key($cluster);
+
+        if ($key === '') {
+            continue;
+        }
+
+        $categories[] = [
+            'title' => series_cluster_title($cluster),
+            'url' => '/?c=' . rawurlencode($categoryId) . '&t=' . rawurlencode($key),
+        ];
+    }
+
+    return $categories;
 }
 
 function build_creator_clusters(array $pages): array {
@@ -270,4 +309,3 @@ function build_creator_clusters(array $pages): array {
 
     return keep_multi_game_clusters($clusters);
 }
-
