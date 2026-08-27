@@ -37,6 +37,7 @@ AGENT_EXCEPTIONS = {
 
     #battle
     "battler": "battle",
+    "dynamon": "battle",
 
     #bike
     "bicycle": "bike",
@@ -53,6 +54,7 @@ AGENT_EXCEPTIONS = {
     "blockz": "block",
     "brick": "block",
     "tetris": "block",
+    "tetrix": "block",
     "tetriz": "block",
     "unblock": "block",
 
@@ -66,6 +68,7 @@ AGENT_EXCEPTIONS = {
     #cat
     "kitten": "cat",
     "kitty": "cat",
+    "meow": "cat",
 
     #christmas
     "christman": "christmas",
@@ -90,7 +93,7 @@ AGENT_EXCEPTIONS = {
     "burger": "cooking",
     "chef": "cooking",
     "cuisine": "cooking",
-    "cupcakes": "cooking",
+    "cupcake": "cooking",
     "grill": "cooking",
     "kitchen": "cooking",
     "pancake": "cooking",
@@ -134,6 +137,7 @@ AGENT_EXCEPTIONS = {
 
     #farming
     "farmer": "farming",
+    "harvest": "farming",
     "harvesting": "farming",
 
     #fashion
@@ -171,6 +175,7 @@ AGENT_EXCEPTIONS = {
     "airplane": "flying",
     "aviation": "flying",
     "aviator": "flying",
+    "copter": "flying",
     "glider": "flying",
     "helicopter": "flying",
     "pilot": "flying",
@@ -349,11 +354,13 @@ AGENT_EXCEPTIONS = {
     "tidy": "sorting",
 
     #space
+    "alien": "space",
     "asteroid": "space",
     "astronaut": "space",
     "cosmic": "space",
     "cosmos": "space",
     "galactic": "space",
+    "galaxy": "space",
     "mars": "space",
     "moon": "space",
     "solar": "space",
@@ -364,7 +371,7 @@ AGENT_EXCEPTIONS = {
     "badminton": "sports",
     "bowling": "sports",
     "cricket": "sports",
-    "darts": "sports",
+    "dart": "sports",
     "hockey": "sports",
     "skate": "sports",
     "skateboard": "sports",
@@ -399,7 +406,10 @@ AGENT_EXCEPTIONS = {
     "manager": "tycoon",
 
     #war
+    "battalion": "war",
     "battlefield": "war",
+    "siege": "war",
+    "soldier": "war",
     "warfare": "war",
     "warzone": "war",
 
@@ -408,6 +418,7 @@ AGENT_EXCEPTIONS = {
     "hangman": "word",
     "letter": "word",
     "type": "word",
+    "typer": "word",
     "typing": "word",
     "wordmeister": "word",
     "wordscapes": "word",
