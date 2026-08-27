@@ -105,7 +105,6 @@ AGENT_EXCEPTIONS = {
     #defense
     "defence": "defense",
     "defend": "defense",
-    "defender": "defense",
     "protect": "defense",
 
     #differences
@@ -126,7 +125,6 @@ AGENT_EXCEPTIONS = {
     "puppy": "dog",
 
     #drift
-    "drifter": "drift",
     "drifty": "drift",
 
     #driving
@@ -136,9 +134,7 @@ AGENT_EXCEPTIONS = {
     "tractor": "driving",
 
     #farming
-    "farmer": "farming",
     "harvest": "farming",
-    "harvesting": "farming",
 
     #fashion
     "barber": "fashion",
@@ -156,7 +152,6 @@ AGENT_EXCEPTIONS = {
     #fighting
     "boxing": "fighting",
     "brawler": "fighting",
-    "fighter": "fighting",
     "gladiator": "fighting",
     "karate": "fighting",
     "punch": "fighting",
@@ -213,7 +208,6 @@ AGENT_EXCEPTIONS = {
 
     #jumping
     "hopping": "jumping",
-    "jumper": "jumping",
     "jumpy": "jumping",
     "leap": "jumping",
 
@@ -302,7 +296,6 @@ AGENT_EXCEPTIONS = {
     #racing
     "formula": "racing",
     "karting": "racing",
-    "racer": "racing",
     "rally": "racing",
     "speedway": "racing",
 
@@ -350,7 +343,6 @@ AGENT_EXCEPTIONS = {
     #sorting
     "laundry": "sorting",
     "organize": "sorting",
-    "organizer": "sorting",
     "tidy": "sorting",
 
     #space
@@ -375,10 +367,7 @@ AGENT_EXCEPTIONS = {
     "hockey": "sports",
     "skate": "sports",
     "skateboard": "sports",
-    "skater": "sports",
-    "skating": "sports",
     "ski": "sports",
-    "skiing": "sports",
     "snowboard": "sports",
     "volley": "sports",
     "volleyball": "sports",
