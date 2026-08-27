@@ -286,19 +286,6 @@ def count_items_with_creator(items) -> int:
     return sum(1 for it in items if normalize_creator_value(it.get("creator", "")))
 
 
-def category_description_has_link(description: str) -> bool:
-    description = str(description or "").lower()
-    return "<a href=" in description
-
-
-def count_categories_with_links(items) -> int:
-    count = 0
-    for it in items:
-        if category_description_has_link(it.get("description", "")):
-            count += 1
-    return count
-
-
 def normalize_text_for_duplicate_check(value: str) -> str:
     return " ".join(str(value or "").strip().lower().split())
 
@@ -535,7 +522,10 @@ class JsonGui(tk.Tk):
         total = len(self.items)
 
         if self.is_root_categories_mode():
-            completed = count_categories_with_links(self.items)
+            completed = sum(
+                1 for it in self.items
+                if str(it.get("description", "")).strip()
+            )
             text = f"Descriptions: {completed}/{total}"
             self.set_status(f"{prefix}  {text}" if prefix else text)
             return
@@ -657,12 +647,9 @@ class JsonGui(tk.Tk):
         self.listbox.delete(0, tk.END)
 
         if self.is_root_categories_mode():
-            for idx, it in enumerate(self.items):
+            for it in self.items:
                 label = it.get("name") or it.get("id") or "(empty)"
                 self.listbox.insert(tk.END, label)
-
-                if not category_description_has_link(it.get("description", "")):
-                    self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
             return
 
         duplicate_title_indexes = find_duplicate_title_indexes(self.items)
