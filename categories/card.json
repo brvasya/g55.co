@@ -1,6 +1,153 @@
 {
 "pages": [
 {
+"id": "05fb0c07c7aa46c180953dbc1913f47d",
+"title": "Spider Soli",
+"iframe": "https://html5.gamedistribution.com/05fb0c07c7aa46c180953dbc1913f47d/",
+"creator": "Agame",
+"description": "Arrange cards into spider-themed solitaire tableau using strategic moves to reveal hidden cards. Players carefully manage multiple overlapping stacks and foundation piles, aiming to clear the board by unlocking sequences in classic solitaire style. The web of card sequences demands tactical thinking and careful planning to complete each level.\n\nKey Features\n\n• Spider solitaire tableau setup  \n• Drag and drop card control  \n• Sequence unlocking challenge  \n• Multi-level card stack system  \n• Classic card suit arrangement"
+},
+{
+"id": "01e4280eaa514cf28606f04cfae41599",
+"title": "Spooky Tripeaks",
+"iframe": "https://html5.gamedistribution.com/01e4280eaa514cf28606f04cfae41599/",
+"creator": "bestphysics",
+"description": "Clear cards by creating sequences in this solitaire game that twists the classic tripeaks layout with spooky visual accents and eerie backgrounds. Players arrange cards in descending order by suit, aiming to uncover all hidden cards beneath gothic-themed peaks. The challenge lies in strategic planning and timely moves to clear levels before running out of draws, navigating progressively difficult card stacks.\n\nKey Features\n\n• descending card sequence mechanic  \n• clickable deck draw system  \n• tiered level difficulty scaling  \n• limited draw count challenge  \n• haunted gothic visual style"
+},
+{
+"id": "3481dea682d24480912abb69ffd215af",
+"title": "Wild West Freecell",
+"iframe": "https://html5.gamedistribution.com/3481dea682d24480912abb69ffd215af/",
+"creator": "bestphysics",
+"description": "Arrange cards strategically in this classic freecell solitaire variant set against a rugged western backdrop. Manipulate card stacks to free all cards into foundation piles, using limited free cells to temporarily hold cards and enable complex moves. The challenge grows as you manage a full deck with careful planning and sequence building through familiar suits and ranks.\n\nKey Features\n\n• Classic freecell card mechanics  \n• Drag and drop stack control  \n• Sequential card sorting challenge  \n• Unlimited undo move option  \n• Wild West thematic interface"
+},
+{
+"id": "87f0d42e3e724a3388a455bd04fe8575",
+"title": "Australian Patience",
+"iframe": "https://html5.gamedistribution.com/87f0d42e3e724a3388a455bd04fe8575/",
+"creator": "Novel Games Limited",
+"description": "Arrange cards using strategic stacking and selective reveals to clear tableau piles in this classic solitaire variant. Players rely on careful card movement across multiple columns to uncover hidden cards and build sequences. Success depends on methodical planning and managing limited available moves to expose all playable cards.\n\nKey Features\n\n• Multi-column card tableau layout  \n• Sequential card stacking mechanic  \n• Strategic card reveal system  \n• Limited move management challenge  \n• Traditional solitaire gameplay style"
+},
+{
+"id": "e7ed48f6f8be41fd98c35c5ccb8fece7",
+"title": "Algerijns Patience",
+"iframe": "https://html5.gamedistribution.com/e7ed48f6f8be41fd98c35c5ccb8fece7/",
+"creator": "Agame",
+"description": "Arrange cards into orderly stacks using meticulous sorting and matching mechanics to complete the solitaire layout in this calm card puzzle. The game challenges players with careful card sequencing and tableau management on a classic, understated playing area. Progress through hands by revealing hidden cards and building ascending suits to clear the board.\n\nKey Features\n\n• Sequential card sorting system  \n• Click-and-drag card control  \n• Hidden card reveal challenge  \n• Multi-deck gameplay variation  \n• Minimalist card table layout"
+},
+{
+"id": "c1337d45912e45b5be9666f08ba81963",
+"title": "Tripeaks Solitaire Escapes",
+"iframe": "https://html5.gamedistribution.com/c1337d45912e45b5be9666f08ba81963/",
+"creator": "Azerion Casual Games",
+"description": "Sort cards from the tableau to the foundation by uncovering cards in a pyramid layout using matching rank sequences in this elegant solitaire variation. Players clear all three peaks by strategizing around limited moves and a draw pile, balancing card sequences to reveal hidden cards. Progression revolves around completing levels with increasing complexity and limited resets.\n\nKey Features\n\n• Pyramid tableau card layout  \n• Sequential rank matching mechanic  \n• Limited draw pile controls  \n• Level-based clearing objectives  \n• Casual solitaire puzzle format"
+},
+{
+"id": "06df4062b392479f8a81a4376c5a1c90",
+"title": "Solitaire Story Tripeaks 6",
+"iframe": "https://html5.gamedistribution.com/06df4062b392479f8a81a4376c5a1c90/",
+"creator": "SOFTGAMES – Mobile Entertainment Services GmbH",
+"description": "Match cards by value to clear layered Tripeaks layouts using classic solitaire draw and stack mechanics. Players chain sequences of ascending or descending cards to uncover hidden cards beneath pyramid-style stacks. The challenge lies in strategic card selection to clear all peaks with limited draws, advancing through increasingly complex levels with time constraints. Casual players enjoy steady progression and visually distinct tableau areas.\n\nKey Features\n\n• Ascending-descending card sequencing  \n• Mouse-driven card selection controls  \n• Limited draw pile challenge  \n• Time-limited level progression  \n• Classic Tripeaks pyramid layout"
+},
+{
+"id": "5e0be72dc1d44e659adc627331797b2d",
+"title": "World Solitaire -Tripeaks-",
+"iframe": "https://html5.gamedistribution.com/5e0be72dc1d44e659adc627331797b2d/",
+"creator": "MOVISOFT.Co.,Ltd",
+"description": "Arrange cards in cascading Tripeaks layouts by selecting sequences that follow numerical order to clear all cards from the tableau. Players use a single-deck draw mechanic combined with strategic card sequencing to reveal hidden cards beneath pyramid peaks, aiming to complete each level efficiently. The game challenges players to uncover all layers in the solitaire-themed card arrangement while managing limited draws.\n\nKey Features\n\n• Tripeaks card sequence clearing  \n• Single-deck draw system  \n• Progressive pyramid level layouts  \n• Score-based level completion  \n• Classic solitaire card visuals"
+},
+{
+"id": "befee110a7de492797cbfab705641c03",
+"title": "Freecell Solitaire",
+"iframe": "https://html5.gamedistribution.com/befee110a7de492797cbfab705641c03/",
+"creator": "Code This Lab srl",
+"description": "Arrange cards into sequential stacks by suit using strategic moves on the tableau in this classic solitaire puzzle. Players reorganize face-up cards across eight columns to free hidden cards and build ascending sequences. The challenge lies in managing limited moves while uncovering all cards, relying on careful planning and an empty four-space foundation for temporary storage.\n\nKey Features\n\n• Sequential suit stacking mechanic  \n• Drag and drop card movement  \n• Limited empty cell strategic use  \n• Increasing difficulty with shuffled deals  \n• Classic playing card visual theme"
+},
+{
+"id": "619089f18f43405f93828b32bcfe2dc5",
+"title": "Best Classic Freecell Solitaire",
+"iframe": "https://html5.gamedistribution.com/619089f18f43405f93828b32bcfe2dc5/",
+"creator": "Agame",
+"description": "Arrange cards into foundation piles by suit using strategic sequence moves in this classic solitaire variation. Players sort through a shuffled deck by navigating tableau stacks, uncovering hidden cards, and organizing the columns to reveal all cards beneath. The challenge centers on efficient card repositioning and managing limited freecells to clear the board.\n\nKey Features\n\n• Card sorting with freecell storage  \n• Sequential tableau and foundation building  \n• Tactical use of limited free cells  \n• Incremental level difficulty progression  \n• Classic solitaire card theme"
+},
+{
+"id": "a2f3039f579746ce880fdb763953bcc2",
+"title": "Tripeaks Solitaire Holiday",
+"iframe": "https://html5.gamedistribution.com/a2f3039f579746ce880fdb763953bcc2/",
+"creator": "Azerion Casual Games",
+"description": "Match cards by selecting sequences that follow a descending rank order to clear layered card pyramids. This solitaire variation highlights strategic chain-building using a single draw pile and tableau layout shaped from three overlapping peaks. Players aim to clear all cards efficiently, navigating through timed moves and limited draw cycles for level completion.\n\nKey Features\n\n• Sequential card matching mechanic  \n• Click-based card selection controls  \n• Layered tri-peak tableau layout  \n• Draw pile with recycling limits  \n• Festive holiday card design"
+},
+{
+"id": "8e23927847a549db965003c82102e9f3",
+"title": "Autumn Solitaire Tripeaks",
+"iframe": "https://html5.gamedistribution.com/8e23927847a549db965003c82102e9f3/",
+"creator": "bestphysics",
+"description": "Stack cards by selecting those one rank higher or lower to clear each autumn-themed tripeak layout. Players carefully uncover hidden cards beneath leaf-covered piles, aiming to discard all cards within limited moves. The game blends classic solitaire mechanics with a seasonal forest setting, challenging players to master card sequencing and timing under increasing difficulty.\n\nKey Features\n\n• Sequential card stacking rule  \n• Click and drag card control  \n• Limited move challenge system  \n• Progressive level unlocks  \n• Autumn foliage visual theme"
+},
+{
+"id": "b8971d2eb3de4b778d0f8079b12c874f",
+"title": "Freecell Solitaire Blue",
+"iframe": "https://html5.gamedistribution.com/b8971d2eb3de4b778d0f8079b12c874f/",
+"creator": "SOFTGAMES – Mobile Entertainment Services GmbH",
+"description": "Arrange cards by suit into foundation piles using strategic moves in a classic card sorting puzzle. This version challenges players with a traditional Freecell layout emphasizing strategic planning and careful card management to clear the tableau. The game tests sorting skills and decision-making under subtle constraints while progressing through increasingly complex deals.\n\nKey Features\n\n• Freecell core card sorting  \n• Drag and drop card controls  \n• Increasing deal complexity  \n• Unlimited undo functionality  \n• Classic solitaire card theme"
+},
+{
+"id": "6ab92b4afb4444f4862d4ac3d353daaa",
+"title": "Tripeaks Solitaire",
+"iframe": "https://html5.gamedistribution.com/6ab92b4afb4444f4862d4ac3d353daaa/",
+"creator": "bestphysics",
+"description": "Stack cards by selecting cards one rank higher or lower in this solitaire variation where cards form three overlapping peaks. Players clear the tableau by carefully choosing sequences from a single waste pile, testing their pattern recognition and strategic planning. The game’s challenge builds as layers of cards reveal hidden sequences, creating a puzzle of timing and foresight.\n\nKey Features\n\n• Rank-based card sequencing  \n• Interactive tableau card selection  \n• Progressive peak clearing stages  \n• Undo and hint assistance system  \n• Classic card design interface"
+},
+{
+"id": "3d36eb6efdd04c548e70cea83708c874",
+"title": "Solitaire Story Tripeaks 2",
+"iframe": "https://html5.gamedistribution.com/3d36eb6efdd04c548e70cea83708c874/",
+"creator": "SOFTGAMES – Mobile Entertainment Services GmbH",
+"description": "Arrange cards in ascending or descending order using a single card to clear tableau stacks in this solitaire variant with Tripeaks layout. Players aim to reveal and remove all cards by linking sequences based on card rank differences, while managing limited moves and strategic deck draws. The game features layered card pyramids challenging players to plan ahead and uncover hidden cards efficiently.\n\nKey Features\n\n• Sequential card matching mechanic  \n• Click or tap card selection control  \n• Move-limited level progression  \n• Deck draw and discard system  \n• Classic Tripeaks pyramid layout"
+},
+{
+"id": "051d5e485bc54c1ba403150f271ee103",
+"title": "Freecell Solitaire",
+"iframe": "https://html5.gamedistribution.com/051d5e485bc54c1ba403150f271ee103/",
+"creator": "ConteZero",
+"description": "Sort cards by suit and rank to create ordered sequences on the tableau using classic Freecell mechanics. Players strategically move cards in single-card steps while balancing limited free cells to organize all cards into four foundation piles. The game’s layout challenges players to plan moves carefully and manage space efficiently for successful completion.\n\nKey Features\n\n• Single-card move strategy  \n• Limited free cell management  \n• Foundation pile organization  \n• Sequential tableau building  \n• Classic card sorting rules"
+},
+{
+"id": "344fff78cd674f62a549533551505ebb",
+"title": "Kings and Queens Solitaire Tripeaks",
+"iframe": "https://html5.gamedistribution.com/344fff78cd674f62a549533551505ebb/",
+"creator": "Clever Apps Pte. Ltd.",
+"description": "Arrange cards in strategic sequences using classic Tripeaks solitaire mechanics to clear the board efficiently. Players uncover layers of cards arranged in peaks, matching ranks by moving cards to a foundation pile. The medieval theme immerses players in a regal setting as they aim to complete levels with minimal moves and time. Levels increase in complexity with unique card layouts and limited redeals.\n\nKey Features\n\n• Tripeaks card matching sequences  \n• Click-and-drag card selection control  \n• Progressive level unlock system  \n• Time and move limited challenges  \n• Medieval royal tableau design"
+},
+{
+"id": "f556553455ee4295a8b7477335a72241",
+"title": "Solitaire Tripeaks",
+"iframe": "https://html5.gamedistribution.com/f556553455ee4295a8b7477335a72241/",
+"creator": "Yizhiyuan Network Technology Co., Ltd.",
+"description": "Match cards with sequential numbers to clear the board in this solitaire variant using a single deck and strategic peak uncovering. Players reveal hidden cards by removing visible sequences connected through ascending or descending order, advancing through multiple challenging layouts. The game tests card sequencing skill and puzzle planning within its triangular tableau setup.\n\nKey Features\n\n• Sequential card matching mechanic  \n• Deck cycling with limited moves  \n• Multiple peak layout challenges  \n• Timed scoring and bonus system  \n• Classic solitaire card design"
+},
+{
+"id": "3fdb47cfc6f54d13bebb9b1f29cc9775",
+"title": "Freecell solitaire!",
+"iframe": "https://html5.gamedistribution.com/3fdb47cfc6f54d13bebb9b1f29cc9775/",
+"creator": "Inlogic Software",
+"description": "Arrange cards by suit in ascending order using strategic stack rearrangement to clear a tableau of eight piles in this classic single-player solitaire variant. Players must carefully move cards between tableau columns and free cells to uncover hidden cards and build foundations from Ace to King, emphasizing tactical planning and memory. The challenge centers on managing limited free cells to avoid blocking moves and gradually progress through the deck.\n\nKey Features\n\n• Card stacking with free cell management  \n• Drag and drop tableau controls  \n• Incremental foundation building  \n• Limited move undo system  \n• Classic solitaire card theme"
+},
+{
+"id": "9ff7dcfb58974b72a0f4b3b0257594b7",
+"title": "Freecell Solitaire 2017",
+"iframe": "https://html5.gamedistribution.com/9ff7dcfb58974b72a0f4b3b0257594b7/",
+"creator": "Agame",
+"description": "Arrange cards in numerical order by suit to clear the tableau in this classic Freecell variant. Players manipulate individual cards using a limited number of freecells as temporary storage, applying strategic planning to uncover hidden cards. The challenge lies in carefully managing moves to transfer all cards into foundation piles, showcasing logical sequencing under constrained conditions.\n\nKey Features\n\n• Freecell card manipulation  \n• Strategic temporary card storage  \n• Logical foundation pile building  \n• Sequential numerical ordering  \n• Classic solitaire layout design"
+},
+{
+"id": "476bcd303f904f68ba3a47c746cc7324",
+"title": "Christmas Freecell Solitaire",
+"iframe": "https://html5.gamedistribution.com/476bcd303f904f68ba3a47c746cc7324/",
+"creator": "WillingGames.com",
+"description": "Arrange cards strategically using classic Freecell rules in a winter-themed solitaire setting where clearing all suits is the main goal. Players manipulate individual cards across tableau piles with open freecells enabling careful planning and sequence building. The festive visuals complement deliberate card movement as you aim to solve each hand efficiently.\n\nKey Features\n\n• Freecell card manipulation mechanic  \n• Drag and drop card controls  \n• Increasing puzzle difficulty levels  \n• Undo move option for precision  \n• Holiday-themed solitaire layout"
+},
+{
 "id": "a1d9fd98f95e41cf9763b27c02dae26a",
 "title": "Zombie Card Games : Matching Card",
 "iframe": "https://html5.gamedistribution.com/a1d9fd98f95e41cf9763b27c02dae26a/",

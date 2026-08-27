@@ -1,6 +1,909 @@
 {
 "pages": [
 {
+"id": "7327ac4f2c334b13bf34266719d986fb",
+"title": "2048 Ballz",
+"iframe": "https://html5.gamedistribution.com/7327ac4f2c334b13bf34266719d986fb/",
+"creator": "VarCo",
+"description": "Slide numbered balls strategically to merge them and clear levels with limited shots. Players combine physics-based bouncing mechanics to advance through increasingly complex brick patterns, aiming to break all bricks before running out of balls. Each round tests timing and precision as brick durability rises.\n\nKey Features\n\n• Ball trajectory merging system  \n• Tap and drag ball launch control  \n• Progressive brick durability levels  \n• Unlockable ball upgrade paths  \n• Physics-based brick breaking patterns"
+},
+{
+"id": "2e036249566f48c19b2ab3582e860893",
+"title": "Breakout Pixel",
+"iframe": "https://html5.gamedistribution.com/2e036249566f48c19b2ab3582e860893/",
+"creator": "Playtouch",
+"description": "Bounce a pixelated ball against colorful bricks to clear levels, combining precise paddle control with angle prediction. Each stage challenges players to break barriers with varied block arrangements and limited lives. Timing the rebound and managing power-ups shape your path through this retro arcade experience designed for casual players and younger audiences.\n\nKey Features\n\n• Paddle ball rebound mechanics  \n• Responsive horizontal paddle control  \n• Progressive brick layout difficulty  \n• Limited life and restart system  \n• Retro pixel art style"
+},
+{
+"id": "1589d27d5d844fc2a5a69a4f5f11a951",
+"title": "Hop Ballz 3D",
+"iframe": "https://html5.gamedistribution.com/1589d27d5d844fc2a5a69a4f5f11a951/",
+"creator": "kiz10.com",
+"description": "Leap across colorful platforms controlling a bouncing ball through vibrant 3D environments while avoiding obstacles and gaps. Players must time jumps precisely on curved surfaces and moving platforms to reach higher levels and unlock new challenges. The gameplay revolves around momentum-based hopping combined with level progression that tests reflexes and spatial awareness.\n\nKey Features\n\n• Momentum-driven ball physics  \n• Precision timing jump controls  \n• Progressive level difficulty scaling  \n• Moving platform obstacle mechanics  \n• Colorful 3D platform environments"
+},
+{
+"id": "314aadedc15f414695db2520413a1731",
+"title": "Zuma Boom",
+"iframe": "https://html5.gamedistribution.com/314aadedc15f414695db2520413a1731/",
+"creator": "IriySoft",
+"description": "Launch colored balls along twisting paths to create matching chains that clear the board in this marble shooter puzzle. Players rely on precise aiming and timing as they navigate winding tracks filled with various colored spheres. The challenge revolves around preventing the advancing chain from reaching the exit by quickly forming combos and activating power-ups.\n\nKey Features\n\n• Color matching marble shooting  \n• Precision aiming control system  \n• Progressive winding track levels  \n• Combo chain reaction mechanics  \n• Jungle adventure background theme"
+},
+{
+"id": "8ac54105ff1046e7a0fdc3249d8ea64e",
+"title": "EG Zuma Blast",
+"iframe": "https://html5.gamedistribution.com/8ac54105ff1046e7a0fdc3249d8ea64e/",
+"creator": "EcapsGames.com",
+"description": "Launch colorful spheres to clear clustered chains in a fast-paced bubble-shooting challenge. Players aim to match three or more balls of the same color using precise aiming and quick reactions to prevent the advancing spheres from reaching the endpoint. The game features progressively difficult levels with varying sphere speeds and formations that require strategic targeting for optimal clearing.\n\nKey Features\n\n• Precision aiming mechanic  \n• Color matching chain clearing  \n• Increasing level difficulty  \n• Time-based scoring challenge  \n• Vibrant arcade sphere design"
+},
+{
+"id": "685ccaa7326c42be8aa2076801e82acd",
+"title": "Marble Blast",
+"iframe": "https://html5.gamedistribution.com/685ccaa7326c42be8aa2076801e82acd/",
+"creator": "Albayoo",
+"description": "Navigate intricate obstacle courses by controlling a rolling marble in this physics-based puzzle platformer. Players manipulate momentum and timing to overcome environmental hazards and reach the exit of each level. Precision movement and strategic use of ramps and jumps form the core challenge, progressing through increasingly complex stages that test coordination and reflexes.\n\nKey Features\n\n• Momentum-driven marble control  \n• Environmental hazard evasion  \n• Precision timing challenges  \n• Multi-level obstacle courses  \n• Physics-based puzzle mechanics"
+},
+{
+"id": "54c0012499194a2a8417409422158d0a",
+"title": "Marble Bubble Legend",
+"iframe": "https://html5.gamedistribution.com/54c0012499194a2a8417409422158d0a/",
+"creator": "GameBerry Studio",
+"description": "Shoot colorful bubbles using precise aiming to clear clusters and prevent the chain from reaching the screen’s base. This match-and-pop puzzle plays out on a vibrant arcade board where players strategically link marbles by color to progress through increasingly complex patterns. Timing shots and managing limited bubble types shape the core challenge of each stage.\n\nKey Features\n\n• Precision aiming bubble shooter  \n• Color matching cluster clearing  \n• Progressive level difficulty spikes  \n• Limited bubble types management  \n• Arcade-style marble visuals"
+},
+{
+"id": "761d76dfd32849aab1ae7e1d6a482cce",
+"title": "Billion Marble",
+"iframe": "https://html5.gamedistribution.com/761d76dfd32849aab1ae7e1d6a482cce/",
+"creator": "BUSIDOL",
+"description": "Navigate endless patterns as you shoot marbles to match colors and clear clustered orbs in this addictive puzzle challenge. The core mechanic revolves around aiming precision and color matching to prevent the marbles from reaching the end of the path. Progress through increasingly complex winding tracks that test your timing and strategic shots.\n\nKey Features\n\n• Precision marble shooting controls  \n• Color matching chain reactions  \n• Progressive winding path levels  \n• Increasing speed challenge system  \n• Vibrant orb cluster visuals"
+},
+{
+"id": "26d4d51848cf42d8b335581e59b4b083",
+"title": "Marbles Garden",
+"iframe": "https://html5.gamedistribution.com/26d4d51848cf42d8b335581e59b4b083/",
+"creator": "SBC Games",
+"description": "Navigate intricate pathways by firing marbles strategically to clear clusters and unlock new levels. This puzzle shooter features color-matching mechanics where players must aim and time shots to prevent the marble queue from reaching the exit point. Progressing through increasingly complex garden-themed stages tests precision and planning under pressure.\n\nKey Features\n\n• Color-matching marble shooting  \n• Aim and timing precision controls  \n• Increasingly challenging level layouts  \n• Time-sensitive cluster clearing  \n• Garden-inspired puzzle environments"
+},
+{
+"id": "ae8d1fc189494c8f9bea849d535fb657",
+"title": "Bubble Marble",
+"iframe": "https://html5.gamedistribution.com/ae8d1fc189494c8f9bea849d535fb657/",
+"creator": "RedFoc",
+"description": "Launch precision shots to clear clusters of colorful bubbles by matching three or more of the same hue in this vivid puzzle challenge. Players manipulate an aiming cursor to control the trajectory and speed of each marble, progressing through increasingly intricate levels with new bubble formations. The arcade setting adds a classic charm while requiring sharp spatial reasoning to complete puzzles efficiently.\n\nKey Features\n\n• Precision aiming cursor control  \n• Cluster matching bubble mechanic  \n• Level progression with added complexity  \n• Time-based scoring system  \n• Classic arcade puzzle environment"
+},
+{
+"id": "ef5f6ed813cc4fda8896797ffea8029a",
+"title": "Marble Blast",
+"iframe": "https://html5.gamedistribution.com/ef5f6ed813cc4fda8896797ffea8029a/",
+"creator": "Webgameapp",
+"description": "Navigate dynamic obstacle courses with precise rolling control to guide a marble to its target in this physics-driven puzzle platformer. Players manipulate momentum and timing to overcome moving platforms and traps while collecting items for higher scores. Each level ramps up complexity with new challenges and environmental hazards to master.\n\nKey Features\n\n• Momentum-based marble control  \n• Timing-focused obstacle navigation  \n• Progressive difficulty levels  \n• Item collection scoring system  \n• Physics-influenced platform hazards"
+},
+{
+"id": "f197078cca5e419799f5bd6132911061",
+"title": "Marble Blast",
+"iframe": "https://html5.gamedistribution.com/f197078cca5e419799f5bd6132911061/",
+"creator": "Arwin Margallo",
+"description": "Navigate a rolling marble through intricate obstacle courses using precise timing and momentum control. The game challenges players to master physics-based marble movement while racing against time to reach the finish line. Levels increase in complexity with varied terrain and environmental hazards demanding steady focus and skillful maneuvering.\n\nKey Features\n\n• Physics-based marble rolling  \n• Momentum and timing control  \n• Progressive obstacle course design  \n• Time trial scoring system  \n• Vibrant platform-themed levels"
+},
+{
+"id": "b64c9ff2281d4c4c8a5c8c0c9e2da004",
+"title": "Ping Pong Air",
+"iframe": "https://html5.gamedistribution.com/b64c9ff2281d4c4c8a5c8c0c9e2da004/",
+"creator": "GamePush",
+"description": "Bounce a lightweight ball across an air-powered table by controlling paddles with precise timing and quick reflexes. Players aim to outscore their opponent in fast-paced rallies where adjusting shot angles and speeds is crucial. The game features smooth paddle movement and arcade-style physics focused on accuracy and reaction within a vibrant, minimalistic setting.\n\nKey Features\n\n• Paddle control with angular shots  \n• Speed-based rally scoring system  \n• Reflex-driven gameplay mechanics  \n• Two-player competitive mode  \n• Air hockey inspired table physics"
+},
+{
+"id": "02ca8022d7c34d079271f088f50e5265",
+"title": "Money ping pong",
+"iframe": "https://html5.gamedistribution.com/02ca8022d7c34d079271f088f50e5265/",
+"creator": "MemorySharp",
+"description": "Bounce a limited number of balls back and forth across a simple paddle interface, testing reflexes and timing with each successful hit. The gameplay centers on precise paddle movement to keep the ball from falling off, with increasing speed and tricky angles adding challenge as rounds advance. Players aim to maintain an unbroken streak to rack up points and unlock new difficulty stages.\n\nKey Features\n\n• Paddle control mechanics  \n• Ball trajectory and speed variation  \n• Streak-based scoring system  \n• Progressive difficulty levels  \n• Casual arcade style presentation"
+},
+{
+"id": "d141c8adb6ae44c0992201d73ce4810e",
+"title": "Strike Breakout",
+"iframe": "https://html5.gamedistribution.com/d141c8adb6ae44c0992201d73ce4810e/",
+"creator": "Instant Games Studio",
+"description": "Hit bricks with a bouncing ball to clear fast-paced levels and avoid losing your paddle. Players control a paddle along the bottom edge to deflect the ball, aiming to break all targets across multiple stages. Precise timing and positioning challenge reflexes while power-ups and obstacles add variety to this classic arcade-inspired breakout gameplay.\n\nKey Features\n\n• Paddle ball deflection control  \n• Progressive brick clearing levels  \n• Power-up and obstacle mechanics  \n• Increasing ball speed challenge  \n• Retro arcade brick-breaking style"
+},
+{
+"id": "7a673308bc3b4585b9f70436462c2051",
+"title": "Retro Ping Pong",
+"iframe": "https://html5.gamedistribution.com/7a673308bc3b4585b9f70436462c2051/",
+"creator": "CoolMath Games",
+"description": "Bounce a pixel-perfect paddle to volley a fast-paced ball across a minimalist retro court, relying on precise timing and angle control. Players compete by scoring points through skilled ball placement and deflection in a classic table tennis setup. Matches increase in pace, challenging reflexes and strategic shot anticipation in single or multiplayer modes.\n\nKey Features\n\n• Paddle angle and speed control  \n• Classic table tennis scoring system  \n• Increasing ball velocity progression  \n• Local multiplayer duel mode  \n• Pixel art retro sports theme"
+},
+{
+"id": "9086b243ff06425d9f9f0ba9044b9ea0",
+"title": "Breakout Champion",
+"iframe": "https://html5.gamedistribution.com/9086b243ff06425d9f9f0ba9044b9ea0/",
+"creator": "Lof Games",
+"description": "Smash bricks with a paddle to clear increasingly complex wall patterns in this classic arcade revival. Players control a bouncing ball that breaks through multi-layered blocks using precise angle shots. As levels progress, unique block types and power-ups alter the challenge, requiring strategic repositioning and timing to master each stage.\n\nKey Features\n\n• Paddle and ball control mechanics  \n• Layered block destruction system  \n• Incremental level difficulty scaling  \n• Power-up activation and management  \n• Classic arcade visual style"
+},
+{
+"id": "ac92250c41c943ea964a02161daa2111",
+"title": "Zoo Pong",
+"iframe": "https://html5.gamedistribution.com/ac92250c41c943ea964a02161daa2111/",
+"creator": "Go Game Pte Ltd",
+"description": "Bounce a dynamic ball across animal-themed paddles in a vibrant arcade setting, aiming to outscore opponents with precise timing and positioning. Players control paddle movement to deflect the ball and keep it in play, navigating increasing speed and unpredictable rebounds. Score targets and multiplayer modes add challenge and replay value in the colorful zoo environment.\n\nKey Features\n\n• Paddle control with smooth responsiveness  \n• Ball physics with progressive speed increases  \n• Score attack and multiplayer modes  \n• Dynamic rebound angles based on paddle hits  \n• Animal-themed visual and sound design"
+},
+{
+"id": "79e560aaa53c4c9ca01833a239708e82",
+"title": "Cup Pong Challenge",
+"iframe": "https://html5.gamedistribution.com/79e560aaa53c4c9ca01833a239708e82/",
+"creator": "MarketJS",
+"description": "Aim and toss balls across arranged cups to clear levels in this precision-based arcade challenge. Players use gesture-based controls to adjust angle and power, navigating unique cup formations that increase difficulty at each stage. The core mechanic revolves around timing shots to land in targets, requiring steady aim and quick adjustments. Progress unlocks new layouts with varying cup sizes and placements.\n\nKey Features\n\n• Gesture-driven aiming system  \n• Increasing cup layout complexity  \n• Timing-based shot precision  \n• Level unlock progression  \n• Casual arcade cup setup"
+},
+{
+"id": "8f006852782547a7b8dbf392f7883e9e",
+"title": "Atari Breakout",
+"iframe": "https://html5.gamedistribution.com/8f006852782547a7b8dbf392f7883e9e/",
+"creator": "Atari",
+"description": "Bounce a paddle to deflect a ball against layers of colorful bricks, breaking them one by one using precise aim and timing. Players control the horizontal movement of the paddle to prevent the ball from falling off the screen while clearing all brick formations. This classic arcade setup challenges reflexes and spatial judgment as each level presents increasingly complex brick arrangements.\n\nKey Features\n\n• Paddle ball deflection mechanic  \n• Horizontal player control scheme  \n• Progressive brick layout difficulty  \n• Single ball physics interaction  \n• Classic arcade brick-breaking theme"
+},
+{
+"id": "94777e00fcc04188b0c8304c020ae3e5",
+"title": "Atari Pong",
+"iframe": "https://html5.gamedistribution.com/94777e00fcc04188b0c8304c020ae3e5/",
+"creator": "Atari",
+"description": "Bounce a pixelated ball back and forth using precision paddle control in this classic arcade challenge. Players focus on timing and angle adjustments to outscore opponents in the minimalist black and white court setting. The game’s core mechanic revolves around simple two-dimensional racket movement and ball reflection, testing reflexes and anticipating trajectories.\n\nKey Features\n\n• Paddle movement mechanics  \n• Ball collision angle control  \n• Competitive scoring system  \n• Increasing ball speed challenge  \n• Retro arcade visual style"
+},
+{
+"id": "dcf28170ec5940f2b0e3f4a12ac179c9",
+"title": "Ping Pong",
+"iframe": "https://html5.gamedistribution.com/dcf28170ec5940f2b0e3f4a12ac179c9/",
+"creator": "MarketJS",
+"description": "Bounce a lightweight ball back and forth using precise paddle control to outscore your opponent in fast-paced matches. The core mechanic revolves around timing and angle adjustments to send the ball past defenses. Players face increasing difficulty through faster ball speeds and challenging rally sequences. Scoring systems track progress in casual ping pong showdowns.\n\nKey Features\n\n• Precision paddle angle control  \n• Ball speed variation mechanics  \n• Opponent AI difficulty scaling  \n• Rally scoring system  \n• Classic table tennis setting"
+},
+{
+"id": "506e3426657f41f7a7f1d3c79b98e86f",
+"title": "Pong With Emoji",
+"iframe": "https://html5.gamedistribution.com/506e3426657f41f7a7f1d3c79b98e86f/",
+"creator": "FTG",
+"description": "Bounce custom emoji paddles to outscore opponents in this minimalist take on classic Pong gameplay. Players control emoji-themed paddles to deflect a fast-moving ball across a simple arena, aiming to reach a target score before the rival can respond. Timing and paddle positioning are essential to maintain momentum and secure victory on the emoji court.\n\nKey Features\n\n• Emoji paddle collision physics  \n• Precision paddle control inputs  \n• Incremental scoring target challenge  \n• One-on-one match progression  \n• Minimalist emoji arena design"
+},
+{
+"id": "577e4e49c51f4dcb9803001973dfd209",
+"title": "Pong Neon",
+"iframe": "https://html5.gamedistribution.com/577e4e49c51f4dcb9803001973dfd209/",
+"creator": "playfreeonline.games",
+"description": "Bounce a glowing puck back and forth using paddles controlled by precise vertical movement in a vibrant neon-lit arena. Players aim to outscore their opponent by predicting ball trajectories and adjusting paddle timing, mastering a rhythm-based mechanic. The challenge increases as speed and ball spin intensify, testing reflexes in single-player or local multiplayer matches.\n\nKey Features\n\n• Paddle control with vertical movement  \n• Momentum-based ball physics  \n• Progressive speed and spin increase  \n• Competitive single or multiplayer modes  \n• Neon retro arcade visual style"
+},
+{
+"id": "8414d8517b304c9d9a595b16f81c7b2a",
+"title": "Emoji Pong",
+"iframe": "https://html5.gamedistribution.com/8414d8517b304c9d9a595b16f81c7b2a/",
+"creator": "Jam Game Studio",
+"description": "Bounce an emoji-characterized ball across a pixelated arena using precise paddle control to outmaneuver opponents. The core mechanic revolves around rhythmic paddle movement and fast reflexes to keep the ball in play, with varied emoji-themed obstacles adding complexity. Players aim to score points by landing shots past defenders in timed rounds.\n\nKey Features\n\n• Paddle-based ball control  \n• Reflex-driven movement system  \n• Timed scoring rounds  \n• Emoji obstacle interactions  \n• Progressive difficulty levels"
+},
+{
+"id": "33441bb358b44712b0af916da10b4868",
+"title": "UFO Arkanoid Deluxe",
+"iframe": "https://html5.gamedistribution.com/33441bb358b44712b0af916da10b4868/",
+"creator": "Lof Games",
+"description": "Launch a paddle to deflect a UFO-themed ball and break intricate brick patterns while maneuvering around shifting barriers. The game twists classic brick-breaking with alien visuals and introduces gravity-altered ball physics, requiring precise timing and trajectory control. Players aim to clear levels by hitting all bricks while adapting to unpredictable ball movement in an extraterrestrial setting.\n\nKey Features\n\n• Gravity-influenced ball physics  \n• Responsive paddle movement controls  \n• Increasingly complex brick formations  \n• Score multiplier based on consecutive hits  \n• Sci-fi visual and sound effects"
+},
+{
+"id": "bdd9168a149540b9a8ccc0544a5b131b",
+"title": "Modern Pong",
+"iframe": "https://html5.gamedistribution.com/bdd9168a149540b9a8ccc0544a5b131b/",
+"creator": "pogames.in",
+"description": "Control a futuristic paddle to deflect a high-speed energy ball across a sleek digital arena, relying on precise timing and angle manipulation to outscore your opponent. The gameplay combines classic table tennis mechanics with a glowing neon aesthetic, challenging players to maintain streaks and adapt to increasing ball velocity in each round’s timed matches.\n\nKey Features\n\n• Paddle angle control physics  \n• Reactive energy ball trajectory  \n• Streak-based scoring system  \n• Progressive speed increase rounds  \n• Neon-lit futuristic arena setting"
+},
+{
+"id": "8497d9424dae43a791da963eeb44a6c4",
+"title": "Breakout Game",
+"iframe": "https://html5.gamedistribution.com/8497d9424dae43a791da963eeb44a6c4/",
+"creator": "Digi Smile limited",
+"description": "Bounce a ball off a paddle to break rows of colored bricks, using precise timing and angle control to clear levels. This classic arcade challenge revolves around deflecting the ball strategically to remove all blocks while managing increasing ball speed and tricky brick arrangements. Progress unfolds through progressively complex brick patterns demanding careful paddle positioning and reflexes.\n\nKey Features\n\n• Paddle and ball physics  \n• Angle-based ball deflection  \n• Progressive brick patterns  \n• Incremental ball speed increase  \n• Classic arcade style visuals"
+},
+{
+"id": "fbd384574dec49339d0da1fd6cb9cb9d",
+"title": "Crazy Pong 2",
+"iframe": "https://html5.gamedistribution.com/fbd384574dec49339d0da1fd6cb9cb9d/",
+"creator": "DarknesGamesStudio",
+"description": "Bounce a high-speed ball across a pixelated court using precise paddle control to outmaneuver tricky opponents. The gameplay focuses on fast reflexes and angle shots to keep the rally alive. Each round increases in pace, challenging players to sustain their focus and rack up points in chaotic matches. The simple arcade style blends retro visuals with unpredictable ball physics.\n\nKey Features\n\n• Paddle angle shot control  \n• Progressive rally speed escalation  \n• Multiplayer competitive rounds  \n• Score streak multiplier system  \n• Retro pixel art environment"
+},
+{
+"id": "f9fd5940e65f485e81e6f77e359bbb85",
+"title": "Pong",
+"iframe": "https://html5.gamedistribution.com/f9fd5940e65f485e81e6f77e359bbb85/",
+"creator": "Nela´s games",
+"description": "Bounce a pixelated ball back and forth using vertical paddle controls in a minimalist retro setting. The gameplay centers on precise timing and angle manipulation to outscore an opponent by forcing missed returns. Players must react quickly to the ball’s speed variations while managing simple AI or local multiplayer competition for increasing scoring dominance.\n\nKey Features\n\n• Paddle control mechanics  \n• Ball trajectory angle manipulation  \n• AI difficulty scaling  \n• Local two-player mode  \n• Classic arcade visual style"
+},
+{
+"id": "36247a4b8bd8459eb07f6150097ebe47",
+"title": "Ping Pong Goal",
+"iframe": "https://html5.gamedistribution.com/36247a4b8bd8459eb07f6150097ebe47/",
+"creator": "Black Sheep Games",
+"description": "Bounce the ball using precise paddle movements to outscore your opponent in fast-paced matches. Players control an agile paddle with nuanced timing to send a spinning ball across a retro table setting. The main challenge lies in predicting ball trajectories and responding quickly to each volley, sharpening reflexes through escalating rounds.\n\nKey Features\n\n• Paddle control with spin mechanics  \n• Timed ball return challenges  \n• Competitive scoring system  \n• Sequential match progression  \n• Classic arcade table design"
+},
+{
+"id": "b1dead224d244482811c63eee9be0795",
+"title": "Crazy Pong",
+"iframe": "https://html5.gamedistribution.com/b1dead224d244482811c63eee9be0795/",
+"creator": "DarknesGamesStudio",
+"description": "Bounce the ball strategically across unpredictable paddles in this fast-paced browser challenge that relies on sharp timing and dynamic trajectory control. Players must react quickly to shifting angles and speed variations to outplay the AI paddle and rack up points. The arcade setup tests reflexes and precision over escalating rounds with increasingly complex bounce patterns.\n\nKey Features\n\n• Precision paddle angle control  \n• Progressive ball speed increase  \n• AI opponent difficulty scaling  \n• Round based score tracking  \n• Classic arcade table setting"
+},
+{
+"id": "e092589c7dbb4a829d54022f08aa4e8f",
+"title": "Funny Pong",
+"iframe": "https://html5.gamedistribution.com/e092589c7dbb4a829d54022f08aa4e8f/",
+"creator": "Vi Games",
+"description": "Bounce a pixelated ball using paddle controls to outscore your opponent in a classic Pong-inspired challenge. Timing and angle adjustments form the core mechanic as you compete in fast-paced matches that escalate in speed to test reflexes and precision. Play solo against AI or face off in two-player mode for local competitive fun.\n\nKey Features\n\n• Paddle movement controls  \n• Ball trajectory physics  \n• Increasing speed difficulty  \n• Two-player local mode  \n• Retro arcade visual style"
+},
+{
+"id": "545354d45efa478999c8991fc4bcab75",
+"title": "EG Emoji Pong",
+"iframe": "https://html5.gamedistribution.com/545354d45efa478999c8991fc4bcab75/",
+"creator": "EcapsGames.com",
+"description": "Bounce and aim a vibrant emoji ball across a compact arena using paddle controls, testing reflexes as the pace tightens. Players manipulate the trajectory of colorful emoji projectiles to outscore opponents in fast matches with basic physics-based paddle movement. The game challenges timing and precision to keep the ball in play and reach winning point targets under casual tournament rules.\n\nKey Features\n\n• Paddle control mechanics  \n• Emoji projectile trajectory  \n• Increasing match speed intensity  \n• Point-based scoring system  \n• Colorful emoticon visual style"
+},
+{
+"id": "b2e79e36033244878b6d84ca7ee2f7c7",
+"title": "Ultimate Pong",
+"iframe": "https://html5.gamedistribution.com/b2e79e36033244878b6d84ca7ee2f7c7/",
+"creator": "MarketJS",
+"description": "Bounce a pixel-perfect paddle to deflect a fast-moving ball and outscore your opponent in this classic arcade challenge. Players use precise paddle control to keep the ball in play while anticipating ricochets in an updated single-player mode with timed rounds. The minimalist court setup emphasizes reflexes and positioning to dominate each match quickly.\n\nKey Features\n\n• Paddle motion input system  \n• Ball trajectory prediction  \n• Progressive difficulty spikes  \n• Time-limited gameplay rounds  \n• Minimalist retro arcade style"
+},
+{
+"id": "4eb59fff4efb4ceeb911986e32c95747",
+"title": "Emoji Pong",
+"iframe": "https://html5.gamedistribution.com/4eb59fff4efb4ceeb911986e32c95747/",
+"creator": "KidsGames4All",
+"description": "Bounce a paddle-controlled emoji across the screen to hit a moving ball and outscore an opponent in fast-paced matches. The core mechanic relies on timing and subtle paddle positioning as the ball’s speed and angle vary with each hit. Players must anticipate rebounds to dominate the arena and climb the scoreboard in this casual arcade challenge.\n\nKey Features\n\n• Paddle timing and positioning  \n• Dynamic ball speed variation  \n• Competitive scoring system  \n• Responsive control inputs  \n• Emoji-themed visual style"
+},
+{
+"id": "18e0248ce8354ac0bc560052230d9bb1",
+"title": "PvP Pong Challenge",
+"iframe": "https://html5.gamedistribution.com/18e0248ce8354ac0bc560052230d9bb1/",
+"creator": "Vi Games",
+"description": "Control a bouncing paddle to outscore your opponent in fast-paced competitive matches. The game centers on precise timing and angle control as you send the ball ricocheting across the screen, aiming to break through defenses. Face off in increasingly challenging rounds that test reflexes and strategy, perfect for quick sessions with friends or casual players.\n\nKey Features\n\n• Paddle deflection angle control  \n• Fast-paced scoring rounds  \n• Multiplayer PvP matches  \n• Progressive difficulty levels  \n• Minimalist arcade visual style"
+},
+{
+"id": "752eceb5397d47589692ea52b103b6db",
+"title": "Mr Pong",
+"iframe": "https://html5.gamedistribution.com/752eceb5397d47589692ea52b103b6db/",
+"creator": "T",
+"description": "Control bouncing balls with precise paddle timing to hit targets and avoid losing points in this retro-style arcade challenge. Players adapt to variable ball speeds and angles while aiming to clear progressively difficult levels for higher scores. The simplistic setting focuses on reflex-based goal scoring, making it accessible for casual players and younger audiences.\n\nKey Features\n\n• Paddle movement timing control  \n• Variable ball speed angles  \n• Progressive level difficulty scaling  \n• Score-based clearance system  \n• Classic arcade pong aesthetic"
+},
+{
+"id": "e7b7288b6e87471c957e5ac0faaf9f7d",
+"title": "Dots Pong",
+"iframe": "https://html5.gamedistribution.com/e7b7288b6e87471c957e5ac0faaf9f7d/",
+"creator": "T",
+"description": "Control bouncing dots to score points by deflecting them with paddles in a precise timing challenge. The gameplay revolves around managing dot trajectories in a minimalistic arena, requiring sharp reflexes and positioning to outscore opponents or reach target scores. Players face increasing speeds and unpredictable bounces, testing their coordination and focus.\n\nKey Features\n\n• Paddle controlled ball deflection  \n• Timed precision and trajectory control  \n• Increasing speed challenge levels  \n• Multiplayer scoring competition mode  \n• Minimalist dot and arena design"
+},
+{
+"id": "519e6ff0963a48d7ba558fd6615aaed6",
+"title": "Shot Pong",
+"iframe": "https://html5.gamedistribution.com/519e6ff0963a48d7ba558fd6615aaed6/",
+"creator": "T",
+"description": "Launch fast-paced ball shots using precise paddle control to hit targets and outscore opponents in this minimalist arcade challenge. Players rely on timing and angle adjustments for each bounce, progressing through increasingly tricky levels that test aim and reaction. Its simple setup centers on mastering shot placement in a classic pong-inspired arena designed for casual challenge.\n\nKey Features\n\n• Angle-based ball shooting  \n• Paddle movement precision  \n• Level difficulty escalation  \n• Time-limited scoring rounds  \n• Retro arcade visual style"
+},
+{
+"id": "a2cf0e00d315406da07e37fb7ec04153",
+"title": "Arkanoid For Painters",
+"iframe": "https://html5.gamedistribution.com/a2cf0e00d315406da07e37fb7ec04153/",
+"creator": "Paradine",
+"description": "Bounce a ball to break colorful bricks across dynamic paddle levels in this arcade twist, where precision aiming and brick patterns define progression. Players control a paddle that moves horizontally to direct the bouncing ball, aiming to clear each stage's unique arrangement. The challenge grows as brick durability increases and layout complexity shifts, requiring quick reflexes and strategic rebounds.\n\nKey Features\n\n• Paddle control with horizontal movement  \n• Multi-hit brick destruction  \n• Progressive level design complexity  \n• Ball trajectory angle manipulation  \n• Colorful brick pattern stages"
+},
+{
+"id": "415161d75b6c432cb0bfba0e37106f27",
+"title": "Pong vs Bumpers",
+"iframe": "https://html5.gamedistribution.com/415161d75b6c432cb0bfba0e37106f27/",
+"creator": "ESERGAMES",
+"description": "Navigate a bouncing ball using reactive paddles to outmaneuver circular bumpers while maintaining control through precise timing and angle manipulation. The gameplay revolves around skillful deflections, with shifting bumper patterns presenting an evolving obstacle course. Players aim to sustain rallies and surpass high score thresholds in this simple yet engaging paddle challenge.\n\nKey Features\n\n• Paddle control with angular deflection  \n• Dynamic bumper movement patterns  \n• Precision timing mechanics  \n• Increasing difficulty stages  \n• Minimalist arcade visual style"
+},
+{
+"id": "a4c67fbbc9bb4d70a26a85a91e5d12cc",
+"title": "Neon Pong",
+"iframe": "https://html5.gamedistribution.com/a4c67fbbc9bb4d70a26a85a91e5d12cc/",
+"creator": "Code This Lab srl",
+"description": "Bounce a glowing neon paddle to strike a vibrant ball back and forth in a dynamic arena, testing your reflexes and timing with precise paddle control. The gameplay revolves around classic pong mechanics amplified by colorful visuals and increasing ball speeds that challenge your coordination. Players aim to outscore opponents by maintaining rallies and adapting to faster ball trajectories in a futuristic neon setting.\n\nKey Features\n\n• Paddle movement precision  \n• Fast-paced ball physics  \n• Progressive speed increase  \n• Competitive scoring system  \n• Neon-lit arena visuals"
+},
+{
+"id": "fe85fc7fbe2e4f9987dbca6f262c0ff5",
+"title": "Splish Drago Pong",
+"iframe": "https://html5.gamedistribution.com/fe85fc7fbe2e4f9987dbca6f262c0ff5/",
+"creator": "Agame",
+"description": "Bounce the ball using a paddle to control its direction and score points against opponents in a vibrant pong-style match. The game blends classic paddle mechanics with colorful, dynamic water splash effects that add a fresh twist to each rally. Players aim to outmaneuver rivals by predicting ball trajectories while adapting to fluid physics for every hit.\n\nKey Features\n\n• Precision paddle control system  \n• Dynamic ball trajectory physics  \n• Progressive difficulty levels  \n• Multiplayer scoring mechanics  \n• Water splash visual effects"
+},
+{
+"id": "050bbd32798f4863a7b9574772598305",
+"title": "ThumbPinball",
+"iframe": "https://html5.gamedistribution.com/050bbd32798f4863a7b9574772598305/",
+"creator": "Digital Will Inc.",
+"description": "Flip and launch virtual pins to score combos in a fast-paced arcade setting where precision timing drives the action. Players manipulate a dynamic pinball table featuring responsive bumpers and multipliers to advance through increasingly difficult scoring challenges. Strategic ball control and skillful use of flippers shape each round’s outcome, rewarding quick reflexes and accuracy.\n\nKey Features\n\n• Precision timing ball control  \n• Combo scoring system  \n• Progressive difficulty levels  \n• Responsive flipper mechanics  \n• Classic arcade pinball theme"
+},
+{
+"id": "1744f11732ab47ddabb35a6a16e214da",
+"title": "Pinball Brick Mania",
+"iframe": "https://html5.gamedistribution.com/1744f11732ab47ddabb35a6a16e214da/",
+"creator": "Inlogic Software",
+"description": "Launch the ball using flippers to break colorful brick formations arranged in dynamic levels. This pinball-inspired puzzle mix hinges on precise timing and trajectory control to clear tiles and score points. Players tackle increasing difficulty by navigating changing brick layouts, aiming to clear the board while managing limited ball lives.\n\nKey Features\n\n• Flipper-controlled ball physics  \n• Destructible brick patterns  \n• Progressive level difficulty  \n• Score multiplier system  \n• Casual arcade pinball style"
+},
+{
+"id": "3f17d3ae6ff14b3e9cdd4ecc31a10d89",
+"title": "Super Pinball",
+"iframe": "https://html5.gamedistribution.com/3f17d3ae6ff14b3e9cdd4ecc31a10d89/",
+"creator": "happyGames",
+"description": "Launch the steel ball across dynamic bumpers and ramps to rack up high scores in a classic pinball environment. Players manipulate flipper controls to sustain ball movement while navigating unpredictable physics and timing challenges. Each table features layered targets and combo scoring, pushing reaction skills and precision timing to reach new levels. Casual players will find quick rounds and varied scoring systems rewarding.\n\nKey Features\n\n• Physics-based ball control  \n• Responsive flipper input mechanics  \n• Progressive combo scoring system  \n• Multi-tiered target challenges  \n• Classic arcade pinball theme"
+},
+{
+"id": "993b5e1dece34a82b03de18239aa983f",
+"title": "Pinball World Cup",
+"iframe": "https://html5.gamedistribution.com/993b5e1dece34a82b03de18239aa983f/",
+"creator": "MarketJS",
+"description": "Launch steel balls using precision flipper timing in a dynamic tournament setting where rack layouts mimic global stadiums. Players aim to score high points by controlling ball trajectory and activating various bumpers and ramps as the match unfolds. Matches progress through multiple stages reflecting international venues, requiring skillful shots to outscore rivals.\n\nKey Features\n\n• Precision ball launch mechanics  \n• Flipper timing and control system  \n• Stage-based global tournament progression  \n• Multi-bumper scoring combos  \n• International stadium pinball themes"
+},
+{
+"id": "f3db26c57ac1435fb83bc95482421017",
+"title": "Pinball Clash",
+"iframe": "https://html5.gamedistribution.com/f3db26c57ac1435fb83bc95482421017/",
+"creator": "All Correct Group Limited",
+"description": "Launch metal balls with precise flipper timing to rack up points and hit strategic targets scattered across mechanical bumpers. Progress through increasingly complex pinball machines featuring multi-level ramps and dynamic obstacle patterns. Master the timing and aim to trigger combos while balancing score multipliers and ball saves.\n\nKey Features\n\n• Precision flipper timing control  \n• Multi-level pinball table layouts  \n• Combo score multiplier system  \n• Ball save and retry mechanics  \n• Mechanical bumper obstacle patterns"
+},
+{
+"id": "1b0cc458d08c4655ae2046120603c2d3",
+"title": "Zoo Pinball",
+"iframe": "https://html5.gamedistribution.com/1b0cc458d08c4655ae2046120603c2d3/",
+"creator": "Inlogic Software",
+"description": "Launch the ball using precise flipper timing to hit colorful targets and rack up points in this zoo-themed pinball setup. Players manipulate dynamic bumpers and ramps, aiming to complete multi-stage animal collections as part of each level’s challenge. Mastering the timed flippers and activating combo shots keeps the gameplay engaging for casual players and younger teens.\n\nKey Features\n\n• Dynamic flipper timing mechanic  \n• Multi-stage animal collection levels  \n• Combo shot scoring system  \n• Progressive ramp and target layout  \n• Zoo-themed pinball environment"
+},
+{
+"id": "9b5a244adb464560941457e5d396cb07",
+"title": "Black Star Pinball",
+"iframe": "https://html5.gamedistribution.com/9b5a244adb464560941457e5d396cb07/",
+"creator": "MBG Network",
+"description": "Bounce a steel ball across dynamic bumpers and flippers to rack up scores in a classic pinball setup with a cosmic flair. The core mechanic revolves around mastering precise paddle timing and strategic ball placement through multi-level tables themed with stellar visuals. Players aim to clear targets while navigating fast-paced challenges and unlocking bonus stages for higher scores.\n\nKey Features\n\n• Precision paddle controls  \n• Multi-level cosmic tables  \n• Dynamic bumper and target system  \n• Score multiplier progression  \n• Space-themed visual effects"
+},
+{
+"id": "2c0d6eb98253427aacabe8d493feca5c",
+"title": "Black Star Pinball",
+"iframe": "https://html5.gamedistribution.com/2c0d6eb98253427aacabe8d493feca5c/",
+"creator": "newgamess",
+"description": "Launch the silver ball into flipper-controlled lanes to rack up combos and score points in this vibrant cosmic pinball table. Players use precise timing to manipulate bumpers and ramps, navigating challenges across glowing starfields. The aim is to achieve high scores by triggering multi-ball modes and activating special target sequences under a space-themed backdrop.\n\nKey Features\n\n• Flipper-based ball control  \n• Combo scoring system  \n• Multi-ball activation mechanics  \n• Progressive target sequences  \n• Space-themed table elements"
+},
+{
+"id": "6060873a2e6e4df2bf93ec566b1aa9e7",
+"title": "Pinball.VS",
+"iframe": "https://html5.gamedistribution.com/6060873a2e6e4df2bf93ec566b1aa9e7/",
+"creator": "Dob5 Games",
+"description": "Launch and manipulate a steel ball using flippers to strike dynamic targets within vibrant pinball tables, testing timing and precision in fast-paced arcade challenges. Players aim to maximize their score by activating complex bumper combos and unlocking bonus modes hidden across themed playfields. Tables vary with mechanical ramps and multi-ball sequences to diversify progression and strategy.\n\nKey Features\n\n• Flipper control precision timing  \n• Reactive bumper and ramp systems  \n• Score multiplier chain mechanics  \n• Multi-ball and bonus mode triggers  \n• Colorful mechanical arcade themes"
+},
+{
+"id": "64134b15b57e4df28f1d9789d832179c",
+"title": "Classic Pinball",
+"iframe": "https://html5.gamedistribution.com/64134b15b57e4df28f1d9789d832179c/",
+"creator": "MarketJS",
+"description": "Control the silver ball as it ricochets against bumpers and flippers in a classic arcade-style pinball setup. Master precise timing with mechanical flippers to score points and avoid losing the ball down the drain. Each table offers unique scoring targets and bonus rounds to extend gameplay and increase your high score potential.\n\nKey Features\n\n• Mechanical flipper timing controls  \n• Multi-target scoring system  \n• Ball physics with realistic rebounds  \n• Bonus round trigger mechanics  \n• Retro arcade pinball table design"
+},
+{
+"id": "782d285ae87c4d51bf4720a71184b9e0",
+"title": "Speed Pinball",
+"iframe": "https://html5.gamedistribution.com/782d285ae87c4d51bf4720a71184b9e0/",
+"creator": "MarketJS",
+"description": "Control a fast-moving pinball navigating intricate ramps and bumpers to rack up points and reach high scores. Precision timing and angle of hits influence ball speed and trajectory while avoiding drains. The main challenge revolves around mastering flipper control to sustain combos and unlock new playfield sections for extended gameplay.\n\nKey Features\n\n• Responsive flipper mechanics  \n• Momentum-based ball physics  \n• Combo chain scoring system  \n• Progressive playfield unlocking  \n• Classic arcade pinball setting"
+},
+{
+"id": "c938046a000e4620ae7cb42fd276b0e4",
+"title": "Pinball Breakout",
+"iframe": "https://html5.gamedistribution.com/c938046a000e4620ae7cb42fd276b0e4/",
+"creator": "Fish Pond Studio",
+"description": "Launch the ball with precise timing to break clusters of colorful bricks arranged in a dynamic pinball table layout. Players manipulate flippers to control the ball's trajectory using classic pinball physics, aiming to clear all obstacles while managing rebounds and momentum. Progression unfolds through increasingly complex brick patterns and speed variations, requiring adaptable reflexes in this hybrid arcade challenge.\n\nKey Features\n\n• Pinball-style flipper controls  \n• Ball physics with rebound mechanics  \n• Multi-stage brick clearing levels  \n• Increasing ball speed challenges  \n• Classic arcade table design"
+},
+{
+"id": "1014805eaf9346edb83e53bfc73f8606",
+"title": "Pinball of Oz",
+"iframe": "https://html5.gamedistribution.com/1014805eaf9346edb83e53bfc73f8606/",
+"creator": "Casual_Azerion_Old",
+"description": "Launch and direct a metal ball through fantastical pinball tables inspired by a whimsical yellow brick road setting. Players use flipper controls to navigate bumpers and ramps while aiming to unlock hidden chambers and score combo bonuses. The challenge lies in mastering ball trajectory and timing to progress through increasingly complex layouts within an enchanted land.\n\nKey Features\n\n• Precision flipper control mechanics  \n• Combo scoring and bonus triggers  \n• Progressive multi-tier pinball tables  \n• Unlockable secret chambers  \n• Fantasy-themed scoring system"
+},
+{
+"id": "9e28318a7e8d4c42a7fa0ced86b729d5",
+"title": "Boom ballz",
+"iframe": "https://html5.gamedistribution.com/9e28318a7e8d4c42a7fa0ced86b729d5/",
+"creator": "tinyDream",
+"description": "Launch clustered balls strategically to clear dynamic block patterns in this physics-driven puzzle challenge, testing precise angles and timing. Players manage momentum and collision chains to break obstacles and unlock new levels. The gameplay involves aiming and shooting mechanics that emphasize spatial reasoning and gradual difficulty increase, appealing to casual players seeking light yet engaging arcade action.\n\nKey Features\n\n• Projectile aiming and shooting system  \n• Momentum-based destruction mechanics  \n• Progressive level block complexity  \n• Combo chain scoring system  \n• Color-coded ball physics interaction"
+},
+{
+"id": "3e2aad52ce2649e981022f0a4a37f56d",
+"title": "Explode Ballz",
+"iframe": "https://html5.gamedistribution.com/3e2aad52ce2649e981022f0a4a37f56d/",
+"creator": "pogames.in",
+"description": "Launch clusters of explosive balls to break through layered barriers and clear the board efficiently. Players time their throws carefully, using physics-based bounce effects to maximize destruction and chain reactions. The game challenges players to strategically aim and manage limited shots in varied puzzle stages, requiring quick thinking and precision for high scores.\n\nKey Features\n\n• Physics-driven ball trajectory  \n• Strategic aiming and timing  \n• Puzzle level progression  \n• Chain reaction scoring system  \n• Colorful explosive visual effects"
+},
+{
+"id": "fa91bac79caf48efb05afd09c786b51a",
+"title": "Falling Ballz",
+"iframe": "https://html5.gamedistribution.com/fa91bac79caf48efb05afd09c786b51a/",
+"creator": "pogames.in",
+"description": "Guide falling balls through obstacle clusters by tapping and timing their descent. The game challenges players to navigate unpredictable ball trajectories and collision patterns as they clear increasingly complex formations. Precision control and quick reflexes are essential to overcome layered barriers and achieve high scores. Each level introduces new ball movement variations and stacking arrangements that escalate the difficulty.  \n\nKey Features\n\n• Tap-based ball dropping control  \n• Progressive obstacle pattern complexity  \n• Reflex-driven trajectory adjustments  \n• Level scoring and streak system  \n• Minimalist physics ball mechanics"
+},
+{
+"id": "20b0d43080104469bce0fc0cbf0ee05d",
+"title": "Pong the Ball",
+"iframe": "https://html5.gamedistribution.com/20b0d43080104469bce0fc0cbf0ee05d/",
+"creator": "kidsgamesplay",
+"description": "Bounce a pixel-perfect ball across a minimalist court using simple paddle controls aimed at deflecting it past opponents. The core mechanic revolves around precision timing and angle manipulation to outlast increasingly agile AI or human rivals. Each rally tests hand-eye coordination as the ball speeds up, requiring quick reflex adjustments and strategic paddle positioning.\n\nKey Features\n\n• Paddle timing and angle control  \n• Progressive ball speed increase  \n• Single and multiplayer modes  \n• Score-based competitive rounds  \n• Classic arcade court design"
+},
+{
+"id": "20e0f40feb3845348bb23b032f79b51d",
+"title": "Pong Ball",
+"iframe": "https://html5.gamedistribution.com/20e0f40feb3845348bb23b032f79b51d/",
+"creator": "Best Kids Games",
+"description": "Control a simple paddle to deflect a bouncing ball across the screen, aiming to prevent it from passing your side. The game’s core mechanic centers on precise paddle movement and ball angle control, challenging players to maintain rallies and improve reflexes. Classic arcade styling creates a straightforward yet engaging test of timing and coordination.\n\nKey Features\n\n• Paddle movement precision control  \n• Ball rebound angle manipulation  \n• Increasing rally length challenge  \n• Single-player reaction mode  \n• Minimalist retro arcade visuals"
+},
+{
+"id": "bea75041cbf84fb2afe5dca41f61a66a",
+"title": "Pong Ball Masters",
+"iframe": "https://html5.gamedistribution.com/bea75041cbf84fb2afe5dca41f61a66a/",
+"creator": "FG Studio",
+"description": "Bounce a fast-moving ball using precise paddle control to outplay your opponent in intense table tennis duels. Master angle shots and timing to keep the ball in play, aiming to score points through strategic deflections. Match progression tests reflexes and adaptability as the pace and challenge steadily increase, sharpening competitive skills.\n\nKey Features\n\n• Paddle angle control mechanics  \n• Timed ball deflection gameplay  \n• Progressive difficulty scaling  \n• Multiplayer competitive mode  \n• Classic table tennis setting"
+},
+{
+"id": "e1ff4a72c3bd430492867dad363dfea9",
+"title": "Marble Balls 3D",
+"iframe": "https://html5.gamedistribution.com/e1ff4a72c3bd430492867dad363dfea9/",
+"creator": "8Games.Net",
+"description": "Roll and shoot marble projectiles to knock down stacks of colorful balls in this physics-driven challenge. Players strategically aim and time their shots to clear each level of intricate 3D arrangements while managing limited ammunition. Progression introduces new ball types and complex structures that test precision and planning for casual gamers and younger audiences.\n\nKey Features\n\n• 3D physics ball collision  \n• Precision aiming controls  \n• Limited shot ammunition  \n• Level-based obstacle layouts  \n• Color matching target mechanic"
+},
+{
+"id": "d8ce6087feef4677957b4afeefa48f2d",
+"title": "Marble Balls",
+"iframe": "https://html5.gamedistribution.com/d8ce6087feef4677957b4afeefa48f2d/",
+"creator": "New Kids Games",
+"description": "Launch and bounce colorful spheres through intricate patterns to strategically clear levels in this physics-based puzzle challenge. The game focuses on careful aiming and timing as players navigate a dynamic ball-shooting mechanic to trigger chain reactions. Progression ramps with increasingly complex layouts and obstacle arrangements, testing precision and planning skills for casual audiences.\n\nKey Features\n\n• Physics-driven ball shooting  \n• Precision aiming controls  \n• Increasing puzzle complexity  \n• Chain reaction scoring system  \n• Vivid colorful marble visuals"
+},
+{
+"id": "ce51ec5132e640b0bae06b129d14bef8",
+"title": "Pinball Basketball",
+"iframe": "https://html5.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8/",
+"creator": "MarketJS",
+"description": "Launch steel balls to score baskets using precise pinball flipper controls in this hybrid game that merges arcade pinball physics with basketball scoring goals. Players tactically angle shots to hit bumpers and racks around a vibrant court-themed layout. Progression tracks accuracy and combos for higher scores, blending classic pinball mechanics with sports action challenges.\n\nKey Features\n\n• Pinball flipper shot control  \n• Physics-based ball trajectory  \n• Combos and accuracy scoring  \n• Progressive difficulty levels  \n• Court-inspired pinball table"
+},
+{
+"id": "abfc6a4196ec42ecb69493eec9a229f9",
+"title": "Ping Pong Battle Table Tennis",
+"iframe": "https://html5.gamedistribution.com/abfc6a4196ec42ecb69493eec9a229f9/",
+"creator": "bestgames.com",
+"description": "Hit precise shots using a virtual paddle to compete in fast-paced table tennis matches across multiple challenging opponents. Players must react quickly to angle and spin variations while managing timing and positioning. The game features classic ping pong settings focused on improving reflexes and consistency to win point-based rounds.\n\nKey Features\n\n• Paddle control input timing  \n• Spin and angle shot mechanics  \n• Progressive opponent difficulty  \n• Single player match modes  \n• Classic indoor table tennis arena"
+},
+{
+"id": "8f3873526b0843a28ce9e3dc6002d1f0",
+"title": "Fierce Battle Breakout",
+"iframe": "https://html5.gamedistribution.com/8f3873526b0843a28ce9e3dc6002d1f0/",
+"creator": "yiyuan",
+"description": "Break blocks strategically using a paddle to clear increasingly complex brick formations. This arcade-style game challenges players to master precise ball control and anticipate unpredictable rebounds as they advance through multiple stages of escalating difficulty. Players must balance speed and angle adjustments to conquer each level and avoid losing lives.\n\nKey Features\n\n• Precision ball trajectory control  \n• Level-based brick clearing challenges  \n• Increasing block durability progression  \n• Paddle movement and speed adjustments  \n• Classic arcade breakout setting"
+},
+{
+"id": "f412fd10eb3a451dabbe1b797a7af4b0",
+"title": "Lowrider Cars - Hopping Car Idle",
+"iframe": "https://html5.gamedistribution.com/f412fd10eb3a451dabbe1b797a7af4b0/",
+"creator": "299games",
+"description": "Hop between platforms controlling customized lowrider cars that bounce rhythmically in this idle game. Players manage car hopping timing to avoid falling while upgrading vehicle parts to increase performance. The core mechanic revolves around precision jumps and maintaining momentum in a cityscape inspired by car culture. Progression unlocks varied car designs and hopping challenges.\n\nKey Features\n\n• Timing-based hopping mechanic  \n• Vehicle customization upgrades  \n• Momentum and balance control  \n• Idle progression and rewards  \n• Urban lowrider aesthetic"
+},
+{
+"id": "170c25773139479cac06f4fc4aa10ef8",
+"title": "Jumpy Car",
+"iframe": "https://html5.gamedistribution.com/170c25773139479cac06f4fc4aa10ef8/",
+"creator": "newgamess",
+"description": "Navigate a small vehicle through tight jumps on compact, uneven platforms while balancing precise timing and control. The game challenges players to maintain momentum and avoid falling as they progress through increasingly difficult stages. Quick reflexes and smooth acceleration are key to mastering the physics-based jumping mechanic in this minimalistic driving environment.\n\nKey Features\n\n• Timing-based jump control  \n• Momentum preservation mechanics  \n• Progressive platform difficulty  \n• Simple acceleration input system  \n• Minimalist vehicle physics simulation"
+},
+{
+"id": "c42de42fcb49411792266c57626fcfcb",
+"title": "Infinite Jumpy Cat",
+"iframe": "https://html5.gamedistribution.com/c42de42fcb49411792266c57626fcfcb/",
+"creator": "FG Studio",
+"description": "Jump across increasingly distant platforms while avoiding falling in this endless vertical challenge. Precise timing and momentum govern the jump arcs in a minimalist setting, with the goal of beating your best height. Each successful leap increases the difficulty by adding smaller or moving platforms to test your reflexes and planning.\n\nKey Features\n\n• Momentum-based jumping controls  \n• Progressive platform spacing challenge  \n• Endless vertical climbing mode  \n• Timing-sensitive landing mechanics  \n• Minimalist arcade environment"
+},
+{
+"id": "b432cd4fa1bb45d1a072b9eefbcd47dc",
+"title": "Christmas Pong",
+"iframe": "https://html5.gamedistribution.com/b432cd4fa1bb45d1a072b9eefbcd47dc/",
+"creator": "Agame",
+"description": "Bounce a bright ball between two paddles to outscore your opponent in a festive winter backdrop. Players control paddle movement to keep the ball in play while aiming to break through the classic pong challenge with a Christmas twist. The game focuses on timing and precision to win rounds and advance in arcade style.\n\nKey Features\n\n• Paddle control mechanics  \n• Ball trajectory manipulation  \n• Score-based competitive rounds  \n• Single and multiplayer modes  \n• Holiday themed visual effects"
+},
+{
+"id": "91a5fb6f7d054a9b9b7c31f1bfaeacd5",
+"title": "Color Pong Game",
+"iframe": "https://html5.gamedistribution.com/91a5fb6f7d054a9b9b7c31f1bfaeacd5/",
+"creator": "FTG",
+"description": "Bounce colored paddles to deflect and match incoming balls in a dynamic twist on classic pong action. Players manipulate paddle positions to control ball trajectories and clear waves that escalate in speed and color complexity. The game challenges timing and quick color recognition as the main goal centers on surviving increasingly rapid rounds.\n\nKey Features\n\n• Color matching paddle mechanic  \n• Responsive paddle movement controls  \n• Increasing ball speed rounds  \n• Survival wave progression system  \n• Vibrant minimalist color palette"
+},
+{
+"id": "435656aa2c34428bbce26a591c0222e1",
+"title": "Color Pong",
+"iframe": "https://html5.gamedistribution.com/435656aa2c34428bbce26a591c0222e1/",
+"creator": "MBG Network",
+"description": "Bounce a fast-moving ball between paddles, matching colors to score points and outlast the opponent. The core mechanic revolves around color-based ball reflection that requires quick timing and strategic paddle positioning. Players face escalating speed challenges and can master precision control to dominate each round. Casual players and kids find the intuitive setup ideal for developing reflexes in bright, colorful settings.\n\nKey Features\n\n• Color matching ball reflection  \n• Paddle timing and positioning  \n• Progressive speed increase  \n• Precision control mechanics  \n• Vibrant color-based visuals"
+},
+{
+"id": "169c01c96fb5407680dfea26391d01d2",
+"title": "Vex Hyper Dash",
+"iframe": "https://html5.gamedistribution.com/169c01c96fb5407680dfea26391d01d2/",
+"creator": "Azerion Casual Games",
+"description": "Dash through intricate obstacle courses with lightning-fast reflexes, mastering precise timing and agile movement to overcome challenging traps and hazards. Players rely on quick vertical jumps and wall climbing to navigate each level while aiming to reach the finish line without dying. Increasing difficulty and varied stage layouts test your speed and coordination under pressure.\n\nKey Features\n\n• Fast-paced sequential jumping  \n• Responsive wall climbing controls  \n• Progressive obstacle difficulty  \n• Time challenge scoring system  \n• Minimalist neon platform style"
+},
+{
+"id": "df66c2d54d2947769cb909cd03985315",
+"title": "Marble Dash",
+"iframe": "https://html5.gamedistribution.com/df66c2d54d2947769cb909cd03985315/",
+"creator": "2Play",
+"description": "Guide rolling marbles through complex obstacle courses using precise flick gestures. Players navigate various platform layouts where timing and trajectory matter to reach the finish point. Multiple level stages introduce increasing difficulty with moving platforms and traps. Challenges include avoiding pitfalls and utilizing momentum changes to progress efficiently.\n\nKey Features\n\n• Gesture-based marble flick control  \n• Progressive obstacle course levels  \n• Momentum and physics puzzle elements  \n• Time trial scoring system  \n• Colorful platform-themed environments"
+},
+{
+"id": "1d5bea69d6b244ce945bc81cd7c51624",
+"title": "Stacky Dash",
+"iframe": "https://html5.gamedistribution.com/1d5bea69d6b244ce945bc81cd7c51624/",
+"creator": "bestgames.com",
+"description": "Stack moving and dodging lead the gameplay in Stacky Dash, where players build vertical stacks while navigating shifting platforms and obstacles. The core mechanic involves precise timing and spatial awareness to keep the stack from toppling as it grows. Progressing through increasingly complex levels tests quick reflexes and strategic movement in an abstract environment.\n\nKey Features\n\n• Vertical stacking balance mechanic  \n• Timing-based platform navigation  \n• Increasing level complexity  \n• Score multiplier challenge system  \n• Minimalistic abstract visuals"
+},
+{
+"id": "42bfa359db1e405f8cc84b181c206f7c",
+"title": "Vex Try To Fly",
+"iframe": "https://html5.gamedistribution.com/42bfa359db1e405f8cc84b181c206f7c/",
+"creator": "Azerion Casual Games",
+"description": "Navigate precise platforming challenges through tight jumps and timing in this intense action game. Players control a small agile character with momentum-based movement to overcome hazardous traps and reach checkpoints. The focus lies on mastering jump sequences and cushioning landings to progress through increasingly difficult levels filled with spikes and moving platforms.\n\nKey Features\n\n• Momentum-based platforming control  \n• Precision timing for jumps  \n• Progressive level difficulty  \n• Hazardous trap avoidance system  \n• Stylized obstacle course environments"
+},
+{
+"id": "d64a8575264b4fbd8ac24aef510f1e81",
+"title": "Pinball Football",
+"iframe": "https://html5.gamedistribution.com/d64a8575264b4fbd8ac24aef510f1e81/",
+"creator": "Bnagames",
+"description": "Launch steel balls with precise flipper control to score goals across dynamic pinball tables inspired by football arenas. Players must time shots skillfully while navigating bumpers and ramps that mimic football plays, aiming to rack up high scores and complete progressive challenges. Each level blends classic pinball mechanics with sporty thematic twists to test accuracy and timing.\n\nKey Features\n\n• Pinball flipper launch and timing  \n• Combo scoring chain mechanics  \n• Progressive multi-level pinball arenas  \n• Dynamic bumper and ramp interaction  \n• Football-themed table designs"
+},
+{
+"id": "619143e47dd84470af1bdc2194ab39aa",
+"title": "Pong Football",
+"iframe": "https://html5.gamedistribution.com/619143e47dd84470af1bdc2194ab39aa/",
+"creator": "newgamess",
+"description": "Bounce the ball back and forth while controlling paddles to score goals in a fast-paced sports duel. Using precise timing and paddle movement, players compete within a simplified football-inspired setting aiming to outscore their opponent. The gameplay revolves around mastering the classic ball rebound mechanic combined with competitive scoring challenges typical of air hockey-style contests.\n\nKey Features\n\n• Paddle-controlled ball rebounds  \n• Competitive scoring system  \n• Precision timing gameplay  \n• Multiplayer duel mode  \n• Minimalist sports arena design"
+},
+{
+"id": "0fc727f9fba44aba98e7756482ba58a0",
+"title": "Euro Football Pong",
+"iframe": "https://html5.gamedistribution.com/0fc727f9fba44aba98e7756482ba58a0/",
+"creator": "Agame",
+"description": "Bounce the ball with precise paddle control to outscore opponents in fast-paced matches that blend classic pong mechanics with a European football flair. Players must time hits and angles carefully to keep the ball in play while navigating themed stadium backgrounds. Winning rounds requires mastering reflexes and aiming skills through progressively challenging gameplay modes.\n\nKey Features\n\n• Paddle timing and angle control  \n• Competitive scoring rounds  \n• Increasing difficulty progression  \n• Multiplayer or solo match options  \n• Football-inspired arena visuals"
+},
+{
+"id": "b06cb503b1a3407c96cae650ca713573",
+"title": "Euro Football Pong 2016",
+"iframe": "https://html5.gamedistribution.com/b06cb503b1a3407c96cae650ca713573/",
+"creator": "Casual_Azerion_Old",
+"description": "Bounce a puck back and forth using precise paddle control in a sporty digital pong match. Players aim to outscore the opponent in fast-paced rounds that test reflexes and timing. The setting captures a football-inspired twist on classic pong, where simple mechanics blend with competitive scoring. Quick exchanges and escalating challenge keep matches engaging for casual gamers and younger players.\n\nKey Features\n\n• Paddle movement responsiveness  \n• Scoring based match rounds  \n• Reaction time challenge scaling  \n• Local multiplayer competition  \n• Football-themed pong interface"
+},
+{
+"id": "c0bd717013e34e9da66ff3e056e25b31",
+"title": "Halloween Arkanoid Deluxe",
+"iframe": "https://html5.gamedistribution.com/c0bd717013e34e9da66ff3e056e25b31/",
+"creator": "Lof Games",
+"description": "Bounce a glowing pumpkin ball off a moving paddle to smash rows of eerie bricks in a Halloween-themed twist on classic arcade action. Players must skillfully angle shots and manage power-ups to clear levels filled with ghostly obstacles and hidden surprises. Progression rewards quick reflexes and strategic paddle control in increasingly intricate layouts.\n\nKey Features\n\n• Paddle ball physics control  \n• Brick-breaking progression system  \n• Power-up collection mechanics  \n• Time-limited challenge modes  \n• Spooky Halloween visual effects"
+},
+{
+"id": "11de99f200254d6b8184600cdec0b003",
+"title": "Idle Pinball Breakout",
+"iframe": "https://html5.gamedistribution.com/11de99f200254d6b8184600cdec0b003/",
+"creator": "Fish Pond Studio",
+"description": "Launch balls to break dynamic brick formations while managing idle upgrades in a physics-based pinball environment. The game combines casual pinball mechanics with breakout-style destruction, where players aim to clear multi-layered brick patterns. Progression involves unlocking new balls and power-ups to enhance breaking efficiency. The setting merges classic arcade elements with incremental idle progression.\n\nKey Features\n\n• Physics-driven ball trajectories  \n• Brick pattern destruction mechanics  \n• Idle upgrade and progression system  \n• Multi-ball power-up activation  \n• Arcade-style visual theme"
+},
+{
+"id": "1595e5d626c04aa481e36239c2612143",
+"title": "Leaping Gems",
+"iframe": "https://html5.gamedistribution.com/1595e5d626c04aa481e36239c2612143/",
+"creator": "BestCrazyGames.com",
+"description": "Leap across shifting platforms to collect valuable gems while navigating unpredictable movement patterns in this vibrant puzzle challenge. Players time their jumps with precision against rising obstacles, advancing through increasingly complex stages that test reflexes and pattern recognition. The game blends arcade timing with a colorful treasure hunting theme, aiming to clear levels by gathering all gems without falling.\n\nKey Features\n\n• Precision timing jump mechanic  \n• Dynamic platform movement patterns  \n• Increasing stage complexity  \n• Gem collection progression system  \n• Bright arcade-style visual design"
+},
+{
+"id": "cbffbdc249f24f6486c7363fee067c71",
+"title": "Human Leap Evolution",
+"iframe": "https://html5.gamedistribution.com/cbffbdc249f24f6486c7363fee067c71/",
+"creator": "bestgames.com",
+"description": "Navigate evolving platforms by timing precise leaps to advance through human progression stages. Players adapt jump height and distance to overcome shifting obstacles while exploring the evolutionary journey. The main challenge centers on mastering progression mechanics to unlock successive forms and environments across dynamic levels.\n\nKey Features\n\n• Timing-based jump controls  \n• Progressive evolutionary stages  \n• Increasing obstacle complexity  \n• Unlockable character transformations  \n• Dynamic environment transitions"
+},
+{
+"id": "97968209babf41e1b51ef8830b75c47a",
+"title": "Leap and Avoid 2",
+"iframe": "https://html5.gamedistribution.com/97968209babf41e1b51ef8830b75c47a/",
+"creator": "Playgama",
+"description": "Jump across moving platforms while avoiding tricky obstacles in this physics-based arcade challenge. The game uses precise timing and momentum control to navigate increasingly complex levels filled with dynamic hazards. Players aim to reach the highest stage while managing limited jumps and unpredictable patterns for a test of reflexes and spatial awareness.\n\nKey Features\n\n• Momentum-driven platforming  \n• Precision jump controls  \n• Progressive obstacle difficulty  \n• Time trial challenge modes  \n• Dynamic level hazard patterns"
+},
+{
+"id": "ce399dda79594c07b7c4fec8a7727a1b",
+"title": "Lava Ladder Leap",
+"iframe": "https://html5.gamedistribution.com/ce399dda79594c07b7c4fec8a7727a1b/",
+"creator": "KridaGames",
+"description": "Leap across shifting platforms to avoid molten lava beneath in this physics-based precision jumping game. Players time their jumps and adjust momentum on irregular ladders suspended over a fiery abyss. Each stage increases in difficulty with faster platform movement and narrower footholds, challenging reaction speed and spatial awareness for survival. A heat gauge measures hazard proximity adding tension as you climb higher.\n\nKey Features\n\n• Momentum-sensitive jumping control  \n• Dynamic platform and ladder movement  \n• Increasing stage difficulty levels  \n• Hazard proximity heat gauge  \n• Fiery volcanic environment backdrop"
+},
+{
+"id": "a3cddb497804491ca590c34ee5fa7339",
+"title": "Leap of Life",
+"iframe": "https://html5.gamedistribution.com/a3cddb497804491ca590c34ee5fa7339/",
+"creator": "Fast Games",
+"description": "Leap across challenging platforms with precise timing and fluid controls in this action platformer. Navigate varied terrain heights while avoiding obstacles that test reflexes and pattern recognition. The game’s level progression introduces increasing difficulty through environmental hazards and moving platforms, pushing players to master each leap for success.\n\nKey Features\n\n• Precision jumping mechanics  \n• Responsive keyboard controls  \n• Incremental platform difficulty  \n• Time attack progression mode  \n• Colorful obstacle-filled stages"
+},
+{
+"id": "87d97dde1b064b1b81eb177d7b5e11bd",
+"title": "Hopping Boys",
+"iframe": "https://html5.gamedistribution.com/87d97dde1b064b1b81eb177d7b5e11bd/",
+"creator": "Webgameapp",
+"description": "Leap through dynamic obstacle courses controlling agile characters in this colorful platformer. Players must time jumps precisely to navigate floating platforms that challenge reflexes and spatial awareness. Collecting scattered items increases scores while avoiding hazards tests precision and timing. Each level advances in complexity with new platform patterns and faster pacing to maintain engagement.\n\nKey Features\n\n• Precision jump timing mechanic  \n• Multi-character control schemes  \n• Increasingly complex platform designs  \n• Item collection score system  \n• Vibrant cartoon-style visuals"
+},
+{
+"id": "78849d5a5b2748c1aaa6d18926a94dda",
+"title": "EG Hopping Boy",
+"iframe": "https://html5.gamedistribution.com/78849d5a5b2748c1aaa6d18926a94dda/",
+"creator": "EcapsGames.com",
+"description": "Leap through vibrant platforms using precise timing and momentum-based jumping to navigate diverse levels and avoid obstacles. Players control a nimble character whose main challenge is to master hopping mechanics across continuously changing stage designs. Exploration and reaction speed are key in progressively challenging sequences set in colorful environments.\n\nKey Features\n\n• Momentum-driven jump controls  \n• Dynamic platform level design  \n• Incremental difficulty challenges  \n• Time-based scoring system  \n• Bright, cartoon-style visuals"
+},
+{
+"id": "3da3b1aa791e474e8693af880323fe1c",
+"title": "JumpyPig",
+"iframe": "https://html5.gamedistribution.com/3da3b1aa791e474e8693af880323fe1c/",
+"creator": "PKPL Entertainment",
+"description": "Leap across rising platforms using precise timing and swift reflexes in this arcade-style challenge. Players guide a nimble pig character that jumps from one floating surface to another while avoiding falling. The game’s physics-based jumping mechanic demands accuracy to reach higher levels and achieve the farthest distance possible for a score-driven experience.\n\nKey Features\n\n• Precision timing jump control  \n• Physics-driven platform trajectories  \n• Progressive level height increase  \n• Survival distance scoring system  \n• Cartoon animal-themed environment"
+},
+{
+"id": "5983e73b744b4a51aeed16cd2168ae3f",
+"title": "Jumpy Sky",
+"iframe": "https://html5.gamedistribution.com/5983e73b744b4a51aeed16cd2168ae3f/",
+"creator": "PKPL Entertainment",
+"description": "Leap through floating platforms with precise timing and variable jump heights in this vibrant arcade challenge. Navigate an endless sky filled with shifting platforms and avoid falling as you aim to set high scores. Each successful leap tests reflexes and rhythm while upward momentum reveals new, increasingly difficult platform patterns.\n\nKey Features\n\n• Variable jump height mechanic  \n• Responsive touch and keyboard controls  \n• Progressive platform difficulty scaling  \n• Endless ascent scoring system  \n• Colorful sky-themed level design"
+},
+{
+"id": "0971e8539ec844c0ab7ccd43991dd546",
+"title": "Jumpy Tile",
+"iframe": "https://html5.gamedistribution.com/0971e8539ec844c0ab7ccd43991dd546/",
+"creator": "newgamess",
+"description": "Hop across moving tiles with precise timing to avoid falling in this fast-paced platform challenge. Players must master the core mechanic of quick jumping and landing on shifting platforms, testing reflexes in a minimalistic setting. The main goal involves navigating increasingly complex tile patterns to reach higher scores or stages.  \n\nKey Features\n\n• Precision jump timing  \n• Responsive tile movement control  \n• Increasingly complex tile sequences  \n• Endurance scoring system  \n• Minimalist platforming environment"
+},
+{
+"id": "5990b83af0ef476c80ae3adbf6ffbf13",
+"title": "Jumpy",
+"iframe": "https://html5.gamedistribution.com/5990b83af0ef476c80ae3adbf6ffbf13/",
+"creator": "pogames.in",
+"description": "Leap through dynamically placed platforms using timed jumps that require precision and quick reflexes to avoid falling. Players must master jump timing to navigate increasingly challenging obstacle layouts across multiple stages. Each level ramps up the speed and complexity, pushing players to improve accuracy and reaction time while aiming for the highest score possible.\n\nKey Features\n\n• Precision jump timing mechanic  \n• Responsive keyboard control scheme  \n• Increasing obstacle complexity  \n• Score-based level progression  \n• Casual arcade platform setting"
+},
+{
+"id": "15e3ad5389954794aaa43c9f3dc79d8b",
+"title": "Leap and Jump",
+"iframe": "https://html5.gamedistribution.com/15e3ad5389954794aaa43c9f3dc79d8b/",
+"creator": "Bnagames",
+"description": "Leap and jump across varied platforms using precision timing to navigate advancing obstacle layouts. The core mechanic centers on mastering momentum and bounce control to achieve greater distances and overcome dynamic hazards. Players aim to progress through increasingly intricate stage sequences, honing quick reflexes for continuous survival in a minimalistic, abstract setting.\n\nKey Features\n\n• Momentum-based jumping mechanics  \n• Simple directional control input  \n• Progressive obstacle complexity  \n• Endless mode with score tracking  \n• Abstract platform design elements"
+},
+{
+"id": "bc96de1b2c53438a91c5d2b3008bc637",
+"title": "Marble Maze",
+"iframe": "https://html5.gamedistribution.com/bc96de1b2c53438a91c5d2b3008bc637/",
+"creator": "Instant Games Studio",
+"description": "Guide a marble through intricate pathways by tilting the maze structure, balancing precise movements and gravity physics to avoid pitfalls and reach exit points. Navigate rotating platforms and narrow corridors that demand careful timing and control. Progress through increasingly complex layouts that test agility and spatial awareness in each level.\n\nKey Features\n\n• Tilt-based maze navigation  \n• Precision gravity-driven control  \n• Increasingly complex level layouts  \n• Time-based challenge progression  \n• Physics influenced movement mechanics"
+},
+{
+"id": "3a5db47142df4f429affb73c50fe1e36",
+"title": "Neon Pong Multi player",
+"iframe": "https://html5.gamedistribution.com/3a5db47142df4f429affb73c50fe1e36/",
+"creator": "Tweensoft",
+"description": "Bounce neon paddles against glowing orbs to outscore opponents in vibrant multiplayer matches. The fast-paced table tennis style gameplay emphasizes rapid reflexes and precise paddle control. Players maneuver paddles horizontally across an illuminated arena, aiming to keep the glowing ball in play while scoring points against rivals. Competitive rounds test timing and strategy under dynamic light effects.\n\nKey Features\n\n• Paddle movement precision control  \n• Competitive multiplayer scoring system  \n• Progressive match rounds with increasing speed  \n• Dynamic neon-themed visual arena  \n• Reflex-based ball trajectory mechanics"
+},
+{
+"id": "72f624b52a204c2f9e16779159ce0ebf",
+"title": "Multiplayer Pong Challenge",
+"iframe": "https://html5.gamedistribution.com/72f624b52a204c2f9e16779159ce0ebf/",
+"creator": "Vi Games",
+"description": "Compete by volleying the ball back and forth using precise paddle control in this multiplayer arena, where timing and angle adjustment dictate victory. Players aim to outmaneuver opponents by predicting ball trajectories in fast-paced rounds. The gameplay centers on skillful paddle movement and reaction speed, challenging players to secure points before their rival does.\n\nKey Features\n\n• Paddle reflection mechanics  \n• Real-time multiplayer matches  \n• Scoring-based round progression  \n• Variable ball speed dynamics  \n• Compact arena layout"
+},
+{
+"id": "7dd56ea0b8bf48f9bd2b150366735918",
+"title": "Leap Parking",
+"iframe": "https://html5.gamedistribution.com/7dd56ea0b8bf48f9bd2b150366735918/",
+"creator": "Nanjing maileyou Network Technology Co., Ltd",
+"description": "Leap into precise timing as you navigate a compact vehicle through narrow parking spots, mastering a unique hop-based movement mechanic. The challenge lies in maneuvering each leap carefully to slot your car into tight urban spaces without collision. Players progress through increasingly intricate parking scenarios that test spatial awareness and control finesse.\n\nKey Features\n\n• Hop-driven vehicle movement  \n• Precision parking controls  \n• Increasingly complex level designs  \n• Time-limited challenge mode  \n• Urban environment settings"
+},
+{
+"id": "63137d6d920145f68f3efddfe0f45675",
+"title": "VEX 3 Xmas",
+"iframe": "https://html5.gamedistribution.com/63137d6d920145f68f3efddfe0f45675/",
+"creator": "Azerion Casual Games",
+"description": "Navigate complex obstacle courses using precise jumping and wall-climbing mechanics to overcome increasingly difficult levels. Players must master timing and spatial awareness in fast-paced platform challenges set in a stylized, festive environment. Progression introduces varied hazard layouts requiring skillful maneuvering to reach each stage’s endpoint.\n\nKey Features\n\n• Precision jumping controls  \n• Wall climbing platform sections  \n• Increasingly complex obstacle layouts  \n• Time-based level progression  \n• Festive themed levels"
+},
+{
+"id": "ce1b2e5eabe44debb11bf77cd04c0f85",
+"title": "Vex X3M 3",
+"iframe": "https://html5.gamedistribution.com/ce1b2e5eabe44debb11bf77cd04c0f85/",
+"creator": "Azerion Casual Games",
+"description": "Perform precise platforming with swift, wall-running movements through intricate obstacle courses filled with deadly traps and spikes. Players rely on tight timing and momentum control to navigate each level, aiming to complete intense challenges and unlock progressively harder stages. The game builds on fluid movement mechanics set in a challenging, trap-filled environment designed for casual and teen players.\n\nKey Features\n\n• Momentum-based platforming control  \n• Precision wall-running mechanics  \n• Increasingly complex trap layouts  \n• Time trial challenge modes  \n• Minimalist hazard-themed levels"
+},
+{
+"id": "8d034584a63642dcb89fa3d24ed6e1b1",
+"title": "Vex 9",
+"iframe": "https://html5.gamedistribution.com/8d034584a63642dcb89fa3d24ed6e1b1/",
+"creator": "Azerion Casual Games",
+"description": "Navigate demanding platform levels using precise timing and tricky wall jumps to overcome traps and hazards. Players control a nimble character through increasingly complex obstacle courses, mastering momentum and reflexes. The main challenge is to reach checkpoints while avoiding deadly spikes and moving enemies in each fast-paced stage.\n\nKey Features\n\n• Momentum-based platform movement  \n• Wall jump and slide mechanics  \n• Hazard avoidance challenge  \n• Incremental level difficulty  \n• Stylized geometric world design"
+},
+{
+"id": "faf4cfc80f8049f78e1ade958e5332a4",
+"title": "Vex X3M 2",
+"iframe": "https://html5.gamedistribution.com/faf4cfc80f8049f78e1ade958e5332a4/",
+"creator": "Azerion Casual Games",
+"description": "Navigate challenging obstacle courses with precise timing and momentum in this platform-based game. Maneuver a nimble character through traps and hazards using skillful jumps and wall rides to reach the finish line. Levels increase in complexity, demanding quick reflexes and mastery of physics-driven movement to complete each stage swiftly.\n\nKey Features\n\n• Momentum-based platforming mechanics  \n• Responsive jump and wall-ride controls  \n• Increasingly difficult obstacle layouts  \n• Time trial progression system  \n• Stylized urban parkour setting"
+},
+{
+"id": "0a3c55fe33ba415f9b761b5831e75b27",
+"title": "Vex X3M",
+"iframe": "https://html5.gamedistribution.com/0a3c55fe33ba415f9b761b5831e75b27/",
+"creator": "Azerion Casual Games",
+"description": "Navigate through challenging obstacle courses using precise timing and reflexes to launch a small character over deadly traps and gaps. The main mechanic revolves around skillful jumping and momentum control across increasingly complex levels. Players aim to reach the finish line while mastering acceleration boosts and air jumps in a stylized hazard-filled environment.\n\nKey Features\n\n• Precision jump timing mechanics  \n• Momentum-based movement control  \n• Progressive obstacle layout difficulty  \n• Time trial challenge mode  \n• Stylized platform hazard design"
+},
+{
+"id": "949009d40a2846f89f887de2285d6c28",
+"title": "Vex 8",
+"iframe": "https://html5.gamedistribution.com/949009d40a2846f89f887de2285d6c28/",
+"creator": "Azerion Casual Games",
+"description": "Navigate intricate platform levels using precise timing and momentum-based jumps to overcome hazardous traps and enemies. Players maneuver a nimble stick figure through tight corridors filled with spikes and moving dangers, aiming to reach the exit in each stage without losing lives. The challenge intensifies with complex obstacle arrangements requiring fast reflexes and pattern recognition.\n\nKey Features\n\n• Precision platforming controls  \n• Momentum-driven jump mechanics  \n• Progressive obstacle difficulty  \n• Limited lives and checkpoints  \n• Minimalist stick figure design"
+},
+{
+"id": "b657d0d7da2e46919d24862aa1f3e758",
+"title": "VEX Challenges",
+"iframe": "https://html5.gamedistribution.com/b657d0d7da2e46919d24862aa1f3e758/",
+"creator": "Azerion Casual Games",
+"description": "Navigate precision platforming stages with timed jumps and traps in a minimalist environment. Players rely on careful movement and obstacle avoidance to reach the level exit, mastering momentum and timing under pressure. Challenges escalate throughout a series of puzzle-like rooms requiring skillful positioning and reflexes.\n\nKey Features\n\n• Timing-based platform navigation  \n• Responsive jump and slide controls  \n• Progressive obstacle complexity  \n• Puzzle room level design  \n• Minimalist visual presentation"
+},
+{
+"id": "0c454c9562d249d28ba3a2b50564042c",
+"title": "Vex 7",
+"iframe": "https://html5.gamedistribution.com/0c454c9562d249d28ba3a2b50564042c/",
+"creator": "Azerion Casual Games",
+"description": "Navigate complex obstacle courses with precise timing and aerial control in this platform challenge. Players must master fluid character movements to overcome intricate traps and reach the end of each level. This entry builds on a series known for sharp reflex requirements, with escalating difficulty and dynamic hazards to test player agility.\n\nKey Features\n\n• Precision platforming mechanics  \n• Responsive jump and slide controls  \n• Increasingly complex trap patterns  \n• Time-limited level progression  \n• Minimalistic silhouette visual style"
+},
+{
+"id": "4925e12574364121a48c61c35f649c36",
+"title": "Vex 6",
+"iframe": "https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/",
+"creator": "Azerion Casual Games",
+"description": "Navigate intricate platforming stages using precise jumping and wall climbing maneuvers while overcoming traps and hazards in a stylized obstacle course. Players aim to reach end-level checkpoints by mastering momentum and timing through hazardous environments. The progression challenges increase with varied level designs that test reflexes and spatial control.\n\nKey Features\n\n• Precision platform jumping  \n• Wall climbing traversal system  \n• Hazard avoidance challenges  \n• Checkpoint based level progression  \n• Stylized obstacle course environments"
+},
+{
+"id": "f120262ab72743039fbce88c1f370df8",
+"title": "Vex 5",
+"iframe": "https://html5.gamedistribution.com/f120262ab72743039fbce88c1f370df8/",
+"creator": "Azerion Casual Games",
+"description": "Navigate intricate platforming courses by mastering precise timing and aerial moves. The game centers on fluid character parkour through obstacle-ridden levels, testing reflexes and spatial awareness. Players aim to reach the end of each stage while avoiding traps and hazards, with escalating complexity sharpening player skills.  \n\nKey Features\n\n• Precision jump timing mechanic  \n• Responsive wall running controls  \n• Progressive level difficulty scaling  \n• Time trial challenge mode  \n• Stylized obstacle course environments"
+},
+{
+"id": "80e6a5ae477f4d4fbcd1ea293d10087d",
+"title": "Vex 4",
+"iframe": "https://html5.gamedistribution.com/80e6a5ae477f4d4fbcd1ea293d10087d/",
+"creator": "Azerion Casual Games",
+"description": "Navigate tight platforming sections with precise wall jumps and timed dashes while avoiding hazardous traps. This installment focuses on sharp movement control through multistage levels featuring deadly spikes and moving platforms. Players must reach the end of each map while overcoming varied obstacles that demand careful timing and spatial awareness.\n\nKey Features\n\n• Precision wall jump mechanic  \n• Timed dash movement control  \n• Progressive trap complexity  \n• Multistage level design  \n• Hazardous spike obstacle patterns"
+},
+{
+"id": "762c932b4db74c6da0c1d101b2da8be6",
+"title": "Vex 3",
+"iframe": "https://html5.gamedistribution.com/762c932b4db74c6da0c1d101b2da8be6/",
+"creator": "Azerion Casual Games",
+"description": "Navigate complex platforming levels using precise timing and momentum in this fast-paced obstacle course. Maneuver through increasingly difficult traps and enemies while mastering wall jumps and air dashes to reach each stage’s end. The challenge grows with each level’s design, testing player skill and reflexes across a stylized linear progression.\n\nKey Features\n\n• Precision-based platform controls  \n• Wall jump and air dash mechanics  \n• Progressive level difficulty scaling  \n• Time trial performance tracking  \n• Stylized 2D side-scrolling environments"
+},
+{
+"id": "2a1beff87071466a90c4e30c0bfab6a2",
+"title": "Racing Pinball",
+"iframe": "https://html5.gamedistribution.com/2a1beff87071466a90c4e30c0bfab6a2/",
+"creator": "Digital Will Inc.",
+"description": "Launch steel balls with precise flipper control to hit dynamic targets and rack up points in fast-paced pinball action. Players must master timing and aim to keep the ball in play while triggering various bumpers and ramps to advance through increasing challenge waves. Strategic ball redirection and multi-level scoring make reaching high scores the main goal.\n\nKey Features\n\n• Flipper timing and aiming mechanic  \n• Multi-tiered target scoring system  \n• Progressive difficulty ramp  \n• Combo and multiplier scoring modes  \n• Classic arcade pinball table design"
+},
+{
+"id": "ae42ea5c4e0b4ff4b9eddf47fbd2cc5e",
+"title": "Marble Run - Ultimate Race!",
+"iframe": "https://html5.gamedistribution.com/ae42ea5c4e0b4ff4b9eddf47fbd2cc5e/",
+"creator": "Sunday GmbH",
+"description": "Guide marbles through intricate tracks using precise timing and momentum control in this physics-based puzzle and racing experience. Navigate complex ramps and obstacles while sequencing marble launches to optimize speed. Progression unfolds through unlockable courses with increasing difficulty, challenging players to master ball dynamics and course layout to reach the finish line fastest.\n\nKey Features\n\n• Momentum-based marble movement  \n• Sequential launch timing control  \n• Increasingly complex course design  \n• Unlockable race tracks progression  \n• Physics-driven ball trajectory"
+},
+{
+"id": "f223d345ed0349c3b6d0f4f1f4604141",
+"title": "Among Stacky Runner",
+"iframe": "https://html5.gamedistribution.com/f223d345ed0349c3b6d0f4f1f4604141/",
+"creator": "Yup7.com",
+"description": "Navigate stacked platforms by running and jumping through layered obstacles in a vertically structured environment. Players time their movements precisely to ascend dynamic columns made of shifting blocks while avoiding gaps and traps that test reflexes and coordination. Multiple ascending levels add complexity as you adapt to varying block patterns and speeds.\n\nKey Features\n\n• Vertical stacking platform progression  \n• Precision jump timing controls  \n• Increasing obstacle complexity  \n• Speed variation challenge system  \n• Layered block movement patterns"
+},
+{
+"id": "ba73833b775d478c82060a6b78e0d1b1",
+"title": "Stacky Run",
+"iframe": "https://html5.gamedistribution.com/ba73833b775d478c82060a6b78e0d1b1/",
+"creator": "YAD.Com",
+"description": "Stack and balance colorful blocks while navigating dynamic obstacle courses in this physics-based runner. Players must time their jumps and carefully place each block to avoid hazards and clear gaps in ever-changing levels. The core gameplay revolves around managing a growing tower of blocks that affects movement and stability, challenging players’ reflexes and spatial awareness as they progress.\n\nKey Features\n\n• Physics-based block stacking  \n• Precision jump timing controls  \n• Increasingly complex obstacle layouts  \n• Tower height affects movement speed  \n• Vibrant minimalist visual style"
+},
+{
+"id": "e09e3115042a4970a4b81109a8a7888f",
+"title": "Hoppy Rushy",
+"iframe": "https://html5.gamedistribution.com/e09e3115042a4970a4b81109a8a7888f/",
+"creator": "8Games.Net",
+"description": "Hop through fast-paced obstacle courses using precise timing and momentum management to navigate vibrant levels filled with tricky platforms and scattered hazards. Players pilot a lively hopping character, balancing speed and control to reach checkpoints while avoiding pitfalls. Each stage offers increasing complexity with varied jump mechanics that demand quick reflexes and strategic positioning.\n\nKey Features\n\n• Momentum-based hopping controls  \n• Progressive level difficulty scaling  \n• Checkpoint and time tracking system  \n• Multiple jump mechanic variations  \n• Bright colorful platform settings"
+},
+{
+"id": "b9a43e272cc94ff2810a05a6679f044b",
+"title": "Heels Stacky Rush 3D",
+"iframe": "https://html5.gamedistribution.com/b9a43e272cc94ff2810a05a6679f044b/",
+"creator": "bestgames.com",
+"description": "Stacking heels to build towering columns while navigating shifting pathways defines the core gameplay experience. Players carefully balance and align stylish high heels in a 3D environment, aiming to climb higher and avoid falling obstacles. Height progression challenges reflexes while maintaining balance on narrow surfaces, ramping up the intensity as levels advance.\n\nKey Features\n\n• Precision stacking mechanics  \n• Player balance control system  \n• Increasingly unstable platforms  \n• Progressive height climbing stages  \n• Stylized footwear theme"
+},
+{
+"id": "143cf022a01b450c8830b37772fc64ce",
+"title": "Breakout Rush",
+"iframe": "https://html5.gamedistribution.com/143cf022a01b450c8830b37772fc64ce/",
+"creator": "Plug in Digital",
+"description": "Bounce a paddle to shatter layers of colorful bricks using precise ball control in this fast-paced arcade challenge. Players rely on quick reflexes to keep the ball in play while aiming for power-ups hidden within the blocks. The game sets a classic brick-breaking theme where clearing all bricks advances levels and tests timing skills.\n\nKey Features\n\n• Paddle and ball control physics  \n• Breakable brick patterns  \n• Power-up collection system  \n• Incremental difficulty levels  \n• Arcade-style visual design"
+},
+{
+"id": "5f755bd1429d4d159658c8115ac2db26",
+"title": "Pong Soccer",
+"iframe": "https://html5.gamedistribution.com/5f755bd1429d4d159658c8115ac2db26/",
+"creator": "Bnagames",
+"description": "Control paddle movements to volley a ball across a compact soccer-inspired arena, combining classic pong mechanics with dynamic player positioning. Players aim to outscore opponents by anticipating rebound angles and managing timing under pressure. Matches escalate in speed, testing reflexes in a stylized sports setting that merges minimalist visuals with competitive play.\n\nKey Features\n\n• Paddle-based ball control mechanics  \n• Responsive directional input system  \n• Increasing match speed difficulty  \n• Timed scoring rounds progression  \n• Soccer arena visual elements"
+},
+{
+"id": "0ad5260ef01948faa1b4fab8ecd4c1b2",
+"title": "Marble Sort",
+"iframe": "https://html5.gamedistribution.com/0ad5260ef01948faa1b4fab8ecd4c1b2/",
+"creator": "GameBerry Studio",
+"description": "Sort marbles by color as they cascade through intricate slot grids in this physics-based puzzle. Players must quickly swap and direct marbles to their matching containers while managing limited moves to clear levels. The game challenges pattern recognition and spatial timing, creating layered difficulty through tighter grids and faster marble flows.\n\nKey Features\n\n• Color matching sorting mechanic  \n• Swipe controls to swap marble paths  \n• Limited moves challenge progression  \n• Time trial and puzzle variations  \n• Gravity physics affecting marble flow"
+},
+{
+"id": "ebfc94c89ebd4491852b2815e0d376b3",
+"title": "Marbles Sorting",
+"iframe": "https://html5.gamedistribution.com/ebfc94c89ebd4491852b2815e0d376b3/",
+"creator": "Lof Games",
+"description": "Sort colorful marbles by matching them according to their colors and patterns on a dynamic board. Players manipulate the arrangement to achieve clear sequences and optimize placement within limited moves. The challenge intensifies as marbles speed up and new colors appear, testing pattern recognition and quick planning skills.\n\nKey Features\n\n• Color matching sorting mechanic  \n• Drag and drop marble controls  \n• Increasing speed difficulty levels  \n• Time-limited sorting challenges  \n• Vivid marble variety and design"
+},
+{
+"id": "f7c696f080cb41b192b751e7b001c60a",
+"title": "Space Pong",
+"iframe": "https://html5.gamedistribution.com/f7c696f080cb41b192b751e7b001c60a/",
+"creator": "Fun Best Games",
+"description": "Bounce a glowing energy ball across a neon-lit cosmic arena using precise paddle control to outscore an opponent. The game challenges players to master timing and angle variations while navigating increasing ball speeds and unpredictable rebounds. A dynamic space backdrop enhances the classic pong-style duel, inviting casual teens and kids to sharpen reflexes in competitive multiplayer or solo modes.\n\nKey Features\n\n• Paddle movement precision control  \n• Incremental ball speed difficulty  \n• Multiplayer and single-player modes  \n• Reactive edge rebound mechanics  \n• Space-themed neon visual effects"
+},
+{
+"id": "4813e03cd60d4a53a591f9445bc4ef7f",
+"title": "Squid Stacky Maze",
+"iframe": "https://html5.gamedistribution.com/4813e03cd60d4a53a591f9445bc4ef7f/",
+"creator": "Meyagames",
+"description": "Navigate layered mazes by moving and stacking squid-shaped pieces using precise directional controls to clear paths and solve puzzles. The gameplay revolves around maneuvering grouped squids that combine to alter movement options and access hidden routes. Each level challenges spatial reasoning and careful planning to reach the exit while avoiding traps or dead ends.\n\nKey Features\n\n• Directional sliding puzzle mechanics  \n• Stackable squid piece movement  \n• Progressive maze complexity  \n• Timer-based challenge mode  \n• Ocean-themed puzzle environments"
+},
+{
+"id": "f3ad6e7816334cd389d55710d60f129a",
+"title": "Squid Marble Game",
+"iframe": "https://html5.gamedistribution.com/f3ad6e7816334cd389d55710d60f129a/",
+"creator": "Meyagames",
+"description": "Manipulate colorful marbles across dynamic tracks to outscore opponents in a physics-based challenge. Slide, spin, and align marbles strategically to clear levels that test precision and timing. The game features various marble types with unique trajectories, offering layered gameplay for casual players seeking quick reflex puzzles.\n\nKey Features\n\n• Marble manipulation physics  \n• Strategic shot control  \n• Progressive track designs  \n• Timed scoring challenges  \n• Vibrant marble color themes"
+},
+{
+"id": "34dd7f7e13544e88a9f3bc1cbcc1be44",
+"title": "Sticka Stacka",
+"iframe": "https://html5.gamedistribution.com/34dd7f7e13544e88a9f3bc1cbcc1be44/",
+"creator": "RodaGames",
+"description": "Stack colored blocks rapidly to create stable towers in this physics-based puzzle challenge. Players stack different shapes with precise timing to avoid toppling their tower while aiming for the highest possible height. Each level introduces variations in block size and weight, testing spatial awareness and quick reflexes under increasing pressure.\n\nKey Features\n\n• physics-driven block stacking  \n• precise timing and placement controls  \n• escalating difficulty with varied shapes  \n• score multiplier based on tower stability  \n• vibrant, minimalist visual style"
+},
+{
+"id": "43ed24dc2ef248aaad9b7cc0c6e4caaa",
+"title": "Hoppy Stacky",
+"iframe": "https://html5.gamedistribution.com/43ed24dc2ef248aaad9b7cc0c6e4caaa/",
+"creator": "Webgameapp",
+"description": "Stack colored blocks carefully to build the tallest tower possible while maintaining balance and precision. Players must time their drops to align each block perfectly atop the last, testing hand-eye coordination in a vibrant, playful environment. As the tower grows, the challenge increases, requiring steady focus to prevent collapse and reach new heights.\n\nKey Features\n\n• Precision block stacking mechanic  \n• Timing-based drop controls  \n• Progressive difficulty scaling  \n• Score tracking and height challenges  \n• Colorful casual arcade setting"
+},
+{
+"id": "388a5130c8b742dfbb462f4de24d1f03",
+"title": "Stickman Ping Pong",
+"iframe": "https://html5.gamedistribution.com/388a5130c8b742dfbb462f4de24d1f03/",
+"creator": "Parrot Games",
+"description": "Bounce a fast-moving paddle to hit a small moving ball across a minimalist stickman-designed table in this physics-driven ping pong game. Players must time their hits precisely to outplay AI or human opponents, mastering simple yet tight paddle controls. Matches progress through increasingly challenging rounds that test reflexes and accuracy.\n\nKey Features\n\n• Paddle timing and precision control  \n• Fast-paced ball physics simulation  \n• Increasing difficulty levels  \n• Competitive multiplayer mode  \n• Minimalist stickman art style"
+},
+{
+"id": "5cdec698c5ce4e66af14ea5b3968ef08",
+"title": "Pinball VS Zombie",
+"iframe": "https://html5.gamedistribution.com/5cdec698c5ce4e66af14ea5b3968ef08/",
+"creator": "Big Wave",
+"description": "Launch steel balls against hordes of creeping undead, using pinball flippers to control each shot with precision. Players aim to crush zombies by bouncing the ball across various bumpers and ramps, combining traditional pinball mechanics with a horror-themed challenge. Levels increase difficulty by adding new zombie types and obstacles to clear.  \n\nKey Features\n\n• Pinball flipper control mechanics  \n• Multi-target zombie smashing challenge  \n• Increasing difficulty with enemy variety  \n• Scoring combos and timed levels  \n• Horror-themed undead pinball arena"
+},
+{
 "id": "2b3a83ea427f41acba506c5a7f6b718a",
 "title": "Space Tanks: Arcade",
 "iframe": "https://html5.gamedistribution.com/2b3a83ea427f41acba506c5a7f6b718a/",
