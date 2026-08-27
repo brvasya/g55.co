@@ -18,12 +18,12 @@
 <h1><?php echo h($h1); ?></h1>
 <p><?php echo $desc; ?></p>
 </section>
-<?php if (!empty($currentCluster)): ?>
+<?php if (!empty($seriesCategories)): ?>
 <nav class="cluster c">
-<h2>Related Game Categories</h2>
+<h2>Related Category Tags</h2>
 <ul class="categories">
-<?php foreach ($currentCluster as $c): ?>
-<li><a class="tag <?php echo rawurlencode($c['id']); ?>" href="/?c=<?php echo rawurlencode($c['id']); ?>"><?php echo h($c['name']); ?></a></li>
+<?php foreach ($seriesCategories as $series): ?>
+<li><a class="tag" href="<?php echo h($series['url']); ?>"><?php echo h($series['title']); ?></a></li>
 <?php endforeach; ?>
 </ul>
 </nav>
