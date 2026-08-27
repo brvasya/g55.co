@@ -12,123 +12,123 @@ AGENT_EXCEPTIONS = {
     "rpg": "adventure",
 
     #archery
-    "archer": "archery",
-    "archero": "archery",
-    "archerry": "archery",
-    "bow": "archery",
-    "bowman": "archery",
+    "archer": "shooter",
+    "archero": "shooter",
+    "archerry": "shooter",
+    "bow": "shooter",
+    "bowman": "shooter",
 
     #baby
-    "babysitter": "baby",
-    "toddler": "baby",
+    "babysitter": "casual",
+    "toddler": "casual",
 
     #ball
-    "arkanoid": "ball",
-    "ballz": "ball",
-    "breakout": "ball",
-    "marble": "ball",
-    "pinball": "ball",
-    "pong": "ball",
-    "zuma": "ball",
+    "arkanoid": "sports",
+    "ballz": "sports",
+    "breakout": "sports",
+    "marble": "sports",
+    "pinball": "sports",
+    "pong": "sports",
+    "zuma": "sports",
 
     #basketball
-    "dunk": "basketball",
-    "hoops": "basketball",
+    "dunk": "sports",
+    "hoops": "sports",
 
     #battle
-    "battler": "battle",
-    "dynamon": "battle",
+    "battler": "action",
+    "dynamon": "action",
 
     #bike
-    "bicycle": "bike",
-    "biker": "bike",
-    "bmx": "bike",
-    "cycling": "bike",
-    "moto": "bike",
-    "motocross": "bike",
-    "motorbike": "bike",
-    "motorcycle": "bike",
+    "bicycle": "driving",
+    "biker": "driving",
+    "bmx": "driving",
+    "cycling": "driving",
+    "moto": "driving",
+    "motocross": "driving",
+    "motorbike": "driving",
+    "motorcycle": "driving",
 
     #block
-    "10x10": "block",
-    "blockz": "block",
-    "brick": "block",
-    "tetris": "block",
-    "tetrix": "block",
-    "tetriz": "block",
-    "unblock": "block",
+    "10x10": "puzzle",
+    "blockz": "puzzle",
+    "brick": "puzzle",
+    "tetris": "puzzle",
+    "tetrix": "puzzle",
+    "tetriz": "puzzle",
+    "unblock": "puzzle",
 
     #brain
-    "logic": "brain",
-    "logical": "brain",
-    "mind": "brain",
-    "riddle": "brain",
-    "smart": "brain",
+    "logic": "puzzle",
+    "logical": "puzzle",
+    "mind": "puzzle",
+    "riddle": "puzzle",
+    "smart": "puzzle",
 
     #cat
-    "kitten": "cat",
-    "kitty": "cat",
-    "meow": "cat",
+    "kitten": "casual",
+    "kitty": "casual",
+    "meow": "casual",
 
     #christmas
-    "christman": "christmas",
-    "santa": "christmas",
-    "xmas": "christmas",
+    "christman": "casual",
+    "santa": "casual",
+    "xmas": "casual",
 
     #coloring
-    "colouring": "coloring",
+    "colouring": "casual",
 
     #connect
-    "conect": "connect",
-    "connection": "connect",
-    "linker": "connect",
-    "onnect": "connect",
+    "conect": "puzzle",
+    "connection": "puzzle",
+    "linker": "puzzle",
+    "onnect": "puzzle",
 
     #cooking
-    "bake": "cooking",
-    "baker": "cooking",
-    "bakery": "cooking",
-    "baking": "cooking",
-    "bbq": "cooking",
-    "burger": "cooking",
-    "chef": "cooking",
-    "cuisine": "cooking",
-    "cupcake": "cooking",
-    "grill": "cooking",
-    "kitchen": "cooking",
-    "muffin": "cooking",
-    "pancake": "cooking",
-    "pastry": "cooking",
-    "recipe": "cooking",
-    "salad": "cooking",
-    "slushy": "cooking",
-    "smoothie": "cooking",
-    "toast": "cooking",
+    "bake": "simulator",
+    "baker": "simulator",
+    "bakery": "simulator",
+    "baking": "simulator",
+    "bbq": "simulator",
+    "burger": "simulator",
+    "chef": "simulator",
+    "cuisine": "simulator",
+    "cupcake": "simulator",
+    "grill": "simulator",
+    "kitchen": "simulator",
+    "muffin": "simulator",
+    "pancake": "simulator",
+    "pastry": "simulator",
+    "recipe": "simulator",
+    "salad": "simulator",
+    "slushy": "simulator",
+    "smoothie": "simulator",
+    "toast": "simulator",
 
     #defense
-    "defence": "defense",
-    "defend": "defense",
-    "protect": "defense",
+    "defence": "strategy",
+    "defend": "strategy",
+    "protect": "strategy",
 
     #differences
-    "differs": "differences",
-    "diffs": "differences",
+    "differs": "puzzle",
+    "diffs": "puzzle",
 
     #doctor
-    "dental": "doctor",
-    "dentist": "doctor",
-    "er": "doctor",
-    "medical": "doctor",
-    "surgeon": "doctor",
-    "surgery": "doctor",
-    "vaccine": "doctor",
+    "dental": "simulator",
+    "dentist": "simulator",
+    "er": "simulator",
+    "medical": "simulator",
+    "surgeon": "simulator",
+    "surgery": "simulator",
+    "vaccine": "simulator",
 
     #dog
-    "doggy": "dog",
-    "puppy": "dog",
+    "doggy": "casual",
+    "puppy": "casual",
 
     #drift
-    "drifty": "drift",
+    "drifty": "driving",
 
     #driving
     "atv": "driving",
@@ -137,139 +137,139 @@ AGENT_EXCEPTIONS = {
     "tractor": "driving",
 
     #farming
-    "harvest": "farming",
+    "harvest": "simulator",
 
     #fashion
-    "barber": "fashion",
-    "braid": "fashion",
-    "braided": "fashion",
-    "chic": "fashion",
-    "dress": "fashion",
-    "dressing": "fashion",
-    "fashionista": "fashion",
-    "haircut": "fashion",
-    "hairstyle": "fashion",
-    "outfit": "fashion",
-    "tailor": "fashion",
-    "wardrobe": "fashion",
+    "barber": "casual",
+    "braid": "casual",
+    "braided": "casual",
+    "chic": "casual",
+    "dress": "casual",
+    "dressing": "casual",
+    "fashionista": "casual",
+    "haircut": "casual",
+    "hairstyle": "casual",
+    "outfit": "casual",
+    "tailor": "casual",
+    "wardrobe": "casual",
 
     #fighting
-    "boxing": "fighting",
-    "brawler": "fighting",
-    "gladiator": "fighting",
-    "karate": "fighting",
-    "punch": "fighting",
-    "samurai": "fighting",
-    "slap": "fighting",
-    "sumo": "fighting",
-    "wrestle": "fighting",
-    "wrestler": "fighting",
-    "wrestling": "fighting",
+    "boxing": "action",
+    "brawler": "action",
+    "gladiator": "action",
+    "karate": "action",
+    "punch": "action",
+    "samurai": "action",
+    "slap": "action",
+    "sumo": "action",
+    "wrestle": "action",
+    "wrestler": "action",
+    "wrestling": "action",
 
     #fishing
-    "angler": "fishing",
-    "fisherman": "fishing",
+    "angler": "simulator",
+    "fisherman": "simulator",
 
     #flying
-    "airplane": "flying",
-    "aviation": "flying",
-    "aviator": "flying",
-    "copter": "flying",
-    "glider": "flying",
-    "helicopter": "flying",
-    "pilot": "flying",
-    "plane": "flying",
+    "airplane": "simulator",
+    "aviation": "simulator",
+    "aviator": "simulator",
+    "copter": "simulator",
+    "glider": "simulator",
+    "helicopter": "simulator",
+    "pilot": "simulator",
+    "plane": "simulator",
 
     #football
-    "rugby": "football",
-    "touchdown": "football",
+    "rugby": "sports",
+    "touchdown": "sports",
 
     #golf
-    "minigolf": "golf",
-    "putt": "golf",
+    "minigolf": "sports",
+    "putt": "sports",
 
     #gun
-    "bazooka": "gun",
-    "pistol": "gun",
+    "bazooka": "shooter",
+    "pistol": "shooter",
 
     #halloween
-    "hallowen": "halloween",
-    "helloween": "halloween",
+    "hallowen": "casual",
+    "helloween": "casual",
 
     #hero
-    "superhero": "hero",
+    "superhero": "action",
 
     #horror
-    "backroom": "horror",
-    "haunted": "horror",
-    "scary": "horror",
-    "slender": "horror",
-    "slenderman": "horror",
-    "slendrina": "horror",
-    "terror": "horror",
+    "backroom": "adventure",
+    "haunted": "adventure",
+    "scary": "adventure",
+    "slender": "adventure",
+    "slenderman": "adventure",
+    "slendrina": "adventure",
+    "terror": "adventure",
 
     #impostor
-    "imposter": "impostor",
+    "imposter": "action",
 
     #jumping
-    "hopping": "jumping",
-    "jumpy": "jumping",
-    "leap": "jumping",
+    "hopping": "arcade",
+    "jumpy": "arcade",
+    "leap": "arcade",
 
     #kids
-    "children": "kids",
+    "children": "casual",
 
     #mahjong
-    "mahjongg": "mahjong",
+    "mahjongg": "board",
 
     #makeup
-    "lip": "makeup",
-    "manicure": "makeup",
-    "nails": "makeup",
-    "pedicure": "makeup",
-    "tattoo": "makeup",
+    "lip": "casual",
+    "manicure": "casual",
+    "nails": "casual",
+    "pedicure": "casual",
+    "tattoo": "casual",
 
     #matching
-    "kyodai": "matching",
-    "matchems": "matching",
-    "onet": "matching",
-    "pair": "matching",
+    "kyodai": "puzzle",
+    "matchems": "puzzle",
+    "onet": "puzzle",
+    "pair": "puzzle",
 
     #math
-    "addition": "math",
-    "arithmetic": "math",
-    "counting": "math",
-    "equations": "math",
-    "mathematical": "math",
-    "mathematics": "math",
-    "multiplication": "math",
+    "addition": "quiz",
+    "arithmetic": "quiz",
+    "counting": "quiz",
+    "equations": "quiz",
+    "mathematical": "quiz",
+    "mathematics": "quiz",
+    "multiplication": "quiz",
 
     #memory
-    "memo": "memory",
-    "memorize": "memory",
-    "remember": "memory",
+    "memo": "puzzle",
+    "memorize": "puzzle",
+    "remember": "puzzle",
 
     #merge
-    "combine": "merge",
-    "fuse": "merge",
-    "fusion": "merge",
-    "merger": "merge",
-    "merging": "merge",
+    "combine": "puzzle",
+    "fuse": "puzzle",
+    "fusion": "puzzle",
+    "merger": "puzzle",
+    "merging": "puzzle",
 
     #minecraft
-    "minicraft": "minecraft",
+    "minicraft": "adventure",
 
     #offroad
-    "jeep": "offroad",
+    "jeep": "driving",
 
     #parking
-    "unpark": "parking",
+    "unpark": "driving",
 
     #platform
-    "vex": "platform",
+    "vex": "arcade",
 
     #pool
-    "billiard": "pool",
+    "billiard": "sports",
 
     #puzzle
     "backgammon": "puzzle",
@@ -305,24 +305,24 @@ AGENT_EXCEPTIONS = {
     "trivia": "quiz",
 
     #racing
-    "formula": "racing",
-    "karting": "racing",
-    "rally": "racing",
-    "speedway": "racing",
+    "formula": "driving",
+    "karting": "driving",
+    "rally": "driving",
+    "speedway": "driving",
 
     #rescue
-    "ambulance": "rescue",
-    "firefighter": "rescue",
-    "rescuer": "rescue",
+    "ambulance": "adventure",
+    "firefighter": "adventure",
+    "rescuer": "adventure",
 
     #restaurant
-    "cafe": "restaurant",
-    "diner": "restaurant",
-    "pizzeria": "restaurant",
-    "tavern": "restaurant",
+    "cafe": "simulator",
+    "diner": "simulator",
+    "pizzeria": "simulator",
+    "tavern": "simulator",
 
     #rush
-    "rushy": "rush",
+    "rushy": "arcade",
 
     #shooter
     "blaster": "shooter",
@@ -339,39 +339,39 @@ AGENT_EXCEPTIONS = {
     "simulation": "simulator",
 
     #sniper
-    "snipe": "sniper",
+    "snipe": "shooter",
 
     #soccer
-    "foosball": "soccer",
-    "footy": "soccer",
-    "freekick": "soccer",
-    "goalkeeper": "soccer",
-    "penalty": "soccer",
+    "foosball": "sports",
+    "footy": "sports",
+    "freekick": "sports",
+    "goalkeeper": "sports",
+    "penalty": "sports",
 
     #solitaire
-    "freecell": "solitaire",
-    "patience": "solitaire",
-    "soli": "solitaire",
-    "tripeaks": "solitaire",
+    "freecell": "card",
+    "patience": "card",
+    "soli": "card",
+    "tripeaks": "card",
 
     #sorting
-    "laundry": "sorting",
-    "organize": "sorting",
-    "tidy": "sorting",
+    "laundry": "puzzle",
+    "organize": "puzzle",
+    "tidy": "puzzle",
 
     #space
-    "alien": "space",
-    "asteroid": "space",
-    "astronaut": "space",
-    "cosmic": "space",
-    "cosmos": "space",
-    "galactic": "space",
-    "galaxy": "space",
-    "mars": "space",
-    "moon": "space",
-    "solar": "space",
-    "spaceship": "space",
-    "starship": "space",
+    "alien": "adventure",
+    "asteroid": "adventure",
+    "astronaut": "adventure",
+    "cosmic": "adventure",
+    "cosmos": "adventure",
+    "galactic": "adventure",
+    "galaxy": "adventure",
+    "mars": "adventure",
+    "moon": "adventure",
+    "solar": "adventure",
+    "spaceship": "adventure",
+    "starship": "adventure",
 
     #sports
     "badminton": "sports",
@@ -387,34 +387,34 @@ AGENT_EXCEPTIONS = {
     "volleyball": "sports",
 
     #stack
-    "stacka": "stack",
-    "stacky": "stack",
+    "stacka": "arcade",
+    "stacky": "arcade",
 
     #stunt
-    "stuntz": "stunt",
-    "wheelie": "stunt",
+    "stuntz": "driving",
+    "wheelie": "driving",
 
     #sudoku
-    "wordoku": "sudoku",
+    "wordoku": "puzzle",
 
     #survival
-    "survive": "survival",
-    "survivor": "survival",
+    "survive": "action",
+    "survivor": "action",
 
     #train
-    "railroad": "train",
+    "railroad": "driving",
 
     #tycoon
-    "business": "tycoon",
-    "manager": "tycoon",
+    "business": "simulator",
+    "manager": "simulator",
 
     #war
-    "battalion": "war",
-    "battlefield": "war",
-    "siege": "war",
-    "soldier": "war",
-    "warfare": "war",
-    "warzone": "war",
+    "battalion": "strategy",
+    "battlefield": "strategy",
+    "siege": "strategy",
+    "soldier": "strategy",
+    "warfare": "strategy",
+    "warzone": "strategy",
 
     #word
     "crossword": "word",
