@@ -1,32 +1,11 @@
 {
 "pages": [
 {
-"id": "a0de198084f84ff8a657d46706d35bf7",
-"title": "Zombie Typing",
-"iframe": "https://html5.gamedistribution.com/a0de198084f84ff8a657d46706d35bf7/",
-"creator": "Cat Summer",
-"description": "Type targeted words rapidly to fend off waves of approaching zombies, using a dynamic keyboard input system that tests both speed and accuracy. Each level increases difficulty by introducing new zombie types and faster threats, requiring players to adapt quickly. The core challenge lies in mastering fast typing to survive increasingly intense attacks in this undead setting.\n\nKey Features\n\n• Keyboard typing combat mechanic  \n• Real-time word recognition controls  \n• Progressive zombie wave difficulty  \n• Score tracking with typing accuracy  \n• Horror-themed undead enemies"
-},
-{
-"id": "5b09e4ee63774113ad08820311835ad1",
-"title": "Zombie Typer",
-"iframe": "https://html5.gamedistribution.com/5b09e4ee63774113ad08820311835ad1/",
-"creator": "Arcade Lemon",
-"description": "Type rapid sequences of words to fend off waves of approaching zombies in this fast-paced typing challenge. Players improve their typing speed and accuracy while unlocking new levels that increase difficulty and introduce unique enemy types. The core mechanic blends keyboard fluency with survival strategy, set in a dark apocalyptic environment where quick reflexes determine progress.\n\nKey Features\n\n• progressive typing speed tests  \n• keyboard input accuracy focus  \n• escalating enemy wave challenges  \n• level unlock and ranking system  \n• post-apocalyptic zombie theme"
-},
-{
 "id": "4aa0b78887e64e1ab69ff666c0e9889c",
 "title": "Type Run",
 "iframe": "https://html5.gamedistribution.com/4aa0b78887e64e1ab69ff666c0e9889c/",
 "creator": "bestgames.com",
 "description": "Control a nimble runner navigating dynamic obstacle courses to reach checkpoints and survive timed challenges. The game blends smooth horizontal movement with precise jumping mechanics across varied levels. Players must adapt to shifting platforms and unpredictable traps while aiming for high scores in progressively complex stages.\n\nKey Features\n\n• Responsive side-scrolling controls  \n• Timed obstacle navigation  \n• Multi-level progression system  \n• Reactive platform hazards  \n• Casual arcade running style"
-},
-{
-"id": "80bc181a96fd4404b52ea97e1679700c",
-"title": "Ninja Crossword Challenge",
-"iframe": "https://html5.gamedistribution.com/80bc181a96fd4404b52ea97e1679700c/",
-"creator": "PuzzleGame.Com",
-"description": "Solve challenging word puzzles by placing ninja-themed clues into a crossword grid, testing pattern recognition and vocabulary skills under time pressure. Players advance through increasingly complex levels that mix traditional crossword mechanics with stealth-inspired hint systems. The objective is to complete all puzzles without errors while uncovering hidden ninja references.\n\nKey Features\n\n• Crossword grid puzzle solving  \n• Timed clue placement controls  \n• Increasing difficulty progression  \n• Stealth hint reveal mechanics  \n• Ninja-themed vocabulary sets"
 },
 {
 "id": "d414118fead340708438d18b13fe0543",
@@ -62,27 +41,6 @@
 "iframe": "https://html5.gamedistribution.com/3c7adf6eecfa448db0f45834bb4ee91f/",
 "creator": "EcapsGames.com",
 "description": "Solve simple crossword puzzles by placing words on grids designed for young learners, practicing vocabulary and spelling with interactive letter selections. Progress through levels that gradually increase puzzle complexity, encouraging problem-solving and reading skills development suited for casual gamers and children.\n\nKey Features\n\n• Letter placement crossword puzzles  \n• Interactive drag-and-drop controls  \n• Gradual difficulty progression  \n• Time-limited challenge mode  \n• Child-friendly vocabulary themes"
-},
-{
-"id": "bd1b4331b82b40a8bef59a9e18804574",
-"title": "Easy Kids Coloring Letters",
-"iframe": "https://html5.gamedistribution.com/bd1b4331b82b40a8bef59a9e18804574/",
-"creator": "Vi Games",
-"description": "Color letters on a digital canvas using simple touch controls to fill shapes and complete alphabet-themed illustrations. Players interact with bright, clean outlines that encourage matching colors and shapes while progressing through increasing difficulty levels designed for casual and young gamers. The game emphasizes color recognition and fine motor skills in a kid-friendly environment.\n\nKey Features\n\n• Interactive color filling mechanic  \n• Touch-based painting controls  \n• Graduated shape complexity  \n• Progressive alphabet challenges  \n• Child-friendly visual design"
-},
-{
-"id": "0f2709631ff94c82bf20dd08bcb4b825",
-"title": "Kids Hangman",
-"iframe": "https://html5.gamedistribution.com/0f2709631ff94c82bf20dd08bcb4b825/",
-"creator": "Fun Best Games",
-"description": "Solve word puzzles by guessing letters within limited attempts in this classic hangman experience designed for younger players. The game’s core mechanic combines letter selection with visual hints that gradually reveal a hidden word. Players aim to complete each word before running out of guesses, gradually increasing difficulty with each successful round.\n\nKey Features\n\n• Letter guessing puzzle mechanic  \n• Click-based letter selection control  \n• Progressive word difficulty levels  \n• Visual hangman drawing feedback  \n• Child-friendly word categories"
-},
-{
-"id": "6870af61b70b42f3a0f5226d81668bb7",
-"title": "Halloween Hangman",
-"iframe": "https://html5.gamedistribution.com/6870af61b70b42f3a0f5226d81668bb7/",
-"creator": "Fun Best Games",
-"description": "Solve spooky word puzzles by guessing letters one at a time before a ghostly figure completes its hangman frame. This Halloween themed word guessing challenge tests your vocabulary and deduction skills while racing against limited wrong attempts. Progress through increasingly tricky puzzles as you uncover hidden seasonal words with each successful round.\n\nKey Features\n\n• letter guessing core mechanic  \n• keyboard input controls  \n• limited incorrect guess challenge  \n• progressive word difficulty levels  \n• Halloween visual theme"
 },
 {
 "id": "edd1e75a4a6c44d984a60d9f147e52ea",
@@ -132,13 +90,6 @@
 "iframe": "https://html5.gamedistribution.com/f9fa626b2cf54efeb39b476bd6abc07a/",
 "creator": "Gameyogi",
 "description": "Arrange color-coded letters into vibrant word patterns by solving intricate puzzles that require matching and logical placement. Players manipulate tiles on a grid to reveal hidden words, advancing through increasingly complex levels filled with colorful designs. The challenge lies in using spatial reasoning to clear all blocks while enjoying a creative, artistic atmosphere.\n\nKey Features\n\n• Tile matching word puzzles  \n• Grid-based spatial manipulation  \n• Progressive difficulty stages  \n• Color blending visual effects  \n• Casual artistic puzzle theme"
-},
-{
-"id": "248fce4f20ae4d7a925af5e458b959b2",
-"title": "Christmas Capital Letters",
-"iframe": "https://html5.gamedistribution.com/248fce4f20ae4d7a925af5e458b959b2/",
-"creator": "newgamess",
-"description": "Arrange letters under timed challenges to complete Christmas-themed words. The game tests quick letter recognition and placement, requiring precise keyboard input to finish each festive puzzle before time runs out. Players advance through increasing difficulty levels featuring holiday vocabulary, blending fast-paced typing and word building with a seasonal twist.\n\nKey Features\n\n• Timed letter selection mechanic  \n• Keyboard input accuracy required  \n• Increasing difficulty word puzzles  \n• Level progression with scoring system  \n• Christmas holiday vocabulary theme"
 },
 {
 "id": "16fcfe1e70e248efbd43c1dca4ab5337",

@@ -1,39 +1,480 @@
 {
 "pages": [
 {
+"id": "24c6e19e774a463fbd9cc098b308053a",
+"title": "2 Player Math",
+"iframe": "https://html5.gamedistribution.com/24c6e19e774a463fbd9cc098b308053a/",
+"creator": "TrendyGames",
+"description": "Challenge mental agility by competing in fast-paced math quizzes with direct player input to solve equations under time pressure. Exchange answers interactively in head-to-head rounds where quick calculations determine success, with escalating difficulty as puzzles grow more complex. The game targets casual gamers and kids, blending reflexive calculation and competitive gameplay for engaging brain workouts.\n\nKey Features\n\n• Real-time math problem solving  \n• Two-player competitive input  \n• Increasing equation difficulty levels  \n• Turn-based duel scoring system  \n• Minimalistic educational interface"
+},
+{
+"id": "e7e5bb0e6caf47b5965d813736921e76",
+"title": "Math Stars",
+"iframe": "https://html5.gamedistribution.com/e7e5bb0e6caf47b5965d813736921e76/",
+"creator": "Pavel Beke",
+"description": "Solve rapid-fire arithmetic puzzles using timed calculation rounds where accuracy and speed drive your score. Each level increases in difficulty by introducing more complex equations and shorter time limits, pushing players to sharpen mental agility. Suitable for casual gamers and teens, the game offers fast-paced math challenges that test concentration and quick problem-solving under pressure.\n\nKey Features\n\n• Timed arithmetic puzzle rounds  \n• Interactive number selection controls  \n• Progressive difficulty scaling  \n• Score multiplier for quick answers  \n• Minimalist classroom-inspired visuals"
+},
+{
+"id": "1bd7a44469c84c65b2d95f2289ee7007",
+"title": "Math Master",
+"iframe": "https://html5.gamedistribution.com/1bd7a44469c84c65b2d95f2289ee7007/",
+"creator": "Big Wave",
+"description": "Solve challenging math puzzles by quickly selecting correct answers from shifting number grids. The gameplay revolves around fast pattern recognition and timed responses to unlock new levels. Players advance by mastering unique question types that increase in difficulty, making it ideal for casual gamers aiming to improve mental agility and arithmetic skills.\n\nKey Features\n\n• Dynamic number grid puzzles  \n• Timed answer selection mechanic  \n• Increasing difficulty stages  \n• Scoring combo multiplier system  \n• Casual brain training focus"
+},
+{
+"id": "3696faedf5d14ccfa6abb23379f8a25b",
+"title": "Math Block",
+"iframe": "https://html5.gamedistribution.com/3696faedf5d14ccfa6abb23379f8a25b/",
+"creator": "GameFiH",
+"description": "Match numbered blocks by swapping positions to clear the grid and reach target sums. Gameplay revolves around strategic tile movement and combining adjacent blocks with matching values, testing quick math skills and spatial reasoning. Levels increase in difficulty by introducing new block types and limited moves that challenge players to clear the board efficiently.\n\nKey Features\n\n• Number matching tile swaps  \n• Limited move puzzle challenges  \n• Progressive difficulty levels  \n• Time-based score multiplier  \n• Minimalistic grid interface"
+},
+{
+"id": "716f4ed14dfb4a5fabdebd48ca04d0c3",
+"title": "UGC Math Race",
+"iframe": "https://html5.gamedistribution.com/716f4ed14dfb4a5fabdebd48ca04d0c3/",
+"creator": "2Play",
+"description": "Race through math challenges by quickly solving problems against the clock in this fast-paced learning game. Use timed responses to navigate through levels that test your arithmetic speed and accuracy, aiming to improve your score with each stage. The game blends number puzzles with a dynamic race progression that engages casual players and young learners alike.\n\nKey Features\n\n• Timed arithmetic problem solving  \n• Speed-based answer input control  \n• Level progression with difficulty scaling  \n• Score tracking and accuracy feedback  \n• Educational math challenge theme"
+},
+{
+"id": "877356dc859c48f3b7e1922a48110439",
+"title": "Chicken Math",
+"iframe": "https://html5.gamedistribution.com/877356dc859c48f3b7e1922a48110439/",
+"creator": "GamePush",
+"description": "Collect chickens by solving math puzzles that combine arithmetic with timed challenges in a farmyard setting. Players tap numbered chickens to reach target sums while managing countdown timers and avoiding mistakes. The game features increasing difficulty levels that test mental agility and speed for casual players and kids alike.\n\nKey Features\n\n• Arithmetic puzzle challenges  \n• Timed collection mechanics  \n• Progressive difficulty stages  \n• Score tracking and ranking  \n• Farm-themed visual style"
+},
+{
+"id": "9c760581e6bf486f8a43e1813614f6bd",
+"title": "Math Lava: Tower Race",
+"iframe": "https://html5.gamedistribution.com/9c760581e6bf486f8a43e1813614f6bd/",
+"creator": "2Play",
+"description": "Race up ascending lava towers by solving math challenges against time pressure. Players engage in rapid calculation puzzles that influence their movement on unstable platforms surrounded by molten lava. The core mechanic blends timed mental arithmetic with platform navigation, requiring quick thinking to avoid falling hazards and reach higher levels of intensity.\n\nKey Features\n\n• Timed arithmetic puzzle solving  \n• Platform movement synchronization  \n• Increasing difficulty with lava hazards  \n• Score tracking with progression tiers  \n• Volcanic tower setting atmosphere"
+},
+{
+"id": "4346016018aa4beca3dcc8a11393b08c",
+"title": "Math Box Balance",
+"iframe": "https://html5.gamedistribution.com/4346016018aa4beca3dcc8a11393b08c/",
+"creator": "Lof Games",
+"description": "Balance numerical equations using logic and weight distribution to keep the scales even. Players manipulate number boxes on a digital balance beam, aiming to solve puzzles by matching sums and weights. Each level introduces different weight values and increasingly complex math challenges, testing precise calculation and strategic placement skills.\n\nKey Features\n\n• Number box balancing core mechanic  \n• Drag and drop box controls  \n• Progressive puzzle complexity  \n• Time trial challenge mode  \n• Abstract math-themed interface"
+},
+{
+"id": "fe6a3730ae9d47babee7a2a5b26562c8",
+"title": "Math Obby",
+"iframe": "https://html5.gamedistribution.com/fe6a3730ae9d47babee7a2a5b26562c8/",
+"creator": "2Play",
+"description": "Navigate challenging obstacle courses by solving math puzzles integrated into each platform sequence, testing both calculation speed and precision. Progression relies on clearing increasingly complex numerical challenges while mastering timed jumps and balanced movements. This puzzle-parkour hybrid targets casual players and younger audiences aiming to reach the finish by blending math skills with agile traversal.\n\nKey Features\n\n• Puzzle solving with platform navigation  \n• Timed jump and movement controls  \n• Incremental difficulty in math challenges  \n• Score tracking based on accuracy  \n• Educational math-themed obstacles"
+},
+{
+"id": "35e1ca81ddb84e73879bb7671e8902ad",
+"title": "Math Duck",
+"iframe": "https://html5.gamedistribution.com/35e1ca81ddb84e73879bb7671e8902ad/",
+"creator": "Orenji Spark",
+"description": "Solve arithmetic problems by controlling a duck character through increasingly difficult levels that combine speed and accuracy. Players answer math questions under time pressure while navigating simple obstacles, aiming to complete challenges and unlock new stages. The playful, educational setting encourages quick calculation skills as part of the core challenge.\n\nKey Features\n\n• Timed math problem solving  \n• Duck movement with directional controls  \n• Level-based difficulty progression  \n• Score tracking and accuracy rewards  \n• Kid-friendly educational theme"
+},
+{
+"id": "a8870b5a6a76492db5cb8ca599f64843",
+"title": "Math Runner",
+"iframe": "https://html5.gamedistribution.com/a8870b5a6a76492db5cb8ca599f64843/",
+"creator": "2Play",
+"description": "Solve math problems quickly while navigating an endless runner obstacle course that tests both reflexes and calculation speed. Players tap to answer mental puzzles that appear alongside dynamically generated platforms, balancing fast decision-making with precise timing. Each stage ramps up difficulty by increasing problem complexity and obstacle density, challenging your cognitive agility in a vibrant, animated setting.\n\nKey Features\n\n• Real-time math problem solving  \n• Tap controls for quick answers  \n• Progressive difficulty and speed  \n• Endless runner obstacle navigation  \n• Colorful animated obstacle environments"
+},
+{
+"id": "2e93e177c83841fa985f2c11078bd0af",
+"title": "Jelly Math 3D",
+"iframe": "https://html5.gamedistribution.com/2e93e177c83841fa985f2c11078bd0af/",
+"creator": "GMG",
+"description": "Manipulate colorful 3D jelly shapes by matching numbers through rotation and spatial alignment to solve puzzles. Players use interactive math mechanics within a vibrant, abstract environment focused on numerical problem-solving. The challenge lies in combining matching numeric jellies accurately to clear levels and advance through increasingly complex puzzles.\n\nKey Features\n\n• 3D rotational matching gameplay  \n• Interactive numeric puzzle solving  \n• Progressive level complexity  \n• Touch and drag control system  \n• Abstract jelly-themed visuals"
+},
+{
+"id": "45a99bdfe883436cb19102c9b164876d",
+"title": "Fantasy Math Number",
+"iframe": "https://html5.gamedistribution.com/45a99bdfe883436cb19102c9b164876d/",
+"creator": "Cat Summer",
+"description": "Calculate numbers quickly while adapting to shifting numeric puzzles in a mysterious fantasy realm. The game challenges players to solve equations under time pressure, using pattern recognition in the enchanted grid to advance through increasingly complex stages. Each completed sequence reveals magical elements that hint at the game's arcane setting.\n\nKey Features\n\n• Timed numeric puzzle grids  \n• Pattern recognition mechanics  \n• Increasing difficulty stages  \n• Sequence-based progression system  \n• Enchanted fantasy-themed visuals"
+},
+{
+"id": "0e8e1bea7eb643448947d921e9ad43b9",
+"title": "Math Quest",
+"iframe": "https://html5.gamedistribution.com/0e8e1bea7eb643448947d921e9ad43b9/",
+"creator": "TuuT",
+"description": "Solve dynamic math puzzles by matching numerical patterns to progress through increasingly complex challenges in this brain-training game. The core mechanic revolves around quick calculation and pattern recognition across a series of timed levels designed for casual and younger players. Players aim to clear puzzles efficiently to unlock new difficulty tiers and advance through diverse numeric scenarios.\n\nKey Features\n\n• Pattern matching puzzle mechanic  \n• Timed calculation challenges  \n• Level-based progression system  \n• Increasing difficulty tiers  \n• Educational numeric puzzle setting"
+},
+{
+"id": "0db794d1747c42f6902954a54d957b4c",
+"title": "Math King - Math Skill Game",
+"iframe": "https://html5.gamedistribution.com/0db794d1747c42f6902954a54d957b4c/",
+"creator": "ChennaiGames Studio Private Limited",
+"description": "Solve rapid math challenges by calculating answers against the clock in this skill-based game. Players rely on quick mental arithmetic in timed rounds to clear increasing levels of numerical puzzles. Accuracy and speed are essential as the difficulty scales, testing core calculation abilities. Simple interface and focused puzzle structure keep the spotlight on sharpening math agility.\n\nKey Features\n\n• Timed mental arithmetic rounds  \n• Increasing difficulty progression  \n• Numeric input control scheme  \n• Score-based accuracy system  \n• Casual math puzzle theme"
+},
+{
+"id": "e8853f6d4f2f49d68a7af7142077f7ab",
+"title": "Math Rockets Division",
+"iframe": "https://html5.gamedistribution.com/e8853f6d4f2f49d68a7af7142077f7ab/",
+"creator": "Lof Games",
+"description": "Divide floating rockets by solving number puzzles precise control of fraction mechanics challenges players to achieve accurate quotient results in a space-themed setting. Progress through increasing difficulty levels featuring timed division challenges to prevent rocket explosions while managing limited attempts.\n\nKey Features\n\n• Fraction-based division puzzles  \n• Click and drag quotient input  \n• Timed accuracy challenge mode  \n• Level progression with increasing complexity  \n• Space rocket launch setting"
+},
+{
+"id": "7f0910d841d74752b9c3faf95f70c3c9",
+"title": "BFF Math Class",
+"iframe": "https://html5.gamedistribution.com/7f0910d841d74752b9c3faf95f70c3c9/",
+"creator": "iclickgames",
+"description": "Solve arithmetic problems by selecting the correct answers within a timed classroom setting that encourages quick thinking and accuracy. Players work through escalating difficulty levels, sharpening mental math skills by tackling addition, subtraction, multiplication, and division challenges. The game features a classroom theme with animated elements that add charm to each progression stage, keeping engagement steady.\n\nKey Features\n\n• Timed problem solving rounds  \n• Multiple choice answer controls  \n• Increasing difficulty progression  \n• Arithmetic skill variety  \n• Animated classroom environment"
+},
+{
+"id": "d6c884e486a94cefaeb5d639415415b6",
+"title": "Traffic Control Math",
+"iframe": "https://html5.gamedistribution.com/d6c884e486a94cefaeb5d639415415b6/",
+"creator": "Lof Games",
+"description": "Manage dynamic route assignments by directing vehicles through intersections in this timed puzzle game. Players use strategic thinking to adjust traffic flow and prevent collisions, testing pattern recognition and reaction speed. Each level introduces more complex vehicle waves, increasing difficulty as you progress through urban traffic scenarios.\n\nKey Features\n\n• Intersection traffic coordination  \n• Real-time vehicle management controls  \n• Increasing wave complexity challenge  \n• Time attack scoring system  \n• Urban city traffic theme"
+},
+{
+"id": "6b0c62c42b0a4648ba7d447c2f2d607a",
+"title": "Math Duck",
+"iframe": "https://html5.gamedistribution.com/6b0c62c42b0a4648ba7d447c2f2d607a/",
+"creator": "Misc.261 Games",
+"description": "Solve math problems by aiming and firing projectiles to hit moving targets with calculated precision. This game blends trajectory physics with timed puzzles set in an outdoors environment where each level tests your speed and accuracy against increasing difficulty. Players navigate progressive challenges requiring quick mental calculation paired with strategic aiming to clear waves of numeric ducks.\n\nKey Features\n\n• Projectile aiming and firing  \n• Timed math puzzle sequences  \n• Increasing difficulty waves  \n• Score multiplier combo system  \n• Outdoors themed target zones"
+},
+{
+"id": "280c3ef1cb364056a0f4636ffc4c1a9c",
+"title": "Math Signs Game",
+"iframe": "https://html5.gamedistribution.com/280c3ef1cb364056a0f4636ffc4c1a9c/",
+"creator": "JM Neto Game Dev",
+"description": "Solve equations by placing correct math signs in sequences to reach target results. The game challenges players to analyze numbers and experiment with different operation symbols like plus, minus, multiply, and divide to find valid solutions. Progression likely involves increasing difficulty with more complex numeric patterns or limited moves, focusing on logic and arithmetic skill development for casual and younger players.\n\nKey Features\n\n• Math sign placement puzzles  \n• Numeric sequence manipulation  \n• Increasing puzzle difficulty  \n• Limited move challenge system  \n• Arithmetic logic focus"
+},
+{
+"id": "8c5a6aba17b94c968661bcb3e28a0d63",
+"title": "RESOLVE a math game",
+"iframe": "https://html5.gamedistribution.com/8c5a6aba17b94c968661bcb3e28a0d63/",
+"creator": "Playtouch",
+"description": "Solve complex numerical puzzles using pattern recognition and sequence analysis in this math-based challenge. Players engage with varied equation types and number grids to unlock higher difficulty stages, testing logic and speed. Progression depends on refining problem-solving skills through timed rounds and accuracy-focused trials.\n\nKey Features\n\n• Pattern recognition equations  \n• Number grid interaction  \n• Progressive difficulty levels  \n• Timed accuracy challenges  \n• Logic puzzle sequences"
+},
+{
+"id": "4ab90de0434941e296bf52e9e7a78ca4",
+"title": "Toys Math",
+"iframe": "https://html5.gamedistribution.com/4ab90de0434941e296bf52e9e7a78ca4/",
+"creator": "Lof Games",
+"description": "Count and solve math puzzles using interactive toy pieces to match numeric targets in this casual numbers game. Players drag and group colorful toys to form equations and reach goal values through basic arithmetic challenges. The game advances across varied difficulty levels where precision and speed improve scores while engaging younger audiences in learning concepts with visual aids.\n\nKey Features\n\n• Drag and drop toy grouping  \n• Arithmetic matching puzzles  \n• Increasing difficulty stages  \n• Time trial scoring system  \n• Bright child-friendly visuals"
+},
+{
+"id": "349e0433ef7c47a2a183f481c67b92b5",
+"title": "Math Games For Adults",
+"iframe": "https://html5.gamedistribution.com/349e0433ef7c47a2a183f481c67b92b5/",
+"creator": "Playtouch",
+"description": "Solve math puzzles by manipulating numbers through timed challenge rounds that test quick thinking and calculation skills. Players engage with various arithmetic problems that increase in difficulty, requiring sharp mental agility to progress through escalating stages. The game challenges pattern recognition and speed, blending casual gameplay with educational elements suitable for teens and kids.\n\nKey Features\n\n• Timed mental calculation rounds  \n• Number manipulation controls  \n• Incremental difficulty stages  \n• Score-based progression system  \n• Casual arithmetic puzzle theme"
+},
+{
+"id": "b1d504ca0b8e48f0a956b42bcdd49a5f",
+"title": "Funny Math",
+"iframe": "https://html5.gamedistribution.com/b1d504ca0b8e48f0a956b42bcdd49a5f/",
+"creator": "Absolutist Ltd.",
+"description": "Solve numeric puzzles by selecting correct answers under time pressure in a quick-thinking math challenge that sharpens mental agility. Players must perform accurate calculations using simple arithmetic within a ticking clock, advancing through escalating levels that test speed and precision. The game targets casual gamers and kids eager to practice basic math skills in a dynamic setting.\n\nKey Features\n\n• Timed arithmetic problem-solving  \n• Click-to-select answer mechanic  \n• Increasing difficulty levels  \n• Reaction speed challenge  \n• Educational numeric focus"
+},
+{
+"id": "bd829ca7463d48209eb675f0a391c807",
+"title": "Math Games",
+"iframe": "https://html5.gamedistribution.com/bd829ca7463d48209eb675f0a391c807/",
+"creator": "trezegames",
+"description": "Solve progressively challenging math puzzles by selecting correct answers under time pressure. The gameplay focuses on quick calculation and pattern recognition across various problem types. Players advance through levels that increase in difficulty, requiring sharper mental agility and speed. This educational experience is designed for casual gamers, teens, and kids aiming to improve arithmetic skills.\n\nKey Features\n\n• Timed arithmetic challenges  \n• Multiple choice answer input  \n• Level based difficulty scaling  \n• Score tracking and ranking  \n• Educational number puzzle focus"
+},
+{
+"id": "31b2704053ce438185636a93c8256b64",
+"title": "MATH PLASTICINE",
+"iframe": "https://html5.gamedistribution.com/31b2704053ce438185636a93c8256b64/",
+"creator": "nau.kids",
+"description": "Manipulate clay-like figures to solve math puzzles by bending and shaping plasticine forms in creative ways. Each level challenges players to achieve numeric goals through flexible object adjustments, combining tactile interaction with calculation tasks. Progression unlocks increasingly complex shapes and numerical targets, inviting players to blend spatial reasoning with arithmetic skills.\n\nKey Features\n\n• Clay deformation puzzle mechanics  \n• Interactive numeric problem solving  \n• Progressive difficulty shaping challenges  \n• Time-limited score mode  \n• Handcrafted plasticine visual design"
+},
+{
+"id": "37b9d9682fd44cac94b367ae8ed1c09d",
+"title": "Winter Warm Up Math",
+"iframe": "https://html5.gamedistribution.com/37b9d9682fd44cac94b367ae8ed1c09d/",
+"creator": "Lof Games",
+"description": "Solve math puzzles by quickly matching numbers to warming winter icons in this vibrant seasonal challenge. Players use a logic-based matching mechanic to connect math results with corresponding snowflakes or mittens, aiming to clear levels before time runs out. The frosty setting enhances the engaging number matching while testing speed and accuracy under pressure.\n\nKey Features\n\n• Number matching puzzle mechanic  \n• Timed level clearing challenge  \n• Increasing difficulty progression  \n• Speed and accuracy focus  \n• Winter-themed visual elements"
+},
+{
+"id": "a36fbbf9d4f742d5bbe44954534229f8",
+"title": "The Power Of Math",
+"iframe": "https://html5.gamedistribution.com/a36fbbf9d4f742d5bbe44954534229f8/",
+"creator": "Rich Games",
+"description": "Solve sequential math puzzles by matching numbers and operations in a timed setting. Players strategically combine arithmetic elements to reach target values while navigating increasingly complex challenges. The game emphasizes quick thinking and numerical pattern recognition in a vibrant, educational context suitable for casual gamers and younger players.\n\nKey Features\n\n• Number pairing mechanic  \n• Timed puzzle challenges  \n• Progressive difficulty levels  \n• Score multiplier system  \n• Colorful educational visuals"
+},
+{
+"id": "e5a8e00912854b1ca124e6d6e2a82fce",
+"title": "MathPup Story",
+"iframe": "https://html5.gamedistribution.com/e5a8e00912854b1ca124e6d6e2a82fce/",
+"creator": "MathNook",
+"description": "Navigate puzzles by matching numbers and solving equations to guide MathPup through vibrant learning environments. Players engage with arithmetic challenges that unlock new levels and rewards, blending math practice with light platforming elements. The goal is to sharpen problem-solving skills while progressing through increasingly tricky numerical sequences.\n\nKey Features\n\n• Number matching puzzle mechanic  \n• Interactive math equation challenges  \n• Progressive difficulty stages  \n• Time-based scoring system  \n• Colorful educational game setting"
+},
+{
+"id": "fcf723f3ef6f452681156ff6e60eda4d",
+"title": "Math Magic Battle",
+"iframe": "https://html5.gamedistribution.com/fcf723f3ef6f452681156ff6e60eda4d/",
+"creator": "JM Neto Game Dev",
+"description": "Solve challenging math puzzles under time pressure to clear stages in a dynamic battle environment. The gameplay centers on quick number matching and combination mechanics that escalate in difficulty with each level. Players must think fast to outscore opponents while navigating uniquely designed boards that simulate a competitive arena. Success depends on pattern recognition and tactical decision-making.\n\nKey Features\n\n• Number combination core mechanic  \n• Fast-paced puzzle matching controls  \n• Increasing difficulty stages  \n• Time attack scoring system  \n• Competitive arena visual style"
+},
+{
+"id": "60b8fa6cfa0f4cd782296a49733257a2",
+"title": "Math Game Multiple Choice",
+"iframe": "https://html5.gamedistribution.com/60b8fa6cfa0f4cd782296a49733257a2/",
+"creator": "Digi Smile limited",
+"description": "Answer multiple choice math problems under time pressure in this educational challenge. Players navigate mental arithmetic tasks featuring a variety of number operations, aiming to select correct options quickly to advance through increasingly complex question sets. The game tests quick calculation skills and accuracy while providing a simple interface suitable for casual players and learners.\n\nKey Features\n\n• Timed multiple choice questions  \n• Arithmetic skill-based challenge  \n• Incremental difficulty progression  \n• Keyboard and mouse input controls  \n• Educational focus on number operations"
+},
+{
+"id": "0253772a6bc249f187e5af1b6227be2f",
+"title": "Correct Math",
+"iframe": "https://html5.gamedistribution.com/0253772a6bc249f187e5af1b6227be2f/",
+"creator": "newgamess",
+"description": "Solve timed math problems by selecting accurate answers under pressure while managing increasing difficulty levels. The gameplay challenges players to evaluate numerical expressions and respond quickly, testing mental agility within an educational framework. Progression introduces varied question types to keep engagement dynamic and sharpen calculation skills.\n\nKey Features\n\n• Rapid numerical problem solving  \n• Click-based answer selection  \n• Timed challenge with increasing speed  \n• Progressive difficulty tiers  \n• Educational math quiz format"
+},
+{
+"id": "906d61217b8e4d33a955bebd29471025",
+"title": "Math Memory",
+"iframe": "https://html5.gamedistribution.com/906d61217b8e4d33a955bebd29471025/",
+"creator": "trezegames",
+"description": "Match number pairs and recall their positions in a grid by using a memory-based mechanic focused on quick visual recognition and mental tracking. Players challenge their recall skills as they flip cards and try to pair identical numbers before time runs out, progressing through increasing grid sizes for a gradual difficulty increase.\n\nKey Features\n\n• Memory matching core mechanic  \n• Tile flipping control scheme  \n• Grid size progression system  \n• Time-limited recall rounds  \n• Number-themed card sets"
+},
+{
+"id": "de631f2d9f7b47779ae3696feff2ff69",
+"title": "Math Merge",
+"iframe": "https://html5.gamedistribution.com/de631f2d9f7b47779ae3696feff2ff69/",
+"creator": "trezegames",
+"description": "Combine numbered tiles by strategic merging to reach higher values in a compact grid environment. Players slide tiles with numerical values across the board, merging identical numbers to clear space and achieve advanced combinations. The challenge lies in planning merges carefully to avoid clutter while progressing through increasingly complex puzzles.\n\nKey Features\n\n• Tile sliding merge mechanic  \n• Numerical value combination  \n• Grid space management challenge  \n• Incremental puzzle difficulty  \n• Minimalist numeric interface"
+},
+{
+"id": "d6050d97b9f0464b98aa26bf44891a34",
+"title": "Crazy Math",
+"iframe": "https://html5.gamedistribution.com/d6050d97b9f0464b98aa26bf44891a34/",
+"creator": "Happy Kid Games",
+"description": "Solve rapid-fire arithmetic problems against a ticking clock, testing quick thinking and mental agility in a colorful, straightforward interface. Players tackle progressively harder equations that combine addition, subtraction, multiplication, and division, aiming to clear each level before time runs out. Speed and accuracy form the core challenge, with instant feedback to sharpen calculation skills for casual gamers and young players.\n\nKey Features\n\n• Timed mental arithmetic rounds  \n• Progressive difficulty scaling  \n• Immediate solution validation  \n• Score tracking and accuracy bonus  \n• Bright minimalistic numerical UI"
+},
+{
+"id": "7be0bfeb35764a03b26ad6443dad17de",
+"title": "Math Bug",
+"iframe": "https://html5.gamedistribution.com/7be0bfeb35764a03b26ad6443dad17de/",
+"creator": "nau.games",
+"description": "Solve progressively challenging math puzzles by controlling a quick cursor that connects numbered nodes before time runs out. This blend of reflex-based movement with calculation tasks requires sharp accuracy and speed to clear each level’s unique numeric circuits. Players face escalating difficulty through tighter time limits and complex node arrangements that demand fast mental math.\n\nKey Features\n\n• Timed numeric node connections  \n• Reflex-based cursor navigation  \n• Progressive puzzle difficulty scaling  \n• Combo multiplier scoring system  \n• Minimalist geometric visual style"
+},
+{
+"id": "41d3b0fb13994ffe895ec0464db760ec",
+"title": "Math Speed Racing Rounding 10",
+"iframe": "https://html5.gamedistribution.com/41d3b0fb13994ffe895ec0464db760ec/",
+"creator": "MathNook",
+"description": "Race against time by rounding numbers to the nearest ten while navigating a dynamic, speed-based challenge. Players sharpen mental math skills as they quickly select correct rounded values from a moving sequence. The game blends fast-paced decision-making with simple numeric focus, aiming for accuracy and speed through increasingly difficult rounds suited for casual and younger players.\n\nKey Features\n\n• Numeric rounding gameplay mechanic  \n• Timed selection input control  \n• Progressive difficulty levels  \n• Score-based challenge system  \n• Casual educational math theme"
+},
+{
+"id": "d18251138ed04f4992d3b360e45d768e",
+"title": "Batty Math",
+"iframe": "https://html5.gamedistribution.com/d18251138ed04f4992d3b360e45d768e/",
+"creator": "Lof Games",
+"description": "Navigate a swarm of bats using precision mouse control to match mathematical problems with their correct answers. Players must solve progressively difficult equations under time pressure while managing a dynamic collection of flying creatures. This blend of arithmetic challenges and flickering bat patterns sharpens reflexes and mental speed in a nighttime forest setting.\n\nKey Features\n\n• Mouse-driven target selection  \n• Progressive math problem difficulty  \n• Timed answer accuracy challenge  \n• Multiple bat speed variations  \n• Ambient nocturnal forest backdrop"
+},
+{
+"id": "349d329648794a768d89dcf8b93fabb2",
+"title": "Math Game",
+"iframe": "https://html5.gamedistribution.com/349d329648794a768d89dcf8b93fabb2/",
+"creator": "Fun Best Games",
+"description": "Solve progressively harder math puzzles by answering timed arithmetic problems using keyboard input, testing quick calculation and number recognition skills. Players advance through levels featuring increasingly complex operations and varying time limits, sharpening their mental agility while competing for accuracy and speed.\n\nKey Features\n\n• Timed arithmetic problem solving  \n• Keyboard-based numeric input  \n• Increasing difficulty level progression  \n• Accuracy and speed scoring system  \n• Educational number recognition challenges"
+},
+{
+"id": "616f2ab350e0468982a4efd97e8b3d28",
+"title": "Math Tasks True or False",
+"iframe": "https://html5.gamedistribution.com/616f2ab350e0468982a4efd97e8b3d28/",
+"creator": "newgamess",
+"description": "Solve math statements by quickly deciding if they are true or false in a timed challenge that tests your calculation speed and accuracy. The game features a straightforward tap mechanic where players respond to a sequence of equations under increasing time pressure. Each correct judgment moves you through progressively harder levels, encouraging quick mental math and sharp decision-making.\n\nKey Features\n\n• Rapid true or false selection  \n• Time-based scoring system  \n• Increasing equation difficulty  \n• Sequential level progression  \n• Simple numeric interface"
+},
+{
+"id": "19ff5a8e1d89402289f585b51a0c1c8f",
+"title": "Math Game Multiple Choice",
+"iframe": "https://html5.gamedistribution.com/19ff5a8e1d89402289f585b51a0c1c8f/",
+"creator": "MBG Network",
+"description": "Answer multiple choice math problems by selecting the correct option from a set of answers. Players engage with timed question intervals that test quick calculation skills and numerical reasoning. The game challenges players to improve accuracy while handling a variety of problem types, promoting fast decision-making under pressure. It suits casual players looking to sharpen math skills in a straightforward format.\n\nKey Features\n\n• Multiple choice answer selection  \n• Timed question response system  \n• Accuracy and speed challenge  \n• Progressive difficulty levels  \n• Educational numeric problem focus"
+},
+{
+"id": "8b9b15f67738411fbe5a0bd020ebe4d7",
+"title": "Primary Math",
+"iframe": "https://html5.gamedistribution.com/8b9b15f67738411fbe5a0bd020ebe4d7/",
+"creator": "Fun Best Games",
+"description": "Solve quick math problems under time pressure for skill improvement challenges. Players manipulate number sequences to complete puzzles aiming to boost calculation speed and accuracy. The core mechanic centers on identifying arithmetic patterns while progressing through increasingly difficult stages. Puzzles rely on mental agility with visually simple, classroom-inspired layouts.\n\nKey Features\n\n• Arithmetic pattern recognition  \n• Timed calculation sequences  \n• Level-based difficulty scaling  \n• Score tracking and accuracy metrics  \n• Minimalistic educational interface"
+},
+{
+"id": "e5b9edb0045f4299b924298f96565187",
+"title": "Basic Math",
+"iframe": "https://html5.gamedistribution.com/e5b9edb0045f4299b924298f96565187/",
+"creator": "Fun Best Games",
+"description": "Solve math problems by quickly matching numbers and operators to reach target sums in this educational puzzle game. Players combine basic arithmetic operations with timed challenges to sharpen calculation skills. The game progresses through increasing difficulty levels, testing speed and accuracy in a simple numeric environment.\n\nKey Features\n\n• Arithmetic operation matching  \n• Timed calculation challenges  \n• Level-based difficulty scaling  \n• Score tracking system  \n• Educational number puzzle setting"
+},
+{
+"id": "be40610627754830b1dda98d6270154f",
+"title": "Fast Math 2",
+"iframe": "https://html5.gamedistribution.com/be40610627754830b1dda98d6270154f/",
+"creator": "GGMagenta",
+"description": "Solve rapid-fire math problems by choosing correct answers before time runs out in this fast-paced brain teaser. Players rely on quick calculation and number recognition to clear rounds, progressively facing shorter time limits and more complex equations. The challenge unfolds in minimalist, colorful settings that keep focus purely on sharp mental agility and score improvement.\n\nKey Features\n\n• Timed arithmetic problem solving  \n• Fast multiple-choice answer selection  \n• Increasing difficulty with speed challenge  \n• Combo scoring for consecutive correct answers  \n• Minimalist visual and sound cues"
+},
+{
+"id": "2001c87759ab430296711726e37df0a8",
+"title": "Maths Solving Problems",
+"iframe": "https://html5.gamedistribution.com/2001c87759ab430296711726e37df0a8/",
+"creator": "Good Funny Game",
+"description": "Practice solving math puzzles using timed problem sets that test your calculation speed and accuracy. Players engage in number-based challenges requiring quick mental arithmetic and logic skills, progressing through increasingly difficult question levels. The interface focuses on clear numeric inputs and immediate feedback to sharpen problem-solving under pressure.\n\nKey Features\n\n• Timed arithmetic challenge rounds  \n• Keyboard input for numeric answers  \n• Progressive difficulty scaling system  \n• Instant correctness feedback  \n• Educational math problem focus"
+},
+{
+"id": "c1b29cdac886414f9dfe533d5f29c0e3",
+"title": "Math Fever",
+"iframe": "https://html5.gamedistribution.com/c1b29cdac886414f9dfe533d5f29c0e3/",
+"creator": "Puzzle Games",
+"description": "Solve rapid-fire math puzzles by selecting correct answers under a ticking countdown timer that tests quick calculation skills. Players advance through increasingly complex numerical challenges featuring timed question rounds that sharpen mental agility. The core gameplay revolves around number recognition and fast decision making, aiming to clear levels by maintaining accuracy and speed.\n\nKey Features\n\n• Timed calculation puzzle rounds  \n• Click or tap answer selection  \n• Increasing difficulty levels  \n• Score-based progression system  \n• Casual educational math theme"
+},
+{
+"id": "97dd8eaf84da4f6cb03cdc57b6a5623a",
+"title": "Maths Challenge",
+"iframe": "https://html5.gamedistribution.com/97dd8eaf84da4f6cb03cdc57b6a5623a/",
+"creator": "Vi Games",
+"description": "Solve numeric puzzles by arranging equations under time pressure, testing quick calculation skills and pattern recognition. Players improve speed and accuracy across various levels that increase difficulty with mixed operations. The game challenges mental agility through progressively complex math tasks designed for casual players looking to sharpen their arithmetic reflexes.\n\nKey Features\n\n• Timed equation solving rounds  \n• Number placement mechanics  \n• Adaptive difficulty scaling  \n• Score tracking and progression  \n• Minimalist numerical interface"
+},
+{
+"id": "3f5969cb494c4e4c916fdc4d773343a1",
+"title": "Math Whizz 2",
+"iframe": "https://html5.gamedistribution.com/3f5969cb494c4e4c916fdc4d773343a1/",
+"creator": "FG Studio",
+"description": "Solve intricate math puzzles by quickly selecting correct answers to advance through increasing difficulty levels. This educational brain teaser tests mental agility using timed question rounds that challenge basic arithmetic skills. Players aim to improve their score streaks while responding to a variety of problem types in a classroom-inspired setting.\n\nKey Features\n\n• Timed arithmetic question rounds  \n• Rapid answer selection controls  \n• Score streak tracking system  \n• Progressive difficulty scaling  \n• Classroom-themed problem presentation"
+},
+{
+"id": "91c70ab32b754af89cd73528ba236d34",
+"title": "Math vs Bat",
+"iframe": "https://html5.gamedistribution.com/91c70ab32b754af89cd73528ba236d34/",
+"creator": "MarketJS",
+"description": "Solve math-based challenges by quickly selecting correct answers while avoiding incoming bats that threaten your progress. Players rely on fast mental calculation combined with precise timing to clear waves of flying enemies and advance through increasingly difficult levels. The unique blend of math puzzles and action-packed dodging creates a dynamic learning environment for casual gamers.  \n\nKey Features\n\n• Timed math problem solving  \n• Player-controlled dodging mechanics  \n• Progressive difficulty waves  \n• Score multiplier streak system  \n• Bat swarm enemy patterns"
+},
+{
+"id": "1bfe5f387d5b4c6da03bc54c10f8e470",
+"title": "EG Math Kid",
+"iframe": "https://html5.gamedistribution.com/1bfe5f387d5b4c6da03bc54c10f8e470/",
+"creator": "EcapsGames.com",
+"description": "Solve quick arithmetic problems using tapping and dragging to progress through progressively challenging math puzzles. Players manipulate numbers and basic operators to match target values across multiple levels. The game features timed stages that sharpen calculation speed while reinforcing fundamental math skills. Casual teens and kids engage with varied problem sets designed to build confidence and accuracy.\n\nKey Features\n\n• Number manipulation mechanics  \n• Tap and drag controls  \n• Progressive difficulty scaling  \n• Time-limited calculation rounds  \n• Educational math puzzle theme"
+},
+{
+"id": "24e0f2808f9d415ab7150f1baa40e923",
+"title": "Maths Fun",
+"iframe": "https://html5.gamedistribution.com/24e0f2808f9d415ab7150f1baa40e923/",
+"creator": "FG Studio",
+"description": "Solve a variety of math puzzles by selecting correct answers under time pressure, enhancing speed and accuracy in number recognition and calculation. This game combines mental agility with timed challenges to test arithmetic skills in an increasingly fast-paced setting. Players strive to beat their best scores while advancing through progressively difficult problem sets.\n\nKey Features\n\n• Timed arithmetic problem solving  \n• Multiple choice answer selection  \n• Increasing difficulty levels  \n• Speed-based scoring system  \n• Kid-friendly numeric interface"
+},
+{
+"id": "361fdf69f32941fd93d2916dfd5b7cee",
+"title": "Math Whizz",
+"iframe": "https://html5.gamedistribution.com/361fdf69f32941fd93d2916dfd5b7cee/",
+"creator": "FG Studio",
+"description": "Solve rapid-fire math puzzles to advance through timed challenges and unlock harder problem sets. Players work against the clock, tackling arithmetic sequences and number patterns to improve speed and accuracy. The game features a vibrant digital classroom backdrop where players face increasing difficulty levels designed to sharpen mental agility and calculation skills.\n\nKey Features\n\n• Timed arithmetic puzzle rounds  \n• Keyboard input number solving  \n• Difficulty ramps through levels  \n• Score tracking and accuracy metrics  \n• Classroom inspired visual design"
+},
+{
+"id": "c3a9d69bd855483d9da903652835d094",
+"title": "Easy Math",
+"iframe": "https://html5.gamedistribution.com/c3a9d69bd855483d9da903652835d094/",
+"creator": "Vi Games",
+"description": "Solve quick arithmetic problems under time pressure to clear each level in this math challenge. The gameplay centers on solving addition, subtraction, multiplication, and division puzzles with increasing difficulty and speed. Players work through rounds that test mental agility while racing against a countdown timer. The interface focuses on clean number entry and tracking scores for progression.\n\nKey Features\n\n• Timed arithmetic puzzle rounds  \n• Number input via keyboard controls  \n• Increasing difficulty scaling system  \n• Progressive score tracking  \n• Casual educational math theme"
+},
+{
+"id": "54d364b1c40e45ad8304c7f25f0ad5c7",
+"title": "Math Matador",
+"iframe": "https://html5.gamedistribution.com/54d364b1c40e45ad8304c7f25f0ad5c7/",
+"creator": "Physical Form",
+"description": "Solve math problems by targeting moving numbers using precise aim and quick reflexes in a vibrant arena setting where speed and accuracy matter most; gameplay revolves around selecting correct answers under time pressure with escalating difficulty levels and increasing number velocity. Players must clear equations efficiently to progress through timed rounds that challenge mental agility.\n\nKey Features\n\n• Target based number selection  \n• Precision aiming control  \n• Time-limited equation rounds  \n• Increasing difficulty stages  \n• Colorful math arena interface"
+},
+{
+"id": "33a57b4290644e8eb3fc09d10ac4cc92",
+"title": "Subtraction Math Challenge",
+"iframe": "https://html5.gamedistribution.com/33a57b4290644e8eb3fc09d10ac4cc92/",
+"creator": "Vi Games",
+"description": "Solve subtraction problems under time pressure in this educational challenge that sharpens mental math skills through a steadily increasing difficulty curve. Players select answers by clicking numbered options, racing to clear levels with fewer mistakes before the timer runs out. The game emphasizes quick arithmetic accuracy in a simple interface designed for casual and younger audiences.\n\nKey Features\n\n• Timed subtraction problem solving  \n• Multiple choice answer selection  \n• Increasing difficulty progression  \n• Error penalty system  \n• Classroom-inspired visual style"
+},
+{
+"id": "8fa1883a41df47d79db98d0266c170ba",
+"title": "Math Attack",
+"iframe": "https://html5.gamedistribution.com/8fa1883a41df47d79db98d0266c170ba/",
+"creator": "JulGames",
+"description": "Solve rapid-fire math problems using timed calculations to clear each level. Players tackle mental arithmetic challenges where speed and accuracy drive success, with an increasing difficulty curve that tests numeric agility. The game blends basic math drills with competitive timing for casual play among teens and kids.\n\nKey Features\n\n• Timed mental calculation rounds  \n• Immediate answer input controls  \n• Progressive difficulty scaling  \n• Score tracking and speed bonuses  \n• Educational numeric problem sets"
+},
+{
+"id": "40a8f1db8197455d9b52e8514d15ade4",
+"title": "Math Test Challenge",
+"iframe": "https://html5.gamedistribution.com/40a8f1db8197455d9b52e8514d15ade4/",
+"creator": "Vi Games",
+"description": "Answer math problems under time pressure to advance through diverse question sets in this fast-paced puzzle experience. Players solve addition, subtraction, multiplication, and division problems using a timed input mechanic that challenges quick thinking and accuracy. Each level increases in difficulty with more complex calculations to master, appealing to casual gamers seeking mental agility tests.\n\nKey Features\n\n• Timed math problem solving  \n• Numeric input challenge system  \n• Increasing difficulty stages  \n• Score-based progression metrics  \n• Educational arithmetic focus"
+},
+{
+"id": "8e5e5f3b0e2b455fa4bcd53ddcf90fd0",
+"title": "Maths Challenge",
+"iframe": "https://html5.gamedistribution.com/8e5e5f3b0e2b455fa4bcd53ddcf90fd0/",
+"creator": "Webgameapp",
+"description": "Solve timed math problems by selecting correct answers from a range of equations that test addition, subtraction, multiplication, and division skills. The gameplay focuses on quick decision-making under a countdown timer, challenging players to improve accuracy and speed through increasing difficulty levels. Adaptive problem sets keep pacing fresh and engaging for casual players.\n\nKey Features\n\n• Timed arithmetic challenges  \n• Click-based answer selection  \n• Progressive difficulty scaling  \n• Accuracy and speed tracking  \n• Classroom-inspired math exercises"
+},
+{
+"id": "9025a24ef53e41ed88f8d6bfecbcd846",
+"title": "Quick Math",
+"iframe": "https://html5.gamedistribution.com/9025a24ef53e41ed88f8d6bfecbcd846/",
+"creator": "Physical Form",
+"description": "Solve rapid-fire arithmetic problems under tight time limits using mental calculation speed and accuracy. Players tackle sequences of addition, subtraction, multiplication, and division questions that increase in difficulty with each stage. The challenge lies in completing as many problems as possible before the timer runs out, sharpening numerical agility for casual players and younger audiences.\n\nKey Features\n\n• Timed mental math challenges  \n• Sequential arithmetic puzzles  \n• Increasing difficulty stages  \n• Real-time problem solving  \n• Simple numeric interface"
+},
+{
+"id": "af7018bf973f4f61aab145f0edef25a1",
+"title": "QuickMath",
+"iframe": "https://html5.gamedistribution.com/af7018bf973f4f61aab145f0edef25a1/",
+"creator": "Dreamly Games",
+"description": "Solve rapid-fire math puzzles under time pressure, testing numerical agility and logical thinking through diverse problem types. Players tackle increasingly difficult questions in a lively, colorful interface designed to engage casual gamers and kids. Each correct answer advances the challenge by shortening response times. \n\nKey Features\n\n• Timed arithmetic puzzle rounds  \n• Keyboard and mouse input  \n• Increasing difficulty tiers  \n• Score multiplier system  \n• Bright, playful visual style"
+},
+{
+"id": "c8c4ac1e0f5247d98bfd9ccbea7a5993",
+"title": "Math Test",
+"iframe": "https://html5.gamedistribution.com/c8c4ac1e0f5247d98bfd9ccbea7a5993/",
+"creator": "Vi Games",
+"description": "Solve arithmetic problems against a ticking clock to improve speed and accuracy in various math topics. Players must quickly select or input correct answers to progress through increasingly challenging question sets. The game uses timed rounds and adaptive difficulty to test mental agility and calculation skills in a simple quiz format suitable for casual players and young learners.\n\nKey Features\n\n• Timed arithmetic challenges  \n• Quick selection input controls  \n• Increasing difficulty levels  \n• Adaptive question generation system  \n• Educational focus on basic math"
+},
+{
+"id": "06a03a84e53041d49adb26576365a5bc",
+"title": "Math Test 2",
+"iframe": "https://html5.gamedistribution.com/06a03a84e53041d49adb26576365a5bc/",
+"creator": "Vi Games",
+"description": "Solve timed arithmetic problems involving addition, subtraction, multiplication, and division to sharpen mental math skills. The game challenges players with progressively difficult math puzzles that test speed and accuracy. Different difficulty levels adjust problem complexity, encouraging quick calculation and error-free performance.\n\nKey Features\n\n• Timed arithmetic problem solving  \n• Interactive answer selection controls  \n• Increasing difficulty stages  \n• Score tracking and progression system  \n• Educational math skill focus"
+},
+{
+"id": "9c15a466e2ce4599b44f6253353f0210",
+"title": "Math Drops",
+"iframe": "https://html5.gamedistribution.com/9c15a466e2ce4599b44f6253353f0210/",
+"creator": "Arwin Margallo",
+"description": "Solve falling number puzzles by matching correct sums and products before the screen fills up. The game challenges players to quickly calculate answers using basic arithmetic operations, testing mental math speed and accuracy. As numbers cascade in timed sequences, the player must clear levels by completing math problems under increasing pressure.\n\nKey Features\n\n• Rapid arithmetic matching mechanic  \n• Timed number dropping sequences  \n• Progressive difficulty stages  \n• Score multiplier for streaks  \n• Minimalist educational interface"
+},
+{
+"id": "116cc291d59a4f84916f9a65a6820fec",
+"title": "Math Tracks",
+"iframe": "https://html5.gamedistribution.com/116cc291d59a4f84916f9a65a6820fec/",
+"creator": "Arwin Margallo",
+"description": "Match numerical values by tracing continuous paths in a puzzle grid, using a drag-and-connect mechanic to link sequential numbers. Players aim to clear levels by solving increasingly complex math track patterns, testing their logic and timing. The challenge evolves with variable path constraints and timed objectives to sharpen skills for casual audiences including teens and kids.\n\nKey Features\n\n• Sequential number linking mechanic  \n• Drag-and-connect player control  \n• Increasing puzzle difficulty levels  \n• Time-based challenge modes  \n• Abstract grid visual theme"
+},
+{
+"id": "8050190f1ec2440c8be55d302e06666f",
+"title": "Speed Math",
+"iframe": "https://html5.gamedistribution.com/8050190f1ec2440c8be55d302e06666f/",
+"creator": "Thanh Huy Ly",
+"description": "Solve rapid math problems under tight time pressure, sharpening mental agility through quick arithmetic puzzles. Each level tests calculation speed using a variety of number sets, with increasing difficulty that challenges players to maintain accuracy as the countdown runs. The game features a straightforward numeric interface that keeps the focus on fast mathematical reasoning.\n\nKey Features\n\n• Timed arithmetic problem solving  \n• Instant input number controls  \n• Progressive difficulty scaling  \n• High-score challenge mode  \n• Minimalist numeric puzzle layout"
+},
+{
+"id": "12be0a0e50334a1eb6213dc67c99e374",
+"title": "Math Balls",
+"iframe": "https://html5.gamedistribution.com/12be0a0e50334a1eb6213dc67c99e374/",
+"creator": "Physical Form",
+"description": "Shoot numbered balls to break through stacks by matching math equations in this casual puzzle challenge. Players control aiming angles and timing to clear levels filled with equations that increase in difficulty. Success depends on strategic targeting of groups with matching totals to avoid being overwhelmed by rising stacks. Levels progressively introduce more complex number combinations and faster ball drops.\n\nKey Features\n\n• Number matching break mechanic  \n• Precise angle aiming controls  \n• Increasing equation difficulty  \n• Progressive level stack challenge  \n• Casual numeric puzzle setting"
+},
+{
+"id": "fdbc6168a4c94b7595c96e49c4dd62b5",
+"title": "Math Boxing Comparison",
+"iframe": "https://html5.gamedistribution.com/fdbc6168a4c94b7595c96e49c4dd62b5/",
+"creator": "MathNook",
+"description": "Match numbers rapidly by comparing sums in fast-paced rounds where mental math speed drives success. Players face timed challenges that test addition skills through visual equations, sharpening quick decision-making and accuracy under pressure. Each level increases difficulty by introducing more complex number sets, pushing cognitive agility in a simplified classroom-style setting.\n\nKey Features\n\n• Rapid mental addition comparisons  \n• Timed level-based challenges  \n• Accuracy-driven scoring system  \n• Progressive difficulty scaling  \n• Educational math puzzle interface"
+},
+{
 "id": "4273436f76534ba993ffded344e5e078",
 "title": "Addition Brain Teaser",
 "iframe": "https://html5.gamedistribution.com/4273436f76534ba993ffded344e5e078/",
 "creator": "Lof Games",
 "description": "Solve numeric puzzles by combining addition strategies to reach target sums within time limits. The game challenges players to quickly link numbers using mental calculation as the core mechanic, progressing through increasing difficulty levels. Focused on sharpening arithmetic skills, it offers multiple puzzle variations suited for casual gamers and kids aiming to improve basic math fluency.\n\nKey Features\n\n• Number linking addition mechanic  \n• Timed calculation challenges  \n• Increasing puzzle difficulty levels  \n• Multiple arithmetic puzzle modes  \n• Casual educational math setting"
-},
-{
-"id": "78b2015639e24b808f46a5238b696c1c",
-"title": "Christmas Integer Addition",
-"iframe": "https://html5.gamedistribution.com/78b2015639e24b808f46a5238b696c1c/",
-"creator": "Arwin Margallo",
-"description": "Add numbered values to solve puzzles against a ticking clock in this casual math challenge. Players match integers through sequential addition rounds, refining speed and accuracy to reach target sums. The game mixes timed calculations with pattern recognition, inviting teens and kids to sharpen mental math skills while progressing through increasingly complex stages.\n\nKey Features\n\n• Integer addition puzzle mechanics  \n• Timed input response controls  \n• Increasing difficulty stages  \n• Score-based progression system  \n• Holiday themed visual cues"
-},
-{
-"id": "b62af353cb0a4deab0873554b12576c0",
-"title": "Gamellina Fashion Multiplication",
-"iframe": "https://html5.gamedistribution.com/b62af353cb0a4deab0873554b12576c0/",
-"creator": "IG",
-"description": "Combine multiplication practice with fashion design puzzles by matching number patterns to create stylish outfit combos. Players solve arithmetic challenges embedded in a colorful dress-up setting, aiming to complete increasingly complex fashion levels. The game introduces a unique numeric matching mechanic where selecting correct multiples unlocks wardrobe pieces for customization.  \n\nKey Features\n\n• Number pattern matching mechanic  \n• Interactive outfit customization controls  \n• Progressive level difficulty scaling  \n• Time-limited puzzle challenge mode  \n• Colorful fashion design backdrop"
-},
-{
-"id": "64dd0312ca18458abdda18c527357f97",
-"title": "Kids Learn Mathematics",
-"iframe": "https://html5.gamedistribution.com/64dd0312ca18458abdda18c527357f97/",
-"creator": "MBG Network",
-"description": "Practice solving math problems using interactive exercises that challenge number recognition and basic arithmetic skills. Players engage with dynamic puzzles centered on addition, subtraction, multiplication, and division. The game introduces incremental difficulty through timed quizzes, encouraging quick thinking and mental calculation. This educational platform is designed with casual learners and kids in mind.\n\nKey Features\n\n• Arithmetic problem solving  \n• Interactive quiz controls  \n• Timed challenge progression  \n• Score tracking system  \n• Child-friendly educational theme"
-},
-{
-"id": "86628b896f02401686208b79c1ee1d79",
-"title": "Kids Mathematics Game",
-"iframe": "https://html5.gamedistribution.com/86628b896f02401686208b79c1ee1d79/",
-"creator": "MBG Network",
-"description": "Solve dynamic math puzzles by selecting correct answers under timed conditions in a vibrant educational environment. Players enhance quick calculation skills through progressively harder number challenges and interactive problem formats designed for kids and teens. The game tests basic arithmetic with increasing complexity to sharpen mental agility and accuracy.\n\nKey Features\n\n• Timed answer selection mechanic  \n• Interactive numeric puzzle grids  \n• Progressive difficulty tiers  \n• Score tracking and accuracy feedback  \n• Bright classroom-style visuals"
 },
 {
 "id": "bcf1adcb8d9d4b22a6fe9b4eae7664d1",
@@ -183,13 +624,6 @@
 "description": "Race through math challenges by solving equations under time pressure in this engaging browser game. Players combine fast problem-solving skills with quick reflexes to advance across increasingly complex levels, testing arithmetic ability in a dynamic environment. Progression depends on accuracy and speed, offering a steady difficulty curve to keep teens and casual players challenged.  \n\nKey Features\n\n• Rapid equation solving mechanic  \n• Time-based input controls  \n• Progressive difficulty stages  \n• Score tracking and leaderboards  \n• Educational math theme"
 },
 {
-"id": "59a015a9d20549cca6e4493582adc35a",
-"title": "Zombie Rodeo Multiplication",
-"iframe": "https://html5.gamedistribution.com/59a015a9d20549cca6e4493582adc35a/",
-"creator": "MathNook",
-"description": "Defend your territory by herding zombie hordes through timed math challenges that focus on multiplication skills. Players navigate waves of undead using quick calculation to control movement and clear paths. Progression unlocks harder numbers and faster enemies, combining educational content with a post-apocalyptic setting to sharpen reflexes and math fluency in casual rounds.\n\nKey Features\n\n• Multiplication-based herding mechanic  \n• Timed wave survival challenges  \n• Increasing difficulty progression  \n• Keyboard input control system  \n• Post-apocalyptic zombie theme"
-},
-{
 "id": "01dbf43f1d884408a99f2322198ce07b",
 "title": "Mathematical crossword",
 "iframe": "https://html5.gamedistribution.com/01dbf43f1d884408a99f2322198ce07b/",
@@ -272,13 +706,6 @@
 "iframe": "https://html5.gamedistribution.com/30fb4f80e0054b3ab6bb38bc5777ea2e/",
 "creator": "Brosco Games",
 "description": "Answer Minecraft-themed trivia questions to test your memory and knowledge skills in this quiz challenge. Players select answers from multiple choice prompts that mix brain teasers and Minecraft motifs. The goal is to complete each round accurately while progressing through increasingly tricky question sets. Quick thinking and recall speed are key to scoring high in this cognitive challenge.\n\nKey Features\n\n• Multiple choice quiz format  \n• Timed answer selection controls  \n• Increasing question difficulty levels  \n• Score tracking and progression system  \n• Minecraft-inspired question themes"
-},
-{
-"id": "d963b922ee68446ca36037c36d76ffe8",
-"title": "Animal Trivia",
-"iframe": "https://html5.gamedistribution.com/d963b922ee68446ca36037c36d76ffe8/",
-"creator": "MarketJS",
-"description": "Answer questions about animals by selecting correct options in timed quiz rounds that test your knowledge with multiple-choice prompts and visual cues. Progress through levels focused on diverse species, challenging memory and recognition with increasing difficulty. The game combines rapid selection mechanics with educational themes suited for casual players and younger audiences.\n\nKey Features\n\n• Multiple-choice animal quizzes  \n• Timed question rounds  \n• Progressive difficulty levels  \n• Score tracking system  \n• Educational wildlife themes"
 },
 {
 "id": "75c605af07684a719fd9ebbc552c246b",

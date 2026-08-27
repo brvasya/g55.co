@@ -1,11 +1,1173 @@
 {
 "pages": [
 {
-"id": "de9a263dbba246e39f20974f190d9489",
-"title": "Pixel Archer Save The Princess",
-"iframe": "https://html5.gamedistribution.com/de9a263dbba246e39f20974f190d9489/",
-"creator": "magnificstudios",
-"description": "Shoot precision arrows through pixelated landscapes to rescue a captured princess in this action puzzle challenge. Players must master timing and trajectory as they use a limited arrow supply to break obstacles and defeat guards blocking the path. Each level demands careful aiming and strategic use of environment elements to progress through retro-inspired stages.\n\nKey Features\n\n• Precision aiming mechanic  \n• Limited arrow resource management  \n• Obstacle breaking puzzles  \n• Increasing difficulty levels  \n• Pixel art medieval setting"
+"id": "edbbaebf77684e2487c978537a37e5f4",
+"title": "Archery Legends",
+"iframe": "https://html5.gamedistribution.com/edbbaebf77684e2487c978537a37e5f4/",
+"creator": "Digital Will Inc.",
+"description": "Draw steady bowshots across dynamic target ranges to test precision and timing in this archery challenge. The game centers on mastering the trajectory of arrows while adjusting for moving targets and variable distances. Players aim to hit bullseyes through progressively difficult levels, refining their skill with each round.\n\nKey Features\n\n• Trajectory-based aiming mechanic  \n• Controlled bow tension adjustments  \n• Increasing target complexity  \n• Time-limited scoring rounds  \n• Outdoor archery range setting"
+},
+{
+"id": "0ccd52f987014bb49708e6afa2e3a8f7",
+"title": "Archery Master",
+"iframe": "https://html5.gamedistribution.com/0ccd52f987014bb49708e6afa2e3a8f7/",
+"creator": "Inlogic Software",
+"description": "Aim precise arrows at moving targets using timed bowstring pulls in this archery challenge. Players need to adjust their shots based on changing distances and wind factors to hit bullseyes and advance through levels. Progression involves mastering different shot angles and power controls that refine accuracy under increasing difficulty.\n\nKey Features\n\n• Bowstring tension timing  \n• Directional shot aiming  \n• Distance and wind adjustment  \n• Level-based target sequences  \n• Archery range environment"
+},
+{
+"id": "1ebba0a58564412f9a6be21511f86b48",
+"title": "Archery Ragdoll",
+"iframe": "https://html5.gamedistribution.com/1ebba0a58564412f9a6be21511f86b48/",
+"creator": "Playgama",
+"description": "Launch arrows with precise timing to topple ragdoll targets using bow mechanics that emphasize angle and force control. The game challenges players to aim through dynamic environments where physics-based projectile trajectories determine success. Progression includes mastering shot adjustments to clear increasingly complex setups with varied target placements in an archery-themed setting.\n\nKey Features\n\n• Physics-driven bow and arrow control  \n• Timing-based shot power mechanic  \n• Incremental target difficulty stages  \n• Variable ragdoll hit reactions  \n• Archery range environment design"
+},
+{
+"id": "41258935dbe74b85be834f64263b9faa",
+"title": "Archery Master",
+"iframe": "https://html5.gamedistribution.com/41258935dbe74b85be834f64263b9faa/",
+"creator": "SUN.STUDIO",
+"description": "Aim precisely to shoot arrows at moving targets using timing and wind adjustment mechanics. Players engage in progressively challenging archery ranges where hitting bullseyes under shifting conditions tests focus and skill. Challenge yourself with multiple stages featuring unique target patterns and environmental effects that influence each shot for a dynamic firing experience.\n\nKey Features\n\n• Timing-based arrow release  \n• Wind factor aiming system  \n• Progressive difficulty levels  \n• Score-based accuracy tracking  \n• Target range shooting environments"
+},
+{
+"id": "08aeb21f51414d839a1a91d73f080fd8",
+"title": "Archery King",
+"iframe": "https://html5.gamedistribution.com/08aeb21f51414d839a1a91d73f080fd8/",
+"creator": "Code This Lab srl",
+"description": "Aim carefully to shoot arrows at dynamic targets in a precision-based contest where timing and accuracy define success. The game challenges players to control bow strength and aim angle through intuitive gestures, navigating through increasingly difficult stages featuring wind effects. Compete in single-player tournaments to achieve the highest score or unlock new bows.\n\nKey Features\n\n• Bow draw strength control  \n• Gesture-based aiming system  \n• Progressive wind variation challenges  \n• Tournament scoring leaderboard  \n• Archery range outdoor setting"
+},
+{
+"id": "0cfb140bc86741528fd8e6a5cc96f8a1",
+"title": "Archery",
+"iframe": "https://html5.gamedistribution.com/0cfb140bc86741528fd8e6a5cc96f8a1/",
+"creator": "2Play",
+"description": "Aim precise shots using a bow to hit targets at varying distances, relying on timing and power control. Players adjust arrow trajectory and tension to complete increasingly difficult target sequences. Progression involves mastering wind effects and scoring combos to advance through stages. The game targets casual players seeking a relaxed archery challenge.\n\nKey Features\n\n• Bow tension and power control  \n• Arrow trajectory adjustment mechanics  \n• Progressive target difficulty levels  \n• Combo scoring system  \n• Outdoor archery range setting"
+},
+{
+"id": "14ec8bed291a4049a655e21b8026e5d1",
+"title": "Stickdoll : God Of Archery",
+"iframe": "https://html5.gamedistribution.com/14ec8bed291a4049a655e21b8026e5d1/",
+"creator": "Xlab Game Studio",
+"description": "Shoot arrows with precise timing to strike targets in this stick figure archery challenge. Players rely on aiming accuracy and draw strength to overcome dynamic obstacles and increasing difficulty in varied environments. Each successful hit unlocks tougher stages, requiring steady control and perfect shot placement to claim victory.\n\nKey Features\n\n• Timing-based archery mechanic  \n• Precision aiming control system  \n• Progressive target difficulty levels  \n• Obstacle variation challenges  \n• Minimalist stick figure art style"
+},
+{
+"id": "3e4fdf4c552944848ee830e154b117bc",
+"title": "Archery With Buddies",
+"iframe": "https://html5.gamedistribution.com/3e4fdf4c552944848ee830e154b117bc/",
+"creator": "MarketJS",
+"description": "Shoot arrows at dynamic moving targets using precise timing and aim mechanics in a multiplayer archery setup. Players calibrate their shots to adjust for distance and movement, competing in casual matchups that test accuracy and reflexes. The game challenges players to outscore each other in fast-paced rounds set in varied outdoor ranges.\n\nKey Features\n\n• Precision aiming control system  \n• Real-time competitive multiplayer  \n• Timed shooting challenges  \n• Score-based match progression  \n• Outdoor archery range environments"
+},
+{
+"id": "0de6ec1fd0ab4e85835dbe090395e57b",
+"title": "Stick Archery",
+"iframe": "https://html5.gamedistribution.com/0de6ec1fd0ab4e85835dbe090395e57b/",
+"creator": "QkyGames",
+"description": "Aim precise arrows at targets using stick figure archers in this timing-based shooting challenge. Players control draw strength and angle to hit increasingly difficult bullseyes and moving targets across varied ranges. Scoring depends on accuracy and quick reflexes while adjusting for distance, providing a straightforward but engaging progression.\n\nKey Features\n\n• Draw strength and angle control  \n• Target accuracy scoring system  \n• Moving and stationary targets  \n• Increasing difficulty levels  \n• Minimalist stick figure graphics"
+},
+{
+"id": "b9819636992e4521bce56b3436292363",
+"title": "Archery Kissing",
+"iframe": "https://html5.gamedistribution.com/b9819636992e4521bce56b3436292363/",
+"creator": "Gamer Games",
+"description": "Aim precise arrows to connect characters through a timing-based shooting mechanic, challenging your accuracy and control. The player must carefully release their shots to hit targets while initiating a playful interaction framed by an archery theme. Progression depends on managing tension and aim, creating a casual yet engaging rhythm suitable for younger audiences.\n\nKey Features\n\n• Timing-based shot release  \n• Target aiming gameplay  \n• Accuracy-dependent progression  \n• Interactive character pairing  \n• Archery-inspired visual style"
+},
+{
+"id": "bf7a4864732d4f3187788a909e76b8bc",
+"title": "Archery Mania",
+"iframe": "https://html5.gamedistribution.com/bf7a4864732d4f3187788a909e76b8bc/",
+"creator": "Good Funny Game",
+"description": "Aim precise shots at stationary and moving targets using a timed bowstring release mechanic in this casual archery challenge. Players navigate through varied target distances and wind conditions to improve accuracy and complete scoring tiers. Progressive levels introduce dynamic obstacles that require adjusted aiming strategies for success.\n\nKey Features\n\n• Timed bowstring release mechanic  \n• Adjustable aiming controls  \n• Increasing target distance and difficulty  \n• Scoring tiers and accuracy thresholds  \n• Dynamic wind and obstacle effects"
+},
+{
+"id": "c18f7f9ed834441298809ba8abd2fa39",
+"title": "Archery Training",
+"iframe": "https://html5.gamedistribution.com/c18f7f9ed834441298809ba8abd2fa39/",
+"creator": "Bnagames",
+"description": "Aim arrows precisely at moving targets using timed draw and release mechanics in an archery range setting. Players adjust aim and power to overcome wind effects and hit bullseyes against progressively challenging target patterns. Improving accuracy unlocks new levels with tighter scoring thresholds and varying distances to master.\n\nKey Features\n\n• Draw and release timing mechanic  \n• Aim adjustment with wind influence  \n• Increasing target difficulty levels  \n• Scoring based level progression  \n• Archery range practice environment"
+},
+{
+"id": "35ccb64e41414b5fa95167aab0b072f6",
+"title": "Archery",
+"iframe": "https://html5.gamedistribution.com/35ccb64e41414b5fa95167aab0b072f6/",
+"creator": "Instant Games Studio",
+"description": "Aim precisely to shoot arrows at dynamic moving targets, mastering the bow’s draw strength to score points in this archery challenge. The game features timing-based shooting mechanics that test accuracy under pressure. Players can progress through increasing difficulty levels that introduce new target patterns and distances, offering a steady skill ramp for casual players.\n\nKey Features\n\n• Timing-based bow draw mechanic  \n• Precision aiming control system  \n• Progressive target difficulty tiers  \n• Multiple scoring and challenge modes  \n• Classic archery range environment"
+},
+{
+"id": "8548b4b357944ea98d0c76243bd992dc",
+"title": "Elite Archery",
+"iframe": "https://html5.gamedistribution.com/8548b4b357944ea98d0c76243bd992dc/",
+"creator": "Dumadu Games Pvt Ltd",
+"description": "Aim precisely using bow and arrow controls to hit progressively challenging targets in this archery simulation. The game tests player timing and accuracy with adjustable aim and draw strength mechanics. Players advance through levels featuring varying distances and target sizes, striving for consistent precision in a casual outdoor setting.\n\nKey Features\n\n• Adjustable bow tension control  \n• Target distance variation system  \n• Level-based scoring progression  \n• Timing critical shot mechanic  \n• Outdoor archery environment"
+},
+{
+"id": "d276c5be80ed429ca86538d98c96860d",
+"title": "Archery Strike",
+"iframe": "https://html5.gamedistribution.com/d276c5be80ed429ca86538d98c96860d/",
+"creator": "igroutka.ru",
+"description": "Launch arrows with precise timing to hit moving targets in a dynamic shooting range. Players rely on wind adjustment and trajectory control to score points while progressing through increasingly difficult stages. The challenge lies in mastering variable target patterns amid an outdoor archery competition setting that tests both skill and patience.\n\nKey Features\n\n• Timing-based arrow release  \n• Wind-adjusted aiming mechanic  \n• Progressive target difficulty levels  \n• Score multiplier combo system  \n• Outdoor archery range environment"
+},
+{
+"id": "4fc08120441542e689bcea0edc1b57aa",
+"title": "EG Gibbet Archery",
+"iframe": "https://html5.gamedistribution.com/4fc08120441542e689bcea0edc1b57aa/",
+"creator": "EcapsGames.com",
+"description": "Launch precision arrows to hit targets on a swinging gibbet in this physics-based archery challenge. Players must adjust for the moving target and varying distances to score points, testing steady aim and timing under pressure. Levels increase difficulty with faster swings and smaller targets, demanding sharper focus and refined control.\n\nKey Features\n\n• Physics driven arrow flight  \n• Dynamic moving target mechanics  \n• Progressive level difficulty scaling  \n• Timing based scoring system  \n• Historic gibbet setting ambiance"
+},
+{
+"id": "b66a467075f54b4486f3ac4b2e93d8ba",
+"title": "Master Archery",
+"iframe": "https://html5.gamedistribution.com/b66a467075f54b4486f3ac4b2e93d8ba/",
+"creator": "Webgameapp",
+"description": "Launch arrows with precision using realistic bow mechanics to hit distant targets in varying wind conditions. Players must adjust their aim and power to complete archery challenges, progressing through increasingly difficult levels in a serene outdoor range. Scoring depends on accuracy and timing, encouraging skill refinement and focused control under pressure.\n\nKey Features\n\n• Realistic bow draw mechanics  \n• Precision aiming and shot power control  \n• Level-based accuracy challenges  \n• Wind effect simulation system  \n• Outdoor archery range environment"
+},
+{
+"id": "8d69378d3cac4734a3377474a254c209",
+"title": "Archery Blast",
+"iframe": "https://html5.gamedistribution.com/8d69378d3cac4734a3377474a254c209/",
+"creator": "Webgameapp",
+"description": "Launch arrows precisely to hit moving targets in varied archery challenges. Players adjust shot power and angle to overcome wind effects and target distance, progressing through increasingly difficult levels. The game emphasizes timing and trajectory control in a forest-themed environment to achieve high scores and unlock new stages.\n\nKey Features\n\n• Trajectory-based aiming mechanic  \n• Adjustable shot power control  \n• Increasing target complexity levels  \n• Wind effect simulation system  \n• Forest archery range setting"
+},
+{
+"id": "da27ab91aafc4f06939d198d0c975626",
+"title": "Archery Clash",
+"iframe": "https://html5.gamedistribution.com/da27ab91aafc4f06939d198d0c975626/",
+"creator": "Webgameapp",
+"description": "Aim precise arrows at moving targets in a fast-paced archery duel, testing timing and accuracy with a dynamic bow-drawing mechanic. Progress through increasingly difficult rounds where target distance and speed shift to challenge player reflexes. Each match demands quick adjustments and sharp focus to outscore opponents in a visually clean arena setting.\n\nKey Features\n\n• Variable draw strength bow control  \n• Timing-based shooting accuracy system  \n• Increasingly challenging target patterns  \n• Score tracking with round progression  \n• Minimalist archery arena design"
+},
+{
+"id": "af1abb0e560b4023befb6d3e5d47a1d2",
+"title": "Archery Master",
+"iframe": "https://html5.gamedistribution.com/af1abb0e560b4023befb6d3e5d47a1d2/",
+"creator": "JulGames",
+"description": "Aim and release arrows with precision to hit moving targets and navigate challenging wind conditions in this archery simulation. Players must master bow tension control as they progress through increasing difficulty levels set in a forest environment. Timing and trajectory adjustments are key to achieving high scores and unlocking new challenges.\n\nKey Features\n\n• Bow tension and aiming mechanics  \n• Wind influence on arrow trajectory  \n• Progressive target difficulty stages  \n• Time-limited shooting rounds  \n• Forest setting with dynamic backgrounds"
+},
+{
+"id": "9451100e7f414ad294945a01d21314d3",
+"title": "Archery Training",
+"iframe": "https://html5.gamedistribution.com/9451100e7f414ad294945a01d21314d3/",
+"creator": "kiz10.com",
+"description": "Aim precise shots using a bow and arrow to hit targets in varied positions, refining your accuracy and timing with each attempt. This game centers on archery skills where steady aim and controlled draws determine success. Players face increasing difficulty through target layouts, challenging their focus and consistency in a simple training ground setup.\n\nKey Features\n\n• Bow draw and release mechanics  \n• Mouse-controlled aiming system  \n• Progressive target difficulty levels  \n• Timed shooting challenge mode  \n• Classic archery range environment"
+},
+{
+"id": "9296dcc74e604b32b5e7d2ffb90c3746",
+"title": "Archery War",
+"iframe": "https://html5.gamedistribution.com/9296dcc74e604b32b5e7d2ffb90c3746/",
+"creator": "DAB3Games",
+"description": "Aim and shoot arrows precisely using bow-drawing mechanics to hit moving targets across various battle arenas. Navigate timed shooting challenges that test your accuracy and reflexes while facing progressively tougher opponents. Each level introduces faster enemies and different shooting distances to sharpen your aim in an archery combat setting.\n\nKey Features\n\n• Bow draw and release controls  \n• Timed target shooting sequences  \n• Progressively challenging enemy patterns  \n• Score-based precision ranking system  \n• Medieval archery combat theme"
+},
+{
+"id": "797895eeb73f436b95b8683fafd5a65e",
+"title": "FPS Toy Realism",
+"iframe": "https://html5.gamedistribution.com/797895eeb73f436b95b8683fafd5a65e/",
+"creator": "GamePush",
+"description": "Engage in fast-paced shooting using diverse toy firearm models that mimic real-world ballistics. The game focuses on mastering weapon recoil and aiming precision through layered target practice stages. Players advance by improving accuracy and unlocking varied combat scenarios in playful, imaginative arenas. Quick reflexes and strategic timing shape each encounter’s outcome.\n\nKey Features\n\n• Detailed weapon recoil simulation  \n• Target practice progression system  \n• Precision aiming mechanics  \n• Unlockable toy gun models  \n• Themed playful shooting arenas"
+},
+{
+"id": "623baec23d504c83acab0b5250859ba8",
+"title": "Hazmob FPS",
+"iframe": "https://html5.gamedistribution.com/623baec23d504c83acab0b5250859ba8/",
+"creator": "Hazmob",
+"description": "Navigate fast-paced combat using tactical shooting mechanics in a dynamic arena. Engage in precision aiming and quick reflexes while adapting to shifting enemy patterns. Progress through increasingly difficult rounds that test weapon handling and movement skills. The game centers on mastering a unique firearm system blending accuracy and speed for survival.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Responsive player movement control  \n• Progressive enemy wave difficulty  \n• Timed challenge and scoring systems  \n• Arena-based combat environment"
+},
+{
+"id": "a20708d13734415a9428bdcdfb5cd16e",
+"title": "Offline FPS Royale",
+"iframe": "https://html5.gamedistribution.com/a20708d13734415a9428bdcdfb5cd16e/",
+"creator": "kiz10.com",
+"description": "Engage in fast-paced gunfights with a focus on strategic movement and survival in a last-man-standing scenario. Utilize an offline multiplayer mode where players navigate compact arenas using precise aiming and cover tactics. The challenge lies in outlasting opponents while adapting to unpredictable combat dynamics in a minimalist battle royale setting.\n\nKey Features\n\n• Tactical third-person shooting  \n• Offline local multiplayer mode  \n• Dynamic arena positioning  \n• Survival-based player elimination  \n• Compact battle royale maps"
+},
+{
+"id": "4a51add1b7f94613a7ab8b5949efcba3",
+"title": "Society FPS",
+"iframe": "https://html5.gamedistribution.com/4a51add1b7f94613a7ab8b5949efcba3/",
+"creator": "Instant Games Studio",
+"description": "Engage in fast-paced first-person shooting where precision aiming and movement determine survival on urban battlegrounds. Utilize customizable loadouts and strategic cover usage to overcome AI opponents across multiple combat zones. Progress through escalating difficulty levels, adapting tactics to dominate territory control challenges and unlock new weapon upgrades.\n\nKey Features\n\n• Precision aiming and recoil control  \n• Dynamic cover and movement system  \n• AI enemy waves with scaling difficulty  \n• Weapon customization and upgrades  \n• Urban battleground combat zones"
+},
+{
+"id": "fd5f903d4b93483e809891046eb0b180",
+"title": "Subway FPS",
+"iframe": "https://html5.gamedistribution.com/fd5f903d4b93483e809891046eb0b180/",
+"creator": "Instant Games Studio",
+"description": "Navigate frantic subway tunnels using precision aiming and fast reflexes to eliminate hostile targets in a classic first-person shooting experience. Players rely on weapon armory ranging from pistols to shotguns while adapting to enemies that emerge from train cars and platforms. The challenge intensifies with time-based scoring, encouraging quick decisions and steady movement through confined urban tracks.\n\nKey Features\n\n• Precision aiming controls  \n• Progressive enemy spawn waves  \n• Time-limited scoring system  \n• Multiple firearm types  \n• Subway platform combat zones"
+},
+{
+"id": "53cb97cc3c334a02b3b7dd4c66c6c45c",
+"title": "Command Strike FPS",
+"iframe": "https://html5.gamedistribution.com/53cb97cc3c334a02b3b7dd4c66c6c45c/",
+"creator": "Mirra Games",
+"description": "Engage in fast-paced multiplayer combat using a variety of firearms and tactical maneuvers in this first-person shooter. Players navigate different maps while managing reload speeds and aiming precision to eliminate opponents and score points. The game challenges reaction time and situational awareness with weapon recoil patterns and movement control influencing success in each match.\n\nKey Features\n\n• Diverse weapon accuracy mechanics  \n• Responsive character movement controls  \n• Competitive scoring and ranking system  \n• Varied multiplayer map environments  \n• Tactical cover and aiming dynamics"
+},
+{
+"id": "93f03e6652a145d38412b159bbf6d415",
+"title": "Dragon Slayer FPS",
+"iframe": "https://html5.gamedistribution.com/93f03e6652a145d38412b159bbf6d415/",
+"creator": "JulGames",
+"description": "Navigate intense first-person battles with a powerful arsenal that tests your precision and reflexes. Combat relentless enemy forces across dynamic levels using diverse weapon systems and detailed aiming mechanics. Survival depends on mastering movement and attack timing while progressing through increasingly challenging encounters designed for quick-paced firefights.\n\nKey Features\n\n• Precision aiming mechanics  \n• Diverse weapon arsenal control  \n• Progressive enemy wave challenges  \n• Dynamic movement and cover system  \n• Tactical close-quarter combat"
+},
+{
+"id": "eff38e79e02e49cf99a06c71b20d4067",
+"title": "Thief Fps Fire Marshal",
+"iframe": "https://html5.gamedistribution.com/eff38e79e02e49cf99a06c71b20d4067/",
+"creator": "igroutka.ru",
+"description": "Sneak through tense indoor environments relying on stealth movement and quick reflexes to avoid detection. Players employ precise timing and careful positioning to outsmart guards while handling a fire safety element that adds urgency to missions. Progression revolves around mastering dual mechanics of stealth and environmental hazards to complete objectives without triggering alarms.\n\nKey Features\n\n• Stealth-based evasion system  \n• Reflex-driven guard encounters  \n• Fire hazard management challenges  \n• Level progression with escalating threats  \n• Indoor tactical mission design"
+},
+{
+"id": "5bcaa426fd724efda8be890fc5118c46",
+"title": "Guns & Bottles",
+"iframe": "https://html5.gamedistribution.com/5bcaa426fd724efda8be890fc5118c46/",
+"creator": "Freak X Games",
+"description": "Shoot bottles with precise aim using a combination of firearms and quick reflexes to break all targets. The core mechanic centers on timing and accuracy as players navigate levels featuring varied bottle arrangements. Progressing through increasingly complex shooting galleries challenges aiming skills and reaction speed in this skill-based shooter aimed at casual players.\n\nKey Features\n\n• Precision aiming mechanic  \n• Rapid-fire shooting controls  \n• Increasingly difficult bottle patterns  \n• Time-limited challenge rounds  \n• Classic shooting gallery setup"
+},
+{
+"id": "1d8cf03d22f94c20935c164a9d6adf88",
+"title": "Guns vs Magic",
+"iframe": "https://html5.gamedistribution.com/1d8cf03d22f94c20935c164a9d6adf88/",
+"creator": "SMOKOKO LTD",
+"description": "Switch between wielding firearms and casting spells to defeat waves of enemies in dynamic combat arenas. Utilize a hybrid combat system that blends precise gunplay with strategic magic use to overcome various monster types. Progress through increasingly difficult levels by mastering weapon switching and spell combinations to survive challenging encounters.\n\nKey Features\n\n• Dual weapon and magic system  \n• Player-controlled targeting mechanics  \n• Level-based enemy wave progression  \n• Spell and firearm upgrade paths  \n• Dark fantasy battle arenas"
+},
+{
+"id": "2307b3227c9d4e74a9d7091a392ed1c0",
+"title": "CS: Upgrade Gun",
+"iframe": "https://html5.gamedistribution.com/2307b3227c9d4e74a9d7091a392ed1c0/",
+"creator": "GamePush",
+"description": "Upgrade firearms through tactical shooting rounds in this browser title. Players customize their weaponry by enhancing components like barrels and magazines, aiming to overcome increasingly tough enemy waves. The gameplay hinges on precision shooting and strategic upgrades to progress through diverse combat challenges, appealing to teens and casual gamers seeking straightforward, skill-based action.\n\nKey Features\n\n• Weapon upgrade customization system  \n• Precision aiming and shooting controls  \n• Progressive enemy wave difficulty  \n• Multiple upgrade paths to explore  \n• Minimalist combat-themed environment"
+},
+{
+"id": "9814a081a1a4495991bc8634296d5a82",
+"title": "Grandma with machine-gun: Apocalypsis",
+"iframe": "https://html5.gamedistribution.com/9814a081a1a4495991bc8634296d5a82/",
+"creator": "GamePush",
+"description": "Command grenades and wield the machine gun as a tough grandma defending her home from waves of approaching enemies. The core mechanic blends twin-stick shooting with barricade building, challenging players to balance offense and defense across escalating attack rounds. Strategic weapon placement and quick reflexes decide the survival outcome in this uniquely chaotic urban apocalypse.\n\nKey Features\n\n• Twin-stick shooting controls  \n• Barricade construction system  \n• Progressive enemy wave scaling  \n• Weapon upgrade paths  \n• Urban post-apocalyptic environment"
+},
+{
+"id": "3589a28d3b8e4ac08b304741858a3e80",
+"title": "Gun Rush",
+"iframe": "https://html5.gamedistribution.com/3589a28d3b8e4ac08b304741858a3e80/",
+"creator": "Online Games",
+"description": "Navigate fast-paced shooting encounters using a strategic weapon system that demands quick aiming and timing. Engage in progressive combat rounds where mastering different firearm types affects survival against waves of diverse enemies. Each level ramps up with new challenges requiring precise reflexes and smart resource use to clear hostile zones.\n\nKey Features\n\n• Dynamic weapon switching mechanics  \n• Precision aiming and shooting controls  \n• Increasing enemy wave complexity  \n• Time-limited survival rounds  \n• Urban warfare combat environment"
+},
+{
+"id": "f9320b27ae2d450fba45cfbe99ddd27a",
+"title": "Get a cool gun!",
+"iframe": "https://html5.gamedistribution.com/f9320b27ae2d450fba45cfbe99ddd27a/",
+"creator": "GamePush",
+"description": "Acquire diverse firearms through strategic shooting challenges in this casual browser game. Players test their precision and timing to unlock a wide range of weapons, each with unique firing patterns and reload mechanics. Progression depends on mastering recoil and target accuracy to advance through increasingly difficult stages.\n\nKey Features\n\n• Precision aiming and shooting  \n• Weapon variety with unique stats  \n• Progressive unlock system  \n• Timed shooting challenges  \n• Casual arcade-style gameplay"
+},
+{
+"id": "7d6904e6be5649a5a771cf41dcb76827",
+"title": "Turret Gunner",
+"iframe": "https://html5.gamedistribution.com/7d6904e6be5649a5a771cf41dcb76827/",
+"creator": "AdelikDev",
+"description": "Operate fixed artillery turrets to defend strategic outposts from relentless enemy waves. The gameplay centers on aiming and firing stationary gun emplacements against advancing mechanical foes, with increasing intensity across escalating levels. Players must manage reload times and rotating gun barrels to maximize damage output and survive diverse assault patterns.\n\nKey Features\n\n• Stationary turret aiming mechanic  \n• Precision firing controls  \n• Progressive enemy wave difficulty  \n• Reload and barrel rotation system  \n• Mechanical enemy assault theme"
+},
+{
+"id": "e0ee0fc8416845b992af13f0bc74375d",
+"title": "Gun Rush",
+"iframe": "https://html5.gamedistribution.com/e0ee0fc8416845b992af13f0bc74375d/",
+"creator": "Digital Oddities",
+"description": "Battle enemies using rapid-fire shooting and tactical movement in chaotic close-range combat. Players navigate dynamic arenas focusing on quick reflexes and weapon accuracy against diverse foes. Progression involves mastering various gun types and survival under pressure, with levels ramping up both intensity and enemy variety.\n\nKey Features\n\n• Fast-paced shooting mechanics  \n• Responsive twin-stick controls  \n• Increasing enemy difficulty waves  \n• Weapon upgrade progression system  \n• Arena-based combat stages"
+},
+{
+"id": "f1d26823646c4078a6db03221f8e05d1",
+"title": "Gun Racing",
+"iframe": "https://html5.gamedistribution.com/f1d26823646c4078a6db03221f8e05d1/",
+"creator": "GamePush",
+"description": "Race armed vehicles along dynamic tracks, navigating obstacles and aiming to outpace rivals through skillful shooting and precise driving. The core mechanic revolves around balancing speed with aggressive gunfire to disable competitors. Players push through progressively challenging courses while managing vehicle control and weapon usage to claim victory in high-speed combat races.\n\nKey Features\n\n• Vehicle-mounted weapon systems  \n• Real-time aiming and shooting controls  \n• Track obstacle navigation challenges  \n• Progressive lap-based race stages  \n• Combative racing in armed settings"
+},
+{
+"id": "cb1b97b6cc5243d1aa6a70659cdfee6d",
+"title": "Squirrel with a gun!",
+"iframe": "https://html5.gamedistribution.com/cb1b97b6cc5243d1aa6a70659cdfee6d/",
+"creator": "Mirra Games",
+"description": "Shoot targets with precision as a nimble squirrel wields a makeshift gun, navigating fast-paced side-scrolling levels. Players must aim and fire accurately while dodging obstacles to clear waves of quirky enemies. The gameplay blends platforming agility with shooting mechanics, creating a dynamic challenge set in a colorful forest environment.\n\nKey Features\n\n• Aiming-based shooting controls  \n• Side-scrolling platform navigation  \n• Progressive enemy wave challenges  \n• Collectible ammo and upgrades  \n• Forest-themed level design"
+},
+{
+"id": "bb3dbe0a9c214bac87ea41f7d91d4e15",
+"title": "Gun Clone",
+"iframe": "https://html5.gamedistribution.com/bb3dbe0a9c214bac87ea41f7d91d4e15/",
+"creator": "Playgama",
+"description": "Control rapid-fire gunplay through randomly generated clones to outlast waves of enemies. Each clone mirrors your actions in a vibrant pixel-art arena, creating a layered shooting challenge. The core mechanic revolves around managing multiple shooters simultaneously while dodging incoming fire. Survive successive levels by mastering timing and spatial awareness in this dynamic twin-stick shooter.\n\nKey Features\n\n• Clone duplication shooting mechanic  \n• Twin-stick movement and firing controls  \n• Increasing enemy swarm progression  \n• Time-based survival rounds  \n• Colorful pixel-art arena combat"
+},
+{
+"id": "8d125aecd58f4645bffda294deca7061",
+"title": "Gun Evolution",
+"iframe": "https://html5.gamedistribution.com/8d125aecd58f4645bffda294deca7061/",
+"creator": "bestgames.com",
+"description": "Combine guns and mutations to enhance firepower through incremental upgrades. Players manage evolving weapon systems by merging parts and adapting their arsenal to face increasingly tough enemies in a dynamic, action-filled environment. The main goal centers on continuous weapon improvement to survive waves of hostile targets and unlock advanced gear.\n\nKey Features\n\n• Merge based weapon evolution  \n• Real-time aiming and shooting  \n• Progressive enemy difficulty waves  \n• Multiple weapon upgrade paths  \n• Sci-fi firearm design elements"
+},
+{
+"id": "e33f54b2dda446b4b23b9a5da0c5a6ce",
+"title": "Gun Builder",
+"iframe": "https://html5.gamedistribution.com/e33f54b2dda446b4b23b9a5da0c5a6ce/",
+"creator": "Ohayō",
+"description": "Construct customized firearms by assembling an array of modular gun parts to tailor weapon performance. Players manipulate attachment combinations from barrels to triggers, experimenting with ballistic effects and firing behavior to optimize for precision or fire rate. The challenge lies in fine-tuning each build to master shooting mechanics while progressing through diverse target tests. Unlock additional components to expand customization options and enhance armory variety.\n\nKey Features\n\n• Modular weapon assembly system  \n• Adjustable firing and recoil mechanics  \n• Precision shooting challenge stages  \n• Component unlock progression  \n• Workshop-style customization interface"
+},
+{
+"id": "5237e042daf4491e91e1f697bb490b0e",
+"title": "Gun Craft Run Weapon Fire",
+"iframe": "https://html5.gamedistribution.com/5237e042daf4491e91e1f697bb490b0e/",
+"creator": "YAD.Com",
+"description": "Navigate intense platform levels while wielding diverse firearms in this action-packed run and shoot challenge. Players control a fast-moving character who must dodge obstacles and eliminate enemies using a unique weapon switching system. Progression unlocks new armaments and increasingly complex stages demanding quick reflexes and precise timing.\n\nKey Features\n\n• Dynamic weapon switching mechanic  \n• Fast-paced side-scrolling movement  \n• Increasing difficulty platform stages  \n• Collectible firearm upgrades  \n• Combative run and gun gameplay"
+},
+{
+"id": "54051bd5a055495da4170bcabc1f5e56",
+"title": "GunFu Stickman 2",
+"iframe": "https://html5.gamedistribution.com/54051bd5a055495da4170bcabc1f5e56/",
+"creator": "Yes2Games",
+"description": "Chain rapid-fire shots and use agile stickman movement to dodge enemy attacks in this action-packed shooting game. Players master timing and repositioning against waves of opponents, leveraging a skill-based gunplay system that escalates in intensity through diverse enemy types and stage obstacles.\n\nKey Features\n\n• Precision shooting mechanics  \n• Responsive stickman movement  \n• Progressive enemy wave difficulty  \n• Combo-based scoring system  \n• Minimalist urban combat setting"
+},
+{
+"id": "bc7b1127b4bd484c89c2949b667dc809",
+"title": "Tail Gun Charlie",
+"iframe": "https://html5.gamedistribution.com/bc7b1127b4bd484c89c2949b667dc809/",
+"creator": "CarGames.Com",
+"description": "Pilot the rear gun turret to defend against relentless enemy fighters in a fast-paced aerial shooter. Using precise turret rotation, players aim to protect their bomber from waves of attacking planes while managing overheating and ammo supply. Survival depends on quick reflexes and strategic target prioritization as enemy complexity increases with each stage.\n\nKey Features\n\n• Turret rotation aiming system  \n• Ammo and heat management mechanics  \n• Progressive enemy wave patterns  \n• Time attack survival mode  \n• Classic 1940s bomber setting"
+},
+{
+"id": "ea7b9e4ddc8046048f732f5fe9fce582",
+"title": "Gun Rush",
+"iframe": "https://html5.gamedistribution.com/ea7b9e4ddc8046048f732f5fe9fce582/",
+"creator": "IT-Hype",
+"description": "Navigate fast-paced environments using precise shooting mechanics to survive waves of opponents in this action-packed shooter. Players rely on rapid aiming and weapon switching to clear rooms of enemies while managing limited ammo and health. Progression unfolds through escalating enemy difficulty and varied combat scenarios, demanding quick reflexes and strategic movement. The game features rounds with different enemy types that test the player’s shooting accuracy and timing.\n\nKey Features\n\n• Precision aiming and shooting  \n• Weapon swapping mechanics  \n• Incremental enemy difficulty  \n• Room-clearing survival mode  \n• Fast-paced combat pacing"
+},
+{
+"id": "afb89d04a3474e9bb260a1c3293d76ce",
+"title": "Gun War Z1",
+"iframe": "https://html5.gamedistribution.com/afb89d04a3474e9bb260a1c3293d76ce/",
+"creator": "IT-Hype",
+"description": "Engage in fast-paced shooting challenges using a variety of firearms against waves of enemies in a post-apocalyptic setting. Players maneuver through increasingly difficult levels, relying on precise aiming mechanics and quick reflexes to survive hostile encounters. The game emphasizes upgrading weapons and mastering firearm handling to withstand relentless zombie attacks.\n\nKey Features\n\n• Precision aiming gunplay  \n• Progressive weapon upgrade system  \n• Increasing enemy wave difficulty  \n• Tactical reload and shooting controls  \n• Post-apocalyptic survival environment"
+},
+{
+"id": "7fcc0f45dca04a3891bc739a90686b31",
+"title": "Gun Fest",
+"iframe": "https://html5.gamedistribution.com/7fcc0f45dca04a3891bc739a90686b31/",
+"creator": "PuzzleGame.Com",
+"description": "Control dynamic multi-directional shooting using an array of firearms in fast-paced combat scenarios. Players navigate through waves of enemies relying on precise aiming and rapid firing mechanics to survive increasingly difficult stages. The gameplay emphasizes managing weapon cooldowns and mastering movement to clear challenges with tactical efficiency.\n\nKey Features\n\n• Multi-weapon firing system  \n• Precision shooting controls  \n• Progressive enemy wave difficulty  \n• Cooldown and reload management  \n• Action-packed shooting arena"
+},
+{
+"id": "018a871c73d440b3bf834283ee205404",
+"title": "Master Gun",
+"iframe": "https://html5.gamedistribution.com/018a871c73d440b3bf834283ee205404/",
+"creator": "2Play",
+"description": "Control fast-paced firearm combat using precise aiming and timing to eliminate waves of enemies. Navigate a variety of weaponry that responds uniquely to recoil and reload mechanics while progressing through levels with increasing difficulty. Each stage challenges players to adapt their shooting strategy and perfect their reaction speed in a dynamic shooting environment.\n\nKey Features\n\n• Recoil-based shooting system  \n• Precision aiming controls  \n• Progressive enemy wave difficulty  \n• Time-limited challenge modes  \n• Varied weapon selection"
+},
+{
+"id": "260f045cdb1d490e868957092e1ab578",
+"title": "Human Gun",
+"iframe": "https://html5.gamedistribution.com/260f045cdb1d490e868957092e1ab578/",
+"creator": "bestgames.com",
+"description": "Control a precision humanoid figure firing a variety of weapons to eliminate opponents across compact arenas. Utilize fluid shooting and dodging mechanics to clear increasingly difficult enemy waves. Tactical positioning and weapon timing shape progression through dynamic stages designed for casual players and teens seeking arcade action.\n\nKey Features\n\n• Humanoid character shooting system  \n• Manual aiming and evasion controls  \n• Increasingly tough enemy waves  \n• Stage progression with scoring metrics  \n• Minimalist arcade arena design"
+},
+{
+"id": "981d9e0e5b424b83ad282a39aa0adfcb",
+"title": "Gun Head Run",
+"iframe": "https://html5.gamedistribution.com/981d9e0e5b424b83ad282a39aa0adfcb/",
+"creator": "bestgames.com",
+"description": "Run and dodge enemy fire through fast-paced obstacle courses in this action-packed game. Players control a mechanical gun head that continuously moves forward, requiring quick reflexes to jump and slide under barriers. The challenge lies in surviving longer while navigating randomly generated tracks filled with traps and enemy shots. Timing and precision are key to mastering each high-speed run.\n\nKey Features\n\n• Continuous forward movement mechanic  \n• Jump and slide player controls  \n• Randomly generated obstacle courses  \n• Survival time scoring system  \n• Mechanical robot theme environment"
+},
+{
+"id": "d96d88da5d724bccaa6184389ef19e2f",
+"title": "Gun War Z2",
+"iframe": "https://html5.gamedistribution.com/d96d88da5d724bccaa6184389ef19e2f/",
+"creator": "IT-Hype",
+"description": "Navigate intense combat scenarios using versatile firearms in a dynamic shooter setting. Players engage in rapid aiming and shooting while managing ammo and positioning to survive waves of enemies. The game challenges reflexes with varied weapon mechanics and introduces unlockable equipment to advance through increasingly difficult levels.\n\nKey Features\n\n• Diverse weapon handling system  \n• Precision aiming and shooting controls  \n• Progressive enemy wave difficulty  \n• Unlockable gear and upgrades  \n• Urban battleground environment"
+},
+{
+"id": "01d015cb7fb24816a20f912e5ebcca85",
+"title": "Cash Gun Rush",
+"iframe": "https://html5.gamedistribution.com/01d015cb7fb24816a20f912e5ebcca85/",
+"creator": "YAD.Com",
+"description": "Shoot and collect stacks of cash while maneuvering through fast-paced obstacle courses in this physics-driven arcade game. Players control a powerful cash cannon, timing shots to grab as much money as possible while avoiding barriers that slow progress. Each level increases in complexity, requiring precision shooting and strategic timing to maximize earnings before time runs out.\n\nKey Features\n\n• Cash collection timing mechanic  \n• Obstacle navigation challenges  \n• Progressive level difficulty scaling  \n• Physics-based projectile control  \n• Urban arcade setting elements"
+},
+{
+"id": "d5e7c033d2bd4a7dbbb7cbd9bcde8148",
+"title": "Gun Shot",
+"iframe": "https://html5.gamedistribution.com/d5e7c033d2bd4a7dbbb7cbd9bcde8148/",
+"creator": "Gamebol",
+"description": "Shoot targets rapidly using precision aiming mechanics in a dynamic firing range environment. Players adjust their shooting angles and timing to hit moving objects, mastering projectile trajectories to improve accuracy. Progression involves increasingly difficult target patterns and timer challenges, pushing aiming skills to higher levels with optional bonus rounds for extra challenge.\n\nKey Features\n\n• Precision aiming control system  \n• Timed target shooting challenges  \n• Increasing target movement complexity  \n• Bonus round scoring mode  \n• Dynamic projectile trajectory mechanics"
+},
+{
+"id": "761eba024a7146d3942aa878d2cba722",
+"title": "Guns and Magic",
+"iframe": "https://html5.gamedistribution.com/761eba024a7146d3942aa878d2cba722/",
+"creator": "justaliendev",
+"description": "Cast spells while wielding firearms to battle diverse enemies in a world blending sorcery and weaponry. Combine magical abilities with precision shooting to overcome waves of enchanted foes, navigating strategic combat scenarios that require quick reflexes and skillful resource management. Progress through increasingly challenging levels that test both spellcasting and marksmanship.\n\nKey Features\n\n• Hybrid spell and gun combat  \n• Tactical aiming and shooting controls  \n• Level-based enemy encounters  \n• Resource management for abilities  \n• Fantasy and technological theme mix"
+},
+{
+"id": "ca709c1fc7014a35867a1fff5d725d12",
+"title": "Gun Fest",
+"iframe": "https://html5.gamedistribution.com/ca709c1fc7014a35867a1fff5d725d12/",
+"creator": "bestgames.com",
+"description": "Manage rapid-fire weapon exchanges in dynamic shooting encounters, relying on precise aiming and timing to overcome progressively tougher opponents. The game tests reflexes through varied firearm setups, challenging players to master quick reloads and strategic positioning. Expect escalating waves and tactical gunplay that sharpen reactive skills in a compact combat environment.\n\nKey Features\n\n• Varied firearm handling mechanics  \n• Aiming precision and reload timing  \n• Progressive enemy wave challenges  \n• Tactical positioning requirements  \n• Compact fast-paced combat arenas"
+},
+{
+"id": "f910198677aa43e69a81a311a6039d68",
+"title": "Alpha Guns",
+"iframe": "https://html5.gamedistribution.com/f910198677aa43e69a81a311a6039d68/",
+"creator": "Ramblo Digital Media",
+"description": "Control agile combatants through fast-paced shooting encounters focused on precision and timing. Players navigate diverse enemy formations, relying on rapid aiming and shot placement to clear waves and advance. The gameplay emphasizes weapon versatility and adapting to dynamic battle scenarios, with occasional power-ups enhancing offensive capabilities.\n\nKey Features\n\n• Rapid fire shooting mechanics  \n• Dynamic enemy wave patterns  \n• Weapon upgrade customization  \n• Time-based survival challenges  \n• Sci-fi combat arena setting"
+},
+{
+"id": "ede6822b829a4c7481b2b33510a60869",
+"title": "Jack O Gunner",
+"iframe": "https://html5.gamedistribution.com/ede6822b829a4c7481b2b33510a60869/",
+"creator": "vetx",
+"description": "Launch aiming projectiles at waves of unique enemies in a spooky Halloween-themed arena. Utilize timed shots and positioning to fend off endless pumpkin and ghost attackers while upgrading your firing speed and accuracy. The challenge grows as enemies multiply with each round, urging players to adapt quickly in vibrant, fast-paced action.\n\nKey Features\n\n• Projectile aiming and timing  \n• Adaptive enemy wave patterns  \n• Upgradeable firing mechanics  \n• Endless survival mode  \n• Halloween-inspired enemy design"
+},
+{
+"id": "3ee6ca0c12804066a8912392d0a9c061",
+"title": "DR. Gun Boots",
+"iframe": "https://html5.gamedistribution.com/3ee6ca0c12804066a8912392d0a9c061/",
+"creator": "FBK",
+"description": "Leap and dash through challenging levels using powerful jet boots in this fast-paced action platformer. Players navigate obstacle-filled environments relying on precise timing and momentum to reach the end of each stage. Collecting items and avoiding hazards form the core gameplay loop, underlining skillful movement and quick reflex challenges. Variety in terrain and speed boosts adds depth to progression.\n\nKey Features\n\n• Momentum-based movement mechanics  \n• Precision jumping and dashing controls  \n• Increasingly complex obstacle stages  \n• Collectible boost and power-up items  \n• Futuristic sci-fi environment design"
+},
+{
+"id": "5d9acdfa78e445729c2741ea97fea8c9",
+"title": "Gunner",
+"iframe": "https://html5.gamedistribution.com/5d9acdfa78e445729c2741ea97fea8c9/",
+"creator": "Agame",
+"description": "Navigate a fast-paced shooting environment using precise aiming and timing to take down waves of approaching enemies. Players manage recoil and reload mechanics while adapting to shifting attack patterns in each level. The game challenges engagement through weapon control and spatial awareness in a dynamic combat setting.\n\nKey Features\n\n• Precision aiming and shooting  \n• Recoil and reload management  \n• Progressive enemy wave difficulty  \n• Timed attack pattern challenges  \n• Minimalist combat arena design"
+},
+{
+"id": "87662720e87c4e218edee51958a7e72f",
+"title": "Machine Gun Squad",
+"iframe": "https://html5.gamedistribution.com/87662720e87c4e218edee51958a7e72f/",
+"creator": "YAD.Com",
+"description": "Control a squad armed with rapid machine guns to eliminate waves of enemies in intense arena combat. Players rely on precise aiming and continuous firing mechanics to survive relentless enemy assaults and clear increasingly difficult levels. Fast-paced shooting and tactical positioning are key to overcoming chaotic battlegrounds filled with diverse hostile forces.\n\nKey Features\n\n• Continuous multi-directional shooting  \n• Squad movement and cover mechanics  \n• Progressive enemy wave difficulty  \n• Scoring based survival mode  \n• Urban combat arena setting"
+},
+{
+"id": "2cf8ef07d7e74a1fa017abd1108a36c4",
+"title": "Rum & Gun",
+"iframe": "https://html5.gamedistribution.com/2cf8ef07d7e74a1fa017abd1108a36c4/",
+"creator": "Borington",
+"description": "Navigate chaotic shootouts using a blend of quick reflexes and strategic positioning. Players manage ranged combat with a variety of weapons while dodging enemy fire in fast-paced levels. The gameplay centers on mastering timing and aiming to survive waves of opponents and progress through escalating challenges.\n\nKey Features\n\n• Dynamic weapon aiming system  \n• Cover based shooting mechanics  \n• Enemy wave escalation  \n• Score multiplier combos  \n• Stylized pirate-themed arenas"
+},
+{
+"id": "8c8a8aff410a4b82af0021748f95adf0",
+"title": "Double Gun",
+"iframe": "https://html5.gamedistribution.com/8c8a8aff410a4b82af0021748f95adf0/",
+"creator": "gamesmunch.com",
+"description": "Control dual pistols with rapid-fire precision while navigating enemy waves and timed levels. This shooter blends quick aiming mechanics with a unique dual-wield system, challenging players to balance offensive bursts and evasive movement for survival. Progression comes through increasingly complex enemy patterns and scoring targets that test reflexes.\n\nKey Features\n\n• Dual pistol rapid-fire mechanics  \n• Responsive twin-stick aiming controls  \n• Increasing enemy wave challenges  \n• Score-based progression system  \n• Urban shooter environment elements"
+},
+{
+"id": "f57c55c88e534595a89283bd8078122c",
+"title": "GunGame 24 Pixel",
+"iframe": "https://html5.gamedistribution.com/f57c55c88e534595a89283bd8078122c/",
+"creator": "BestCrazyGames.com",
+"description": "Navigate fast-paced shooting sequences using diverse pixel-art firearms while adapting to weapon upgrades and sudden changes in combat style. The game challenges players to master a unique gun-switching mechanic tied to kills, requiring sharp reflexes and strategic timing. Survival depends on efficiently cycling through an evolving arsenal amid retro pixel environments.\n\nKey Features\n\n• Kill-based weapon progression  \n• Precision aiming controls  \n• Timed gun switching mechanic  \n• Progressive difficulty waves  \n• Classic pixel art combat"
+},
+{
+"id": "e4f99d7e849b441e9c2a10acc90f7b1b",
+"title": "Desert Gun",
+"iframe": "https://html5.gamedistribution.com/e4f99d7e849b441e9c2a10acc90f7b1b/",
+"creator": "JZJO.COM",
+"description": "Shoot fast and aim carefully against waves of desert outlaws in this quick-draw shooting game. Players rely on precision timing and reload mechanics to survive increasingly tough duel rounds in an arid Wild West setting. The challenge grows with faster enemies and trickier shootouts as players climb ranks and improve their gunslinger skills.\n\nKey Features\n\n• Precision timing shooting mechanics  \n• Reload and cooldown management  \n• Increasing enemy speed and difficulty  \n• Duel rank progression system  \n• Wild West desert environment"
+},
+{
+"id": "97e05674e12c4758a9580daf8f7771d3",
+"title": "Mr Gun",
+"iframe": "https://html5.gamedistribution.com/97e05674e12c4758a9580daf8f7771d3/",
+"creator": "Instant Games Studio",
+"description": "Aim precisely to take out enemies with timed shooting mechanics in a fast-paced aiming challenge. Players control a sharpshooter who must eliminate targets one by one using limited ammo and bullet ricochets to clear multiple foes. Levels ramp up with increasingly complex setups requiring accuracy and strategy under pressure.\n\nKey Features\n\n• Precision shooting mechanics  \n• Tap-based aiming controls  \n• Increasingly complex enemy arrangements  \n• Ammo management challenge  \n• Urban hitman target scenarios"
+},
+{
+"id": "b24072767d454114be088dac33df1508",
+"title": "Blocky Gun Paintball 3",
+"iframe": "https://html5.gamedistribution.com/b24072767d454114be088dac33df1508/",
+"creator": "BestCrazyGames.com",
+"description": "Compete in fast-paced paintball battles by controlling blocky characters armed with colorful guns in vibrant arenas. The core mechanic revolves around precise shooting and quick movement to tag opponents before time runs out, with each round offering increasing challenges through varied map layouts and player positioning. Mastering cover use and weapon timing is key to dominating matches.\n\nKey Features\n\n• Third-person shooter aiming system  \n• Dynamic arena movement controls  \n• Time-limited capture mechanics  \n• Incremental match difficulty tiers  \n• Bright voxel art style environments"
+},
+{
+"id": "c43c108ebd914fbfa9dddfcbcbadcae2",
+"title": "GunGame Poligon Battle Royale",
+"iframe": "https://html5.gamedistribution.com/c43c108ebd914fbfa9dddfcbcbadcae2/",
+"creator": "BestCrazyGames.com",
+"description": "Engage in fast-paced gunfights where weapon variety and rapid switching define combat intensity. Players navigate compact maps with tactical positioning while facing opponents in a battle royale format that rewards skillful aim and gun mastery. The challenge centers on eliminating foes through diverse firearms as the playable area shrinks, demanding strategic movement and quick reflexes.\n\nKey Features\n\n• Progressive weapon swapping system  \n• Tactical positioning on compact maps  \n• Shrinking play zone challenge  \n• Real-time aiming and shooting controls  \n• Battle royale elimination mode"
+},
+{
+"id": "b95f76e3afe447378ebeb903fcf24b1d",
+"title": "GunGame Paintball Wars",
+"iframe": "https://html5.gamedistribution.com/b95f76e3afe447378ebeb903fcf24b1d/",
+"creator": "BestCrazyGames.com",
+"description": "Compete in fast-paced paintball battles by switching weapons and tagging rivals across vibrant outdoor arenas. This game blends tactical gun switching with quick reflex shooting, where players aim to outscore opponents using limited ammo and strategic positioning. Progression hinges on mastering different paintball markers while avoiding elimination in escalating combat rounds.\n\nKey Features\n\n• Weapon swapping mechanic  \n• Precision aiming and shooting  \n• Timer-based round progression  \n• Score tracking leaderboard  \n• Colorful paintball arena design"
+},
+{
+"id": "8c6ab9e8ce95462aab3a4bcc58f48a56",
+"title": "Gun Mayhem",
+"iframe": "https://html5.gamedistribution.com/8c6ab9e8ce95462aab3a4bcc58f48a56/",
+"creator": "JZJO.COM",
+"description": "Jump into chaotic platform battles using fast-paced gunplay and explosive weapon pickups. Players compete in dynamic arenas where jumping and shooting are key to knocking opponents off stage. The game mixes frantic movement with diverse firearms to outlast rivals in intense multiplayer skirmishes that test reflexes and positioning.\n\nKey Features\n\n• Diverse throwable and ranged weapons  \n• Responsive platform jumping controls  \n• Last player standing challenge mode  \n• Dynamic arena layouts and hazards  \n• Cartoon-style urban combat setting"
+},
+{
+"id": "eb915214892043cdb55ef966cc637ee1",
+"title": "Gun Strike",
+"iframe": "https://html5.gamedistribution.com/eb915214892043cdb55ef966cc637ee1/",
+"creator": "igroutka.ru",
+"description": "Engage in fast-paced shooting sequences using precise aiming mechanics to eliminate waves of robotic enemies. Players navigate through arena-style levels featuring dynamic cover and timed reload systems. The challenge ramps up with increasing enemy speed and smarter AI, requiring quick reflexes and strategic positioning for survival.\n\nKey Features\n\n• Precision aiming weapon system  \n• Cover-based movement controls  \n• Progressive enemy AI difficulty  \n• Timed reload and ammo management  \n• Arena stage combat setting"
+},
+{
+"id": "41a4e1ebcf684817b4290059407422b0",
+"title": "Metal Guns Fury : beat em up",
+"iframe": "https://html5.gamedistribution.com/41a4e1ebcf684817b4290059407422b0/",
+"creator": "Playtouch",
+"description": "Engage in fast-paced combat using a variety of metal weapons to defeat waves of enemies in close-quarters brawling. The game focuses on combo-based beat-em-up mechanics that challenge timing and spatial awareness. Players must clear each level by mastering powerful attack chains and avoiding enemy strikes as intensity builds through continuous progression.\n\nKey Features\n\n• Combo-driven melee system  \n• Responsive movement controls  \n• Increasing enemy difficulty tiers  \n• Level progression with score tracking  \n• Industrial-themed fight arenas"
+},
+{
+"id": "5088508b2fd34471a2931c2b3f06d11b",
+"title": "Gold Gun Fury",
+"iframe": "https://html5.gamedistribution.com/5088508b2fd34471a2931c2b3f06d11b/",
+"creator": "JZJO.COM",
+"description": "Engage in fast-paced shooting with powerful gold-plated pistols while managing precise aim and quick reflexes. Players face waves of enemies in a dynamic duel environment, utilizing weapon upgrades and strategic positioning to dominate each level. The game challenges quick decision-making through escalating enemy toughness and timed encounters.\n\nKey Features\n\n• Precision aiming mechanic  \n• Dual pistol shooting controls  \n• Progressive enemy wave difficulty  \n• Weapon upgrade and customization  \n• Metallic gold aesthetic design"
+},
+{
+"id": "7ae6434893074c9d9fdb00c1b7b29591",
+"title": "Flip The Gun",
+"iframe": "https://html5.gamedistribution.com/7ae6434893074c9d9fdb00c1b7b29591/",
+"creator": "Thumb Game Studio",
+"description": "Launch and flip a customizable handgun through dynamic obstacle layouts, testing timing and precision with each spin. The game centers on the unique mechanic of propelling the gun to land correctly after flips while avoiding hazards. Players advance through stages with varied challenges and unlock incremental upgrades that alter shot trajectory and flipping speed.\n\nKey Features\n\n• Momentum-based weapon flipping  \n• Precision timing controls  \n• Progressive obstacle course difficulty  \n• Unlockable gun modification system  \n• Casual arcade physics environment"
+},
+{
+"id": "917cce8c44c44638a8cdc2a1794b65c8",
+"title": "GunSpin",
+"iframe": "https://html5.gamedistribution.com/917cce8c44c44638a8cdc2a1794b65c8/",
+"creator": "Minijuegos.com",
+"description": "Spin the gun turret rapidly to take out waves of approaching enemies in this action-packed shooter. Players must master a unique rotational aiming mechanic to clear increasingly challenging levels filled with diverse enemy types and avoid their attacks. The arcade-style setting emphasizes quick reflexes and strategic spinning to survive and score high. Power-ups add variety to the fast-paced gameplay loop.\n\nKey Features\n\n• Rotational turret aiming system  \n• Timed enemy wave attacks  \n• Increasing difficulty levels  \n• Power-up enhancement pickups  \n• Arcade-style shooter visuals"
+},
+{
+"id": "6b08240efb6e4d35a694ab2d8e1b9850",
+"title": "Gun Master",
+"iframe": "https://html5.gamedistribution.com/6b08240efb6e4d35a694ab2d8e1b9850/",
+"creator": "BPTop",
+"description": "Control and customize a versatile arsenal to outgun opponents in dynamic shooting encounters. Players use a weapon mastery system to earn and upgrade firearms, adapting loadouts through fast-paced combat scenarios. Progression involves unlocking unique guns while maneuvering through diverse enemy standoffs, emphasizing precision and tactical timing.\n\nKey Features\n\n• Weapon mastery and upgrade system  \n• Responsive aiming and shooting controls  \n• Progressive firearm unlock mechanics  \n• Tactical enemy engagement scenarios  \n• Diverse gun customization options"
+},
+{
+"id": "e5704229d25b4735be635b677b732e6a",
+"title": "Gun Shot",
+"iframe": "https://html5.gamedistribution.com/e5704229d25b4735be635b677b732e6a/",
+"creator": "igroutka.ru",
+"description": "Fire precise shots to eliminate targets and navigate fast-paced levels using sharp aiming controls. Players manipulate a unique weapon system to clear waves of enemies while adjusting to dynamic shooting mechanics in diverse settings. Progression relies on mastering timing and accuracy to overcome increasingly complex challenges and unlock new stages.\n\nKey Features\n\n• Precision aiming and shooting  \n• Dynamic target movement patterns  \n• Level-based difficulty scaling  \n• Time-limited challenge modes  \n• Varied weapon upgrade system"
+},
+{
+"id": "5d14f231b5834cfe9cb006e547dd27f8",
+"title": "GunHit",
+"iframe": "https://html5.gamedistribution.com/5d14f231b5834cfe9cb006e547dd27f8/",
+"creator": "RHM Interactive",
+"description": "Target and shoot moving enemies with precise timing and quick reflexes in this fast-paced browser game. Players rely on a dynamic projectile aiming system to clear waves of increasingly challenging foes, navigating through varied battlefield layouts. The game tests accuracy and reaction speed as players progress through escalating enemy patterns and scoring thresholds.\n\nKey Features\n\n• Precision projectile aiming system  \n• Reactive enemy movement patterns  \n• Increasing difficulty wave progression  \n• Combo scoring multiplier  \n• Classic arcade shooting vibes"
+},
+{
+"id": "d16311616dcf438c9ab48586584a5f62",
+"title": "Gun Flipper",
+"iframe": "https://html5.gamedistribution.com/d16311616dcf438c9ab48586584a5f62/",
+"creator": "FG Studio",
+"description": "Flip guns with precise timing to catch them mid-air and rack up combos in this fast-paced physics challenge. Players aim to maintain control over the weapon’s momentum as it spins and flips through each level, testing reflexes and timing to master higher difficulty stages. The core mechanic revolves around launching and catching firearms in a skill-based sequence that steadily increases in speed and complexity.\n\nKey Features\n\n• Timing-based weapon flipping  \n• Momentum control gameplay  \n• Increasing level difficulty curve  \n• Combo scoring system  \n• Minimalist arcade visual style"
+},
+{
+"id": "968ffd5a754c46c9aca05365e958d1b6",
+"title": "Gun Master",
+"iframe": "https://html5.gamedistribution.com/968ffd5a754c46c9aca05365e958d1b6/",
+"creator": "LoraStudio",
+"description": "Navigate layered shooting ranges mastering precision aiming with diverse firearms mechanics in this browser shooting game. Players unlock new weapon types and tackle escalating target challenges that test timing and accuracy under varied conditions. The gameplay revolves around refining weapon handling and adapting to shifting scenarios for top scores and progression through skill tiers.\n\nKey Features\n\n• Precision aiming core mechanic  \n• Progressive weapon unlocking  \n• Timing-based shoot challenges  \n• Skill tier advancement system  \n• Firearms range training setting"
+},
+{
+"id": "7a74269b124a418e832d7384f332f894",
+"title": "Custom Gun Creator",
+"iframe": "https://html5.gamedistribution.com/7a74269b124a418e832d7384f332f894/",
+"creator": "DAB3Games",
+"description": "Customize weapon parts to craft unique firearms with precise adjustments in modular components. Experiment with various barrels, stocks, and sights to optimize firing performance and tailor your weapon’s handling and appearance. Progress through unlockable parts and challenges to build increasingly powerful guns, testing your designs in simulation or combat scenarios.\n\nKey Features\n\n• Modular firearm assembly system  \n• Detailed weapon customization controls  \n• Unlockable parts progression  \n• Weapon performance testing modes  \n• Tactical gun design mechanics"
+},
+{
+"id": "ff8e7ab7b2d347af8bf265002561d921",
+"title": "EG Flip Gun",
+"iframe": "https://html5.gamedistribution.com/ff8e7ab7b2d347af8bf265002561d921/",
+"creator": "EcapsGames.com",
+"description": "Flip specialized weapons across dynamic arenas, balancing precise timing and trajectory to eliminate targets. Players engage with a unique catapult shooting mechanic that requires skillful weapon flips and ricochets to clear increasingly complex enemy formations. Success depends on mastering shot angles and managing limited ammo in vibrant, fast-paced levels.\n\nKey Features\n\n• Catapult-based weapon flipping  \n• Precision trajectory aiming controls  \n• Increasingly complex enemy setups  \n• Ammo management system  \n• Colorful dynamic arena environments"
+},
+{
+"id": "428adb401d294593bd1f3c2dacd51624",
+"title": "Paint Gun",
+"iframe": "https://html5.gamedistribution.com/428adb401d294593bd1f3c2dacd51624/",
+"creator": "Webron",
+"description": "Splash colorful paint across various obstacle courses using a unique paint gun mechanism that challenges your aiming and timing skills. Navigate through different levels with moving targets and timed sections to cover designated areas in vivid colors. The game tests precision shooting and strategic area coverage, offering a casual but focused paintball-themed experience.\n\nKey Features\n\n• Precision paint shooting mechanic  \n• Timed area coverage challenges  \n• Moving target obstacles  \n• Level progression with increasing difficulty  \n• Casual paintball arena setting"
+},
+{
+"id": "b1e45b2a3bd44e77ba960486d07e4422",
+"title": "Gun Masters",
+"iframe": "https://html5.gamedistribution.com/b1e45b2a3bd44e77ba960486d07e4422/",
+"creator": "f-igri.ru",
+"description": "Engage in precision shooting and tactical cover usage while navigating diverse combat arenas in this game. Master horizontal aiming and timed reloading to outshoot opponents and climb competitive ranks. Progress through increasingly challenging duels where weapon control and quick reflexes determine victory.\n\nKey Features\n\n• Precision aiming mechanics  \n• Cover based combat system  \n• Increasing duel difficulty  \n• Timed reload sequences  \n• Competitive rank progression"
+},
+{
+"id": "e14698719f3946f0b74444a00bf46e8e",
+"title": "Spinny Gun Online",
+"iframe": "https://html5.gamedistribution.com/e14698719f3946f0b74444a00bf46e8e/",
+"creator": "kiz10.com",
+"description": "Rotate a mechanized turret to target and eliminate waves of enemies in a dynamic multiplayer arena. Precision aiming with a spinning gun barrel governs survival and scoring through fast-paced action rounds. Players must balance rotation speed and shooting timing to outmaneuver rivals in intense combat encounters.\n\nKey Features\n\n• Rotational turret aiming mechanic  \n• Real-time multiplayer combat control  \n• Wave-based enemy spawning system  \n• Progression via scoring and upgrades  \n• Futuristic arena battle environment"
+},
+{
+"id": "8938f0a866b04ed8b5f46c57d0797aad",
+"title": "Blocky Gun Paintball 2",
+"iframe": "https://html5.gamedistribution.com/8938f0a866b04ed8b5f46c57d0797aad/",
+"creator": "BestCrazyGames",
+"description": "Navigate blocky arenas using paintball guns with varied shooting mechanics to outscore opponents. Players engage in close-quarters combat employing cover and precise aim, aiming to eliminate rivals in fast-paced multiplayer matches. Weapon customization and map variety add layers of strategy while mastering movement and shooting timing drives progression through ranked play.\n\nKey Features\n\n• Modular paintball weapon systems  \n• Third-person cover-based shooting  \n• Timed elimination rounds  \n• Ranked multiplayer matchmaking  \n• Colorful block-style arenas"
+},
+{
+"id": "fafcc6aa94ae47459f81ca2e1922894b",
+"title": "Paintball Gun Pixel 3D Multiplayer",
+"iframe": "https://html5.gamedistribution.com/fafcc6aa94ae47459f81ca2e1922894b/",
+"creator": "BestCrazyGames",
+"description": "Engage in fast-paced paintball battles using pixelated 3D avatars as you aim and shoot opponents in lively multiplayer arenas. Navigate blocky environments with simple movement controls while competing against other players to tag as many rivals as possible. The game challenges your aim and tactical positioning across dynamic match rounds.\n\nKey Features\n\n• Third-person pixel shooting mechanic  \n• WASD movement with mouse aiming  \n• Competitive multiplayer elimination rounds  \n• Real-time score tracking system  \n• Bright low-poly paintball arena design"
+},
+{
+"id": "1d0765041ec74e6781ab4ec61edd3cdf",
+"title": "Flip The Gun",
+"iframe": "https://html5.gamedistribution.com/1d0765041ec74e6781ab4ec61edd3cdf/",
+"creator": "BestGames",
+"description": "Launch projectiles through precise flips to hit distant targets in this physics-driven shooting challenge. Players control gun flips to navigate tricky trajectories and aim for maximum range on each level, testing timing and skill. Progression involves mastering flip strength and angle to overcome increasingly difficult stage layouts filled with strategic obstacles.\n\nKey Features\n\n• Projectile flip mechanics  \n• Precision aiming controls  \n• Increasing difficulty stages  \n• Time-based scoring system  \n• Minimalistic target environments"
+},
+{
+"id": "f120b84c309043feaadaaefe2afd0a06",
+"title": "Double Guns",
+"iframe": "https://html5.gamedistribution.com/f120b84c309043feaadaaefe2afd0a06/",
+"creator": "BestGames",
+"description": "Wield dual pistols to engage enemies with rapid-fire shooting and precision aiming in this side-scrolling shooter. Players navigate through fast-paced combat scenarios, mastering weapon handling and timing to clear waves of foes. The challenge lies in balancing aggressive offense with strategic reload management to survive escalating enemy attacks.\n\nKey Features\n\n• Dual weapon firing system  \n• Responsive aiming controls  \n• Progressive enemy wave difficulty  \n• Timed reload mechanic  \n• Western-inspired shooting action"
+},
+{
+"id": "1664d3ceec9b40c8b8752ad30b3ca503",
+"title": "Mr Gun",
+"iframe": "https://html5.gamedistribution.com/1664d3ceec9b40c8b8752ad30b3ca503/",
+"creator": "BestGames",
+"description": "Shoot enemies with precise timing and aim to eliminate targets using a single bullet mechanic in a stylized action setting. Players progress through increasingly challenging levels that test accuracy and reflexes, with occasional obstacles requiring strategic shot placement. The minimalist design emphasizes the core sniping gameplay and reactive enemy movements for quick decision making.\n\nKey Features\n\n• Single shot precision mechanic  \n• Tap to shoot control system  \n• Progressive accuracy challenge  \n• Reflex-based enemy reactions  \n• Stylized cartoon action style"
+},
+{
+"id": "f592442912da48a884e502efcd03ba3e",
+"title": "GunBattle",
+"iframe": "https://html5.gamedistribution.com/f592442912da48a884e502efcd03ba3e/",
+"creator": "DAB3Games",
+"description": "Engage in fast-paced shootouts where strategic timing and precise aiming dictate survival. Players navigate dynamic battle zones using cover and quick reflexes to outgun waves of AI opponents. Combines classic gunplay mechanics with reactive enemy patterns to test aiming skills and tactical movement in each escalating level.\n\nKey Features\n\n• Precision aiming and shooting  \n• Cover-based movement system  \n• Progressive enemy difficulty  \n• Timed survival rounds  \n• Urban combat environment"
+},
+{
+"id": "5bd83f6faa134b6daa08edd8757695f5",
+"title": "Blocky Gun Paintball",
+"iframe": "https://html5.gamedistribution.com/5bd83f6faa134b6daa08edd8757695f5/",
+"creator": "BestCrazyGames",
+"description": "Navigate colorful blocky arenas using paintball guns in a fast-paced shooter focused on accurate aiming and quick reflexes. Players sprint across various maps to tag opponents with strategic paintball shots while managing limited ammunition and cover usage. Progression unfolds through increasingly complex arenas featuring varied obstacles and enemy patterns.\n\nKey Features\n\n• Precision aiming and shooting  \n• Dynamic movement and cover system  \n• Increasingly challenging paintball arenas  \n• Limited ammo and reload timing  \n• Vibrant block-style visual theme"
+},
+{
+"id": "00b0d8cc634c46068ff5adae8f92b2ca",
+"title": "Sketchman Gun",
+"iframe": "https://html5.gamedistribution.com/00b0d8cc634c46068ff5adae8f92b2ca/",
+"creator": "kiz10.com",
+"description": "Control a stylized character wielding diverse firearms to tackle progressively challenging combat encounters in a minimalist, hand-drawn environment. Players balance precise shooting and quick movement to overcome waves of opponents. The game advances through escalating enemy types and dynamic level layouts that test reflexes and strategy.\n\nKey Features\n\n• Diverse weapon handling mechanics  \n• Responsive character aiming controls  \n• Progressive enemy difficulty scaling  \n• Multiple combat arenas  \n• Sketch-style monochrome visuals"
+},
+{
+"id": "e12afbc0080447b1a21db75d14022987",
+"title": "Guns and Blocks",
+"iframe": "https://html5.gamedistribution.com/e12afbc0080447b1a21db75d14022987/",
+"creator": "Code This Lab srl",
+"description": "Shoot and destroy colored blocks by aiming carefully in a physics-based projectile system. Players use precise timing and aim mechanics to clear increasingly complex block formations, testing both accuracy and strategy. The game challenges players to manage limited shots while progressing through puzzle-like levels centered around block elimination.\n\nKey Features\n\n• Precision aiming projectile mechanic  \n• Limited shot based challenge system  \n• Progressive block clearing stages  \n• Timer and score tracking mode  \n• Color-coded block interaction"
+},
+{
+"id": "a3be1fdae89b4b24845a1af774d2b2f5",
+"title": "Gun Builder 2",
+"iframe": "https://html5.gamedistribution.com/a3be1fdae89b4b24845a1af774d2b2f5/",
+"creator": "DAB3Games",
+"description": "Customize and assemble detailed firearm components to create unique gun configurations. Experiment with different attachments and barrel types to adjust weapon performance, while testing builds in shooting ranges focused on accuracy and handling. Progress through varied firearm designs and upgrade parts for improved shooting mechanics in this casual build-and-test experience.\n\nKey Features\n\n• Modular gun customization system  \n• Attachment swapping controls  \n• Progressive weapon part upgrades  \n• Target shooting trial mode  \n• Detailed firearm assembly interface"
+},
+{
+"id": "b9e6a749e7bd4f1b9ec2f5e4229581eb",
+"title": "Gun Zombies",
+"iframe": "https://html5.gamedistribution.com/b9e6a749e7bd4f1b9ec2f5e4229581eb/",
+"creator": "DAB3Games",
+"description": "Shoot waves of undead enemies using diverse firearms in this action-packed survival shooter. Players rely on precise aiming and shooting mechanics to fend off zombie hordes across various stages. Progression involves upgrading weapons and managing ammo to overcome increasing difficulty and tougher enemy types. The setting combines eerie post-apocalyptic environments with fast-paced combat.\n\nKey Features\n\n• Precision shooting mechanics  \n• Weapon upgrade progression  \n• Ammo management system  \n• Increasing zombie wave difficulty  \n• Post-apocalyptic survival theme"
+},
+{
+"id": "27cea06579c3421486b6ee3719232d2e",
+"title": "Gun Builder",
+"iframe": "https://html5.gamedistribution.com/27cea06579c3421486b6ee3719232d2e/",
+"creator": "DAB3Games",
+"description": "Customize modular firearms by assembling parts and tuning weapon stats in this building simulator. Experiment with different barrels, stocks, and triggers to create unique gun configurations. The goal is to master the crafting mechanic by balancing accuracy and fire rate, while exploring a detailed workshop environment. Players progress by unlocking advanced components and refining loadouts.\n\nKey Features\n\n• Modular weapon assembly system  \n• Part swapping and tuning controls  \n• Unlockable upgrade components  \n• Custom loadout management  \n• Detailed workshop interface"
+},
+{
+"id": "6325096a21b44b788b4cf0836e2a6e91",
+"title": "Gun Battle",
+"iframe": "https://html5.gamedistribution.com/6325096a21b44b788b4cf0836e2a6e91/",
+"creator": "QkyGames",
+"description": "Engage in fast-paced gunfights where precision aiming and quick reflexes decide the winner. Players rely on dynamic shooting mechanics and strategic cover usage to outshoot opponents in intense combat rounds. The game tests targeting skills and reaction speed while navigating compact arenas, aiming to eliminate rivals efficiently and survive each fast duel.\n\nKey Features\n\n• Precision aiming gameplay  \n• Tactical cover and movement  \n• Timed combat rounds  \n• Competitive multiplayer mode  \n• Urban close-quarter arenas"
+},
+{
+"id": "96b592a2f5aa4e4fb6299110446e7fe3",
+"title": "Hunting underwater spearfishing",
+"iframe": "https://html5.gamedistribution.com/96b592a2f5aa4e4fb6299110446e7fe3/",
+"creator": "dreamgames",
+"description": "Navigate underwater environments to hunt fish using spearfishing techniques in this casual game. Players control precise aiming and timing mechanics to catch various sea creatures while avoiding hazards. The gameplay centers on stealthy movement and strategic targeting within immersive aquatic settings, challenging players to improve their spearfishing skills and complete progressively harder catches.\n\nKey Features\n\n• Spear aiming and shooting mechanics  \n• Underwater movement controls  \n• Progressive catch difficulty levels  \n• Hazard avoidance system  \n• Coastal aquatic environment design"
+},
+{
+"id": "0143ede05b904e3db4add3645b0ef415",
+"title": "Wild Hunting Clash",
+"iframe": "https://html5.gamedistribution.com/0143ede05b904e3db4add3645b0ef415/",
+"creator": "Inlogic Software",
+"description": "Track and neutralize elusive animals using precise timing and strategic equipment choices in this outdoor hunting challenge. Players engage with a dynamic targeting system to capture rare wildlife across varying terrain. Each stage introduces new animal behaviors, requiring adaptive tactics to succeed in the hunt’s escalating difficulty.\n\nKey Features\n\n• Precision aiming mechanic  \n• Equipment selection strategy  \n• Progressive wildlife AI patterns  \n• Timed hunting sessions  \n• Natural outdoor environment"
+},
+{
+"id": "aaa57f7e703140b3935bc90eeead2bca",
+"title": "Duck Hunting Open Season",
+"iframe": "https://html5.gamedistribution.com/aaa57f7e703140b3935bc90eeead2bca/",
+"creator": "Meyagames",
+"description": "Aim precise shots at flying targets using a click-and-shoot mechanic set in a natural hunting environment. Players must track ducks with timed firing controls to hit moving targets before they escape. The game tests reaction speed and accuracy while progressing through increasingly challenging bird flight patterns in open field levels.\n\nKey Features\n\n• click-to-shoot aiming system  \n• timed target tracking controls  \n• progressive difficulty flight waves  \n• score-based hit accuracy feedback  \n• outdoor wetland hunting setting"
+},
+{
+"id": "65d74dc30b6b44438e289bc51387361c",
+"title": "Raft Shark Hunting",
+"iframe": "https://html5.gamedistribution.com/65d74dc30b6b44438e289bc51387361c/",
+"creator": "igroutka.ru",
+"description": "Hunt aggressive sharks using a raft as your fragile base, balancing movement and aiming mechanics to stay alive on open water. Players must manage staying on the raft while targeting fast-moving predators in this ocean survival scenario. The challenge revolves around precision shooting and careful positioning to avoid being knocked into the water. Progressive waves increase shark numbers and speed, testing reaction skills.\n\nKey Features\n\n• Raft-based shooting mechanics  \n• Precision aiming controls  \n• Increasing shark swarm challenges  \n• Survival timer progression system  \n• Ocean hunting environment"
+},
+{
+"id": "84ef3e883fa24930a420411f48176db8",
+"title": "Lion Hunting 3D",
+"iframe": "https://html5.gamedistribution.com/84ef3e883fa24930a420411f48176db8/",
+"creator": "8Games.Net",
+"description": "Track and shoot lions in this 3D hunting simulation that centers on precision aiming with a scoped rifle. Players navigate savannah environments as they hunt targets using realistic ballistics and stealth mechanics. The objective is to successfully eliminate lion targets across progressively challenging locations while managing limited ammunition and movement options.\n\nKey Features\n\n• Scoped sniper rifle shooting  \n• Stealth movement mechanics  \n• Progressive savannah hunting areas  \n• Ammunition management system  \n• 3D wildlife tracking environment"
+},
+{
+"id": "39be5b3cda194dab81254a79f90c57c8",
+"title": "Deer Hunting Jigsaw",
+"iframe": "https://html5.gamedistribution.com/39be5b3cda194dab81254a79f90c57c8/",
+"creator": "STA network",
+"description": "Arrange intricate puzzle pieces to reveal detailed wildlife scenes in this jigsaw game featuring deer in natural habitats. Players engage spatial reasoning to complete segmented images, advancing through levels of increasing complexity. The game challenges with varying piece counts and subtle color gradients to test focus and pattern recognition in tranquil forest settings.\n\nKey Features\n\n• Drag-and-drop piece placement  \n• Increasing puzzle piece count  \n• Level-based progression system  \n• Image preview toggle option  \n• Nature-themed wildlife puzzles"
+},
+{
+"id": "f63d0905ef9c414597456000557cb57c",
+"title": "BOAR HUNTING JIGSAW",
+"iframe": "https://html5.gamedistribution.com/f63d0905ef9c414597456000557cb57c/",
+"creator": "mastergame",
+"description": "Arrange scattered puzzle pieces to complete detailed images of wild boars in this relaxing jigsaw experience. Players rotate and fit uniquely shaped fragments against a natural woodland backdrop, aiming to reconstruct each animal illustration correctly. The challenge lies in identifying subtle patterns and edge connections to unlock more complex boards and improve completion time.\n\nKey Features\n\n• Piece rotation and placement mechanic  \n• Drag-and-drop puzzle controls  \n• Increasing puzzle complexity levels  \n• Timed and free play modes  \n• Wildlife and forest imagery"
+},
+{
+"id": "640537050a2946dcb6763bfdf6c86bc0",
+"title": "Fox Hunter Sniper JIGSAW",
+"iframe": "https://html5.gamedistribution.com/640537050a2946dcb6763bfdf6c86bc0/",
+"creator": "mastergame",
+"description": "Track and eliminate elusive targets using precise aiming and timed shots in this sniper jigsaw challenge. Players piece together weapon and environment puzzles to progress through increasing difficulty levels. The game blends sharpshooting mechanics with puzzle solving, testing reflexes and puzzle skills against a wilderness backdrop.\n\nKey Features\n\n• Puzzle-based aiming mechanics  \n• Sniper rifle assembly challenges  \n• Timed shot completion stages  \n• Progressive puzzle difficulty system  \n• Outdoor wilderness settings"
+},
+{
+"id": "5faf5d991e394cd3ab7ac57fd9bdc5b1",
+"title": "Wild Bear Hunting Game",
+"iframe": "https://html5.gamedistribution.com/5faf5d991e394cd3ab7ac57fd9bdc5b1/",
+"creator": "mastergame",
+"description": "Track and trap elusive bears using stealthy tracking and timed ambushes in a forest setting. Players navigate dense woodland areas while managing limited resources and stamina, aiming to capture the largest specimens before nightfall. Efficient use of environmental cover and strategic positioning is key to overcoming the animal’s unpredictable behavior patterns.\n\nKey Features\n\n• Stamina management system  \n• Stealth-based tracking mechanics  \n• Progressive animal difficulty scaling  \n• Timed hunting challenges  \n• Forest environment interaction"
+},
+{
+"id": "1aa4936ab23448f59e47b5f971b9840f",
+"title": "Fruit Hunting",
+"iframe": "https://html5.gamedistribution.com/1aa4936ab23448f59e47b5f971b9840f/",
+"creator": "Yup7.com",
+"description": "Collect colorful fruits by navigating a grid-based layout where precision timing controls every move. The core mechanic revolves around carefully planned path selection to avoid obstacles and maximize harvest. Players progressively unlock more complex patterns and fruit varieties, challenging their strategic thinking and reflexes in a vibrant orchard setting.\n\nKey Features\n\n• Grid movement with timing focus  \n• Strategic path planning controls  \n• Increasingly complex fruit patterns  \n• Progressive unlockable fruit types  \n• Orchard environment obstacles"
+},
+{
+"id": "c721368b94a441eeae70c84b25e7da13",
+"title": "Big Game Hunting",
+"iframe": "https://html5.gamedistribution.com/c721368b94a441eeae70c84b25e7da13/",
+"creator": "Online Games io",
+"description": "Hunt elusive animals by aiming carefully and managing limited ammunition in this wild outdoor simulation. Players track diverse wildlife across expansive natural environments using realistic ballistics for each shot. Each level challenges accuracy and timing to succeed in completing specific hunting objectives, with varied weather conditions adding depth to the gameplay.\n\nKey Features\n\n• Precision aiming with ballistic drop  \n• Ammunition management system  \n• Tracking diverse animal species  \n• Increasing difficulty objectives  \n• Realistic outdoor environment effects"
+},
+{
+"id": "ff79e36f05b24965a3a25f12b73eec73",
+"title": "Shark Hunting",
+"iframe": "https://html5.gamedistribution.com/ff79e36f05b24965a3a25f12b73eec73/",
+"creator": "FG Studio",
+"description": "Hunt elusive sharks using underwater harpoons while navigating ocean currents in a dynamic marine environment. Players aim to track movements using sonar pings and carefully time shots to succeed in progressive levels of increasing difficulty. This action blends precise aiming mechanics with strategic resource management to master dangerous aquatic predators.\n\nKey Features\n\n• Harpoon aiming and firing system  \n• Sonar tracking and stealth movement  \n• Increasing shark speed and aggression  \n• Resource depletion and reload timing  \n• Underwater hunting scenario and hazards"
+},
+{
+"id": "dfb1a995a502451d91f3f2787732e745",
+"title": "Dinosaur Hunting Dino Attack 3D",
+"iframe": "https://html5.gamedistribution.com/dfb1a995a502451d91f3f2787732e745/",
+"creator": "igroutka.ru",
+"description": "Engage in fast-paced dinosaur hunting using 3D movement and precision aiming to track and eliminate prehistoric threats. Navigate dense environments while managing limited ammo and timing attacks to survive waves of aggressive dinos. Progress through increasingly difficult stages that test reaction speed and strategic positioning.\n\nKey Features\n\n• Third-person 3D shooting mechanics  \n• Precision aiming and reload control  \n• Progressive enemy difficulty scaling  \n• Time-based wave survival system  \n• Prehistoric jungle environment design"
+},
+{
+"id": "a96489929d334b36a44af761aa0c45c6",
+"title": "Classical Hippo Hunting",
+"iframe": "https://html5.gamedistribution.com/a96489929d334b36a44af761aa0c45c6/",
+"creator": "TechionicsInc",
+"description": "Target hippos using precise aiming and timing as you navigate through varied hunting grounds. Players engage a unique shooting mechanic involving limited ammo and moving targets, testing reflexes and strategy. The game combines simple trigger controls with evolving difficulty to challenge casual players and younger gamers in a wildlife-themed environment.\n\nKey Features\n\n• Precision aiming and timing mechanic  \n• Limited ammo resource management  \n• Progressive target difficulty levels  \n• Quick reflex trigger controls  \n• Wildlife-themed hunting settings"
+},
+{
+"id": "3bcccdebe44441cb8346b4483a3d2a1e",
+"title": "Wild Hunter Sniper Buck",
+"iframe": "https://html5.gamedistribution.com/3bcccdebe44441cb8346b4483a3d2a1e/",
+"creator": "8Games.Net",
+"description": "Track and eliminate elusive bucks using precision sniper mechanics in a natural wilderness setting. Players engage in timed shooting challenges, relying on steady aim and adjusting for wind to secure each shot. The game blends progressive target difficulty with realistic ballistics, creating a strategic hunting experience across varied outdoor environments.\n\nKey Features\n\n• Precision shooting mechanics  \n• Wind and distance calculation  \n• Progressive target difficulty  \n• Time-limited hunting rounds  \n• Natural wilderness ambiance"
+},
+{
+"id": "a5d4d23045434c1fa2583c9c06d0fbd0",
+"title": "Jurassic Dino Hunting",
+"iframe": "https://html5.gamedistribution.com/a5d4d23045434c1fa2583c9c06d0fbd0/",
+"creator": "JulGames",
+"description": "Track and target prehistoric creatures using specialized hunting tools in a dynamic environment filled with roaming dinosaurs. Players rely on precise aiming and timing to capture rare species while navigating dense jungle terrain. Progression is driven by unlocking advanced gear to handle increasingly aggressive dinos in varied hunting zones.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Exploration of dense jungle landscapes  \n• Gear upgrades for enhanced hunting  \n• Progressive difficulty with aggressive dinos  \n• Dynamic tracking and stealth systems"
+},
+{
+"id": "dae8b9a130704825bb0875ab51b5ef34",
+"title": "CS: Command Snipers",
+"iframe": "https://html5.gamedistribution.com/dae8b9a130704825bb0875ab51b5ef34/",
+"creator": "GamePush",
+"description": "Engage precise aiming with sniper rifles to eliminate enemies from long range in tactical shooting encounters. Utilize steady breath control and cover positioning to master shot accuracy across varied urban environments. The game challenges players to complete increasingly complex assassination tasks while adapting to dynamic mission conditions and time constraints.\n\nKey Features\n\n• Precision aiming and breath control  \n• Stealth movement and cover system  \n• Progressive mission difficulty scaling  \n• Timed target elimination challenges  \n• Urban combat sniper scenarios"
+},
+{
+"id": "c3a70ae98547407a92ebedca8b79fdfa",
+"title": "Rooftop Snipers",
+"iframe": "https://html5.gamedistribution.com/c3a70ae98547407a92ebedca8b79fdfa/",
+"creator": "New Eich Games",
+"description": "Launch projectiles with precise timing to knock opponents off city rooftops, using simple dual-joystick controls. Players adjust aim and power in fast-paced duels where wind effects add unpredictability to each shot. The goal is to outwit and eliminate rival snipers across progressively challenging urban platforms.\n\nKey Features\n\n• Dual-joystick aiming system  \n• Wind-influenced projectile physics  \n• Progressive rooftop arena stages  \n• Local multiplayer duel mode  \n• Urban skyline combat arenas"
+},
+{
+"id": "e41aeb486db5460c972b56afe000e727",
+"title": "Sniper for Brainrot",
+"iframe": "https://html5.gamedistribution.com/e41aeb486db5460c972b56afe000e727/",
+"creator": "gameVgames",
+"description": "Aim precise shots to eliminate targets using a unique sniper mechanic that requires steady focus and timing. Players balance careful aiming with quick reflexes to clear challenging enemy formations. Progression involves mastering varied weapon scopes and environmental conditions that influence shot accuracy, adding depth to the creeping sniper gameplay.\n\nKey Features\n\n• Precision aiming and shooting mechanic  \n• Scoped weapon control dynamics  \n• Progressive shot difficulty scaling  \n• Environmental impact on targeting  \n• Stealth-based enemy engagement"
+},
+{
+"id": "8bd8d8dc794c4bf0b3e04e3f8ca4203f",
+"title": "Sniper Master",
+"iframe": "https://html5.gamedistribution.com/8bd8d8dc794c4bf0b3e04e3f8ca4203f/",
+"creator": "Raccoon",
+"description": "Engage enemies with precise long-range shots using advanced sniper rifles in this tactical shooter. Players must account for bullet drop and wind conditions to eliminate targets spread across urban and rural maps. Progress through increasingly challenging missions that test accuracy and timing skills under pressure.\n\nKey Features\n\n• Realistic ballistic trajectory mechanics  \n• Precision aiming and shooting controls  \n• Increasing target difficulty stages  \n• Wind and environmental effect system  \n• Urban and rural combat settings"
+},
+{
+"id": "721b8b5b05f14963b4266a51d8a59e73",
+"title": "Sniper Team 3",
+"iframe": "https://html5.gamedistribution.com/721b8b5b05f14963b4266a51d8a59e73/",
+"creator": "Xform",
+"description": "Control a sniper team as you engage in tactical shooting missions using precision aiming mechanics. Coordinate multiple marksmen to eliminate strategic targets while navigating through urban and outdoor environments. Progress through increasingly difficult levels by managing reload times and bullet drop, mastering stealth elements, and adapting to various sniper rifle types.\n\nKey Features\n\n• Precision aiming and shooting  \n• Team coordination mechanics  \n• Incremental mission difficulty  \n• Reload and bullet drop system  \n• Urban and wilderness maps"
+},
+{
+"id": "ee89787adb7b4ddcbb3eba00fee19581",
+"title": "Sniper Wars: Find the Criminal",
+"iframe": "https://html5.gamedistribution.com/ee89787adb7b4ddcbb3eba00fee19581/",
+"creator": "GamePush",
+"description": "Track moving targets through urban environments using precision sniper rifle controls in this tactical shooter. Players engage in timed missions that demand sharp aiming and stealthy positioning to eliminate criminal targets before they escape. Each level introduces new enemy types and requires adapting to changing vantage points within gritty cityscapes.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Stealth movement and cover system  \n• Timed mission challenges with escape scenarios  \n• Progressive enemy difficulty scaling  \n• Urban crime-themed sniper operations"
+},
+{
+"id": "fb3caf6fcf6d4c7ab8b148642cf4657f",
+"title": "Sniper Shot Secret Mission",
+"iframe": "https://html5.gamedistribution.com/fb3caf6fcf6d4c7ab8b148642cf4657f/",
+"creator": "PlayNode",
+"description": "Execute precise sniper shots to eliminate enemies across stealth-based levels using scoped rifles. Players experience a variety of tactical vantage points, requiring careful aiming mechanics and timing to succeed in dangerous missions. Each stage introduces new target types and environmental obstacles that test sharpshooting skills and strategic positioning.\n\nKey Features\n\n• Precision aiming with scoped rifles  \n• Stealth movement and cover usage  \n• Increasing target variety per level  \n• Time-based mission challenges  \n• Urban and forest sniper settings"
+},
+{
+"id": "cf85efb38c44487a99315c030f7e7ed6",
+"title": "Hitman Sniper",
+"iframe": "https://html5.gamedistribution.com/cf85efb38c44487a99315c030f7e7ed6/",
+"creator": "jimo game",
+"description": "Take precise aim and eliminate targets using sniper rifles across detailed environments in this tactical shooter offering varied mission objectives. Players engage with a shooting mechanic that emphasizes timing and accuracy, progressing through increasingly complex levels that require stealth and strategic positioning to complete assassination contracts. The gameplay challenges focus on using environment interaction and bullet physics to achieve perfect shots.\n\nKey Features\n\n• Precision sniper aiming system  \n• Strategic positioning and timing  \n• Progressive mission difficulty  \n• Environmental bullet physics  \n• Assassination contract objectives"
+},
+{
+"id": "d1a1e4c3d8d640358dd534fd79859577",
+"title": "Sniper 3D Zombie",
+"iframe": "https://html5.gamedistribution.com/d1a1e4c3d8d640358dd534fd79859577/",
+"creator": "Starodymov Games",
+"description": "Aim precisely to eliminate undead threats using a variety of sniper rifles in dynamic urban environments. Engage with interactive shooting mechanics that require careful timing and aim to survive waves of zombies. Progress through escalating missions that test weapon accuracy and reload efficiency on challenging post-apocalyptic maps.\n\nKey Features\n\n• Precision aiming and shooting system  \n• Weapon upgrade and customization options  \n• Progressive mission difficulty scaling  \n• Timed reload and reload speed mechanics  \n• Post-apocalyptic zombie shooter setting"
+},
+{
+"id": "b50c92033fd94dde9239519b16b303e4",
+"title": "Sniper Freeze",
+"iframe": "https://html5.gamedistribution.com/b50c92033fd94dde9239519b16b303e4/",
+"creator": "Playgama",
+"description": "Aim and shoot with steady precision as you eliminate targets in frozen environments using specialized sniper rifles. Players experience tactical shooting mechanics with wind and ice effects influencing bullet trajectories. The challenge lies in timing shots perfectly amid shifting snowstorms to progress through increasingly difficult scenarios. Adjust your aim and patience while adapting to dynamic weather conditions in outdoor winter settings.\n\nKey Features\n\n• Realistic bullet drop physics  \n• Precision aiming with wind factor  \n• Progressive target difficulty levels  \n• Time-limited shooting challenges  \n• Cold climate sniping environment"
+},
+{
+"id": "98d6071c904d4a808b7598bad77869f8",
+"title": "Super Sniper Missions",
+"iframe": "https://html5.gamedistribution.com/98d6071c904d4a808b7598bad77869f8/",
+"creator": "YAD.Com",
+"description": "Snipe targets with precision using advanced scoped rifles across diverse stealth missions. Players must carefully control breathing and timing to maintain accuracy while adapting to dynamic enemy patrol patterns. Each level increases in difficulty with new sniper challenges and tactical obstacles. Unlock gear upgrades to enhance shooting stability and complete varied mission objectives.\n\nKey Features\n\n• Precision aiming and breathing control  \n• Stealth movement and cover mechanics  \n• Progressive level difficulty scaling  \n• Rifle upgrade and customization  \n• Tactical sniper mission scenarios"
+},
+{
+"id": "642dfd66d764496ab2102d688c63ef36",
+"title": "Sniper Elite 3D",
+"iframe": "https://html5.gamedistribution.com/642dfd66d764496ab2102d688c63ef36/",
+"creator": "kiz10.com",
+"description": "Take aim with precision sniper rifles and navigate 3D environments to eliminate targets one by one. The gameplay centers on stealth shooting mechanics where timing and positioning define success. Progress through varied mission stages while avoiding enemy detection in a combat setting that emphasizes tactical marksman skills. Refining aim and controlling recoil play a crucial role in accomplishing objectives.\n\nKey Features\n\n• Precision long-range shooting  \n• Stealth movement and cover system  \n• Mission stage progression  \n• Adjustable shot power and recoil control  \n• Diverse enemy AI behavior"
+},
+{
+"id": "da604424b07747668fc79fbfe1bad252",
+"title": "Skibidi Toilet vs Cameraman Sniper Game",
+"iframe": "https://html5.gamedistribution.com/da604424b07747668fc79fbfe1bad252/",
+"creator": "Meyagames",
+"description": "Battle opponents using precise aiming and quick sniping skills in a surreal conflict featuring quirky characters. The game challenges players to outshoot rival marksmen with strategic positioning and timing. Encounter chaotic animated battles as you progress through escalating sniper duels in a bizarre battleground.\n\nKey Features\n\n• Precision aiming mechanics  \n• Tactical player positioning  \n• Increasing sniper difficulty levels  \n• Dynamic duel-based encounters  \n• Surreal character designs and settings"
+},
+{
+"id": "765c59e45d474bffb3c653714f952be5",
+"title": "Sniper vs Sniper",
+"iframe": "https://html5.gamedistribution.com/765c59e45d474bffb3c653714f952be5/",
+"creator": "Berezka",
+"description": "Take precise aim in tactical sniper duels where stealth and timing are essential to outshoot opponents. Players control a sharpshooter with limited ammo and must carefully select vantage points to eliminate rival marksmen before being spotted. The gameplay revolves around quick reflex shots and strategic positioning in isolated combat zones.\n\nKey Features\n\n• Long-range sniper aiming  \n• Limited ammunition management  \n• Stealth based cover system  \n• Time attack and elimination modes  \n• Urban rooftop combat environments"
+},
+{
+"id": "3751d5ed0f6b4b8f9331f148f9af52b2",
+"title": "Sniper Combat 3D",
+"iframe": "https://html5.gamedistribution.com/3751d5ed0f6b4b8f9331f148f9af52b2/",
+"creator": "Royale Gamers",
+"description": "Take precise aim using scoped rifles to eliminate enemies across progressively challenging urban battle zones. Utilize steady sniper mechanics with realistic bullet drop to complete stealth missions and protect key assets. Encounter varied AI opponents demanding tactical patience and precise timing for successful sharpshooting in dynamic combat scenarios.\n\nKey Features\n\n• Scoped sniper shooting mechanics  \n• Mouse aiming and steady breath control  \n• Progressive mission difficulty  \n• Stealth targeting system  \n• Urban warfare environments"
+},
+{
+"id": "e1031a9e8518422cbd67ed562b014a15",
+"title": "Sniper killer",
+"iframe": "https://html5.gamedistribution.com/e1031a9e8518422cbd67ed562b014a15/",
+"creator": "happyGames",
+"description": "Take precision shots using a specialized sniper rifle to eliminate targets while managing limited ammunition and controlling breathing stability for accuracy. Players face timed shooting challenges in various urban and wilderness stages, requiring careful aim and stealth positioning to succeed. Levels increase in difficulty as enemy alertness and environmental factors impact the mission outcome.\n\nKey Features\n\n• Precision aiming and breathing control  \n• Reload and ammo management system  \n• Increasing difficulty with timed missions  \n• Stealth positioning mechanics  \n• Urban and wilderness environments"
+},
+{
+"id": "7eec3cf91f004dec9ff94ccc6a231c2f",
+"title": "Sniper King 2D The Dark City",
+"iframe": "https://html5.gamedistribution.com/7eec3cf91f004dec9ff94ccc6a231c2f/",
+"creator": "BestGameSpot",
+"description": "Navigate shadowy urban rooftops using precision sniper rifle controls to eliminate hostile targets in this 2D tactical shooter. Players adapt to tight sightlines and limited ammunition while progressing through stealth-based levels set in a grim cityscape. The main challenge lies in balancing careful aim with strategic positioning to clear each stage efficiently.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Stealth movement across rooftops  \n• Ammo management and reload system  \n• Level progression through diverse city districts  \n• Nighttime urban sniper environment"
+},
+{
+"id": "c949d55709574c29979d600122215afc",
+"title": "Sniper 3D",
+"iframe": "https://html5.gamedistribution.com/c949d55709574c29979d600122215afc/",
+"creator": "2Play",
+"description": "Aim and fire with precision using sniper rifles to take down targets from a distance in urban and wilderness settings. This shooting game emphasizes timing shots while managing breath control and wind factors to hit challenging marks. Players progress through missions that increase in difficulty and variety of target types, testing focus and steady aim under pressure.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Breath control and wind effect system  \n• Mission-based target progression  \n• Varied enemy and environment types  \n• Weapon upgrade and customization options"
+},
+{
+"id": "25747b9934954278ba356dce7d886ab9",
+"title": "Sniper Shot: Bullet Time",
+"iframe": "https://html5.gamedistribution.com/25747b9934954278ba356dce7d886ab9/",
+"creator": "GoGoMan",
+"description": "Engage in precision shooting using a specialized slow-motion mechanic that enhances target acquisition in intense scenarios. Navigate dynamic environments with timed reactions, where strategic pauses allow for more accurate shots under pressure. Each successful hit challenges your aim and timing, encouraging steady progression through increasingly difficult stages.\n\nKey Features\n\n• Bullet time aiming mechanic  \n• Precision shooting controls  \n• Progressive difficulty scaling  \n• Time-based target challenges  \n• Tactical slow-motion gameplay"
+},
+{
+"id": "8f5fe323de7a422b8dc2fc4ed2c06827",
+"title": "Sniper Champion 3D",
+"iframe": "https://html5.gamedistribution.com/8f5fe323de7a422b8dc2fc4ed2c06827/",
+"creator": "bestgames.com",
+"description": "Aim and shoot from first-person perspective using precision sniper rifles in dynamic 3D environments. Players hone aiming skills and reaction time while engaging targets that appear with varying movement patterns and distances. Progress through increasingly difficult missions with timed challenges to become the ultimate marksman. The game emphasizes steady aim and quick decision-making under pressure.\n\nKey Features\n\n• Precision aiming mechanics  \n• Time-based target challenges  \n• Progressive mission difficulty  \n• First-person shooter controls  \n• Varied moving target types"
+},
+{
+"id": "95651addf17241659ae971d5b0b71579",
+"title": "Captain Sniper",
+"iframe": "https://html5.gamedistribution.com/95651addf17241659ae971d5b0b71579/",
+"creator": "Mad Buffer",
+"description": "Navigate precision shooting scenarios using scoped rifles while tracking moving targets in dynamic environments. Using sniper-style aiming mechanics, players face timed challenges that test accuracy and stealth, progressing through escalating levels that demand careful positioning and quick reflexes to eliminate foes efficiently.\n\nKey Features\n\n• Precision aiming with scoped rifles  \n• Stealth-based target engagement  \n• Timed mission challenges  \n• Progressive difficulty levels  \n• Tactical positioning mechanics"
+},
+{
+"id": "7bad9fd3bbd844f0b41ed3a3716f06e7",
+"title": "Army Sniper",
+"iframe": "https://html5.gamedistribution.com/7bad9fd3bbd844f0b41ed3a3716f06e7/",
+"creator": "JulGames",
+"description": "Engage targets using precise sniper rifle mechanics across diverse combat zones in Army Sniper. Players must control breathing and aim stability to eliminate enemies while managing limited ammunition and line-of-sight constraints. Progress through increasingly challenging missions that test stealth and marksmanship under pressure.\n\nKey Features\n\n• Sniper aiming and breathing control  \n• Ammunition management system  \n• Stealth-based enemy encounters  \n• Mission difficulty progression  \n• Realistic outdoor shooting environments"
+},
+{
+"id": "6de8c2b79cae477dacf7a7c400b90fd2",
+"title": "Sniper Trigger Revenge",
+"iframe": "https://html5.gamedistribution.com/6de8c2b79cae477dacf7a7c400b90fd2/",
+"creator": "kiz10.com",
+"description": "Take aim with precision as you engage in tactical shooting sequences using advanced sniper rifles. Carefully adjust your scope to eliminate multiple enemy targets from a distance, mastering steady aim and timing under pressure. The game challenges your accuracy and speed through progressively difficult levels that test your sniping skills in varied combat scenarios.\n\nKey Features\n\n• Precision sniper rifle mechanics  \n• Scope aiming and zoom control  \n• Time-limited target elimination  \n• Sequential target progression  \n• Urban and battlefield environments"
+},
+{
+"id": "adc6620d61594e11a0177fab6f173f5e",
+"title": "Special Forces Sniper",
+"iframe": "https://html5.gamedistribution.com/adc6620d61594e11a0177fab6f173f5e/",
+"creator": "JulGames",
+"description": "Control precision sniper rifles to eliminate targets with stealthy shots in a tactical military setting. Navigate through various combat scenarios requiring patience and sharp aiming to complete missions without detection. Spot targets using scoped rifles and adapt to different enemy placements while progressing through increasingly difficult levels.\n\nKey Features\n\n• Precision aiming with sniper rifles  \n• Stealth-based enemy elimination  \n• Level progression with increasing difficulty  \n• Scoped weapon zoom mechanics  \n• Tactical military environment"
+},
+{
+"id": "b3cab49eb91c4d3d941a8c4e6beca65b",
+"title": "Dead Zone Sniper",
+"iframe": "https://html5.gamedistribution.com/b3cab49eb91c4d3d941a8c4e6beca65b/",
+"creator": "G55.CO",
+"description": "Take precision shots using sniper rifles to eliminate threats in a tense post-apocalyptic environment. Players aim carefully with wind and bullet drop factors, facing waves of hostile enemies to survive each level. Mastering long-range weapon control and timing is key to advancing through progressively challenging stages.\n\nKey Features\n\n• Sniper rifle ballistic mechanics  \n• Precision aiming and firing controls  \n• Wave-based enemy elimination  \n• Difficulty scaling and level progression  \n• Atmospheric post-apocalyptic setting"
+},
+{
+"id": "0168b443ee3a4e7f93d20e9ef4f66313",
+"title": "Fantasy Sniper",
+"iframe": "https://html5.gamedistribution.com/0168b443ee3a4e7f93d20e9ef4f66313/",
+"creator": "G55.CO",
+"description": "Aim precisely through dynamic sniper scope controls to eliminate elusive targets in tense outdoor environments. Players manage repositioning and timing to complete escalating mission challenges, utilizing diverse weapon customizations to adapt shots. Stealth and accuracy define progression as players face varied enemy types across atmospheric forest and mountain settings.\n\nKey Features\n\n• Precision aiming with sniper scope  \n• Tactical repositioning mechanics  \n• Levels with escalating enemy AI  \n• Weapon customization system  \n• Outdoor forest and mountain stages"
+},
+{
+"id": "c5bb64698a3e49289784deca52e053b9",
+"title": "Perfect Sniper 3D",
+"iframe": "https://html5.gamedistribution.com/c5bb64698a3e49289784deca52e053b9/",
+"creator": "FG Studio",
+"description": "Aim precisely and eliminate targets from long distances using scoped rifles in urban sniper missions. Players adjust wind and bullet drop through a realistic ballistic system while progressing through timed shooting challenges. Each level demands careful positioning and calculated shots to prevent detection and complete contracts in diverse city environments.\n\nKey Features\n\n• Precision aiming with bullet drop\n• Wind adjustment impact mechanic\n• Progressive timed sniper contracts  \n• Silent takedown stealth system  \n• Urban cityscape target variety"
+},
+{
+"id": "d132892790f4415796fca1ef3a92e1f1",
+"title": "Sniper Trigger",
+"iframe": "https://html5.gamedistribution.com/d132892790f4415796fca1ef3a92e1f1/",
+"creator": "JulGames",
+"description": "Aim precisely and fire timed shots using a high-powered rifle to take down targets at varied distances. The game tests player reflexes and accuracy through progressively challenging sniper missions, requiring control over shot timing and bullet drop. Levels advance with increasing difficulty, featuring different shooting positions to master stealth and precision in an outdoor environment.\n\nKey Features\n\n• Precision aiming and shooting system  \n• Manual bullet drop adjustment  \n• Progressive level difficulty scaling  \n• Stealth and positioning mechanics  \n• Outdoor sniper scenario settings"
+},
+{
+"id": "3b0dbd931a7f40b4a3092244dc025ce1",
+"title": "Sniper Master 3D",
+"iframe": "https://html5.gamedistribution.com/3b0dbd931a7f40b4a3092244dc025ce1/",
+"creator": "igroutka.ru",
+"description": "Aim precisely to take out targets using scoped rifles as you engage in immersive shooting challenges. The game features realistic ballistic mechanics with moving enemy units to test your accuracy and timing. Progress through escalating missions that demand stealth and quick reflexes in compact urban and outdoor sniper scenarios. Master bullet drop and wind effects to accomplish stealth takedowns and score high.\n\nKey Features\n\n• Ballistic trajectory and wind effects  \n• Scoped sniper rifle controls  \n• Stealth mission progression system  \n• Moving target shooting challenges  \n• Urban and wilderness shooting environments"
+},
+{
+"id": "7f296eb8c5bd41bbaf6a68c530b0d68a",
+"title": "Pocket Sniper",
+"iframe": "https://html5.gamedistribution.com/7f296eb8c5bd41bbaf6a68c530b0d68a/",
+"creator": "bestgames.com",
+"description": "Aim precisely to eliminate targets using a scoped rifle in this pixel-art style shooting challenge. The core gameplay revolves around timing and accuracy under pressure, with different angles and distances to account for. Players must carefully manage their shots while advancing through varied sniper scenarios that test reflexes and precision.\n\nKey Features\n\n• Scoped rifle aiming mechanics  \n• Precision timing controls  \n• Progressive difficulty levels  \n• Limited ammunition challenge  \n• Pixel-art sniper environment"
+},
+{
+"id": "62048b4bc4694f19b78203779b8fd59d",
+"title": "Sniper Wolf Hunter",
+"iframe": "https://html5.gamedistribution.com/62048b4bc4694f19b78203779b8fd59d/",
+"creator": "mastergame",
+"description": "Aim and eliminate precise targets using a scoped rifle in this tactical shooter. The gameplay centers around sniper mechanics with realistic bullet drop and timed shots set in dynamic outdoor environments. Players must complete stealth missions by choosing ideal vantage points while managing limited ammunition and visibility. Quick reflexes and strategic positioning are key to success.\n\nKey Features\n\n• Sniper rifle aiming mechanics  \n• Precision timed shot control  \n• Stealth based mission challenges  \n• Ammo management system  \n• Outdoor tactical shooter settings"
+},
+{
+"id": "659f89c6944047faa4cac53367db8e65",
+"title": "Sniper Stag Hunter",
+"iframe": "https://html5.gamedistribution.com/659f89c6944047faa4cac53367db8e65/",
+"creator": "mastergame",
+"description": "Track and shoot agile deer using precision aiming with a scoped rifle in this hunting simulation. The game challenges players to adapt their timing and shot placement as animals move through dense forest environments. Focus on steady controls and careful observation to maximize your score across evolving hunting zones.\n\nKey Features\n\n• Precision rifle aiming mechanics  \n• Steady breath control system  \n• Progressive animal movement patterns  \n• Timed hunting challenge modes  \n• Forest wildlife tracking environment"
+},
+{
+"id": "d19362d150914a1a9a2d21b2edd9611d",
+"title": "Super Sniper",
+"iframe": "https://html5.gamedistribution.com/d19362d150914a1a9a2d21b2edd9611d/",
+"creator": "bestgames.com",
+"description": "Aim precisely and take down targets using a stealth-based sniper rifle in this tactical shooter. Players must control breathing and adjust for wind to hit moving enemies across a variety of outdoor levels that test patience and marksmanship. The game challenges accuracy under realistic bullet drop and time constraints while progressing through increasingly difficult sniper missions.\n\nKey Features\n\n• Precision aiming with breath control  \n• Bullet drop and wind adjustment  \n• Progressive target difficulty  \n• Timed stealth elimination system  \n• Outdoor range sniper environments"
+},
+{
+"id": "e1e44dbfad8045de9bb7a9860e1be109",
+"title": "Sniper Shot 3D",
+"iframe": "https://html5.gamedistribution.com/e1e44dbfad8045de9bb7a9860e1be109/",
+"creator": "DAB3Games",
+"description": "Take precise aim to eliminate targets using sniper rifles with realistic ballistics and scope mechanics. Players engage in varied shooting scenarios requiring steady control and timing to complete increasingly difficult missions. The game challenges your accuracy and patience across multiple urban and wilderness settings. Scenarios progress from stationary sniper posts to dynamic moving targets offering layered marksmanship tests.  \n\nKey Features\n\n• Tactical sniper rifle controls  \n• Environment-based target variety  \n• Mission difficulty scaling  \n• Time-limited precision challenges  \n• Urban and forest landscapes"
+},
+{
+"id": "9adda1ede521423cac11d8b2e7ccc039",
+"title": "Sniper Attack",
+"iframe": "https://html5.gamedistribution.com/9adda1ede521423cac11d8b2e7ccc039/",
+"creator": "Online Games io",
+"description": "Aim and fire with precision sniper rifles to neutralize moving targets in urban combat zones. Players use scoped shooting mechanics to line up perfect shots while managing limited ammunition and reload times. Success depends on quick reflexes and accurate timing as waves of enemy operatives emerge with increasing difficulty.\n\nKey Features\n\n• Scoped sniper rifle shooting  \n• Precision aiming and timing controls  \n• Graduated enemy difficulty waves  \n• Ammunition management system  \n• Urban battlefield setting"
+},
+{
+"id": "f39265ae92da4a649cf2e1e9ebcadb2f",
+"title": "Call On Duty Sniper Assassin",
+"iframe": "https://html5.gamedistribution.com/f39265ae92da4a649cf2e1e9ebcadb2f/",
+"creator": "igroutka.ru",
+"description": "Engage targets from long range using precision sniper rifles in this tactical shooter, focusing on steady aim and timing to eliminate enemies quickly. Players navigate urban and wilderness levels, adjusting for wind and distance, while completing varied assassination contracts. The game challenges marksmanship skills with realistic bullet drop and enemy AI that adapts to movement patterns.\n\nKey Features\n\n• Precision sniper rifle mechanics  \n• Steady aim and timing controls  \n• Varied assassination contracts  \n• Realistic ballistics simulation  \n• Urban and wilderness environments"
+},
+{
+"id": "8511629d968e41b5b12bb97fa0323df7",
+"title": "Sniper Mission 3D",
+"iframe": "https://html5.gamedistribution.com/8511629d968e41b5b12bb97fa0323df7/",
+"creator": "Instant Games Studio",
+"description": "Take aim with precision sniper rifles in urban environments, using realistic ballistic trajectories to eliminate targets silently. Players master weapon handling and timing to complete increasingly complex missions against tactical enemy placements. Sharp shooting controls and level-based progression keep the focus on stealth and accuracy in various cityscapes.\n\nKey Features\n\n• Precision aiming mechanics  \n• Stealth-based target elimination  \n• Level progression with varied missions  \n• Responsive sniper rifle controls  \n• Urban tactical combat settings"
+},
+{
+"id": "3113c3b32416482883722b201ab52b11",
+"title": "Classical Deer Sniper Hunting 2019",
+"iframe": "https://html5.gamedistribution.com/3113c3b32416482883722b201ab52b11/",
+"creator": "TechionicsInc",
+"description": "Hunt targets using precision sniper rifles while tracking deer through realistic forest environments in this hunting simulation. Players engage a stamina system affecting aim steadiness and advance through progressively challenging animals across various wilderness settings. The focus lies on patient aiming and timing shots under wind and distance factors to achieve high hunting scores.\n\nKey Features\n\n• Precision sniper rifle aiming  \n• Stamina-influenced shooting mechanics  \n• Increasingly difficult deer targets  \n• Environmental factors affecting ballistics  \n• Forest wilderness level settings"
+},
+{
+"id": "d28ceeb5b37b4a1289ddcb266a562c88",
+"title": "Classical Rabbit Sniper Hunting 2019",
+"iframe": "https://html5.gamedistribution.com/d28ceeb5b37b4a1289ddcb266a562c88/",
+"creator": "TechionicsInc",
+"description": "Aim and shoot precise sniper shots at quick-moving rabbits across varied natural environments. Utilize stealth and timing in each level to track and hunt down agile targets, mastering rifle controls and reactive aiming challenges. Progress through increasingly difficult stages where patience and accuracy define success in this animal hunting experience.\n\nKey Features\n\n• Precision sniper aiming mechanic  \n• Stealth and timing based gameplay  \n• Progressive difficulty levels  \n• Reactive movement target tracking  \n• Woodland hunting environment"
+},
+{
+"id": "7790f7558b11439f955505094342f23e",
+"title": "Sniper 3D Assassin online",
+"iframe": "https://html5.gamedistribution.com/7790f7558b11439f955505094342f23e/",
+"creator": "fugames",
+"description": "Take precise aim through urban sniper missions using detailed scoped targeting mechanics to eliminate marked enemies. Navigate a range of weapon upgrades and timed shots while adapting to moving targets and environmental obstacles. Each level tests accuracy and patience as you progress through ranked contract challenges in a modern combat setting.\n\nKey Features\n\n• Scoped sniper rifle controls  \n• Timed precision shooting  \n• Weapon upgrade system  \n• Contract-based mission progression  \n• Modern urban combat scenarios"
+},
+{
+"id": "0d576926ed70418aa0e555b5f9d0ddc9",
+"title": "Sniper Clash 3D",
+"iframe": "https://html5.gamedistribution.com/0d576926ed70418aa0e555b5f9d0ddc9/",
+"creator": "Freeway Interactive",
+"description": "Engage targets with precision using a variety of sniper rifles in fast-paced multiplayer matches. The game revolves around aiming and shooting mechanics set in urban and arena environments, where players must outshoot opponents to claim victory. Players can unlock weapons and gear as they progress through different ranked challenges.\n\nKey Features\n\n• Precision aiming and shooting mechanic  \n• Weapon unlock and upgrade system  \n• Ranked player progression  \n• Multiplayer arena combat  \n• Urban-themed battle zones"
+},
+{
+"id": "d0d10d2ab76c4e65878afdbf0324737c",
+"title": "Legendary Sniper",
+"iframe": "https://html5.gamedistribution.com/d0d10d2ab76c4e65878afdbf0324737c/",
+"creator": "JulGames",
+"description": "Take precise shots using advanced sniper rifles across varied tactical scenarios to eliminate challenging enemy targets. The gameplay emphasizes weapon accuracy and timed shots as you progress through missions with hidden objectives in urban and wilderness environments, testing your patience and sharp aiming skills.\n\nKey Features\n\n• Precision aiming mechanic  \n• Scoped rifle controls  \n• Mission-based target elimination  \n• Time-sensitive challenge levels  \n• Urban and natural combat zones"
+},
+{
+"id": "2d61b12933c442bea78ee0d7695f3162",
+"title": "Super Sniper Assassin",
+"iframe": "https://html5.gamedistribution.com/2d61b12933c442bea78ee0d7695f3162/",
+"creator": "DAB3Games",
+"description": "Take precise aim to eliminate targets with high-powered sniper rifles in intense tactical shooting sequences. Navigating urban rooftops challenges your stealth and timing while adapting to varied enemy patrol patterns. Progress through increasingly difficult missions that test your marksmanship and strategic positioning under pressure.\n\nKey Features\n\n• Precision sniper rifle mechanics  \n• Stealth movement and cover system  \n• Adaptive enemy AI patrols  \n• Mission-based level progression  \n• Urban rooftop environments"
+},
+{
+"id": "63424c38f0d04b24a43fb89b911dac50",
+"title": "Sniper Strike",
+"iframe": "https://html5.gamedistribution.com/63424c38f0d04b24a43fb89b911dac50/",
+"creator": "JulGames",
+"description": "Line up precise shots using sniper rifles to eliminate distant targets in a realistic outdoor environment. Players engage a sophisticated aiming system requiring steady control and timing to overcome various enemy types. Progressing through escalating mission objectives, shooters must adapt to wind and bullet drop mechanics that challenge marksmanship.\n\nKey Features\n\n• Precision aiming with wind effects  \n• Steady sniper rifle control  \n• Mission-based elimination goals  \n• Progressive difficulty with varied enemies  \n• Outdoor tactical shooting scenarios"
+},
+{
+"id": "da901db358b44d62ba8f35c9ff031a19",
+"title": "Sniper Reloaded",
+"iframe": "https://html5.gamedistribution.com/da901db358b44d62ba8f35c9ff031a19/",
+"creator": "JulGames",
+"description": "Aim precisely with a customizable sniper rifle to eliminate waves of enemies in fast-paced shooting action. Players rely on reload timing and bullet drop mechanics to clear levels with increasing difficulty, set against urban warfare backdrops. Each stage demands sharp reflexes and strategic shot placement to achieve top scores and unlock new gear.\n\nKey Features\n\n• Precision shooting mechanics  \n• Manual reload timing system  \n• Enemy wave progression  \n• Score-based level advancement  \n• Urban sniper combat scenarios"
+},
+{
+"id": "3fec697dd67245148e6beb7db0884c2c",
+"title": "Sniper 3D City Apocalypse",
+"iframe": "https://html5.gamedistribution.com/3fec697dd67245148e6beb7db0884c2c/",
+"creator": "igroutka.ru",
+"description": "Take precise sniper shots in urban warfare scenarios across multiple city districts while adapting to dynamic cover and weapon sway mechanics. Players engage in timed elimination missions against AI enemies scattered throughout detailed environments. Progression unlocks upgraded rifles and tactical gear for increasingly challenging encounters in a post-apocalyptic setting.\n\nKey Features\n\n• Precision sniper shooting mechanics  \n• Dynamic cover and aim sway system  \n• Timed target elimination challenges  \n• Rifle upgrades and gear customization  \n• Post-apocalyptic city environment"
+},
+{
+"id": "cede49b730094c53bd61198c2f6dc3c4",
+"title": "Sniper vs Zombies",
+"iframe": "https://html5.gamedistribution.com/cede49b730094c53bd61198c2f6dc3c4/",
+"creator": "mrseo88",
+"description": "Take precise aim to eliminate waves of undead using sniper rifles in tense long-range combat. Players engage a survival challenge where steady shots and timing dictate success against approaching zombies. Each level increases difficulty with varied enemy speed and health, demanding accuracy and patience. The urban nighttime setting adds atmosphere to the escalating zombie assault.  \n\nKey Features\n\n• Precision shooting mechanics  \n• Steady aiming control system  \n• Increasing enemy wave difficulty  \n• Time-based survival progression  \n• Urban zombie outbreak environment"
+},
+{
+"id": "eca91432df824cc79796a4dd906e44ee",
+"title": "Sniper Ultimate Assassin 2",
+"iframe": "https://html5.gamedistribution.com/eca91432df824cc79796a4dd906e44ee/",
+"creator": "Agame",
+"description": "Take precise aim using advanced sniper rifles to eliminate targets from long distances in this tactical shooting experience. Players engage in stealth-based mechanics to navigate hostile environments and complete assassination contracts across multiple challenging stages. Timing shots and managing bullet drop add depth to marksmanship challenges against varied enemy types.\n\nKey Features\n\n• Precision aiming and bullet drop  \n• Stealth movement and cover system  \n• Progressive mission difficulty tiers  \n• Weapon customization and upgrades  \n• Tactical urban and wilderness settings"
+},
+{
+"id": "361292d0e61c4de9867c282da5998ff9",
+"title": "Sniper Ultimate Assassin",
+"iframe": "http://html5.gamedistribution.com/361292d0e61c4de9867c282da5998ff9/",
+"creator": "Casual_Azerion_Old",
+"description": "Take aim with precision rifle shots in Sniper Ultimate Assassin, navigating stealthy environments to eliminate targets with careful timing. Players engage in long-range sniping mechanics, adjusting for distance and wind effects across various urban and covert settings. The goal is to clear missions flawlessly while managing limited ammo and avoiding detection by enemy guards.\n\nKey Features\n\n• Precision aiming and shooting  \n• Stealth movement and cover usage  \n• Mission-based target elimination  \n• Ammo management system  \n• Urban and covert mission environments"
+},
+{
+"id": "7fd84263f71649d1915ce9f528d3ad5c",
+"title": "StickMan Gunner",
+"iframe": "https://html5.gamedistribution.com/7fd84263f71649d1915ce9f528d3ad5c/",
+"creator": "NISHAD_Games",
+"description": "Control a stickman armed with firearms in dynamic shooting stages, mastering precise aiming and quick reflexes to survive waves of enemies. The gameplay centers on gunplay mechanics within compact maps, demanding sharp timing to clear each level. Progression involves unlocking weapons and refining shooting skills in an action-driven stickman setting.\n\nKey Features\n\n• Precision aiming and shooting controls  \n• Weapon unlock and upgrade system  \n• Timed wave survival challenges  \n• Multi-level progression structure  \n• Stylized stickman combat scenes"
+},
+{
+"id": "1fa401cfa7d54cd38c0727d7164730f7",
+"title": "Gun Match Screw",
+"iframe": "https://html5.gamedistribution.com/1fa401cfa7d54cd38c0727d7164730f7/",
+"creator": "QiGame",
+"description": "Match precision shots with revolver mechanics to eliminate metal screw targets in timed sequences. Players adjust aim and timing to clear stages featuring rotating screw-shaped enemies, testing sharp reflexes and accuracy. Success depends on mastering reload speed and shot placement across escalating challenge rounds.\n\nKey Features\n\n• Revolver aiming and shooting mechanics  \n• Precision timing and target elimination  \n• Progressively faster screw target rotations  \n• Reload speed management system  \n• Metallic screw-themed target patterns"
+},
+{
+"id": "119b282510574974ad19c300237e4ac9",
+"title": "Gun Shark Terror of Deep Water",
+"iframe": "https://html5.gamedistribution.com/119b282510574974ad19c300237e4ac9/",
+"creator": "kiz10.com",
+"description": "Navigate the depths using an underwater gunship, targeting hostile sea creatures and robots with precision shooting. The game blends fast-paced shooting mechanics with vehicle maneuvering through water environments, challenging players to clear waves of enemies using varied weaponry. Progress through increasingly difficult oceanic zones while managing ammo and avoiding hazards to survive.\n\nKey Features\n\n• Underwater gunship combat  \n• Precision aiming and shooting  \n• Progressive enemy waves  \n• Ammo management system  \n• Ocean depth hazards"
 },
 {
 "id": "6ac125d3766e4906b4fc2b8db5f73351",
@@ -393,13 +1555,6 @@
 "description": "Launch explosive bazooka shots to clear waves of monstrous enemies in a side-scrolling action setup. This game centers on precise projectile aiming combined with timing to topple unique monster types across progressively challenging stages. Players must navigate different attack patterns and improve shot accuracy to survive each level’s assault.  \n\nKey Features\n\n• Projectile trajectory aiming system  \n• Monster wave attack patterns  \n• Increasing stage difficulty levels  \n• Time-based scoring mechanics  \n• Cartoon monster apocalypse theme"
 },
 {
-"id": "cc9be4e05ddb42ac8caa36ca3f21c867",
-"title": "Halloween Archer",
-"iframe": "https://html5.gamedistribution.com/cc9be4e05ddb42ac8caa36ca3f21c867/",
-"creator": "QkyGames",
-"description": "Shoot arrows at fast-moving targets in a dark Halloween setting, where timing and precision define success. Players engage with bow aiming mechanics to hit spooky creatures appearing in waves, mastering shot angles and strength. The game challenges reflexes with increasingly tricky target patterns while capturing the eerie atmosphere of a haunted night.\n\nKey Features\n\n• Bow aiming and shooting system  \n• Precision timing and angle control  \n• Progressive target wave difficulty  \n• Scoring based on accuracy and combos  \n• Haunted night level design"
-},
-{
 "id": "ef4a32c6e68b483990dbd1c1147c8ee5",
 "title": "Bazooka and Monster 2 Halloween",
 "iframe": "https://html5.gamedistribution.com/ef4a32c6e68b483990dbd1c1147c8ee5/",
@@ -421,34 +1576,6 @@
 "description": "Shoot arrows precisely to take down waves of enemies using skillful timing and aim in this action-focused browser game. Players use a bow and arrow aiming mechanic within a dynamic arena setting, facing constant threats that require quick reflexes and strategic targeting. Each level increases enemy speed and variety, pushing players to sharpen their marksmanship under pressure.\n\nKey Features\n\n• Precision bow aiming system  \n• Responsive keyboard and mouse control  \n• Progressive enemy wave difficulty  \n• Time attack scoring mode  \n• Medieval fantasy archery theme"
 },
 {
-"id": "baf95ede2c51442c809498fc892dbc77",
-"title": "Impostor Archer War",
-"iframe": "https://html5.gamedistribution.com/baf95ede2c51442c809498fc892dbc77/",
-"creator": "kiz10.com",
-"description": "Launch precise arrow shots to eliminate deceptive opponents hidden among crew members in a tense, fast-paced multiplayer setting. The core gameplay blends stealth-based target identification with archery mechanics set in a mysterious sci-fi environment. Players must outwit others by timing shots carefully and managing limited quivers to survive rounds of growing difficulty.\n\nKey Features\n\n• Stealth target identification gameplay  \n• Real-time bow aiming controls  \n• Progressive round difficulty scaling  \n• Limited ammunition quiver management  \n• Sci-fi impostor crew setting"
-},
-{
-"id": "d1299a6d1dde46f7bd1853f4d9797f90",
-"title": "Merge Archer Defense",
-"iframe": "https://html5.gamedistribution.com/d1299a6d1dde46f7bd1853f4d9797f90/",
-"creator": "YAD.Com",
-"description": "Merge units strategically to defend against waves of enemies using archer troops with unique abilities. Combine characters to evolve stronger archers and unlock upgrades that boost damage and range. Survive increasingly difficult enemy waves while managing limited space on the battlefield for optimal defense. Progress through stages with escalating challenges and tactical depth.\n\nKey Features\n\n• Unit merging upgrade system  \n• Real-time troop placement controls  \n• Progressive enemy wave difficulty  \n• Resource-based upgrade mechanics  \n• Fantasy archer defense setting"
-},
-{
-"id": "ea8060c6ba46413ba5cf5db49aeaa5d0",
-"title": "Noob archer monster attack",
-"iframe": "https://html5.gamedistribution.com/ea8060c6ba46413ba5cf5db49aeaa5d0/",
-"creator": "GamePush",
-"description": "Launch arrows with precision to fend off waves of monstrous enemies using varied shooting angles and timing skills. Players must master the bow mechanics and target prioritization to survive attack patterns and progressively tougher monster types. Timing and aim define success as players advance through increasingly challenging stages filled with hostile creatures.\n\nKey Features\n\n• Precision bow aiming mechanics  \n• Wave-based monster attack patterns  \n• Progressive difficulty scaling  \n• Timing critical shooting system  \n• Fantasy creature enemy designs"
-},
-{
-"id": "65e7fd718e624dfa8a312a4669dc5d57",
-"title": "Mr Noob Pro Archer",
-"iframe": "https://html5.gamedistribution.com/65e7fd718e624dfa8a312a4669dc5d57/",
-"creator": "TapTapking.com",
-"description": "Launch arrows with precise timing to hit dynamic targets and score points in this casual archery challenge. Players aim for bullseyes using varied bow tensions and wind adjustments, navigating multiple stages that test accuracy and reflexes. Progression unlocks tighter shots and tougher targets, set in vivid outdoor arenas designed for quick pick-up play.\n\nKey Features\n\n• Timing-based arrow release  \n• Adjustable bow tension control  \n• Progressive target difficulty levels  \n• Score multiplier challenge system  \n• Outdoor archery range settings"
-},
-{
 "id": "665328d407a547f2a003ed3723dedf16",
 "title": "Blocky Archer Run",
 "iframe": "https://html5.gamedistribution.com/665328d407a547f2a003ed3723dedf16/",
@@ -463,41 +1590,6 @@
 "description": "Line up steady shots against moving targets in a precision aiming challenge focused on timing and accuracy. Utilize varying sniper rifles with realistic reload and zoom controls as you progress through increasingly difficult stages featuring dynamic environments. The game tests your reflexes with multiple target types, requiring both patience and swift decision-making to complete each level.\n\nKey Features\n\n• Precision aiming with sniper rifles  \n• Zoom and reload mechanics  \n• Progressive difficulty stages  \n• Timed target challenges  \n• Dynamic shooting range environments"
 },
 {
-"id": "c012a6c196af46f8a44cd81ec974fcd7",
-"title": "Stickman Archero Fight: stick shadow fight war",
-"iframe": "https://html5.gamedistribution.com/c012a6c196af46f8a44cd81ec974fcd7/",
-"creator": "Stickman vs Monster School Team",
-"description": "Slash through waves of enemies using precision stickman movements and dynamic shadow combat mechanics. Players engage in fast-paced action relying on quick reflexes to navigate an evolving battlefield filled with hostile archers and shadow warriors. Survival depends on mastering ranged attacks and dodging incoming arrows while progressing through increasingly difficult stages.\n\nKey Features\n\n• Precision stickman control system  \n• Ranged combat with archery mechanics  \n• Dynamic enemy wave progression  \n• Dodge and evade movement style  \n• Shadowy arena setting"
-},
-{
-"id": "fadfe3f2be74470f95800b9d5edcfebf",
-"title": "Stickman Archer Warrior",
-"iframe": "https://html5.gamedistribution.com/fadfe3f2be74470f95800b9d5edcfebf/",
-"creator": "Hihoy",
-"description": "Launch arrows with precise timing and control as a stickman warrior to defeat waves of enemies using ranged combat. Players rely on agile aiming and rapid firing to navigate through increasingly difficult stages, targeting foes with a bow in stylized battle environments. Progression depends on accuracy and survival against various enemy types within this minimalistic action challenge.\n\nKey Features\n\n• Precision bow aiming mechanic  \n• Responsive stickman movement controls  \n• Increasing enemy wave difficulty  \n• Time-based scoring system  \n• Minimalist stickman battle arena"
-},
-{
-"id": "8e8fb49e76df4aa19099f06a4a0b851e",
-"title": "Stickman Archer Castle",
-"iframe": "https://html5.gamedistribution.com/8e8fb49e76df4aa19099f06a4a0b851e/",
-"creator": "Bubito",
-"description": "Launch arrows with precision as a stickman marksman defends varied castle fortifications against incoming foes. Utilizing bow shooting mechanics, players balance timing and angle to defeat enemies advancing on their stronghold. Progression is tied to mastering shot power through increasingly complex enemy waves and level layouts, demanding sharp reflexes and tactical aiming.  \n\nKey Features\n\n• Bow aiming and power control  \n• Dynamic enemy wave patterns  \n• Castle defense level progression  \n• Precision timing challenge system  \n• Stickman silhouette visual style"
-},
-{
-"id": "b43111f268814b26bf2fb4fcbaf2f536",
-"title": "Stickman Archer 4",
-"iframe": "https://html5.gamedistribution.com/b43111f268814b26bf2fb4fcbaf2f536/",
-"creator": "kiz10.com",
-"description": "Shoot arrows with precise timing to eliminate moving targets in a dynamic stickman environment. This game challenges players to master bow aiming mechanics while progressing through increasingly difficult levels filled with diverse enemy archers. Quick reflexes and strategic shot placement drive success as you advance through the stylized silhouette world.\n\nKey Features\n\n• Bow aiming precision control  \n• Moving target elimination challenges  \n• Level-based difficulty progression  \n• Timed shooting accuracy system  \n• Minimalist stickman silhouette art"
-},
-{
-"id": "2a5440e4f5a14564a60aa5fe2d6f2a6d",
-"title": "Stickman Archer",
-"iframe": "https://html5.gamedistribution.com/2a5440e4f5a14564a60aa5fe2d6f2a6d/",
-"creator": "DAB3Games",
-"description": "Launch arrows with precision timing to take down waves of enemies using a bow in this stick-figure archery challenge. Players maneuver the aiming reticle while managing limited ammo and obstacles that affect arrow flight. The game pits rapid reflexes against steadily increasing enemy numbers across dynamic field settings, rewarding accuracy and timing.\n\nKey Features\n\n• Precision aiming mechanic  \n• Ammo conservation system  \n• Increasing enemy wave difficulty  \n• Responsive bow control scheme  \n• Minimalistic stickman art style"
-},
-{
 "id": "000fdc007bc84f2ebdd846b7e74bb550",
 "title": "Bow Master Stickman Hero",
 "iframe": "https://html5.gamedistribution.com/000fdc007bc84f2ebdd846b7e74bb550/",
@@ -505,32 +1597,11 @@
 "description": "Shoot precise arrows to defeat waves of enemies using timing and trajectory control in an archery combat setting. Navigate stickman battles where quick reflexes and aiming skills are crucial to overcoming aggressive foes. Unlock new stages featuring diverse target types and increasingly complex attack patterns to test your mastery.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Stickman-based enemy waves  \n• Reaction time challenge progression  \n• Upgradeable bow equipment system  \n• Minimalistic combat arena design"
 },
 {
-"id": "4287c1767d1247e8aef87471b6774743",
-"title": "Stickman Archer 3 (2018)",
-"iframe": "https://html5.gamedistribution.com/4287c1767d1247e8aef87471b6774743/",
-"creator": "kiz10.com",
-"description": "Launch precise arrows from a bow to defeat waves of enemies controlled by basic AI in a stickman world. Players rely on timing and aiming mechanics to overcome various enemy types and advance through increasing difficulty levels. The simple combat setup challenges players to master projectile trajectories and reaction speed for survival.\n\nKey Features\n\n• Precision aiming bow mechanics  \n• Wave-based enemy encounters  \n• Progressive difficulty stages  \n• Timed shooting challenges  \n• Minimalist stickman combat setting"
-},
-{
-"id": "0456e9546b6b43ce892c11da41630d12",
-"title": "Stickman Archer 2",
-"iframe": "https://html5.gamedistribution.com/0456e9546b6b43ce892c11da41630d12/",
-"creator": "kiz10.com",
-"description": "Shoot precise arrows at moving targets in dynamic stickman combat scenarios. Players adjust their aim and timing to hit enemies and obstacles with a bow, testing accuracy and reflexes. Levels increase in difficulty with varying enemy types and environmental challenges to overcome. Timing shots perfectly is key to mastering progression and unlocking advanced stages.\n\nKey Features\n\n• Precision archery aiming system  \n• Tap and drag shooting control  \n• Increasingly challenging enemy patterns  \n• Progressive difficulty-based stages  \n• Minimalist stickman combat style"
-},
-{
 "id": "77469a1ca58a45e2849fc75ee0282233",
 "title": "Lone Pistol : Zombies in the Streets",
 "iframe": "https://html5.gamedistribution.com/77469a1ca58a45e2849fc75ee0282233/",
 "creator": "QiGames Studio",
 "description": "Navigate urban streets armed with precise shooting skills to fend off relentless waves of zombies in this survival action game. The gameplay centers on tactical firearm use combined with quick reflexes to protect your position as undead enemies approach. Players must manage their ammo and movement with strategic timing to endure progressively challenging waves across the cityscape.\n\nKey Features\n\n• Precision firearm aiming system  \n• Tactical ammo management controls  \n• Wave-based enemy progression  \n• Cover and movement mechanics  \n• Zombie-infested urban setting"
-},
-{
-"id": "e08aa817853b415fb4dd3c6472b8d7c7",
-"title": "Idle Archer Tower Defense RPG",
-"iframe": "https://html5.gamedistribution.com/e08aa817853b415fb4dd3c6472b8d7c7/",
-"creator": "bestgames.com",
-"description": "Control waves of archers on auto-battle as you defend against increasingly tough enemy hordes in this tower defense RPG. Position archers strategically along winding paths to maximize damage through automated firing mechanics. Progress by upgrading towers and unlocking new units to withstand relentless waves of fantasy creatures aiming to breach your fortress.\n\nKey Features\n\n• Automated archer tower attacks  \n• Strategic unit placement controls  \n• Enemy wave difficulty scaling  \n• Upgrade based weapon progression  \n• Fantasy-themed enemy types"
 },
 {
 "id": "26011873934f418c9ade7e0408a7d958",
@@ -736,32 +1807,11 @@
 "description": "Command squads through tactical ground assaults using cover-based shooting mechanics. Navigate diverse enemy encounters while utilizing precise aiming and reload management to eliminate forces. Progress through escalating combat zones with mission objectives that demand quick reflexes and strategic positioning, all set within intense frontline war scenarios.\n\nKey Features\n\n• Cover-based shooting controls  \n• Squad command tactical layers  \n• Progressive combat zone difficulty  \n• Reload and aiming precision system  \n• Realistic infantry battle settings"
 },
 {
-"id": "2cd5be3346f24275af64fcc16e288a72",
-"title": "War Gun Commando",
-"iframe": "https://html5.gamedistribution.com/2cd5be3346f24275af64fcc16e288a72/",
-"creator": "Online Games io",
-"description": "Control diverse weapons in intense shooting missions with tactical cover-based combat. Engage enemies using precise aiming and rapid-fire mechanics, navigating through war-torn environments to complete elimination objectives. The game features varied firearms and reload management, challenging players to adapt their shooting style for mission success.\n\nKey Features\n\n• Cover-based shooting mechanics  \n• Precision aiming and rapid-fire control  \n• Weapon reload and ammo management  \n• Progressive mission difficulty scaling  \n• Warzone environment settings"
-},
-{
 "id": "4d07bcfc1341459ba7c0bca58aaed98f",
 "title": "PaintWars Shoot",
 "iframe": "https://html5.gamedistribution.com/4d07bcfc1341459ba7c0bca58aaed98f/",
 "creator": "BestCrazyGames.com",
 "description": "Engage in dynamic paintball battles that test your aiming and reflexes using an array of colorful paint weapons. The game challenges you to outshoot opponents in fast-paced solo or multiplayer showdowns on vibrant arenas. Precise shooting and quick movement define the core gameplay as you compete to cover zones or eliminate foes with paint-based weaponry.\n\nKey Features\n\n• Precision aiming and shooting  \n• Real-time multiplayer matches  \n• Zone control and elimination goals  \n• Diverse paint weapon loadouts  \n• Bright, colorful arena environments"
-},
-{
-"id": "32180b9a31844b80ae216b2958a1309c",
-"title": "Blocky Wars Advanced Combat SWAT Multiplayer",
-"iframe": "https://html5.gamedistribution.com/32180b9a31844b80ae216b2958a1309c/",
-"creator": "BestCrazyGames.com",
-"description": "Engage in fast-paced multiplayer firefights with block-style characters in a tactical shooting environment. Navigate urban maps using precise movement controls while competing against other players in team-based combat scenarios. Master weapon switching and strategic positioning to outplay opponents and dominate the pixelated battlefield.\n\nKey Features\n\n• Multiplayer team deathmatch mode  \n• Responsive block character movement  \n• Weapon swapping with tactical variety  \n• Progressive weapon loadouts system  \n• Urban pixelated map arenas"
-},
-{
-"id": "62090d6fd09a45f7a0542f33ea803ce6",
-"title": "Blocky Wars Advanced Combat SWAT",
-"iframe": "https://html5.gamedistribution.com/62090d6fd09a45f7a0542f33ea803ce6/",
-"creator": "BestCrazyGames.com",
-"description": "Engage in tactical urban combat using block-style characters equipped with customizable weapons and equipment. Navigate destructible environments and coordinate swift SWAT maneuvers to eliminate hostile threats while completing mission objectives. The gameplay emphasizes precise shooting mechanics and strategic cover usage, challenging players to clear levels with efficiency and accuracy.\n\nKey Features\n\n• Customizable weapon loadouts  \n• Tactical cover-based shooting  \n• Destructible environment elements  \n• Level progression with mission variety  \n• Block-style character design"
 },
 {
 "id": "cf7fcff9b2a14661bd9822c20a21bdfe",
@@ -790,13 +1840,6 @@
 "iframe": "https://html5.gamedistribution.com/d2a97a5322cf425b916e30ebed28020d/",
 "creator": "GamePush",
 "description": "Control your shooter through intense gang battles using cover and precise aiming, navigating urban streets filled with rival enemies and dynamic firefights. Equip varied firearms and manage reload timing while advancing through escalating levels that challenge your reflexes and strategic positioning. Each stage tests your ability to survive waves of opponents in gritty city environments.\n\nKey Features\n\n• Cover-based shooting mechanic  \n• Diverse weapon handling controls  \n• Progressive enemy wave difficulty  \n• Time-limited survival mode  \n• Urban gang conflict setting"
-},
-{
-"id": "e164238014994607ba308d03f3cb6cdb",
-"title": "Tank Shootout",
-"iframe": "https://html5.gamedistribution.com/e164238014994607ba308d03f3cb6cdb/",
-"creator": "Lof Games",
-"description": "Engage in tank battles using strategic shooting mechanics where positioning plays a crucial role. Players control armored vehicles equipped with varying cannon types to outmaneuver opponents across dynamically generated arenas. The goal centers on outlasting enemy tanks by mastering precise aiming and timely cover usage. Combat challenges escalate with new adversaries introducing more complex attack patterns.\n\nKey Features\n\n• Tactical cannon aiming system  \n• Armored vehicle maneuver controls  \n• Progressive enemy difficulty scaling  \n• Arena survival scoring system  \n• Varied battle environments"
 },
 {
 "id": "d8a90d4746f04136a886ea292ee1db74",
@@ -942,13 +1985,6 @@
 "iframe": "https://html5.gamedistribution.com/b1169e1df630473fa131fa3b2e4e6634/",
 "creator": "Immanitas Ent. GmbH",
 "description": "Pilot a lone spaceship through dynamic asteroid fields in this fast-paced arcade shooter. Navigate with smooth thrust controls, blasting waves of alien drones while collecting power-ups to enhance your weapon systems. Survive escalating enemy assaults and unlock new sectors as you aim for the highest score.\n\nKey Features\n\n• Thrust-based ship movement  \n• Projectile upgrade system  \n• Increasing enemy wave difficulty  \n• Score-based progression tiers  \n• Sci-fi space combat setting"
-},
-{
-"id": "895e6c0eebd345fbad78ff15905e2620",
-"title": "Retro Space Blaster",
-"iframe": "https://html5.gamedistribution.com/895e6c0eebd345fbad78ff15905e2620/",
-"creator": "CoolMath Games",
-"description": "Pilot a pixelated spacecraft dodging waves of alien drones in a vintage arcade setting, using precise horizontal movement and rapid-fire laser cannons to survive increasingly difficult enemy patterns. Players must clear progressive battle zones while managing a limited ammo supply, testing timing and strategic positioning to achieve high scores.\n\nKey Features\n\n• Side-scrolling ship navigation  \n• Rapid laser firing controls  \n• Ammo management mechanic  \n• Progressive enemy wave difficulty  \n• Retro pixel art visuals"
 },
 {
 "id": "de8d6962232a4f9e91344d6ab91141a2",
@@ -2393,25 +3429,11 @@
 "description": "Shoot falling blocks quickly to clear the grid in this action-puzzle challenge. Players control a stationary shooter that fires colored projectiles matching block hues, aiming to prevent stacks from reaching the top. Timing and color matching drive the core mechanic, while levels gradually increase difficulty with faster and more varied block patterns.\n\nKey Features\n\n• Color matching shooting mechanic  \n• Precision aiming controls  \n• Increasing block speed challenge  \n• Level progression with patterns  \n• Minimalistic geometric visuals"
 },
 {
-"id": "914715ba5aa44f12a5d6520fa394fbbd",
-"title": "Battle SWAT VS Mercenary",
-"iframe": "https://html5.gamedistribution.com/914715ba5aa44f12a5d6520fa394fbbd/",
-"creator": "BestCrazyGames",
-"description": "Control tactical squads of SWAT operatives in intense close-quarters combat, using cover-based shooting and precision aiming to neutralize mercenary threats. Navigate complex urban maps where strategic positioning and timing are essential to complete hostage rescue and elimination missions. Each level demands careful movement and effective teamwork under pressure to achieve victory.\n\nKey Features\n\n• Squad-based tactical control  \n• Cover and shoot mechanics  \n• Urban combat mission design  \n• Weapon upgrade system  \n• AI enemy behavioral patterns"
-},
-{
 "id": "399effb5336c43568bc13e77d62ea1be",
 "title": "PUBG Infinity BattleField OPS",
 "iframe": "https://html5.gamedistribution.com/399effb5336c43568bc13e77d62ea1be/",
 "creator": "8Games.Net",
 "description": "Engage in strategic firefights across dynamic multiplayer arenas using advanced weapon customization and tactical positioning. Players navigate intense combat zones emphasizing fast-paced shooter mechanics and adaptive cover systems to outlast opponents. The game challenges players to master weapon precision and team coordination while progressing through diverse battle scenarios designed for casual action.\n\nKey Features\n\n• Modular weapon upgrade system  \n• Tactical cover and movement controls  \n• Progressive arena difficulty scaling  \n• Team-based combat modes  \n• Urban and wilderness battlefields"
-},
-{
-"id": "a9aaae1851e14469b182867dfd33995d",
-"title": "Counter Battle Strike SWAT Multiplayer",
-"iframe": "https://html5.gamedistribution.com/a9aaae1851e14469b182867dfd33995d/",
-"creator": "BestCrazyGames.com",
-"description": "Engage in fast-paced multiplayer combat as you control elite SWAT operatives equipped with tactical firearms and movement skills. Navigate urban environments using cover and coordination to eliminate enemy teams while securing objectives in varied game modes. Precision aiming and teamwork drive the challenge as players advance through progressively complex maps designed for quick strategic encounters.\n\nKey Features\n\n• Tactical weapons and aiming system  \n• Team-based multiplayer battles  \n• Urban cover and movement mechanics  \n• Objective-driven game modes  \n• Progressive map complexity"
 },
 {
 "id": "a5c42dbf22fa45818fcef99ed92b8db6",
@@ -2447,13 +3469,6 @@
 "iframe": "https://html5.gamedistribution.com/b657e6c706e649aba3a8c461871df8f7/",
 "creator": "IzelgueGames",
 "description": "Launch precise fireball shots to eliminate moving targets in a dynamic 3D arena. This game challenges players to aim and time their throws accurately while dodging obstacles that alter projectile paths. Progression through rounds increases difficulty with faster targets and tighter spaces, demanding sharp reflexes and strategic positioning.\n\nKey Features\n\n• 3D aiming and shooting mechanics  \n• Timing-based projectile control  \n• Increasing target speed and quantity  \n• Obstacle influenced projectile trajectories  \n• Casual arena shooting environment"
-},
-{
-"id": "5981db14b68f43c3a32840629543d4fe",
-"title": "BallBlaster",
-"iframe": "https://html5.gamedistribution.com/5981db14b68f43c3a32840629543d4fe/",
-"creator": "PKPL Entertainment",
-"description": "Launch and ricochet balls to hit targets in a physics-driven arena. Players control the angle and force of each shot, aiming to clear levels by strategically breaking obstacles and scoring points. The challenge lies in mastering rebound trajectories and managing limited shots to advance through increasingly complex stages.\n\nKey Features\n\n• Precision aiming and shooting  \n• Trajectory calculation mechanics  \n• Stage-based obstacle clearing  \n• Limited shot management system  \n• Physics-based ball rebound effects"
 },
 {
 "id": "cce5395b68fc457abcadb24d40e5de43",
@@ -2526,25 +3541,11 @@
 "description": "Navigate fast-paced pixel arenas using precise shooting and dodging mechanics in a 2D pixel art setting. Players must outmaneuver opponents through quick reflexes and strategic aiming to survive and climb ranks. Multiple weapon types and dynamic pixel environments challenge players to adapt and dominate progressively tougher opponents.\n\nKey Features\n\n• Pixel-based shooting mechanics  \n• Responsive keyboard and mouse controls  \n• Progressive opponent difficulty scaling  \n• Weapon variety and upgrade system  \n• Retro pixel art arena design"
 },
 {
-"id": "3c345b77165e4ad38115c26465e3f757",
-"title": "Pixel SWAT Zombie Survival",
-"iframe": "https://html5.gamedistribution.com/3c345b77165e4ad38115c26465e3f757/",
-"creator": "BestCrazyGames",
-"description": "Navigate pixelated streets while neutralizing waves of undead using tactical shooter mechanics in this retro-inspired survival game. Players control an elite swat unit leveraging limited ammunition and cover-based movement to withstand relentless zombie hordes. Progression hinges on skillful resource management and quick reflexes to survive escalating threats in gritty urban environments.\n\nKey Features\n\n• Cover-based shooting mechanics  \n• Ammo management system  \n• Incremental zombie difficulty scaling  \n• Tactical movement controls  \n• Pixel art urban survival setting"
-},
-{
 "id": "39e2f64af593465189d0fc11ae4375b5",
 "title": "PUBG PIXEL",
 "iframe": "https://html5.gamedistribution.com/39e2f64af593465189d0fc11ae4375b5/",
 "creator": "fugames",
 "description": "Control pixelated soldiers in fast-paced battle arenas where precise shooting mechanics determine survival. Navigate shrinking safe zones while scavenging for tactical weapons and gear to outlast opponents. The game challenges players to adapt quickly through weapon upgrades and strategic positioning, blending pixel art style with classic last-man-standing gameplay.\n\nKey Features\n\n• Pixel style shooting mechanics  \n• Tactical weapon upgrade system  \n• Shrinking arena survival challenge  \n• Solo and team play modes  \n• Classic battle royale setting"
-},
-{
-"id": "a29342b25f4049259b394e3ea9be4413",
-"title": "Pixel PUBG",
-"iframe": "https://html5.gamedistribution.com/a29342b25f4049259b394e3ea9be4413/",
-"creator": "JulGames",
-"description": "Navigate pixelated battlegrounds with tactical movement and weapon pickups to outlast opponents. This battle royale style game features a fast-paced loot system where players scavenge for firearms and equipment across a blocky map. Survive a shrinking safe zone while competing against others in top-down shooter combat to be the last player standing.\n\nKey Features\n\n• Pixel art top-down shooter  \n• Loot-based weapon system  \n• Shrinking safe zone mechanic  \n• Real-time player evasion controls  \n• Blocky urban battlegrounds"
 },
 {
 "id": "11d59b210a5a469ea045bc0e6a35547b",
@@ -2566,13 +3567,6 @@
 "iframe": "https://html5.gamedistribution.com/d0e9442a7dd745f4b5717fb10d261762/",
 "creator": "BestCrazyGames.com",
 "description": "Navigate pixelated vehicles through chaotic shooting battles and intense drifting races featuring arcade-style controls and upgradeable weapons. Players dodge enemy fire and curvy tracks while balancing combat with speed challenges. Each level tests reflexes with shifting terrain and a blend of vehicular combat and turbo drifting elements for competitive progression.\n\nKey Features\n\n• Pixel-art vehicle combat system  \n• Dual shooting and drifting controls  \n• Progressive enemy waves and tracks  \n• Weapon upgrade and customization  \n• Arcade-style racing and shooting blend"
-},
-{
-"id": "91b6347341ec4febbcbead10ca311cf1",
-"title": "Pixel Fps SWAT Command",
-"iframe": "https://html5.gamedistribution.com/91b6347341ec4febbcbead10ca311cf1/",
-"creator": "BestCrazyGames.com",
-"description": "Move tactically through pixelated environments using precise aiming and quick reflexes in this top-down shooter. Players navigate SWAT squads to neutralize threats with limited ammo and cover mechanics. Missions require strategic movement and weapon management to clear stages. Progressive enemy waves increase in difficulty as the game advances.\n\nKey Features\n\n• Tactical squad combat system  \n• Precision aiming and shooting controls  \n• Progressive enemy wave challenges  \n• Ammo conservation and cover use  \n• Pixel art urban combat setting"
 },
 {
 "id": "09ad35f48009407487ee1a4591ccd034",
