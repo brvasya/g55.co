@@ -9,8 +9,19 @@ CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
 
 AGENT_EXCEPTIONS = {
     #io
+    "multiplayer": "io",
 
     #action
+    "3d": "action",
+    "battle": "action",
+    "fighting": "action",
+    "hero": "action",
+    "impostor": "action",
+    "ninja": "action",
+    "squid": "action",
+    "stickman": "action",
+    "survival": "action",
+    "zombie": "action",
     "battler": "action",
     "dynamon": "action",
     "boxing": "action",
@@ -30,6 +41,12 @@ AGENT_EXCEPTIONS = {
     "survivor": "action",
 
     #adventure
+    "escape": "adventure",
+    "horror": "adventure",
+    "minecraft": "adventure",
+    "noob": "adventure",
+    "rescue": "adventure",
+    "space": "adventure",
     "rpg": "adventure",
     "backroom": "adventure",
     "haunted": "adventure",
@@ -56,6 +73,18 @@ AGENT_EXCEPTIONS = {
     "starship": "adventure",
 
     #arcade
+    "2-player": "arcade",
+    "ball": "arcade",
+    "dash": "arcade",
+    "jumping": "arcade",
+    "obby": "arcade",
+    "parkour": "arcade",
+    "pixel": "arcade",
+    "platform": "arcade",
+    "runner": "arcade",
+    "rush": "arcade",
+    "snake": "arcade",
+    "stack": "arcade",
     "arkanoid": "arcade",
     "ballz": "arcade",
     "breakout": "arcade",
@@ -72,15 +101,35 @@ AGENT_EXCEPTIONS = {
     "stacky": "arcade",
 
     #board
+    "chess": "board",
+    "mahjong": "board",
     "mahjongg": "board",
 
     #card
+    "solitaire": "card",
     "freecell": "card",
     "patience": "card",
     "soli": "card",
     "tripeaks": "card",
 
     #casual
+    "animal": "casual",
+    "baby": "casual",
+    "cat": "casual",
+    "christmas": "casual",
+    "coloring": "casual",
+    "coloring-book": "casual",
+    "dog": "casual",
+    "drawing": "casual",
+    "dress-up": "casual",
+    "easter": "casual",
+    "fashion": "casual",
+    "girls": "casual",
+    "halloween": "casual",
+    "kids": "casual",
+    "makeup": "casual",
+    "pet": "casual",
+    "princess": "casual",
     "babysitter": "casual",
     "toddler": "casual",
     "kitten": "casual",
@@ -114,8 +163,20 @@ AGENT_EXCEPTIONS = {
     "tattoo": "casual",
 
     #clicker
+    "idle": "clicker",
 
     #driving
+    "bike": "driving",
+    "bus": "driving",
+    "car": "driving",
+    "drift": "driving",
+    "monster-truck": "driving",
+    "offroad": "driving",
+    "parking": "driving",
+    "racing": "driving",
+    "stunt": "driving",
+    "train": "driving",
+    "truck": "driving",
     "bicycle": "driving",
     "biker": "driving",
     "bmx": "driving",
@@ -140,6 +201,22 @@ AGENT_EXCEPTIONS = {
     "railroad": "driving",
 
     #puzzle
+    "2048": "puzzle",
+    "block": "puzzle",
+    "brain": "puzzle",
+    "bubble-shooter": "puzzle",
+    "connect": "puzzle",
+    "differences": "puzzle",
+    "hidden-object": "puzzle",
+    "jewel": "puzzle",
+    "jigsaw": "puzzle",
+    "match-3": "puzzle",
+    "matching": "puzzle",
+    "maze": "puzzle",
+    "memory": "puzzle",
+    "merge": "puzzle",
+    "sorting": "puzzle",
+    "sudoku": "puzzle",
     "10x10": "puzzle",
     "blockz": "puzzle",
     "brick": "puzzle",
@@ -204,6 +281,7 @@ AGENT_EXCEPTIONS = {
     "wordoku": "puzzle",
 
     #quiz
+    "math": "quiz",
     "addition": "quiz",
     "arithmetic": "quiz",
     "counting": "quiz",
@@ -214,6 +292,11 @@ AGENT_EXCEPTIONS = {
     "trivia": "quiz",
 
     #shooter
+    "archery": "shooter",
+    "fps": "shooter",
+    "gun": "shooter",
+    "hunting": "shooter",
+    "sniper": "shooter",
     "archer": "shooter",
     "archero": "shooter",
     "archerry": "shooter",
@@ -232,6 +315,14 @@ AGENT_EXCEPTIONS = {
     "snipe": "shooter",
 
     #simulator
+    "cooking": "simulator",
+    "craft": "simulator",
+    "doctor": "simulator",
+    "farming": "simulator",
+    "fishing": "simulator",
+    "flying": "simulator",
+    "restaurant": "simulator",
+    "tycoon": "simulator",
     "bake": "simulator",
     "baker": "simulator",
     "bakery": "simulator",
@@ -279,6 +370,12 @@ AGENT_EXCEPTIONS = {
     "manager": "simulator",
 
     #sports
+    "basketball": "sports",
+    "football": "sports",
+    "golf": "sports",
+    "pool": "sports",
+    "soccer": "sports",
+    "tennis": "sports",
     "dunk": "sports",
     "hoops": "sports",
     "rugby": "sports",
@@ -304,6 +401,10 @@ AGENT_EXCEPTIONS = {
     "volleyball": "sports",
 
     #strategy
+    "defense": "strategy",
+    "tank": "strategy",
+    "tower-defense": "strategy",
+    "war": "strategy",
     "defence": "strategy",
     "defend": "strategy",
     "protect": "strategy",
