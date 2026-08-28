@@ -118,22 +118,35 @@ if ($hasC) {
   $metaDesc = strip_tags($desc);
 
 } else {
-  $totalCount = 0;
+  $totalCount = count(load_all_games());
   $gridItems = [];
+  $usedHomeIds = [];
 
   foreach ($categories as $c) {
     $catId = $c['id'];
-
     list(, $pages) = load_category_pages($catId);
-    $totalCount += count($pages);
+    $addedForCategory = 0;
 
-    foreach (array_slice($pages, 0, 4) as $newest)
-    $gridItems[] = [
-      'id' => $newest['id'],
-      'title' => $newest['title'],
-      'image' => 'https://cdn.g55.co/' . $newest['id'] . '.png',
-      'category' => $catId,
-    ];
+    foreach ($pages as $newest) {
+      $gameId = (string)($newest['id'] ?? '');
+      if ($gameId === '' || isset($usedHomeIds[$gameId])) {
+        continue;
+      }
+
+      $gridItems[] = [
+        'id' => $gameId,
+        'title' => $newest['title'],
+        'image' => 'https://cdn.g55.co/' . $gameId . '.png',
+        'category' => $catId,
+      ];
+
+      $usedHomeIds[$gameId] = true;
+      $addedForCategory++;
+
+      if ($addedForCategory >= 4) {
+        break;
+      }
+    }
   }
 
   $h1 = ($totalCount > 0 ? number_format($totalCount) . ' ' : '') . $site['title'];
