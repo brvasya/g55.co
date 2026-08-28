@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "4e1bc4c4fa6a4129912480c26b8ed843",
+"title": "RPG Idle Clicker",
+"iframe": "https://html5.gamedistribution.com/4e1bc4c4fa6a4129912480c26b8ed843/",
+"description": "",
+"categories": ["Casual"],
+"creator": "Magikon Games"
+},
+{
 "id": "4ecdb7d6dc0c4290ad57122cec4bf3b4",
 "title": "Cake Sort",
 "iframe": "https://html5.gamedistribution.com/4ecdb7d6dc0c4290ad57122cec4bf3b4/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -15,10 +21,7 @@
 "title": "Challenge Your Friends",
 "iframe": "https://html5.gamedistribution.com/4e22050914184629af6a2b27f5de5820/",
 "description": "",
-"categories": [
-"Battle",
-"Strategy"
-],
+"categories": ["Battle", "Strategy"],
 "creator": "Hihoy"
 },
 {
@@ -26,10 +29,7 @@
 "title": "The Noob Aventures",
 "iframe": "https://html5.gamedistribution.com/4e0bcf98b67346bf94f5642e01ebd691/",
 "description": "",
-"categories": [
-"Adventure",
-"Puzzle"
-],
+"categories": ["Adventure", "Puzzle"],
 "creator": "kiz10.com"
 },
 {
@@ -37,9 +37,7 @@
 "title": "Shadows of the Forest: Reign of Triduja",
 "iframe": "https://html5.gamedistribution.com/4eb7f93347e844f28557465a8a60627b/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "Rabbit Bay Games"
 }
 ]

@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "60243f5a5a994dd8ba4030b11f0a41a9",
+"title": "Block Pixels",
+"iframe": "https://html5.gamedistribution.com/60243f5a5a994dd8ba4030b11f0a41a9/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "Bofer Media (Twim Studio)"
+},
+{
+"id": "609f9acfd0da4ae09e6ec61cc7a6f4f0",
+"title": "Sprunki Quiz",
+"iframe": "https://html5.gamedistribution.com/609f9acfd0da4ae09e6ec61cc7a6f4f0/",
+"description": "",
+"categories": ["Quiz"],
+"creator": "AF"
+},
+{
 "id": "600ac5e4d65147f9a1db843e3bd7add3",
 "title": "Travel With Me: ASMR Edition",
 "iframe": "https://html5.gamedistribution.com/600ac5e4d65147f9a1db843e3bd7add3/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "Gamerina"
 },
 {
@@ -15,10 +29,7 @@
 "title": "Queens Royal: Sudoku Puzzle",
 "iframe": "https://html5.gamedistribution.com/60f0c13b4bbc412eb0c3bb9479f10fc4/",
 "description": "",
-"categories": [
-"Puzzle",
-"Strategy"
-],
+"categories": ["Puzzle", "Strategy"],
 "creator": "Playgama"
 },
 {
@@ -26,9 +37,7 @@
 "title": "Tile Match Cafe",
 "iframe": "https://html5.gamedistribution.com/60161dd3c2dc4fda92d23365cf9d0cff/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "GamePush"
 },
 {
@@ -36,10 +45,7 @@
 "title": "Parking Driver",
 "iframe": "https://html5.gamedistribution.com/60cc69e078184c63bf3568d975c348a4/",
 "description": "",
-"categories": [
-"Puzzle",
-"Simulation"
-],
+"categories": ["Puzzle", "Simulation"],
 "creator": "wavegame"
 },
 {
@@ -47,10 +53,7 @@
 "title": "Apocalypse Shelter",
 "iframe": "https://html5.gamedistribution.com/600319e8d5d94a41bb3374c726ba15fc/",
 "description": "",
-"categories": [
-"Battle",
-"Strategy"
-],
+"categories": ["Battle", "Strategy"],
 "creator": "GamePush"
 },
 {
@@ -58,9 +61,7 @@
 "title": "Virtual Neko Kitty Collector",
 "iframe": "https://html5.gamedistribution.com/606bb03ebe7a46e4a29763eead0b532c/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "bestgames.com"
 },
 {
@@ -68,9 +69,7 @@
 "title": "Sudoku - Pin.Games",
 "iframe": "https://html5.gamedistribution.com/6093bacbdf864c279f58c6fdec815b1c/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Pin Games"
 }
 ]

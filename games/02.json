@@ -1,13 +1,43 @@
 {
 "pages": [
 {
+"id": "024e8ff18c804744b6ee35152cdd929b",
+"title": "Dots Master",
+"iframe": "https://html5.gamedistribution.com/024e8ff18c804744b6ee35152cdd929b/",
+"description": "",
+"categories": ["Puzzle", "Strategy"],
+"creator": "Lof Games"
+},
+{
+"id": "028fba4ebbf242e4a90324c81a3a749f",
+"title": "Domino Online Multiplayer",
+"iframe": "https://html5.gamedistribution.com/028fba4ebbf242e4a90324c81a3a749f/",
+"description": "",
+"categories": ["Boardgames"],
+"creator": "GamePush"
+},
+{
+"id": "023de10cde3c42bfb28d0fecbcb0d02d",
+"title": "Image Crossword",
+"iframe": "https://html5.gamedistribution.com/023de10cde3c42bfb28d0fecbcb0d02d/",
+"description": "",
+"categories": ["Puzzle", "Strategy"],
+"creator": "Ultra Games Entertainment Private limited"
+},
+{
+"id": "021f71862b274367b5a712402a675744",
+"title": "Duck Luck",
+"iframe": "https://html5.gamedistribution.com/021f71862b274367b5a712402a675744/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "BlackMoon Design"
+},
+{
 "id": "02b2b8f66515455099143d7bec3b2346",
 "title": "Eastern Star vs City Style Icon",
 "iframe": "https://html5.gamedistribution.com/02b2b8f66515455099143d7bec3b2346/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "DL-studio"
 },
 {
@@ -15,10 +45,7 @@
 "title": "Dog Escape",
 "iframe": "https://html5.gamedistribution.com/023e7fbb9c874166a76219e0c1f45af0/",
 "description": "",
-"categories": [
-"Adventure",
-"Puzzle"
-],
+"categories": ["Adventure", "Puzzle"],
 "creator": "Sunday GmbH"
 },
 {
@@ -26,9 +53,7 @@
 "title": "Mr Long Legs",
 "iframe": "https://html5.gamedistribution.com/02f515cdc8794f6aa7d3dbd6788763b2/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -36,10 +61,7 @@
 "title": "Monster School 2",
 "iframe": "https://html5.gamedistribution.com/02f08cc990244f37abf63a95140af6dd/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Stickman vs Monster School Team"
 }
 ]

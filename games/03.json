@@ -1,13 +1,43 @@
 {
 "pages": [
 {
+"id": "03091e0b83dd4efb826dc65d73393e9e",
+"title": "Palm Island Solitaire",
+"iframe": "https://html5.gamedistribution.com/03091e0b83dd4efb826dc65d73393e9e/",
+"description": "",
+"categories": ["Cards"],
+"creator": "Monstera Games"
+},
+{
+"id": "0358ad881309472b925f305df5e46f62",
+"title": "Ants Empire Evolve Sim",
+"iframe": "https://html5.gamedistribution.com/0358ad881309472b925f305df5e46f62/",
+"description": "",
+"categories": ["Adventure", "Simulation"],
+"creator": "YAD.Com"
+},
+{
+"id": "03f92903b2314104bdf1a6ae9e8e0e27",
+"title": "School Love Story # 1",
+"iframe": "https://html5.gamedistribution.com/03f92903b2314104bdf1a6ae9e8e0e27/",
+"description": "",
+"categories": ["Adventure"],
+"creator": "GamePush"
+},
+{
+"id": "0362c1db89fd4d8f9497b67985fe4b55",
+"title": "Daily Chess Puzzle",
+"iframe": "https://html5.gamedistribution.com/0362c1db89fd4d8f9497b67985fe4b55/",
+"description": "",
+"categories": ["Boardgames"],
+"creator": "Catafractum"
+},
+{
 "id": "03be85ef64034d6cb94956ae8511f2bc",
 "title": "Dolphin Dash",
 "iframe": "https://html5.gamedistribution.com/03be85ef64034d6cb94956ae8511f2bc/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "dotekse"
 },
 {
@@ -15,10 +45,7 @@
 "title": "Dance On Hotsteps Mobile",
 "iframe": "https://html5.gamedistribution.com/03f9b255d38b437081576c9ca4f7bb69/",
 "description": "",
-"categories": [
-"Casual",
-"Dress-up"
-],
+"categories": ["Casual", "Dress-up"],
 "creator": "Yiv.Com"
 },
 {
@@ -26,10 +53,7 @@
 "title": "Escape & Steal Brainrot: Sahur Hills",
 "iframe": "https://html5.gamedistribution.com/03615f1517ab4ae19684365982ab7be5/",
 "description": "",
-"categories": [
-"Adventure",
-"Simulation"
-],
+"categories": ["Adventure", "Simulation"],
 "creator": "Mao Games"
 },
 {
@@ -37,10 +61,7 @@
 "title": "Spa empire",
 "iframe": "https://html5.gamedistribution.com/030529c9706547b09afbc75751bc577d/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "CTT Productions Private Limited"
 },
 {
@@ -48,9 +69,7 @@
 "title": "Bloons Survival.io",
 "iframe": "https://html5.gamedistribution.com/0340635cab9e421ca6c3cda5acaa03f1/",
 "description": "",
-"categories": [
-".IO"
-],
+"categories": [".IO"],
 "creator": "GameBerry Studio"
 },
 {
@@ -58,9 +77,7 @@
 "title": "Paradise Journey: Match3",
 "iframe": "https://html5.gamedistribution.com/038d7e3491744b86a5c34a27928c6bfa/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "GamePush"
 }
 ]

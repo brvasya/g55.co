@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "dd9dd7ecfd1d4ba59fec2049d9803911",
+"title": "Find It Fast",
+"iframe": "https://html5.gamedistribution.com/dd9dd7ecfd1d4ba59fec2049d9803911/",
+"description": "",
+"categories": ["Puzzle", "Quiz"],
+"creator": "POKET GEAR"
+},
+{
 "id": "ddbc2e2dfa3b4024856acfd4bd8ae4ad",
 "title": "Sort Works: Nuts & Order",
 "iframe": "https://html5.gamedistribution.com/ddbc2e2dfa3b4024856acfd4bd8ae4ad/",
 "description": "",
-"categories": [
-"Puzzle",
-"Strategy"
-],
+"categories": ["Puzzle", "Strategy"],
 "creator": "Clever Apps Pte. Ltd."
 },
 {
@@ -16,9 +21,7 @@
 "title": "Stick Rope Hero",
 "iframe": "https://html5.gamedistribution.com/dd9f6afeaa094c3bb262e23f04a7119d/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "bestgames.com"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Hoard Master Online",
 "iframe": "https://html5.gamedistribution.com/ddb3686df59d4220b3830b10cf789b4a/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Raccoon"
 },
 {
@@ -36,10 +37,7 @@
 "title": "The Zombie House",
 "iframe": "https://html5.gamedistribution.com/ddc202e7d252451f8d1344f9f0e455ef/",
 "description": "",
-"categories": [
-"Shooter",
-"Casual"
-],
+"categories": ["Shooter", "Casual"],
 "creator": "Nabil Smriti"
 },
 {
@@ -47,10 +45,7 @@
 "title": "99 Balls",
 "iframe": "https://html5.gamedistribution.com/dd6edfff840a4c38ae69596cf0ce314e/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Playgama"
 },
 {
@@ -58,10 +53,7 @@
 "title": "Crazy Tunnel",
 "iframe": "https://html5.gamedistribution.com/dd2ab5adad664c508d3fa032bd19e8c8/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Royale Gamers"
 },
 {
@@ -69,10 +61,7 @@
 "title": "Racing Ball Adventure",
 "iframe": "https://html5.gamedistribution.com/ddb44f5a2ab242969f0e5df218cb0640/",
 "description": "",
-"categories": [
-"Adventure",
-"Agility"
-],
+"categories": ["Adventure", "Agility"],
 "creator": "GameBiz"
 },
 {
@@ -80,9 +69,7 @@
 "title": "Word Stars",
 "iframe": "https://html5.gamedistribution.com/ddc451045f974781b9d60b60f20c81d4/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Inlogic Software"
 }
 ]

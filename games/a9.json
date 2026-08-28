@@ -1,14 +1,35 @@
 {
 "pages": [
 {
+"id": "a9510755f8ab4663a75f67f4f8727ab3",
+"title": "Rent out - Landlord Tycoon",
+"iframe": "https://html5.gamedistribution.com/a9510755f8ab4663a75f67f4f8727ab3/",
+"description": "",
+"categories": ["Casual", "Simulation"],
+"creator": "Geniteam"
+},
+{
+"id": "a9ddfe71a4624aaba548115221ff8856",
+"title": "Cards: Klondike Solitaire",
+"iframe": "https://html5.gamedistribution.com/a9ddfe71a4624aaba548115221ff8856/",
+"description": "",
+"categories": ["Cards"],
+"creator": "GamePush"
+},
+{
+"id": "a9346f2d1aa048abb0ef2b236c20dd17",
+"title": "Math Crossword Puzzle - Genius Edition",
+"iframe": "https://html5.gamedistribution.com/a9346f2d1aa048abb0ef2b236c20dd17/",
+"description": "",
+"categories": ["Puzzle", "Educational"],
+"creator": "Bofer Media (Twim Studio)"
+},
+{
 "id": "a9d3515a94f044ec96e458c6d7ec355b",
 "title": "Through the Wall",
 "iframe": "https://html5.gamedistribution.com/a9d3515a94f044ec96e458c6d7ec355b/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -16,9 +37,7 @@
 "title": "Jigsaw Fantasy",
 "iframe": "https://html5.gamedistribution.com/a9f59998c10542ee9ab5d6311a7b4aec/",
 "description": "",
-"categories": [
-"Jigsaw"
-],
+"categories": ["Jigsaw"],
 "creator": "GamePush"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Snow Road Puzzle",
 "iframe": "https://html5.gamedistribution.com/a9fdba41525b438baed7ba8b2c842110/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GMG"
 },
 {
@@ -36,9 +53,7 @@
 "title": "Monkey Bubble Defense",
 "iframe": "https://html5.gamedistribution.com/a9d35516635d487d9fb95bb5d95c42e5/",
 "description": "",
-"categories": [
-"Strategy"
-],
+"categories": ["Strategy"],
 "creator": "MarketJS"
 },
 {
@@ -46,9 +61,7 @@
 "title": "Brainrot Mob Clash 3D",
 "iframe": "https://html5.gamedistribution.com/a930dd4779394614ba4c0b0d8275e252/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "bestgames.com"
 },
 {
@@ -56,10 +69,7 @@
 "title": "Mahjong Triple 3D Tile Match",
 "iframe": "https://html5.gamedistribution.com/a93152c0e931494987338969f804c732/",
 "description": "",
-"categories": [
-"Mahjong & Connect",
-"Match-3"
-],
+"categories": ["Mahjong & Connect", "Match-3"],
 "creator": "YAD.Com"
 },
 {
@@ -67,10 +77,7 @@
 "title": "Magic Brick Wars",
 "iframe": "https://html5.gamedistribution.com/a9964948ad434acfb106811d323e6464/",
 "description": "",
-"categories": [
-"Simulation",
-"Strategy"
-],
+"categories": ["Simulation", "Strategy"],
 "creator": "Yes2Games"
 }
 ]

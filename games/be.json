@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "be1a52bdbd9b45f8b68177f455548bbe",
+"title": "Avatar Life My Town",
+"iframe": "https://html5.gamedistribution.com/be1a52bdbd9b45f8b68177f455548bbe/",
+"description": "",
+"categories": ["Casual", "Simulation"],
+"creator": "Yiv.Com"
+},
+{
 "id": "be305649d03f439eb03340d2bdf9543a",
 "title": "Road Digging Puzzle",
 "iframe": "https://html5.gamedistribution.com/be305649d03f439eb03340d2bdf9543a/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -16,9 +21,7 @@
 "title": "Mahjong Solitaire Zodiac",
 "iframe": "https://html5.gamedistribution.com/be82b0f4cedc4f8aa41e186e90449296/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "Anna Inc"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Rich Choice Run",
 "iframe": "https://html5.gamedistribution.com/bef6a857d80a4337a57fab57c4b70c48/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Raccoon"
 },
 {
@@ -36,9 +37,7 @@
 "title": "Fish Out of Water!",
 "iframe": "https://html5.gamedistribution.com/bece97115f26426491fa08e409e545aa/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Yes2Games"
 },
 {
@@ -46,9 +45,7 @@
 "title": "Solitaire Quest",
 "iframe": "https://html5.gamedistribution.com/bea514c5808240568c8b56e3a1716503/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "BUSIDOL"
 },
 {
@@ -56,10 +53,7 @@
 "title": "Escape the Alien Prison",
 "iframe": "https://html5.gamedistribution.com/be797a3996324c03b20bad496a82819f/",
 "description": "",
-"categories": [
-"Adventure",
-"Puzzle"
-],
+"categories": ["Adventure", "Puzzle"],
 "creator": "gameVgames"
 },
 {
@@ -67,9 +61,7 @@
 "title": "Cute Mahjong Connect",
 "iframe": "https://html5.gamedistribution.com/bec0b111881c461cacabc5d44a8f65bc/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "Azerion Casual Games"
 }
 ]

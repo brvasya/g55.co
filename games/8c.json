@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "8c6bbf416a8240cea3c6c9b6f041832e",
+"title": "Cube Speed Dash",
+"iframe": "https://html5.gamedistribution.com/8c6bbf416a8240cea3c6c9b6f041832e/",
+"description": "",
+"categories": ["Casual"],
+"creator": "Caner"
+},
+{
 "id": "8cd322364cd04efd836221431312f0ca",
 "title": "Tarcat",
 "iframe": "https://html5.gamedistribution.com/8cd322364cd04efd836221431312f0ca/",
 "description": "",
-"categories": [
-"Casual",
-"Educational"
-],
+"categories": ["Casual", "Educational"],
 "creator": "Newness Games"
 },
 {
@@ -16,9 +21,7 @@
 "title": "Mahjong 3D Match",
 "iframe": "https://html5.gamedistribution.com/8c388ef95e04425fb807e5cf7829d08f/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "Inlogic Software"
 },
 {
@@ -26,9 +29,7 @@
 "title": "VegaMix Match-3 Village",
 "iframe": "https://html5.gamedistribution.com/8c1bfbc5d6814c8aa3061061e050b8b4/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "Broccoli Games"
 },
 {
@@ -36,10 +37,7 @@
 "title": "Road Of Fury 4",
 "iframe": "https://html5.gamedistribution.com/8c7b4c26a7784cacbda79f8510c6256d/",
 "description": "",
-"categories": [
-"Racing & Driving",
-"Shooter"
-],
+"categories": ["Racing & Driving", "Shooter"],
 "creator": "IriySoft"
 },
 {
@@ -47,9 +45,7 @@
 "title": "Prison Master: Escape Journey",
 "iframe": "https://html5.gamedistribution.com/8cdc5472b94c4fe9a8c092bec1d0c18e/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "YAD.Com"
 },
 {
@@ -57,10 +53,7 @@
 "title": "Sort Balls - Cones",
 "iframe": "https://html5.gamedistribution.com/8c028d59fd2946289d5582a4eee6f850/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Mirra Games"
 },
 {
@@ -68,9 +61,7 @@
 "title": "Artillery Vs Tanks",
 "iframe": "https://html5.gamedistribution.com/8c85fb2b116f4299927e33071c852847/",
 "description": "",
-"categories": [
-"Simulation"
-],
+"categories": ["Simulation"],
 "creator": "GamePush"
 },
 {
@@ -78,10 +69,7 @@
 "title": "SnakeLands.io",
 "iframe": "https://html5.gamedistribution.com/8ca616dfb6a048ecaa0134dca416405e/",
 "description": "",
-"categories": [
-".IO",
-"Casual"
-],
+"categories": [".IO", "Casual"],
 "creator": "Inlogic Software"
 }
 ]

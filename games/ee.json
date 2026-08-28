@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "ee89787adb7b4ddcbb3eba00fee19581",
+"title": "Sniper Wars: Find the Criminal",
+"iframe": "https://html5.gamedistribution.com/ee89787adb7b4ddcbb3eba00fee19581/",
+"description": "",
+"categories": ["Shooter"],
+"creator": "GamePush"
+},
+{
 "id": "ee8b2be14fa24256b113d31a90835383",
 "title": "Red Stickman vs Craftmans 2",
 "iframe": "https://html5.gamedistribution.com/ee8b2be14fa24256b113d31a90835383/",
 "description": "",
-"categories": [
-"Shooter"
-],
+"categories": ["Shooter"],
 "creator": "GamePush"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Hidden Object: Emily's Case",
 "iframe": "https://html5.gamedistribution.com/ee57ac72ac07468cbefcfdde8ed90f12/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GamePush"
 },
 {
@@ -25,10 +29,7 @@
 "title": "Travel Mahjong Deluxe",
 "iframe": "https://html5.gamedistribution.com/ee9c83bea86b4fdfa35a2aa1694fb5a6/",
 "description": "",
-"categories": [
-"Agility",
-"Mahjong & Connect"
-],
+"categories": ["Agility", "Mahjong & Connect"],
 "creator": "Lof Games"
 },
 {
@@ -36,10 +37,7 @@
 "title": "Obby Highest Jump Ever",
 "iframe": "https://html5.gamedistribution.com/eece738ce7be411cba9b6e333f1ec96f/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "gameVgames"
 },
 {
@@ -47,9 +45,7 @@
 "title": "Moto Race City",
 "iframe": "https://html5.gamedistribution.com/ee9daf29916348fb8f4450f2c387bf6a/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "Inlogic Software"
 }
 ]

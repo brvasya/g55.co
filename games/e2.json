@@ -1,13 +1,35 @@
 {
 "pages": [
 {
+"id": "e23027066bb9495faeb8115670493943",
+"title": "Hospital Game Happy Clinic",
+"iframe": "https://html5.gamedistribution.com/e23027066bb9495faeb8115670493943/",
+"description": "",
+"categories": ["Casual", "Simulation"],
+"creator": "YAD.Com"
+},
+{
+"id": "e28c7bb671954504be0931d23b6d0be0",
+"title": "Garden Block Puzzle",
+"iframe": "https://html5.gamedistribution.com/e28c7bb671954504be0931d23b6d0be0/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "Inlogic Software"
+},
+{
+"id": "e228033eda68498693ce92c906339187",
+"title": "Kids Supermarket",
+"iframe": "https://html5.gamedistribution.com/e228033eda68498693ce92c906339187/",
+"description": "",
+"categories": ["Simulation"],
+"creator": "Yiv.Com"
+},
+{
 "id": "e244ec5c2ea2418294d41a2e20e5bf0d",
 "title": "Water Sort",
 "iframe": "https://html5.gamedistribution.com/e244ec5c2ea2418294d41a2e20e5bf0d/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Albayoo"
 },
 {
@@ -15,10 +37,7 @@
 "title": "Stickman Zombie vs Stickman Hero",
 "iframe": "https://html5.gamedistribution.com/e28bcc262b6245dc806dba3a43d057ce/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Stickman vs Monster School Team"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Fishing Bear",
 "iframe": "https://html5.gamedistribution.com/e29bfa7faaf1437b8808b83428b64f0a/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Synk Inc."
 },
 {
@@ -36,10 +53,7 @@
 "title": "Lost Things - Hidden Objects",
 "iframe": "https://html5.gamedistribution.com/e2bc621dcad54cfa91e86c241167a0d2/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Illusions Games"
 },
 {
@@ -47,9 +61,7 @@
 "title": "Pick Brainrot: 3D Battle",
 "iframe": "https://html5.gamedistribution.com/e2abe24ea64a4397b00f61f2664a1ae6/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "Mirra Games"
 },
 {
@@ -57,9 +69,7 @@
 "title": "That's my seat!",
 "iframe": "https://html5.gamedistribution.com/e259562925ca4ca2b5392f4f0d7229ea/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -67,10 +77,7 @@
 "title": "Hidden Object: Street Of Secrets",
 "iframe": "https://html5.gamedistribution.com/e2f88349ab4147138060e0ec8efc431b/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "DRA"
 },
 {
@@ -78,10 +85,7 @@
 "title": "Football Heads 2026",
 "iframe": "https://html5.gamedistribution.com/e28358852075425e9d70f65e90a9c34f/",
 "description": "",
-"categories": [
-"Football",
-"Casual"
-],
+"categories": ["Football", "Casual"],
 "creator": "Inlogic Software"
 }
 ]

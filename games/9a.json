@@ -1,14 +1,27 @@
 {
 "pages": [
 {
+"id": "9a5b347e1e2243389462693e9854cdf1",
+"title": "Teacher Simulator",
+"iframe": "https://html5.gamedistribution.com/9a5b347e1e2243389462693e9854cdf1/",
+"description": "",
+"categories": ["Quiz", "Simulation"],
+"creator": "Kwalee"
+},
+{
+"id": "9ab793f828274581b717f1471dbc513c",
+"title": "Soccer Arena X",
+"iframe": "https://html5.gamedistribution.com/9ab793f828274581b717f1471dbc513c/",
+"description": "",
+"categories": ["Sports"],
+"creator": "GameBerry Studio"
+},
+{
 "id": "9a38876695d94bc4afaca71ce3757761",
 "title": "Draw Bridge Puzzle",
 "iframe": "https://html5.gamedistribution.com/9a38876695d94bc4afaca71ce3757761/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -16,10 +29,7 @@
 "title": "Toilet Time",
 "iframe": "https://html5.gamedistribution.com/9a522145ab764004a4efeece301179cc/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -27,10 +37,7 @@
 "title": "Darts Jam",
 "iframe": "https://html5.gamedistribution.com/9addb82d5ce74fb5b2eab726f8524cac/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "HeiTie"
 },
 {
@@ -38,10 +45,7 @@
 "title": "Obby Champions",
 "iframe": "https://html5.gamedistribution.com/9a4cfbdbd33b4b028a69b908699502eb/",
 "description": "",
-"categories": [
-"Adventure",
-"Battle"
-],
+"categories": ["Adventure", "Battle"],
 "creator": "Mirra Games"
 },
 {
@@ -49,9 +53,7 @@
 "title": "Arrowtix - Train Your Brain",
 "iframe": "https://html5.gamedistribution.com/9afeb29876304d269c28d8ca7869b714/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "ZazGames"
 }
 ]

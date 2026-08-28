@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "aea16bcfd22b4b4294a56c321af9e9cf",
+"title": "Paper Doll Diary - Chibi Dolls",
+"iframe": "https://html5.gamedistribution.com/aea16bcfd22b4b4294a56c321af9e9cf/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Bravestars Games"
+},
+{
 "id": "ae42ea5c4e0b4ff4b9eddf47fbd2cc5e",
 "title": "Marble Run - Ultimate Race!",
 "iframe": "https://html5.gamedistribution.com/ae42ea5c4e0b4ff4b9eddf47fbd2cc5e/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "Sunday GmbH"
 },
 {
@@ -15,10 +21,7 @@
 "title": "Murderers VS Sheriffs Duels",
 "iframe": "https://html5.gamedistribution.com/ae61bf1a3a834b238384329766580768/",
 "description": "",
-"categories": [
-"Shooter",
-"Battle"
-],
+"categories": ["Shooter", "Battle"],
 "creator": "2Play"
 },
 {
@@ -26,10 +29,7 @@
 "title": "Pottery Master",
 "iframe": "https://html5.gamedistribution.com/aef52b1f2b9542e18556b6bfa58e0220/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "Rike Games"
 },
 {
@@ -37,10 +37,7 @@
 "title": "Color Screw Rescue Puzzle",
 "iframe": "https://html5.gamedistribution.com/ae03d0fea588430883bf812537c74b62/",
 "description": "",
-"categories": [
-"Care",
-"Match-3"
-],
+"categories": ["Care", "Match-3"],
 "creator": "YAD.Com"
 }
 ]

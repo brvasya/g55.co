@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "85406c54ad214d95bdd1e2d413c7c43d",
+"title": "Color Dash",
+"iframe": "https://html5.gamedistribution.com/85406c54ad214d95bdd1e2d413c7c43d/",
+"description": "",
+"categories": ["Casual"],
+"creator": "TapZap Studio"
+},
+{
 "id": "851ce8fcc9704c8b9cec242fc3cfbb3d",
 "title": "Tricky Life",
 "iframe": "https://html5.gamedistribution.com/851ce8fcc9704c8b9cec242fc3cfbb3d/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -15,9 +21,7 @@
 "title": "2248 Blast",
 "iframe": "https://html5.gamedistribution.com/851373725cf54ad4a00588e580346512/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Albayoo"
 },
 {
@@ -25,10 +29,7 @@
 "title": "Sneaky Friends",
 "iframe": "https://html5.gamedistribution.com/8529938662c2447091414e2cc73983e3/",
 "description": "",
-"categories": [
-".IO",
-"Casual"
-],
+"categories": [".IO", "Casual"],
 "creator": "kiz10.com"
 },
 {
@@ -36,9 +37,7 @@
 "title": "Mob Rush",
 "iframe": "https://html5.gamedistribution.com/855cc8f25275408b82249eca4aa15115/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Inlogic Software"
 },
 {
@@ -46,10 +45,7 @@
 "title": "Cut the Grass 3D",
 "iframe": "https://html5.gamedistribution.com/85e71c964bcf440aa715e4f0e69c6c76/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "kiz10.com"
 }
 ]

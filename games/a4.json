@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "a4ca6284c30447e79b6fb81223d1c264",
+"title": "STALKER-Strike",
+"iframe": "https://html5.gamedistribution.com/a4ca6284c30447e79b6fb81223d1c264/",
+"description": "",
+"categories": ["Shooter"],
+"creator": "Y-rec"
+},
+{
 "id": "a44a7eaafa0d4cfc90e75064c370b335",
 "title": "Pull the Pin: Fish Rescue!",
 "iframe": "https://html5.gamedistribution.com/a44a7eaafa0d4cfc90e75064c370b335/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Simplegame"
 },
 {
@@ -15,10 +21,7 @@
 "title": "Witchy and the Puzzle Adventures",
 "iframe": "https://html5.gamedistribution.com/a455fc9c9c324c33a288ead33ad21661/",
 "description": "",
-"categories": [
-"Adventure",
-"Puzzle"
-],
+"categories": ["Adventure", "Puzzle"],
 "creator": "GamePush"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Stick Master Teleport",
 "iframe": "https://html5.gamedistribution.com/a497f71f7ff64128bb9f3d4f7a58dddc/",
 "description": "",
-"categories": [
-"Agility"
-],
+"categories": ["Agility"],
 "creator": "GamePush"
 },
 {
@@ -36,10 +37,7 @@
 "title": "ASMR Beauty Clinic",
 "iframe": "https://html5.gamedistribution.com/a448e4ebe42f42e29555207970cb75b7/",
 "description": "",
-"categories": [
-"Care",
-"Dress-up"
-],
+"categories": ["Care", "Dress-up"],
 "creator": "iclickgames"
 }
 ]

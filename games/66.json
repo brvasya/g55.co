@@ -1,14 +1,35 @@
 {
 "pages": [
 {
+"id": "66da87c150bf4e7c9f2abef8cdbd2f7a",
+"title": "Soccer Tournament",
+"iframe": "https://html5.gamedistribution.com/66da87c150bf4e7c9f2abef8cdbd2f7a/",
+"description": "",
+"categories": ["Football"],
+"creator": "BestGamesFreePlay.com"
+},
+{
+"id": "66a8ee3a6df14d538739c96df5926f10",
+"title": "Girl Rescue Dragon Out",
+"iframe": "https://html5.gamedistribution.com/66a8ee3a6df14d538739c96df5926f10/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "PuzzleGame.Com"
+},
+{
+"id": "660bc84144404f83bd7155228d1dc391",
+"title": "That's My Seat Logic Puzzle",
+"iframe": "https://html5.gamedistribution.com/660bc84144404f83bd7155228d1dc391/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "PuzzleGame.Com"
+},
+{
 "id": "66888fb5eec54304bc3a5215ccc589ac",
 "title": "Maze Craze",
 "iframe": "https://html5.gamedistribution.com/66888fb5eec54304bc3a5215ccc589ac/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -16,9 +37,7 @@
 "title": "Hexa Sort Trick or Treat",
 "iframe": "https://html5.gamedistribution.com/66fddb2022464fce86e045f78db3f46d/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -26,9 +45,7 @@
 "title": "What a walk",
 "iframe": "https://html5.gamedistribution.com/6656f428f5d74feb820fdd707ba9a629/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -36,10 +53,7 @@
 "title": "Blocky Archer Run",
 "iframe": "https://html5.gamedistribution.com/665328d407a547f2a003ed3723dedf16/",
 "description": "",
-"categories": [
-"Shooter",
-"Agility"
-],
+"categories": ["Shooter", "Agility"],
 "creator": "kiz10.com"
 },
 {
@@ -47,10 +61,7 @@
 "title": "Perfect Match 3D",
 "iframe": "https://html5.gamedistribution.com/66560ec39d244483a1dcc6245f59f6ce/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "GamePush"
 }
 ]

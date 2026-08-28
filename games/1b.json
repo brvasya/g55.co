@@ -1,13 +1,35 @@
 {
 "pages": [
 {
+"id": "1b3229bbbf6d4c519e216e8228b5d0a8",
+"title": "Bubble Plopper",
+"iframe": "https://html5.gamedistribution.com/1b3229bbbf6d4c519e216e8228b5d0a8/",
+"description": "",
+"categories": ["Bubble Shooter"],
+"creator": "Sanoma"
+},
+{
+"id": "1b24904690c649aeae32cbac62d1b405",
+"title": "Word Search with hints",
+"iframe": "https://html5.gamedistribution.com/1b24904690c649aeae32cbac62d1b405/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "GamePush"
+},
+{
+"id": "1b8ef1841fa84b20a28fd2596ea7472a",
+"title": "Number Bubble Shooter",
+"iframe": "https://html5.gamedistribution.com/1b8ef1841fa84b20a28fd2596ea7472a/",
+"description": "",
+"categories": ["Bubble Shooter"],
+"creator": "GameBerry Studio"
+},
+{
 "id": "1b57d99609cc4775a30d56c036b8796d",
 "title": "Tap Tap Builder",
 "iframe": "https://html5.gamedistribution.com/1b57d99609cc4775a30d56c036b8796d/",
 "description": "",
-"categories": [
-"Simulation"
-],
+"categories": ["Simulation"],
 "creator": "GamePush"
 },
 {
@@ -15,10 +37,7 @@
 "title": "Block Puzzle King",
 "iframe": "https://html5.gamedistribution.com/1b57b789f55e4472af1646d75be4decc/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Guangzhou Yomitoo Network Technology Co., Ltd."
 },
 {
@@ -26,10 +45,7 @@
 "title": "Word Connect Puzzle",
 "iframe": "https://html5.gamedistribution.com/1b392a6ff2514ce48a70c90b349e5de5/",
 "description": "",
-"categories": [
-"Puzzle",
-"Educational"
-],
+"categories": ["Puzzle", "Educational"],
 "creator": "CursoraLabs"
 },
 {
@@ -37,9 +53,7 @@
 "title": "Chiron City Driver",
 "iframe": "https://html5.gamedistribution.com/1b5315fd207a446daf4cbf9df971e5b0/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "Fuego! Games"
 },
 {
@@ -47,10 +61,7 @@
 "title": "Noob: Skyblock Survival",
 "iframe": "https://html5.gamedistribution.com/1b4197feadd84f789b63664d439e81f6/",
 "description": "",
-"categories": [
-"Adventure",
-"Simulation"
-],
+"categories": ["Adventure", "Simulation"],
 "creator": "Stickman vs Monster School Team"
 },
 {
@@ -58,10 +69,7 @@
 "title": "Maze Escape Challenge",
 "iframe": "https://html5.gamedistribution.com/1b50250704e04f2bad5717d2704e8535/",
 "description": "",
-"categories": [
-"Puzzle",
-"Strategy"
-],
+"categories": ["Puzzle", "Strategy"],
 "creator": "Reidga"
 },
 {
@@ -69,10 +77,7 @@
 "title": "Fruit Jam Master",
 "iframe": "https://html5.gamedistribution.com/1b51fe92070b442c94733486154b4ab5/",
 "description": "",
-"categories": [
-"Adventure",
-"Puzzle"
-],
+"categories": ["Adventure", "Puzzle"],
 "creator": "YAD.Com"
 },
 {
@@ -80,10 +85,7 @@
 "title": "Math Master",
 "iframe": "https://html5.gamedistribution.com/1bd7a44469c84c65b2d95f2289ee7007/",
 "description": "",
-"categories": [
-"Puzzle",
-"Quiz"
-],
+"categories": ["Puzzle", "Quiz"],
 "creator": "Big Wave"
 },
 {
@@ -91,9 +93,7 @@
 "title": "Fruit Cafe: Match 3",
 "iframe": "https://html5.gamedistribution.com/1bfa9930ed87442c97cf1f4b22e08572/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "GamePush"
 }
 ]

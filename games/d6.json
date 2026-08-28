@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "d6ad6282493243f1a3f45df40d3fb938",
+"title": "Space Survival Rainbow Friends Monster",
+"iframe": "https://html5.gamedistribution.com/d6ad6282493243f1a3f45df40d3fb938/",
+"description": "",
+"categories": ["Adventure"],
+"creator": "YAD.Com"
+},
+{
 "id": "d6c65947f9264445a7843dac3f0021f1",
 "title": "Froggy Hop",
 "iframe": "https://html5.gamedistribution.com/d6c65947f9264445a7843dac3f0021f1/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Dissorto"
 },
 {
@@ -16,9 +21,7 @@
 "title": "Match Tile Royal Family",
 "iframe": "https://html5.gamedistribution.com/d6dc7f563dca4bcd86a0b141f66ed1c2/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "YAD.Com"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Toy Rumble 3d",
 "iframe": "https://html5.gamedistribution.com/d6a79fd8e22c46498f2f876d87c474cf/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Online Games"
 },
 {
@@ -36,10 +37,7 @@
 "title": "Dear Island",
 "iframe": "https://html5.gamedistribution.com/d6b4e05478464bdeb9f4f10f0f967165/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Synk Inc."
 },
 {
@@ -47,10 +45,7 @@
 "title": "Maido",
 "iframe": "https://html5.gamedistribution.com/d644c8ad5da0410cab699b29b09b21ea/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "Mofu Module"
 },
 {
@@ -58,9 +53,7 @@
 "title": "Besties Chinese New Year Celebration",
 "iframe": "https://html5.gamedistribution.com/d6dda2e0655f45e98bd7863f68498f47/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "Cutedressup"
 },
 {
@@ -68,9 +61,7 @@
 "title": "Park Me: Draw Path",
 "iframe": "https://html5.gamedistribution.com/d60f8c65c1f64c838d6aa490ed5c649d/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "HolaStudio"
 },
 {
@@ -78,10 +69,7 @@
 "title": "High School Teacher Games Life",
 "iframe": "https://html5.gamedistribution.com/d64ecb1fa38042b89e02cd69faa0078f/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "CodesXpirit"
 },
 {
@@ -89,10 +77,7 @@
 "title": "Duotrace",
 "iframe": "https://html5.gamedistribution.com/d6c45d99310e4b2c8daf5a38b99f36ca/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Duotrace"
 }
 ]

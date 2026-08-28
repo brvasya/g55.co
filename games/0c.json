@@ -1,13 +1,35 @@
 {
 "pages": [
 {
+"id": "0c8651ebe7af4d2da93ca6bae9c4b0df",
+"title": "ASMR Beauty Japanese Spa",
+"iframe": "https://html5.gamedistribution.com/0c8651ebe7af4d2da93ca6bae9c4b0df/",
+"description": "",
+"categories": ["Dress-up", "Simulation"],
+"creator": "iclickgames"
+},
+{
+"id": "0c918d6cbeed4505bbefb42f084a0480",
+"title": "Dark Academia Wedding",
+"iframe": "https://html5.gamedistribution.com/0c918d6cbeed4505bbefb42f084a0480/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Gamerina"
+},
+{
+"id": "0c621dfab60143809e321fa448476f04",
+"title": "Obby Escape: Prison Rat Dance",
+"iframe": "https://html5.gamedistribution.com/0c621dfab60143809e321fa448476f04/",
+"description": "",
+"categories": ["Casual"],
+"creator": "Bravestars Games"
+},
+{
 "id": "0c93562b5f614eeaabd1515778affdd1",
 "title": "Hex Sense",
 "iframe": "https://html5.gamedistribution.com/0c93562b5f614eeaabd1515778affdd1/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Pro Mobile"
 },
 {
@@ -15,9 +37,7 @@
 "title": "Powerful Punch",
 "iframe": "https://html5.gamedistribution.com/0c9e186c2adf4c52961d042085dfaeb1/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -25,10 +45,7 @@
 "title": "Murder Stone Age",
 "iframe": "https://html5.gamedistribution.com/0c2785563e704830971b3ad7c9a7ea34/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "iclickgames"
 },
 {
@@ -36,10 +53,7 @@
 "title": "Winter Hexa Stack",
 "iframe": "https://html5.gamedistribution.com/0c249ace577243eebdef01ea2691cff5/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Lof Games"
 },
 {
@@ -47,9 +61,7 @@
 "title": "Crazy Bike Stunts PvP",
 "iframe": "https://html5.gamedistribution.com/0c89181b9cfe4897afa41b0f94385da9/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "Fuego! Games"
 },
 {
@@ -57,10 +69,7 @@
 "title": "Mirror Shape",
 "iframe": "https://html5.gamedistribution.com/0cecaeb7480c4d31acf192a33769e113/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "DDS"
 },
 {
@@ -68,9 +77,7 @@
 "title": "Hospital Surgeon Doctor Game",
 "iframe": "https://html5.gamedistribution.com/0c3106a053264cc3bf7ac398aeb9433d/",
 "description": "",
-"categories": [
-"Strategy"
-],
+"categories": ["Strategy"],
 "creator": "Nexifie L.L.C"
 },
 {
@@ -78,9 +85,7 @@
 "title": "Choco Blast : Block Merge",
 "iframe": "https://html5.gamedistribution.com/0c9d047ce9c54b20bfc013b27d4864c9/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Alien Dev."
 }
 ]

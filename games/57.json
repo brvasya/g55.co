@@ -1,14 +1,27 @@
 {
 "pages": [
 {
+"id": "577a7ad3269f4fdc974a34624d733d3a",
+"title": "Smartle",
+"iframe": "https://html5.gamedistribution.com/577a7ad3269f4fdc974a34624d733d3a/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "Pro Mobile"
+},
+{
+"id": "57f28b0116e4414e906c17b2559774d0",
+"title": "Kick Loser",
+"iframe": "https://html5.gamedistribution.com/57f28b0116e4414e906c17b2559774d0/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "Eyestorm Pte. LTD."
+},
+{
 "id": "57de0fa8b9fb4df783e7eb8248ac5e5a",
 "title": "Obby Rainbow Tower",
 "iframe": "https://html5.gamedistribution.com/57de0fa8b9fb4df783e7eb8248ac5e5a/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "gameVgames"
 },
 {
@@ -16,9 +29,7 @@
 "title": "Dalgona Game2",
 "iframe": "https://html5.gamedistribution.com/57e902262bb44868ac967456484ae4bb/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "MOVISOFT.Co.,Ltd"
 },
 {
@@ -26,10 +37,7 @@
 "title": "Match Ten Number Puzzle",
 "iframe": "https://html5.gamedistribution.com/57e0f26d59df4e2a95c4ea779012310e/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "PuzzleGame.Com"
 },
 {
@@ -37,9 +45,7 @@
 "title": "Summer Onet Connect",
 "iframe": "https://html5.gamedistribution.com/57dccdd922f146b6be9171c5041e810f/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "2Million Games"
 },
 {
@@ -47,9 +53,7 @@
 "title": "Grand Fruit Connect",
 "iframe": "https://html5.gamedistribution.com/579a9818703d4aaba116bca2616432fe/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "GameBerry Studio"
 }
 ]

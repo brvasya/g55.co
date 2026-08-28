@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "8d604276d890428eaa2459ccb8fd5119",
+"title": "Trading Games Playtime",
+"iframe": "https://html5.gamedistribution.com/8d604276d890428eaa2459ccb8fd5119/",
+"description": "",
+"categories": ["Casual", "Dress-up"],
+"creator": "Yiv.Com"
+},
+{
+"id": "8df6faef1934409d93f2281ecb3d7537",
+"title": "Earwax Clinic",
+"iframe": "https://html5.gamedistribution.com/8df6faef1934409d93f2281ecb3d7537/",
+"description": "",
+"categories": ["Care", "Simulation"],
+"creator": "bestgames.com"
+},
+{
 "id": "8d034584a63642dcb89fa3d24ed6e1b1",
 "title": "Vex 9",
 "iframe": "https://html5.gamedistribution.com/8d034584a63642dcb89fa3d24ed6e1b1/",
 "description": "",
-"categories": [
-"Agility"
-],
+"categories": ["Agility"],
 "creator": "Azerion Casual Games"
 },
 {
@@ -15,10 +29,7 @@
 "title": "Monster School vs Siren Head",
 "iframe": "https://html5.gamedistribution.com/8df213175612407f85ed8f91ae08f55f/",
 "description": "",
-"categories": [
-"Adventure",
-"Agility"
-],
+"categories": ["Adventure", "Agility"],
 "creator": "Stickman vs Monster School Team"
 },
 {
@@ -26,10 +37,7 @@
 "title": "My Garden Journey",
 "iframe": "https://html5.gamedistribution.com/8d958e45c13a46c38e62805648e7d801/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "Bravestars Games"
 },
 {
@@ -37,10 +45,7 @@
 "title": "Word Clash",
 "iframe": "https://html5.gamedistribution.com/8d998b803efd44069ae1d2da6f13e04a/",
 "description": "",
-"categories": [
-"Puzzle",
-"Quiz"
-],
+"categories": ["Puzzle", "Quiz"],
 "creator": "Inlogic Software"
 },
 {
@@ -48,10 +53,7 @@
 "title": "Snake Masters",
 "iframe": "https://html5.gamedistribution.com/8d477a23de1743198aca29f1893c6be6/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "kiz10.com"
 }
 ]

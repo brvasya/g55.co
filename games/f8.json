@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "f8ea4fbbad1e4430b2e95f1442aec7ab",
+"title": "Italian Brainrot Challenge",
+"iframe": "https://html5.gamedistribution.com/f8ea4fbbad1e4430b2e95f1442aec7ab/",
+"description": "",
+"categories": ["Puzzle", "Quiz"],
+"creator": "New Kids Games"
+},
+{
 "id": "f85ae7d577624125bf748bbb5bb53645",
 "title": "Butterfly Sort Puzzle",
 "iframe": "https://html5.gamedistribution.com/f85ae7d577624125bf748bbb5bb53645/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "MOVISOFT.Co.,Ltd"
 },
 {
@@ -16,10 +21,7 @@
 "title": "Sand Blast",
 "iframe": "https://html5.gamedistribution.com/f8840219625f49baa114a3260f189776/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "QiGame"
 },
 {
@@ -27,9 +29,7 @@
 "title": "K-Wedding Dream",
 "iframe": "https://html5.gamedistribution.com/f83698cd4d6049509fd6ddfa0ef95780/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "DL-studio"
 },
 {
@@ -37,9 +37,7 @@
 "title": "Two RX7 Drifters",
 "iframe": "https://html5.gamedistribution.com/f85eee6b515c4aecb0ef6c6563d05e39/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "Fuego! Games"
 }
 ]

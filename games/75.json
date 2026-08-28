@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "75e97aad438a47718dfd50f8e7e4fa87",
+"title": "Cat Rescue",
+"iframe": "https://html5.gamedistribution.com/75e97aad438a47718dfd50f8e7e4fa87/",
+"description": "",
+"categories": ["Puzzle", "Strategy"],
+"creator": "Yizhiyuan Network Technology Co., Ltd."
+},
+{
 "id": "75a29a8124a64ef8a407c2d368479fa0",
 "title": "Tung Sahur Bots Chase Room",
 "iframe": "https://html5.gamedistribution.com/75a29a8124a64ef8a407c2d368479fa0/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Bravestars Games"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Halloween Fruit Slice",
 "iframe": "https://html5.gamedistribution.com/754a3153c5964afe918325052fa17419/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GameBerry Studio"
 },
 {
@@ -25,10 +29,7 @@
 "title": "Schoolboy Runaway: room escape",
 "iframe": "https://html5.gamedistribution.com/75a3a423df984e27a3fbf1deb13b8e5c/",
 "description": "",
-"categories": [
-"Casual",
-"Strategy"
-],
+"categories": ["Casual", "Strategy"],
 "creator": "Playgama"
 },
 {
@@ -36,9 +37,7 @@
 "title": "Cooking Restaurant Kitchen",
 "iframe": "https://html5.gamedistribution.com/755f3912501d454fb781db0a4c0c5764/",
 "description": "",
-"categories": [
-"Cooking"
-],
+"categories": ["Cooking"],
 "creator": "Rendered Ideas"
 },
 {
@@ -46,10 +45,7 @@
 "title": "Boo-tiful Princess Match",
 "iframe": "https://html5.gamedistribution.com/75a32bc545d947eaadfa11cef57644df/",
 "description": "",
-"categories": [
-"Puzzle",
-"Dress-up"
-],
+"categories": ["Puzzle", "Dress-up"],
 "creator": "DL-studio"
 },
 {
@@ -57,9 +53,7 @@
 "title": "TRIVIA NATION",
 "iframe": "https://html5.gamedistribution.com/75c605af07684a719fd9ebbc552c246b/",
 "description": "",
-"categories": [
-"Quiz"
-],
+"categories": ["Quiz"],
 "creator": "BUSIDOL"
 },
 {
@@ -67,9 +61,7 @@
 "title": "Merge Home Mania",
 "iframe": "https://html5.gamedistribution.com/75960014ad694866ac41e0919f0a5e73/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "Inlogic Software"
 },
 {
@@ -77,9 +69,7 @@
 "title": "Arrow Cube Escape",
 "iframe": "https://html5.gamedistribution.com/756ba194e9bb481e876a9d8ee3304258/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GTS games"
 }
 ]

@@ -1,14 +1,35 @@
 {
 "pages": [
 {
+"id": "93f85d34f6eb42b69635222703a94abd",
+"title": "Ship Factory Tycoon",
+"iframe": "https://html5.gamedistribution.com/93f85d34f6eb42b69635222703a94abd/",
+"description": "",
+"categories": ["Casual", "Simulation"],
+"creator": "GMG"
+},
+{
+"id": "93ec13ded90f4ef8b46b91f7654945cd",
+"title": "Geometry Arrow 2",
+"iframe": "https://html5.gamedistribution.com/93ec13ded90f4ef8b46b91f7654945cd/",
+"description": "",
+"categories": ["Agility", "Casual"],
+"creator": "Playgama"
+},
+{
+"id": "93b87a4392224301be1d6c7876d8e361",
+"title": "Food Sort 3D",
+"iframe": "https://html5.gamedistribution.com/93b87a4392224301be1d6c7876d8e361/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "Ultra Games Entertainment Private limited"
+},
+{
 "id": "93630196f06f465995df303524c3e706",
 "title": "Tales of Lagoona",
 "iframe": "https://html5.gamedistribution.com/93630196f06f465995df303524c3e706/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Mad Data"
 },
 {
@@ -16,9 +37,7 @@
 "title": "Capybara Skewer Match",
 "iframe": "https://html5.gamedistribution.com/931169e8860040f5b169335e479cffc5/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Orenji Spark"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Pickle Ball Clash",
 "iframe": "https://html5.gamedistribution.com/933b1b935b9e422b9ca4fd279455b924/",
 "description": "",
-"categories": [
-"Sports"
-],
+"categories": ["Sports"],
 "creator": "Hyper Rabbit Games"
 },
 {
@@ -36,10 +53,7 @@
 "title": "Goods Triple Match 3D",
 "iframe": "https://html5.gamedistribution.com/931dfd68632142c7b3e882009866d288/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "PuzzleGame.Com"
 },
 {
@@ -47,10 +61,7 @@
 "title": "Slide Block Puzzle",
 "iframe": "https://html5.gamedistribution.com/93254fe1937947c5819b86ed300ffa4a/",
 "description": "",
-"categories": [
-"Puzzle",
-"Strategy"
-],
+"categories": ["Puzzle", "Strategy"],
 "creator": "Depfov"
 },
 {
@@ -58,9 +69,7 @@
 "title": "Bacteria: Life & Death",
 "iframe": "https://html5.gamedistribution.com/93434253e291494798f14204ae8750b1/",
 "description": "",
-"categories": [
-"Simulation"
-],
+"categories": ["Simulation"],
 "creator": "WiseOldMan"
 }
 ]

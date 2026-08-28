@@ -1,14 +1,35 @@
 {
 "pages": [
 {
+"id": "c2c539077905410bb2114297cf24255b",
+"title": "Br Br Patapim: Obby Challenge",
+"iframe": "https://html5.gamedistribution.com/c2c539077905410bb2114297cf24255b/",
+"description": "",
+"categories": ["Adventure", "Agility"],
+"creator": "Nexus"
+},
+{
+"id": "c2f867ddf04f481ea36e77ba1a98e5ff",
+"title": "Mini Games Relax Collection 2",
+"iframe": "https://html5.gamedistribution.com/c2f867ddf04f481ea36e77ba1a98e5ff/",
+"description": "",
+"categories": ["Casual"],
+"creator": "bestgames.com"
+},
+{
+"id": "c23f50871019481f99d1ce3d56571dfd",
+"title": "Italian Brainrot Bike Rush",
+"iframe": "https://html5.gamedistribution.com/c23f50871019481f99d1ce3d56571dfd/",
+"description": "",
+"categories": ["Casual", "Simulation"],
+"creator": "CursoraLabs"
+},
+{
 "id": "c2c324fd1e324830b3e2e3464cbad8a7",
 "title": "Enchanted Mahjong Saga",
 "iframe": "https://html5.gamedistribution.com/c2c324fd1e324830b3e2e3464cbad8a7/",
 "description": "",
-"categories": [
-"Agility",
-"Mahjong & Connect"
-],
+"categories": ["Agility", "Mahjong & Connect"],
 "creator": "Lof Games"
 },
 {
@@ -16,10 +37,7 @@
 "title": "Monster School 3",
 "iframe": "https://html5.gamedistribution.com/c20e9806a15f475eb3c37e2d944da6a7/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Stickman vs Monster School Team"
 },
 {
@@ -27,10 +45,7 @@
 "title": "Jixora – Jigsaw Solitaire Puzzle",
 "iframe": "https://html5.gamedistribution.com/c22dd33f66654986bf42e494c5934308/",
 "description": "",
-"categories": [
-"Jigsaw",
-"Strategy"
-],
+"categories": ["Jigsaw", "Strategy"],
 "creator": "Bouraoui Game"
 },
 {
@@ -38,9 +53,7 @@
 "title": "Mojicon Spring Connect",
 "iframe": "https://html5.gamedistribution.com/c26352a18e1b463c9c2b74a5bde7a629/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "2Million Games"
 },
 {
@@ -48,9 +61,7 @@
 "title": "Hyper Wave Challenge",
 "iframe": "https://html5.gamedistribution.com/c24cb825c8c44e279d7f804a3108d3a4/",
 "description": "",
-"categories": [
-"Agility"
-],
+"categories": ["Agility"],
 "creator": "GamePush"
 },
 {
@@ -58,9 +69,7 @@
 "title": "Archer vs Monsters",
 "iframe": "https://html5.gamedistribution.com/c2ce1cd65ca649abbc6b940a0adf3227/",
 "description": "",
-"categories": [
-"Agility"
-],
+"categories": ["Agility"],
 "creator": "GamePush"
 }
 ]

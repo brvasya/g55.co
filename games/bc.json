@@ -1,14 +1,51 @@
 {
 "pages": [
 {
+"id": "bcbd1517d72f430a81c903116126cbfd",
+"title": "Archer Go",
+"iframe": "https://html5.gamedistribution.com/bcbd1517d72f430a81c903116126cbfd/",
+"description": "",
+"categories": ["Casual"],
+"creator": "Inlogic Software"
+},
+{
+"id": "bc4de39b3f9045cd920eb90cf14a8986",
+"title": "Geometry Dash Maze Maps V2",
+"iframe": "https://html5.gamedistribution.com/bc4de39b3f9045cd920eb90cf14a8986/",
+"description": "",
+"categories": ["Agility", "Casual"],
+"creator": "atupdev"
+},
+{
+"id": "bc1a67b30e674373b2f2af526d63e6e4",
+"title": "Mr Cappuccino Assassino",
+"iframe": "https://html5.gamedistribution.com/bc1a67b30e674373b2f2af526d63e6e4/",
+"description": "",
+"categories": ["Puzzle", "Shooter"],
+"creator": "kiz10.com"
+},
+{
+"id": "bc81c0b82dba4e318c9aa206146912f3",
+"title": "Crazy Fruit Merge",
+"iframe": "https://html5.gamedistribution.com/bc81c0b82dba4e318c9aa206146912f3/",
+"description": "",
+"categories": ["Merge"],
+"creator": "Inlogic Software"
+},
+{
+"id": "bc99677144134e99bfc767ea4b03ec96",
+"title": "Sprunki Link",
+"iframe": "https://html5.gamedistribution.com/bc99677144134e99bfc767ea4b03ec96/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "AF"
+},
+{
 "id": "bca1da79a8744ca3bf90e5b8753b611d",
 "title": "BBQ Sort Puzzle",
 "iframe": "https://html5.gamedistribution.com/bca1da79a8744ca3bf90e5b8753b611d/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "HeiTie"
 },
 {
@@ -16,10 +53,7 @@
 "title": "Rough Ball",
 "iframe": "https://html5.gamedistribution.com/bc9e48b8a60142a79b44259398160d98/",
 "description": "",
-"categories": [
-"Adventure",
-"Agility"
-],
+"categories": ["Adventure", "Agility"],
 "creator": "SecGame"
 },
 {
@@ -27,10 +61,7 @@
 "title": "Fish Love Pins",
 "iframe": "https://html5.gamedistribution.com/bc1f30dfe09445d7846658feaeaacb4d/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "kiz10.com"
 },
 {
@@ -38,9 +69,7 @@
 "title": "Space Craft: Ship War",
 "iframe": "https://html5.gamedistribution.com/bc4dce5d14fe4259a8d4bdbb235eb43b/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Mirra Games"
 },
 {
@@ -48,10 +77,7 @@
 "title": "Duel",
 "iframe": "https://html5.gamedistribution.com/bc1211e78a024f0bab4d27589e8ae767/",
 "description": "",
-"categories": [
-"Shooter",
-"Battle"
-],
+"categories": ["Shooter", "Battle"],
 "creator": "boooogiegames"
 }
 ]

@@ -1,14 +1,27 @@
 {
 "pages": [
 {
+"id": "1a822edd992043c88ee36aba89e603c1",
+"title": "Cool Girl Aesthetics",
+"iframe": "https://html5.gamedistribution.com/1a822edd992043c88ee36aba89e603c1/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Gamerina"
+},
+{
+"id": "1a845db79570425e8f8311255d36181e",
+"title": "Brainrot Evolution Game",
+"iframe": "https://html5.gamedistribution.com/1a845db79570425e8f8311255d36181e/",
+"description": "",
+"categories": ["Casual"],
+"creator": "FunFox Games"
+},
+{
 "id": "1ac2392ea7bd4a1ca9f9b1e229287825",
 "title": "Dino Slide",
 "iframe": "https://html5.gamedistribution.com/1ac2392ea7bd4a1ca9f9b1e229287825/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Wolele"
 },
 {
@@ -16,9 +29,7 @@
 "title": "Color Block Sort",
 "iframe": "https://html5.gamedistribution.com/1a32843b3ad74864aff287f1c75cbeda/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "HeiTie"
 },
 {
@@ -26,10 +37,7 @@
 "title": "Cool Orange Ball: Bounce Adventure",
 "iframe": "https://html5.gamedistribution.com/1a82638838cc4a09a0c16ef6fd21929a/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Stickman vs Monster School Team"
 },
 {
@@ -37,10 +45,7 @@
 "title": "My Arcade Center",
 "iframe": "https://html5.gamedistribution.com/1ae5b8b1590c4119bb5163d98b51be2c/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "GamesMrkt"
 },
 {
@@ -48,9 +53,7 @@
 "title": "Capybara Xmas Merge",
 "iframe": "https://html5.gamedistribution.com/1a09e82198a8432da4f0a9c103187f7e/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GameBerry Studio"
 },
 {
@@ -58,9 +61,7 @@
 "title": "Xeno Defense Protocol",
 "iframe": "https://html5.gamedistribution.com/1ae04723ea2f42bab930af8997f01e72/",
 "description": "",
-"categories": [
-"Shooter"
-],
+"categories": ["Shooter"],
 "creator": "FialaGames"
 },
 {
@@ -68,9 +69,7 @@
 "title": "VegaMix Da Vinci Puzzles",
 "iframe": "https://html5.gamedistribution.com/1a249236f03f474db586aeba1abafae0/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "Broccoli Games"
 },
 {
@@ -78,9 +77,7 @@
 "title": "Bunny Blox",
 "iframe": "https://html5.gamedistribution.com/1ac9302aebc64320af6a0e089c9c724f/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Tweensoft"
 },
 {
@@ -88,9 +85,7 @@
 "title": "Cunning Ginger",
 "iframe": "https://html5.gamedistribution.com/1ad53433606841a3bdc9a294bad90f3e/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GamePush"
 },
 {
@@ -98,9 +93,7 @@
 "title": "Ink Shop: Dress & Tattoo",
 "iframe": "https://html5.gamedistribution.com/1a54e3218d574573a05e778df682913a/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Bravestars Games"
 },
 {
@@ -108,10 +101,7 @@
 "title": "Wool Sorting",
 "iframe": "https://html5.gamedistribution.com/1abaea29fe734e8ba27448bc7a9c3422/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "SecGame"
 },
 {
@@ -119,10 +109,7 @@
 "title": "Fruit Merge Arena",
 "iframe": "https://html5.gamedistribution.com/1ab4aa63ba214e85bda2c11aa5653ed8/",
 "description": "",
-"categories": [
-"Simulation",
-"Merge"
-],
+"categories": ["Simulation", "Merge"],
 "creator": "Lof Games"
 },
 {
@@ -130,9 +117,7 @@
 "title": "WordMix",
 "iframe": "https://html5.gamedistribution.com/1a6a78397d78471c8dc03e83ed2064d0/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Wit Games"
 },
 {
@@ -140,9 +125,7 @@
 "title": "Hawaii Match 6",
 "iframe": "https://html5.gamedistribution.com/1a6495d26ac541c8820eca4527ed6cfa/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 },
 {
@@ -150,10 +133,7 @@
 "title": "Card Clash : Battle Arena",
 "iframe": "https://html5.gamedistribution.com/1ab0c43c073e4de9a5fe96985d1ec084/",
 "description": "",
-"categories": [
-"Battle",
-"Cards"
-],
+"categories": ["Battle", "Cards"],
 "creator": "s1interactivestudio"
 }
 ]

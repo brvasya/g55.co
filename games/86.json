@@ -1,13 +1,35 @@
 {
 "pages": [
 {
+"id": "860cb380275e4231aaa23d7102c82be0",
+"title": "Balls Vs Lasers",
+"iframe": "https://html5.gamedistribution.com/860cb380275e4231aaa23d7102c82be0/",
+"description": "",
+"categories": ["Casual"],
+"creator": "bestgames.com"
+},
+{
+"id": "8690bdef5dab4c90abd3c346dea52511",
+"title": "Sum Master",
+"iframe": "https://html5.gamedistribution.com/8690bdef5dab4c90abd3c346dea52511/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "BestGamesFreePlay.com"
+},
+{
+"id": "860d822ce61743d6a8c85c914929c714",
+"title": "Shipbuilding tycoon",
+"iframe": "https://html5.gamedistribution.com/860d822ce61743d6a8c85c914929c714/",
+"description": "",
+"categories": ["Simulation"],
+"creator": "GamePush"
+},
+{
 "id": "864cf0717b9249159c67d01ac3c7a02c",
 "title": "Mahjong Connect: Spooky",
 "iframe": "https://html5.gamedistribution.com/864cf0717b9249159c67d01ac3c7a02c/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "davidgilbert"
 },
 {
@@ -15,10 +37,7 @@
 "title": "Brainrot Merge",
 "iframe": "https://html5.gamedistribution.com/86689ca50c4d4239b7df5e20b45b6976/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "PT Arena Solusi Digital"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Fireside Solitaire",
 "iframe": "https://html5.gamedistribution.com/86f1dfbf141c4def9e69eb5497c89f03/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "GameBerry Studio"
 },
 {
@@ -36,9 +53,7 @@
 "title": "Sort Game Toy Sort",
 "iframe": "https://html5.gamedistribution.com/86206438f9f6400b872db8ad472d6ee0/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "YAD.Com"
 },
 {
@@ -46,9 +61,7 @@
 "title": "Survival On Raft Multiplayer",
 "iframe": "https://html5.gamedistribution.com/8617ea5a6ce64ca78dc93c521ef8e9d3/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "bestgames.com"
 },
 {
@@ -56,10 +69,7 @@
 "title": "Mahjong Lines",
 "iframe": "https://html5.gamedistribution.com/8625ea2a8244492980f16e192880f934/",
 "description": "",
-"categories": [
-"Boardgames",
-"Casual"
-],
+"categories": ["Boardgames", "Casual"],
 "creator": "Playgama"
 },
 {
@@ -67,10 +77,7 @@
 "title": "Kalulu Tanhulu: ASMR Mukbang",
 "iframe": "https://html5.gamedistribution.com/86e09e6765a64adbb7e1ccb03d6282a5/",
 "description": "",
-"categories": [
-"Cooking",
-"Simulation"
-],
+"categories": ["Cooking", "Simulation"],
 "creator": "Mirra Games"
 },
 {
@@ -78,9 +85,7 @@
 "title": "Memevo.io",
 "iframe": "https://html5.gamedistribution.com/862f0addba124583b47dce850a7ccff9/",
 "description": "",
-"categories": [
-".IO"
-],
+"categories": [".IO"],
 "creator": "Karma Arcade"
 }
 ]

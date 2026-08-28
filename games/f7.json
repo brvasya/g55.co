@@ -1,13 +1,35 @@
 {
 "pages": [
 {
+"id": "f72f600b5e804a1b865e0c843ab88935",
+"title": "Cat Escape - Hide and Seek",
+"iframe": "https://html5.gamedistribution.com/f72f600b5e804a1b865e0c843ab88935/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "dotplay gmbh"
+},
+{
+"id": "f7328e0b20f549aa94cab3051bbb3520",
+"title": "Boat Mania",
+"iframe": "https://html5.gamedistribution.com/f7328e0b20f549aa94cab3051bbb3520/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "GMG"
+},
+{
+"id": "f786ab18d410437f846f2fd5b72ef7b6",
+"title": "Dazzling Divas Makeup",
+"iframe": "https://html5.gamedistribution.com/f786ab18d410437f846f2fd5b72ef7b6/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Gamerina"
+},
+{
 "id": "f730019a3aa645d3926fa54a9898cedf",
 "title": "Slime Farm!",
 "iframe": "https://html5.gamedistribution.com/f730019a3aa645d3926fa54a9898cedf/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Qam Games"
 },
 {
@@ -15,10 +37,7 @@
 "title": "Puppy Treat Sorting",
 "iframe": "https://html5.gamedistribution.com/f79ec8ef8c0c4f13955eb0dc9017dc65/",
 "description": "",
-"categories": [
-"Match-3",
-"Merge"
-],
+"categories": ["Match-3", "Merge"],
 "creator": "kiz10.com"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Savage Defenders",
 "iframe": "https://html5.gamedistribution.com/f79d8e4ae6b54120b45a4f3166f458c8/",
 "description": "",
-"categories": [
-"Strategy"
-],
+"categories": ["Strategy"],
 "creator": "GamePush"
 },
 {
@@ -36,9 +53,7 @@
 "title": "Goodeluxe",
 "iframe": "https://html5.gamedistribution.com/f73be292c3d643d6a2488938dcc47007/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "StoreRider"
 }
 ]

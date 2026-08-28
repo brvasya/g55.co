@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "0477016c022d4f4aa5e1f3e8c94fba7b",
+"title": "Wednesday Addams Beauty Salon",
+"iframe": "https://html5.gamedistribution.com/0477016c022d4f4aa5e1f3e8c94fba7b/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Cutedressup"
+},
+{
 "id": "0470cd6225c54abb9cd854dd6c71cbe9",
 "title": "Princess Run 3D",
 "iframe": "https://html5.gamedistribution.com/0470cd6225c54abb9cd854dd6c71cbe9/",
 "description": "",
-"categories": [
-"Adventure",
-"Racing & Driving"
-],
+"categories": ["Adventure", "Racing & Driving"],
 "creator": "bestgames.com"
 },
 {
@@ -16,10 +21,7 @@
 "title": "Chroma Trek",
 "iframe": "https://html5.gamedistribution.com/04639779c15c490c9d65d1a8f0a97d71/",
 "description": "",
-"categories": [
-"Agility",
-"Strategy"
-],
+"categories": ["Agility", "Strategy"],
 "creator": "Playgama"
 },
 {
@@ -27,9 +29,7 @@
 "title": "Knock and Run. 100 Doors Escape",
 "iframe": "https://html5.gamedistribution.com/048f19bd125e46e2a2312fadcde3d518/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Mirra Games"
 },
 {
@@ -37,9 +37,7 @@
 "title": "Magic Forest - Merge the Secrets",
 "iframe": "https://html5.gamedistribution.com/0412d111bb7047e88ae28ca9b5ce764e/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GamePush"
 },
 {
@@ -47,10 +45,7 @@
 "title": "Mojicon Garden Connect",
 "iframe": "https://html5.gamedistribution.com/04bfaeb994ba4c38bd977a7082a7f07c/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "2Million Games"
 },
 {
@@ -58,10 +53,7 @@
 "title": "World Cup Soccer Caps",
 "iframe": "https://html5.gamedistribution.com/040ff13a2a9f44b98009750960a523ae/",
 "description": "",
-"categories": [
-"Football",
-"Casual"
-],
+"categories": ["Football", "Casual"],
 "creator": "BestGamesFreePlay.com"
 }
 ]

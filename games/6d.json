@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "6db1b18f83524462ad7e5d23792552db",
+"title": "Geometry Vibes Monster",
+"iframe": "https://html5.gamedistribution.com/6db1b18f83524462ad7e5d23792552db/",
+"description": "",
+"categories": ["Adventure"],
+"creator": "gameVgames"
+},
+{
+"id": "6d4fe1c55ac2471997d8261c42e6b8a8",
+"title": "Sprunki Garden",
+"iframe": "https://html5.gamedistribution.com/6d4fe1c55ac2471997d8261c42e6b8a8/",
+"description": "",
+"categories": ["Match-3"],
+"creator": "AF"
+},
+{
 "id": "6d3928f393774157a7aed692f08ee011",
 "title": "Stickman Kombat 2D",
 "iframe": "https://html5.gamedistribution.com/6d3928f393774157a7aed692f08ee011/",
 "description": "",
-"categories": [
-"Battle"
-],
+"categories": ["Battle"],
 "creator": "GamePush"
 },
 {
@@ -15,9 +29,7 @@
 "title": "Bubble Shooter Neon",
 "iframe": "https://html5.gamedistribution.com/6de7fe918ed24506a45f8047a16bff72/",
 "description": "",
-"categories": [
-"Bubble Shooter"
-],
+"categories": ["Bubble Shooter"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 },
 {
@@ -25,9 +37,7 @@
 "title": "Witch Craft Potion Sort",
 "iframe": "https://html5.gamedistribution.com/6d07333e823c477db438cee11c426b22/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Orenji Spark"
 },
 {
@@ -35,9 +45,7 @@
 "title": "Pixel Flow",
 "iframe": "https://html5.gamedistribution.com/6d6556f0c714498fbe8e5b24941f57bf/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "YAD.Com"
 },
 {
@@ -45,9 +53,7 @@
 "title": "Connect the Dots - Color Lines",
 "iframe": "https://html5.gamedistribution.com/6d2c333e23f84f8c9e3d531fada91186/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "EXEC TECH GAMES"
 },
 {
@@ -55,9 +61,7 @@
 "title": "Astro Kitty Rush",
 "iframe": "https://html5.gamedistribution.com/6dac0ca9d993462594121f94d402c604/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "ExcDev"
 }
 ]
