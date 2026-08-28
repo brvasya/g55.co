@@ -28,6 +28,11 @@ superhero=action
 imposter=action
 survive=action
 survivor=action
+fight=action
+fights=action
+fighter=action
+fighters=action
+brawl=action
 
 #adventure
 escape=adventure
@@ -60,6 +65,7 @@ moon=adventure
 solar=adventure
 spaceship=adventure
 starship=adventure
+dungeon=adventure
 
 #arcade
 ball=arcade
@@ -86,6 +92,15 @@ vex=arcade
 rushy=arcade
 stacka=arcade
 stacky=arcade
+run=arcade
+jump=arcade
+flappy=arcade
+hop=arcade
+running=arcade
+jumper=arcade
+helix=arcade
+bounce=arcade
+flap=arcade
 
 #board
 backgammon=board
@@ -99,6 +114,9 @@ mahjongg=board
 reversi=board
 tac=board
 yatzy=board
+bingo=board
+carrom=board
+mancala=board
 
 #card
 solitaire=card
@@ -106,6 +124,11 @@ freecell=card
 patience=card
 soli=card
 tripeaks=card
+blackjack=card
+poker=card
+rummy=card
+uno=card
+spades=card
 
 #casual
 animal=casual
@@ -194,6 +217,10 @@ speedway=driving
 stuntz=driving
 wheelie=driving
 railroad=driving
+racer=driving
+traffic=driving
+transport=driving
+highway=driving
 
 #puzzle
 2048=puzzle
@@ -264,6 +291,17 @@ laundry=puzzle
 organize=puzzle
 tidy=puzzle
 wordoku=puzzle
+hidden=puzzle
+find=puzzle
+difference=puzzle
+objects=puzzle
+object=puzzle
+spot=puzzle
+link=puzzle
+match3=puzzle
+matching=puzzle
+pairs=puzzle
+blocks=puzzle
 
 #quiz
 math=quiz
@@ -275,6 +313,7 @@ mathematical=quiz
 mathematics=quiz
 multiplication=quiz
 trivia=quiz
+maths=quiz
 
 #shooter
 archery=shooter
@@ -298,6 +337,10 @@ shooty=shooter
 skeet=shooter
 swat=shooter
 snipe=shooter
+bullet=shooter
+cannon=shooter
+cannons=shooter
+aim=shooter
 
 #simulator
 cooking=simulator
@@ -353,6 +396,10 @@ sim=simulator
 simulation=simulator
 business=simulator
 manager=simulator
+hospital=simulator
+clinic=simulator
+vet=simulator
+cook=simulator
 
 #sports
 basketball=sports
@@ -384,6 +431,7 @@ ski=sports
 snowboard=sports
 volley=sports
 volleyball=sports
+baseball=sports
 
 #strategy
 defense=strategy
@@ -399,6 +447,7 @@ siege=strategy
 soldier=strategy
 warfare=strategy
 warzone=strategy
+defender=strategy
 
 #word
 crossword=word
