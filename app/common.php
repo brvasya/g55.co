@@ -28,9 +28,122 @@ function read_json(string $path): array {
   return $data;
 }
 
+function category_id_from_name(string $name): string {
+  $id = strtolower(trim($name));
+  $id = preg_replace('/[^a-z0-9]+/i', '-', $id);
+  return trim((string)$id, '-');
+}
+
+function load_all_games(): array {
+  static $games = null;
+
+  if ($games !== null) {
+    return $games;
+  }
+
+  $games = [];
+  $dir = __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'games';
+  $paths = glob($dir . DIRECTORY_SEPARATOR . '*.json');
+
+  if ($paths === false) {
+    return $games;
+  }
+
+  sort($paths, SORT_STRING);
+
+  foreach ($paths as $path) {
+    $data = read_json($path);
+    $pages = $data['pages'] ?? [];
+
+    if (!is_array($pages)) {
+      continue;
+    }
+
+    foreach ($pages as $page) {
+      if (!is_array($page)) {
+        continue;
+      }
+
+      $id = trim((string)($page['id'] ?? ''));
+      if ($id === '') {
+        continue;
+      }
+
+      $games[] = $page;
+    }
+  }
+
+  return $games;
+}
+
+function build_category_clusters(): array {
+  static $clusters = null;
+
+  if ($clusters !== null) {
+    return $clusters;
+  }
+
+  $clusters = [];
+
+  foreach (load_all_games() as $page) {
+    $categories = $page['categories'] ?? [];
+
+    if (!is_array($categories)) {
+      continue;
+    }
+
+    foreach ($categories as $category) {
+      $name = trim((string)$category);
+      if ($name === '') {
+        continue;
+      }
+
+      $id = category_id_from_name($name);
+      if ($id === '') {
+        continue;
+      }
+
+      if (!isset($clusters[$id])) {
+        $clusters[$id] = [
+          'id' => $id,
+          'name' => $name,
+          'pages' => [],
+        ];
+      }
+
+      $clusters[$id]['pages'][] = $page;
+    }
+  }
+
+  return $clusters;
+}
+
 function load_site_index(): array {
-  $path = __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'categories.json';
-  return read_json($path);
+  static $index = null;
+
+  if ($index !== null) {
+    return $index;
+  }
+
+  $categories = [];
+
+  foreach (build_category_clusters() as $cluster) {
+    $categories[] = [
+      'id' => $cluster['id'],
+      'name' => $cluster['name'],
+      'description' => 'Play free ' . $cluster['name'] . ' games online on G55.CO.',
+    ];
+  }
+
+  $index = [
+    'site' => [
+      'title' => 'Free Online Games',
+      'description' => 'Play free online games where you can battle enemies, race cars, solve puzzles, and explore creative worlds directly in your browser.',
+    ],
+    'categories' => $categories,
+  ];
+
+  return $index;
 }
 
 function load_category_pages(string $cid): array {
@@ -39,15 +152,8 @@ function load_category_pages(string $cid): array {
     exit;
   }
 
-  $path = __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'categories' . DIRECTORY_SEPARATOR . $cid . '.json';
-  $data = read_json($path);
-
-  if (!isset($data['pages']) || !is_array($data['pages'])) {
-    http_response_code(500);
-    exit;
-  }
-
-  return [$cid, $data['pages']];
+  $clusters = build_category_clusters();
+  return [$cid, $clusters[$cid]['pages'] ?? []];
 }
 
 function sort_categories_alpha(array $cats): array {
