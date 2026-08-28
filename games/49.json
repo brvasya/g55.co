@@ -1,14 +1,27 @@
 {
 "pages": [
 {
+"id": "4986d09724854afaa85f89ed717f27bc",
+"title": "Cube Stack 2048",
+"iframe": "https://html5.gamedistribution.com/4986d09724854afaa85f89ed717f27bc/",
+"description": "",
+"categories": ["Agility", "Casual"],
+"creator": "HyHyGames"
+},
+{
+"id": "491308f4e0f746628889e2df58ae3a10",
+"title": "Enchanted Easter Adventure",
+"iframe": "https://html5.gamedistribution.com/491308f4e0f746628889e2df58ae3a10/",
+"description": "",
+"categories": ["Casual", "Dress-up"],
+"creator": "Cutedressup"
+},
+{
 "id": "4942941a222e4a6bac994c80a856fcb9",
 "title": "From Nerd to Popular Ballerina Cappuccina",
 "iframe": "https://html5.gamedistribution.com/4942941a222e4a6bac994c80a856fcb9/",
 "description": "",
-"categories": [
-"Dress-up",
-"Simulation"
-],
+"categories": ["Dress-up", "Simulation"],
 "creator": "Cutedressup"
 },
 {
@@ -16,10 +29,7 @@
 "title": "Paws Off My Clues!",
 "iframe": "https://html5.gamedistribution.com/49a4a4a0fa2a48e4984f80bce7a32279/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "H5 Games"
 },
 {
@@ -27,9 +37,7 @@
 "title": "Paper Wars: Battles and Upgrades",
 "iframe": "https://html5.gamedistribution.com/49994d4fd8aa4a218b8d3ed8837a4700/",
 "description": "",
-"categories": [
-"Battle"
-],
+"categories": ["Battle"],
 "creator": "GamePush"
 },
 {
@@ -37,9 +45,7 @@
 "title": "Happy Egg Catch",
 "iframe": "https://html5.gamedistribution.com/496b8e15e117418f8e9b80601470c5e8/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Orenji Spark"
 }
 ]
