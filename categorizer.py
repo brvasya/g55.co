@@ -172,11 +172,6 @@ def build_match_priority(hits: list[int], key_tokens: list[str], slug: str) -> t
         len(slug),
     )
 
-def build_display_score(priority: tuple[int, int, int, int]) -> int:
-    token_count, negative_first_hit, hit_count, slug_len = priority
-    first_hit = -negative_first_hit
-    return (token_count * 1000) + (hit_count * 50) - first_hit + slug_len
-
 class CategorizerApp(tk.Tk):
     def __init__(self):
         super().__init__()
@@ -235,9 +230,6 @@ class CategorizerApp(tk.Tk):
         self.current_label_var = tk.StringVar(value="Current category: ")
         ttk.Label(top, textvariable=self.current_label_var).pack(side="left")
 
-        self.agent_exceptions_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(top, text="Agent Exceptions", variable=self.agent_exceptions_var).pack(side="left", padx=10)
-
         ttk.Button(top, text="Scan", command=self.scan).pack(side="left", padx=10)
         ttk.Button(top, text="Move all", command=self.move_all).pack(side="left", padx=6)
 
@@ -247,33 +239,23 @@ class CategorizerApp(tk.Tk):
         mid = ttk.Frame(right)
         mid.pack(fill="both", expand=True)
 
-        cols = ("id", "title", "match_keyword", "suggested_file", "score")
+        cols = ("id", "title", "match_keyword", "suggested_file")
         self.tree = ttk.Treeview(mid, columns=cols, show="headings", height=25)
         self.tree.heading("id", text="id")
         self.tree.heading("title", text="title")
         self.tree.heading("match_keyword", text="matched keyword")
         self.tree.heading("suggested_file", text="suggested category file")
-        self.tree.heading("score", text="score")
 
         self.tree.column("id", width=260, anchor="w")
         self.tree.column("title", width=320, anchor="w")
         self.tree.column("match_keyword", width=200, anchor="w")
         self.tree.column("suggested_file", width=220, anchor="w")
-        self.tree.column("score", width=80, anchor="center")
 
         self.tree.pack(side="left", fill="both", expand=True)
 
         yscroll = ttk.Scrollbar(mid, orient="vertical", command=self.tree.yview)
         yscroll.pack(side="right", fill="y")
         self.tree.configure(yscrollcommand=yscroll.set)
-
-        bottom = ttk.Frame(right, padding=(0, 10, 0, 0))
-        bottom.pack(fill="x")
-
-        self.preview_var = tk.StringVar(value="Click a row to preview the suggested category")
-        ttk.Label(bottom, textvariable=self.preview_var).pack(anchor="w")
-
-        self.tree.bind("<<TreeviewSelect>>", self.on_select)
 
         self.set_status("Ready")
 
@@ -327,8 +309,6 @@ class CategorizerApp(tk.Tk):
             self.target_cache = {}
 
             self.current_label_var.set(f"Current category: {fn}")
-            self.preview_var.set("Click a row to preview the suggested category")
-
             self.scan()
 
         except Exception as e:
@@ -338,7 +318,6 @@ class CategorizerApp(tk.Tk):
             self.current_wrapper = None
             self.target_cache = {}
             self.clear_results()
-            self.preview_var.set("")
             self.current_label_var.set("Current category: ")
             self.set_status("Load failed")
 
@@ -368,7 +347,6 @@ class CategorizerApp(tk.Tk):
     ):
         best = None
         best_priority = None
-        best_score = -1
         for kw in keywords:
             kt = kw["tokens"]
             hits = find_all_subseq_positions(title_tokens, kt)
@@ -376,21 +354,16 @@ class CategorizerApp(tk.Tk):
                 continue
 
             priority = build_match_priority(hits, kt, kw["slug"])
-            score = build_display_score(priority)
-
             if best_priority is None or priority > best_priority:
                 best_priority = priority
-                best_score = score
                 best = kw
 
-        return best, best_priority, best_score
+        return best, best_priority
 
     def scan(self):
         if not self.current_file:
             messagebox.showwarning("No source", "Select a source category first.")
             return
-
-        agent_exceptions_enabled = bool(self.agent_exceptions_var.get())
 
         keywords = self.build_keyword_map()
         if not keywords:
@@ -414,7 +387,7 @@ class CategorizerApp(tk.Tk):
 
             direct_title_tokens = tokenize_slug(title)
 
-            best, best_priority, best_score = self.find_best_keyword_match(
+            best, best_priority = self.find_best_keyword_match(
                 direct_title_tokens,
                 keywords,
             )
@@ -432,23 +405,22 @@ class CategorizerApp(tk.Tk):
                     skipped_self += 1
                     continue
 
-                if agent_exceptions_enabled:
-                    mapped_title_tokens = apply_agent_exceptions(direct_title_tokens)
+                mapped_title_tokens = apply_agent_exceptions(direct_title_tokens)
 
-                    best, best_priority, best_score = self.find_best_keyword_match(
-                        mapped_title_tokens,
-                        keywords,
+                best, best_priority = self.find_best_keyword_match(
+                    mapped_title_tokens,
+                    keywords,
+                )
+
+                current_priority = None
+                if current_tokens:
+                    current_hits = find_all_subseq_positions(
+                        mapped_title_tokens, current_tokens
                     )
-
-                    current_priority = None
-                    if current_tokens:
-                        current_hits = find_all_subseq_positions(
-                            mapped_title_tokens, current_tokens
+                    if current_hits:
+                        current_priority = build_match_priority(
+                            current_hits, current_tokens, current_slug
                         )
-                        if current_hits:
-                            current_priority = build_match_priority(
-                                current_hits, current_tokens, current_slug
-                            )
 
             if best is None:
                 if current_priority is not None:
@@ -464,7 +436,7 @@ class CategorizerApp(tk.Tk):
                         self.tree.insert(
                             "",
                             "end",
-                            values=(gid, title, "orphan", casual_fn, "0"),
+                            values=(gid, title, "orphan", casual_fn),
                         )
                         candidates += 1
                 continue
@@ -476,22 +448,11 @@ class CategorizerApp(tk.Tk):
             self.tree.insert(
                 "",
                 "end",
-                values=(gid, title, best["slug"], best["file"], str(best_score)),
+                values=(gid, title, best["slug"], best["file"]),
             )
             candidates += 1
 
         self.set_status(f"Scan done. candidates={candidates} skipped_current={skipped_self}")
-
-    def on_select(self, event=None):
-        sel = self.tree.selection()
-        if not sel:
-            return
-        vals = self.tree.item(sel[0], "values")
-        if not vals:
-            return
-        gid = vals[0]
-        target = vals[3]
-        self.preview_var.set(f"Selected id: {gid}  suggested: {target}")
 
     def load_target(self, fn: str):
         if fn in self.target_cache:
