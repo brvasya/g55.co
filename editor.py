@@ -169,16 +169,12 @@ def save_json_file(path: str, items: list, wrapper):
         f.write(dumps_json_compact_categories(payload))
 
 
-def description_has_bullet(description: str) -> bool:
-    return "•" in str(description or "")
+def description_is_complete(description: str) -> bool:
+    return bool(str(description or "").strip())
 
 
-def count_items_with_bullets(items) -> int:
-    count = 0
-    for it in items:
-        if description_has_bullet(it.get("description", "")):
-            count += 1
-    return count
+def count_items_with_descriptions(items) -> int:
+    return sum(1 for it in items if description_is_complete(it.get("description", "")))
 
 
 def count_items_with_creator(items) -> int:
@@ -388,7 +384,7 @@ class JsonGui(tk.Tk):
 
     def update_page_match_status(self, prefix: str = ""):
         total = len(self.items)
-        completed = count_items_with_bullets(self.items)
+        completed = count_items_with_descriptions(self.items)
         categories = count_items_with_categories(self.items)
         creators = count_items_with_creator(self.items)
         duplicate_titles = count_duplicate_titles(self.items)
@@ -508,12 +504,12 @@ class JsonGui(tk.Tk):
             label = it.get("title") or it.get("id") or "(empty)"
             self.listbox.insert(tk.END, label)
 
-            has_bullet = description_has_bullet(it.get("description", ""))
+            has_description = description_is_complete(it.get("description", ""))
             is_duplicate = idx in duplicate_title_indexes
 
             if is_duplicate:
                 self.listbox.itemconfig(idx, bg="#fff1b8", fg="#7a5200")
-            elif not has_bullet:
+            elif not has_description:
                 self.listbox.itemconfig(idx, bg="#e6e6e6", fg="#555555")
 
 
@@ -643,22 +639,18 @@ INPUT VARIABLES
 
 OUTPUT STRUCTURE (STRICT)
 
-1 Intro paragraph
-2 "Key Features" section
-3 Bullet list
-
-Optional
-Short second sentence allowed inside the paragraph for progression or mode.
+Write exactly ONE paragraph only.
+Do not add headings, labels, bullets, lists, or extra sections.
 
 INTRO PARAGRAPH RULES
 
-• Write exactly ONE paragraph
-• Length: 40 to 70 words
+• Length: 50 to 80 words
 • First sentence MUST start with gameplay action
 • Clearly describe what the player does in THIS game
-• Mention the core mechanic naturally
+• Mention the core mechanic naturally when reasonably inferable
 • Mention the theme or setting when relevant
-• Include the main objective or challenge
+• Include the main objective or challenge when reasonably inferable
+• Avoid inventing unsupported gameplay details
 • Avoid repeating the game title more than once
 • Avoid marketing tone
 • Avoid filler phrases
@@ -679,7 +671,7 @@ War Tanks Simulation is an exciting game
 
 GAME SPECIFICITY RULE
 
-Paragraph must include at least ONE unique gameplay signal such as:
+Include at least ONE distinctive gameplay signal when reasonably inferable, such as:
 
 vehicle type
 weapon system
@@ -689,6 +681,7 @@ enemy type
 mechanic variation
 
 Avoid generic genre description.
+Do not fabricate specific modes, systems, controls, enemies, progression, or features that cannot be inferred from the title.
 
 SOFT ADJECTIVE CONTROL RULE
 
@@ -701,50 +694,10 @@ friendly
 
 Use maximum 1 soft adjective.
 
-KEY FEATURES SECTION RULES
-
-Title must be exactly:
-
-Key Features
-
-• Include exactly 5 bullets
-• Ideal bullet length 3 to 6 words
-• Bullets must describe real gameplay elements
-• Focus on mechanics, systems, progression, controls
-• Avoid repeating the game title
-• Avoid marketing language
-• Avoid generic phrases
-• Avoid full sentences
-
-BULLET LINGUISTIC STRUCTURE
-
-Prefer concise mechanic entities.
-
-GOOD
-Tank combat mission objectives
-Realistic vehicle control physics
-
-BAD
-You will control tanks in missions
-
-BULLET SEMANTIC DISTRIBUTION MODEL
-
-Each game bullet set should cover:
-
-1 Core mechanic
-2 Player action or control
-3 Challenge or progression
-4 Optional mode or system
-5 Optional theme signal
-
 SEMANTIC ENRICHMENT RULE
 
-Include at least one long tail gameplay entity when natural.
-
-Examples
-Arena survival scoring system
-Upgrade based weapon progression
-Physics driven vehicle handling
+Use specific gameplay terminology naturally when supported by the title.
+Prefer concrete mechanic language over generic promotional wording.
 
 STYLE MODEL
 
@@ -757,27 +710,22 @@ OUTPUT FORMAT EXAMPLE
 
 {{PARAGRAPH}}
 
-Key Features
-
-• feature
-• feature
-• feature
-• feature
-• feature
-
 QUALITY VALIDATION CHECK
 
 Before output ensure:
 
+• Exactly one paragraph
 • First sentence gameplay focused
-• Paragraph describes THIS game uniquely
+• Paragraph describes THIS game as specifically as the title safely allows
 • Length within limits
-• Bullets reflect real mechanics
+• No invented unsupported features
 • Tone natural and editorial
 • No filler or repetition
+• No headings or bullets
 
 END RULE
 """.strip()
+
 
     def generate_description_text(self, client, game_title: str) -> str:
         rule = self.build_game_description_rule(game_title)
@@ -795,16 +743,16 @@ END RULE
 
         targets = [
             idx for idx, it in enumerate(self.items)
-            if str(it.get("title", "")).strip() and not description_has_bullet(it.get("description", ""))
+            if str(it.get("title", "")).strip() and not description_is_complete(it.get("description", ""))
         ]
 
         if not targets:
-            messagebox.showinfo("Nothing to generate", "No pages found where description does not contain •")
+            messagebox.showinfo("Nothing to generate", "No pages found with a missing description")
             return
 
         if not messagebox.askyesno(
             "Batch generate",
-            f"Generate descriptions for {len(targets)} page(s) where description does not contain •?"
+            f"Generate descriptions for {len(targets)} page(s) with a missing description?"
         ):
             return
 
