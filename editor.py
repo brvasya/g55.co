@@ -1,19 +1,14 @@
-import html
 import json
 import os
 import re
 import tkinter as tk
-import urllib.error
-import urllib.parse
-import urllib.request
 import webbrowser
 from openai import OpenAI
 from tkinter import ttk, messagebox
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
-ROOT_CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "categories.json")
-
+GAMES_DIR = os.path.join(SCRIPT_DIR, "games")
 PAGE_TEMPLATE = {
     "id": "",
     "title": "",
@@ -21,13 +16,6 @@ PAGE_TEMPLATE = {
     "description": "",
 }
 
-CATEGORY_TEMPLATE = {
-    "id": "",
-    "name": "",
-    "description": "",
-}
-
-NEW_CATEGORY_FILE_TEMPLATE = {"pages": []}
 
 
 def list_json_files(folder: str) -> list[str]:
@@ -43,13 +31,16 @@ def list_json_files(folder: str) -> list[str]:
 
 
 def list_all_editable_files() -> list[str]:
-    files = []
-
-    if os.path.isfile(ROOT_CATEGORIES_FILE):
-        files.append("categories.json")
-
-    files.extend(list_json_files(CATEGORIES_DIR))
+    files = list_json_files(CATEGORIES_DIR)
+    files.extend(f"games/{name}" for name in list_json_files(GAMES_DIR))
     return files
+
+
+def editable_name_for_path(path: str) -> str:
+    path = os.path.abspath(path)
+    if os.path.dirname(path) == os.path.abspath(GAMES_DIR):
+        return f"games/{os.path.basename(path)}"
+    return os.path.basename(path)
 
 
 
@@ -68,206 +59,114 @@ def normalize_creator_value(value) -> str:
     return str(value or "").strip()
 
 
-def is_gamedistribution_iframe(url: str) -> bool:
-    url = str(url or "").strip()
-    if not url:
-        return False
-    try:
-        parsed = urllib.parse.urlparse(url)
-    except Exception:
-        return False
-    return parsed.scheme in ("http", "https") and parsed.hostname == "html5.gamedistribution.com"
-
-
-def http_get_text(url: str, timeout_seconds: int = 10, max_bytes: int = 2_000_000):
-    request = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "g55-gd-bot/1.0",
-            "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",
-        },
-        method="GET",
-    )
-
-    try:
-        with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
-            status = getattr(response, "status", 200)
-            if status < 200 or status >= 300:
-                return None, f"http_status:{status}"
-
-            chunks = []
-            total = 0
-            while True:
-                chunk = response.read(65536)
-                if not chunk:
-                    break
-                total += len(chunk)
-                if total > max_bytes:
-                    return None, "html_too_large"
-                chunks.append(chunk)
-
-            if not chunks:
-                return None, "empty_body"
-
-            charset = response.headers.get_content_charset() or "utf-8"
-            raw = b"".join(chunks)
-            try:
-                return raw.decode(charset, errors="replace"), "ok"
-            except LookupError:
-                return raw.decode("utf-8", errors="replace"), "ok"
-    except urllib.error.HTTPError as e:
-        return None, f"http_status:{e.code}"
-    except urllib.error.URLError as e:
-        return None, f"url_error:{e.reason}"
-    except TimeoutError:
-        return None, "timeout"
-    except Exception as e:
-        return None, f"fetch_error:{e}"
-
-
-def find_creator_in_json(value) -> str:
-    if isinstance(value, dict):
-        creator = value.get("creator")
-        if isinstance(creator, dict):
-            name = normalize_creator_value(creator)
-            if name:
-                return name
-
-        for child in value.values():
-            name = find_creator_in_json(child)
-            if name:
-                return name
-
-    elif isinstance(value, list):
-        for child in value:
-            name = find_creator_in_json(child)
-            if name:
-                return name
-
-    return ""
-
-
-def extract_creator_name(page_html: str) -> str:
-    for json_text in re.findall(
-        r"""<script[^>]*type=["']application/ld\+json["'][^>]*>(.*?)</script>""",
-        page_html,
-        flags=re.IGNORECASE | re.DOTALL,
-    ):
-        try:
-            decoded = json.loads(json_text.strip())
-        except Exception:
+def normalize_categories_value(value) -> list[str]:
+    if not isinstance(value, list):
+        return []
+    out = []
+    seen = set()
+    for category in value:
+        if not isinstance(category, str):
             continue
-        name = find_creator_in_json(decoded)
-        if name:
-            return html.unescape(name).strip()
-
-    match = re.search(
-        r"""["']creator["']\s*:\s*\{[^{}]*["']name["']\s*:\s*["']([^"']+)["']""",
-        page_html,
-        flags=re.IGNORECASE | re.DOTALL,
-    )
-    if match:
-        return html.unescape(match.group(1)).strip()
-
-    return ""
-
-def fetch_creator_name(iframe_url: str):
-    if not is_gamedistribution_iframe(iframe_url):
-        return "", "not_gamedistribution_iframe"
-
-    page_html, status = http_get_text(iframe_url)
-    if page_html is None:
-        return "", status
-
-    creator = extract_creator_name(page_html)
-    if not creator:
-        return "", "creator_not_found"
-
-    return creator, "ok"
+        category = category.strip()
+        if not category or category in seen:
+            continue
+        seen.add(category)
+        out.append(category)
+    return out
 
 
-def normalize_loaded_json(loaded, file_name: str):
-    if file_name == "categories.json":
-        if isinstance(loaded, dict) and "categories" in loaded and isinstance(loaded["categories"], list):
-            return loaded["categories"], loaded, "categories"
-        raise ValueError('Unsupported categories.json format. Expected {"categories": [...]}')
+def parse_categories_text(value: str) -> list[str]:
+    return normalize_categories_value(str(value or "").split(","))
 
+
+def dumps_json_compact_categories(payload) -> str:
+    replacements = {}
+    counter = 0
+
+    def prepare(value):
+        nonlocal counter
+        if isinstance(value, dict):
+            out = {}
+            for key, child in value.items():
+                if key == "categories" and isinstance(child, list):
+                    token = f"__G55_CATEGORIES_{counter}__"
+                    counter += 1
+                    replacements[token] = json.dumps(
+                        child,
+                        ensure_ascii=False,
+                        separators=(", ", ": "),
+                    )
+                    out[key] = token
+                else:
+                    out[key] = prepare(child)
+            return out
+        if isinstance(value, list):
+            return [prepare(child) for child in value]
+        return value
+
+    text = json.dumps(prepare(payload), ensure_ascii=False, indent=0)
+    for token, compact in replacements.items():
+        text = text.replace(json.dumps(token), compact)
+    return text
+
+
+def normalize_loaded_json(loaded):
     if isinstance(loaded, dict) and "pages" in loaded and isinstance(loaded["pages"], list):
-        return loaded["pages"], loaded, "pages"
+        return loaded["pages"], loaded
 
     if isinstance(loaded, list):
-        return loaded, None, "pages"
+        return loaded, None
 
     raise ValueError('Unsupported JSON format. Expected {"pages": [...]} or a list.')
 
 
 def load_json_file(path: str):
-    file_name = os.path.basename(path)
-
     with open(path, "r", encoding="utf-8") as f:
         loaded = json.load(f)
 
-    items, wrapper, mode = normalize_loaded_json(loaded, file_name)
+    items, wrapper = normalize_loaded_json(loaded)
 
     cleaned = []
-    if mode == "categories":
-        for it in items:
-            if isinstance(it, dict):
-                cleaned.append(
-                    {
-                        "id": str(it.get("id", "")).strip(),
-                        "name": str(it.get("name", "")).strip(),
-                        "description": str(it.get("description", "")).strip(),
-                    }
-                )
-    else:
-        for it in items:
-            if isinstance(it, dict):
-                page = {
-                    "id": str(it.get("id", "")).strip(),
-                    "title": str(it.get("title", "")).strip(),
-                    "iframe": str(it.get("iframe", "")).strip(),
-                }
-                if "creator" in it:
-                    page["creator"] = normalize_creator_value(it.get("creator"))
-                page["description"] = str(it.get("description", "")).strip()
-                cleaned.append(page)
-
-    return cleaned, wrapper, mode
-
-
-def save_json_file(path: str, items: list, wrapper, mode: str):
-    items_to_save = items
-    if mode == "categories":
-        items_to_save = sorted(
-            items,
-            key=lambda it: str(it.get("name", "")).strip().lower()
-        )
-    else:
-        normalized_pages = []
-        for it in items:
+    for it in items:
+        if isinstance(it, dict):
             page = {
                 "id": str(it.get("id", "")).strip(),
                 "title": str(it.get("title", "")).strip(),
                 "iframe": str(it.get("iframe", "")).strip(),
+                "description": str(it.get("description", "")).strip(),
             }
+            if "categories" in it:
+                page["categories"] = normalize_categories_value(it.get("categories"))
             if "creator" in it:
                 page["creator"] = normalize_creator_value(it.get("creator"))
-            page["description"] = str(it.get("description", "")).strip()
-            normalized_pages.append(page)
-        items_to_save = normalized_pages
+            cleaned.append(page)
+
+    return cleaned, wrapper
+
+
+def save_json_file(path: str, items: list, wrapper):
+    normalized_pages = []
+    for it in items:
+        page = {
+            "id": str(it.get("id", "")).strip(),
+            "title": str(it.get("title", "")).strip(),
+            "iframe": str(it.get("iframe", "")).strip(),
+            "description": str(it.get("description", "")).strip(),
+        }
+        if "categories" in it:
+            page["categories"] = normalize_categories_value(it.get("categories"))
+        if "creator" in it:
+            page["creator"] = normalize_creator_value(it.get("creator"))
+        normalized_pages.append(page)
 
     if wrapper is None:
-        payload = items_to_save
+        payload = normalized_pages
     else:
-        if mode == "categories":
-            wrapper["categories"] = items_to_save
-        else:
-            wrapper["pages"] = items_to_save
+        wrapper["pages"] = normalized_pages
         payload = wrapper
 
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=0)
+        f.write(dumps_json_compact_categories(payload))
 
 
 def description_has_bullet(description: str) -> bool:
@@ -284,6 +183,10 @@ def count_items_with_bullets(items) -> int:
 
 def count_items_with_creator(items) -> int:
     return sum(1 for it in items if normalize_creator_value(it.get("creator", "")))
+
+
+def count_items_with_categories(items) -> int:
+    return sum(1 for it in items if normalize_categories_value(it.get("categories", [])))
 
 
 def normalize_text_for_duplicate_check(value: str) -> str:
@@ -322,7 +225,6 @@ class JsonGui(tk.Tk):
         self.current_file = None
         self.items = []
         self.wrapper = None
-        self.mode = "pages"
         self.selected_index = None
 
         self.search_matches = []
@@ -414,19 +316,25 @@ class JsonGui(tk.Tk):
         self.open_iframe_btn = ttk.Button(form, text="Open", command=self.open_iframe_url, width=10)
         self.open_iframe_btn.grid(row=5, column=1, sticky="e", pady=(0, 8))
 
+        self.categories_label = ttk.Label(form, text="Categories")
+        self.categories_label.grid(row=6, column=0, sticky="w")
+        self.categories_var = tk.StringVar()
+        self.categories_entry = ttk.Entry(form, textvariable=self.categories_var, width=48)
+        self.categories_entry.grid(row=7, column=0, columnspan=2, sticky="we", pady=(0, 8))
+
         self.creator_label = ttk.Label(form, text="Creator")
-        self.creator_label.grid(row=6, column=0, sticky="w")
+        self.creator_label.grid(row=8, column=0, sticky="w")
         self.creator_var = tk.StringVar()
         self.creator_entry = ttk.Entry(form, textvariable=self.creator_var, width=48)
-        self.creator_entry.grid(row=7, column=0, columnspan=2, sticky="we", pady=(0, 8))
+        self.creator_entry.grid(row=9, column=0, columnspan=2, sticky="we", pady=(0, 8))
 
         self.desc_label = ttk.Label(form, text="Description")
-        self.desc_label.grid(row=8, column=0, sticky="w")
+        self.desc_label.grid(row=10, column=0, sticky="w")
         self.desc_text = tk.Text(form, width=48, height=9, wrap="word")
-        self.desc_text.grid(row=9, column=0, columnspan=2, sticky="we", pady=(0, 8))
+        self.desc_text.grid(row=11, column=0, columnspan=2, sticky="we", pady=(0, 8))
 
         btn_row = ttk.Frame(form)
-        btn_row.grid(row=10, column=0, columnspan=2, sticky="we")
+        btn_row.grid(row=12, column=0, columnspan=2, sticky="we")
 
         ttk.Button(btn_row, text="New", command=self.new_template).pack(side="left")
         ttk.Button(btn_row, text="Add", command=self.add_item).pack(side="left", padx=6)
@@ -434,15 +342,6 @@ class JsonGui(tk.Tk):
         ttk.Button(btn_row, text="Delete", command=self.delete_item).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Generate Desc", command=self.generate_description_with_openai).pack(side="left", padx=6)
         ttk.Button(btn_row, text="Batch Generate Missing", command=self.batch_generate_missing_descriptions).pack(side="left", padx=6)
-
-        self.creator_row = ttk.Frame(form)
-        self.creator_row.grid(row=11, column=0, columnspan=2, sticky="we", pady=(8, 0))
-        self.fetch_creators_btn = ttk.Button(
-            self.creator_row,
-            text="Fetch Missing Creators",
-            command=self.batch_fetch_missing_creators,
-        )
-        self.fetch_creators_btn.pack(side="left")
 
         search = ttk.LabelFrame(right, text="Find", padding=10)
         search.pack(fill="x", pady=(10, 0))
@@ -463,7 +362,6 @@ class JsonGui(tk.Tk):
         self.refresh_category_list()
         self.set_status("Ready")
         self.new_template()
-        self.update_mode_ui()
 
     def set_status(self, text: str):
         self.status_var.set(text)
@@ -474,10 +372,6 @@ class JsonGui(tk.Tk):
         self.last_search_query = ""
 
     def open_iframe_url(self):
-        if self.is_root_categories_mode():
-            self.set_status("Open is unavailable in categories mode")
-            return
-
         url = self.iframe_var.get().strip()
         if not url:
             self.set_status("Iframe is empty")
@@ -492,53 +386,21 @@ class JsonGui(tk.Tk):
         except Exception:
             self.set_status("Open failed")
 
-    def is_root_categories_mode(self) -> bool:
-        return self.mode == "categories"
-
-    def update_mode_ui(self):
-        if self.is_root_categories_mode():
-            self.name_title_label.config(text="Name")
-            self.iframe_label.grid_remove()
-            self.iframe_entry.grid_remove()
-            self.open_iframe_btn.grid_remove()
-            self.creator_label.grid_remove()
-            self.creator_entry.grid_remove()
-            self.creator_row.grid_remove()
-            self.desc_label.grid()
-            self.desc_text.grid()
-        else:
-            self.name_title_label.config(text="Title")
-            self.iframe_label.grid()
-            self.iframe_entry.grid()
-            self.open_iframe_btn.grid()
-            self.creator_label.grid()
-            self.creator_entry.grid()
-            self.creator_row.grid()
-            self.desc_label.grid()
-            self.desc_text.grid()
-        self.reset_search_state()
-
     def update_page_match_status(self, prefix: str = ""):
         total = len(self.items)
-
-        if self.is_root_categories_mode():
-            completed = sum(
-                1 for it in self.items
-                if str(it.get("description", "")).strip()
-            )
-            text = f"Descriptions: {completed}/{total}"
-            self.set_status(f"{prefix}  {text}" if prefix else text)
-            return
-
         completed = count_items_with_bullets(self.items)
+        categories = count_items_with_categories(self.items)
         creators = count_items_with_creator(self.items)
         duplicate_titles = count_duplicate_titles(self.items)
 
-        text = f"Descriptions: {completed}/{total}   Creators: {creators}/{total}   Dup titles: {duplicate_titles}"
+        text = (
+            f"Descriptions: {completed}/{total}   Categories: {categories}/{total}   "
+            f"Creators: {creators}/{total}   Dup titles: {duplicate_titles}"
+        )
         self.set_status(f"{prefix}  {text}" if prefix else text)
 
     def refresh_category_list(self):
-        current_name = os.path.basename(self.current_file) if self.current_file else ""
+        current_name = editable_name_for_path(self.current_file) if self.current_file else ""
         self.cat_listbox.delete(0, tk.END)
         for name in self.files:
             self.cat_listbox.insert(tk.END, name)
@@ -562,12 +424,12 @@ class JsonGui(tk.Tk):
         name = self.files[int(sel[0])] if int(sel[0]) < len(self.files) else ""
         if not name:
             return
-        if self.current_file and os.path.basename(self.current_file) == name:
+        if self.current_file and editable_name_for_path(self.current_file) == name:
             return
         self.load_selected(name)
 
     def reload_list(self):
-        keep = os.path.basename(self.current_file) if self.current_file else ""
+        keep = editable_name_for_path(self.current_file) if self.current_file else ""
         self.files = list_all_editable_files()
 
         self.refresh_category_list()
@@ -577,7 +439,6 @@ class JsonGui(tk.Tk):
             self.current_file = None
             self.items = []
             self.wrapper = None
-            self.mode = "pages"
             self.selected_index = None
             self.reset_search_state()
             self.refresh_list()
@@ -594,8 +455,8 @@ class JsonGui(tk.Tk):
         name = (name or "").strip()
         if not name:
             return None
-        if name == "categories.json":
-            return ROOT_CATEGORIES_FILE
+        if name.startswith("games/"):
+            return os.path.join(GAMES_DIR, os.path.basename(name[6:]))
         return os.path.join(CATEGORIES_DIR, name)
 
     def load_selected(self, file_name: str):
@@ -603,29 +464,25 @@ class JsonGui(tk.Tk):
         if not path:
             return
         try:
-            cleaned, wrapper, mode = load_json_file(path)
+            cleaned, wrapper = load_json_file(path)
             self.items = cleaned
             self.wrapper = wrapper
-            self.mode = mode
             self.current_file = path
             self.selected_index = None
             self.reset_search_state()
-            self.file_var.set(os.path.basename(self.current_file))
+            self.file_var.set(file_name)
             self.refresh_list()
             self.new_template()
-            self.update_mode_ui()
             self.update_page_match_status("Loaded")
         except Exception as e:
             self.items = []
             self.wrapper = None
-            self.mode = "pages"
             self.current_file = path
             self.selected_index = None
             self.reset_search_state()
-            self.file_var.set(os.path.basename(self.current_file))
+            self.file_var.set(file_name)
             self.refresh_list()
             self.new_template()
-            self.update_mode_ui()
             messagebox.showerror("Load failed", f"Could not load JSON:\n{e}")
             self.set_status("Load failed")
 
@@ -633,7 +490,7 @@ class JsonGui(tk.Tk):
         if not self.current_file:
             return False
         try:
-            save_json_file(self.current_file, self.items, self.wrapper, self.mode)
+            save_json_file(self.current_file, self.items, self.wrapper)
             self.set_status("Auto saved")
             return True
         except Exception:
@@ -645,13 +502,6 @@ class JsonGui(tk.Tk):
 
     def refresh_list(self):
         self.listbox.delete(0, tk.END)
-
-        if self.is_root_categories_mode():
-            for it in self.items:
-                label = it.get("name") or it.get("id") or "(empty)"
-                self.listbox.insert(tk.END, label)
-            return
-
         duplicate_title_indexes = find_duplicate_title_indexes(self.items)
 
         for idx, it in enumerate(self.items):
@@ -683,19 +533,21 @@ class JsonGui(tk.Tk):
         self.id_var.set(slugify(value))
 
     def read_form(self):
-        if self.is_root_categories_mode():
-            return {
-                "id": self.id_var.get().strip(),
-                "name": self.title_var.get().strip(),
-                "description": self.desc_text.get("1.0", "end").strip(),
-            }
-
         item = {
             "id": self.id_var.get().strip(),
             "title": self.title_var.get().strip(),
             "iframe": self.iframe_var.get().strip(),
             "description": self.desc_text.get("1.0", "end").strip(),
         }
+
+        categories = parse_categories_text(self.categories_var.get())
+        had_categories_key = (
+            self.selected_index is not None
+            and 0 <= self.selected_index < len(self.items)
+            and "categories" in self.items[self.selected_index]
+        )
+        if categories or had_categories_key:
+            item["categories"] = categories
 
         creator = self.creator_var.get().strip()
         had_creator_key = (
@@ -710,39 +562,17 @@ class JsonGui(tk.Tk):
 
     def write_form(self, it):
         self.id_var.set(it.get("id", ""))
-        if self.is_root_categories_mode():
-            self.title_var.set(it.get("name", ""))
-        else:
-            self.title_var.set(it.get("title", ""))
-
+        self.title_var.set(it.get("title", ""))
         self.iframe_var.set(it.get("iframe", ""))
+        self.categories_var.set(", ".join(normalize_categories_value(it.get("categories", []))))
         self.creator_var.set(normalize_creator_value(it.get("creator", "")))
         self.desc_text.delete("1.0", "end")
         self.desc_text.insert("1.0", it.get("description", ""))
 
     def new_template(self):
         self.selected_index = None
-        if self.is_root_categories_mode():
-            self.write_form(CATEGORY_TEMPLATE.copy())
-            self.update_page_match_status("New category")
-        else:
-            self.write_form(PAGE_TEMPLATE.copy())
-            self.update_page_match_status("New page")
-
-    def create_category_json_file(self, category_id: str):
-        category_id = (category_id or "").strip()
-        if not category_id:
-            return
-
-        os.makedirs(CATEGORIES_DIR, exist_ok=True)
-        file_path = os.path.join(CATEGORIES_DIR, f"{category_id}.json")
-
-        try:
-            if not os.path.exists(file_path):
-                with open(file_path, "w", encoding="utf-8") as f:
-                    json.dump(NEW_CATEGORY_FILE_TEMPLATE, f, ensure_ascii=False, indent=0)
-        except Exception as e:
-            messagebox.showerror("Category file creation failed", f"Could not create category JSON file:\n{e}")
+        self.write_form(PAGE_TEMPLATE.copy())
+        self.update_page_match_status("New page")
 
     def find_duplicate_id(self, item_id, ignore_index=None):
         for idx, it in enumerate(self.items):
@@ -761,14 +591,9 @@ class JsonGui(tk.Tk):
         self.selected_index = idx
         self.write_form(self.items[idx])
 
-        if self.is_root_categories_mode():
-            self.update_page_match_status(f"Selected category {idx + 1} of {len(self.items)}")
-        else:
-            self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
+        self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
 
     def get_search_value(self, item) -> str:
-        if self.is_root_categories_mode():
-            return str(item.get("name", "")).strip().lower()
         return str(item.get("title", "")).strip().lower()
 
     def search_current_field(self):
@@ -786,7 +611,7 @@ class JsonGui(tk.Tk):
             self.last_search_query = query
 
         if not self.search_matches:
-            label = "name" if self.is_root_categories_mode() else "title"
+            label = "title"
             messagebox.showinfo("Not found", f"No item found by {label} containing:\n{query}")
             self.set_status("No matches found")
             return
@@ -795,7 +620,7 @@ class JsonGui(tk.Tk):
         target_idx = self.search_matches[self.search_pos]
         self.goto_index(target_idx)
 
-        label = "name" if self.is_root_categories_mode() else "title"
+        label = "title"
         self.set_status(
             f"Found {len(self.search_matches)} match(es) by {label}   Showing {self.search_pos + 1}/{len(self.search_matches)}"
         )
@@ -962,87 +787,7 @@ END RULE
         )
         return (response.output_text or "").strip()
 
-    def batch_fetch_missing_creators(self):
-        if self.is_root_categories_mode():
-            messagebox.showwarning("Wrong mode", "This function is only for individual game pages.")
-            return
-
-        targets = [
-            idx for idx, it in enumerate(self.items)
-            if not normalize_creator_value(it.get("creator", ""))
-            and is_gamedistribution_iframe(it.get("iframe", ""))
-        ]
-
-        if not targets:
-            messagebox.showinfo(
-                "Nothing to fetch",
-                "No GameDistribution pages with a missing creator were found in this JSON file.",
-            )
-            return
-
-        if not messagebox.askyesno(
-            "Fetch missing creators",
-            f"Fetch creator metadata for {len(targets)} GameDistribution page(s) in the current JSON file?",
-        ):
-            return
-
-        fetched = 0
-        failed = 0
-        failed_examples = []
-
-        for pos, idx in enumerate(targets, start=1):
-            item = self.items[idx]
-            title = str(item.get("title", "")).strip() or str(item.get("id", "")).strip() or "(untitled)"
-            iframe = str(item.get("iframe", "")).strip()
-
-            self.set_status(f"Fetching creator {pos}/{len(targets)}: {title}")
-            self.update_idletasks()
-
-            creator, status = fetch_creator_name(iframe)
-            if creator:
-                item["creator"] = creator
-                fetched += 1
-
-                if fetched % 25 == 0 and not self.autosave():
-                    messagebox.showerror(
-                        "Auto save failed",
-                        f"Fetched {fetched} creator(s), but the JSON checkpoint could not be saved.",
-                    )
-                    self.refresh_list()
-                    return
-            else:
-                failed += 1
-                if len(failed_examples) < 5:
-                    failed_examples.append(f"{title}: {status}")
-
-        if fetched and fetched % 25 != 0 and not self.autosave():
-            messagebox.showerror(
-                "Auto save failed",
-                f"Fetched {fetched} creator(s), but the JSON file could not be saved.",
-            )
-            self.refresh_list()
-            return
-
-        self.refresh_list()
-        if self.selected_index is not None and 0 <= self.selected_index < len(self.items):
-            self.goto_index(self.selected_index)
-
-        self.update_page_match_status(
-            f"Creator fetch complete: {fetched} fetched, {failed} failed"
-        )
-
-        message = f"Fetched and saved {fetched} creator(s)."
-        if failed:
-            message += f"\n\n{failed} page(s) could not be resolved."
-            if failed_examples:
-                message += "\n\nExamples:\n" + "\n".join(failed_examples)
-        messagebox.showinfo("Done", message)
-
     def batch_generate_missing_descriptions(self):
-        if self.is_root_categories_mode():
-            messagebox.showwarning("Wrong mode", "This function is only for individual game pages.")
-            return
-
         api_key = os.environ.get("OPENAI_API_KEY", "").strip()
         if not api_key:
             messagebox.showerror("Missing API key", "Set OPENAI_API_KEY first.")
@@ -1107,10 +852,6 @@ END RULE
         messagebox.showinfo("Done", f"Generated and auto saved {generated} page(s).")
 
     def generate_description_with_openai(self):
-        if self.is_root_categories_mode():
-            messagebox.showwarning("Wrong mode", "This function is only for individual game pages.")
-            return
-
         item = self.read_form()
         game_title = item.get("title", "").strip()
 
@@ -1150,10 +891,10 @@ END RULE
 
     def add_item(self):
         it = self.read_form()
-        label_value = it.get("name", "") if self.is_root_categories_mode() else it.get("title", "")
+        label_value = it.get("title", "")
 
         if not it["id"] or not label_value:
-            messagebox.showwarning("Missing fields", "Please fill Id and Name/Title.")
+            messagebox.showwarning("Missing fields", "Please fill Id and Title.")
             return
 
         dup = self.find_duplicate_id(it["id"])
@@ -1169,14 +910,7 @@ END RULE
             messagebox.showerror("Auto save failed", "Could not auto save after add.")
             return
 
-        if self.is_root_categories_mode():
-            self.create_category_json_file(it["id"])
-            self.files = list_all_editable_files()
-            self.refresh_category_list()
-            self.select_category_by_name("categories.json", load=False)
-            self.update_page_match_status("Added category, created JSON file, and auto saved")
-        else:
-            self.update_page_match_status("Added page and auto saved")
+        self.update_page_match_status("Added page and auto saved")
 
     def update_item(self):
         if self.selected_index is None:
@@ -1184,10 +918,10 @@ END RULE
             return
 
         it = self.read_form()
-        label_value = it.get("name", "") if self.is_root_categories_mode() else it.get("title", "")
+        label_value = it.get("title", "")
 
         if not it["id"] or not label_value:
-            messagebox.showwarning("Missing fields", "Please fill Id and Name/Title.")
+            messagebox.showwarning("Missing fields", "Please fill Id and Title.")
             return
 
         dup = self.find_duplicate_id(it["id"], ignore_index=self.selected_index)
@@ -1204,10 +938,7 @@ END RULE
             messagebox.showerror("Auto save failed", "Could not auto save after update.")
             return
 
-        if self.is_root_categories_mode():
-            self.update_page_match_status("Updated category and auto saved")
-        else:
-            self.update_page_match_status("Updated page and auto saved")
+        self.update_page_match_status("Updated page and auto saved")
 
     def delete_item(self):
         if self.selected_index is None:
@@ -1215,11 +946,7 @@ END RULE
             return
 
         idx = self.selected_index
-        title = (
-            self.items[idx].get("name")
-            if self.is_root_categories_mode()
-            else self.items[idx].get("title")
-        ) or self.items[idx].get("id")
+        title = self.items[idx].get("title") or self.items[idx].get("id")
 
         if not messagebox.askyesno("Delete", f"Delete selected item?\n\n{title}"):
             return
@@ -1233,10 +960,7 @@ END RULE
             messagebox.showerror("Auto save failed", "Could not auto save after delete.")
             return
 
-        if self.is_root_categories_mode():
-            self.update_page_match_status("Deleted category and auto saved")
-        else:
-            self.update_page_match_status("Deleted page and auto saved")
+        self.update_page_match_status("Deleted page and auto saved")
 
     def pick_from_list(self):
         sel = self.listbox.curselection()
@@ -1247,10 +971,7 @@ END RULE
             self.selected_index = idx
             self.write_form(self.items[idx])
 
-            if self.is_root_categories_mode():
-                self.update_page_match_status(f"Selected category {idx + 1} of {len(self.items)}")
-            else:
-                self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
+            self.update_page_match_status(f"Selected page {idx + 1} of {len(self.items)}")
 
 
 if __name__ == "__main__":
