@@ -251,9 +251,6 @@ class CategorizerApp(tk.Tk):
         self.current_label_var = tk.StringVar(value="Current category: ")
         ttk.Label(top, textvariable=self.current_label_var).pack(side="left")
 
-        self.only_unique_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(top, text="Unique", variable=self.only_unique_var).pack(side="left", padx=10)
-
         self.agent_exceptions_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Agent Exceptions", variable=self.agent_exceptions_var).pack(side="left", padx=10)
 
@@ -393,8 +390,6 @@ class CategorizerApp(tk.Tk):
         best = None
         best_priority = None
         best_score = -1
-        ties = 0
-
         for kw in keywords:
             kt = kw["tokens"]
             if len(kt) < min_tokens:
@@ -411,11 +406,8 @@ class CategorizerApp(tk.Tk):
                 best_priority = priority
                 best_score = score
                 best = kw
-                ties = 0
-            elif priority == best_priority:
-                ties += 1
 
-        return best, best_priority, best_score, ties
+        return best, best_priority, best_score
 
     def scan(self):
         if not self.current_file:
@@ -423,7 +415,6 @@ class CategorizerApp(tk.Tk):
             return
 
         min_tokens = int(self.min_tokens_var.get() or 1)
-        only_unique = bool(self.only_unique_var.get())
         agent_exceptions_enabled = bool(self.agent_exceptions_var.get())
 
         keywords = self.build_keyword_map()
@@ -448,7 +439,7 @@ class CategorizerApp(tk.Tk):
 
             direct_title_tokens = tokenize_slug(title)
 
-            best, best_priority, best_score, ties = self.find_best_keyword_match(
+            best, best_priority, best_score = self.find_best_keyword_match(
                 direct_title_tokens,
                 keywords,
                 min_tokens,
@@ -473,7 +464,7 @@ class CategorizerApp(tk.Tk):
                 if agent_exceptions_enabled:
                     mapped_title_tokens = apply_agent_exceptions(direct_title_tokens)
 
-                    best, best_priority, best_score, ties = self.find_best_keyword_match(
+                    best, best_priority, best_score = self.find_best_keyword_match(
                         mapped_title_tokens,
                         keywords,
                         min_tokens,
@@ -510,9 +501,6 @@ class CategorizerApp(tk.Tk):
 
             if current_priority is not None and current_priority >= best_priority:
                 skipped_self += 1
-                continue
-
-            if only_unique and ties > 0:
                 continue
 
             self.tree.insert(
