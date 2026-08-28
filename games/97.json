@@ -1,14 +1,27 @@
 {
 "pages": [
 {
+"id": "9762bd6cda59440785bf199b51b2409b",
+"title": "Labubu Adventure",
+"iframe": "https://html5.gamedistribution.com/9762bd6cda59440785bf199b51b2409b/",
+"description": "",
+"categories": ["Adventure"],
+"creator": "kiz10.com"
+},
+{
+"id": "973b28f5e26c477eb1d0c4435bacb000",
+"title": "Make Ten Tiles",
+"iframe": "https://html5.gamedistribution.com/973b28f5e26c477eb1d0c4435bacb000/",
+"description": "",
+"categories": ["Educational", "Merge"],
+"creator": "GMG"
+},
+{
 "id": "9760e3b7412645af8c01f889d8404311",
 "title": "Drone Wars",
 "iframe": "https://html5.gamedistribution.com/9760e3b7412645af8c01f889d8404311/",
 "description": "",
-"categories": [
-"Shooter",
-"Battle"
-],
+"categories": ["Shooter", "Battle"],
 "creator": "Raid games"
 }
 ]

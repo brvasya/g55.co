@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "8256a6e4d51c45c6abe055782066efed",
+"title": "SquidGame.io",
+"iframe": "https://html5.gamedistribution.com/8256a6e4d51c45c6abe055782066efed/",
+"description": "",
+"categories": [".IO", "Battle"],
+"creator": "NISHAD_Games"
+},
+{
 "id": "828f432b9cdd4b55a2bed671d5cea9e4",
 "title": "3D Block Gladiator: Sword Draw",
 "iframe": "https://html5.gamedistribution.com/828f432b9cdd4b55a2bed671d5cea9e4/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Bravestars Games"
 },
 {
@@ -15,10 +21,7 @@
 "title": "Elytra Flight",
 "iframe": "https://html5.gamedistribution.com/82f6fa2fa66c47b3a0f2b0543cbdfc43/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "CursoraLabs"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Ancient Wars: Caesar",
 "iframe": "https://html5.gamedistribution.com/82d7fc893b324317b608042f8b2b96d0/",
 "description": "",
-"categories": [
-"Strategy"
-],
+"categories": ["Strategy"],
 "creator": "Starodymov Games"
 },
 {
@@ -36,10 +37,7 @@
 "title": "Coin Blitz",
 "iframe": "https://html5.gamedistribution.com/82efd9293b264d2ebf2255857a4912e7/",
 "description": "",
-"categories": [
-"Shooter",
-"Strategy"
-],
+"categories": ["Shooter", "Strategy"],
 "creator": "LevelKraft Technologies"
 }
 ]

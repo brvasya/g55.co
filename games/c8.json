@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "c88e601ee6fa41d6945331cbd397b047",
+"title": "Diamond Solitaire Mahjong",
+"iframe": "https://html5.gamedistribution.com/c88e601ee6fa41d6945331cbd397b047/",
+"description": "",
+"categories": ["Mahjong & Connect"],
+"creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
+},
+{
 "id": "c857585a877f4f32bb2b9e2c2849b189",
 "title": "Car Destruction King",
 "iframe": "https://html5.gamedistribution.com/c857585a877f4f32bb2b9e2c2849b189/",
 "description": "",
-"categories": [
-"Racing & Driving",
-"Simulation"
-],
+"categories": ["Racing & Driving", "Simulation"],
 "creator": "Playgama"
 },
 {
@@ -16,10 +21,7 @@
 "title": "Avenger Guard",
 "iframe": "https://html5.gamedistribution.com/c89b6590d54245c390eb27cc7d8048c9/",
 "description": "",
-"categories": [
-"Adventure",
-"Shooter"
-],
+"categories": ["Adventure", "Shooter"],
 "creator": "Big Wave"
 },
 {
@@ -27,9 +29,7 @@
 "title": "Gun Shooting Games Sniper 3D",
 "iframe": "https://html5.gamedistribution.com/c8a93a1e1e964e11b3d9803cad9e9c2c/",
 "description": "",
-"categories": [
-"Shooter"
-],
+"categories": ["Shooter"],
 "creator": "bestgames.com"
 },
 {
@@ -37,9 +37,7 @@
 "title": "Cake Merge 2",
 "iframe": "https://html5.gamedistribution.com/c89cf76cc0804e51a12259a9e1e1f09f/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "GameBerry Studio"
 }
 ]

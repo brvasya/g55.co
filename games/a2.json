@@ -1,14 +1,27 @@
 {
 "pages": [
 {
+"id": "a258b00fef084b75b0f628374c0fd97e",
+"title": "Woody Tap Block",
+"iframe": "https://html5.gamedistribution.com/a258b00fef084b75b0f628374c0fd97e/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "GameBerry Studio"
+},
+{
+"id": "a2e251846f8c41f781972ee0c6ad42e7",
+"title": "Solitaire Farm Seasons 4",
+"iframe": "https://html5.gamedistribution.com/a2e251846f8c41f781972ee0c6ad42e7/",
+"description": "",
+"categories": ["Cards"],
+"creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
+},
+{
 "id": "a29d8240d69c4b39b954c698f83bc3f7",
 "title": "Sort And Style: Back To School",
 "iframe": "https://html5.gamedistribution.com/a29d8240d69c4b39b954c698f83bc3f7/",
 "description": "",
-"categories": [
-"Puzzle",
-"Dress-up"
-],
+"categories": ["Puzzle", "Dress-up"],
 "creator": "Gamerina"
 },
 {
@@ -16,9 +29,7 @@
 "title": "Sand Block Blast",
 "iframe": "https://html5.gamedistribution.com/a2329d5becb7463e89808bd94cd0910d/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GMG"
 },
 {
@@ -26,9 +37,7 @@
 "title": "Animal Bus Traffic Jam",
 "iframe": "https://html5.gamedistribution.com/a2b0f885254f4c69a1958cfc5f06c833/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "PuzzleGame.Com"
 },
 {
@@ -36,9 +45,7 @@
 "title": "Clash Crowd Game",
 "iframe": "https://html5.gamedistribution.com/a204ab90b6f641569b6d5f4b0f62072e/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Alpha Games"
 },
 {
@@ -46,9 +53,7 @@
 "title": "Yoga Master",
 "iframe": "https://html5.gamedistribution.com/a2b786db40474e8ba3961e76b9ca3b45/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Bravestars Games"
 },
 {
@@ -56,10 +61,7 @@
 "title": "Pim Path",
 "iframe": "https://html5.gamedistribution.com/a24eb8d75d164ee7bbf7b4ed909ee58c/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Starodymov Games"
 },
 {
@@ -67,10 +69,7 @@
 "title": "Float for Brainrots",
 "iframe": "https://html5.gamedistribution.com/a2b83c1a317c4eb0bffcc4ffcece5ef9/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "gameVgames"
 },
 {
@@ -78,9 +77,7 @@
 "title": "Puzzle Trails",
 "iframe": "https://html5.gamedistribution.com/a23bb7dc7ac24ca8914e0285824dc8ad/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Betik Bilişim"
 },
 {
@@ -88,10 +85,7 @@
 "title": "Landing Hero",
 "iframe": "https://html5.gamedistribution.com/a2c4c522271f4d7b88157101f847f9b2/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Pixelarry"
 }
 ]

@@ -1,14 +1,27 @@
 {
 "pages": [
 {
+"id": "15e9ad2ed46741fabb7a993e632e7d27",
+"title": "Badlands Hero",
+"iframe": "https://html5.gamedistribution.com/15e9ad2ed46741fabb7a993e632e7d27/",
+"description": "",
+"categories": ["Battle"],
+"creator": "Playgama"
+},
+{
+"id": "1544dc2afa2347f3ac231df18d80d614",
+"title": "Match-3: Dream Room",
+"iframe": "https://html5.gamedistribution.com/1544dc2afa2347f3ac231df18d80d614/",
+"description": "",
+"categories": ["Match-3"],
+"creator": "GamePush"
+},
+{
 "id": "15048dd9551c4585b05615ec8668332a",
 "title": "Shape Transforming: Shifting Run",
 "iframe": "https://html5.gamedistribution.com/15048dd9551c4585b05615ec8668332a/",
 "description": "",
-"categories": [
-"Racing & Driving",
-"Casual"
-],
+"categories": ["Racing & Driving", "Casual"],
 "creator": "Bravestars Games"
 },
 {
@@ -16,9 +29,7 @@
 "title": "Tung Tung Sahur in Geometry Dash",
 "iframe": "https://html5.gamedistribution.com/154a56fa76ec432eaebcdc1f3a1ce8ba/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Breymantech"
 },
 {
@@ -26,9 +37,7 @@
 "title": "Hero Transform Run",
 "iframe": "https://html5.gamedistribution.com/158143c3d8bb49a086f9d098c51a65cf/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Raccoon"
 },
 {
@@ -36,9 +45,7 @@
 "title": "Kings and Queens Match 3",
 "iframe": "https://html5.gamedistribution.com/15c88d1729174ebbae48fdd8e45d54e1/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 },
 {
@@ -46,9 +53,7 @@
 "title": "Bubble Pop Legend",
 "iframe": "https://html5.gamedistribution.com/1561f24d736b4bf292e0ae33059f909f/",
 "description": "",
-"categories": [
-"Bubble Shooter"
-],
+"categories": ["Bubble Shooter"],
 "creator": "Anna Inc"
 },
 {
@@ -56,9 +61,7 @@
 "title": "Cat vs Granny. Cat Simulator",
 "iframe": "https://html5.gamedistribution.com/15fe7ee1b55749d19d346f52df450388/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "MagicFox"
 },
 {
@@ -66,10 +69,7 @@
 "title": "Witchy Sisters – Relax Puzzle",
 "iframe": "https://html5.gamedistribution.com/155fcf825be24068b12da9a1127695d9/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "MorionStudio"
 }
 ]

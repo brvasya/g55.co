@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "4dfe529f898544ecab4d3682199bcaf5",
+"title": "Magic Princess: Dress Up Doll",
+"iframe": "https://html5.gamedistribution.com/4dfe529f898544ecab4d3682199bcaf5/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Bravestars Games"
+},
+{
+"id": "4d94e83aaa0a4f289716389500f8e0ee",
+"title": "Bubble Shooter GO",
+"iframe": "https://html5.gamedistribution.com/4d94e83aaa0a4f289716389500f8e0ee/",
+"description": "",
+"categories": ["Bubble Shooter"],
+"creator": "Bofer Media (Twim Studio)"
+},
+{
 "id": "4ddc9e3502334cfca08e06db4032f8ae",
 "title": "Cosmic Dash",
 "iframe": "https://html5.gamedistribution.com/4ddc9e3502334cfca08e06db4032f8ae/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Playgama"
 },
 {
@@ -15,10 +29,7 @@
 "title": "Ammo Rush Master",
 "iframe": "https://html5.gamedistribution.com/4d4a37a2047f42feb66e746959be9177/",
 "description": "",
-"categories": [
-"Shooter",
-"Casual"
-],
+"categories": ["Shooter", "Casual"],
 "creator": "Ultra Games Entertainment Private limited"
 },
 {
@@ -26,9 +37,7 @@
 "title": "Cake Link Master",
 "iframe": "https://html5.gamedistribution.com/4dda77818bd24826b46f6d8525fa55cd/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "Lof Games"
 },
 {
@@ -36,9 +45,7 @@
 "title": "Athena Match 2",
 "iframe": "https://html5.gamedistribution.com/4d700fb4689d48e2ad0f5072300cdb11/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 },
 {
@@ -46,9 +53,7 @@
 "title": "Gold Miner Classic",
 "iframe": "https://html5.gamedistribution.com/4d5f8d59dcf948ceac8cfda4178f3759/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "bestgames.com"
 },
 {
@@ -56,10 +61,7 @@
 "title": "Neon Gravity",
 "iframe": "https://html5.gamedistribution.com/4d1ff0a7d09b4efd8ef10adb9019db2e/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Half Blood Games"
 },
 {
@@ -67,9 +69,7 @@
 "title": "Bubble Match Merge",
 "iframe": "https://html5.gamedistribution.com/4d51ca78902f43a584d85e4d574ceee2/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "GamePush"
 }
 ]

@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "b86afb3a591e4892b0cc0a143c0ade4c",
+"title": "Catch The Pig",
+"iframe": "https://html5.gamedistribution.com/b86afb3a591e4892b0cc0a143c0ade4c/",
+"description": "",
+"categories": ["Casual"],
+"creator": "HeiTie"
+},
+{
+"id": "b843307a1eb74496a610283ed9ee1927",
+"title": "BFFs K-Pop Fangirls",
+"iframe": "https://html5.gamedistribution.com/b843307a1eb74496a610283ed9ee1927/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Gamerina"
+},
+{
 "id": "b8487b142c0d47c68de4e6ced1ab2801",
 "title": "Marble Puzzle Quest",
 "iframe": "https://html5.gamedistribution.com/b8487b142c0d47c68de4e6ced1ab2801/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -15,10 +29,7 @@
 "title": "ASMR Pet Treatment",
 "iframe": "https://html5.gamedistribution.com/b8075d28037148ec9764c96e3be18bfc/",
 "description": "",
-"categories": [
-"Care",
-"Dress-up"
-],
+"categories": ["Care", "Dress-up"],
 "creator": "iclickgames"
 },
 {
@@ -26,10 +37,7 @@
 "title": "Mindblow",
 "iframe": "https://html5.gamedistribution.com/b8419951885944a1933a1ad6ddee7dbc/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Playgama"
 },
 {
@@ -37,9 +45,7 @@
 "title": "Small Wardrobe",
 "iframe": "https://html5.gamedistribution.com/b87d87d8b9954adf92f0aae4b9f28290/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "Yizhiyuan Network Technology Co., Ltd."
 },
 {
@@ -47,9 +53,7 @@
 "title": "Battle Racing Stars",
 "iframe": "https://html5.gamedistribution.com/b8cf1cc516e14f4b8e7cb3119cdfcec6/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "Yes2Games"
 }
 ]

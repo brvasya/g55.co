@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "9ed62cd6263649b08d9f6c44ac60846e",
+"title": "Grand Mahjong",
+"iframe": "https://html5.gamedistribution.com/9ed62cd6263649b08d9f6c44ac60846e/",
+"description": "",
+"categories": ["Mahjong & Connect"],
+"creator": "GameBerry Studio"
+},
+{
+"id": "9ebebcbe06ab48ec812215c3306a766a",
+"title": "Shanghai Chef",
+"iframe": "https://html5.gamedistribution.com/9ebebcbe06ab48ec812215c3306a766a/",
+"description": "",
+"categories": ["Casual"],
+"creator": "MOVISOFT.Co.,Ltd"
+},
+{
 "id": "9e073556f53549909374d94d231f828e",
 "title": "Dreamy Home",
 "iframe": "https://html5.gamedistribution.com/9e073556f53549909374d94d231f828e/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GamePush"
 },
 {
@@ -15,9 +29,7 @@
 "title": "Tangram Puzzle",
 "iframe": "https://html5.gamedistribution.com/9e6ee9155938464982bd55e2338b74e1/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -25,10 +37,7 @@
 "title": "Flower Shop",
 "iframe": "https://html5.gamedistribution.com/9e22007bdf4940b5a6bf2addd9e2fed6/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Synk Inc."
 },
 {
@@ -36,9 +45,7 @@
 "title": "Steal Brainrot Monsters!",
 "iframe": "https://html5.gamedistribution.com/9ece082e461e4216a0d7b2a38f0a95ad/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GamePush"
 },
 {
@@ -46,9 +53,7 @@
 "title": "Popping Candies",
 "iframe": "https://html5.gamedistribution.com/9e025535bdda42b584e24aa0a503e7d3/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "Playgama"
 },
 {
@@ -56,9 +61,7 @@
 "title": "Knit Rescue",
 "iframe": "https://html5.gamedistribution.com/9e6715da90154d94b29dbd21f8258873/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -66,10 +69,7 @@
 "title": "Football Penalty 2026",
 "iframe": "https://html5.gamedistribution.com/9e0857a030cf4c1f821af4b359a870fe/",
 "description": "",
-"categories": [
-"Football",
-"Casual"
-],
+"categories": ["Football", "Casual"],
 "creator": "Inlogic Software"
 }
 ]

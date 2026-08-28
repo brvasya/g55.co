@@ -1,14 +1,35 @@
 {
 "pages": [
 {
+"id": "b6f75014f7544f5eaca74d648e8a523f",
+"title": "Style Icons: 2024 Rewind Edition",
+"iframe": "https://html5.gamedistribution.com/b6f75014f7544f5eaca74d648e8a523f/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Gamerina"
+},
+{
+"id": "b6b0c86bd4f643c29b440f4392eb1fd9",
+"title": "Tung Tung Sagur: Clicker",
+"iframe": "https://html5.gamedistribution.com/b6b0c86bd4f643c29b440f4392eb1fd9/",
+"description": "",
+"categories": ["Casual"],
+"creator": "Maksim Popov"
+},
+{
+"id": "b677b7433216410c9de719c35fc14440",
+"title": "Oil Digging",
+"iframe": "https://html5.gamedistribution.com/b677b7433216410c9de719c35fc14440/",
+"description": "",
+"categories": ["Simulation"],
+"creator": "Kwalee"
+},
+{
 "id": "b6a6a26c7c69491eaac77a4d69f5d973",
 "title": "Through the Wall 3D",
 "iframe": "https://html5.gamedistribution.com/b6a6a26c7c69491eaac77a4d69f5d973/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -16,9 +37,7 @@
 "title": "Zombie Horde: Build & Survive",
 "iframe": "https://html5.gamedistribution.com/b6b0c354a8914a4892c719de3c978537/",
 "description": "",
-"categories": [
-"Shooter"
-],
+"categories": ["Shooter"],
 "creator": "Playgama"
 },
 {
@@ -26,10 +45,7 @@
 "title": "Word Search Universe",
 "iframe": "https://html5.gamedistribution.com/b660d10d6c124922babb5d9e7bf29133/",
 "description": "",
-"categories": [
-"Puzzle",
-"Educational"
-],
+"categories": ["Puzzle", "Educational"],
 "creator": "Lof Games"
 },
 {
@@ -37,9 +53,7 @@
 "title": "Ping Pong Air",
 "iframe": "https://html5.gamedistribution.com/b64c9ff2281d4c4c8a5c8c0c9e2da004/",
 "description": "",
-"categories": [
-"Sports"
-],
+"categories": ["Sports"],
 "creator": "GamePush"
 },
 {
@@ -47,9 +61,7 @@
 "title": "Ayla World Princess life",
 "iframe": "https://html5.gamedistribution.com/b669b89f311c4cecab7f740a744484da/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "Yiv.Com"
 },
 {
@@ -57,9 +69,7 @@
 "title": "Cute Farm Match Puzzle",
 "iframe": "https://html5.gamedistribution.com/b632f14dd1384b3f859911ec92d0cad1/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "PuzzleGame.Com"
 }
 ]

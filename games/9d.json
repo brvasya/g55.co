@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "9da40c9b342846f99339b7c4c8a428b7",
+"title": "Air Strike 2D",
+"iframe": "https://html5.gamedistribution.com/9da40c9b342846f99339b7c4c8a428b7/",
+"description": "",
+"categories": ["Shooter", "Battle"],
+"creator": "7thReactor"
+},
+{
 "id": "9dd243c7b2a243e4b9a7f92a23120c45",
 "title": "Brawl Stars Brave Adventure",
 "iframe": "https://html5.gamedistribution.com/9dd243c7b2a243e4b9a7f92a23120c45/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "YAD.Com"
 },
 {
@@ -15,10 +21,7 @@
 "title": "Mr Long Hand",
 "iframe": "https://html5.gamedistribution.com/9d73154af21641cd9616d94bcd284a33/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -26,10 +29,7 @@
 "title": "Noob: Jailbreak 2",
 "iframe": "https://html5.gamedistribution.com/9d733cf5dd3f449f9cf2345020a63987/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Stickman vs Monster School Team"
 },
 {
@@ -37,9 +37,7 @@
 "title": "Nuwpy's Adventure",
 "iframe": "https://html5.gamedistribution.com/9de57f3906034545b9d539588be77914/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GameBerry Studio"
 },
 {
@@ -47,9 +45,7 @@
 "title": "Dreams",
 "iframe": "https://html5.gamedistribution.com/9df24d5f84454c13b6ff0c4b3f01f3aa/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Noora"
 },
 {
@@ -57,9 +53,7 @@
 "title": "Capybara Block Blast",
 "iframe": "https://html5.gamedistribution.com/9d02893a1314432eaf578c18cc00c63a/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Orenji Spark"
 },
 {
@@ -67,9 +61,7 @@
 "title": "Monster Squad Rush",
 "iframe": "https://html5.gamedistribution.com/9dd0094f9a864db89ca7edaf6d2d96b9/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "TapNation"
 },
 {
@@ -77,9 +69,7 @@
 "title": "Dog Merge Mania",
 "iframe": "https://html5.gamedistribution.com/9d9694084c2e4985bb9c46e73fe02f52/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "CheesecakeGames"
 },
 {
@@ -87,9 +77,7 @@
 "title": "Belote 3in1",
 "iframe": "https://html5.gamedistribution.com/9dc3a58253534d52ad8be29b14c86fa9/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "Playades International LLC"
 },
 {
@@ -97,9 +85,7 @@
 "title": "Cookie Land 2: Sweet Hearts",
 "iframe": "https://html5.gamedistribution.com/9d8ebc3913914a6f87c44cc504f2e4d0/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 }
 ]

@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "781de2c6df0347f3ad830f64126cb3a1",
+"title": "Italian Brainrot Puzzle",
+"iframe": "https://html5.gamedistribution.com/781de2c6df0347f3ad830f64126cb3a1/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "New Kids Games"
+},
+{
 "id": "78028efd6f3f42568f88cb90ab29c4a5",
 "title": "Fruitsland: Escape from the Amusement Park",
 "iframe": "https://html5.gamedistribution.com/78028efd6f3f42568f88cb90ab29c4a5/",
 "description": "",
-"categories": [
-"Adventure",
-"Puzzle"
-],
+"categories": ["Adventure", "Puzzle"],
 "creator": "Playgama"
 },
 {
@@ -16,9 +21,7 @@
 "title": "Grunge Chic Alt Fashion",
 "iframe": "https://html5.gamedistribution.com/78eb21dc67c744fe8ae7fcf97a69d868/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "Cutedressup"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Taylor Dress Studio Preppy & Wild West & Glam",
 "iframe": "https://html5.gamedistribution.com/789ee491ecd94e05b58b0b6a4ce45083/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "DL-studio"
 },
 {
@@ -36,10 +37,7 @@
 "title": "Royal Pin",
 "iframe": "https://html5.gamedistribution.com/780bdf6c7e3244ed9237d175f6c099db/",
 "description": "",
-"categories": [
-"Adventure",
-"Puzzle"
-],
+"categories": ["Adventure", "Puzzle"],
 "creator": "Gamee JSC"
 },
 {
@@ -47,9 +45,7 @@
 "title": "Bubble Shooter Vale",
 "iframe": "https://html5.gamedistribution.com/7801fdfb4dd24e72a8c9d663a973472f/",
 "description": "",
-"categories": [
-"Bubble Shooter"
-],
+"categories": ["Bubble Shooter"],
 "creator": "Lof Games"
 },
 {
@@ -57,10 +53,7 @@
 "title": "Variety Mecha",
 "iframe": "https://html5.gamedistribution.com/7823b9ae6a444f37ac8db2f919eecdaf/",
 "description": "",
-"categories": [
-"Shooter",
-"Battle"
-],
+"categories": ["Shooter", "Battle"],
 "creator": "YAD.Com"
 },
 {
@@ -68,9 +61,7 @@
 "title": "Mountain Bus Driver",
 "iframe": "https://html5.gamedistribution.com/78056fce3de343b4bdebeaece5a65ad7/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "Instant Games Studio"
 }
 ]

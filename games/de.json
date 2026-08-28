@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "dec78e8b416948f19832618a64afb0d7",
+"title": "CS: Chaos Squad",
+"iframe": "https://html5.gamedistribution.com/dec78e8b416948f19832618a64afb0d7/",
+"description": "",
+"categories": ["Shooter"],
+"creator": "GamePush"
+},
+{
 "id": "de39260e780f439daa9d9573a4723519",
 "title": "Emergency Jam",
 "iframe": "https://html5.gamedistribution.com/de39260e780f439daa9d9573a4723519/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Inlogic Software"
 },
 {
@@ -16,10 +21,7 @@
 "title": "Hidden Object - Girl and Cat",
 "iframe": "https://html5.gamedistribution.com/dee3caf78302400c9c9252dddbadff31/",
 "description": "",
-"categories": [
-"Adventure",
-"Puzzle"
-],
+"categories": ["Adventure", "Puzzle"],
 "creator": "Starodymov Games"
 },
 {
@@ -27,9 +29,7 @@
 "title": "Traffic Tap Survival",
 "iframe": "https://html5.gamedistribution.com/dee2113b932e40c69a09dc03e9cea275/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -37,9 +37,7 @@
 "title": "Hard Puzzle",
 "iframe": "https://html5.gamedistribution.com/de35402342e2480f824b75e44f7ac5ba/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Playgama"
 },
 {
@@ -47,10 +45,7 @@
 "title": "Hidden Paint 3D",
 "iframe": "https://html5.gamedistribution.com/ded22a933ac34909a6f1029abebb8408/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Playgama"
 }
 ]

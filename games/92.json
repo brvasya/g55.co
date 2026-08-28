@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "92dc7a1c6881400cb46400633a0ba02d",
+"title": "Mahjong Four Rivers",
+"iframe": "https://html5.gamedistribution.com/92dc7a1c6881400cb46400633a0ba02d/",
+"description": "",
+"categories": ["Cards", "Mahjong & Connect"],
+"creator": "Playgama"
+},
+{
 "id": "925c6df6384146109bc36e0819ea3e02",
 "title": "Perfect Job Run",
 "iframe": "https://html5.gamedistribution.com/925c6df6384146109bc36e0819ea3e02/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "bestgames.com"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Moscow Metro Driver 3D",
 "iframe": "https://html5.gamedistribution.com/92024a65afee401793188351ae69f54f/",
 "description": "",
-"categories": [
-"Simulation"
-],
+"categories": ["Simulation"],
 "creator": "GamePush"
 },
 {
@@ -25,10 +29,7 @@
 "title": "Noob vs Zombie Apocalypse: shooting pro",
 "iframe": "https://html5.gamedistribution.com/92e2ea1340a4401bbec402925a611e76/",
 "description": "",
-"categories": [
-"Shooter",
-"Casual"
-],
+"categories": ["Shooter", "Casual"],
 "creator": "Stickman vs Monster School Team"
 },
 {
@@ -36,9 +37,7 @@
 "title": "Obby Yard Sale",
 "iframe": "https://html5.gamedistribution.com/92245cd524f44468bffc0b790f855e80/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Mirra Games"
 },
 {
@@ -46,10 +45,7 @@
 "title": "Slinger Block",
 "iframe": "https://html5.gamedistribution.com/9258db94e74a4c979dcfa1d4e5bc57e5/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Playgama"
 },
 {
@@ -57,9 +53,7 @@
 "title": "Bubble Shooter Vintage",
 "iframe": "https://html5.gamedistribution.com/92f19fdd8fe24ff18cfb3a07799c7114/",
 "description": "",
-"categories": [
-"Bubble Shooter"
-],
+"categories": ["Bubble Shooter"],
 "creator": "PHATCAT Games Ltd"
 },
 {
@@ -67,9 +61,7 @@
 "title": "Grand Mahjong Connect",
 "iframe": "https://html5.gamedistribution.com/92211d47448849d189bbc32d0d4d8f6f/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "GameBerry Studio"
 }
 ]

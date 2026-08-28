@@ -1,14 +1,43 @@
 {
 "pages": [
 {
+"id": "a05999d05dec449887e6a7144545665d",
+"title": "Stick Hero Fight",
+"iframe": "https://html5.gamedistribution.com/a05999d05dec449887e6a7144545665d/",
+"description": "",
+"categories": ["Battle"],
+"creator": "Online Games"
+},
+{
+"id": "a08dc120b3864dc19d4fc36e5bed5210",
+"title": "Chill Clicker",
+"iframe": "https://html5.gamedistribution.com/a08dc120b3864dc19d4fc36e5bed5210/",
+"description": "",
+"categories": ["Adventure"],
+"creator": "GM - Good Media"
+},
+{
+"id": "a0b3255d780941f49f93f93f75558488",
+"title": "Cryptogram: Word Brain Puzzle",
+"iframe": "https://html5.gamedistribution.com/a0b3255d780941f49f93f93f75558488/",
+"description": "",
+"categories": ["Puzzle", "Educational"],
+"creator": "Joyteractive Limited"
+},
+{
+"id": "a0659e218120468a85ce8120de78efe3",
+"title": "Logic Blast Explorer",
+"iframe": "https://html5.gamedistribution.com/a0659e218120468a85ce8120de78efe3/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "CheesecakeGames"
+},
+{
 "id": "a0ca95e726b241f2817b028bdb32ea2a",
 "title": "Blox Fruits",
 "iframe": "https://html5.gamedistribution.com/a0ca95e726b241f2817b028bdb32ea2a/",
 "description": "",
-"categories": [
-"Adventure",
-"Battle"
-],
+"categories": ["Adventure", "Battle"],
 "creator": "2Play"
 },
 {
@@ -16,9 +45,7 @@
 "title": "Wood Block Puzzle 3",
 "iframe": "https://html5.gamedistribution.com/a00735b23bde40798cfc095745212754/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 },
 {
@@ -26,9 +53,7 @@
 "title": "Superheroes and the Wand",
 "iframe": "https://html5.gamedistribution.com/a0e71a6336ed4173b09cc76d1a3ef4a2/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "Starodymov Games"
 },
 {
@@ -36,9 +61,7 @@
 "title": "Zindex",
 "iframe": "https://html5.gamedistribution.com/a084e6ab82f9420bbe89bbe5c1b150fc/",
 "description": "",
-"categories": [
-"Shooter"
-],
+"categories": ["Shooter"],
 "creator": "Mirra Games"
 },
 {
@@ -46,10 +69,7 @@
 "title": "Dino Hunter King",
 "iframe": "https://html5.gamedistribution.com/a0dc9b2fcdb442faaaed550554ee370d/",
 "description": "",
-"categories": [
-"Adventure",
-"Simulation"
-],
+"categories": ["Adventure", "Simulation"],
 "creator": "bestgames.com"
 },
 {
@@ -57,9 +77,7 @@
 "title": "Wonders of Egypt Match 2",
 "iframe": "https://html5.gamedistribution.com/a0e5bca215a34a5cac9fb123a42d34a0/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 },
 {
@@ -67,10 +85,7 @@
 "title": "Bears vs. Art",
 "iframe": "https://html5.gamedistribution.com/a0cd025397ff4b23ba3879e8da7936b2/",
 "description": "",
-"categories": [
-"Puzzle",
-"Strategy"
-],
+"categories": ["Puzzle", "Strategy"],
 "creator": "Yes2Games"
 }
 ]

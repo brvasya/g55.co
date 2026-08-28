@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "7d0574417a0d4c158b4d6e381f1c4a3e",
+"title": "Commando Force 2",
+"iframe": "https://html5.gamedistribution.com/7d0574417a0d4c158b4d6e381f1c4a3e/",
+"description": "",
+"categories": ["Shooter"],
+"creator": "LUCKY TRY"
+},
+{
+"id": "7dfb4b59d3a34dfca8fed13c6eb0f174",
+"title": "Brainrot-A Difference Challenge",
+"iframe": "https://html5.gamedistribution.com/7dfb4b59d3a34dfca8fed13c6eb0f174/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "Lof Games"
+},
+{
 "id": "7d557c57bcf84ef0a1bd65bd224a2306",
 "title": "Color Yarn Sort",
 "iframe": "https://html5.gamedistribution.com/7d557c57bcf84ef0a1bd65bd224a2306/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Bravestars Games"
 },
 {
@@ -15,10 +29,7 @@
 "title": "Archery Master - Bow and Arrow",
 "iframe": "https://html5.gamedistribution.com/7d11673fe1224713984cee86d2ba3bca/",
 "description": "",
-"categories": [
-"Shooter",
-"Sports"
-],
+"categories": ["Shooter", "Sports"],
 "creator": "takemesomewherenice"
 },
 {
@@ -26,9 +37,7 @@
 "title": "Asylum: Baldi Granny Slender",
 "iframe": "https://html5.gamedistribution.com/7d506f1931fc46c59714305fbd9ae056/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "Starodymov Games"
 },
 {
@@ -36,10 +45,7 @@
 "title": "Jewels Coloring Puzzle",
 "iframe": "https://html5.gamedistribution.com/7d3dc4230c904feda6b08f0bc87cb4ba/",
 "description": "",
-"categories": [
-"Puzzle",
-"Art"
-],
+"categories": ["Puzzle", "Art"],
 "creator": "PuzzleGame.Com"
 }
 ]

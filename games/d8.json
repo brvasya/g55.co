@@ -1,13 +1,35 @@
 {
 "pages": [
 {
+"id": "d8c6283bc0e6487681f237dca7dd6b89",
+"title": "Sweet And Fruity Makeup",
+"iframe": "https://html5.gamedistribution.com/d8c6283bc0e6487681f237dca7dd6b89/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Gamerina"
+},
+{
+"id": "d8a7d775a22146d083177953a5f44f68",
+"title": "Bubble Shooter Ultimate",
+"iframe": "https://html5.gamedistribution.com/d8a7d775a22146d083177953a5f44f68/",
+"description": "",
+"categories": ["Bubble Shooter"],
+"creator": "Bubble Shooter"
+},
+{
+"id": "d8ef72cbd75243eca9a8f5a563827a82",
+"title": "Sprunki Match",
+"iframe": "https://html5.gamedistribution.com/d8ef72cbd75243eca9a8f5a563827a82/",
+"description": "",
+"categories": ["Puzzle", "Educational"],
+"creator": "AF"
+},
+{
 "id": "d8d3f8a172ed4ef8aca904005e9d14a8",
 "title": "Labubu Pop",
 "iframe": "https://html5.gamedistribution.com/d8d3f8a172ed4ef8aca904005e9d14a8/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "GameBerry Studio"
 },
 {
@@ -15,10 +37,7 @@
 "title": "3D Chess Master",
 "iframe": "https://html5.gamedistribution.com/d8dea5d83d1c4132a119fabedbc60bd6/",
 "description": "",
-"categories": [
-"Boardgames",
-"Strategy"
-],
+"categories": ["Boardgames", "Strategy"],
 "creator": "8Games.Net"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Italian Animal Alchemy - Brainrot",
 "iframe": "https://html5.gamedistribution.com/d8819c05f45b46a7980cf7fce4114a02/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Mirra Games"
 },
 {
@@ -36,9 +53,7 @@
 "title": "Age of Zombies",
 "iframe": "https://html5.gamedistribution.com/d82128fba97f4bac9afa5ae9e73ab362/",
 "description": "",
-"categories": [
-"Shooter"
-],
+"categories": ["Shooter"],
 "creator": "Yes2Games"
 },
 {
@@ -46,9 +61,7 @@
 "title": "Portal Hop",
 "iframe": "https://html5.gamedistribution.com/d83a6203efec418084fc93da189e0abb/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Kankane Games"
 },
 {
@@ -56,9 +69,7 @@
 "title": "Solitaire Summer: Klondike",
 "iframe": "https://html5.gamedistribution.com/d882b7ce8c7145c5b20bef128bd2fabf/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "Playades International LLC"
 }
 ]

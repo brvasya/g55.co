@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "45ee0f9898f8401c8961ff506e88fbe0",
+"title": "Sudoku Garden",
+"iframe": "https://html5.gamedistribution.com/45ee0f9898f8401c8961ff506e88fbe0/",
+"description": "",
+"categories": ["Puzzle", "Quiz"],
+"creator": "Guangzhou Yomitoo Network Technology Co., Ltd."
+},
+{
 "id": "4563680ee85c4a4c8d89744bbb6cff27",
 "title": "Hide Ball",
 "iframe": "https://html5.gamedistribution.com/4563680ee85c4a4c8d89744bbb6cff27/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -15,10 +21,7 @@
 "title": "Geometry Rush",
 "iframe": "https://html5.gamedistribution.com/45c5530f8d3f40cdbdf6c68a85e27685/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "Inlogic Software"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Color Nonogram Puzzle 2",
 "iframe": "https://html5.gamedistribution.com/45f8e712bb594235bc4e21ac023868aa/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GMG"
 },
 {
@@ -36,10 +37,7 @@
 "title": "Steal Brainrot Arena",
 "iframe": "https://html5.gamedistribution.com/4592e84523ad49a8b80986c3aa503429/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "CursoraLabs"
 },
 {
@@ -47,9 +45,7 @@
 "title": "Russian Derby Crash",
 "iframe": "https://html5.gamedistribution.com/4584cc228f514e2d92af7c7c855f1c79/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "GamePush"
 },
 {
@@ -57,9 +53,7 @@
 "title": "Busy Bee Hive",
 "iframe": "https://html5.gamedistribution.com/45485e55d89b4180b7d9c56f7da15f89/",
 "description": "",
-"categories": [
-"Simulation"
-],
+"categories": ["Simulation"],
 "creator": "Pavel Beke"
 }
 ]

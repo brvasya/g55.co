@@ -1,14 +1,27 @@
 {
 "pages": [
 {
+"id": "e4b0a04981724e6796ed96f7866ac756",
+"title": "Colors pins",
+"iframe": "https://html5.gamedistribution.com/e4b0a04981724e6796ed96f7866ac756/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "GamePush"
+},
+{
+"id": "e4f91cbf673c4392ac833f4ce2a14c9b",
+"title": "Stickman Mega Boss: Battles!",
+"iframe": "https://html5.gamedistribution.com/e4f91cbf673c4392ac833f4ce2a14c9b/",
+"description": "",
+"categories": ["Agility", "Casual"],
+"creator": "GamePush"
+},
+{
 "id": "e4f7741da98c4a96b04c20f142761a89",
 "title": "Coe Rabbit",
 "iframe": "https://html5.gamedistribution.com/e4f7741da98c4a96b04c20f142761a89/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Newness Games"
 },
 {
@@ -16,9 +29,7 @@
 "title": "Sid & Ginny Y2K Glam Clash",
 "iframe": "https://html5.gamedistribution.com/e49735c5f31d42ca9403e7af7cac3723/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "DL-studio"
 },
 {
@@ -26,9 +37,7 @@
 "title": "Meme Myth:Wukong",
 "iframe": "https://html5.gamedistribution.com/e4af90c070cf499da371b44232a6aaca/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Big Wave"
 },
 {
@@ -36,9 +45,7 @@
 "title": "Happy Fruit Link",
 "iframe": "https://html5.gamedistribution.com/e425eddbec9c4ac985a65443aa515a74/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "Lof Games"
 },
 {
@@ -46,10 +53,7 @@
 "title": "Sniper for Brainrot",
 "iframe": "https://html5.gamedistribution.com/e41aeb486db5460c972b56afe000e727/",
 "description": "",
-"categories": [
-"Shooter",
-"Casual"
-],
+"categories": ["Shooter", "Casual"],
 "creator": "gameVgames"
 }
 ]

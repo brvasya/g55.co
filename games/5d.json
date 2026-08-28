@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "5d31bdf102894e0fa74add0967aaa29a",
+"title": "Suitable Outfit Dressup",
+"iframe": "https://html5.gamedistribution.com/5d31bdf102894e0fa74add0967aaa29a/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Yiv.Com"
+},
+{
 "id": "5daeb7a5fdb7489ab0e1bf821e5e6db3",
 "title": "SNAKES",
 "iframe": "https://html5.gamedistribution.com/5daeb7a5fdb7489ab0e1bf821e5e6db3/",
 "description": "",
-"categories": [
-"Puzzle",
-"Strategy"
-],
+"categories": ["Puzzle", "Strategy"],
 "creator": "Playgama"
 },
 {
@@ -16,10 +21,7 @@
 "title": "Sort Tiles",
 "iframe": "https://html5.gamedistribution.com/5d6e368f1b55466aa897cb7f0c67419c/",
 "description": "",
-"categories": [
-"Puzzle",
-"Strategy"
-],
+"categories": ["Puzzle", "Strategy"],
 "creator": "Clever Apps Pte. Ltd."
 },
 {
@@ -27,9 +29,7 @@
 "title": "Number Rush",
 "iframe": "https://html5.gamedistribution.com/5db477a1d2394f7a8e82512ca57b5959/",
 "description": "",
-"categories": [
-"Agility"
-],
+"categories": ["Agility"],
 "creator": "MOVISOFT.Co.,Ltd"
 },
 {
@@ -37,10 +37,7 @@
 "title": "Tailor Stylist: Fashion Diary",
 "iframe": "https://html5.gamedistribution.com/5dddc7c662d64008b4ba338bb73c4df4/",
 "description": "",
-"categories": [
-"Casual",
-"Dress-up"
-],
+"categories": ["Casual", "Dress-up"],
 "creator": "Bravestars Games"
 },
 {
@@ -48,10 +45,7 @@
 "title": "Pet Doctor Business Tycoon-Pet care game",
 "iframe": "https://html5.gamedistribution.com/5dcc973d39bc454d94c8cb4da383f64e/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "minigame"
 },
 {
@@ -59,9 +53,7 @@
 "title": "Fallling Jewels",
 "iframe": "https://html5.gamedistribution.com/5dc9d72665e540619e3fa741124e7462/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Tweensoft"
 },
 {
@@ -69,9 +61,7 @@
 "title": "Bubble Blasters",
 "iframe": "https://html5.gamedistribution.com/5d8d11e9919245939a57378a02b8fc8b/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "Big Wave"
 },
 {
@@ -79,9 +69,7 @@
 "title": "VegaMix2 Wild West",
 "iframe": "https://html5.gamedistribution.com/5dacb929d51f4836b46434db5e846cca/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "Broccoli Games"
 }
 ]

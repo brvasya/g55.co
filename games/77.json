@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "7767d7e25d6b4995aa519afa2a5b2ec5",
+"title": "Tap To Color: Painting Book",
+"iframe": "https://html5.gamedistribution.com/7767d7e25d6b4995aa519afa2a5b2ec5/",
+"description": "",
+"categories": ["Casual"],
+"creator": "Bravestars Games"
+},
+{
 "id": "777ff7ea90e8415cacadcfcfbd175cac",
 "title": "Eat Donuts",
 "iframe": "https://html5.gamedistribution.com/777ff7ea90e8415cacadcfcfbd175cac/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "SecGame"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Merge Fruit",
 "iframe": "https://html5.gamedistribution.com/772fcd315c84429e8846e47ef61b9bd7/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "Albayoo"
 },
 {
@@ -25,9 +29,7 @@
 "title": "Arrow Count Master",
 "iframe": "https://html5.gamedistribution.com/77183764be80432a90acd34174f4dade/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Raccoon"
 },
 {
@@ -35,9 +37,7 @@
 "title": "GenFire",
 "iframe": "https://html5.gamedistribution.com/77958ea5d573469e867c16c5f7e0e6d8/",
 "description": "",
-"categories": [
-"Shooter"
-],
+"categories": ["Shooter"],
 "creator": "Erman Games"
 }
 ]

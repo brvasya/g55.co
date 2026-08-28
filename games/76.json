@@ -1,14 +1,35 @@
 {
 "pages": [
 {
+"id": "761169e0288b433f8f8ddcd27da627e5",
+"title": "Graduation Makeup Trends",
+"iframe": "https://html5.gamedistribution.com/761169e0288b433f8f8ddcd27da627e5/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Gamerina"
+},
+{
+"id": "763004a542884fe4b20dc7d12e1ca0f9",
+"title": "Kitkat Puzzle",
+"iframe": "https://html5.gamedistribution.com/763004a542884fe4b20dc7d12e1ca0f9/",
+"description": "",
+"categories": ["Puzzle", "Casual"],
+"creator": "Tiny Castle Studio"
+},
+{
+"id": "76368ba51f3244bd8fa0697a6176113c",
+"title": "Easter Style Junction Egg Hunt Extravaganza",
+"iframe": "https://html5.gamedistribution.com/76368ba51f3244bd8fa0697a6176113c/",
+"description": "",
+"categories": ["Puzzle", "Dress-up"],
+"creator": "CGSpot"
+},
+{
 "id": "76133065a48d4dcc9be76ef2ca336713",
 "title": "Dudu Engineering Truck",
 "iframe": "https://html5.gamedistribution.com/76133065a48d4dcc9be76ef2ca336713/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Yiv.Com"
 },
 {
@@ -16,9 +37,7 @@
 "title": "Tricky Challenges: Mini Games",
 "iframe": "https://html5.gamedistribution.com/760aa10dee0d47d085b0d8c80d185548/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Welwise Studio"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Magic and Wizards Mahjong",
 "iframe": "https://html5.gamedistribution.com/769f3b2834b94b7ea57a8aa899d93272/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 },
 {
@@ -36,9 +53,7 @@
 "title": "Rock Crawling",
 "iframe": "https://html5.gamedistribution.com/76f026c1a1054c38b62a350e7bed02bc/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "StoreRider"
 },
 {
@@ -46,9 +61,7 @@
 "title": "Farm Defense",
 "iframe": "https://html5.gamedistribution.com/76cb341b58a3465a9f81ab38033e8665/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GameBerry Studio"
 },
 {
@@ -56,9 +69,7 @@
 "title": "Island Puzzle: Build & Solve",
 "iframe": "https://html5.gamedistribution.com/76d407a8d2144486832787fc2e47ca95/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "AnonyMonkeys"
 },
 {
@@ -66,9 +77,7 @@
 "title": "Winter Wonderland Mahjong",
 "iframe": "https://html5.gamedistribution.com/76c614d8563843d1853f7628eabf69b3/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
 },
 {
@@ -76,10 +85,7 @@
 "title": "Battle Arena",
 "iframe": "https://html5.gamedistribution.com/76438cf40e0d4db29e84c9935cbd97fa/",
 "description": "",
-"categories": [
-"Shooter",
-"Battle"
-],
+"categories": ["Shooter", "Battle"],
 "creator": "NISHAD_Games"
 },
 {
@@ -87,9 +93,7 @@
 "title": "Hole Puzzle",
 "iframe": "https://html5.gamedistribution.com/7697f626f5224cb284cf463ce1275495/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GameBerry Studio"
 }
 ]

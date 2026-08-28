@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "698157ec8128471e91e2f32e4bc350ee",
+"title": "Catch The Goose",
+"iframe": "https://html5.gamedistribution.com/698157ec8128471e91e2f32e4bc350ee/",
+"description": "",
+"categories": ["Match-3", "Merge"],
+"creator": "HolaStudio"
+},
+{
+"id": "69d597a6c1b74260972d943f2908c2f2",
+"title": "Perfect Asmr Cleaning",
+"iframe": "https://html5.gamedistribution.com/69d597a6c1b74260972d943f2908c2f2/",
+"description": "",
+"categories": ["Simulation"],
+"creator": "Yiv.Com"
+},
+{
 "id": "69953734f7b945618a0479a3db329c8e",
 "title": "Color Hoop Sort",
 "iframe": "https://html5.gamedistribution.com/69953734f7b945618a0479a3db329c8e/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "s1interactivestudio"
 },
 {
@@ -15,9 +29,7 @@
 "title": "Back To School: Uniforms Edition",
 "iframe": "https://html5.gamedistribution.com/69c74bfda0034c2bb724484d5a5876bd/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "Gamerina"
 },
 {
@@ -25,10 +37,7 @@
 "title": "Magical Diary: Paper Dress Up",
 "iframe": "https://html5.gamedistribution.com/6952bddd01eb47c6b11446844b483c32/",
 "description": "",
-"categories": [
-"Casual",
-"Dress-up"
-],
+"categories": ["Casual", "Dress-up"],
 "creator": "Bravestars Games"
 },
 {
@@ -36,9 +45,7 @@
 "title": "Tiny Baker Ocean Jelly Cake",
 "iframe": "https://html5.gamedistribution.com/69d27d0c48e74ee097104e4f6f6ddea5/",
 "description": "",
-"categories": [
-"Cooking"
-],
+"categories": ["Cooking"],
 "creator": "iclickgames"
 },
 {
@@ -46,9 +53,7 @@
 "title": "Winter Solitaire TriPeaks",
 "iframe": "https://html5.gamedistribution.com/69b2f560952c40de9fe5cc459eb02bfa/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "Mad Data"
 },
 {
@@ -56,10 +61,7 @@
 "title": "Coin Color Sort",
 "iframe": "https://html5.gamedistribution.com/6993cdc57b0f4255b17138325434c4ee/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Playgama"
 },
 {
@@ -67,9 +69,7 @@
 "title": "Animal Racing Idle Park",
 "iframe": "https://html5.gamedistribution.com/6949c2adc8c64879bf9676109eb9bfea/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "bestgames.com"
 },
 {
@@ -77,9 +77,7 @@
 "title": "Space Cleaner",
 "iframe": "https://html5.gamedistribution.com/69507828a2d441b781740ecff532057a/",
 "description": "",
-"categories": [
-"Simulation"
-],
+"categories": ["Simulation"],
 "creator": "Mewton Games"
 },
 {
@@ -87,10 +85,7 @@
 "title": "Idle Vlogger Simulator",
 "iframe": "https://html5.gamedistribution.com/691de0022ff340a4ba95685979b14a97/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "GamePush"
 },
 {
@@ -98,10 +93,7 @@
 "title": "Crystal Circuit",
 "iframe": "https://html5.gamedistribution.com/69b4ae7c503c41a993f9181ba7dd58ba/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "MythMash"
 }
 ]

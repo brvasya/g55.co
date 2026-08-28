@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "9bb23e5f7308446b9f99d2d17403a0cc",
+"title": "Pet Tile Master",
+"iframe": "https://html5.gamedistribution.com/9bb23e5f7308446b9f99d2d17403a0cc/",
+"description": "",
+"categories": ["Mahjong & Connect"],
+"creator": "Lof Games"
+},
+{
 "id": "9bde41f232834eff9ea81554ecee8279",
 "title": "Moto Traffic Rider",
 "iframe": "https://html5.gamedistribution.com/9bde41f232834eff9ea81554ecee8279/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "Fuego! Games"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Robberies 3D",
 "iframe": "https://html5.gamedistribution.com/9b3289d868c942fab5ae19c0ae219f57/",
 "description": "",
-"categories": [
-"Shooter"
-],
+"categories": ["Shooter"],
 "creator": "GamePush"
 },
 {
@@ -25,9 +29,7 @@
 "title": "Puzzle Masters: Travelers",
 "iframe": "https://html5.gamedistribution.com/9bc4eb0396574402853a84aa05862548/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -35,9 +37,7 @@
 "title": "Blockibo: Color Blocks",
 "iframe": "https://html5.gamedistribution.com/9b9fe715b48c419da0a62ad5af3edc73/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GamePush"
 }
 ]

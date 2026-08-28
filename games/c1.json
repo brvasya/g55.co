@@ -1,13 +1,27 @@
 {
 "pages": [
 {
+"id": "c17f75ead5b2493fa15db989e8b393ac",
+"title": "Ultrahero Vs Monsters Royale Battle",
+"iframe": "https://html5.gamedistribution.com/c17f75ead5b2493fa15db989e8b393ac/",
+"description": "",
+"categories": ["Adventure", "Battle"],
+"creator": "CarGames.Com"
+},
+{
+"id": "c1b8bf4a05ad4f9ea6aa3ad33aafabdc",
+"title": "Looper",
+"iframe": "https://html5.gamedistribution.com/c1b8bf4a05ad4f9ea6aa3ad33aafabdc/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "Kwalee"
+},
+{
 "id": "c1a565ff55b24f8dba2e591c07e6e991",
 "title": "Miracle Mahjong",
 "iframe": "https://html5.gamedistribution.com/c1a565ff55b24f8dba2e591c07e6e991/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "Sanoma"
 },
 {
@@ -15,10 +29,7 @@
 "title": "Driverz Ed",
 "iframe": "https://html5.gamedistribution.com/c18628dc38904a5c8da49c7ba330d93b/",
 "description": "",
-"categories": [
-"Adventure",
-"Racing & Driving"
-],
+"categories": ["Adventure", "Racing & Driving"],
 "creator": "Playgama"
 },
 {
@@ -26,9 +37,7 @@
 "title": "Bubble Shooter Witch Tower 2",
 "iframe": "https://html5.gamedistribution.com/c11581c478694906b1246632b264dff1/",
 "description": "",
-"categories": [
-"Bubble Shooter"
-],
+"categories": ["Bubble Shooter"],
 "creator": "Azerion Casual Games"
 },
 {
@@ -36,9 +45,7 @@
 "title": "Butterfly Triple",
 "iframe": "https://html5.gamedistribution.com/c1dd869e0c174b699a37f02f02ecc387/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -46,9 +53,7 @@
 "title": "Xmas Hexa Sort",
 "iframe": "https://html5.gamedistribution.com/c1015c9b79ba490a8cd1c3943ed7bae2/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -56,9 +61,7 @@
 "title": "Tripeaks Solitaire Escapes",
 "iframe": "https://html5.gamedistribution.com/c1337d45912e45b5be9666f08ba81963/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "Azerion Casual Games"
 },
 {
@@ -66,10 +69,7 @@
 "title": "Fruit Goals Match",
 "iframe": "https://html5.gamedistribution.com/c15832a0057346399182efb8bf29007c/",
 "description": "",
-"categories": [
-"Agility",
-"Match-3"
-],
+"categories": ["Agility", "Match-3"],
 "creator": "Lof Games"
 },
 {
@@ -77,9 +77,7 @@
 "title": "Dungeon Master – Cult & Craft",
 "iframe": "https://html5.gamedistribution.com/c112cbcec8bc49db9e5faf0f7a81b022/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Mirra Games"
 },
 {
@@ -87,9 +85,7 @@
 "title": "Wood Hexa Factory",
 "iframe": "https://html5.gamedistribution.com/c1c5073686e34ad1a1476db18a36b88d/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Bravestars Games"
 }
 ]

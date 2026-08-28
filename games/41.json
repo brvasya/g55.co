@@ -1,14 +1,35 @@
 {
 "pages": [
 {
+"id": "4116c1e824a34658b25666a013a035f3",
+"title": "Summer Maze",
+"iframe": "https://html5.gamedistribution.com/4116c1e824a34658b25666a013a035f3/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "GameBerry Studio"
+},
+{
+"id": "4136a7ca3c694083b491fad89130f638",
+"title": "Labubu Coloring Adventure",
+"iframe": "https://html5.gamedistribution.com/4136a7ca3c694083b491fad89130f638/",
+"description": "",
+"categories": ["Art", "Casual"],
+"creator": "Vi Games"
+},
+{
+"id": "4187d9fa2d5c46788b2c297e88c78639",
+"title": "CrazyZombies 3D",
+"iframe": "https://html5.gamedistribution.com/4187d9fa2d5c46788b2c297e88c78639/",
+"description": "",
+"categories": ["Adventure", "Shooter"],
+"creator": "Devshifu Studio"
+},
+{
 "id": "41ced8bbf187495d81b565b663f94829",
 "title": "Basket Swap",
 "iframe": "https://html5.gamedistribution.com/41ced8bbf187495d81b565b663f94829/",
 "description": "",
-"categories": [
-"Puzzle",
-"Basketball"
-],
+"categories": ["Puzzle", "Basketball"],
 "creator": "kiz10.com"
 },
 {
@@ -16,10 +37,7 @@
 "title": "Valentines Hidden Alphawords",
 "iframe": "https://html5.gamedistribution.com/41fb9c32a74c4068acf0a04d08b36fd6/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Lof Games"
 },
 {
@@ -27,10 +45,7 @@
 "title": "Rope Stitch Puzzle",
 "iframe": "https://html5.gamedistribution.com/415ff1a9b6604cadba3f5f661b938cb7/",
 "description": "",
-"categories": [
-"Puzzle",
-"Art"
-],
+"categories": ["Puzzle", "Art"],
 "creator": "Momo Games"
 },
 {
@@ -38,9 +53,7 @@
 "title": "Mahjong Match Line",
 "iframe": "https://html5.gamedistribution.com/41d94a31938542589c58353279934784/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -48,10 +61,7 @@
 "title": "Color Path Puzzle",
 "iframe": "https://html5.gamedistribution.com/4162518d6d604f5db1445a49ebad2b8f/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Mirra Games"
 }
 ]

@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "abfc6a4196ec42ecb69493eec9a229f9",
+"title": "Ping Pong Battle Table Tennis",
+"iframe": "https://html5.gamedistribution.com/abfc6a4196ec42ecb69493eec9a229f9/",
+"description": "",
+"categories": ["Sports", "Casual"],
+"creator": "bestgames.com"
+},
+{
 "id": "abdcf6513abb494ebea7cb79e846fa11",
 "title": "Sudoku Vault",
 "iframe": "https://html5.gamedistribution.com/abdcf6513abb494ebea7cb79e846fa11/",
 "description": "",
-"categories": [
-"Puzzle",
-"Educational"
-],
+"categories": ["Puzzle", "Educational"],
 "creator": "Lof Games"
 },
 {
@@ -16,10 +21,7 @@
 "title": "Destruction Simulator",
 "iframe": "https://html5.gamedistribution.com/ab2ee8bbe1e540c9ae06719d2c4170d6/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "Playgama"
 },
 {
@@ -27,9 +29,7 @@
 "title": "Move Emoji",
 "iframe": "https://html5.gamedistribution.com/ab582ca4853b429ea9aa0b52b941e8e3/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "Playgama"
 },
 {
@@ -37,10 +37,7 @@
 "title": "Arrow Escape",
 "iframe": "https://html5.gamedistribution.com/abda34d396174f6487968885157388e2/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Bravestars Games"
 },
 {
@@ -48,9 +45,7 @@
 "title": "Office Solitaire",
 "iframe": "https://html5.gamedistribution.com/ab572c1e1dc04e4499da4db26e768286/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "Sanoma"
 },
 {
@@ -58,10 +53,7 @@
 "title": "Sand Sort: Color Puzzle Game",
 "iframe": "https://html5.gamedistribution.com/abb97dc299864544ad4d776045b937f1/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Bravestars Games"
 },
 {
@@ -69,9 +61,7 @@
 "title": "Tennis Masters 2026",
 "iframe": "https://html5.gamedistribution.com/ab2f156d72894fd8a5dedb85b34a05e4/",
 "description": "",
-"categories": [
-"Sports"
-],
+"categories": ["Sports"],
 "creator": "MadPuffers"
 }
 ]

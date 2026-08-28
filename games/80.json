@@ -1,14 +1,35 @@
 {
 "pages": [
 {
+"id": "80ec39f00e274fd8a1f5e37515e2150d",
+"title": "Bubble it jam",
+"iframe": "https://html5.gamedistribution.com/80ec39f00e274fd8a1f5e37515e2150d/",
+"description": "",
+"categories": ["Bubble Shooter"],
+"creator": "Funnyplus"
+},
+{
+"id": "80cb7c2268534913afe0cb0d703b21ef",
+"title": "Medieval Escape",
+"iframe": "https://html5.gamedistribution.com/80cb7c2268534913afe0cb0d703b21ef/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "isotronic"
+},
+{
+"id": "8057433344b241b2b5084c8d38cec547",
+"title": "Draw Bridge: Brain Game",
+"iframe": "https://html5.gamedistribution.com/8057433344b241b2b5084c8d38cec547/",
+"description": "",
+"categories": ["Puzzle"],
+"creator": "Bravestars Games"
+},
+{
 "id": "80df807ffe8a4f41b30c2e647d3567e2",
 "title": "Squid Game Hunter",
 "iframe": "https://html5.gamedistribution.com/80df807ffe8a4f41b30c2e647d3567e2/",
 "description": "",
-"categories": [
-"Casual",
-"Strategy"
-],
+"categories": ["Casual", "Strategy"],
 "creator": "kiz10.com"
 },
 {
@@ -16,9 +37,7 @@
 "title": "Family Squid Challenge",
 "iframe": "https://html5.gamedistribution.com/806ccd2db43a4bf7a9ebaf31723e2bca/",
 "description": "",
-"categories": [
-"Agility"
-],
+"categories": ["Agility"],
 "creator": "FBK"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Celebrity E-Girl Vibes",
 "iframe": "https://html5.gamedistribution.com/80ddf44c832b44d69d72392d9453ca00/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "Cutedressup"
 },
 {
@@ -36,9 +53,7 @@
 "title": "Spider Solitaire",
 "iframe": "https://html5.gamedistribution.com/809df23c329b443fb88689858d901041/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "Albayoo"
 },
 {
@@ -46,9 +61,7 @@
 "title": "Transform Car Battle",
 "iframe": "https://html5.gamedistribution.com/804c1f61fc954b56a6c436ed60441897/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "XMetaGame"
 },
 {
@@ -56,10 +69,7 @@
 "title": "Treasure Hunt Puzzle",
 "iframe": "https://html5.gamedistribution.com/80a3f1d615d1414ea4eaace523d94056/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Synk Inc."
 }
 ]

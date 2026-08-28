@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "990eb0343915410bbb1a0210f99cac3c",
+"title": "Restaurant Simulator: Burgers & Pizza",
+"iframe": "https://html5.gamedistribution.com/990eb0343915410bbb1a0210f99cac3c/",
+"description": "",
+"categories": ["Cooking", "Simulation"],
+"creator": "Playgama"
+},
+{
 "id": "99423a2819a14804a12f30557091d567",
 "title": "Geometry Vibes X-Arrow",
 "iframe": "https://html5.gamedistribution.com/99423a2819a14804a12f30557091d567/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "gameVgames"
 },
 {
@@ -16,9 +21,7 @@
 "title": "Roller Coaster 3D",
 "iframe": "https://html5.gamedistribution.com/9962fb2d0d6c4cc0b87b314d9db3d0e4/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GamePush"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Craft of Wars",
 "iframe": "https://html5.gamedistribution.com/99b5f30d028d40df825363d98fa5831f/",
 "description": "",
-"categories": [
-"Battle"
-],
+"categories": ["Battle"],
 "creator": "GamePush"
 },
 {
@@ -36,9 +37,7 @@
 "title": "Sliding Puzzle",
 "iframe": "https://html5.gamedistribution.com/99c87a52b50b41e2aade63b067e1a843/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "QuadbTech"
 },
 {
@@ -46,9 +45,7 @@
 "title": "Stick Hero Battle",
 "iframe": "https://html5.gamedistribution.com/99ab97268bab44708cd9c5c204ccc8e9/",
 "description": "",
-"categories": [
-"Battle"
-],
+"categories": ["Battle"],
 "creator": "bestgames.com"
 }
 ]

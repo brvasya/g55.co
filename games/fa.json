@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "fa525c7020fb4e848fb3b18a850fb773",
+"title": "Diamond mosaic",
+"iframe": "https://html5.gamedistribution.com/fa525c7020fb4e848fb3b18a850fb773/",
+"description": "",
+"categories": ["Art"],
+"creator": "GamePush"
+},
+{
 "id": "fab4ba7adaf04d8a92905989e85b55c7",
 "title": "Idol Livestream: Doll Dress Up",
 "iframe": "https://html5.gamedistribution.com/fab4ba7adaf04d8a92905989e85b55c7/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "Bravestars Games"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Backgammon Duel",
 "iframe": "https://html5.gamedistribution.com/fa95daec9bea4cfdb5dea1711919947c/",
 "description": "",
-"categories": [
-"Boardgames"
-],
+"categories": ["Boardgames"],
 "creator": "PHATCAT Games Ltd"
 },
 {
@@ -25,10 +29,7 @@
 "title": "Card Quest: 10 Minute Adventure",
 "iframe": "https://html5.gamedistribution.com/faf82d1dacfa46529b8511e50fee6768/",
 "description": "",
-"categories": [
-"Boardgames",
-"Cards"
-],
+"categories": ["Boardgames", "Cards"],
 "creator": "Playgama"
 },
 {
@@ -36,10 +37,7 @@
 "title": "THE KULKA",
 "iframe": "https://html5.gamedistribution.com/fabcc8c4576844fb8cea4a916621cbe2/",
 "description": "",
-"categories": [
-"Shooter",
-"Casual"
-],
+"categories": ["Shooter", "Casual"],
 "creator": "Airem"
 },
 {
@@ -47,9 +45,7 @@
 "title": "Crowd Evolution!",
 "iframe": "https://html5.gamedistribution.com/fa7ff4503743437681835a0a4ad62c7e/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "XMetaGame"
 },
 {
@@ -57,9 +53,7 @@
 "title": "Scary Shawarma Kiosk: The Anomaly",
 "iframe": "https://html5.gamedistribution.com/fae39128b95549389ad487f668c0a74c/",
 "description": "",
-"categories": [
-"Simulation"
-],
+"categories": ["Simulation"],
 "creator": "GamePush"
 },
 {
@@ -67,9 +61,7 @@
 "title": "Brawl Stars Battle",
 "iframe": "https://html5.gamedistribution.com/fab6523bfe89443d89f7425f946c691d/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "YAD.Com"
 }
 ]

@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "fb1e75e39cdf4876b7a18e7dc37dddd2",
+"title": "Blade Forge 3D",
+"iframe": "https://html5.gamedistribution.com/fb1e75e39cdf4876b7a18e7dc37dddd2/",
+"description": "",
+"categories": ["Casual", "Simulation"],
+"creator": "YAD.Com"
+},
+{
 "id": "fbd63068e7fe4c7b8d2f977390db446f",
 "title": "Word search",
 "iframe": "https://html5.gamedistribution.com/fbd63068e7fe4c7b8d2f977390db446f/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GamePush"
 },
 {
@@ -15,10 +21,7 @@
 "title": "Ragdoll Jump",
 "iframe": "https://html5.gamedistribution.com/fba057ae9bf3478fa188b3d1a9995e90/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Eyestorm Pte. LTD."
 },
 {
@@ -26,10 +29,7 @@
 "title": "Dessert DIY",
 "iframe": "https://html5.gamedistribution.com/fbfeecb1e2344c839c7a47096f974fe5/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "Raccoon"
 },
 {
@@ -37,9 +37,7 @@
 "title": "Mahjong build\u2028farm",
 "iframe": "https://html5.gamedistribution.com/fbf9bd9c6d30424694270279fc1f3acf/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "GamePush"
 },
 {
@@ -47,9 +45,7 @@
 "title": "Summer Triple Mahjong",
 "iframe": "https://html5.gamedistribution.com/fb42a2750295436cb19de3796c711207/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "Lof Games"
 }
 ]
