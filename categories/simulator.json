@@ -1,6 +1,776 @@
 {
 "pages": [
 {
+"id": "d92b225f5c5f41c7a5b5f549c4abb427",
+"title": "Animal Daycare Pet Vet",
+"iframe": "https://html5.gamedistribution.com/d92b225f5c5f41c7a5b5f549c4abb427/",
+"creator": "igroutka.ru",
+"description": "Care for pets by diagnosing health issues and managing their needs in this interactive daycare setting. Players use treatment-based mini-games to heal animals while balancing feeding and playtime to keep them happy. Each stage introduces more pets with unique ailments, requiring quick multitasking and tailored care strategies.\n\nKey Features\n\n• Treatment mini-game mechanics  \n• Multitasking pet care system  \n• Progressive animal health challenges  \n• Feeding and playtime management  \n• Casual veterinary daycare atmosphere"
+},
+{
+"id": "65548075fb254cbc8c97130185b47ad2",
+"title": "Baby Penguin Fishing",
+"iframe": "https://html5.gamedistribution.com/65548075fb254cbc8c97130185b47ad2/",
+"creator": "bestgames.com",
+"description": "Cast lines to catch fish beneath icy waters in this casual fishing game starring a baby penguin. Players time throws to hook various fish types using precise casting mechanics while navigating frozen lakes. Progression unlocks new bait and fishing spots, challenging players to improve their catch and master timing across increasingly difficult conditions.\n\nKey Features\n\n• Timing-based casting controls  \n• Variety of fish species to catch  \n• Progressive bait and gear upgrades  \n• Increasingly challenging fishing locations  \n• Icy lake environment setting"
+},
+{
+"id": "23c08b39f8be40b0b08d88bfb5976cd4",
+"title": "Baby Food Cooking",
+"iframe": "https://html5.gamedistribution.com/23c08b39f8be40b0b08d88bfb5976cd4/",
+"creator": "Yiv.Com",
+"description": "Prepare and serve nutritious meals by combining ingredients in a timed kitchen setting where chopping, mixing, and cooking form the core gameplay loop. Each level introduces new recipes and ingredient combinations that challenge your speed and accuracy. Progression rewards unlock special utensils and recipe variations for more complex baby food preparations.\n\nKey Features\n\n• Ingredient combining mechanic  \n• Time-based preparation stages  \n• Recipe complexity progression  \n• Unlockable kitchen utensils  \n• Child-friendly culinary theme"
+},
+{
+"id": "f787e8b0a6ef41f49f93f8a4a5c5c279",
+"title": "Baby Hazel Doctor Play",
+"iframe": "https://html5.gamedistribution.com/f787e8b0a6ef41f49f93f8a4a5c5c279/",
+"creator": "Baby Hazel",
+"description": "Care for Baby Hazel by performing detailed medical checkups and treatments in this interactive childcare simulation. Players engage in hands-on activities such as using medical tools for diagnosis and administering remedies to address various health issues. Progression occurs as new symptoms and care routines unlock, emphasizing nurturing mechanics in a cozy home environment.\n\nKey Features\n\n• Interactive diagnostic toolset  \n• Step-by-step treatment sequences  \n• Progressive health challenge stages  \n• Touch-based medical activity controls  \n• Childcare simulation in home setting"
+},
+{
+"id": "6ad9d4c80c774ea695455ff3c93af99c",
+"title": "Baby Hazel Cooking Time",
+"iframe": "https://html5.gamedistribution.com/6ad9d4c80c774ea695455ff3c93af99c/",
+"creator": "Baby Hazel",
+"description": "Prepare and serve a variety of dishes by following step-by-step cooking instructions using drag-and-drop kitchen tools. The game involves managing ingredient selections and cooking times within a colorful home kitchen setting, where players complete each recipe to satisfy Baby Hazel’s meal cravings. Progression includes increasingly complex recipes that require multitasking and timing skills.\n\nKey Features\n\n• Stepwise cooking mechanic  \n• Drag-and-drop kitchen controls  \n• Recipe-based level progression  \n• Time management challenges  \n• Casual home kitchen environment"
+},
+{
+"id": "937f85d7009b4f189d2ae20dffd84fb5",
+"title": "Baby Halen Cook Style",
+"iframe": "https://html5.gamedistribution.com/937f85d7009b4f189d2ae20dffd84fb5/",
+"creator": "JZJO.COM",
+"description": "Manage kitchen tasks by guiding Baby Halen through cooking challenges that rely on precise timing and quick ingredient assembly. The game tests coordination with a playful cooking simulation where players combine ingredients in the right order to create dishes. Progression involves increasingly complex recipes that require sharper reflexes and faster multitasking.\n\nKey Features\n\n• Ingredient combination timing  \n• Touch and drag control system  \n• Increasing recipe complexity  \n• Time-based challenge progression  \n• Casual cooking simulation setting"
+},
+{
+"id": "f2394f91acd24160a440fe78a0ba5ae2",
+"title": "Baby Elsa Puppy Surgery",
+"iframe": "https://html5.gamedistribution.com/f2394f91acd24160a440fe78a0ba5ae2/",
+"creator": "babygames.com",
+"description": "Perform precise medical procedures to help Baby Elsa’s puppy recover in this interactive surgery game. Players use point-and-click controls to apply treatments and surgical tools on the puppy’s injured areas. The gameplay emphasizes careful timing and step-by-step operation sequences, creating engaging challenges suitable for casual gamers and younger audiences.\n\nKey Features\n\n• Interactive surgical tool use  \n• Stepwise treatment progression  \n• Timing based gameplay tasks  \n• Simple point-and-click controls  \n• Child-friendly medical theme"
+},
+{
+"id": "0ef976a53904447fa0ce7a70b16becc1",
+"title": "Baby Hazel Craft Time",
+"iframe": "https://html5.gamedistribution.com/0ef976a53904447fa0ce7a70b16becc1/",
+"creator": "Baby Hazel",
+"description": "Engage in hands-on crafting sessions by guiding Baby Hazel through various DIY projects that require assembling, decorating, and organizing materials within a cozy indoor setting. Players navigate a point-and-click interface to complete step-by-step tasks, focusing on creativity and time management as Hazel progresses through themed craft challenges suitable for casual play.\n\nKey Features\n\n• Stepwise assembly mechanics  \n• Point-and-click interaction controls  \n• Themed craft challenge progression  \n• Time management elements  \n• Indoor playroom environment"
+},
+{
+"id": "44370a3e7c464de09dbec5936d80388b",
+"title": "Baby Hazel Fishing Time",
+"iframe": "https://html5.gamedistribution.com/44370a3e7c464de09dbec5936d80388b/",
+"creator": "Baby Hazel",
+"description": "Cast fishing lines into serene waters to catch various fish species using timing and aiming mechanics in this casual game centered around Baby Hazel. Players navigate through different fishing spots, mastering cast strength and reel speed to overcome natural obstacles and fill their basket. The varied aquatic environment adds a relaxing theme to the challenge of becoming an expert angler.\n\nKey Features\n\n• Timing-based casting mechanic  \n• Precision reel speed control  \n• Progressive fishing locations  \n• Basket capacity management  \n• Calm water environment simulation"
+},
+{
+"id": "4bf4dd45cfd84d7f856ed591cdb7b5db",
+"title": "Baby Hazel Pet Doctor",
+"iframe": "https://html5.gamedistribution.com/4bf4dd45cfd84d7f856ed591cdb7b5db/",
+"creator": "Baby Hazel",
+"description": "Care for a variety of ailing pets using a touchscreen interface in this interactive childcare simulation. Players examine symptoms and administer treatments through mini-game mechanics that mimic real-life veterinary tasks. The gameplay unfolds in a domestic home setting where diagnosing and healing different animals challenges players’ observation and time management skills.\n\nKey Features\n\n• Symptom diagnosis mini-games  \n• Interactive treatment mechanics  \n• Time-based care challenges  \n• Pet health progression system  \n• Domestic veterinary environment"
+},
+{
+"id": "7b0dcac6585a4fdbb318cacaab88bdf6",
+"title": "Baby Hazel Tomato Farming",
+"iframe": "https://html5.gamedistribution.com/7b0dcac6585a4fdbb318cacaab88bdf6/",
+"creator": "Baby Hazel",
+"description": "Plant and tend tomato crops using Baby Hazel’s interactive farming tools in a simple agricultural simulation. Manage watering, harvesting, and pest control through point-and-click actions, aiming to grow healthy tomatoes during each level’s seasonal cycle. The gameplay combines timing challenges with basic resource management in a bright, kid-friendly farm setting.\n\nKey Features\n\n• Crop watering and growth cycles  \n• Mouse-driven planting controls  \n• Timed harvesting objectives  \n• Pest management mini tasks  \n• Colorful farm environment design"
+},
+{
+"id": "6d7cb9fa596a4ecfbefce398681b3dd5",
+"title": "Kitty Dental Caring",
+"iframe": "https://html5.gamedistribution.com/6d7cb9fa596a4ecfbefce398681b3dd5/",
+"creator": "Racz Ioan Paul II",
+"description": "Clean and polish each cat’s teeth carefully using precise brushing controls while managing a dental clinic specifically for kittens. Players interact with tools and handle different dental care tasks under time pressure, aiming to maintain the pets’ oral health. The game challenges quick reflexes and attention to detail within a relaxed veterinary setting.\n\nKey Features\n\n• Precision tooth brushing mechanic  \n• Interactive dental care tools  \n• Time management challenges  \n• Progressive pet treatment levels  \n• Casual veterinary clinic environment"
+},
+{
+"id": "e842fa22ef0e4801840db85cbeba72d7",
+"title": "My Cat Restaurant",
+"iframe": "https://html5.gamedistribution.com/e842fa22ef0e4801840db85cbeba72d7/",
+"creator": "Yiv.Com",
+"description": "Serve and manage unique cat-themed dishes while running a quirky restaurant where feline customers influence the pace and style of gameplay. Balance food preparation and seating strategies to keep a growing crowd satisfied. Progress through diverse levels that introduce new recipes and challenging customer behavior, enhancing the overall resource management experience.\n\nKey Features\n\n• Food preparation timing mechanic  \n• Customer seating and satisfaction control  \n• Level-based recipe and ingredient unlocks  \n• Resource management under time pressure  \n• Cat-themed restaurant environment"
+},
+{
+"id": "196df99b32324438b39a4dcf18f0f838",
+"title": "Cat Mini Restaurant",
+"iframe": "https://html5.gamedistribution.com/196df99b32324438b39a4dcf18f0f838/",
+"creator": "yiyuan",
+"description": "Manage food orders and craft small dishes in a compact restaurant setting featuring adorable cat characters. Players balance multitasking cooking mechanics with timely service rounds to keep customers happy and progress through increasingly busy shifts. The challenge lies in quick resource management while adapting to new recipes and order patterns within the cozy café environment.\n\nKey Features\n\n• Ingredient preparation mechanics  \n• Real-time cooking and serving controls  \n• Progressive customer order difficulty  \n• Shift-based time management system  \n• Cat-themed restaurant ambiance"
+},
+{
+"id": "0dd56ae495a74cb4b956ed25eaf1644a",
+"title": "Little Cat Doctor",
+"iframe": "https://html5.gamedistribution.com/0dd56ae495a74cb4b956ed25eaf1644a/",
+"creator": "igroutka.ru",
+"description": "Heal virtual pets using interactive medical tools in a colorful clinic setting. Players diagnose and treat various health issues through touchscreen mini-games that simulate basic veterinary actions. The game challenges players to improve their care skills while managing patient flow in the clinic. A progression of increasingly complex cases tests decision making and reaction speed.\n\nKey Features\n\n• Interactive pet diagnosis tools  \n• Touch-based treatment minigames  \n• Patient management progression  \n• Skill accuracy challenge system  \n• Animated veterinary clinic setting"
+},
+{
+"id": "8df0da90b83e4e1590ebbdbd508eb137",
+"title": "Cute Cat Doctor",
+"iframe": "https://html5.gamedistribution.com/8df0da90b83e4e1590ebbdbd508eb137/",
+"creator": "8Games.Net",
+"description": "Guide adorable feline patients through healing puzzles and interactive checkups in this charming veterinary setting. Employ touch-based treatment minigames to diagnose and cure various cat ailments while managing time and resources. Each case grows more intricate, requiring sharper focus and quick decision-making as you restore health to your furry visitors. The game blends casual care mechanics with playful cartoon visuals.\n\nKey Features\n\n• Interactive treatment minigames  \n• Time management for patient care  \n• Progressive difficulty in diagnoses  \n• Resource allocation for medicines  \n• Cartoon veterinary clinic setting"
+},
+{
+"id": "3657e20ba8b644de87fa71d7ea26d68e",
+"title": "Cat Doctor",
+"iframe": "https://html5.gamedistribution.com/3657e20ba8b644de87fa71d7ea26d68e/",
+"creator": "JulGames",
+"description": "Administer care to various cats by diagnosing symptoms and applying treatments using intuitive point-and-click mechanics. Progress through increasingly complex cases that test observation and timing in a veterinary clinic setting. Manage multiple pet conditions while unlocking new tools to boost healing efficiency and complete each stage successfully.\n\nKey Features\n\n• Symptom diagnosis system  \n• Interactive treatment controls  \n• Case complexity progression  \n• Unlockable medical tools  \n• Veterinary clinic environment"
+},
+{
+"id": "8cab773d4e234b5098867d6b6f81a328",
+"title": "Little Cat Doctor",
+"iframe": "https://html5.gamedistribution.com/8cab773d4e234b5098867d6b6f81a328/",
+"creator": "Webgameapp",
+"description": "Manage animal health by diagnosing and treating pets through interactive minigames in this charming veterinary simulation. Players use point-and-click mechanics to identify symptoms in various animals, progressing through increasingly complex cases. The setting revolves around a cozy animal clinic where quick decision-making and precise care determine success.\n\nKey Features\n\n• Symptom diagnosis minigames  \n• Point-and-click interaction system  \n• Case complexity progression  \n• Time management challenges  \n• Cozy clinic environment"
+},
+{
+"id": "a3cd7f1e165f4eb58a9b6f62005ed5ce",
+"title": "Cute Cat Hospital",
+"iframe": "https://html5.gamedistribution.com/a3cd7f1e165f4eb58a9b6f62005ed5ce/",
+"creator": "Agame",
+"description": "Treat injured cats through diagnostic minigames and care tasks in this casual simulation focused on precise timing and resource management. Navigate multiple treatment rooms, managing symptoms and administering medicine in a hospital setting. The goal is to heal all patients efficiently while balancing care priorities and unlocking new medical equipment.\n\nKey Features\n\n• Symptom diagnosis minigames  \n• Timed treatment mechanics  \n• Resource management challenges  \n• Patient care progression system  \n• Veterinary hospital environment"
+},
+{
+"id": "86243dc5144b4782a08a3cc6771e17e5",
+"title": "Doc Darling Santa Surgery",
+"iframe": "https://html5.gamedistribution.com/86243dc5144b4782a08a3cc6771e17e5/",
+"creator": "iclickgames",
+"description": "Perform precise surgical procedures to treat injuries and ailments in a festive hospital setting. The game emphasizes interactive tool selection and patient care timing as key mechanics. Players aim to successfully complete multiple stages of medical challenges, ensuring patients recover and holiday spirits stay bright.\n\nKey Features\n\n• Interactive surgical tool use  \n• Timing-based patient care  \n• Multi-stage treatment challenges  \n• Casual medical simulation mode  \n• Holiday-themed hospital environment"
+},
+{
+"id": "3cdca27721c24413808c15bfcabb443b",
+"title": "Santa's Christmas Fishing",
+"iframe": "https://html5.gamedistribution.com/3cdca27721c24413808c15bfcabb443b/",
+"creator": "Inlogic Software",
+"description": "Cast lines into festive waters to hook a variety of winter-themed fish using timing-based casting mechanics in this holiday fishing game. Players aim to collect seasonal catches and increase their haul against a snowy backdrop, mastering precise reel control to avoid tangled lines while progressing to more challenging spots and bigger prizes.\n\nKey Features\n\n• Timing-based casting mechanic  \n• Reel control with tension management  \n• Progressive fish rarity levels  \n• Seasonal reward collection system  \n• Snowy Christmas atmosphere"
+},
+{
+"id": "3898a6bb7fa7443d84f4bd1fb90f2b4b",
+"title": "Christmas Craft Coloring",
+"iframe": "https://html5.gamedistribution.com/3898a6bb7fa7443d84f4bd1fb90f2b4b/",
+"creator": "Shunda Inc",
+"description": "Color intricate Christmas-themed designs using a variety of digital tools and palettes to complete festive images in this browser-based coloring game. Players select colors and apply shading with a simple click-and-fill mechanic, progressing through a series of holiday illustrations that grow more detailed. The goal is to bring holiday scenes to life while refining coloring skills year-round.\n\nKey Features\n\n• Click-and-fill coloring mechanic  \n• Palette selection and shading control  \n• Progressive image complexity levels  \n• Optional freehand coloring mode  \n• Festive holiday art themes"
+},
+{
+"id": "296514e59a8e41f2b6a5dfcb2bad9461",
+"title": "Children's doctor: treating ears",
+"iframe": "https://html5.gamedistribution.com/296514e59a8e41f2b6a5dfcb2bad9461/",
+"creator": "GamePush",
+"description": "Examine and clean patients’ ears using interactive diagnostic tools and precise treatment actions in this casual medical game. Players navigate through various ear conditions, employing step-by-step procedures to relieve symptoms and improve patient health. The gameplay focuses on timing and accuracy as you diagnose inner ear issues and apply proper care to progress through different cases.\n\nKey Features\n\n• Interactive ear examination tools  \n• Precision treatment controls  \n• Symptom-based diagnostic challenges  \n• Sequential patient care progression  \n• Child-friendly medical environment"
+},
+{
+"id": "be9332cf870c45e9a4d088acb439fac4",
+"title": "Kitty Doctor",
+"iframe": "https://html5.gamedistribution.com/be9332cf870c45e9a4d088acb439fac4/",
+"creator": "FG Studio",
+"description": "Treat injured cats using touch-based care tasks in a colorful clinic setting, managing their health through diagnosing symptoms and applying remedies. Players balance limited time and resource management while progressing through increasingly complex pet cases. The game challenges players to quickly identify cat ailments and execute precise treatment steps to restore wellbeing.\n\nKey Features\n\n• Symptom diagnosis mechanic  \n• Touchscreen care actions  \n• Time management challenges  \n• Case progression system  \n• Veterinary clinic environment"
+},
+{
+"id": "225102bed76847d99248bfe52a2fc17d",
+"title": "Children Doctor Dentist 2",
+"iframe": "https://html5.gamedistribution.com/225102bed76847d99248bfe52a2fc17d/",
+"creator": "Yiv.Com",
+"description": "Treat young patients using interactive dental tools in a vibrant clinic setting. Players perform precise actions like cleaning, filling cavities, and fixing teeth while managing time to ensure all children leave with healthy smiles. The game challenges players to balance speed and accuracy throughout multiple patient encounters, capturing the core mechanics of a casual dental treatment simulator.\n\nKey Features\n\n• Interactive dental care tools  \n• Time management and precision  \n• Patient treatment progression  \n• Multiple procedure mini-games  \n• Colorful clinic environment"
+},
+{
+"id": "c8483f176ef5464c81e076ba99d673b7",
+"title": "Jenner Lip Doctor",
+"iframe": "https://html5.gamedistribution.com/c8483f176ef5464c81e076ba99d673b7/",
+"creator": "MGS",
+"description": "Treat lip injuries by carefully diagnosing symptoms and applying targeted remedies in this casual doctor simulation. Players interact with a variety of wound types using precise touch controls to clean, bandage, and heal lips effectively. Time management and accuracy play a key role as the game tracks recovery progress and patient satisfaction.\n\nKey Features\n\n• Detailed wound diagnosis system  \n• Touch-based treatment mechanics  \n• Healing time pressure challenge  \n• Patient response feedback  \n• Casual medical clinic setting"
+},
+{
+"id": "056acabff34c4f49bea803ca181fb2ca",
+"title": "Doc HoneyBerry Puppy Surgery",
+"iframe": "https://html5.gamedistribution.com/056acabff34c4f49bea803ca181fb2ca/",
+"creator": "iclickgames",
+"description": "Perform detailed surgical procedures to treat injured puppies, using precise tools to diagnose and heal each furry patient. The gameplay revolves around interactive operations, requiring players to carefully follow steps to remove ailments and stitch wounds. Set in a veterinary clinic environment, the challenge lies in managing delicate tasks under time pressure to restore the puppies’ health.\n\nKey Features\n\n• Interactive surgical tool usage  \n• Step-by-step operation mechanics  \n• Time-based patient treatment challenges  \n• Healing progress monitoring system  \n• Veterinary clinic setting ambiance"
+},
+{
+"id": "564c9fb908244aa382f64a89fc6b0524",
+"title": "Baby Hazel Doctor Dressup",
+"iframe": "https://html5.gamedistribution.com/564c9fb908244aa382f64a89fc6b0524/",
+"creator": "Baby Hazel",
+"description": "Dress up Baby Hazel with a variety of doctor outfits by selecting and customizing medical accessories in this interactive styling game. Players navigate through wardrobe options to mix and match scrubs, lab coats, and stethoscopes, aiming to create the perfect doctor look. The core mechanic revolves around outfit selection and accessory placement, set in a playful dress-up environment that encourages creativity.\n\nKey Features\n\n• Wardrobe selection interface  \n• Accessory placement controls  \n• Outfit customization progression  \n• Multiple doctor-themed clothing items  \n• Casual styling gameplay system"
+},
+{
+"id": "47a6889c67e94670afc7d7fd20bb892a",
+"title": "Dotted Girl Toddler Vaccines",
+"iframe": "https://html5.gamedistribution.com/47a6889c67e94670afc7d7fd20bb892a/",
+"creator": "SisiGames",
+"description": "Select and administer vaccines following a step-by-step care routine for toddlers. The gameplay centers on timing doses and choosing correct vaccine types to ensure healthy immunity progression. Set in a gentle healthcare environment, players face challenges managing different toddler needs and vaccination schedules in an interactive simulation.\n\nKey Features\n\n• Vaccine selection mechanic  \n• Timed administration controls  \n• Progressive immunity milestones  \n• Interactive toddler care system  \n• Pediatric clinic setting"
+},
+{
+"id": "7597b46d840a49819b27e3d991285bd1",
+"title": "Halloween Craft",
+"iframe": "https://html5.gamedistribution.com/7597b46d840a49819b27e3d991285bd1/",
+"creator": "MathNook",
+"description": "Build and customize spooky decorations using click-and-drag crafting mechanics in a Halloween-themed environment. Players combine various seasonal elements to unlock new items while managing limited resources to complete imaginative projects. The challenge lies in selecting the right components to progress through increasingly complex crafting stages.\n\nKey Features\n\n• Drag-and-drop crafting interface  \n• Resource management mechanics  \n• Sequential item unlock system  \n• Puzzle-like assembly challenges  \n• Seasonal horror atmosphere"
+},
+{
+"id": "b1109846759040dcaf5f907604f4d871",
+"title": "Emma Lip Surgery",
+"iframe": "https://html5.gamedistribution.com/b1109846759040dcaf5f907604f4d871/",
+"creator": "MGS",
+"description": "Perform delicate lip sculpting using precision tools to reshape and enhance facial features in this detailed makeover simulation. Navigate a variety of cosmetic adjustments that require steady control and timing to achieve balanced results. The game challenges players to apply surgical accuracy on a close-up avatar, offering a focused experience on facial aesthetics and transformation skills.\n\nKey Features\n\n• Precision tool manipulation  \n• Step-by-step surgical adjustments  \n• Real-time correction feedback  \n• Progressive difficulty levels  \n• Close-up cosmetic surgery theme"
+},
+{
+"id": "154a91de3b724cfaab61722a107d0a34",
+"title": "Pet Healer - Vet Hospital",
+"iframe": "https://html5.gamedistribution.com/154a91de3b724cfaab61722a107d0a34/",
+"creator": "Gmamba Studio",
+"description": "Care for a variety of animals by diagnosing symptoms and performing treatments in this pet hospital simulator. Players engage with interactive mini-games to heal pets using tools and puzzles that challenge their problem-solving. Progression unlocks new treatments and more complex cases, requiring quick management of multiple patients in a calming veterinary clinic environment.\n\nKey Features\n\n• Interactive pet diagnosis tools  \n• Mini-game based healing tasks  \n• Increasing case difficulty levels  \n• Time management patient flow  \n• Veterinary clinic setting"
+},
+{
+"id": "4a98f2a16e56413792624287abe7e44f",
+"title": "Pet Doctor : Animal Care Game",
+"iframe": "https://html5.gamedistribution.com/4a98f2a16e56413792624287abe7e44f/",
+"creator": "toplight studio",
+"description": "Heal injured animals using interactive treatment tools in Pet Doctor : Animal Care Game, where players diagnose conditions and manage recovery stages. Progress through varied cases while mastering the timing and precision needed for effective care. The game emphasizes patient health management in a casual veterinary setting, challenging players to improve their animal treatment skills.\n\nKey Features\n\n• Interactive treatment minigames  \n• Precision timing mechanics  \n• Progressive case complexity  \n• Recovery management system  \n• Casual veterinary clinic setting"
+},
+{
+"id": "adc350ca47c3421db8f17a7bb4dcec7d",
+"title": "My Pet Clinic",
+"iframe": "https://html5.gamedistribution.com/adc350ca47c3421db8f17a7bb4dcec7d/",
+"creator": "MarketJS",
+"description": "Manage patient flow and assign treatments in this simulation where players run their own veterinary clinic. The gameplay focuses on resource allocation and time management as you diagnose and care for diverse animal patients in a busy clinic setting. Balancing various medical tasks challenges players to optimize workflows and improve their services.\n\nKey Features\n\n• Time management treatment system  \n• Diagnostic procedure mechanics  \n• Patient condition progression  \n• Resource allocation controls  \n• Veterinary clinic environment"
+},
+{
+"id": "fc8a2f756d9e454f9a6279b7f40c25ba",
+"title": "Exotic Princess Tongue Doctor",
+"iframe": "https://html5.gamedistribution.com/fc8a2f756d9e454f9a6279b7f40c25ba/",
+"creator": "SisiGames",
+"description": "Heal unique tongue ailments using precise touch controls in this casual medical puzzle game. Players examine bright, exotic oral cavities to remove foreign objects and cure infections, improving the condition of animated patients. Efficiency and accuracy increase scores and unlock new challenging cases with varied symptoms and treatment tools.\n\nKey Features\n\n• Touch gesture healing mechanic  \n• Patient oral cavity inspection  \n• Progressive case difficulty  \n• Time-based scoring system  \n• Colorful exotic patient designs"
+},
+{
+"id": "64fad400d52c4e38bc69b3248a37a04e",
+"title": "Princess Skin Doctor",
+"iframe": "https://html5.gamedistribution.com/64fad400d52c4e38bc69b3248a37a04e/",
+"creator": "MGS",
+"description": "Treat various skin conditions by applying digital remedies in this casual care game. Players use precise touch controls to diagnose and heal problems like acne and irritations on princess characters. The gameplay involves cleaning, applying creams, and customizing care routines to restore flawless skin. Each level presents unique cases with increasing complexity to challenge your treatment skills.\n\nKey Features\n\n• Interactive skin treatment mechanics  \n• Touch-based healing controls  \n• Progressive case difficulty levels  \n• Customizable skincare routines  \n• Princess character visual theme"
+},
+{
+"id": "e76e6ab2933446d9b955016c7c38797b",
+"title": "Princess Mermaid Skin Doctor",
+"iframe": "https://html5.gamedistribution.com/e76e6ab2933446d9b955016c7c38797b/",
+"creator": "SisiGames",
+"description": "Manage mermaid skin care by diagnosing and treating various ailments using interactive tools and careful observation. Players apply different skin treatments and follow detailed steps to restore the princess’s health in a relaxing, underwater clinic setting. The game challenges attention to detail through puzzle-like treatment sequences and a progression of increasingly complex skin conditions.\n\nKey Features\n\n• Interactive skin diagnosis system  \n• Tool-based treatment mechanics  \n• Progressive ailment difficulty levels  \n• Time management challenge elements  \n• Underwater fantasy clinic environment"
+},
+{
+"id": "04211de6b5544c2bb270c742b035d40f",
+"title": "Princess Foot Doctor",
+"iframe": "https://html5.gamedistribution.com/04211de6b5544c2bb270c742b035d40f/",
+"creator": "MGS",
+"description": "Treat foot injuries by selecting tools and applying precise care in detailed step-by-step treatments. Navigate through various foot conditions and follow treatment protocols to heal the princess’s feet using a mix of cleaning, cutting, and bandaging mechanics. Progression unfolds as players unlock new tools and face increasingly complex wounds in a medical-themed setting.\n\nKey Features\n\n• Tool selection and usage mechanics  \n• Precise finger-based treatment controls  \n• Progressive wound complexity stages  \n• Time management healing challenge  \n• Royal medical care environment"
+},
+{
+"id": "d297b261230242a78fcdef238e2efb5f",
+"title": "Goldie Princess Skin Doctor",
+"iframe": "https://html5.gamedistribution.com/d297b261230242a78fcdef238e2efb5f/",
+"creator": "SisiGames",
+"description": "Treat skin conditions using various dermatological tools in this princess-themed makeover game. Players apply treatments like creams and bandages to heal skin ailments layer by layer, focusing on careful timing and precision. The challenge centers on managing multiple skincare steps while customizing appearances, with increasing difficulty as the sessions progress in a colorful fantasy setting.\n\nKey Features\n\n• Layered skincare treatment mechanics  \n• Interactive dermatology tool usage  \n• Timed healing challenge levels  \n• Customization of princess appearances  \n• Fantasy princess spa environment"
+},
+{
+"id": "b7ff5d7f28b2428e8b80a1e318a15efa",
+"title": "2 Player Games Kids Kitchen",
+"iframe": "https://html5.gamedistribution.com/b7ff5d7f28b2428e8b80a1e318a15efa/",
+"creator": "Yiv.Com",
+"description": "Cooperate with a friend to prepare dishes and serve customers in a shared kitchen space, using drag-and-drop mechanics to manage ingredients and utensils under time pressure. Players must coordinate actions efficiently to complete orders, balancing speed and accuracy in multiple stages that ramp up kitchen chaos.\n\nKey Features\n\n• Cooperative ingredient handling  \n• Drag-and-drop utensil control  \n• Timed order completion challenges  \n• Progressive recipe difficulty levels  \n• Child-friendly kitchen environment"
+},
+{
+"id": "987f4258b26c4d5fae790bd254004091",
+"title": "Become An Animal Dentist",
+"iframe": "https://html5.gamedistribution.com/987f4258b26c4d5fae790bd254004091/",
+"creator": "Playtouch",
+"description": "Perform detailed dental care on various animal patients by identifying and fixing tooth problems using precise cleaning and treatment tools. This game challenges players to carefully manage dental instruments while navigating through different animal mouths, aiming to restore their smiles. Minor upgrades unlock access to more challenging animal types and treatment complexities.\n\nKey Features\n\n• Dental instrument manipulation mechanics  \n• Targeted cavity treatment controls  \n• Progressive patient difficulty levels  \n• Interactive treatment upgrade system  \n• Animal dental health simulation"
+},
+{
+"id": "50a30e7db1cf4de98ffc650e97fde4e7",
+"title": "Baby Hazel Kitchen Fun",
+"iframe": "https://html5.gamedistribution.com/50a30e7db1cf4de98ffc650e97fde4e7/",
+"creator": "Baby Hazel",
+"description": "Prepare meals and manage kitchen activities by following recipes and using interactive cooking tools in a lively household environment. Players manipulate ingredients through drag-and-drop mechanics to complete snack and dish preparation challenges aimed at satisfying Baby Hazel's culinary curiosity. The gameplay includes task sequencing to encourage timing and multitasking skills during each kitchen session.\n\nKey Features\n\n• Drag-and-drop ingredient mixing  \n• Recipe-based task progression  \n• Time management challenge system  \n• Interactive kitchen tool controls  \n• Child-friendly home kitchen setting"
+},
+{
+"id": "f8fb5a47ac354746be6952c5f5746a73",
+"title": "Baby Hazel Dental Care",
+"iframe": "https://html5.gamedistribution.com/f8fb5a47ac354746be6952c5f5746a73/",
+"creator": "Baby Hazel",
+"description": "Guide Baby Hazel through step-by-step dental care tasks, including brushing, flossing, and treating cavities using interactive tools. The gameplay centers on managing hygiene routines in a colorful clinic environment while responding to dynamic mini challenges. Players aim to improve Hazel’s oral health by carefully selecting appropriate dental instruments and completing time-limited treatments.\n\nKey Features\n\n• Interactive dental cleaning mechanics  \n• Tool selection and usage controls  \n• Timed treatment challenges  \n• Step-based care progression  \n• Child-friendly clinic setting"
+},
+{
+"id": "4435a91252b441a3ad7f858c20ea96da",
+"title": "Baby Bake Cake",
+"iframe": "https://html5.gamedistribution.com/4435a91252b441a3ad7f858c20ea96da/",
+"creator": "LoraStudio",
+"description": "Place and decorate colorful cakes on multiple levels to satisfy baby-themed baking challenges. Players interact by selecting and arranging cake components with precise drag-and-drop controls, progressing through stages that increase in complexity and timing pressure. The game mixes creative puzzle assembly with thematic kitchen elements to test patience and speed in confection crafting.\n\nKey Features\n\n• Drag-and-drop cake assembly  \n• Timed level progression  \n• Pattern matching challenges  \n• Kitchen-themed visual style  \n• Incremental difficulty stages"
+},
+{
+"id": "a3c2d1f78e364c0498e64e0ac0ab9be7",
+"title": "Baby Hazel Kitchen Time",
+"iframe": "https://html5.gamedistribution.com/a3c2d1f78e364c0498e64e0ac0ab9be7/",
+"creator": "Baby Hazel",
+"description": "Prepare ingredients and manage meal preparation tasks in this casual time management game featuring Baby Hazel. Players interact with various kitchen tools and complete step-by-step cooking sequences to help Hazel serve dishes on time. The game challenges speed and multitasking skills in a colorful, family-friendly kitchen environment.\n\nKey Features\n\n• Ingredient selection and preparation  \n• Interactive kitchen appliance controls  \n• Timed meal assembly challenges  \n• Multitasking with recipe steps  \n• Child-friendly kitchen setting"
+},
+{
+"id": "0d955c95d25d4736994fe4efdd7f102c",
+"title": "Cat Pancake Diner",
+"iframe": "https://html5.gamedistribution.com/0d955c95d25d4736994fe4efdd7f102c/",
+"creator": "MarketJS",
+"description": "Serve and stack pancakes to satisfy feline customers in a diner-themed time management challenge. Players balance multitasking orders and ingredient assembly under pressure while guiding cats with unique preferences through increasing service waves. Mastering order accuracy and timing unlocks new recipes and diner layouts to expand the bustling pancake spot.\n\nKey Features\n\n• Order assembly timing mechanic  \n• Multitasking customer service controls  \n• Progressive recipe and menu unlocks  \n• Wave-based diner rush challenges  \n• Cat customer preference system"
+},
+{
+"id": "f74fcc3940024b84b590c86962f3f096",
+"title": "Cat Chef and Broccoli",
+"iframe": "https://html5.gamedistribution.com/f74fcc3940024b84b590c86962f3f096/",
+"creator": "FBK",
+"description": "Prepare meals by combining precise ingredient timing and quick chopping actions in a kitchen-themed puzzle setting. The game challenges players to manage multiple cooking steps while guiding a feline character through escalating recipe complexity. With its unique mechanic of ingredient preparation speed and pattern recognition, players aim to complete dishes before time runs out.\n\nKey Features\n\n• Ingredient chopping rhythm mechanic  \n• Time-based cooking challenges  \n• Progressive recipe complexity  \n• Multi-step dish preparation system  \n• Cat chef character control"
+},
+{
+"id": "c67aabb9e5ea4030a4bcd610f127ebcf",
+"title": "Coloring Book Airplane V 2.0",
+"iframe": "https://html5.gamedistribution.com/c67aabb9e5ea4030a4bcd610f127ebcf/",
+"creator": "newgamess",
+"description": "Select colors and paint various airplane designs within a digital coloring book interface, using a palette tool to customize each model. The player completes detailed illustrations featuring different aircraft shapes, progressing through pages with increasing complexity. The focus lies in creativity and precision to finish each airplane illustration in this casual, aviation-themed setting.\n\nKey Features\n\n• Digital coloring palette tool  \n• Interactive airplane templates  \n• Page-by-page level progression  \n• Precision paintbrush control  \n• Aviation-inspired design motifs"
+},
+{
+"id": "cace4316f807436383467c55b27fac4b",
+"title": "Little girls kitchen Time",
+"iframe": "https://html5.gamedistribution.com/cace4316f807436383467c55b27fac4b/",
+"creator": "MGS",
+"description": "Prepare and serve a variety of dishes by mixing ingredients and using kitchen tools with timing precision. Players engage in a simple cooking simulation that challenges their ability to follow recipes and manage multiple steps in meal preparation. The game features a charming kitchen setting where the goal is to complete dishes accurately for satisfied customers.\n\nKey Features\n\n• Ingredient combination mechanic  \n• Click and drag utensil controls  \n• Recipe step time management  \n• Multi-dish progression system  \n• Child-friendly cooking theme"
+},
+{
+"id": "80ae702d401245bd9b4adff440b2cf61",
+"title": "Delicious Halloween Cupcake",
+"iframe": "https://html5.gamedistribution.com/80ae702d401245bd9b4adff440b2cf61/",
+"creator": "MGS",
+"description": "Decorate festive cupcakes by selecting ingredients and applying icing with precise mouse control in this seasonal cooking challenge. Players mix and match toppings under a Halloween theme to craft visually appealing treats while racing against the clock in timed rounds. The game combines creative decoration mechanics with quick decision making to complete each spooky level.\n\nKey Features\n\n• Ingredient selection interface  \n• Mouse-driven decoration controls  \n• Time-limited level challenges  \n• Progressive difficulty stages  \n• Halloween-themed visual elements"
+},
+{
+"id": "c0e16fdf0b0d4cbfbba8f675dce1b4cf",
+"title": "Halloween Pizzeria",
+"iframe": "https://html5.gamedistribution.com/c0e16fdf0b0d4cbfbba8f675dce1b4cf/",
+"creator": "Restaurant Games",
+"description": "Manage pizza assembly lines by matching ingredients and topping combinations in this arcade-style puzzle game. Players must quickly prepare orders using timer-based challenges and increase their score by completing complex recipes. The fast-paced kitchen setting tests multitasking skills as customers demand more elaborate Halloween-themed pizzas throughout progressive levels.\n\nKey Features\n\n• Ingredient matching puzzle mechanic  \n• Timer-driven order completion  \n• Increasing recipe complexity  \n• Customer satisfaction scoring system  \n• Halloween-themed kitchen environment"
+},
+{
+"id": "78fabd7084bc471d852345ea3891d32a",
+"title": "Incredible Kids Dentist",
+"iframe": "https://html5.gamedistribution.com/78fabd7084bc471d852345ea3891d32a/",
+"creator": "Yiv.Com",
+"description": "Clean and treat a variety of children's teeth using precise dental tools in this casual dental care game. Players navigate through different patient cases applying brushing, cavity filling, and orthodontic adjustments to restore smile health. The gameplay combines detailed instrument control with timed treatments to complete each session successfully.\n\nKey Features\n\n• Interactive dental tool usage  \n• Timed treatment challenges  \n• Multiple patient case scenarios  \n• Step-by-step care progression  \n• Child-friendly clinic environment"
+},
+{
+"id": "7726e6b67d50464fab2bd790ed79e46a",
+"title": "Kids Coloring Bakery",
+"iframe": "https://html5.gamedistribution.com/7726e6b67d50464fab2bd790ed79e46a/",
+"creator": "IG",
+"description": "Select and color detailed bakery items with a palette of vibrant hues in this creative art game. Players apply brushes and fill tools to customize cakes, breads, and pastries on each page, exploring a casual coloring mechanic that encourages imagination and precision. The goal is to complete visually appealing bakery scenes filled with various treats and decorations.\n\nKey Features\n\n• Interactive brush and fill tools  \n• Step-by-step coloring challenges  \n• Variety of bakery-themed pages  \n• Unlockable color palettes system  \n• Casual creativity focus"
+},
+{
+"id": "fec19cac1b4448f0b8b3a845d19d4f30",
+"title": "Christmas Cupcake Match 3",
+"iframe": "https://html5.gamedistribution.com/fec19cac1b4448f0b8b3a845d19d4f30/",
+"creator": "MBG Network",
+"description": "Match colorful cupcakes by swapping adjacent treats to clear levels and unlock new challenges. Players connect three or more sweets in a festive holiday-themed grid, aiming to complete puzzles with limited moves. Strategic planning fuels progression through increasingly complex stage layouts, where special candy combos help overcome tougher obstacles.\n\nKey Features\n\n• Tile swapping matching mechanic  \n• Move-limited puzzle stages  \n• Special cupcake combo effects  \n• Level-based progression system  \n• Holiday dessert visual theme"
+},
+{
+"id": "5dcc973d39bc454d94c8cb4da383f64e",
+"title": "Pet Doctor Business Tycoon-Pet care game",
+"iframe": "https://html5.gamedistribution.com/5dcc973d39bc454d94c8cb4da383f64e/",
+"creator": "minigame",
+"description": "Manage a busy veterinary clinic by diagnosing and treating a variety of pets in this casual pet care tycoon. Use intuitive point-and-click controls to handle pet health issues and upgrade your clinic’s equipment to attract more customers. Progress through increasingly challenging cases while expanding your animal care services in a bustling town setting.\n\nKey Features\n\n• Pet health diagnosis mechanic  \n• Point-and-click treatment controls  \n• Clinic upgrade progression system  \n• Customer satisfaction challenge  \n• Urban pet care environment"
+},
+{
+"id": "456a9e983ec942859da9f4734b0b3ce1",
+"title": "Princess After Back Surgery",
+"iframe": "https://html5.gamedistribution.com/456a9e983ec942859da9f4734b0b3ce1/",
+"creator": "MGS",
+"description": "Guide character movements through rehabilitation therapy sequences, focusing on timing and precision controls. Navigate physical challenges that mimic post-surgery recovery tasks in a lighthearted setting, aiming to complete various exercises and restore character mobility. Progress through increasingly complex levels centered on stamina and coordination improvement.\n\nKey Features\n\n• Timing-based control inputs  \n• Rehabilitation exercise mini-games  \n• Gradual difficulty escalation  \n• Stamina and mobility tracking  \n• Casual recovery-themed scenarios"
+},
+{
+"id": "5c53b77501d845f6941e783257a5c6af",
+"title": "Ice Princess Beauty Surgery",
+"iframe": "https://html5.gamedistribution.com/5c53b77501d845f6941e783257a5c6af/",
+"creator": "babygames.com",
+"description": "Perform detailed facial treatments and aesthetic adjustments in this makeover game focused on transforming a frozen princess. Players carefully manage surgery and skincare tools to improve her appearance through precise interactions. The gameplay involves selecting and applying various cosmetic procedures while navigating a winter-themed spa environment to achieve the final beauty goals.\n\nKey Features\n\n• Interactive surgery and skincare tools  \n• Step-by-step facial transformation  \n• Precision tool application controls  \n• Progression through makeover stages  \n• Frozen princess winter spa setting"
+},
+{
+"id": "b8880bb5bb8643efbabb78ce57acb8ae",
+"title": "Princess Mermaid Accident ER",
+"iframe": "https://html5.gamedistribution.com/b8880bb5bb8643efbabb78ce57acb8ae/",
+"creator": "SisiGames",
+"description": "Rescue and treat underwater emergencies by diagnosing injuries and managing medical tools with precise click-and-drag controls. This interactive ER game mixes time management and puzzle-solving as you care for a mermaid princess inside a vibrant aquatic hospital setting. Speed and accuracy in treatment decisions determine how well you advance through increasingly complex patient cases.\n\nKey Features\n\n• Interactive diagnostic minigames  \n• Drag-and-drop medical tool use  \n• Time pressure treatment challenges  \n• Progressive patient complexity levels  \n• Underwater hospital environment"
+},
+{
+"id": "b157083d8832446c9142ed8958d10daa",
+"title": "Princess Soup Kitchen",
+"iframe": "https://html5.gamedistribution.com/b157083d8832446c9142ed8958d10daa/",
+"creator": "Unify Media Inc.",
+"description": "Manage kitchen stations by preparing diverse soups to meet customer orders quickly in a colorful princess-themed setting. Combine ingredients using precise timing to create valid recipes while balancing multiple orders under time pressure. Progress through increasingly complex soup formulas and unlock new cooking tools to enhance efficiency in this casual culinary challenge.\n\nKey Features\n\n• Ingredient combination timing  \n• Multi-order management system  \n• Progressive recipe complexity  \n• Unlockable kitchen utensils  \n• Princess bakery visual style"
+},
+{
+"id": "09339b13267e4375a88fa205f1389558",
+"title": "Princess Diner de Blanc",
+"iframe": "https://html5.gamedistribution.com/09339b13267e4375a88fa205f1389558/",
+"creator": "Unify Media Inc.",
+"description": "Manage diner orders by serving dishes to demanding princesses in a stylish setting. Balance preparation speed with customer patience while navigating a touch-based cooking and serving mechanic. Progress through increasing waves of guests, adapting to their unique preferences to keep the royal clientele satisfied.\n\nKey Features\n\n• Touch-driven cooking controls  \n• Timed customer service challenges  \n• Increasing guest complexity levels  \n• Score-based progression system  \n• Fairy tale royal diner theme"
+},
+{
+"id": "47e5ada5f1ed40c89a6ac2e271618ae4",
+"title": "Princess Dentist",
+"iframe": "https://html5.gamedistribution.com/47e5ada5f1ed40c89a6ac2e271618ae4/",
+"creator": "Unify Media Inc.",
+"description": "Treat dental issues by cleaning and fixing teeth as you solve puzzle-like oral care challenges. Players manage precise tool selection and timing under a gradual treatment progression to restore each patient’s smile. The game uses a casual, princess-themed dentist setting where the main goal is to complete increasingly detailed dental tasks efficiently.\n\nKey Features\n\n• Interactive dental tool mechanics  \n• Timing-based care actions  \n• Gradual patient treatment stages  \n• Score tracking for accuracy  \n• Princess-themed customization elements"
+},
+{
+"id": "671df678d21f435593c37b3ea43dae23",
+"title": "Dog Race Sim 2020: Dog Racing Games",
+"iframe": "https://html5.gamedistribution.com/671df678d21f435593c37b3ea43dae23/",
+"creator": "hitNrun games",
+"description": "Race agile dogs through dynamic tracks in this casual dog race simulator designed for teens and kids. Players manage sprint bursts and stamina to outpace rivals across multiple levels featuring diverse terrain challenges. Timing precise boosts and navigating track layouts are crucial to securing victory in lively, family-friendly competition.\n\nKey Features\n\n• Stamina based sprint control  \n• Track-specific terrain hazards  \n• Multi-level race progression  \n• Timing sensitive boost system  \n• Colorful dog character roster"
+},
+{
+"id": "705e8ca093f84c2d8de69abcf2ba95eb",
+"title": "Cat Doctor Sim",
+"iframe": "https://html5.gamedistribution.com/705e8ca093f84c2d8de69abcf2ba95eb/",
+"creator": "Online Games io",
+"description": "Treat feline ailments by diagnosing symptoms and administering treatments using drag-and-drop tools in an interactive clinic setup. Players manage medical sessions featuring unique cat breeds with varied conditions and progress through increasingly complex cases to restore health. The game blends pet care simulation with puzzle elements in a lighthearted veterinary environment.\n\nKey Features\n\n• Symptom diagnosis mechanic  \n• Interactive drag-and-drop treatment  \n• Progressive case difficulty levels  \n• Time management challenge system  \n• Diverse cat breed conditions"
+},
+{
+"id": "a448e4ebe42f42e29555207970cb75b7",
+"title": "ASMR Beauty Clinic",
+"iframe": "https://html5.gamedistribution.com/a448e4ebe42f42e29555207970cb75b7/",
+"creator": "iclickgames",
+"description": "Manage a serene beauty clinic by customizing ASMR treatment sessions to relax clients deeply. Use interactive controls to select and apply soothing facial and scalp care techniques, progressing through levels with increasingly intricate client requests. The gameplay focuses on rhythm and timing to maximize relaxation effects in a calming spa environment.\n\nKey Features\n\n• Interactive ASMR treatment controls  \n• Client relaxation timing mechanic  \n• Progressive session complexity  \n• Customizable spa tools system  \n• Calm clinic atmosphere simulation"
+},
+{
+"id": "f210462d0eaf4cd2bcdbc14051c0504e",
+"title": "Bonnie Hair Doctor",
+"iframe": "https://html5.gamedistribution.com/f210462d0eaf4cd2bcdbc14051c0504e/",
+"creator": "Unify Media Inc.",
+"description": "Manage precise hair treatment tasks using specialized tools to style and heal in a casual, patient-care setting. Players interact with detailed hair fixing mechanics to complete each stage by diagnosing and resolving hair problems for various characters, balancing timing and accuracy. Progression unlocks new cases with varied hair conditions to address.\n\nKey Features\n\n• Detailed hair treatment tools  \n• Interactive styling and healing mechanics  \n• Timed patient care challenges  \n• Case-based progression system  \n• Casual medical salon environment"
+},
+{
+"id": "53562f40dee64052b7d80618df684adb",
+"title": "Wedding Chef",
+"iframe": "https://html5.gamedistribution.com/53562f40dee64052b7d80618df684adb/",
+"creator": "Oscar Intermed",
+"description": "Prepare dishes by combining ingredients and managing kitchen stations in a fast-paced culinary setting. Players serve various wedding-themed orders under time pressure, utilizing ingredient selection and plating mechanics to complete each level. Success depends on multitasking and prioritizing recipes to satisfy guests during the progression of event stages.\n\nKey Features\n\n• Ingredient preparation and combining  \n• Timed order management system  \n• Progressive event stage challenges  \n• Plating and serving controls  \n• Wedding banquet culinary theme"
+},
+{
+"id": "03d46b3059ef481db306322e75d78650",
+"title": "Beauty Mommy Accident ER",
+"iframe": "https://html5.gamedistribution.com/03d46b3059ef481db306322e75d78650/",
+"creator": "SisiGames",
+"description": "Manage emergency room care by treating multiple accident victims using quick diagnostic and treatment skills. The game challenges players to triage injuries and apply medical procedures under time pressure, emphasizing patient stabilization and recovery in a hospital setting.\n\nKey Features\n\n• Multitasking injury treatment system  \n• Interactive diagnostic controls  \n• Timed urgency challenge levels  \n• Patient recovery progress tracking  \n• Hospital emergency room environment"
+},
+{
+"id": "81d8265b2de34ebaa5fed7d46c57aaf5",
+"title": "Clara Flower Farming Game",
+"iframe": "https://html5.gamedistribution.com/81d8265b2de34ebaa5fed7d46c57aaf5/",
+"creator": "MGS",
+"description": "Plant and nurture a variety of vibrant flowers using intuitive garden placement and care strategies. This casual game revolves around arranging blossoms to create the most thriving floral patches, while managing resources like water and sunlight. Players progress through increasingly complex garden layouts, aiming to maximize bloom quality and growth efficiency in a calm farm setting.\n\nKey Features\n\n• Strategic flower placement system  \n• Resource management controls  \n• Progressive garden expansion levels  \n• Seasonal growth mechanic variations  \n• Relaxed farm environment ambiance"
+},
+{
+"id": "c5662795ce9b4266bcb7237a81d2028a",
+"title": "Hunter Training",
+"iframe": "https://html5.gamedistribution.com/c5662795ce9b4266bcb7237a81d2028a/",
+"creator": "JulGames",
+"description": "Train aim and timing through various shooting drills that test precision and reaction speed. Players engage with stationary and moving targets, utilizing a realistic bow and arrow mechanic to advance across skill levels. The challenge lies in mastering shot accuracy and timing under increasing difficulty, set within a naturalistic hunting environment.\n\nKey Features\n\n• Bow and arrow aiming system  \n• Timing-based shooting controls  \n• Progressive skill challenge levels  \n• Stationary and moving target variety  \n• Outdoor hunting range setting"
+},
+{
+"id": "f12b6fa62fd64e8399b56923764c4446",
+"title": "Muay Thai Training",
+"iframe": "https://html5.gamedistribution.com/f12b6fa62fd64e8399b56923764c4446/",
+"creator": "MarketJS",
+"description": "Train precise striking combinations using rhythm-based input to master timed Muay Thai moves in this casual browser game. Players focus on chaining punches and kicks with careful timing against progressively faster opponents, aiming to improve their technique through scored rounds. Quick reflexes and pattern recognition define each level’s challenge within a minimalist gym setting.\n\nKey Features\n\n• Rhythm timing strike system  \n• Combo chaining mechanics  \n• Progressive speed increases  \n• Scored round survival mode  \n• Muay Thai-inspired move set"
+},
+{
+"id": "06a98ca83aeb4f15a918023c808d6352",
+"title": "Happy Cupcaker",
+"iframe": "https://html5.gamedistribution.com/06a98ca83aeb4f15a918023c808d6352/",
+"creator": "igirlgames",
+"description": "Mix and match colorful cupcake ingredients by dragging and dropping them onto the baking tray, managing limited moves to craft perfect desserts. The gameplay revolves around timed matching puzzles where players combine layers and toppings to complete orders. Players face increasing complexity through level progression, aiming to master each baking challenge with precision. \n\nKey Features\n\n• Ingredient matching puzzle mechanic  \n• Drag and drop baking controls  \n• Progressive oven timer challenges  \n• Order completion scoring system  \n• Sweet dessert kitchen theme"
+},
+{
+"id": "302a284f09b04394b2b6f5d9bee8a656",
+"title": "Mermaid Glitter Cupcakes",
+"iframe": "https://html5.gamedistribution.com/302a284f09b04394b2b6f5d9bee8a656/",
+"creator": "MGS",
+"description": "Mix and match colorful ingredients to decorate sparkling cupcakes with charming mermaid motifs. Players craft detailed pastry designs using a drag-and-drop frosting mechanic, aiming to complete themed orders under time constraints. The game features a progression system that unlocks new decoration tools and cupcake bases, adding variety to each baking challenge.\n\nKey Features\n\n• Drag-and-drop frosting system  \n• Time-limited decoration tasks  \n• Unlockable cupcake designs  \n• Order completion progression  \n• Mermaid-inspired visual style"
+},
+{
+"id": "5788ffc4685d4949bdc59654b8606d57",
+"title": "Cheese Cupcakes",
+"iframe": "https://html5.gamedistribution.com/5788ffc4685d4949bdc59654b8606d57/",
+"creator": "Baby Hazel",
+"description": "Bake and decorate individual cheese-flavored cupcakes by managing ingredient proportions and oven timing, blending baking precision with creative icing design. Players advance through increasingly challenging recipe variations that test timing and ingredient selection under pressure. The cozy kitchen setting adds charm to the step-by-step preparation and style customization goals.\n\nKey Features\n\n• Ingredient measurement and mixing  \n• Oven temperature and timing control  \n• Progressive recipe difficulty levels  \n• Custom icing decoration system  \n• Cozy kitchen visual theme"
+},
+{
+"id": "edbbc0e5e5cb405ba2b50a0d3488703a",
+"title": "Spooky Cupcakes",
+"iframe": "https://html5.gamedistribution.com/edbbc0e5e5cb405ba2b50a0d3488703a/",
+"creator": "Baby Hazel",
+"description": "Mix and match ingredients to create and decorate cupcakes under a spooky theme, testing your timing and precision skills. Players combine different flavors and toppings in a match-three style mechanic with a limited number of moves to complete each eerie recipe. Levels become progressively challenging by introducing tricky ingredient constraints and visual effects that fit a haunted bakery setting.\n\nKey Features\n\n• Match-three ingredient combinations  \n• Timed puzzle-based baking tasks  \n• Ingredient selection and customization  \n• Progressive difficulty tiers  \n• Haunted bakery visual style"
+},
+{
+"id": "08e458bccf2b40b6812a31dc08d1e321",
+"title": "Hazel And Mom's Recipes",
+"iframe": "https://html5.gamedistribution.com/08e458bccf2b40b6812a31dc08d1e321/",
+"creator": "Baby Hazel",
+"description": "Manage ingredient selection and timing to prepare various recipes alongside Hazel and her mom, using precise cooking mechanics to combine components correctly. Players follow step-by-step instructions while balancing oven temperature and mixing techniques, aiming to complete dishes efficiently and unlock new recipes. The kitchen setting emphasizes hands-on culinary challenges tailored for casual players and kids.\n\nKey Features\n\n• Ingredient combination mechanic  \n• Timed cooking sequences  \n• Recipe completion objectives  \n• Step-based progression system  \n• Home kitchen environment"
+},
+{
+"id": "d0fb36f56a7247e79f795deea5e04177",
+"title": "Harvesting Veggies",
+"iframe": "https://html5.gamedistribution.com/d0fb36f56a7247e79f795deea5e04177/",
+"creator": "FantasyTalk",
+"description": "Plant and collect various vegetables using time-based harvesting mechanics to manage your crop fields efficiently. Navigate growth cycles and optimize pick times to maximize yield before your garden's seasonal shifts alter gameplay dynamics. The casual farming setting challenges players to balance resource gathering with strategic timing in a vibrant, kid-friendly environment.\n\nKey Features\n\n• Time-based harvesting mechanic  \n• Crop growth cycle management  \n• Increase yield through strategic timing  \n• Seasonal field changes  \n• Casual farming garden theme"
+},
+{
+"id": "49e41b1e04474f10a3a39d7d35ece5b2",
+"title": "Muffins Memory Match",
+"iframe": "https://html5.gamedistribution.com/49e41b1e04474f10a3a39d7d35ece5b2/",
+"creator": "Vi Games",
+"description": "Match colorful muffin pairs by flipping tiles in a timed memory challenge that sharpens recall skills. Players reveal and remember unique muffin designs on a shrinking grid to clear levels and unlock more difficult stages. This casual matching game engages pattern recognition through quick matching while balancing increasing difficulty.\n\nKey Features\n\n• Tile flipping memory mechanic  \n• Time-limited tile reveal controls  \n• Increasing grid size challenges  \n• Progressive level unlocking system  \n• Vibrant pastry-themed visuals"
+},
+{
+"id": "08c736f9a12c4ca1a1ce4274435e5b5a",
+"title": "Blueberry Muffins",
+"iframe": "https://html5.gamedistribution.com/08c736f9a12c4ca1a1ce4274435e5b5a/",
+"creator": "Baby Hazel",
+"description": "Mix ingredients by following rhythmic cues to bake colorful blueberry muffins before time runs out. The game uses a tap timing core mechanic where players must balance speed and accuracy in a cozy kitchen setting. Each level increases complexity with new recipes and baking tools, challenging players to perfect their timing and complete batches successfully.\n\nKey Features\n\n• Tap timing rhythm mechanic  \n• Ingredient selection and mixing  \n• Increasing recipe difficulty  \n• Time-based level progression  \n• Kitchen-themed visual style"
+},
+{
+"id": "d23c7a6f35cd4f65b7b853fa2b79ebc2",
+"title": "Pumpkin Muffins",
+"iframe": "https://html5.gamedistribution.com/d23c7a6f35cd4f65b7b853fa2b79ebc2/",
+"creator": "Baby Hazel",
+"description": "Collect and mix ingredients to craft unique pumpkin muffins in this casual baking game. Players combine various flavors and toppings while managing baking times to perfect each batch. Progression unfolds by unlocking new recipes and challenging oven settings, all set in a cozy autumn kitchen atmosphere.\n\nKey Features\n\n• Ingredient combination mechanic  \n• Timer-based baking control  \n• Recipe unlock progression  \n• Oven temperature adjustments  \n• Seasonal autumn kitchen theme"
+},
+{
+"id": "2e31971fd1f84743812823fd789b6a21",
+"title": "Ellie Vaccines Injection",
+"iframe": "https://html5.gamedistribution.com/2e31971fd1f84743812823fd789b6a21/",
+"creator": "SisiGames",
+"description": "Administer precise injections to Ellie in a timed pacing challenge that tests player dexterity and focus. Carefully control the syringe’s movement while avoiding sensitive areas to deliver vaccines effectively. Progress through increasingly delicate scenarios where steady hand coordination is essential to succeed. The game blends fine motor skill demands with a subtle medical theme suited for casual young players.\n\nKey Features\n\n• syringe positioning control  \n• timed injection accuracy  \n• steady hand coordination challenge  \n• progressive difficulty levels  \n• child-friendly medical setting"
+},
+{
+"id": "d3d4814cf05e4f11a9dbdcba46d114ec",
+"title": "Ice Queen Vaccines Injection",
+"iframe": "https://html5.gamedistribution.com/d3d4814cf05e4f11a9dbdcba46d114ec/",
+"creator": "SisiGames",
+"description": "Inject vaccines into infected subjects using precise timing and targeted placements in a cold, icy environment to halt viral spread. Players engage in a unique injection mechanic that challenges their speed and accuracy while managing multiple patient zones. The game progresses through levels with increasing difficulty and new infection patterns appearing across a frozen clinic.\n\nKey Features\n\n• Precision injection timing system  \n• Multi-target patient zones control  \n• Increasing infection pattern complexity  \n• Level-based difficulty progression  \n• Frozen clinic cold atmosphere"
+},
+{
+"id": "76d8dca00d2143b1bc9a2fb37e4f7e03",
+"title": "Dotted Girl Vaccines Injection",
+"iframe": "https://html5.gamedistribution.com/76d8dca00d2143b1bc9a2fb37e4f7e03/",
+"creator": "SisiGames",
+"description": "Administer precise injections to dotted characters using targeted aiming mechanics in this medical-themed challenge. Players carefully time and position vaccination shots to successfully immunize each patient while adapting to increasing speed and pattern complexity. The game tests reaction and accuracy in a quirky healthcare scenario, pushing players to improve focus and timing under pressure.\n\nKey Features\n\n• Aiming and injection timing\n• Pattern recognition progression\n• Reaction speed challenges\n• Patient immunization count\n• Cartoon medical setting"
+},
+{
+"id": "3d6e1cc8f0314aae8df563647252cdfe",
+"title": "eSport Gamer Tycoon",
+"iframe": "https://html5.gamedistribution.com/3d6e1cc8f0314aae8df563647252cdfe/",
+"creator": "Princess Girls",
+"description": "Manage and grow your own competitive gaming organization by recruiting players and organizing tournaments in this management simulation. Balance training schedules and team strategies to climb leaderboards. Progression is based on player stats and event performance, offering a dynamic esports environment for casual strategic decision-making.\n\nKey Features\n\n• Player recruitment and training system  \n• Team management and strategy controls  \n• Tournament progression and ranking  \n• Resource allocation and budget balancing  \n• Competitive esports organization setting"
+},
+{
+"id": "87266688eb424d769d2a6d841ec83652",
+"title": "Shooting Range Simulator",
+"iframe": "https://html5.gamedistribution.com/87266688eb424d769d2a6d841ec83652/",
+"creator": "JulGames",
+"description": "Aim carefully and shoot at various stationary and moving targets using realistic firearm controls in this shooting range environment. Players challenge themselves to improve accuracy and timing through increasing target difficulty and timed sessions. The core mechanic centers on precision aiming and trigger response, focusing on skill refinement within a safe and controlled shooting gallery setting.\n\nKey Features\n\n• Precision aiming with recoil control  \n• Timed target shooting challenges  \n• Progressive difficulty levels  \n• Variety of target types and distances  \n• Realistic shooting gallery atmosphere"
+},
+{
+"id": "390ddec86e3e4d2285a758099dc88018",
+"title": "Airplane Puzzles",
+"iframe": "https://html5.gamedistribution.com/390ddec86e3e4d2285a758099dc88018/",
+"creator": "NEOX LLC",
+"description": "Match airplane puzzle pieces precisely to complete aircraft images while navigating through timed challenges and increasing difficulty levels. Players engage with a drag-and-drop mechanic to assemble detailed airplane parts, progressing through diverse puzzle layouts that test spatial recognition and speed.\n\nKey Features\n\n• Drag-and-drop assembly mechanic  \n• Increasing puzzle complexity tiers  \n• Timer-based challenge mode  \n• Visual feedback with piece snapping  \n• Aviation-themed puzzle designs"
+},
+{
+"id": "7d914f1dec9b4c468f39f9376f9686e8",
+"title": "Fisherman Sliding Puzzles",
+"iframe": "https://html5.gamedistribution.com/7d914f1dec9b4c468f39f9376f9686e8/",
+"creator": "Lof Games",
+"description": "Slide mismatched tiles into sequence to restore the fisherman’s image in this puzzle game. Players manipulate grid-based sliding mechanics to reorder scattered pieces, aiming to complete progressively challenging levels. The gameplay gradually introduces complex tile arrangements, testing spatial reasoning against a tranquil fishing backdrop.\n\nKey Features\n\n• Grid-based sliding puzzles  \n• Tile swapping controls  \n• Incremental difficulty scaling  \n• Time-limited challenge mode  \n• Nautical-themed image sets"
+},
+{
+"id": "08e6ea053bb24b45aff90132c0ca3015",
+"title": "Taxi Driver Simulator",
+"iframe": "https://html5.gamedistribution.com/08e6ea053bb24b45aff90132c0ca3015/",
+"creator": "8Games.Net",
+"description": "Navigate bustling city streets picking up and dropping off passengers in a dynamic taxi driving experience. Maneuver a classic yellow cab using precise steering controls while managing time and route efficiency. Progress through increasingly busy neighborhoods to earn fares and unlock new zones, balancing speed and safety in urban traffic challenges.\n\nKey Features\n\n• Precision vehicle steering controls  \n• Time-based passenger pickup system  \n• Increasingly dense urban traffic  \n• Progressive city zone unlocks  \n• Classic yellow taxi mechanics"
+},
+{
+"id": "f07ad8a5e020456b86c72e5f83a86392",
+"title": "City Taxi Driver Simulator : Car Driving Games",
+"iframe": "https://html5.gamedistribution.com/f07ad8a5e020456b86c72e5f83a86392/",
+"creator": "zuma studio",
+"description": "Navigate crowded city streets as a taxi driver, mastering tight turns and realistic vehicle control to pick up and drop off passengers efficiently. Experience detailed day-night cycles that affect traffic patterns, challenging your ability to manage time under pressure. Unlock upgraded cars and explore increasingly complex urban routes to boost your fares and reputation.\n\nKey Features\n\n• Realistic city traffic simulation  \n• Precision vehicle steering controls  \n• Time-sensitive passenger missions  \n• Car upgrade and customization system  \n• Dynamic day and night cycles"
+},
+{
+"id": "03fe5aa46b6544d9abd63382e2f38b19",
+"title": "Police cop driver simulator",
+"iframe": "https://html5.gamedistribution.com/03fe5aa46b6544d9abd63382e2f38b19/",
+"creator": "gamesfog",
+"description": "Navigate urban streets pursuing criminals in this police-themed driving simulator, where realistic vehicle handling shapes every high-speed chase. Players master steering precise cop cars while responding to evolving pursuit scenarios across city environments. The focus lies on timely interception and avoiding obstacles to bring suspects to justice in progressive law enforcement missions.\n\nKey Features\n\n• Realistic police car control  \n• High-speed pursuit mechanics  \n• Urban traffic challenge system  \n• Mission-based progression structure  \n• Cop vehicle siren and lights"
+},
+{
+"id": "b369f80a4ca745dc9f190b60cfd184b5",
+"title": "Drive Two Wheels Simulator Game 2020",
+"iframe": "https://html5.gamedistribution.com/b369f80a4ca745dc9f190b60cfd184b5/",
+"creator": "wingmangames",
+"description": "Navigate detailed two-wheeled vehicles through urban and off-road terrains using realistic physics-based controls. Balance speed and stability while mastering acceleration and braking to complete diverse challenges. The game emphasizes motorcycle handling and nuanced vehicle dynamics, encouraging players to refine their riding skills over progressively demanding tracks.\n\nKey Features\n\n• Physics driven bike handling  \n• Acceleration and braking control  \n• Progressively challenging courses  \n• Time trial mode variations  \n• Urban and natural terrain settings"
+},
+{
+"id": "45f716acad2a4e779734c7fa82d2d0c6",
+"title": "Drive Bike Stunt Simulator 3d",
+"iframe": "https://html5.gamedistribution.com/45f716acad2a4e779734c7fa82d2d0c6/",
+"creator": "Driving games",
+"description": "Perform stunt tricks across complex 3D environments using a customizable bike to master challenging obstacle courses. Navigate ramps, balance on narrow rails, and maintain control with physics-based handling as you improve your skills in multiple levels. Precision and timing are key to completing courses without crashes and unlocking new bikes.\n\nKey Features\n\n• Physics-driven bike control  \n• Trick combo scoring system  \n• Progressive obstacle courses  \n• Adjustable stunt bike customization  \n• 3D urban and industrial settings"
+},
+{
+"id": "bf6268e7324f494bbb823589e902ae9c",
+"title": "Obstacle Cross Drive Simulator",
+"iframe": "https://html5.gamedistribution.com/bf6268e7324f494bbb823589e902ae9c/",
+"creator": "CarGames.Com",
+"description": "Navigate challenging obstacle courses behind the wheel of a rugged off-road vehicle, balancing careful steering and throttle control to avoid crashes. The game centers around maneuvering through progressively complex terrain filled with ramps, narrow paths, and barriers. Players aim to complete stages efficiently while managing realistic vehicle physics in a casual driving environment.\n\nKey Features\n\n• Physics-based vehicle handling  \n• Precision driving controls  \n• Increasing obstacle difficulty  \n• Timed challenge mode  \n• Off-road course settings"
+},
+{
+"id": "5184101daf18428087275b758412ea26",
+"title": "Taxi Driver Simulator",
+"iframe": "https://html5.gamedistribution.com/5184101daf18428087275b758412ea26/",
+"creator": "CarGames.Com",
+"description": "Navigate urban streets picking up varied passengers with responsive steering and timed pickups in this city taxi driving experience. Manage traffic flow and route choices to optimize fares while encountering realistic vehicle handling and dynamic passenger requests. Progress through day and night shifts to unlock vehicle upgrades and discover new districts across the cityscape.\n\nKey Features\n\n• Responsive steering and braking  \n• Dynamic passenger request system  \n• Timed ride completion challenges  \n• Vehicle upgrade unlocks  \n• Urban day and night cycle"
+},
+{
+"id": "b8332c42b6ee475288e366bee6d855d6",
+"title": "Driver Master Simulator",
+"iframe": "https://html5.gamedistribution.com/b8332c42b6ee475288e366bee6d855d6/",
+"creator": "CarGames.Com",
+"description": "Navigate urban traffic routes to master precise vehicle handling and timely pickups in this simulator focused on realistic driving challenges. Players manage intricate road scenarios while improving control over diverse vehicles, aiming to complete deliveries efficiently in dynamic city environments. Progression unlocks new routes with increasing complexity and traffic density for a layered driving experience.\n\nKey Features\n\n• Physics based vehicle control  \n• Timed delivery objectives  \n• Traffic and obstacle navigation  \n• Route unlocking progression system  \n• Urban driving simulation setting"
+},
+{
+"id": "0f73244bf0cd494ba3f42aee62061f83",
+"title": "Beam Drive Car Crash Test Simulator",
+"iframe": "https://html5.gamedistribution.com/0f73244bf0cd494ba3f42aee62061f83/",
+"creator": "Playgama",
+"description": "Crash vehicles into different obstacles and structures using realistic physics in this car crash simulation. Players experiment with vehicle durability and impact responses while controlling various car models in test scenarios designed to analyze crash outcomes. The main goal is to observe and cause maximum damage through careful positioning and timing.\n\nKey Features\n\n• Physics-based crash impact system  \n• Vehicle control and positioning  \n• Destructible environment targets  \n• Multiple crash test scenarios  \n• Realistic car damage modeling"
+},
+{
+"id": "6e2aebd907f74c908512fe41d9818c2f",
+"title": "Bus Driver Simulator 3D",
+"iframe": "https://html5.gamedistribution.com/6e2aebd907f74c908512fe41d9818c2f/",
+"creator": "GamePush",
+"description": "Navigate busy city routes as a bus driver, mastering vehicle handling and passenger pickup timing in dynamic urban settings. Players focus on realistic steering and brake control to complete scheduled stops and ensure smooth rides through diverse traffic conditions. Progression unfolds by unlocking new routes and optimizing boarding efficiency under varying weather and traffic challenges.\n\nKey Features\n\n• Realistic bus driving physics  \n• Timed passenger stop mechanics  \n• Traffic and weather impact system  \n• Route unlock and progression  \n• Urban city environment challenges"
+},
+{
+"id": "c74d1bbee0334276a3421ca9c6115fe1",
+"title": "Extreme Bus Driver Simulator",
+"iframe": "https://html5.gamedistribution.com/c74d1bbee0334276a3421ca9c6115fe1/",
+"creator": "Rokito Games",
+"description": "Navigate complex urban routes behind the wheel of a large passenger bus, mastering precise steering and timing. The simulation emphasizes realistic vehicle handling as you tackle traffic flow and passenger stops under a dynamic city environment. Efficiency and safety are essential to complete each route successfully while adapting to varying roadway challenges.\n\nKey Features\n\n• Physics driven bus control  \n• Precise route navigation challenges  \n• Progressive urban route complexity  \n• Time and passenger management system  \n• City traffic interaction simulation"
+},
+{
+"id": "1c34670ab89f43fe9c25a11338fd8531",
+"title": "Bus Driver Simulator",
+"iframe": "https://html5.gamedistribution.com/1c34670ab89f43fe9c25a11338fd8531/",
+"creator": "Mirra Games",
+"description": "Navigate busy city streets managing passenger routes in a detailed bus driving simulation. Players handle realistic steering and braking systems to deliver passengers safely to stops while following traffic rules. The core mechanic revolves around timed route completion and vehicle control within urban environments. Skillful driving and adherence to schedules advance progression through increasingly complex routes.\n\nKey Features\n\n• Realistic bus handling physics  \n• Precise steering and braking controls  \n• Time-based route completion challenges  \n• Passenger boarding and alighting system  \n• Urban traffic and stop management"
+},
+{
+"id": "b73751780bc245a49b7f8e576c2c7713",
+"title": "Coach Bus Drive Simulator",
+"iframe": "https://html5.gamedistribution.com/b73751780bc245a49b7f8e576c2c7713/",
+"creator": "Online Games io",
+"description": "Navigate precise routes behind the wheel of a large passenger bus using realistic driving controls to deliver passengers safely. The simulation features detailed vehicle handling and timed challenges across various routes, testing your ability to manage speed and traffic conditions. Simple controls cater to casual players while providing a focus on bus driving accuracy and route completion.\n\nKey Features\n\n• Detailed coach driving mechanics  \n• Realistic traffic navigation controls  \n• Timed passenger route challenges  \n• Progressive level unlocking system  \n• Urban and highway road environments"
+},
+{
+"id": "9913813c11d74308b8f3d024b3d95b41",
+"title": "Uphill Passenger Bus Drive Simulator : Offroad Bus",
+"iframe": "https://html5.gamedistribution.com/9913813c11d74308b8f3d024b3d95b41/",
+"creator": "zuma studio",
+"description": "Navigate steep mountain trails behind the wheel of a rugged passenger bus, managing realistic offroad physics to prevent tipping and maintain control. The driving challenges test precision as you tackle uneven terrains and elevation changes while transporting passengers uphill. Progression involves mastering tight turns and rough paths to reach destination checkpoints without accidents.\n\nKey Features\n\n• Offroad bus driving mechanics  \n• Physics-based vehicle stability control  \n• Steep incline navigation challenges  \n• Checkpoint progression system  \n• Mountain terrain environment simulation"
+},
+{
+"id": "870e356c9c704196a26b848c2e79b788",
+"title": "Highway Bus Driver Simulator",
+"iframe": "https://html5.gamedistribution.com/870e356c9c704196a26b848c2e79b788/",
+"creator": "8Games.Net",
+"description": "Navigate busy highways driving a large passenger bus in detailed urban environments, managing realistic vehicle physics to maintain smooth rides and timely arrivals. Players focus on mastering precise steering and speed control while adhering to traffic regulations and route schedules. Progression involves unlocking new routes and bus models, challenging casual players to improve their driving skills on diverse road layouts.\n\nKey Features\n\n• Realistic bus driving physics  \n• Traffic and passenger management  \n• Route unlocking progression system  \n• Time and safety challenge modes  \n• Urban highway traffic environments"
+},
+{
+"id": "a36acaa2ecba4e36b8243c2468abd313",
+"title": "Ambulance Rescue Driver Simulator 2018",
+"iframe": "https://html5.gamedistribution.com/a36acaa2ecba4e36b8243c2468abd313/",
+"creator": "igroutka.ru",
+"description": "Navigate emergency routes as an ambulance driver tasked with quick patient pickups and hospital transports. Use precise vehicle handling to manage traffic and avoid delays in urban settings. Time management and route optimization define progression through increasingly complex rescue scenarios. The simulation emphasizes realistic ambulance controls and urgent medical mission challenges.\n\nKey Features\n\n• Realistic ambulance driving physics  \n• Time-critical patient transport  \n• Progressive urban rescue missions  \n• Traffic navigation mechanics  \n• Emergency vehicle siren system"
+},
+{
+"id": "d9a43d69afa44fc38b3e5c8fddd85a16",
+"title": "Tank Driver Simulator",
+"iframe": "https://html5.gamedistribution.com/d9a43d69afa44fc38b3e5c8fddd85a16/",
+"creator": "JulGames",
+"description": "Drive armored tanks through varied environments using realistic physics-based controls while completing strategic objectives that test vehicle maneuvering and targeting skills. Navigate complex terrain types and manage armored vehicle systems to overcome obstacles and enemy resistance. Progress through escalating mission difficulties focused on tactical driving and precise weapon handling.\n\nKey Features\n\n• Physics-driven tank controls  \n• Vehicle weapon system management  \n• Terrain navigation challenges  \n• Mission-based progression structure  \n• Armored combat vehicle setting"
+},
+{
+"id": "cdf45eaa559c4644970f0ff535d2caf4",
+"title": "Train Driver Simulator 3D",
+"iframe": "https://html5.gamedistribution.com/cdf45eaa559c4644970f0ff535d2caf4/",
+"creator": "8Games.Net",
+"description": "Operate heavy locomotives through detailed 3D railway environments by managing throttle, brakes, and signals to complete precise train routes. Players focus on controlling train speed and timing to navigate multiple stations and track layouts. The game challenges precision and timing in realistic rail driving scenarios, catering mainly to casual gamers and younger audiences.\n\nKey Features\n\n• Detailed throttle and brake control  \n• Signal and track switching mechanics  \n• Route completion with timing challenges  \n• Multiple train models and liveries  \n• 3D realistic rail environment simulation"
+},
+{
+"id": "9ba97c85a3694d47a5a34263f1da1003",
+"title": "Truck Driver Simulator",
+"iframe": "https://html5.gamedistribution.com/9ba97c85a3694d47a5a34263f1da1003/",
+"creator": "CarGames.Com",
+"description": "Navigate large cargo trucks through diverse routes in Truck Driver Simulator, mastering physics-driven vehicle handling as you manage deliveries. Players must control heavy trucks precisely to complete transport challenges, balancing speed and safety on open roads. The game emphasizes realistic truck mechanics with progressive freight tasks in an immersive driving environment.\n\nKey Features\n\n• Physics based truck control  \n• Cargo delivery route challenges  \n• Progressive freight contracts system  \n• Manual gearbox handling option  \n• Open road driving scenarios"
+},
+{
+"id": "fee8433ba998425e9857f243751817b4",
+"title": "Truck Hill Drive Cargo Simulator Game",
+"iframe": "https://html5.gamedistribution.com/fee8433ba998425e9857f243751817b4/",
+"creator": "toplight studio",
+"description": "Navigate rugged terrain using a heavy cargo truck, mastering physics-based driving to deliver loads safely across hill roads. Players must control the vehicle’s speed and balance to avoid tipping over while progressing through increasingly difficult deliveries. The game challenges vehicle handling skills with realistic inclines and unstable cargo, emphasizing careful maneuvering in off-road conditions.\n\nKey Features\n\n• Physics-driven truck control  \n• Load balance and stability management  \n• Progressive delivery route difficulty  \n• Time-sensitive cargo missions  \n• Off-road hill environment"
+},
+{
+"id": "e10200fc58dc44feafdd50e46d81f301",
+"title": "Cyber Truck Drive Simulator",
+"iframe": "https://html5.gamedistribution.com/e10200fc58dc44feafdd50e46d81f301/",
+"creator": "Hitgames.org",
+"description": "Navigate rugged urban landscapes behind the wheel of a heavily armored cyber truck, mastering precision driving with physics-based vehicle controls. Avoid obstacles and complete delivery routes while managing the truck’s unique futuristic handling. Progress through increasingly complex maps to hone your skills in this technology-driven driving challenge.\n\nKey Features\n\n• Physics-based truck handling  \n• Precision driving controls  \n• Obstacle navigation challenges  \n• Progressive difficulty maps  \n• Futuristic vehicle design"
+},
+{
+"id": "5a79cd428fe246c69e89389cf57d2d08",
+"title": "Police Truck Driver Simulator",
+"iframe": "https://html5.gamedistribution.com/5a79cd428fe246c69e89389cf57d2d08/",
+"creator": "Best Free Games",
+"description": "Navigate emergency routes behind the wheel of an armored police truck, mastering precise vehicle control across urban environments. Players balance driving mechanics with time-sensitive missions that test reflexes and strategic route choices. The challenge grows as traffic and obstacles increase, demanding careful maneuvering to reach critical destinations.\n\nKey Features\n\n• Armored truck driving mechanics  \n• Time-based mission objectives  \n• Traffic and obstacle navigation  \n• Progressive urban level design  \n• Emergency vehicle simulation"
+},
+{
+"id": "a9989f82040e43aeafbc3263bbe37efe",
+"title": "Euro Cargo Transporter Truck Driver Simulator 2019",
+"iframe": "https://html5.gamedistribution.com/a9989f82040e43aeafbc3263bbe37efe/",
+"creator": "igroutka.ru",
+"description": "Navigate heavy cargo trucks through detailed European highways, managing tight turns and traffic in realistic truck driving physics. The game lets players undertake a variety of delivery missions across cityscapes and rural routes, with a focus on precision cargo transport and time challenges. Progress unlocks tougher assignments requiring expert vehicle handling and route planning.\n\nKey Features\n\n• Precision truck driving controls  \n• Cargo delivery mission variety  \n• Time-based route challenges  \n• Manual transmission option  \n• European road environment"
+},
+{
+"id": "94d7581db4c644b49ddc247217ce9a37",
+"title": "Helicopter Flying Adventures Game",
+"iframe": "https://html5.gamedistribution.com/94d7581db4c644b49ddc247217ce9a37/",
+"creator": "wingmangames",
+"description": "Pilot nimble helicopters through diverse aerial challenges, mastering precise flight controls to navigate tricky environments and complete mission objectives. Players manage height, speed, and direction to avoid obstacles and land safely, with level progression offering increasing difficulty. The game combines physics-based helicopter handling with casual exploration and timed tasks suitable for teens and kids.\n\nKey Features\n\n• Physics-based rotorcraft control  \n• Obstacle navigation and avoidance  \n• Progressive mission difficulty levels  \n• Landing precision challenges  \n• Casual aerial exploration setting"
+},
+{
 "id": "8e22657d6a60487fb30398070c230adb",
 "title": "Cashier Game",
 "iframe": "https://html5.gamedistribution.com/8e22657d6a60487fb30398070c230adb/",
@@ -48,13 +818,6 @@
 "iframe": "https://html5.gamedistribution.com/2d61050020564e599a431e985394642b/",
 "creator": "Oscar Intermed",
 "description": "Cook and assemble burgers with precision under time pressure, managing multiple princess customers in a playful kitchen setting. Navigate a topping stacking mechanic where speed and order accuracy dictate success, progressing through increasing difficulty levels with new ingredients and customer types. The challenge revolves around mastering ingredient combos to satisfy royal patrons efficiently.\n\nKey Features\n\n• Ingredient stacking and timing  \n• Customer order management  \n• Progressive difficulty increase  \n• Time-limited cooking rounds  \n• Princess-themed kitchen visuals"
-},
-{
-"id": "a448e4ebe42f42e29555207970cb75b7",
-"title": "ASMR Beauty Clinic",
-"iframe": "https://html5.gamedistribution.com/a448e4ebe42f42e29555207970cb75b7/",
-"creator": "iclickgames",
-"description": "Manage a serene beauty clinic by customizing ASMR treatment sessions to relax clients deeply. Use interactive controls to select and apply soothing facial and scalp care techniques, progressing through levels with increasingly intricate client requests. The gameplay focuses on rhythm and timing to maximize relaxation effects in a calming spa environment.\n\nKey Features\n\n• Interactive ASMR treatment controls  \n• Client relaxation timing mechanic  \n• Progressive session complexity  \n• Customizable spa tools system  \n• Calm clinic atmosphere simulation"
 },
 {
 "id": "d0148861138c4ebd94045cf139a5d5eb",
@@ -694,13 +1457,6 @@
 "description": "Swing heavy hammers to break down structures and craft new items using gathered materials in this physics-based building and destruction game. Players manipulate different hammer types to strategically dismantle obstacles and progress through increasing difficulty stages. The focus on object destruction with crafting elements challenges timing and precision as players unlock varied tools and environments.\n\nKey Features\n\n• Physics-based hammer mechanics  \n• Material gathering and crafting system  \n• Progressive level difficulty scaling  \n• Timing and precision challenges  \n• Destructible environment interaction"
 },
 {
-"id": "5fb6010076ff46668fb94be7cd289bcb",
-"title": "CraftsMan 3D Gangster",
-"iframe": "https://html5.gamedistribution.com/5fb6010076ff46668fb94be7cd289bcb/",
-"creator": "kiz10.com",
-"description": "Explore urban environments by customizing your own avatar and engaging in dynamic street challenges using a variety of weapons and tools. The game blends third-person movement with interactive combat mechanics set in a gritty gangster atmosphere. Progression revolves around mastering control schemes and completing missions to gain territory and resources.\n\nKey Features\n\n• Third-person character movement  \n• Interactive weapon and tool usage  \n• Mission-based territory control  \n• Character customization system  \n• Urban-themed gang conflict"
-},
-{
 "id": "4d455d6cdff443b5855ee472dff23f8c",
 "title": "Infinite Craft",
 "iframe": "https://html5.gamedistribution.com/4d455d6cdff443b5855ee472dff23f8c/",
@@ -834,13 +1590,6 @@
 "description": "Arrange and customize intricate gift boxes by selecting wrapping styles and decorations in a precise crafting interface. Players combine ribbons, patterns, and tags to match requested designs, testing their speed and accuracy through timed challenges. The core mechanic revolves around strategic layering of crafting elements to deliver perfectly wrapped presents within each level’s constraints.\n\nKey Features\n\n• Layered wrapping customization  \n• Mouse-driven decoration placement  \n• Timed challenge progression  \n• Unlockable wrapping patterns  \n• Holiday-themed gift designs"
 },
 {
-"id": "fdf776d4e3f34b2c88e4d9649560024c",
-"title": "World Crafts",
-"iframe": "https://html5.gamedistribution.com/fdf776d4e3f34b2c88e4d9649560024c/",
-"creator": "JulGames",
-"description": "Build and combine a variety of blocks to create intricate structures in a sandbox crafting environment. Players experiment with resource gathering and placement mechanics to develop unique constructions, progressing by unlocking new materials and tools. The game encourages creativity through an open world setting with a focus on spatial organization and design challenges.\n\nKey Features\n\n• Block placement and removal  \n• Resource collection system  \n• Unlockable crafting recipes  \n• Freeform building mode  \n• Open world exploration"
-},
-{
 "id": "5ab6c0365d0e44ff834bb2084fddf0b5",
 "title": "WorldCraft 2",
 "iframe": "https://html5.gamedistribution.com/5ab6c0365d0e44ff834bb2084fddf0b5/",
@@ -853,13 +1602,6 @@
 "iframe": "https://html5.gamedistribution.com/bb2cf5ba4f23495497e9d8e0b9f2cce2/",
 "creator": "XalocFuns",
 "description": "Collect resources and craft items by mining deep underground and exploring diverse biomes using precise tool management. Players must balance stamina and inventory limits to build essential gear for survival and advancement. The game challenges you with various material types and environmental hazards, encouraging strategic crafting and exploration to progress through layered crafting tiers.\n\nKey Features\n\n• Resource gathering with stamina system  \n• Tool durability and upgrade paths  \n• Environmental hazard avoidance  \n• Inventory space management  \n• Tiered crafting progression system"
-},
-{
-"id": "f64274775fa542b5bea9f70130cd9ac1",
-"title": "Betsy's Crafts: Perler Beads Christmas",
-"iframe": "http://html5.gamedistribution.com/f64274775fa542b5bea9f70130cd9ac1/",
-"creator": "Agame",
-"description": "Arrange colorful beads on pegboards to form festive pixel art designs in this holiday-themed crafting puzzle. The player uses precise placement mechanics to complete Christmas patterns while managing bead colors and shapes. Each level challenges the player to replicate specific templates, unlocking new designs and seasonal motifs through progression and time management gameplay.\n\nKey Features\n\n• Pegboard bead placement mechanic  \n• Template matching puzzle control  \n• Level-based design challenges  \n• Time-limited arrangement mode  \n• Festive Christmas craft themes"
 },
 {
 "id": "a1a8298042604801a9146f8e5d8ddb78",
@@ -1198,13 +1940,6 @@
 "description": "Manage detailed skin treatment procedures using interactive tools to heal various facial ailments. The gameplay centers on precision tool usage to diagnose and treat issues while advancing through increasingly complex patient cases. Each level introduces new symptoms and treatment challenges, focusing on a clean and engaging clinic environment designed for casual players. Master the timing and sequencing of skin care steps to achieve clear results.  \n\nKey Features\n\n• Tool-based skin treatment procedure  \n• Interactive diagnostic mini-games  \n• Progressive patient condition difficulty  \n• Time management healing challenges  \n• Casual clinic simulation setting"
 },
 {
-"id": "f210462d0eaf4cd2bcdbc14051c0504e",
-"title": "Bonnie Hair Doctor",
-"iframe": "https://html5.gamedistribution.com/f210462d0eaf4cd2bcdbc14051c0504e/",
-"creator": "Unify Media Inc.",
-"description": "Manage precise hair treatment tasks using specialized tools to style and heal in a casual, patient-care setting. Players interact with detailed hair fixing mechanics to complete each stage by diagnosing and resolving hair problems for various characters, balancing timing and accuracy. Progression unlocks new cases with varied hair conditions to address.\n\nKey Features\n\n• Detailed hair treatment tools  \n• Interactive styling and healing mechanics  \n• Timed patient care challenges  \n• Case-based progression system  \n• Casual medical salon environment"
-},
-{
 "id": "7f3f9e4abbe542a0896823180b8c3a89",
 "title": "Monster Foot Doctor",
 "iframe": "https://html5.gamedistribution.com/7f3f9e4abbe542a0896823180b8c3a89/",
@@ -1231,13 +1966,6 @@
 "iframe": "https://html5.gamedistribution.com/7a175af95dad43fb94a64005cde61d77/",
 "creator": "The Game Storm Studios Pvt Ltd",
 "description": "Manage crop cycles and livestock care using daily farming tasks in a rural village environment. Players engage in planting, harvesting, and resource allocation to grow their farm efficiently while expanding into new fields. Seasonal changes influence crop selection and production goals, creating ongoing challenges that blend time management with agricultural strategy.\n\nKey Features\n\n• Crop planting and harvesting cycles  \n• Livestock feeding and breeding systems  \n• Farm expansion and resource upgrades  \n• Seasonal weather effect mechanics  \n• Village trade and production goals"
-},
-{
-"id": "81d8265b2de34ebaa5fed7d46c57aaf5",
-"title": "Clara Flower Farming Game",
-"iframe": "https://html5.gamedistribution.com/81d8265b2de34ebaa5fed7d46c57aaf5/",
-"creator": "MGS",
-"description": "Plant and nurture a variety of vibrant flowers using intuitive garden placement and care strategies. This casual game revolves around arranging blossoms to create the most thriving floral patches, while managing resources like water and sunlight. Players progress through increasingly complex garden layouts, aiming to maximize bloom quality and growth efficiency in a calm farm setting.\n\nKey Features\n\n• Strategic flower placement system  \n• Resource management controls  \n• Progressive garden expansion levels  \n• Seasonal growth mechanic variations  \n• Relaxed farm environment ambiance"
 },
 {
 "id": "21499e4804884f859d1080e169b846b6",
@@ -2205,32 +2933,11 @@
 "description": "Manage a bustling bakery where cats oversee cake production, combining timing and resource allocation to meet customer demands. Players sequence ingredient preparation and cake assembly while balancing limited workspace and evolving orders. The game challenges players to optimize workflow under time pressure in a charming setting filled with playful feline helpers.\n\nKey Features\n\n• Timing-based ingredient preparation  \n• Resource management for baking tasks  \n• Increasing order difficulty levels  \n• Multitasking with limited workspace  \n• Cat-themed bakery environment"
 },
 {
-"id": "71203ed6a8d648d88f1f4c6b6f6f8044",
-"title": "Airplanes Coloring Book",
-"iframe": "https://html5.gamedistribution.com/71203ed6a8d648d88f1f4c6b6f6f8044/",
-"creator": "New Kids Games",
-"description": "Color airplanes using a variety of brushes and colors to bring each aircraft to life in vivid detail. The game’s core mechanic revolves around selecting and applying colors within outlined airplane illustrations, challenging players to choose appealing designs and develop artistic skills. Casual players and children progress through different airplane models with increasing complexity.\n\nKey Features\n\n• Interactive coloring brush tools  \n• Diverse airplane illustration set  \n• Color selection and mixing system  \n• Progressive artwork complexity  \n• Aviation-themed art activity"
-},
-{
 "id": "1a08d74938e74a499c2941b027056204",
 "title": "Airplane Coloring Book",
 "iframe": "https://html5.gamedistribution.com/1a08d74938e74a499c2941b027056204/",
 "creator": "Vi Games",
 "description": "Select colors and fill in intricate airplane illustrations to bring detailed aircraft designs to life in this art-focused browser game. Players engage with a palette-based painting mechanic, applying shades within outlined wings, fuselages, and propellers, aiming to complete each unique airplane drawing accurately. The relaxing environment encourages creativity without time limits or scoring pressure.\n\nKey Features\n\n• Precise color fill mechanic  \n• Interactive paint palette controls  \n• Multiple airplane illustration stages  \n• Freeform and guided coloring modes  \n• Vintage and modern aircraft themes"
-},
-{
-"id": "415ba1509a5c492087bc75f9feab1ad6",
-"title": "Airplanes Coloring Pages",
-"iframe": "https://html5.gamedistribution.com/415ba1509a5c492087bc75f9feab1ad6/",
-"creator": "MBG Network",
-"description": "Explore and color detailed airplane illustrations using a digital palette in this casual painting game. Players pick from a variety of aircraft shapes, applying colors to fill wings, fuselages, and other parts with precision. The game encourages creativity through diverse pattern choices and a simple click-and-fill painting mechanic suitable for kids and teens.\n\nKey Features\n\n• Digital coloring toolset  \n• Interactive aircraft design plates  \n• Pattern selection and customization  \n• Click-and-fill painting mechanic  \n• Aviation-themed coloring challenges"
-},
-{
-"id": "c4df5bd5cf9d4c9bb454ec08ddc2bf68",
-"title": "Cute Planes Coloring",
-"iframe": "https://html5.gamedistribution.com/c4df5bd5cf9d4c9bb454ec08ddc2bf68/",
-"creator": "STA network",
-"description": "Color airplanes by selecting paint colors and applying them to various aircraft designs in this casual coloring game. Players use a digital brush mechanic to fill in sections, unlocking new plane models as they progress through levels. The game offers a calm setting that emphasizes creativity and precision in decorating cute plane illustrations.\n\nKey Features\n\n• Digital paintbrush coloring tool  \n• Unlockable plane designs  \n• Section-based fill mechanic  \n• Level progression system  \n• Airplane-themed artwork"
 },
 {
 "id": "cc786de43c7f49ffa6c9a1ee9f00839a",
@@ -2259,20 +2966,6 @@
 "iframe": "https://html5.gamedistribution.com/c60c4c5cf02b419f850e758efa254ce8/",
 "creator": "Yiv.Com",
 "description": "Create icy treats by mixing flavors and controlling the freezing process in this colorful kitchen puzzle. Players combine different slush ingredients and manage the cooling speed to craft the perfect frozen beverage. The challenge lies in balancing the mixing and freezing to complete each level’s unique recipe under time limits.\n\nKey Features\n\n• Ingredient combination mechanics  \n• Precise freezing temperature control  \n• Timed recipe completion challenges  \n• Multiple flavor mixing stages  \n• Bright, kid-friendly kitchen setting"
-},
-{
-"id": "08c736f9a12c4ca1a1ce4274435e5b5a",
-"title": "Blueberry Muffins",
-"iframe": "https://html5.gamedistribution.com/08c736f9a12c4ca1a1ce4274435e5b5a/",
-"creator": "Baby Hazel",
-"description": "Mix ingredients by following rhythmic cues to bake colorful blueberry muffins before time runs out. The game uses a tap timing core mechanic where players must balance speed and accuracy in a cozy kitchen setting. Each level increases complexity with new recipes and baking tools, challenging players to perfect their timing and complete batches successfully.\n\nKey Features\n\n• Tap timing rhythm mechanic  \n• Ingredient selection and mixing  \n• Increasing recipe difficulty  \n• Time-based level progression  \n• Kitchen-themed visual style"
-},
-{
-"id": "d23c7a6f35cd4f65b7b853fa2b79ebc2",
-"title": "Pumpkin Muffins",
-"iframe": "https://html5.gamedistribution.com/d23c7a6f35cd4f65b7b853fa2b79ebc2/",
-"creator": "Baby Hazel",
-"description": "Collect and mix ingredients to craft unique pumpkin muffins in this casual baking game. Players combine various flavors and toppings while managing baking times to perfect each batch. Progression unfolds by unlocking new recipes and challenging oven settings, all set in a cozy autumn kitchen atmosphere.\n\nKey Features\n\n• Ingredient combination mechanic  \n• Timer-based baking control  \n• Recipe unlock progression  \n• Oven temperature adjustments  \n• Seasonal autumn kitchen theme"
 },
 {
 "id": "3dd8af9132224b3eb9baced034faea19",
@@ -2315,13 +3008,6 @@
 "iframe": "https://html5.gamedistribution.com/31a9d850f4844bd29147b61d5f16152f/",
 "creator": "Girls Games",
 "description": "Match colorful cupcakes by swapping tiles to win hearts in a charming puzzle setup. Use strategic moves to clear levels while unlocking date-themed challenges that test pattern recognition and timing. Each stage introduces new frosting types requiring different match tactics to progress through a sweet romantic setting aimed at casual players.\n\nKey Features\n\n• tile-matching puzzle mechanics  \n• strategic swap controls  \n• frosting type variation challenges  \n• level progression with increasing difficulty  \n• romantic date-themed visuals"
-},
-{
-"id": "e21b9828e0a24266b4a943251800dd7a",
-"title": "Dream Chefs",
-"iframe": "https://html5.gamedistribution.com/e21b9828e0a24266b4a943251800dd7a/",
-"creator": "Yizhiyuan Network Technology Co., Ltd.",
-"description": "Serve and combine diverse dishes against timed kitchen challenges, using quick ingredient matching and preparation mechanics. Navigate through increasingly complex recipes in a vibrant culinary setting where multitasking and speed define success. Players must balance cooking tasks and customer orders to progress through demanding food stall levels.\n\nKey Features\n\n• Ingredient matching and prep system  \n• Time management gameplay dynamics  \n• Progressive recipe complexity  \n• Multitasking order fulfillment  \n• Colorful food stall environment"
 },
 {
 "id": "85af1ba6113c43cca04b9f34c89d7cd1",
@@ -2429,13 +3115,6 @@
 "description": "Assemble layered burgers by stacking precise ingredients under time pressure in this casual food preparation game. Players manage order queues and ingredient placement to meet customer demands efficiently. The core mechanic revolves around timing and spatial arrangement in a fast-food restaurant setting, challenging players to optimize their stacking speed and accuracy.\n\nKey Features\n\n• Ingredient stacking precision  \n• Timed order queue management  \n• Increasing difficulty levels  \n• Customer satisfaction system  \n• Casual kitchen environment"
 },
 {
-"id": "302a284f09b04394b2b6f5d9bee8a656",
-"title": "Mermaid Glitter Cupcakes",
-"iframe": "https://html5.gamedistribution.com/302a284f09b04394b2b6f5d9bee8a656/",
-"creator": "MGS",
-"description": "Mix and match colorful ingredients to decorate sparkling cupcakes with charming mermaid motifs. Players craft detailed pastry designs using a drag-and-drop frosting mechanic, aiming to complete themed orders under time constraints. The game features a progression system that unlocks new decoration tools and cupcake bases, adding variety to each baking challenge.\n\nKey Features\n\n• Drag-and-drop frosting system  \n• Time-limited decoration tasks  \n• Unlockable cupcake designs  \n• Order completion progression  \n• Mermaid-inspired visual style"
-},
-{
 "id": "82f1d11201564108a8fc47be100f4e2b",
 "title": "Super Burger 2",
 "iframe": "https://html5.gamedistribution.com/82f1d11201564108a8fc47be100f4e2b/",
@@ -2471,13 +3150,6 @@
 "description": "Toss fresh ingredients skillfully to build the perfect Caesar Salad while managing timed order completion. Players combine classic Caesar components under pressure, balancing ingredient selection with speed to create satisfying dishes. Each level introduces new dressing options and customer tastes to challenge multitasking and efficiency in this kitchen puzzle environment.\n\nKey Features\n\n• Ingredient combination mechanic  \n• Timed order fulfillment system  \n• Increasing difficulty levels  \n• Dressing variety unlocks  \n• Casual kitchen puzzle setting"
 },
 {
-"id": "5788ffc4685d4949bdc59654b8606d57",
-"title": "Cheese Cupcakes",
-"iframe": "https://html5.gamedistribution.com/5788ffc4685d4949bdc59654b8606d57/",
-"creator": "Baby Hazel",
-"description": "Bake and decorate individual cheese-flavored cupcakes by managing ingredient proportions and oven timing, blending baking precision with creative icing design. Players advance through increasingly challenging recipe variations that test timing and ingredient selection under pressure. The cozy kitchen setting adds charm to the step-by-step preparation and style customization goals.\n\nKey Features\n\n• Ingredient measurement and mixing  \n• Oven temperature and timing control  \n• Progressive recipe difficulty levels  \n• Custom icing decoration system  \n• Cozy kitchen visual theme"
-},
-{
 "id": "fcf46276a4644275b8145d4cd4715e2d",
 "title": "Broccoli Salad",
 "iframe": "https://html5.gamedistribution.com/fcf46276a4644275b8145d4cd4715e2d/",
@@ -2511,13 +3183,6 @@
 "iframe": "https://html5.gamedistribution.com/bcf9bd0c27fb44918ab7674e31f82642/",
 "creator": "jogosonlineapps.com.br",
 "description": "Serve ingredients and assemble burgers quickly in a timed beachside setting where stacking accuracy shapes success. Manage customer orders by combining fresh toppings in the correct order while balancing speed and precision. Levels increase in difficulty by adding more complex recipes and faster-paced service challenges.\n\nKey Features\n\n• Layering mechanic with ingredient stacking  \n• Quick tap and drag controls  \n• Timed order fulfillment progression  \n• Increasing recipe complexity  \n• Coastal diner atmosphere"
-},
-{
-"id": "edbbc0e5e5cb405ba2b50a0d3488703a",
-"title": "Spooky Cupcakes",
-"iframe": "https://html5.gamedistribution.com/edbbc0e5e5cb405ba2b50a0d3488703a/",
-"creator": "Baby Hazel",
-"description": "Mix and match ingredients to create and decorate cupcakes under a spooky theme, testing your timing and precision skills. Players combine different flavors and toppings in a match-three style mechanic with a limited number of moves to complete each eerie recipe. Levels become progressively challenging by introducing tricky ingredient constraints and visual effects that fit a haunted bakery setting.\n\nKey Features\n\n• Match-three ingredient combinations  \n• Timed puzzle-based baking tasks  \n• Ingredient selection and customization  \n• Progressive difficulty tiers  \n• Haunted bakery visual style"
 },
 {
 "id": "62cd1be1231547be820e565af11c3641",
@@ -2651,13 +3316,6 @@
 "iframe": "https://html5.gamedistribution.com/f82fed111e53424cbb7c63edbbffdc12/",
 "creator": "Gameloft SE",
 "description": "Chop, mix, and serve dishes by managing an interactive kitchen counter where players combine ingredients through timed clicks. The game’s focus on reaction speed challenges players to fulfill orders accurately under pressure. Players advance by handling increasingly complex recipes and balancing multiple cooking stations in a fast-paced setting.\n\nKey Features\n\n• Ingredient combination mechanic  \n• Time-based order management  \n• Progressive recipe complexity  \n• Multi-station cooking control  \n• Casual kitchen environment"
-},
-{
-"id": "08e458bccf2b40b6812a31dc08d1e321",
-"title": "Hazel And Mom's Recipes",
-"iframe": "https://html5.gamedistribution.com/08e458bccf2b40b6812a31dc08d1e321/",
-"creator": "Baby Hazel",
-"description": "Manage ingredient selection and timing to prepare various recipes alongside Hazel and her mom, using precise cooking mechanics to combine components correctly. Players follow step-by-step instructions while balancing oven temperature and mixing techniques, aiming to complete dishes efficiently and unlock new recipes. The kitchen setting emphasizes hands-on culinary challenges tailored for casual players and kids.\n\nKey Features\n\n• Ingredient combination mechanic  \n• Timed cooking sequences  \n• Recipe completion objectives  \n• Step-based progression system  \n• Home kitchen environment"
 },
 {
 "id": "3039066375ec4c45a88af1ae344ce091",
@@ -2884,13 +3542,6 @@
 "description": "Mix and decorate a variety of colorful cupcakes by combining ingredients and applying creative toppings in a precise order. Focus on managing the baking process under time constraints to meet specific customer orders. Progress through levels that introduce new recipes and decoration tools, challenging your multitasking and speed in a playful culinary setting.\n\nKey Features\n\n• Ingredient combination mechanics  \n• Time management baking tasks  \n• Level-based recipe progression  \n• Multiple decoration tool options  \n• Casual kitchen-themed gameplay"
 },
 {
-"id": "53562f40dee64052b7d80618df684adb",
-"title": "Wedding Chef",
-"iframe": "https://html5.gamedistribution.com/53562f40dee64052b7d80618df684adb/",
-"creator": "Oscar Intermed",
-"description": "Prepare dishes by combining ingredients and managing kitchen stations in a fast-paced culinary setting. Players serve various wedding-themed orders under time pressure, utilizing ingredient selection and plating mechanics to complete each level. Success depends on multitasking and prioritizing recipes to satisfy guests during the progression of event stages.\n\nKey Features\n\n• Ingredient preparation and combining  \n• Timed order management system  \n• Progressive event stage challenges  \n• Plating and serving controls  \n• Wedding banquet culinary theme"
-},
-{
 "id": "68ea2f1fe5d54172a7d2c22996160932",
 "title": "Samantha Plum: The Globetrotting Chef 3",
 "iframe": "https://html5.gamedistribution.com/68ea2f1fe5d54172a7d2c22996160932/",
@@ -3087,32 +3738,11 @@
 "description": "Navigate through chaotic rescue scenarios by managing doll-like characters in intricate emergency rooms. Players utilize tabletop puzzle mechanics combined with time-sensitive tasks to stabilize patients under pressure. Progression unlocks complex medical equipment challenges, demanding quick decisions to save lives in a surreal hospital setting.\n\nKey Features\n\n• Puzzle-based emergency management  \n• Time-critical patient stabilization  \n• Equipment upgrade challenges  \n• Multi-stage scenario progression  \n• Surreal hospital environment"
 },
 {
-"id": "03d46b3059ef481db306322e75d78650",
-"title": "Beauty Mommy Accident ER",
-"iframe": "https://html5.gamedistribution.com/03d46b3059ef481db306322e75d78650/",
-"creator": "SisiGames",
-"description": "Manage emergency room care by treating multiple accident victims using quick diagnostic and treatment skills. The game challenges players to triage injuries and apply medical procedures under time pressure, emphasizing patient stabilization and recovery in a hospital setting.\n\nKey Features\n\n• Multitasking injury treatment system  \n• Interactive diagnostic controls  \n• Timed urgency challenge levels  \n• Patient recovery progress tracking  \n• Hospital emergency room environment"
-},
-{
 "id": "f541616e79d049e79d61dd4b4f4ccc82",
 "title": "Mommy Accident ER",
 "iframe": "https://html5.gamedistribution.com/f541616e79d049e79d61dd4b4f4ccc82/",
 "creator": "SisiGames",
 "description": "React quickly to unpredictable situations with emergency response tasks, managing urgent care and resource allocation in a fast-paced hospital setting. Players oversee timely treatment delivery through dynamic decision-making, navigating complex ER scenarios. The game challenges players to prioritize medical emergencies and stabilize patients under pressure, blending strategy with time management in a clinical theme.\n\nKey Features\n\n• Emergency triage decision system  \n• Time-sensitive patient treatment  \n• Resource and staff management  \n• Escalating crisis event progression  \n• Hospital emergency room environment"
-},
-{
-"id": "2e31971fd1f84743812823fd789b6a21",
-"title": "Ellie Vaccines Injection",
-"iframe": "https://html5.gamedistribution.com/2e31971fd1f84743812823fd789b6a21/",
-"creator": "SisiGames",
-"description": "Administer precise injections to Ellie in a timed pacing challenge that tests player dexterity and focus. Carefully control the syringe’s movement while avoiding sensitive areas to deliver vaccines effectively. Progress through increasingly delicate scenarios where steady hand coordination is essential to succeed. The game blends fine motor skill demands with a subtle medical theme suited for casual young players.\n\nKey Features\n\n• syringe positioning control  \n• timed injection accuracy  \n• steady hand coordination challenge  \n• progressive difficulty levels  \n• child-friendly medical setting"
-},
-{
-"id": "d3d4814cf05e4f11a9dbdcba46d114ec",
-"title": "Ice Queen Vaccines Injection",
-"iframe": "https://html5.gamedistribution.com/d3d4814cf05e4f11a9dbdcba46d114ec/",
-"creator": "SisiGames",
-"description": "Inject vaccines into infected subjects using precise timing and targeted placements in a cold, icy environment to halt viral spread. Players engage in a unique injection mechanic that challenges their speed and accuracy while managing multiple patient zones. The game progresses through levels with increasing difficulty and new infection patterns appearing across a frozen clinic.\n\nKey Features\n\n• Precision injection timing system  \n• Multi-target patient zones control  \n• Increasing infection pattern complexity  \n• Level-based difficulty progression  \n• Frozen clinic cold atmosphere"
 },
 {
 "id": "bac933bb80014eca8b5ec99b0f3e0d3e",
@@ -3395,13 +4025,6 @@
 "description": "Collect nectar from dynamically spawning flowers while managing your bee’s flight path and energy to maximize the harvest in a vibrant garden environment. The game challenges you to navigate through increasingly complex flower clusters and avoid obstacles that drain stamina. Progression unlocks new flight abilities and flower types to diversify the collection strategy.\n\nKey Features\n\n• Precision flight and energy management  \n• Collectible flower spawn system  \n• Increasingly dense flower clusters  \n• Unlockable flight upgrades  \n• Garden-themed nectar harvesting"
 },
 {
-"id": "d0fb36f56a7247e79f795deea5e04177",
-"title": "Harvesting Veggies",
-"iframe": "https://html5.gamedistribution.com/d0fb36f56a7247e79f795deea5e04177/",
-"creator": "FantasyTalk",
-"description": "Plant and collect various vegetables using time-based harvesting mechanics to manage your crop fields efficiently. Navigate growth cycles and optimize pick times to maximize yield before your garden's seasonal shifts alter gameplay dynamics. The casual farming setting challenges players to balance resource gathering with strategic timing in a vibrant, kid-friendly environment.\n\nKey Features\n\n• Time-based harvesting mechanic  \n• Crop growth cycle management  \n• Increase yield through strategic timing  \n• Seasonal field changes  \n• Casual farming garden theme"
-},
-{
 "id": "9547692496ca45bb8e01e655e9121bdd",
 "title": "Farm Business Saga",
 "iframe": "https://html5.gamedistribution.com/9547692496ca45bb8e01e655e9121bdd/",
@@ -3500,27 +4123,6 @@
 "description": "Pilot a nimble copter through obstacle-filled aerial courses in this casual aviation challenge. The game relies on precise tilt and thrust controls to navigate tight spaces while avoiding crashes. Players aim to reach checkpoints within time limits, testing reflexes and spatial awareness. Occasional speed zones add intensity to the flight progression.\n\nKey Features\n\n• Tilt-based helicopter controls  \n• Time-limited checkpoint navigation  \n• Increasing obstacle complexity  \n• Momentum-influenced flight physics  \n• Aerial-themed level design"
 },
 {
-"id": "9e2bad501d4a4a5391818d048a2f4f0e",
-"title": "EG Swing Copters",
-"iframe": "https://html5.gamedistribution.com/9e2bad501d4a4a5391818d048a2f4f0e/",
-"creator": "EcapsGames.com",
-"description": "Tap to control rapid vertical swings and avoid spinning obstacles as you navigate a small flying character through narrow gaps. Master timing and flick precision to climb higher in increasingly challenging levels with shifting hazard patterns. The focus on sharp directional inputs and rhythm-based movement creates tense platforming gameplay for casual players aiming to beat their best score.\n\nKey Features\n\n• Precise tap-based movement control  \n• Obstacle avoidance with rotating hazards  \n• Gradual difficulty and level progression  \n• Score attack challenge mode  \n• Minimalist vertical flight theme"
-},
-{
-"id": "7a3db9f663354eb7a922da69f7dcb1dc",
-"title": "Swing Copters",
-"iframe": "https://html5.gamedistribution.com/7a3db9f663354eb7a922da69f7dcb1dc/",
-"creator": "marcos bart games",
-"description": "Navigate a rapidly swinging propeller to ascend through narrow gaps with precise timing and directional taps. This game challenges players to master its simple yet punishing flap control style with momentum-based movement, aiming to achieve higher scores by avoiding rotating obstacles. The vertical obstacle tower setting demands quick reflexes and pattern recognition to progress.\n\nKey Features\n\n• Momentum-based flap control  \n• Precise timing navigation  \n• Increasing obstacle difficulty  \n• Single continuous scoring mode  \n• Minimalist vertical obstacle tower"
-},
-{
-"id": "fa06663935cb498cb610b2f4edd655d6",
-"title": "Corona Airplanes Hidden",
-"iframe": "https://html5.gamedistribution.com/fa06663935cb498cb610b2f4edd655d6/",
-"creator": "STA network",
-"description": "Scan detailed airplane silhouettes to spot hidden virus clusters in timed puzzle challenges. This game tasks players with sharp observation and quick selection mechanics set against an aviation-themed backdrop. Players aim to identify all concealed contaminants before time runs out, progressing through increasingly complex visual patterns and challenging hidden-object stages.\n\nKey Features\n\n• Silhouette recognition puzzle mechanic  \n• Mouse click selection controls  \n• Increasing difficulty levels  \n• Timed challenge mode  \n• Aviation-themed hidden-object scenes"
-},
-{
 "id": "5ea297f6477a4975aee4e078e98b91b6",
 "title": "The Aviator",
 "iframe": "https://html5.gamedistribution.com/5ea297f6477a4975aee4e078e98b91b6/",
@@ -3561,13 +4163,6 @@
 "iframe": "https://html5.gamedistribution.com/b95d571460d94e179b792ed9d614a67c/",
 "creator": "FluffyFoxGames",
 "description": "Glide through expansive skies using precise air currents to navigate complex aerial paths in this casual browser game. Players must master subtle wind shifts and altitude control to avoid obstacles and maintain momentum. Each level introduces new environmental challenges that test reaction time and flight finesse.\n\nKey Features\n\n• Wind-based flight control system  \n• Height and speed adjustment mechanics  \n• Progressive obstacle difficulty scaling  \n• Time trial and free glide modes  \n• Open sky environment design"
-},
-{
-"id": "c96f0090394f4974bc3660c1dd6ace06",
-"title": "Paper Planes",
-"iframe": "https://html5.gamedistribution.com/c96f0090394f4974bc3660c1dd6ace06/",
-"creator": "MarketJS",
-"description": "Glide paper planes through increasingly complex air currents while adjusting flight angle and speed to reach distant targets. Players use precise control and timing to navigate obstacles and catch thermals that boost distance. Each level introduces new environmental challenges, requiring subtle adjustments and strategic flight paths to achieve maximum range and score.\n\nKey Features\n\n• Flight angle adjustment mechanic  \n• Wind and air current navigation  \n• Level-based obstacle progression  \n• Thermal lift boost system  \n• Handcrafted paper plane designs"
 },
 {
 "id": "7da1d1f0bbe64db08338b05e9a697290",
@@ -3724,13 +4319,6 @@
 "description": "Navigate a customizable plane through increasingly complex aerial courses, mastering precise control inputs to avoid obstacles and maintain flight stability. The game challenges players to improve maneuvering skills while progressing through levels that introduce tighter passages and faster pacing. A focus on smooth handling and obstacle patterns drives the core gameplay loop.\n\nKey Features\n\n• Responsive plane control system  \n• Precision obstacle navigation  \n• Progressive level difficulty scaling  \n• Time trial scoring mode  \n• Minimalistic aerial environment"
 },
 {
-"id": "76d8dca00d2143b1bc9a2fb37e4f7e03",
-"title": "Dotted Girl Vaccines Injection",
-"iframe": "https://html5.gamedistribution.com/76d8dca00d2143b1bc9a2fb37e4f7e03/",
-"creator": "SisiGames",
-"description": "Administer precise injections to dotted characters using targeted aiming mechanics in this medical-themed challenge. Players carefully time and position vaccination shots to successfully immunize each patient while adapting to increasing speed and pattern complexity. The game tests reaction and accuracy in a quirky healthcare scenario, pushing players to improve focus and timing under pressure.\n\nKey Features\n\n• Aiming and injection timing\n• Pattern recognition progression\n• Reaction speed challenges\n• Patient immunization count\n• Cartoon medical setting"
-},
-{
 "id": "da6592f60473400996a01dcf2682ab16",
 "title": "Plane Touch Gun",
 "iframe": "https://html5.gamedistribution.com/da6592f60473400996a01dcf2682ab16/",
@@ -3773,39 +4361,11 @@
 "description": "Manage and upgrade a bustling panda-themed kitchen by balancing resource allocation and cooking times to serve adorable customers efficiently. This idle tycoon centers around automating food preparation and expanding your culinary empire through strategic upgrades. Unlock new recipes and kitchen equipment to increase productivity and climb the ranks of successful restaurateurs.\n\nKey Features\n\n• Idle cooking progress system  \n• Resource management and upgrades  \n• Customer satisfaction metrics  \n• Automated food preparation mechanics  \n• Panda kitchen visual theme"
 },
 {
-"id": "15c01e38dddc4de5b1e52c50b41fb96f",
-"title": "Vacation Airplanes Jigsaw",
-"iframe": "https://html5.gamedistribution.com/15c01e38dddc4de5b1e52c50b41fb96f/",
-"creator": "STA network",
-"description": "Arrange intricate plane-shaped pieces to complete vibrant vacation-themed puzzles in this casual jigsaw experience. Players engage with traditional drag-and-drop mechanics while solving images featuring diverse airplane models and scenic skies. The challenge lies in matching each puzzle piece correctly to reveal a relaxing holiday backdrop, offering a calming progression through increasing image complexity.\n\nKey Features\n\n• Drag-and-drop puzzle assembly  \n• Progressive image complexity  \n• Airplane and sky visual themes  \n• Timer-based challenge mode  \n• Piece adjacency highlighting system"
-},
-{
-"id": "bffb40b33bd34e3cacfb93ea29befd40",
-"title": "Jet Planes Jigsaw",
-"iframe": "https://html5.gamedistribution.com/bffb40b33bd34e3cacfb93ea29befd40/",
-"creator": "Best Games",
-"description": "Arrange intricate jet plane puzzle pieces to complete vibrant aviation scenes, testing spatial reasoning and pattern recognition. Players slide and rotate fragments to reassemble detailed images of various aircraft, unlocking new levels as complexity increases. The challenge lies in managing piece placement within time constraints, offering a calm yet engaging puzzle experience for casual players.\n\nKey Features\n\n• Sliding piece puzzle mechanic  \n• Rotational piece alignment controls  \n• Increasingly complex image sets  \n• Time-based challenge mode  \n• Detailed jet aircraft artwork"
-},
-{
-"id": "932a79b76ba84176897f2cd96b6e4a15",
-"title": "Fun Planes Jigsaw",
-"iframe": "https://html5.gamedistribution.com/932a79b76ba84176897f2cd96b6e4a15/",
-"creator": "STA network",
-"description": "Assemble plane-shaped pieces by dragging and fitting them together in grid-based puzzles that challenge spatial reasoning. Each level requires players to complete distinct jigsaw puzzles featuring colorful airplane images while managing limited moves. Progress through increasingly complex patterns that test visual perception, making sorting and placement the core mechanic of this puzzle experience.\n\nKey Features\n\n• Drag and drop puzzle assembly  \n• Limited move count challenges  \n• Progressive puzzle difficulty  \n• Multiple plane image patterns  \n• Grid-based spatial reasoning"
-},
-{
 "id": "a3829f1db30a4776b4f1b9a1ce529ff9",
 "title": "Dangerous Helicopter Jigsaw",
 "iframe": "https://html5.gamedistribution.com/a3829f1db30a4776b4f1b9a1ce529ff9/",
 "creator": "STA network",
 "description": "Navigate hovering choppers through complex jigsaw puzzles where each assembled piece unlocks new aerial challenges. The game blends traditional puzzle mechanics with the tension of piloting segmented helicopter images, pushing players to complete intricate designs under time pressure. Assembling precise sections quickly is key to advancing through increasingly detailed helicopter-themed levels.\n\nKey Features\n\n• Piece fitting helicopter puzzles  \n• Time-limited assembly challenges  \n• Increasing design complexity  \n• Section unlocking progression system  \n• Aviation imagery and styles"
-},
-{
-"id": "8b23f416f6fd4fd0bbd4d76e441eb6c5",
-"title": "Fun Airplanes Jigsaw",
-"iframe": "https://html5.gamedistribution.com/8b23f416f6fd4fd0bbd4d76e441eb6c5/",
-"creator": "MBG Network",
-"description": "Arrange colorful airplane pieces by matching shapes and colors to complete vibrant sky scenes in this jigsaw puzzle game. Use drag-and-drop controls to fit aircraft parts into place, progressing through increasing puzzle complexity as you unlock diverse airplane models. Each completed level reveals new detailed illustrations centered on aviation themes, challenging spatial reasoning and visual matching skills.\n\nKey Features\n\n• drag-and-drop puzzle mechanic  \n• progressive difficulty levels  \n• diverse airplane piece designs  \n• spatial recognition challenge system  \n• vibrant aviation-themed illustrations"
 },
 {
 "id": "4823c53ca5b94faa98f4d42b0f799cc0",
@@ -3820,13 +4380,6 @@
 "iframe": "https://html5.gamedistribution.com/e3d02f4d7f7d4b2ca1fa4708514e9c00/",
 "creator": "Yiv.Com",
 "description": "Manage a busy kitchen station by preparing and plating colorful meals under time pressure, using fast tapping and ingredient selection mechanics. Progression involves unlocking new recipes and kitchen tools to keep up with increasing customer demands. Each level challenges players to balance speed and accuracy in a vibrant cooking environment tailored for casual play.\n\nKey Features\n\n• Ingredient combining mechanics  \n• Tap-based cooking controls  \n• Recipe unlocking progression  \n• Time management challenges  \n• Cartoon kitchen setting"
-},
-{
-"id": "6f65c8af2eac41829186db088edfd606",
-"title": "Friendly Airplanes For Kids Coloring",
-"iframe": "https://html5.gamedistribution.com/6f65c8af2eac41829186db088edfd606/",
-"creator": "STA network",
-"description": "Select colors to fill various airplane designs in a simple coloring activity aimed at younger players. The core mechanic revolves around choosing and applying colors to airplane illustrations, promoting creativity within a calm, kid-friendly aviation setting. Players aim to complete each airplane's coloring page, fostering artistic exploration and visual coordination.\n\nKey Features\n\n• Color palette selection tool  \n• Click and fill painting mechanic  \n• Multiple airplane templates  \n• Relaxed no-time-limit mode  \n• Child-friendly aviation theme"
 },
 {
 "id": "1da33dc5c93c4ecd8d4a1e5d25d5ace7",
@@ -3869,13 +4422,6 @@
 "iframe": "https://html5.gamedistribution.com/95da4897af394ecda7f2658ef7edd309/",
 "creator": "Vi Games",
 "description": "Match airplane icons to test memory recall speed and accuracy in a grid-based layout. Players engage through pattern recognition and sequential matching, gradually increasing difficulty with faster time limits and larger grids. The challenge revolves around enhancing short-term memory under time pressure in a simple aviation-themed puzzle setting.\n\nKey Features\n\n• Icon matching memory mechanic  \n• Time-limited pattern recognition  \n• Increasing grid size challenges  \n• Sequential recall progression system  \n• Aviation icon set visuals"
-},
-{
-"id": "49e41b1e04474f10a3a39d7d35ece5b2",
-"title": "Muffins Memory Match",
-"iframe": "https://html5.gamedistribution.com/49e41b1e04474f10a3a39d7d35ece5b2/",
-"creator": "Vi Games",
-"description": "Match colorful muffin pairs by flipping tiles in a timed memory challenge that sharpens recall skills. Players reveal and remember unique muffin designs on a shrinking grid to clear levels and unlock more difficult stages. This casual matching game engages pattern recognition through quick matching while balancing increasing difficulty.\n\nKey Features\n\n• Tile flipping memory mechanic  \n• Time-limited tile reveal controls  \n• Increasing grid size challenges  \n• Progressive level unlocking system  \n• Vibrant pastry-themed visuals"
 },
 {
 "id": "a82b5b9d46604486b03d45e1363d72ea",
@@ -6612,13 +7158,6 @@
 "iframe": "https://html5.gamedistribution.com/6653791462314854ae3027945211017b/",
 "creator": "Flick Gamer",
 "description": "Navigate prehistoric landscapes by transporting towering dinosaur cargo with precision steering and careful load balance. Players tackle varied terrain challenges using specialized transport vehicles designed for heavy hauling. Progression unfolds through increasingly complex delivery routes requiring time management and obstacle navigation in a prehistoric setting.\n\nKey Features\n\n• Dinosaur cargo load balancing  \n• Vehicle steering and braking control  \n• Time-limited delivery challenges  \n• Route difficulty escalation system  \n• Prehistoric landscape environments"
-},
-{
-"id": "12a67399a6d94061a956d8751975c837",
-"title": "Ambulance Simulators: Rescue Mission",
-"iframe": "https://html5.gamedistribution.com/12a67399a6d94061a956d8751975c837/",
-"creator": "Best Free Games",
-"description": "Navigate urban streets while managing ambulance controls in this rescue simulation game. Players operate an emergency vehicle under time constraints to reach injured characters and provide critical aid. The gameplay focuses on realistic driving mechanics and mission-based objectives that mimic urgent medical response scenarios. Progression involves mastering vehicle handling and route optimization across increasingly complex emergencies.\n\nKey Features\n\n• Time-sensitive driving missions  \n• Ambulance vehicle control system  \n• Emergency patient assistance tasks  \n• Mission-based progression levels  \n• Urban environment settings"
 },
 {
 "id": "5ba077934ecc4c0390c3b9d83f6d67d6",

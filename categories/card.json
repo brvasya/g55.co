@@ -1,6 +1,48 @@
 {
 "pages": [
 {
+"id": "3fda37d303d1449eaaaa42215395675a",
+"title": "Cat Solitaire",
+"iframe": "https://html5.gamedistribution.com/3fda37d303d1449eaaaa42215395675a/",
+"creator": "CMC Online s.r.o.",
+"description": "Stack cards by suit to clear the tableau and reveal hidden cat illustrations in this charming solitaire variant. Players arrange cards through classic draw and discard moves, carefully managing limited moves to complete each level. Bonus rounds add timed challenges that test memory and speed, immersing casual players and kids in a cozy card puzzle setting.\n\nKey Features\n\n• Classic card stacking mechanic  \n• Click and drag card controls  \n• Limited move challenge system  \n• Timed bonus memory rounds  \n• Cat-themed card illustrations"
+},
+{
+"id": "79d6fa3c4ebc41e6b8346f95640ed099",
+"title": "Christmas Klondike Solitaire",
+"iframe": "https://html5.gamedistribution.com/79d6fa3c4ebc41e6b8346f95640ed099/",
+"creator": "WillingGames.com",
+"description": "Arrange cards in classic solitaire fashion by building sequences within a festive winter backdrop. The game uses a Klondike variant where players organize cards into descending order with alternating suits, aiming to clear the tableau into foundation piles. Seasonal decorations set a cozy tone while players strategize card moves through drag-and-drop to complete the challenge.\n\nKey Features\n\n• Klondike solitaire stacking mechanic  \n• Drag-and-drop card control  \n• Increasing difficulty through shuffled decks  \n• Undo move function  \n• Holiday-themed card design"
+},
+{
+"id": "476bcd303f904f68ba3a47c746cc7324",
+"title": "Christmas Freecell Solitaire",
+"iframe": "https://html5.gamedistribution.com/476bcd303f904f68ba3a47c746cc7324/",
+"creator": "WillingGames.com",
+"description": "Arrange cards strategically using classic Freecell rules in a winter-themed solitaire setting where clearing all suits is the main goal. Players manipulate individual cards across tableau piles with open freecells enabling careful planning and sequence building. The festive visuals complement deliberate card movement as you aim to solve each hand efficiently.\n\nKey Features\n\n• Freecell card manipulation mechanic  \n• Drag and drop card controls  \n• Increasing puzzle difficulty levels  \n• Undo move option for precision  \n• Holiday-themed solitaire layout"
+},
+{
+"id": "40b8b27815b14d29b37e025e94c25c43",
+"title": "Solitaires Crime Stories",
+"iframe": "https://html5.gamedistribution.com/40b8b27815b14d29b37e025e94c25c43/",
+"creator": "Rainbow Games",
+"description": "Navigate intricate solitaire card puzzles combined with crime scene investigations in this game. Players uncover clues by solving layered solitaire challenges while piecing together mystery elements. The gameplay weaves traditional card sorting with narrative progression, inviting players to advance through different cases while testing their logic and pattern recognition skills.\n\nKey Features\n\n• layered solitaire puzzle mechanics  \n• clue collection and analysis  \n• progressive case unlocking system  \n• interactive narrative segments  \n• crime-themed mystery atmosphere"
+},
+{
+"id": "6e8cbdf0a57640e6968eb6ab8797bf43",
+"title": "Mr Bean - Solitaire Adventures",
+"iframe": "https://html5.gamedistribution.com/6e8cbdf0a57640e6968eb6ab8797bf43/",
+"creator": "GameBake Ltd",
+"description": "Arrange classic card sequences using strategic moves to clear the tableau in this solitaire variant featuring Mr Bean’s quirky charm. Players manage draw and discard mechanics while navigating unique card layouts inspired by the character’s humorous escapades. The goal is to efficiently complete each level by ordering cards in suit and sequence, unlocking new puzzles as you progress.\n\nKey Features\n\n• Traditional Klondike solitaire rules  \n• Draw and discard card control  \n• Increasing level difficulty  \n• Timed challenge mode  \n• Cartoony Mr Bean themed visuals"
+},
+{
+"id": "17225960b791439b885effd91a6d62b4",
+"title": "Spaces Solitaire",
+"iframe": "https://html5.gamedistribution.com/17225960b791439b885effd91a6d62b4/",
+"creator": "bestphysics",
+"description": "Stack cards to clear the tableau in this solitaire variant set in a cosmic backdrop. Players arrange cards by alternating colors and descending order to uncover hidden stacks and form sequences. Strategic card movement and managing limited redeals challenge players to complete as many card sequences as possible within each game.\n\nKey Features\n\n• Classic solitaire stacking rules  \n• Alternating color card arrangement  \n• Limited redeal system  \n• Sequential stack completion challenge  \n• Space-themed card designs"
+},
+{
 "id": "5a3346e1be454327909c196ebb06aaea",
 "title": "Rummy Multiplayer",
 "iframe": "https://html5.gamedistribution.com/5a3346e1be454327909c196ebb06aaea/",
@@ -433,13 +475,6 @@
 "iframe": "https://html5.gamedistribution.com/8960e51fca4740e9b3fe072022c22c18/",
 "creator": "Rainbow Games",
 "description": "Arrange cards with strategic stacking and unveiling sequences to clear the tableau in this classic solitaire variant. Players rely on meticulous card placement and pattern recognition, navigating through progressive tableau layouts to achieve a full clear. The gameplay blends traditional card sorting with timing precision as players advance through increasingly complex deals.\n\nKey Features\n\n• Sequential card stacking mechanic  \n• Mouse-driven card movement controls  \n• Progressive tableau layout difficulty  \n• Undo move and hint systems  \n• Classic card deck visual style"
-},
-{
-"id": "40b8b27815b14d29b37e025e94c25c43",
-"title": "Solitaires Crime Stories",
-"iframe": "https://html5.gamedistribution.com/40b8b27815b14d29b37e025e94c25c43/",
-"creator": "Rainbow Games",
-"description": "Navigate intricate solitaire card puzzles combined with crime scene investigations in this game. Players uncover clues by solving layered solitaire challenges while piecing together mystery elements. The gameplay weaves traditional card sorting with narrative progression, inviting players to advance through different cases while testing their logic and pattern recognition skills.\n\nKey Features\n\n• layered solitaire puzzle mechanics  \n• clue collection and analysis  \n• progressive case unlocking system  \n• interactive narrative segments  \n• crime-themed mystery atmosphere"
 },
 {
 "id": "8fa9fde52d22442e955ba0e0dd6936dc",
@@ -1471,20 +1506,6 @@
 "description": "Sort cards quickly by food categories in this fast-paced matching game. Players engage a simple drag-and-drop mechanic to organize diverse food items against a ticking timer, emphasizing speed and accuracy. The challenge increases with varying card layouts and increasing complexity to test sorting skills under pressure.\n\nKey Features\n\n• Drag-and-drop sorting mechanic  \n• Timed rounds with scoring thresholds  \n• Increasing card variety and layout complexity  \n• Progressive speed and difficulty levels  \n• Food-themed card design"
 },
 {
-"id": "1a2e73c6122a4ade808b60b29b0f27d1",
-"title": "Casino Cards Memory",
-"iframe": "https://html5.gamedistribution.com/1a2e73c6122a4ade808b60b29b0f27d1/",
-"creator": "KidsGames4All",
-"description": "Match pairs of cards by remembering their positions in a grid-based layout to uncover hidden symbols. Players rely on a classic memory challenge mechanic where flipping and recalling card locations lead to clearing the board. The game tests concentration through increasing card quantities and timed rounds for added difficulty.\n\nKey Features\n\n• Card flipping and matching mechanic  \n• Player memory and recall challenge  \n• Progressive grid size increase  \n• Timed round scoring system  \n• Classic card deck visual style"
-},
-{
-"id": "1fcc4ecfd5a142ca8f9ea722685cd0d0",
-"title": "Casino Cards Memory",
-"iframe": "https://html5.gamedistribution.com/1fcc4ecfd5a142ca8f9ea722685cd0d0/",
-"creator": "GameNing",
-"description": "Flip cards to match pairs while testing memory skills in this casual browser game. Players reveal and remember positions of casino-themed cards featuring classic suits and values. The core challenge is to clear the board with as few moves as possible, promoting sharper recall and pattern recognition at increasing difficulties.\n\nKey Features\n\n• Classic card matching mechanic  \n• Click-based card reveal controls  \n• Move count scoring system  \n• Progressive difficulty levels  \n• Casino suit design elements"
-},
-{
 "id": "9e502203c8034aa9a99255d79b7f0dcb",
 "title": "Spooky Memory Card",
 "iframe": "https://html5.gamedistribution.com/9e502203c8034aa9a99255d79b7f0dcb/",
@@ -1492,25 +1513,11 @@
 "description": "Match and reveal pairs of ghostly cards using perfect memory recall to clear each spooky deck. The game challenges players to use concentration and strategic flipping to uncover all matching images before time runs out. Card sets feature eerie designs and progress through escalating difficulty levels, testing focus and short-term memory accuracy.\n\nKey Features\n\n• classic memory matching mechanic  \n• controlled card flipping interaction  \n• timed challenge with level progression  \n• increasing deck complexity system  \n• haunted-themed card artwork"
 },
 {
-"id": "77a2802580c5407099b3d35acb04afca",
-"title": "Virus Cards Memory",
-"iframe": "https://html5.gamedistribution.com/77a2802580c5407099b3d35acb04afca/",
-"creator": "WillingGames.com",
-"description": "Match pairs of virus-themed cards using memory and deduction skills in this casual brain teaser. Players flip cards to reveal hidden virus illustrations, aiming to find all matching sets before time runs out or turns expire. The game challenges visual recall with a clean, colorful design that appeals to younger gamers and teens looking to sharpen memory.  \n\nKey Features\n\n• card flipping memory mechanic  \n• timed matching challenges  \n• turn-based progression system  \n• simple mouse or touch controls  \n• virus-themed card illustrations"
-},
-{
 "id": "9524aa643e064559b9a98c21e7f1c78a",
 "title": "Summer Cold Drinks Card Memory",
 "iframe": "https://html5.gamedistribution.com/9524aa643e064559b9a98c21e7f1c78a/",
 "creator": "WillingGames.com",
 "description": "Match pairs of colorful cold drink cards to test memory skills in this refreshing casual challenge. Players flip cards with a classic card matching mechanic, aiming to clear all pairs within limited moves. The game features a summery beverage theme with multiple levels increasing in difficulty to keep concentration sharp for teens and kids.\n\nKey Features\n\n• card pair matching system  \n• click to reveal and match cards  \n• progressively harder memory puzzles  \n• limited move challenge mode  \n• summer drink visual theme"
-},
-{
-"id": "9542d6d28bae4b39b08e353ac2565cfa",
-"title": "Playing Cards Memory",
-"iframe": "https://html5.gamedistribution.com/9542d6d28bae4b39b08e353ac2565cfa/",
-"creator": "New Kids Games",
-"description": "Match pairs of cards by flipping them to reveal symbols and test your memory skills in a classic card layout. The gameplay emphasizes memorization and recall, requiring players to track card positions after brief exposure. Progression unfolds through increasingly challenging board sizes that demand sharper focus. Casual players and kids engage with simple controls suited for short sessions.\n\nKey Features\n\n• card pair matching mechanic  \n• flip and track card positions  \n• progressive board complexity  \n• time-limited memory challenges  \n• classic playing cards theme"
 },
 {
 "id": "8099f087ef45452f9e4d34279d9eae44",
@@ -1527,34 +1534,6 @@
 "description": "Match colorful cards by flipping pairs to test and improve your memory skills in this casual browser game. Each level challenges players to remember the position of unique card designs, aiming to clear the board swiftly with minimal flips. As progression unfolds, the number of card pairs increases, adding complexity and requiring sharper focus from teens and kids alike.\n\nKey Features\n\n• Classic memory matching mechanic  \n• Click-and-flip card controls  \n• Increasing pair count challenges  \n• Time-based scoring system  \n• Vivid, vibrant card artwork"
 },
 {
-"id": "e7afb027a2fb4c2385cf60f694e331e3",
-"title": "Maze Runner 3D Cards Hunt 2018",
-"iframe": "https://html5.gamedistribution.com/e7afb027a2fb4c2385cf60f694e331e3/",
-"creator": "Red Eye Production",
-"description": "Navigate intricate 3D mazes searching for collectible cards to complete each level while managing spatial puzzles from a dynamic third-person viewpoint. Timing and strategic movement shape your progress through increasingly complex labyrinth layouts, with optional hidden paths offering extra exploration challenges.\n\nKey Features\n\n• 3D maze navigation mechanics  \n• Card collection objectives  \n• Timed movement challenges  \n• Unlockable secret passages  \n• Dynamic third-person camera control"
-},
-{
-"id": "4d2fbca0ba5e4403bb786a4f9f78d880",
-"title": "Xmas Cards Match",
-"iframe": "https://html5.gamedistribution.com/4d2fbca0ba5e4403bb786a4f9f78d880/",
-"creator": "Lof Games",
-"description": "Match holiday-themed cards by flipping pairs in a memory challenge designed for casual play. Players reveal pairs to clear the board, testing concentration and recall with festive card designs. The game progresses by increasing the number of cards, introducing a light time constraint to heighten the challenge and encourage quick thinking.\n\nKey Features\n\n• Card flipping memory mechanic  \n• Pair matching gameplay control  \n• Increasing card grid sizes  \n• Time-based challenge system  \n• Festive holiday-themed cards"
-},
-{
-"id": "846278ed6c3746fc949b181db57b0b68",
-"title": "Purse Cards Match",
-"iframe": "https://html5.gamedistribution.com/846278ed6c3746fc949b181db57b0b68/",
-"creator": "Lof Games",
-"description": "Match paired cards on purse-shaped tiles to clear levels and improve memory skills in this casual puzzle experience. Players flip cards to find identical images hidden behind stylish purse icons, gradually increasing the challenge with timed rounds and limited moves. Progression unlocks more intricate layouts that test quick thinking and pattern recognition.\n\nKey Features\n\n• Card flipping memory mechanic  \n• Time-limited puzzle stages  \n• Increasingly complex layouts  \n• Limited move challenge system  \n• Purse-themed tile design"
-},
-{
-"id": "32d09874d8374334a6bf3ee13b75cbb5",
-"title": "Valentines Cards Match",
-"iframe": "https://html5.gamedistribution.com/32d09874d8374334a6bf3ee13b75cbb5/",
-"creator": "Lof Games",
-"description": "Match pairs of Valentine's-themed cards by flipping them on a grid to test memory skills and speed. Players reveal two cards at a time, aiming to find matching pairs within a limited number of moves. The game features increasing difficulty with larger card sets and subtle time constraints to boost the challenge for casual players and kids alike.\n\nKey Features\n\n• Memory matching card mechanic  \n• Mouse-click card flipping control  \n• Move limit based challenge  \n• Progressive difficulty levels  \n• Romantic holiday card visuals"
-},
-{
 "id": "295541aca4544c7da1ce8a12a6c51411",
 "title": "Funny Match Card",
 "iframe": "https://html5.gamedistribution.com/295541aca4544c7da1ce8a12a6c51411/",
@@ -1562,46 +1541,11 @@
 "description": "Match pairs by flipping cards to reveal hidden images in this casual concentration challenge. Players use memory and pattern recognition to clear the board as quickly as possible while uncovering matching pairs. The game tests quick recall and visual tracking through progressively complex layouts, offering a straightforward activity suited for teens and kids looking to sharpen their focus.\n\nKey Features\n\n• Memory-based card matching  \n• Click and flip controls  \n• Increasing layout complexity  \n• Time attack scoring mode  \n• Simple visual card designs"
 },
 {
-"id": "998cbd89a9dd4adc8e9af548a039761c",
-"title": "Vegetable Cards Match",
-"iframe": "https://html5.gamedistribution.com/998cbd89a9dd4adc8e9af548a039761c/",
-"creator": "Lof Games",
-"description": "Match pairs of vegetable-themed cards by memory and pattern recognition in this casual puzzle game. Players flip cards across varied grids, revealing different vegetable icons to find pairs before time runs out. The distinct card-flipping mechanic challenges memory accuracy while progressing through increasingly complex layouts that test focus and speed.\n\nKey Features\n\n• Card-flipping memory gameplay  \n• Timer-based matching challenges  \n• Progressive grid complexity  \n• Score tracking and best times  \n• Vegetable icon variety"
-},
-{
 "id": "3f55df11aa794b5b89bad9b5cad20f1f",
 "title": "CARD MATCH 10",
 "iframe": "https://html5.gamedistribution.com/3f55df11aa794b5b89bad9b5cad20f1f/",
 "creator": "Synk Inc.",
 "description": "Match numbered cards to reach a total of ten and clear the board in this card puzzle challenge. Players combine strategic pairing with a straightforward point-matching mechanic, gradually increasing difficulty with more complex card layouts. Timed levels test quick thinking, while additional shuffle and hint options help navigate challenging sequences.\n\nKey Features\n\n• Number matching core mechanic  \n• Card selection and pairing controls  \n• Increasing layout complexity challenge  \n• Timed level progression system  \n• Optional hint and shuffle aids"
-},
-{
-"id": "d4ca43bdb49e4011acc7596d2c854f32",
-"title": "Cards Match Puzzle",
-"iframe": "https://html5.gamedistribution.com/d4ca43bdb49e4011acc7596d2c854f32/",
-"creator": "Bofer Media (Twim Studio)",
-"description": "Match pairs of cards by flipping and memorizing their positions in this casual puzzle game focused on pattern recognition and memory challenge. Players advance through increasingly complex layouts, testing recall speed and accuracy. Timed levels add pressure to find matches before the clock runs out, offering a light brain workout suitable for teens and kids.\n\nKey Features\n\n• card flipping memory mechanic  \n• quick reflex matching controls  \n• escalating difficulty puzzles  \n• timed challenge mode  \n• colorful, kid-friendly visuals"
-},
-{
-"id": "4cd68cbe2dfc41149176227cebc1d70d",
-"title": "Kids Cards Match",
-"iframe": "https://html5.gamedistribution.com/4cd68cbe2dfc41149176227cebc1d70d/",
-"creator": "Lof Games",
-"description": "Match pairs of colorful cards by flipping them over to reveal hidden symbols in this memory-based challenge. The gameplay centers on a classic card matching mechanic where players must remember card positions to clear the board efficiently. Progression involves increasing difficulty with larger card layouts and limited attempts to complete each level.\n\nKey Features\n\n• Memory matching card mechanic  \n• Flip and reveal controls  \n• Increasing card grid sizes  \n• Limited attempts per stage  \n• Family-friendly visual style"
-},
-{
-"id": "5eac6df2561f49d1ac2992d130900bca",
-"title": "Jigsaw Cards: Daily Puzzles",
-"iframe": "https://html5.gamedistribution.com/5eac6df2561f49d1ac2992d130900bca/",
-"creator": "Clever Apps Pte. Ltd.",
-"description": "Arrange intricate jigsaw pieces to complete daily card puzzles, requiring spatial reasoning and pattern recognition. Each challenge features uniquely shaped pieces with subtle image hints that demand careful placement. Progression unlocks increasingly complex puzzles while a timer tracks completion speed. The game blends classic jigsaw assembly with card-themed visuals to engage casual players and younger audiences.\n\nKey Features\n\n• Piece fitting core mechanic  \n• Drag-and-drop controls  \n• Time-based challenge system  \n• Daily puzzle rotation  \n• Card motif visual style"
-},
-{
-"id": "09e7f2288eb24198b7a1caba12551c84",
-"title": "Golf of Cards",
-"iframe": "https://html5.gamedistribution.com/09e7f2288eb24198b7a1caba12551c84/",
-"creator": "Casual_Azerion_Old",
-"description": "Manipulate cards to navigate challenging golf courses in a unique blend of strategy and precision. Players must carefully manage their card deck to plan shots and adapt to changing course layouts, aiming to complete each hole with the fewest strokes. The game combines card mechanics with golf-themed obstacles for a fresh puzzle experience.\n\nKey Features\n\n• Card-based shot planning  \n• Deck management strategy  \n• Progressive course difficulty  \n• Stroke count challenge system  \n• Golf-themed puzzle environments"
 },
 {
 "id": "5dd599b4bbb74e2b813373312dc1749a",
@@ -1623,13 +1567,6 @@
 "iframe": "https://html5.gamedistribution.com/a58156a1679c4215b6cd3186e452014f/",
 "creator": "WillingGames.com",
 "description": "Match pairs of themed cards to clear the board in this seasonal memory challenge. Players flip two Easter-themed cards per turn using a classic pair-matching mechanic, testing recall and concentration as they progress through increasingly complex sets of cards. The game invites casual players of all ages to sharpen their memory while enjoying festive holiday visuals.\n\nKey Features\n\n• Classic pair-matching gameplay  \n• Turn-based card flipping controls  \n• Progressive level difficulty scaling  \n• Time-limited memory challenges  \n• Easter egg and spring motifs"
-},
-{
-"id": "cb372cec5cdd4458bac94d21451d1ed4",
-"title": "Cards Connect",
-"iframe": "https://html5.gamedistribution.com/cb372cec5cdd4458bac94d21451d1ed4/",
-"creator": "bestphysics",
-"description": "Match pairs of cards by flipping them strategically to clear all tiles in this memory-based puzzle challenge. Players rely on pattern recognition and recall to uncover matching symbols under time constraints or limited moves. The game unfolds across progressive levels that increase in difficulty, pushing concentration and memory skills in a colorful card-matching environment.\n\nKey Features\n\n• Memory matching core mechanic  \n• Tap to reveal card pairs  \n• Increasing level difficulty  \n• Limited move challenge mode  \n• Casual puzzle card visuals"
 },
 {
 "id": "8e0b7f4d01b2421aa345de94d392a7bc",
@@ -1674,46 +1611,11 @@
 "description": "Engage in fast-paced card battles where strategy shapes each move in a dynamic arena setup. Players collect and deploy unique card units with varying attack patterns, aiming to outmaneuver opponents through tactical positioning and timed plays. Progression unfolds across escalating challenges that test deck-building skills and adaptability against diverse player strategies.\n\nKey Features\n\n• Turn-based card deployment  \n• Tactical unit placement control  \n• Progressive challenge arenas  \n• Deck customization options  \n• Fantasy-themed battle environment"
 },
 {
-"id": "ffffc904fb5c4b05ae5ad3ee24eff10b",
-"title": "Animals Cards Memory",
-"iframe": "https://html5.gamedistribution.com/ffffc904fb5c4b05ae5ad3ee24eff10b/",
-"creator": "WillingGames.com",
-"description": "Match and flip animal-themed cards to test and improve your memory skills in this casual puzzle challenge. Players reveal hidden cards to find pairs featuring various creatures, using a classic card-flipping system. The game gradually increases difficulty by expanding the deck size and introducing time constraints to push your recall speed.\n\nKey Features\n\n• Classic card matching mechanic  \n• Timed memory challenge mode  \n• Progressive deck expansion levels  \n• Simple click and flip controls  \n• Animal motif visual design"
-},
-{
-"id": "883fe43f955e4d18bb6856a7c58cbfc6",
-"title": "Cute Animal Cards",
-"iframe": "https://html5.gamedistribution.com/883fe43f955e4d18bb6856a7c58cbfc6/",
-"creator": "Yesbol Amirov",
-"description": "Arrange animal-themed cards in strategic order to unlock sets through matching mechanics in a casual puzzle environment. Players engage by selecting and clearing pairs based on pattern recognition and limited moves, aiming to complete each level’s card array efficiently. The game’s charm comes from its colorful animal illustrations and incremental difficulty stages that test memory and planning skills.\n\nKey Features\n\n• Pair matching card gameplay  \n• Strategic card selection controls  \n• Level-based puzzle progression  \n• Move-limited challenge system  \n• Colorful animal card designs"
-},
-{
-"id": "51584c2d602e403e8148df6a069ad5d5",
-"title": "Random Cards Tower Defense",
-"iframe": "https://html5.gamedistribution.com/51584c2d602e403e8148df6a069ad5d5/",
-"creator": "Mirra Games",
-"description": "Arrange random cards strategically to build defensive towers and fend off waves of enemies in this card-based tower defense game. Players manage unique card combos to deploy diverse defenses on a grid, aiming to survive increasingly difficult attack waves. Mastering card synergy is essential for progressing through challenging levels designed for casual action and tactical thinking.\n\nKey Features\n\n• Card combo based tower building  \n• Tactical placement controls  \n• Progressive enemy wave difficulty  \n• Dynamic card deck management  \n• Grid-based battlefield layout"
-},
-{
 "id": "e18fdcf3108842acacb98106578bd03b",
 "title": "TCG Card Clicker",
 "iframe": "https://html5.gamedistribution.com/e18fdcf3108842acacb98106578bd03b/",
 "creator": "jimo game",
 "description": "Click cards repeatedly to summon creatures and unlock new decks in an incremental battle system. Combining strategic card collection with automated combat, players work to optimize their deck compositions against waves of diverse enemy types. Progress through stages to gain rare cards and enhance abilities, refining your tactics in a dynamic clicker environment.\n\nKey Features\n\n• Tap-based card summoning  \n• Deck customization mechanics  \n• Progressive enemy wave challenges  \n• Automated combat sequences  \n• Fantasy creature collection system"
-},
-{
-"id": "65bd69abf7024736ac2fa7b528abd21e",
-"title": "Nine Cards Of Winter",
-"iframe": "https://html5.gamedistribution.com/65bd69abf7024736ac2fa7b528abd21e/",
-"creator": "Lof Games",
-"description": "Arrange and manage nine unique cards on an icy board as you aim to unlock hidden winter-themed patterns. The game blends a strategic card placement mechanic with subtle puzzle solving, inviting players to think several moves ahead to reveal chilly surprises. Progression hinges on discovering the correct card sequences to clear levels and advance through colder environments.\n\nKey Features\n\n• Strategic nine-card placement  \n• Pattern recognition challenges  \n• Progressive puzzle level design  \n• Unlockable winter-themed sequences  \n• Turn-based tactical gameplay"
-},
-{
-"id": "cff20e69cbee4d17a79c29b2f1ce4c6f",
-"title": "21 Cards",
-"iframe": "https://html5.gamedistribution.com/cff20e69cbee4d17a79c29b2f1ce4c6f/",
-"creator": "GameBerry Studio",
-"description": "Arrange cards in strategic order to form sets and clear the board while managing limited moves in this engaging puzzle setup. Players focus on manipulating a unique 21-card layout combining elements of hand management and sequence planning to unlock all cards. The challenge lies in uncovering hidden cards through smart pairing within a compact play space.\n\nKey Features\n\n• Card pairing clearing system  \n• Sequential card uncovering mechanic  \n• Limited move challenge progression  \n• Strategic hand management controls  \n• Compact 21-card play layout"
 },
 {
 "id": "2dce34aafc734aa6bf16d576b76f478b",
@@ -1735,55 +1637,6 @@
 "iframe": "https://html5.gamedistribution.com/f8cd62870fbf451394a6093b9fa69553/",
 "creator": "MINDWAYTECH CONSULTING SERVICES PRIVATE LIMITED",
 "description": "Arrange and discard cards strategically to form sets and runs using the meld mechanic in this classic Rummy variant. Players manage their hand carefully, balancing drawing from the deck or discard pile with tactical discarding to outscore opponents. The game features a scoring system based on card values and bonuses for going out first, rewarding both careful planning and timely plays.\n\nKey Features\n\n• Hand management and meld mechanic  \n• Draw and discard card controls  \n• Score calculation with bonuses  \n• Turn-based multiplayer interaction  \n• Classic Rummy 500 card rules"
-},
-{
-"id": "4c699115946a4c93bf4066f8569433b9",
-"title": "Dinosaur Cards",
-"iframe": "https://html5.gamedistribution.com/4c699115946a4c93bf4066f8569433b9/",
-"creator": "TuuT",
-"description": "Collect and combine dinosaur cards to build stronger decks and outsmart opponents in strategic dueling matches. Players navigate card synergy and resource management to unlock rare species and climb tournament ranks. The gameplay focuses on turn-based combat where timing and combination of prehistoric creatures determine victory.\n\nKey Features\n\n• Turn-based card dueling system  \n• Deck building with dinosaur synergy  \n• Tournament ranking progression  \n• Resource management mechanics  \n• Prehistoric creature card collection"
-},
-{
-"id": "6b4377c0252c4933af6889e6e4910b57",
-"title": "Empire of progress: Technology cards",
-"iframe": "https://html5.gamedistribution.com/6b4377c0252c4933af6889e6e4910b57/",
-"creator": "Alexander Domnych",
-"description": "Construct custom technology cards to expand your empire’s capabilities in this strategic card management game. Players collect and deploy various innovation cards to unlock new advancements and optimize resource use. Tactical decision-making drives progression through increasingly complex challenges that simulate the growth of an industrial civilization. The gameplay centers around card synergy and evolving development strategies.\n\nKey Features\n\n• Technology card crafting system  \n• Strategic card placement controls  \n• Incremental empire growth challenges  \n• Innovation synergy mechanics  \n• Industrial-themed progress tracking"
-},
-{
-"id": "db97baee108640ffb78b9c4db8292225",
-"title": "Cards 21",
-"iframe": "https://html5.gamedistribution.com/db97baee108640ffb78b9c4db8292225/",
-"creator": "Freak X Games",
-"description": "Place cards strategically to reach a total value closest to 21 without exceeding it in this classic variation of blackjack. The game challenges players to manage risk by deciding when to hit or stand, utilizing a straightforward card-dealing mechanic within an uncluttered casino-themed setting. Each round tests your ability to outscore the dealer through careful calculation.\n\nKey Features\n\n• Card value calculation system  \n• Manual hit or stand controls  \n• Dealer risk management AI  \n• Incremental round progression  \n• Classic casino style visuals"
-},
-{
-"id": "c0d9224d51304bacb9c2fe51eb5fa6f9",
-"title": "Count Holiday Cards",
-"iframe": "https://html5.gamedistribution.com/c0d9224d51304bacb9c2fe51eb5fa6f9/",
-"creator": "FTG",
-"description": "Sort numbered holiday cards by matching patterns and complete sequences to reveal hidden festive images. Players tap and drag cards within a limited number of moves, using pattern recognition to clear levels in a cozy seasonal setting. Each stage offers increasing complexity in card arrangements, challenging players to efficiently identify and organize the cards.\n\nKey Features\n\n• Pattern matching card mechanic  \n• Tap and drag card controls  \n• Move-limited level challenges  \n• Sequence completion objectives  \n• Seasonal holiday card theme"
-},
-{
-"id": "3385d58a438d44cd869d6c5b8aede1ae",
-"title": "6 Cards To Win",
-"iframe": "https://html5.gamedistribution.com/3385d58a438d44cd869d6c5b8aede1ae/",
-"creator": "Ixel Games",
-"description": "Match sets of six cards using strategic swaps and observation skills to clear increasingly complex tile layouts. Players navigate a grid of face-down cards, flipping pairs to find matches while managing a limited number of moves. The challenge lies in planning sequences and anticipating card positions to win each level with minimal mistakes.\n\nKey Features\n\n• Strategic card matching mechanics  \n• Limited move count per level  \n• Progressive tile layout complexity  \n• Turn-based matching puzzles  \n• Classic memory card theme"
-},
-{
-"id": "ab33078c48e64b91a5942a293732c276",
-"title": "Reinarte Cards",
-"iframe": "https://html5.gamedistribution.com/ab33078c48e64b91a5942a293732c276/",
-"creator": "Reinarte Games",
-"description": "Arrange and play strategic card combinations to outsmart opponents in a colorful fantasy setting. The game challenges players to manage hand resources and make tactical decisions during turn-based matches. Players progress by unlocking new decks and mastering unique card synergies, creating a dynamic and evolving gameplay experience suitable for casual players and younger audiences.\n\nKey Features\n\n• Tactical hand management system  \n• Turn-based strategic dueling  \n• Progressive card deck unlocking  \n• Combo synergy mechanics  \n• Fantasy-inspired card artwork"
-},
-{
-"id": "8c176b98b06f4ee19cbc54dd1fb8c8d4",
-"title": "Count The Cards",
-"iframe": "https://html5.gamedistribution.com/8c176b98b06f4ee19cbc54dd1fb8c8d4/",
-"creator": "MBG Network",
-"description": "Count cards quickly to track running totals and sharpen memory skills in this engaging browser game. Players rely on fast mental addition as numbers flash across a simple yet challenging layout. The main goal is to accurately sum sequences under time pressure, offering a crisp test of concentration and numerical agility well suited for teens and casual gamers.\n\nKey Features\n\n• rapid card counting mechanic  \n• timed sequence challenges  \n• increasing difficulty levels  \n• memory retention focus system  \n• minimalistic numerical layout"
 },
 {
 "id": "fd8bf05af992497d903c3f961b562589",
@@ -1814,32 +1667,11 @@
 "description": "Play strategic card rounds against AI opponents by matching suits and numbers in this traditional Spanish card game. The gameplay centers on arranging and discarding cards to outscore rivals through careful hand management and turn-based play. Players face progressively skilled opponents, adapting tactics with each round to claim victory.\n\nKey Features\n\n• Classic Spanish card deck  \n• Turn-based card matching  \n• Opponent difficulty scaling  \n• Hand management strategy  \n• Traditional Iberian card art"
 },
 {
-"id": "6248cc415c3f4de2bdaefe544617a092",
-"title": "Lightning Cards",
-"iframe": "https://html5.gamedistribution.com/6248cc415c3f4de2bdaefe544617a092/",
-"creator": "Agame",
-"description": "Match cards rapidly using lightning-fast reflexes to clear challenging levels under time pressure. Players must identify pairs through quick taps and strategic timing, navigating escalating difficulty to achieve high scores. The game tests visual memory and speed, pushing players to improve with each round in a vibrant card-matching setting.\n\nKey Features\n\n• Timed pair matching mechanic  \n• Tap and swipe controls  \n• Increasing level difficulty  \n• Score multiplier system  \n• Colorful card design themes"
-},
-{
 "id": "faf82d1dacfa46529b8511e50fee6768",
 "title": "Card Quest: 10 Minute Adventure",
 "iframe": "https://html5.gamedistribution.com/faf82d1dacfa46529b8511e50fee6768/",
 "creator": "Playgama",
 "description": "Build and customize a deck of cards to explore short quests that challenge strategic thinking in limited playtime. Utilize card synergy to overcome enemy encounters and manage resources efficiently, aiming to survive through concise adventure runs. Each run presents different card combinations and obstacles, pushing players to adapt tactics quickly.\n\nKey Features\n\n• Deck building and card synergy  \n• Turn-based tactical combat  \n• Timed adventure challenges  \n• Card upgrade and resource systems  \n• Compact quest progression"
-},
-{
-"id": "823ae62e275a4b82a07a1d9d2272e7e4",
-"title": "2048 Cards",
-"iframe": "https://html5.gamedistribution.com/823ae62e275a4b82a07a1d9d2272e7e4/",
-"creator": "FG Studio",
-"description": "Slide numbered cards to merge them and create higher values in a minimalist puzzle grid. Combining the strategic placement of cards challenges players to reach the elusive 2048 tile while managing limited space. Progression depends on careful planning and anticipating tile merges to maximize scoring potential.\n\nKey Features\n\n• Tile sliding and merging mechanic  \n• Strategic spatial card placement  \n• Increasing tile value progression  \n• Limited movement grid system  \n• Minimalist numeric puzzle theme"
-},
-{
-"id": "5370293cd9434e4abe9084397f091ed6",
-"title": "Cards 2048",
-"iframe": "https://html5.gamedistribution.com/5370293cd9434e4abe9084397f091ed6/",
-"creator": "GameBerry Studio",
-"description": "Match numbered cards on a grid by sliding them in four directions to combine and create increasingly higher values. The core 2048 merging mechanic blends with a card-based interface where players strategize to reach the elusive 2048 tile. The game tests pattern recognition and spatial planning as players aim to clear space and build stronger cards on limited moves.\n\nKey Features\n\n• Slide and combine numbered cards\n• Grid-based spatial puzzle control\n• Progressive tile merging challenge\n• Score tracking and move limits\n• Minimalist card design interface"
 },
 {
 "id": "1fbe41ffdb1f4a61a6d7ce03bb4ad02a",

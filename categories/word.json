@@ -1,6 +1,27 @@
 {
 "pages": [
 {
+"id": "0f2709631ff94c82bf20dd08bcb4b825",
+"title": "Kids Hangman",
+"iframe": "https://html5.gamedistribution.com/0f2709631ff94c82bf20dd08bcb4b825/",
+"creator": "Fun Best Games",
+"description": "Solve word puzzles by guessing letters within limited attempts in this classic hangman experience designed for younger players. The game’s core mechanic combines letter selection with visual hints that gradually reveal a hidden word. Players aim to complete each word before running out of guesses, gradually increasing difficulty with each successful round.\n\nKey Features\n\n• Letter guessing puzzle mechanic  \n• Click-based letter selection control  \n• Progressive word difficulty levels  \n• Visual hangman drawing feedback  \n• Child-friendly word categories"
+},
+{
+"id": "6870af61b70b42f3a0f5226d81668bb7",
+"title": "Halloween Hangman",
+"iframe": "https://html5.gamedistribution.com/6870af61b70b42f3a0f5226d81668bb7/",
+"creator": "Fun Best Games",
+"description": "Solve spooky word puzzles by guessing letters one at a time before a ghostly figure completes its hangman frame. This Halloween themed word guessing challenge tests your vocabulary and deduction skills while racing against limited wrong attempts. Progress through increasingly tricky puzzles as you uncover hidden seasonal words with each successful round.\n\nKey Features\n\n• letter guessing core mechanic  \n• keyboard input controls  \n• limited incorrect guess challenge  \n• progressive word difficulty levels  \n• Halloween visual theme"
+},
+{
+"id": "7b5681d931ae4067affc7285df33d67b",
+"title": "Crossword Puzzles AWS-PROD",
+"iframe": "https://html5.gamedistribution.com/7b5681d931ae4067affc7285df33d67b/",
+"creator": "Genius Games",
+"description": "Arrange intersecting words by filling clues in a grid using a letter placement mechanic based on classic crossword principles. Players work through progressively challenging puzzles that test vocabulary and logic skills through horizontal and vertical word matches. The puzzle’s grid structure and clue system define the gameplay loop for casual players and younger audiences alike.\n\nKey Features\n\n• Letter placement puzzle mechanic  \n• Clue-based word solving controls  \n• Increasing difficulty puzzle progression  \n• Timed or relaxed play modes  \n• Classic crossword grid layout"
+},
+{
 "id": "4aa0b78887e64e1ab69ff666c0e9889c",
 "title": "Type Run",
 "iframe": "https://html5.gamedistribution.com/4aa0b78887e64e1ab69ff666c0e9889c/",
@@ -8,25 +29,11 @@
 "description": "Control a nimble runner navigating dynamic obstacle courses to reach checkpoints and survive timed challenges. The game blends smooth horizontal movement with precise jumping mechanics across varied levels. Players must adapt to shifting platforms and unpredictable traps while aiming for high scores in progressively complex stages.\n\nKey Features\n\n• Responsive side-scrolling controls  \n• Timed obstacle navigation  \n• Multi-level progression system  \n• Reactive platform hazards  \n• Casual arcade running style"
 },
 {
-"id": "d414118fead340708438d18b13fe0543",
-"title": "Letters Memory Challenge",
-"iframe": "https://html5.gamedistribution.com/d414118fead340708438d18b13fe0543/",
-"creator": "Vi Games",
-"description": "Memorize sequences of letters and recall them in order using a pattern recognition mechanic to test and improve your memory skills. Players encounter progressively longer sequences that increase difficulty through spatial and timing elements across multiple rounds. The challenge lies in accurately matching each letter to maintain streaks and reach higher levels. This casual game is designed for focused mental training and gradual mastery.\n\nKey Features\n\n• Sequence recall gameplay  \n• Timed letter matching controls  \n• Increasing difficulty rounds  \n• Streak-based score system  \n• Cognitive skill enhancement"
-},
-{
 "id": "04cd9fc1063d43bcb10b7854423d9f68",
 "title": "Math Word Search",
 "iframe": "https://html5.gamedistribution.com/04cd9fc1063d43bcb10b7854423d9f68/",
 "creator": "Fun Best Games",
 "description": "Search for hidden number sequences within a grid by locating math-related words in this puzzle game. Players trace words based on arithmetic concepts to clear each level, improving pattern recognition and numeric vocabulary. Early stages introduce simple operations while later puzzles challenge with mixed math terms, blending word search mechanics with educational content.\n\nKey Features\n\n• Word tracing core mechanic  \n• Arithmetic-themed word puzzles  \n• Gradual difficulty progression  \n• Time-based scoring system  \n• Educational number recognition"
-},
-{
-"id": "7021a67f2ddc481dbe60520d7b767941",
-"title": "Letters Match",
-"iframe": "https://html5.gamedistribution.com/7021a67f2ddc481dbe60520d7b767941/",
-"creator": "GamePush",
-"description": "Match letter tiles quickly to clear the board and achieve high scores in this puzzle challenge. The game requires combining adjacent letters to form words, testing players’ vocabulary and strategic tile selection. Levels increase in difficulty by adding time limits and complex board layouts, pushing casual gamers to think fast and plan moves carefully.\n\nKey Features\n\n• Letter tile combination mechanic  \n• Timed word formation rounds  \n• Increasing board complexity  \n• Score multiplier progression system  \n• Casual vocab-based puzzle setting"
 },
 {
 "id": "abd7b621b0984808a7e181306d0d063c",
@@ -48,20 +55,6 @@
 "iframe": "https://html5.gamedistribution.com/edd1e75a4a6c44d984a60d9f147e52ea/",
 "creator": "Fun Best Games",
 "description": "Find themed words hidden in a grid of letters by scanning horizontally, vertically, and diagonally to complete spooky puzzles. Players uncover Halloween-related terms through a classic word search mechanic that challenges observation and pattern recognition. The game features increasing difficulty levels that add timed rounds and a growing word list to conquer.  \n\nKey Features\n\n• Classic letter grid scanning  \n• Time-limited puzzle rounds  \n• Progressive word list expansion  \n• Hint and reveal options  \n• Seasonal Halloween vocabulary"
-},
-{
-"id": "17f59b95bf924d32b3f519bf06563666",
-"title": "Halloween Words Search",
-"iframe": "https://html5.gamedistribution.com/17f59b95bf924d32b3f519bf06563666/",
-"creator": "Lof Games",
-"description": "Search for hidden words by scanning a spooky grid filled with themed letter clusters. Players highlight word patterns using mouse drag controls, aiming to clear puzzles before time runs out in a progressively challenging word hunt. A Halloween atmosphere adds a seasonal twist to the classic hidden word mechanic, encouraging quick pattern recognition across varied puzzle layouts.\n\nKey Features\n\n• grid-based word search mechanic  \n• mouse drag selection controls  \n• timed puzzle progression system  \n• increasing difficulty levels  \n• Halloween-themed word sets"
-},
-{
-"id": "4f309619abce470290f976d7385a7080",
-"title": "Farm of Words",
-"iframe": "https://html5.gamedistribution.com/4f309619abce470290f976d7385a7080/",
-"creator": "Fun Best Games",
-"description": "Arrange letter tiles to form words and cultivate a growing farm by planting word crops. Using a grid-based word-building mechanic, players progress by expanding vocabulary fields while managing limited space and time. The challenge lies in strategic placement of word tiles to harvest bonuses and unlock new crops, blending language skill with farm-building elements.\n\nKey Features\n\n• Grid-based word tile placement  \n• Vocabulary expansion progression  \n• Time and space management challenges  \n• Crop unlocking system  \n• Casual farm-themed puzzle gameplay"
 },
 {
 "id": "f2d83984c38b41bcb95fe6ba478d7419",
@@ -155,13 +148,6 @@
 "description": "Type letters rapidly to defeat relentless waves of enemies in this fast-paced typing challenge using a dynamic keyboard input system. Each stage increases difficulty as foes become faster and trickier, pushing players to sharpen their reflexes and typing accuracy. Progression unlocks tougher challenges that test speed under pressure with unique enemies demanding focused typing strategy.\n\nKey Features\n\n• Real-time typing combat  \n• Increasing wave difficulty  \n• Accuracy-based scoring system  \n• Progressive challenge levels  \n• Arcade-style enemy patterns"
 },
 {
-"id": "365b4962c5894454ac7ac9e75ea0fb69",
-"title": "Bubble Letters",
-"iframe": "https://html5.gamedistribution.com/365b4962c5894454ac7ac9e75ea0fb69/",
-"creator": "Azerion Casual Games",
-"description": "Arrange colorful alphabet bubbles to form words in a dynamic puzzle grid. Players swap and pop letter clusters using a match-three mechanic, aiming to clear challenging layouts before the bubbles reach the top. Progression includes increasingly complex boards with timed rounds for faster puzzle-solving.\n\nKey Features\n\n• Letter swapping match-three system  \n• Timed puzzle progression levels  \n• Combo-based letter clearing  \n• Increasing grid complexity  \n• Casual word puzzle theme"
-},
-{
 "id": "1855981081ac4da9b4e435081f8d187a",
 "title": "Letter Boom Blast",
 "iframe": "https://html5.gamedistribution.com/1855981081ac4da9b4e435081f8d187a/",
@@ -174,27 +160,6 @@
 "iframe": "https://html5.gamedistribution.com/8fd300be80ee47bb8c26fa62736ea1bf/",
 "creator": "Nevar Games",
 "description": "Arrange letters into correct words using spatial tile placement mechanics, testing vocabulary and pattern recognition skills. Players form valid words by connecting letter tiles across a grid, navigating varying letter distributions and limited moves to maximize scores. Timed challenges and bonus tiles add layers of strategic word crafting and quick thinking.\n\nKey Features\n\n• Tile-based letter placement  \n• Strategic word formation  \n• Time-limited puzzle rounds  \n• Bonus letter tile effects  \n• Grid layout progression"
-},
-{
-"id": "dc42f17fdfb14368ab7713215a93a5f3",
-"title": "Drop Letters",
-"iframe": "https://html5.gamedistribution.com/dc42f17fdfb14368ab7713215a93a5f3/",
-"creator": "nau.games",
-"description": "Drop letters and form words against a time limit using letter tiles that descend gradually across the grid. The core mechanic revolves around quick word assembly under pressure, with increasing falling speed adding to the complexity. Players aim to clear tiles efficiently while managing the spatial constraints of the play area.\n\nKey Features\n\n• Timed letter tile drops  \n• Fast-paced word formation  \n• Increasing drop speed challenges  \n• Grid space management  \n• Casual vocabulary-based gameplay"
-},
-{
-"id": "20b54ddf2f0f454d8e5f2a356c05b8ce",
-"title": "Letters Parts",
-"iframe": "https://html5.gamedistribution.com/20b54ddf2f0f454d8e5f2a356c05b8ce/",
-"creator": "nau.games",
-"description": "Arrange letter fragments by dragging and dropping them to form complete words. The core mechanic revolves around precise spatial organization of letter parts to solve puzzles that increase in complexity. Each level presents unique word challenges that test pattern recognition and vocabulary skills, providing a casual, text-based gameplay experience geared toward teens and kids.\n\nKey Features\n\n• Drag and drop puzzle interface  \n• Word construction challenge levels  \n• Increasing difficulty progression  \n• Time-limited and endless modes  \n• Letter fragment assembly mechanic"
-},
-{
-"id": "33b7b7fac5b348e7ad202cf23ec7cdff",
-"title": "Touch Capital Letters",
-"iframe": "https://html5.gamedistribution.com/33b7b7fac5b348e7ad202cf23ec7cdff/",
-"creator": "Pro_Gaming",
-"description": "Type and select capital letters swiftly to match prompts, testing reflexes and letter recognition. This game challenges players to identify and touch uppercase characters as they appear, requiring precision and speed. It’s aimed at casual gamers seeking quiet brain exercise without a specific thematic backdrop or level progression.\n\nKey Features\n\n• Quick capital letter matching  \n• Touchscreen letter recognition  \n• Increasing speed challenges  \n• Simple reflex testing mode  \n• Minimalist letter interface"
 },
 {
 "id": "265d27623daa4b47a144bbbcf5136a2a",
@@ -328,13 +293,6 @@
 "iframe": "https://html5.gamedistribution.com/b3a4fb10866b474badc2dc0017d473ea/",
 "creator": "Vi Games",
 "description": "Guess letters to reveal hidden names in a classic hangman challenge centered on popular boys’ names. Players use letter selection to uncover each name before running out of attempts, testing vocabulary and deduction skills. The game includes progressively difficult name sets to increase challenge and maintain engagement for younger and casual players.\n\nKey Features\n\n• Letter guessing core mechanic  \n• Limited attempts survival system  \n• Name reveal progression levels  \n• Hint and skip support options  \n• Boys’ names vocabulary theme"
-},
-{
-"id": "8ef67ed295b743d781e2bbea6343cce3",
-"title": "Guess the Name Hangman",
-"iframe": "https://html5.gamedistribution.com/8ef67ed295b743d781e2bbea6343cce3/",
-"creator": "Vi Games",
-"description": "Select letters to reveal the hidden word by guessing carefully in this classic word puzzle. Each incorrect letter guess limits your chances before the hangman figure is fully drawn. Players must balance risk and deduction through letter elimination to uncover the mystery term within limited attempts.\n\nKey Features\n\n• Letter guessing core mechanic  \n• Incremental hangman drawing system  \n• Limited attempts challenge  \n• Progressive word difficulty levels  \n• Casual multiplayer guessing mode"
 },
 {
 "id": "8598fb1f6dbc46cfbabc500114fb2807",
@@ -505,13 +463,6 @@
 "description": "Match letter tiles to form words against a ticking timer in this fast-paced puzzle challenge. The gameplay blends grid-based tile swapping with strategic word-building, pushing players to maximize points through combos and longer words. Progression unfolds across increasingly complex boards featuring special tiles that alter letter placement and scoring dynamics.\n\nKey Features\n\n• Tile swapping word creation  \n• Time-based scoring system  \n• Combo multiplier mechanics  \n• Unlockable puzzle boards  \n• Letter tile variety effects"
 },
 {
-"id": "4f76d0c61d4f4aa79c64dcd1065e5d59",
-"title": "Words or Die",
-"iframe": "https://html5.gamedistribution.com/4f76d0c61d4f4aa79c64dcd1065e5d59/",
-"creator": "2Play",
-"description": "Form words from falling letter tiles to outscore your opponents in a fast-paced word battle. The game challenges your vocabulary and reflexes as letter tiles drop rhythmically, forcing quick thinking to create longer words under tight time pressure. Master tile placement and letter combos to climb levels and unlock new word lists.\n\nKey Features\n\n• Real-time letter tile matching  \n• Timed word formation challenge  \n• Competitive scoring system  \n• Progressive vocabulary difficulty  \n• Minimalist letter grid interface"
-},
-{
 "id": "df40c7d69ae547a28fbdac7886f8bacf",
 "title": "Wordling: Daily Word Challenge",
 "iframe": "https://html5.gamedistribution.com/df40c7d69ae547a28fbdac7886f8bacf/",
@@ -554,32 +505,11 @@
 "description": "Race against the clock to form words from a constantly shifting letter grid, using quick thinking and pattern recognition to maximize your score. Players rearrange letters rapidly to create valid words, unlocking faster challenge stages that increase in difficulty. Timing and vocabulary depth shape the rhythm as you push for higher combos and longer chains.\n\nKey Features\n\n• Dynamic letter grid mechanic  \n• Fast-paced word formation control  \n• Increasingly challenging time stages  \n• Combo and chain scoring system  \n• Casual vocabulary game mode"
 },
 {
-"id": "f44a159d660b4b9289f9add40a3cd7c0",
-"title": "Words with Owl",
-"iframe": "https://html5.gamedistribution.com/f44a159d660b4b9289f9add40a3cd7c0/",
-"creator": "Agame",
-"description": "Match letter tiles quickly to form words under time limits in a vibrant puzzle grid environment. Players use pattern recognition and strategic letter placement to clear challenging levels, with increasing difficulty introducing rare letters and limited moves. Efficiently building longer words unlocks bonus points and progression through multiple stages focused on word mastery.\n\nKey Features\n\n• Letter matching tile mechanic  \n• Strategic letter placement controls  \n• Increasing difficulty levels  \n• Bonus word scoring system  \n• Colorful grid puzzle theme"
-},
-{
 "id": "b0cc3d7cdae0458eb371d8665eb31b8f",
 "title": "Word Mine",
 "iframe": "https://html5.gamedistribution.com/b0cc3d7cdae0458eb371d8665eb31b8f/",
 "creator": "Thirdeyeverse Technologies Pvt. Ltd",
 "description": "Arrange letters to form words by selecting tiles in a timed puzzle; the core mechanic revolves around strategic letter placement to create valid words. Players tackle increasingly complex grids that demand quick thinking and vocabulary skills to maximize scores. Word-building challenges grow with puzzles unlocking harder letter combinations, keeping engagement fresh for casual players and younger audiences.\n\nKey Features\n\n• Tile selection word formation  \n• Time-limited puzzle rounds  \n• Progressive difficulty grids  \n• Scoring based on word length  \n• Casual vocabulary challenge"
-},
-{
-"id": "607f9f304899446aaf075339ba3dff81",
-"title": "Words from Words",
-"iframe": "https://html5.gamedistribution.com/607f9f304899446aaf075339ba3dff81/",
-"creator": "Wit Games",
-"description": "Arrange letter tiles swiftly to form valid words and clear the board. The game challenges players to create word chains under time constraints, testing vocabulary and quick thinking. Progression unfolds through increasingly complex tile layouts that require strategic placement. Casual players and younger audiences will find the pace engaging without overwhelming difficulty.\n\nKey Features\n\n• Dynamic tile arrangement mechanic  \n• Time-based word formation challenge  \n• Increasing level complexity  \n• Score multiplier for consecutive words  \n• Color-coded letter rarity system"
-},
-{
-"id": "802a36f10d9f4de8bcc874b33c887509",
-"title": "Words with Prof. Wisely",
-"iframe": "https://html5.gamedistribution.com/802a36f10d9f4de8bcc874b33c887509/",
-"creator": "Rainbow Games",
-"description": "Solve challenging word puzzles by connecting letters in a grid to form coherent words and uncover hidden messages. The gameplay revolves around careful letter selection and pattern recognition to progress through increasingly difficult levels. Players aim to complete puzzles by discovering all valid words, enhancing vocabulary and critical thinking skills.\n\nKey Features\n\n• Grid-based letter connection  \n• Progressive puzzle complexity  \n• Time-limited challenge modes  \n• Hints and word reveal options  \n• Educational language theme"
 },
 {
 "id": "fec982ec0f784e52801ff2ec4da56b6c",
@@ -603,20 +533,6 @@
 "description": "Arrange letters to craft words before the timer runs out in this fast-paced puzzle challenge. Gameplay revolves around selecting letter tiles and forming valid terms to clear the board, requiring quick thinking and vocabulary skills. Players face increasing difficulty with new letters and shorter time limits as they progress through word-based levels designed for casual fans and younger audiences.\n\nKey Features\n\n• Tile selection spelling mechanic  \n• Timed word formation rounds  \n• Progressive difficulty scaling  \n• Score multiplier bonus system  \n• Bright letter grid interface"
 },
 {
-"id": "f6afc2bcc09b4d44afe174bdb6603813",
-"title": "Words from words: Sea",
-"iframe": "https://html5.gamedistribution.com/f6afc2bcc09b4d44afe174bdb6603813/",
-"creator": "Mirra Games",
-"description": "Navigate dynamic ocean currents to guide a customizable vessel through increasingly complex waterway puzzles. Utilize a unique momentum-based steering system to overcome hazards like whirlpools and shifting tides. Players must chart optimal routes while managing limited fuel to complete levels and unlock deeper maritime zones.\n\nKey Features\n\n• Momentum-driven navigation control  \n• Hazard avoidance gameplay mechanics  \n• Progressive route planning challenges  \n• Fuel management system  \n• Oceanic puzzle environment"
-},
-{
-"id": "2825d56c03fc49918c47c104a6c170ca",
-"title": "Fillwords: Find All the Words",
-"iframe": "https://html5.gamedistribution.com/2825d56c03fc49918c47c104a6c170ca/",
-"creator": "7thReactor",
-"description": "Swipe to connect letters forming valid words in a grid-based puzzle format, testing vocabulary and pattern recognition skills. Players uncover hidden words by tracing paths through adjacent letters, progressing through increasingly complex grids that challenge observation and speed. The game emphasizes word discovery under time pressure to complete each level.\n\nKey Features\n\n• Grid-based letter connection  \n• Swipe gesture controls  \n• Timed word search challenges  \n• Progressive difficulty levels  \n• Casual puzzle word theme"
-},
-{
 "id": "fdf1b9b4c4cf49048c02314500360a9d",
 "title": "Guess Word",
 "iframe": "https://html5.gamedistribution.com/fdf1b9b4c4cf49048c02314500360a9d/",
@@ -636,13 +552,6 @@
 "iframe": "https://html5.gamedistribution.com/791cf566682e4e458f248fa9884fade8/",
 "creator": "bestgames.com",
 "description": "Guess letters to reveal hidden words in this word puzzle game, testing your vocabulary and deduction skills. Players use letter selection mechanics to uncover secret terms within limited attempts, aiming to solve each challenge. The game features timed rounds that increase difficulty with longer words and introduces a hint system for tricky puzzles.\n\nKey Features\n\n• Letter selection core mechanic  \n• Limited attempt word guessing  \n• Progressive difficulty levels  \n• Hint usage for puzzles  \n• Timed round gameplay"
-},
-{
-"id": "f09ebbda519840f3a18176597fd7664e",
-"title": "Words Match",
-"iframe": "https://html5.gamedistribution.com/f09ebbda519840f3a18176597fd7664e/",
-"creator": "Azerion Casual Games",
-"description": "Match letter sequences by finding pairs and spotting common word fragments in this puzzle game. Players connect matching tiles with timed chain reactions across grid layouts, aiming to clear all tiles before time runs out to beat each stage. Strategic tile selection and pattern recognition are essential to progress through increasingly complex boards.\n\nKey Features\n\n• Tile matching chain mechanic  \n• Cursor based tile selection  \n• Time limited stage progression  \n• Score multiplier combo system  \n• Abstract grid puzzle environment"
 },
 {
 "id": "d69f8c3ff75a4b16b8a0296acce69f49",
@@ -671,13 +580,6 @@
 "iframe": "https://html5.gamedistribution.com/992bf414c2fd4a7d8160bcbafd99b6f3/",
 "creator": "Agame",
 "description": "Match four related images and use letter tiles to solve word puzzles based on visual clues. Players manipulate letter arrangements to guess the hidden word, advancing through stages with increasing complexity and diverse picture sets. The challenge lies in decoding connections between pictures using vocabulary skills and pattern recognition.\n\nKey Features\n\n• Letter tile manipulation mechanic  \n• Visual puzzle-based word guessing  \n• Stage progression with rising difficulty  \n• Limited attempts word entry system  \n• Mixed image clue categories"
-},
-{
-"id": "1fb5ede7d5214aecad980dd6a76acb15",
-"title": "OXY - Words maker",
-"iframe": "https://html5.gamedistribution.com/1fb5ede7d5214aecad980dd6a76acb15/",
-"creator": "DAPALAB",
-"description": "Arrange letters into words by connecting adjacent tiles to score points in this minimalist word puzzle. Players navigate a grid-based letter layout, forming words with varying lengths as the main challenge, while competing for high scores and exploring grid reshuffles for fresh play. Success depends on spotting patterns and managing limited moves to unlock extended gameplay modes.\n\nKey Features\n\n• Tile adjacency word forming  \n• Touch drag letter connection  \n• Increasing word length challenge  \n• Grid reshuffle system  \n• Minimalist grid interface"
 },
 {
 "id": "6a80275cf438415ebe4552ac1cda7aff",
@@ -722,13 +624,6 @@
 "description": "Search for hidden words in a dynamic grid by highlighting letter sequences, using intuitive drag controls to uncover all targets. Players face increasingly complex puzzles with time limits and special word patterns to challenge their identification skills. Progressive difficulty levels push vocabulary and pattern recognition in casual word-finding gameplay.\n\nKey Features\n\n• Drag-to-highlight word mechanic  \n• Timed puzzle completion limits  \n• Increasing grid complexity  \n• Special pattern based challenges  \n• Casual vocabulary focus"
 },
 {
-"id": "160b2d1d18244af08f4155e3202daf8f",
-"title": "Words Detective Bank Heist",
-"iframe": "https://html5.gamedistribution.com/160b2d1d18244af08f4155e3202daf8f/",
-"creator": "Gameloft SE",
-"description": "Search for hidden words to crack codes and unravel puzzles in a word-based bank heist challenge. The game blends word discovery with strategic timing to unlock vaults and avoid security measures. Players work through escalating levels where vocabulary skills meet stealth, requiring sharp thinking and quick responses to succeed in casino-style robbery attempts.\n\nKey Features\n\n• Dynamic word puzzle solving  \n• Time-sensitive clue discovery  \n• Security system avoidance mechanics  \n• Increasing difficulty stages  \n• Bank heist and theft theme"
-},
-{
 "id": "4c8e318596c64ea8b9a1cd841d168f27",
 "title": "OMG Word Professor",
 "iframe": "https://html5.gamedistribution.com/4c8e318596c64ea8b9a1cd841d168f27/",
@@ -741,13 +636,6 @@
 "iframe": "https://html5.gamedistribution.com/4a7a82a2164d44f08baf4a0f76375c25/",
 "creator": "BestGamesFreePlay.com",
 "description": "Search for hidden words in a grid filled with mixed letters, tracing connections horizontally, vertically, and diagonally to complete each puzzle. The core mechanic revolves around identifying overlapping letter sequences in a calming, straightforward interface designed for steady mental engagement. Players aim to clear all listed words before time runs out or moves are exhausted, with increasingly complex grids adding challenge.\n\nKey Features\n\n• Word tracing input system  \n• Directional scan mechanics  \n• Progressive puzzle difficulty  \n• Time and move constraints  \n• Minimalist grid visual style"
-},
-{
-"id": "100ff8090bf043f6a830b0ad6b167f54",
-"title": "Words in Ladder",
-"iframe": "https://html5.gamedistribution.com/100ff8090bf043f6a830b0ad6b167f54/",
-"creator": "Code This Lab srl",
-"description": "Arrange letter tiles to form intersecting words on a grid, relying on strategic placement to maximize points. Players use a letter ladder mechanic where each new word shares a letter with the previous one, creating a chain of connected terms. The challenge lies in building longer ladders under time constraints or limited moves, with casual players aiming to improve vocabulary and pattern recognition.\n\nKey Features\n\n• Ladder-based word connections  \n• Tile placement strategy controls  \n• Time-limited puzzle progression  \n• Chain reaction scoring system  \n• Vocabulary building focus"
 },
 {
 "id": "153b2b321bbc44d8a94a2a6074cc3520",
@@ -776,13 +664,6 @@
 "iframe": "https://html5.gamedistribution.com/70478099261b4786a77e85e41c5a0101/",
 "creator": "Lof Games",
 "description": "Scan grids for hidden aquatic-themed words in a classic word search format. Players highlight continuous letter sequences to reveal ocean-related terms while racing against a timer or advancing through increasingly complex puzzles. The challenge lies in spotting varied word orientations within a soothing underwater backdrop, blending language skills with pattern recognition.\n\nKey Features\n\n• Directional word highlighting  \n• Timed puzzle mode  \n• Increasing search grid size  \n• Hint system for difficult words  \n• Underwater visual motifs"
-},
-{
-"id": "7be5406daab14e3789363ba3b4d064ca",
-"title": "Words With Buddies",
-"iframe": "https://html5.gamedistribution.com/7be5406daab14e3789363ba3b4d064ca/",
-"creator": "MarketJS",
-"description": "Match letter tiles to form words in turn-based multiplayer sessions focused on strategic placement and point maximization. Use a variety of unique tiles and board bonuses to outscore opponents while managing limited moves. The gameplay challenges word creation skills under time pressure and tile distribution constraints, providing a casual yet engaging brain workout.\n\nKey Features\n\n• Turn-based word formation  \n• Strategic tile placement controls  \n• Score optimization with board bonuses  \n• Multiplayer matchmaking system  \n• Casual vocabulary challenge"
 },
 {
 "id": "e2343185f62d4968a4ff37645b9d8844",
@@ -818,20 +699,6 @@
 "iframe": "https://html5.gamedistribution.com/a5ed2c7911ef4dca968748392070cf97/",
 "creator": "Trumdu Projects",
 "description": "Arrange falling letter tiles into words by sliding and stacking them across a limited grid space. Players must strategically build horizontal and vertical words to clear the board and prevent tile overflow. The spatial challenge of managing letter placement adds a puzzle twist that demands quick thinking in progressively difficult stages.\n\nKey Features\n\n• Sliding letter tile mechanic  \n• Grid-based word formation  \n• Increasing puzzle difficulty  \n• Score multiplier system  \n• Minimalist tile stacking theme"
-},
-{
-"id": "4d495393a3a14221b871593ce4e34cd5",
-"title": "Words Swipe",
-"iframe": "https://html5.gamedistribution.com/4d495393a3a14221b871593ce4e34cd5/",
-"creator": "2Play",
-"description": "Swipe sequences of letters to quickly form words and clear the board in this word puzzle challenge. Using timed chain reactions, players must connect adjacent tiles to build vocabulary under pressure while unlocking increasingly difficult levels. Thoughtful letter selection and spatial awareness are key to progressing through grid patterns designed for casual gamers and younger players.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Letter chain formation controls  \n• Progressive word difficulty levels  \n• Timed reaction based gameplay  \n• Grid puzzle layout system"
-},
-{
-"id": "9a723aa0895248dea416c71d87de965e",
-"title": "Pop Words",
-"iframe": "https://html5.gamedistribution.com/9a723aa0895248dea416c71d87de965e/",
-"creator": "Bermuda Games",
-"description": "Pop words burst from colorful bubbles as you connect letter tiles in a timed puzzle challenge. Matching sequences requires strategic selection and quick thinking to clear the board before it fills up. Each level increases in speed and complexity, pushing players to optimize moves under pressure in a bright, playful environment.\n\nKey Features\n\n• Tile connection letter mechanic  \n• Quick selection controls  \n• Increasing speed difficulty  \n• Time-based level progression  \n• Colorful bubble puzzle theme"
 },
 {
 "id": "16c95b25d3e6478893bd2b8a65e96501",
@@ -897,13 +764,6 @@
 "description": "Match letters to form words in a grid filled with overlapping options, using a pattern recognition mechanic. Players identify hidden words by selecting letters adjacent horizontally, vertically, or diagonally, aiming to clear available tiles and advance through increasingly complex puzzles. The game challenges vocabulary and visual scanning skills with a gradual difficulty ramp.\n\nKey Features\n\n• letter selection adjacency rules  \n• timed puzzle completion mode  \n• progressive grid complexity  \n• word length reward system  \n• casual word discovery theme"
 },
 {
-"id": "bbbcbc5c5b53473f9bcabe802b2f5296",
-"title": "Circus Words",
-"iframe": "https://html5.gamedistribution.com/bbbcbc5c5b53473f9bcabe802b2f5296/",
-"creator": "Clever Apps Pte. Ltd.",
-"description": "Arrange letters to form words while managing limited moves in a circus-themed puzzle board. Players connect adjacent tiles to build vocabulary chains, aiming to clear letter blocks and achieve high scores. Progression introduces timed rounds and bonus challenges as word complexity increases, testing quick thinking in a colorful carnival setting.\n\nKey Features\n\n• Tile adjacency word formation  \n• Limited move strategic planning  \n• Increasing puzzle difficulty levels  \n• Timed challenge rounds  \n• Carnival-themed visual design"
-},
-{
 "id": "7439da1be18d44ababc5e0eefa7e5ebe",
 "title": "Word Hunter",
 "iframe": "https://html5.gamedistribution.com/7439da1be18d44ababc5e0eefa7e5ebe/",
@@ -918,13 +778,6 @@
 "description": "Form words by connecting letters in a grid to complete vocabulary challenges. This word formation mechanic requires sharp observation and strategic letter selection to unlock new puzzles. Players progress through levels with increasing complexity while improving language skills. A time challenge mode adds urgency for those seeking a sped-up experience.\n\nKey Features\n\n• Letter grid word formation  \n• Strategic letter selection controls  \n• Increasing puzzle complexity  \n• Time-based challenge mode  \n• Educational vocabulary focus"
 },
 {
-"id": "e83c006e6ca54784bee32364a0694253",
-"title": "Alphabet Words",
-"iframe": "https://html5.gamedistribution.com/e83c006e6ca54784bee32364a0694253/",
-"creator": "nau.games",
-"description": "Arrange letters on a grid to form valid words by connecting adjacent tiles in this casual puzzle. Using strategic tile selection and spatial awareness, players build words to clear the board and achieve higher scores. Each level introduces new word patterns, challenging vocabulary and planning skills in a colorful text-based layout.\n\nKey Features\n\n• Tile matching word formation  \n• Drag and connect letter controls  \n• Increasing word complexity levels  \n• Time attack and endless modes  \n• Colorful letter grid interface"
-},
-{
 "id": "8d8965a1f1af4d2b884e0bc48737925d",
 "title": "Word Sauce",
 "iframe": "https://html5.gamedistribution.com/8d8965a1f1af4d2b884e0bc48737925d/",
@@ -932,25 +785,11 @@
 "description": "Form words by strategically placing letter tiles to score points on a shifting grid. Players manipulate the board layout to maximize their word combinations and adapt to evolving tile placements. The gameplay centers on using vocabulary skills paired with spatial reasoning to outscore opponents in time-limited rounds.\n\nKey Features\n\n• tile placement word crafting  \n• dynamic grid shifting mechanic  \n• timed round score challenges  \n• vocabulary based scoring system  \n• casual puzzle word theme"
 },
 {
-"id": "e1c98a2920d74ac097f01e5c01e76622",
-"title": "Making Words",
-"iframe": "https://html5.gamedistribution.com/e1c98a2920d74ac097f01e5c01e76622/",
-"creator": "nau.games",
-"description": "Build words by rearranging letter tiles to form valid vocabulary and clear the board in this casual puzzle challenge. Players use a drag-and-drop mechanic to connect letters horizontally or vertically, aiming to create longer words for higher scores. Levels progressively increase difficulty with limited moves and special tiles that alter letter behavior.\n\nKey Features\n\n• Drag-and-drop word formation  \n• Letter tile swapping controls  \n• Limited move level progression  \n• Special tile mechanics  \n• Casual vocabulary puzzle theme"
-},
-{
 "id": "869e69efc3664ac8a94bb7f8d854abe9",
 "title": "Astrology Word Finder",
 "iframe": "https://html5.gamedistribution.com/869e69efc3664ac8a94bb7f8d854abe9/",
 "creator": "MarketJS",
 "description": "Search for hidden words within themed letter puzzles matching zodiac constellations to uncover celestial terms. Players swipe to connect letters and reveal intricate astrology-inspired word patterns, progressing through increasingly complex boards. The challenge ramps up with limited moves and time constraints under a cosmic setting, inviting players to sharpen vocabulary while exploring star sign motifs.\n\nKey Features\n\n• Letter connection swipe mechanic  \n• Time and move-limited puzzle rounds  \n• Progressive difficulty word grids  \n• Hint system for complex letter sets  \n• Astrology-themed vocabulary focus"
-},
-{
-"id": "9ed6005c9fae4e27ae4488ef9396243e",
-"title": "Words",
-"iframe": "https://html5.gamedistribution.com/9ed6005c9fae4e27ae4488ef9396243e/",
-"creator": "nau.games",
-"description": "Explore maze-like dungeons by controlling a stealthy ninja who uses wall running and shuriken throwing to defeat samurai enemies. Navigate through timed levels filled with traps and hidden passages while collecting artifacts to unlock new areas. Skillful movement and precise throwing mechanics challenge players to master each stage’s unique layout.\n\nKey Features\n\n• Wall running movement system  \n• Precision shuriken throwing  \n• Timed obstacle navigation  \n• Artifact collection progression  \n• Feudal Japan themed levels"
 },
 {
 "id": "aa58f54d7df74659981e5b197cac9df4",
@@ -1128,32 +967,11 @@
 "description": "Match letters to form words using a spatial cube puzzle mechanic, combining adjacent tiles for word creation. Players navigate dynamic letter arrangements, aiming to maximize scores through strategic moves and timed challenges. The game offers adaptive difficulty with an increasing complexity of letter patterns to test vocabulary skills across casual play sessions.\n\nKey Features\n\n• Spatial letter cube grids  \n• Adjacent tile word formation  \n• Progressive difficulty stages  \n• Time-limited challenge mode  \n• Vocabulary skill emphasis"
 },
 {
-"id": "de665abb5f074807ae939b249c328f21",
-"title": "Words Jungle",
-"iframe": "https://html5.gamedistribution.com/de665abb5f074807ae939b249c328f21/",
-"creator": "FG Studio",
-"description": "Match letters quickly to form words and clear puzzles within a lush jungle backdrop. Players link adjacent tiles using a unique swipe mechanic that challenges vocabulary and speed under time limits. Levels introduce jungle-themed obstacles like vines blocking paths and bonus fruit tiles for extra points. The goal is to progress through increasingly complex word puzzles by strategic word creation.\n\nKey Features\n\n• Swipe based letter linking  \n• Timer driven puzzle rounds  \n• Jungle obstacle tile effects  \n• Progressive word difficulty levels  \n• Bonus fruit scoring system"
-},
-{
 "id": "c2a7282efc3b409eb8700e7a9cfde292",
 "title": "Word Wood",
 "iframe": "https://html5.gamedistribution.com/c2a7282efc3b409eb8700e7a9cfde292/",
 "creator": "FG Studio",
 "description": "Match letter tiles to form words on a dynamic wooden board puzzle, challenging players to build vocabulary under time pressure. Combine adjacent letters with a swapping mechanic to clear increasingly complex layouts while managing limited moves. The game’s progression ramps up with new board variations and tougher word requirements, inviting casual players and teens to sharpen their skills in a cozy, wood-themed setting.\n\nKey Features\n\n• Tile swapping word formation  \n• Limited move word puzzles  \n• Increasing board complexity  \n• Time-based challenge mode  \n• Rustic wood design elements"
-},
-{
-"id": "d0a3c2c4530c42ba9db94d362d75ca63",
-"title": "Words Block",
-"iframe": "https://html5.gamedistribution.com/d0a3c2c4530c42ba9db94d362d75ca63/",
-"creator": "FG Studio",
-"description": "Arrange falling letter blocks to create continuous words and clear the board. This puzzle challenges players to strategically place each tile using spatial reasoning and quick pattern recognition. The game progresses through increasingly complex arrangements requiring sharper focus and timing. Players must anticipate letter order dynamics to maximize their word combinations and board space efficiency.\n\nKey Features\n\n• Letter tile placement mechanics  \n• Real-time word chain formation  \n• Increasing puzzle complexity  \n• Score multiplier combos system  \n• Casual grid layout interface"
-},
-{
-"id": "93e5e41a4d8644bb9cac7c099bdd8b84",
-"title": "Wording",
-"iframe": "https://html5.gamedistribution.com/93e5e41a4d8644bb9cac7c099bdd8b84/",
-"creator": "FG Studio",
-"description": "Explore underwater caverns by piloting a customizable submarine through labyrinthine tunnels using precise buoyancy controls. Navigate tricky currents and avoid hostile sea creatures as you collect rare artifacts to unlock new vessel upgrades and deeper oceanic stages. The game’s gradual difficulty curve tests your dexterity and strategic planning in an immersive aquatic setting.\n\nKey Features\n\n• Buoyancy and thrust controls  \n• Submarine upgrade system  \n• Enemy avoidance AI patterns  \n• Artifact collection progression  \n• Deep sea environment hazards"
 },
 {
 "id": "886a6423a1fd4a4d9dd68ea25e70bfa0",
@@ -1177,25 +995,11 @@
 "description": "Arrange mixed-up letters to form valid words in a timed puzzle format. Players must quickly identify and select correct words using a drag-and-drop mechanic, progressing through increasingly difficult letter sets. Accuracy and speed are key to advancing and unlocking new letter challenges, creating a steady ramp of word complexity. The game targets casual audiences looking to sharpen vocabulary skills in short bursts.\n\nKey Features\n\n• Letter selection drag-and-drop  \n• Progressive word difficulty levels  \n• Time-limited puzzle rounds  \n• Accuracy-based score system  \n• Casual vocabulary challenge"
 },
 {
-"id": "e6ad2f8b02f04d0f980f6bbb71b0d3ac",
-"title": "Words Challenge",
-"iframe": "https://html5.gamedistribution.com/e6ad2f8b02f04d0f980f6bbb71b0d3ac/",
-"creator": "Gamebuilt.com",
-"description": "Solve increasingly complex word puzzles by strategically connecting letters to form words in a grid. Players use pattern recognition and timed decision-making to clear levels, navigating through varied challenges that test vocabulary and quick thinking. Each stage introduces new letter arrangements and obstacles, aiming to maximize scores within limited moves.\n\nKey Features\n\n• Letter connection grid mechanic  \n• Timed puzzle solving action  \n• Increasing difficulty puzzles  \n• Move-limited level progression  \n• Vocabulary-based challenge system"
-},
-{
 "id": "8681283ac4504113831bfd3a4caf2e5e",
 "title": "Word Chef",
 "iframe": "https://html5.gamedistribution.com/8681283ac4504113831bfd3a4caf2e5e/",
 "creator": "Webgameapp",
 "description": "Combine letters to form words and solve puzzles in this word-based brain teaser. Players rearrange given letter tiles using drag-and-drop controls to complete each level’s dictionary challenge. The game features timed rounds that increase in difficulty, pushing vocabulary skills while aiming to clear each puzzle before the clock runs out.\n\nKey Features\n\n• Tile drag-and-drop mechanic  \n• Word formation puzzle design  \n• Increasing timed challenges  \n• Level progression unlocking words  \n• Casual vocabulary building"
-},
-{
-"id": "d568288a951c49dd8032d3d337f87798",
-"title": "Words Cracker",
-"iframe": "https://html5.gamedistribution.com/d568288a951c49dd8032d3d337f87798/",
-"creator": "Gamebuilt.com",
-"description": "Crack letter combinations by swapping adjacent tiles to form valid words in a grid puzzle featuring incremental difficulty and time limits. Players navigate a tile-based interface to unlock new board layouts and challenge modes as the puzzle complexity grows.\n\nKey Features\n\n• Tile swapping core mechanic  \n• Time-limited word formation  \n• Progressive puzzle grid expansion  \n• Multiple difficulty settings  \n• Casual letter puzzle atmosphere"
 },
 {
 "id": "45596cbacfe6473d8d71f100fd31e882",
@@ -1212,25 +1016,11 @@
 "description": "Match letters to form words under increasing time pressure in this brain teaser puzzle. Players rearrange mixed tiles on a grid to unlock new levels, using logic and pattern recognition to progress through challenging word sequences. The game’s tile-shuffling mechanic demands quick thinking and sharp vocabulary to achieve higher scores.\n\nKey Features\n\n• Tile rearrangement core mechanic  \n• Pattern recognition gameplay  \n• Progressive difficulty levels  \n• Time-based scoring system  \n• Casual puzzle grid setting"
 },
 {
-"id": "6bf62276c601460dbfb149624c55e5db",
-"title": "Words Search Classic Edition",
-"iframe": "https://html5.gamedistribution.com/6bf62276c601460dbfb149624c55e5db/",
-"creator": "Playtouch",
-"description": "Scan grids for hidden words by selecting adjacent letters in this classic puzzle format. Use a point-and-click interface to uncover all listed vocabulary within time limits. The game challenges pattern recognition and speed, featuring multiple difficulty levels to test progression. Hidden word categories add variety that keeps players engaged.\n\nKey Features\n\n• Grid-based word search mechanic  \n• Letter selection controls  \n• Increasing difficulty puzzles  \n• Time-limited challenge mode  \n• Category-themed word lists"
-},
-{
 "id": "d89ebfa990334980bfe001c2de8c392d",
 "title": "Amazing Word Search",
 "iframe": "https://html5.gamedistribution.com/d89ebfa990334980bfe001c2de8c392d/",
 "creator": "Amazing Games Network",
 "description": "Search grids for hidden words using directional swipes and timed hints in a vibrant puzzle layout. The game challenges players to spot carefully scattered vocabulary with a growing complexity in word length and orientation. Progression unlocks larger grids that demand sharper observation and faster selection accuracy to clear levels efficiently.\n\nKey Features\n\n• Directional swipe word selection  \n• Increasing grid size complexity  \n• Timer-based hint system  \n• Progressive difficulty scaling  \n• Color-coded word categories"
-},
-{
-"id": "294bc0ccb43d4944a3551023428dd18b",
-"title": "Words Search Hollywood Search",
-"iframe": "https://html5.gamedistribution.com/294bc0ccb43d4944a3551023428dd18b/",
-"creator": "Playtouch",
-"description": "Scan large grids of letters to find hidden words fast in a classic word search setup. Players highlight words related to Hollywood, using precise cursor control to uncover names and iconic terms. Each puzzle challenges players to find all listed words before time runs out, with increasing grid complexity as they progress.\n\nKey Features\n\n• Letter grid scanning mechanic  \n• Mouse-driven word selection  \n• Time-limited puzzle challenges  \n• Progressive difficulty levels  \n• Hollywood-themed word lists"
 },
 {
 "id": "0e03a64be08e4795a00c7d9884c296e3",
@@ -1245,34 +1035,6 @@
 "iframe": "https://html5.gamedistribution.com/1bce4041408e4974a35ecbce0fced3bb/",
 "creator": "MarketJS",
 "description": "Pop patterned letter tiles to create words before the time runs out, combining fast-paced puzzle solving with a colorful grid layout. The core mechanic revolves around word recognition linked to spatial matching, encouraging players to think quickly and strategically. Progression includes increasing difficulty with more complex letter arrangements and tighter time limits.\n\nKey Features\n\n• Tile matching word puzzles  \n• Time-limited letter combos  \n• Increasing difficulty levels  \n• Hint system for stuck players  \n• Color-coded tile grid"
-},
-{
-"id": "9ea99c3782c1418c8003102b1518722a",
-"title": "Wow Words",
-"iframe": "https://html5.gamedistribution.com/9ea99c3782c1418c8003102b1518722a/",
-"creator": "Physical Form",
-"description": "Match letters to form words under timed rounds in a colorful puzzle grid. Players link adjacent tiles using quick swipe gestures, aiming to clear layers before the board fills. Each stage increases letter variety and limited moves, challenging vocabulary skills while encouraging fast strategic thinking.\n\nKey Features\n\n• Swipe-based word formation  \n• Adjacent tile linking control  \n• Increasing letter complexity  \n• Move-limited puzzle progression  \n• Colorful layered grid design"
-},
-{
-"id": "3a3ad34194754e96add0d966935996b4",
-"title": "Words Party",
-"iframe": "https://html5.gamedistribution.com/3a3ad34194754e96add0d966935996b4/",
-"creator": "Physical Form",
-"description": "Navigate a dynamic party environment where players race to connect words and solve puzzles using a vibrant word linking mechanic. Progression involves unlocking new word sets and increasing challenge speed. Quick thinking and matching strategy drive the core gameplay, offering a lively, language-focused challenge ideal for casual players and younger audiences.\n\nKey Features\n\n• Word linking puzzle system  \n• Timed matching challenges  \n• Unlockable vocabulary categories  \n• Increasing difficulty tiers  \n• Casual party game setting"
-},
-{
-"id": "4c57af24127f425ca9cdc5cfdba39a10",
-"title": "Words Search",
-"iframe": "https://html5.gamedistribution.com/4c57af24127f425ca9cdc5cfdba39a10/",
-"creator": "Playtouch",
-"description": "Search and highlight hidden word clusters across themed grids by scanning rows and columns. Players engage with a classic word puzzle mechanic, locating interconnected words to complete each challenge. The game tests observational speed and pattern recognition within varying difficulty levels.\n\nKey Features\n\n• Grid-based word discovery  \n• Click-and-drag selection controls  \n• Increasing puzzle complexity  \n• Timed challenge mode  \n• Visual highlight feedback"
-},
-{
-"id": "69f757c107c04c86993c79176faf4433",
-"title": "Words Family",
-"iframe": "https://html5.gamedistribution.com/69f757c107c04c86993c79176faf4433/",
-"creator": "Physical Form",
-"description": "Match words quickly by category and complete evolving puzzles in this casual word challenge. Players drag and drop tiles using a pattern-matching mechanic to form cohesive word families, enhancing vocabulary and problem-solving skills. Each level adds complexity with time limits and new word sets to unlock, encouraging careful strategy and speed.\n\nKey Features\n\n• Drag and drop tile matching  \n• Category-based word grouping  \n• Increasingly timed puzzles  \n• Progressive difficulty levels  \n• Educational vocabulary focus"
 },
 {
 "id": "48570d8fc6324bd8875977742de930b0",
@@ -1315,27 +1077,6 @@
 "iframe": "https://html5.gamedistribution.com/dc5290cf61bf424186d8f67d21e26b70/",
 "creator": "Happylander Ltd",
 "description": "Scan the puzzle grid to locate hidden words arranged in multiple directions. The core mechanic revolves around spotting overlapping word patterns that increase in length and complexity with each level. Players aim to clear all listed words before time runs out, sharpening their observational skills in a classic letter search environment.\n\nKey Features\n\n• multi-directional word placement  \n• tap and drag word selection  \n• timed level progression  \n• score tracking and bonus rounds  \n• colorful letter grid interface"
-},
-{
-"id": "a82bfcc90a8548a3976b0b2d13dd37dd",
-"title": "Free Words",
-"iframe": "https://html5.gamedistribution.com/a82bfcc90a8548a3976b0b2d13dd37dd/",
-"creator": "Code This Lab srl",
-"description": "Construct words from jumbled letters to complete challenging puzzle grids using a timed letter selection mechanic. Players must connect adjacent tiles to form valid words and clear levels that increase in difficulty. The game engages with a tile-matching wordplay system and offers multiple stages for player progression.\n\nKey Features\n\n• Adjacent tile word formation  \n• Timed letter selection rounds  \n• Increasing puzzle complexity  \n• Multiple level progression system  \n• Casual vocabulary challenge"
-},
-{
-"id": "21858fcc2a104ee185a47f92e0bae908",
-"title": "Festie Words",
-"iframe": "https://html5.gamedistribution.com/21858fcc2a104ee185a47f92e0bae908/",
-"creator": "ArtBit",
-"description": "Arrange letter tiles to form words under time pressure, testing your vocabulary and quick thinking. This fast-paced word puzzle challenges players to connect letters on a grid, aiming to clear levels by reaching score thresholds. Strategic tile selection and pattern recognition drive every move in this dynamic letter-based challenge.\n\nKey Features\n\n• Tile connection word mechanic  \n• Timed grid puzzle sessions  \n• Progressive score targets  \n• Power-up and hint options  \n• Casual vocabulary challenge"
-},
-{
-"id": "ea64d878cb2c44b3b1fde467241be1ce",
-"title": "Neon Words",
-"iframe": "https://html5.gamedistribution.com/ea64d878cb2c44b3b1fde467241be1ce/",
-"creator": "ArtBit",
-"description": "Arrange glowing letters against shifting neon backdrops to form coherent words before time runs out in this puzzle challenge. Players use precise placement and pattern recognition to complete levels with increasing complexity. Bright neon colors define the visual style while word completion drives progression through a series of escalating puzzles, testing quick thinking and vocabulary skills.\n\nKey Features\n\n• Letter placement puzzle mechanic  \n• Timed word completion challenges  \n• Increasing difficulty stages  \n• Score-based progression system  \n• Neon light aesthetic"
 },
 {
 "id": "00925361587c4e4e9598cab1e813502f",
