@@ -308,6 +308,7 @@ function resize_to_png($srcIm, int $dstW, int $dstH, string $outPath): array {
 function atomic_write_json(string $path, array $data): array {
     $json = json_encode($data, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
     $json = str_replace("    ", "", $json);
+    $json = preg_replace_callback('/"categories": \[\n((?:"(?:\\\\.|[^"\\\\])*",?\n)*)\]/', fn($m) => '"categories": [' . str_replace("\n", ' ', trim($m[1])) . ']', $json);
 
     if (!is_string($json)) return [false, "json_encode_failed"];
 
