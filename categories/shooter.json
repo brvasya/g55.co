@@ -1,6 +1,34 @@
 {
 "pages": [
 {
+"id": "83a123b1cd174bd3844ffe0dfe996f61",
+"title": "Arrower",
+"iframe": "https://html5.gamedistribution.com/83a123b1cd174bd3844ffe0dfe996f61/",
+"creator": "QkyGames",
+"description": "Control precise arrow shots through dynamic target challenges in a minimalist archery setting. Players adjust aim, power, and timing to hit varied moving targets while managing wind influence. Each level tests accuracy and speed, demanding quick reflexes and sharp focus to progress through increasingly complex shooting scenarios.\n\nKey Features\n\n• Precision aiming and power control  \n• Moving and stationary target variations  \n• Wind impact on projectile trajectory  \n• Level-based accuracy challenges  \n• Minimalist archery environment"
+},
+{
+"id": "43f45c8924824a1bbbb1c2bb6820d5ac",
+"title": "Archers Ragdoll Physics",
+"iframe": "https://html5.gamedistribution.com/43f45c8924824a1bbbb1c2bb6820d5ac/",
+"creator": "Goolandia",
+"description": "Launch arrows at ragdoll figures using realistic physics to topple targets in chaotic scenes. Players rely on precise aiming and timing to manipulate character limbs and exploit weak points across various stages. The game challenges reflexes and strategy as you adjust shots for unpredictable ragdoll responses in a playful, physics-driven environment.\n\nKey Features\n\n• Physics-based arrow shooting  \n• Limb targeting mechanics  \n• Precision aiming controls  \n• Progressive difficulty levels  \n• Ragdoll character dynamics"
+},
+{
+"id": "f4055ea8c0794a50badf82d7ce837eaa",
+"title": "Archers Random",
+"iframe": "https://html5.gamedistribution.com/f4055ea8c0794a50badf82d7ce837eaa/",
+"creator": "Goolandia",
+"description": "Launch arrows with timing precision to hit various impossible targets and defeat waves of enemies in this archery challenge. Players engage with a physics-based bow shooting mechanic set in a dynamic arena where quick reflexes and strategic aiming shape every encounter. Progression comes from mastering randomized level layouts and adapting to new target patterns.  \n\nKey Features\n\n• Physics-based bow mechanics  \n• Precision aiming and timing controls  \n• Randomized target and enemy patterns  \n• Progressive arena challenges  \n• Stylized fantasy archery setting"
+},
+{
+"id": "a2eafb6bfed84d56a10d6c57e1e72417",
+"title": "Stick Archers Battle",
+"iframe": "https://html5.gamedistribution.com/a2eafb6bfed84d56a10d6c57e1e72417/",
+"creator": "RHM Interactive",
+"description": "Control stick archers in intense 1v1 duels using precision aiming and timing to outshoot your opponent. The core mechanic revolves around rapid bowstring tension and arrow trajectory calculation. Players face increasingly skilled enemies in progressively challenging battle arenas, testing reflexes and strategy in a stick figure combat setting.\n\nKey Features\n\n• Precision bow aiming system  \n• Timing-based arrow release control  \n• Progressive enemy difficulty scaling  \n• One-on-one arena battles  \n• Minimalist stick figure art style"
+},
+{
 "id": "e12afbc0080447b1a21db75d14022987",
 "title": "Guns and Blocks",
 "iframe": "https://html5.gamedistribution.com/e12afbc0080447b1a21db75d14022987/",
@@ -2374,13 +2402,6 @@
 "description": "Navigate precision shooting scenarios using scoped rifles while tracking moving targets in dynamic environments. Using sniper-style aiming mechanics, players face timed challenges that test accuracy and stealth, progressing through escalating levels that demand careful positioning and quick reflexes to eliminate foes efficiently.\n\nKey Features\n\n• Precision aiming with scoped rifles  \n• Stealth-based target engagement  \n• Timed mission challenges  \n• Progressive difficulty levels  \n• Tactical positioning mechanics"
 },
 {
-"id": "7bad9fd3bbd844f0b41ed3a3716f06e7",
-"title": "Army Sniper",
-"iframe": "https://html5.gamedistribution.com/7bad9fd3bbd844f0b41ed3a3716f06e7/",
-"creator": "JulGames",
-"description": "Engage targets using precise sniper rifle mechanics across diverse combat zones in Army Sniper. Players must control breathing and aim stability to eliminate enemies while managing limited ammunition and line-of-sight constraints. Progress through increasingly challenging missions that test stealth and marksmanship under pressure.\n\nKey Features\n\n• Sniper aiming and breathing control  \n• Ammunition management system  \n• Stealth-based enemy encounters  \n• Mission difficulty progression  \n• Realistic outdoor shooting environments"
-},
-{
 "id": "6de8c2b79cae477dacf7a7c400b90fd2",
 "title": "Sniper Trigger Revenge",
 "iframe": "https://html5.gamedistribution.com/6de8c2b79cae477dacf7a7c400b90fd2/",
@@ -3137,20 +3158,6 @@
 "description": "Engage in tactical firefights using SWAT team tactics and close-quarters combat in urban firefights. Coordinate weapon switching and positioning to neutralize hostile targets quickly. Navigate complex city buildings and corridors where precise movement and timing define success in each intense operation.\n\nKey Features\n\n• Squad-based tactical combat  \n• Dynamic weapon loadout system  \n• Urban environment navigation  \n• Timed mission objectives  \n• Close-quarters engagement scenarios"
 },
 {
-"id": "6343a70c45d247e19f75c4deddd1439c",
-"title": "Frontline Army Commando War",
-"iframe": "https://html5.gamedistribution.com/6343a70c45d247e19f75c4deddd1439c/",
-"creator": "igroutka.ru",
-"description": "Command squads through tactical ground assaults using cover-based shooting mechanics. Navigate diverse enemy encounters while utilizing precise aiming and reload management to eliminate forces. Progress through escalating combat zones with mission objectives that demand quick reflexes and strategic positioning, all set within intense frontline war scenarios.\n\nKey Features\n\n• Cover-based shooting controls  \n• Squad command tactical layers  \n• Progressive combat zone difficulty  \n• Reload and aiming precision system  \n• Realistic infantry battle settings"
-},
-{
-"id": "cf7fcff9b2a14661bd9822c20a21bdfe",
-"title": "US Army Commando : Elite Commando War",
-"iframe": "https://html5.gamedistribution.com/cf7fcff9b2a14661bd9822c20a21bdfe/",
-"creator": "zuma studio",
-"description": "Lead stealth assaults using diverse military weaponry against enemy forces in intense tactical combat scenarios. Navigate urban and jungle battlefields, balancing rapid movements with strategic shooting to complete varied mission objectives. Manage limited ammo and health while facing progressively tougher opponents, pushing your skills through escalating levels of enemy resistance and terrain challenges.\n\nKey Features\n\n• Tactical shooting and cover system  \n• Diverse military weapon loadouts  \n• Progressive enemy difficulty waves  \n• Mission-based level objectives  \n• Urban and jungle combat environments"
-},
-{
 "id": "45e3fa0cd7d74375b5f610f88c57e4fd",
 "title": "Snowball War: Space Shooter",
 "iframe": "https://html5.gamedistribution.com/45e3fa0cd7d74375b5f610f88c57e4fd/",
@@ -3546,13 +3553,6 @@
 "iframe": "https://html5.gamedistribution.com/08e88c3fb875479488c5ed76aa5da40d/",
 "creator": "igroutka.ru",
 "description": "Navigate urban rooftops using parkour moves and precision shooting in this dynamic 3D combat experience. Players engage in fast-paced firefights across detailed cityscapes, utilizing cover and tactical positioning to eliminate rival forces. The game challenges you to clear zones by mastering weapon reloads and managing health under pressure, advancing through escalating urban battlegrounds.\n\nKey Features\n\n• Third-person shooting mechanics  \n• Parkour movement system  \n• Progressive enemy wave challenges  \n• Cover-based combat strategies  \n• Detailed urban environment design"
-},
-{
-"id": "b32959ef5d3046bdb23d039b949869a4",
-"title": "Army Fps Shooting",
-"iframe": "https://html5.gamedistribution.com/b32959ef5d3046bdb23d039b949869a4/",
-"creator": "Online Games io",
-"description": "Navigate intense combat by wielding precise firearms in rapid engagements. The game centers on aiming and shooting skills set within a rigid military environment where players face timed enemy waves. Mastering the recoil pattern and cover maneuvering forms the core mechanic while advancing through increasingly complex battlegrounds sharpens tactical response.\n\nKey Features\n\n• Precision shooting targeting system  \n• Dynamic cover movement controls  \n• Progressive enemy wave difficulty  \n• Time-based survival rounds  \n• Military-themed combat zones"
 },
 {
 "id": "f7f0ad0613b142f6a3ab06ca1dfc8e5e",
@@ -4850,13 +4850,6 @@
 "description": "Face off in intense quick-draw battles where timing your shots determines victory. Players rely on precision reflexes and rapid aiming to outshoot opponents in arid western duels. Matching careful shot timing with evasive movement creates tense standoffs, pushing players to claim dominance in fast-paced gunfights.\n\nKey Features\n\n• Precision quick-draw shooting  \n• Timing-based duel mechanics  \n• Reaction speed challenge  \n• One-versus-one combat mode  \n• Wild West thematic elements"
 },
 {
-"id": "4c40f85f1b9a4024bed9e676af7a9050",
-"title": "Army Commando",
-"iframe": "https://html5.gamedistribution.com/4c40f85f1b9a4024bed9e676af7a9050/",
-"creator": "igroutka.ru",
-"description": "Command infantry through tactical cover-based shooting missions using precise aiming and rapid reload mechanics. Navigate hostile environments filled with enemy soldiers as you complete objectives that test reflexes and strategy. Each level introduces new enemy types and requires adapting your positioning to survive intense firefights.  \n\nKey Features\n\n• Cover system with targeted shooting  \n• Precise weapon aiming control  \n• Increasing enemy difficulty waves  \n• Reload and stamina management  \n• Military combat zone environments"
-},
-{
 "id": "9619f69dac5d4e6d963ca432aada4ecf",
 "title": "Elite SWAT Commander",
 "iframe": "https://html5.gamedistribution.com/9619f69dac5d4e6d963ca432aada4ecf/",
@@ -4883,13 +4876,6 @@
 "iframe": "https://html5.gamedistribution.com/38d96203a07244e8b5e5af386768ecd8/",
 "creator": "JulGames",
 "description": "Take down enemy forces using precise shooting and quick reflexes in a side-scrolling action shooter set in a wartime environment. Players control a lone commando armed with various firearms, progressing through intense levels filled with hostile soldiers and obstacles. Accuracy and timing are vital to survive waves of enemies and complete missions under pressure.\n\nKey Features\n\n• Weapon switching and shooting mechanics  \n• Responsive character movement controls  \n• Enemy wave progression system  \n• Health management and ammo pickups  \n• Military combat environment"
-},
-{
-"id": "9bd5bfc025284db7a8ef94d7abc023a2",
-"title": "Army Commando",
-"iframe": "https://html5.gamedistribution.com/9bd5bfc025284db7a8ef94d7abc023a2/",
-"creator": "JulGames",
-"description": "Lead infantry squads through tactical cover-based combat missions using precise aiming and weapon handling in a military warzone. Players manage different firearms and navigate hostile environments with stealth elements to eliminate enemy forces and complete mission objectives. Levels gradually increase in difficulty with a variety of enemy soldier types and terrain challenges.\n\nKey Features\n\n• Cover-based shooting mechanic  \n• Weapon switching and reloading  \n• Stealth and direct combat options  \n• Progressive mission difficulty  \n• Military warzone environments"
 },
 {
 "id": "0b54705ec8cf47b8a377713b77efadb6",
@@ -5366,13 +5352,6 @@
 "iframe": "https://html5.gamedistribution.com/b88ddebf00334069b1f215c7c107ef24/",
 "creator": "Yellow Bird Games",
 "description": "Launch colorful petals towards moving targets using precise aiming and timing in this casual browser game. Players manage a flower shooter’s trajectory and power to hit various patterns and unlock new levels. The gameplay blends skill-based shooting with bright floral visuals, challenging players to clear stages with increasing difficulty and unique target arrangements.\n\nKey Features\n\n• Precision aiming and shooting  \n• Power adjustment mechanic  \n• Progressive level unlocking  \n• Pattern-based target challenges  \n• Floral-themed visual style"
-},
-{
-"id": "44039864a00f4a45932b73c585df216e",
-"title": "US Army Commando Shooting Warzone 2020",
-"iframe": "https://html5.gamedistribution.com/44039864a00f4a45932b73c585df216e/",
-"creator": "mastergame",
-"description": "Navigate tactical combat scenarios with precise shooting and strategic positioning in urban battlegrounds. Players manage infantry combat using realistic firearms and cover mechanics to overcome waves of enemy soldiers. Progress through escalating warzone levels by mastering weapon handling and movement tactics for survival under pressure.\n\nKey Features\n\n• Infantry shooting and cover system  \n• Precision aiming and reload mechanics  \n• Progressive mission difficulty scaling  \n• Tactical use of urban environments  \n• Enemy AI squad coordination"
 },
 {
 "id": "996cce150d82457fb54dd426b8020c65",

@@ -1,6 +1,62 @@
 {
 "pages": [
 {
+"id": "77ad7230be4f458eae91bfcb54ebe6b0",
+"title": "Battleship War",
+"iframe": "https://html5.gamedistribution.com/77ad7230be4f458eae91bfcb54ebe6b0/",
+"creator": "DAB3Games",
+"description": "Command strategic naval artillery to sink enemy fleets by targeting specific grid coordinates in this classic grid-based battle simulation. Players tactically deploy and guess positions to outmaneuver their opponent’s hidden vessels, engaging in turn-based gameplay that emphasizes careful planning and pattern deduction.\n\nKey Features\n\n• Grid coordinate targeting system  \n• Turn-based guessing mechanics  \n• Progressive ship deployment strategy  \n• Opponent fleet hidden information  \n• Naval combat grid layout"
+},
+{
+"id": "85dcb4270a524c31810cdeeeaf311bec",
+"title": "Battleship War Multiplayer",
+"iframe": "https://html5.gamedistribution.com/85dcb4270a524c31810cdeeeaf311bec/",
+"creator": "Code This Lab srl",
+"description": "Engage in strategic naval combat by targeting hidden ships on a grid, relying on deduction and memory to outsmart your opponent. Players alternate turns to call out coordinates and sink fleets, using classic Battleship gameplay with multiplayer interaction for direct competition. The core challenge stems from placing ships strategically and predicting enemy moves within the digital sea.\n\nKey Features\n\n• Turn-based coordinate targeting  \n• Fleet placement strategy system  \n• Multiplayer synchronous matches  \n• Hit and miss feedback mechanic  \n• Classic battleship grid layout"
+},
+{
+"id": "1aabc40f583a4a4aaef2881d6c2b090a",
+"title": "Battleship",
+"iframe": "https://html5.gamedistribution.com/1aabc40f583a4a4aaef2881d6c2b090a/",
+"creator": "Fantasy Realm",
+"description": "Target strategic grid coordinates to sink opponent’s fleet in this classic naval combat game. Players manage guessing patterns and track ship placements across a turn-based grid to outwit their adversary. The challenge centers on logical deduction and spatial awareness as you aim to destroy all enemy vessels before they do the same.\n\nKey Features\n\n• Turn-based strategic targeting  \n• Grid coordinate deduction system  \n• Progressive ship sinking status  \n• Two-player competitive mode  \n• Naval fleet combat theme"
+},
+{
+"id": "7e5f17f6b84c451a9f545ea8d358e750",
+"title": "TRZ Battleship",
+"iframe": "https://html5.gamedistribution.com/7e5f17f6b84c451a9f545ea8d358e750/",
+"creator": "trezegames",
+"description": "Command enemy fleets by targeting grid coordinates in strategic naval warfare, navigating through fog of war and limited ammo to sink ships before your opponent strikes back. The gameplay focuses on tactical guessing and spatial reasoning within a classic battleship grid setup, with each successful hit edging you closer to victory. Adapt your strategy to outmaneuver and outlast AI or human challengers.\n\nKey Features\n\n• Grid-based targeting mechanic  \n• Turn-based strategic play  \n• Ammo management system  \n• Single and multiplayer modes  \n• Classic naval combat theme"
+},
+{
+"id": "31293e50f8fe4fa18bda8f4c7027710d",
+"title": "Battleship",
+"iframe": "https://html5.gamedistribution.com/31293e50f8fe4fa18bda8f4c7027710d/",
+"creator": "SUCCESS Corporation",
+"description": "Place strategic naval strikes to locate and sink opponent's fleet on a grid-based ocean battlefield. Players employ turn-based targeting mechanics combined with deduction and pattern recognition to outmaneuver enemy ship placements. The core challenge lies in interpreting shot feedback and adjusting attack plans to eliminate all vessels before running out of moves.\n\nKey Features\n\n• Grid coordinate targeting system  \n• Turn-based tactical gameplay  \n• Progressive ship elimination stages  \n• Hit and miss feedback mechanic  \n• Classic naval combat theme"
+},
+{
+"id": "2537272ace33419ab10c39c3123ef403",
+"title": "Battleship",
+"iframe": "https://html5.gamedistribution.com/2537272ace33419ab10c39c3123ef403/",
+"creator": "RedFoc",
+"description": "Launch salvoes and anticipate enemy ship locations in a grid-based naval combat setting where strategic guessing drives gameplay. Players command a fleet of battleships, using turn-based coordinate targeting to sink opponents’ vessels before their own are lost. The core challenge lies in deducing opponent patterns while efficiently managing limited attacks per round.\n\nKey Features\n\n• Turn-based coordinate targeting  \n• Fleet positioning strategy  \n• Limited attack rounds per game  \n• Single-player and multiplayer modes  \n• Classic naval warfare grid system"
+},
+{
+"id": "43053cfa04d74994b7333944f301dc10",
+"title": "Battleships Armada",
+"iframe": "https://html5.gamedistribution.com/43053cfa04d74994b7333944f301dc10/",
+"creator": "RavalMatic",
+"description": "Plot targeting enemy coordinates with guess-based targeting mechanics, players attempt to sink fleets on a grid-based ocean battlefield. Strategic ship placement and turn-based attack guessing define each round’s challenge. The game focuses on logical deduction to outsmart opponents while tracking hit patterns and managing limited strikes per turn.\n\nKey Features\n\n• Turn-based grid targeting  \n• Ship placement strategy  \n• Hit and miss feedback system  \n• Sequential turn progression  \n• Naval combat theme"
+},
+{
+"id": "6a623bd63a9048fb99810d12dbe248a9",
+"title": "Battleship",
+"iframe": "https://html5.gamedistribution.com/6a623bd63a9048fb99810d12dbe248a9/",
+"creator": "MarketJS",
+"description": "Select grid coordinates to launch missile strikes against hidden enemy vessels in this strategic naval battle. Gameplay revolves around guessing ship positions on a grid using targeted attacks, with a turn-based mechanic challenging players to sink all opponent ships before theirs are lost. The classic ship placement and hit confirmation system adds tactical depth to each move.\n\nKey Features\n\n• Turn-based coordinate targeting  \n• Ship placement strategy phase  \n• Progressive hit and sink detection  \n• Single-player and multiplayer modes  \n• Naval warfare grid system"
+},
+{
 "id": "7e7799c97247464bb555dbe95ec8d2fc",
 "title": "Christmas Mahjong",
 "iframe": "https://html5.gamedistribution.com/7e7799c97247464bb555dbe95ec8d2fc/",
