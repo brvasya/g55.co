@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "626030ce36a249729e19df483d7836dc",
+"title": "FRAGEN",
+"iframe": "https://html5.gamedistribution.com/626030ce36a249729e19df483d7836dc/",
+"description": "",
+"categories": ["Shooter"],
+"creator": "LUCKY TRY"
+},
+{
 "id": "6209ad03dc334326a2e134ae912bc2b9",
 "title": "Magic Princess Dress Up Doll",
 "iframe": "https://html5.gamedistribution.com/6209ad03dc334326a2e134ae912bc2b9/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "Yiv.Com"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Fortune's Deck Solitaire",
 "iframe": "https://html5.gamedistribution.com/62e4e7134be5426e9daf69ed7d037040/",
 "description": "",
-"categories": [
-"Cards"
-],
+"categories": ["Cards"],
 "creator": "Monstera Games"
 },
 {
@@ -25,10 +29,7 @@
 "title": "Obby Tower",
 "iframe": "https://html5.gamedistribution.com/62e8b351034b46129fedb50065e06680/",
 "description": "",
-"categories": [
-".IO",
-"Educational"
-],
+"categories": [".IO", "Educational"],
 "creator": "2Play"
 },
 {
@@ -36,10 +37,7 @@
 "title": "Aliens Hunter",
 "iframe": "https://html5.gamedistribution.com/6259b8781bfe4a1dbcd274ca61837902/",
 "description": "",
-"categories": [
-"Shooter",
-"Casual"
-],
+"categories": ["Shooter", "Casual"],
 "creator": "Yizhiyuan Network Technology Co., Ltd."
 },
 {
@@ -47,9 +45,7 @@
 "title": "Flower Sort",
 "iframe": "https://html5.gamedistribution.com/62589158906a4ce69d53bfbd3ea2d134/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -57,10 +53,7 @@
 "title": "Black Cat Stacking POP",
 "iframe": "https://html5.gamedistribution.com/624086883e77443b80d3d851265339e9/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Synk Inc."
 },
 {
@@ -68,9 +61,7 @@
 "title": "Ball Craze Sort",
 "iframe": "https://html5.gamedistribution.com/623a520854894d7baf1f34fb9e86cda9/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "minigame"
 },
 {
@@ -78,9 +69,7 @@
 "title": "Try To Count The Boxes Brain Training",
 "iframe": "https://html5.gamedistribution.com/62c37b5a4fb041d9a72e116d2ce90313/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Mirra Games"
 },
 {
@@ -88,10 +77,7 @@
 "title": "Beat The Zombies",
 "iframe": "https://html5.gamedistribution.com/62a5bfd927984c9a85f01314a21442d9/",
 "description": "",
-"categories": [
-"Adventure",
-"Shooter"
-],
+"categories": ["Adventure", "Shooter"],
 "creator": "Guangzhou Yomitoo Network Technology Co., Ltd."
 },
 {
@@ -99,10 +85,7 @@
 "title": "Little Dentist Dash",
 "iframe": "https://html5.gamedistribution.com/626512b37b3748f99fb719dcb2cf56d0/",
 "description": "",
-"categories": [
-"Casual",
-"Dress-up"
-],
+"categories": ["Casual", "Dress-up"],
 "creator": "iclickgames"
 },
 {
@@ -110,10 +93,7 @@
 "title": "2048 Ball Arena",
 "iframe": "https://html5.gamedistribution.com/620bc2ad63ca41b69bba637414be141f/",
 "description": "",
-"categories": [
-".IO",
-"Merge"
-],
+"categories": [".IO", "Merge"],
 "creator": "Yunus Kahramanoğlu – Independent Developer"
 }
 ]

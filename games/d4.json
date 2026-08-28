@@ -1,14 +1,43 @@
 {
 "pages": [
 {
+"id": "d424e4a81925455db9e44064be0fc647",
+"title": "Galaxy Carnage",
+"iframe": "https://html5.gamedistribution.com/d424e4a81925455db9e44064be0fc647/",
+"description": "",
+"categories": ["Casual"],
+"creator": "GamePush"
+},
+{
+"id": "d4e41ec4065a4c07b59d1ec25902af66",
+"title": "Wacky Wheels",
+"iframe": "https://html5.gamedistribution.com/d4e41ec4065a4c07b59d1ec25902af66/",
+"description": "",
+"categories": ["Racing & Driving"],
+"creator": "Shanaya"
+},
+{
+"id": "d4ca43bdb49e4011acc7596d2c854f32",
+"title": "Cards Match Puzzle",
+"iframe": "https://html5.gamedistribution.com/d4ca43bdb49e4011acc7596d2c854f32/",
+"description": "",
+"categories": ["Cards"],
+"creator": "Bofer Media (Twim Studio)"
+},
+{
+"id": "d415b35b664c4ce9a3c31f7ffc73c1a9",
+"title": "Mahjong Connect Majong Class",
+"iframe": "https://html5.gamedistribution.com/d415b35b664c4ce9a3c31f7ffc73c1a9/",
+"description": "",
+"categories": ["Mahjong & Connect"],
+"creator": "wavegame"
+},
+{
 "id": "d436deb6a98e4bd789dbac2d80e8e9cf",
 "title": "Brainrot Cleaning",
 "iframe": "https://html5.gamedistribution.com/d436deb6a98e4bd789dbac2d80e8e9cf/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "bestgames.com"
 },
 {
@@ -16,10 +45,7 @@
 "title": "Kaboom Miner",
 "iframe": "https://html5.gamedistribution.com/d43ed595d14e47a1ac6a4ff7456fd3b5/",
 "description": "",
-"categories": [
-"Casual",
-"Strategy"
-],
+"categories": ["Casual", "Strategy"],
 "creator": "CoreCraft"
 },
 {
@@ -27,9 +53,7 @@
 "title": "Arrows Puzzle Escape",
 "iframe": "https://html5.gamedistribution.com/d41e8014aea74629934290991b008c7a/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "PuzzleGame.Com"
 },
 {
@@ -37,9 +61,7 @@
 "title": "Fireboy & Watergirl 7: and Friends",
 "iframe": "https://html5.gamedistribution.com/d4a3629101574bc39bd8f9d1888ca58e/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "Septimaniac"
 },
 {
@@ -47,9 +69,7 @@
 "title": "Grow a Garden 3D",
 "iframe": "https://html5.gamedistribution.com/d42224913b654f31b321996f49fcd5ad/",
 "description": "",
-"categories": [
-"Simulation"
-],
+"categories": ["Simulation"],
 "creator": "NISHAD_Games"
 },
 {
@@ -57,9 +77,7 @@
 "title": "Juice Merge",
 "iframe": "https://html5.gamedistribution.com/d4c11a64ed754d71b4671d699c66a9c7/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "GameBerry Studio"
 },
 {
@@ -67,10 +85,7 @@
 "title": "Power Puzzle",
 "iframe": "https://html5.gamedistribution.com/d4a7c2d0d8914a888912ca21d0e20ae7/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "HDCorp"
 },
 {
@@ -78,10 +93,7 @@
 "title": "Collect Brainrot Arena",
 "iframe": "https://html5.gamedistribution.com/d411ed1fbeef4cacafd86cd18973db72/",
 "description": "",
-"categories": [
-".IO",
-"Casual"
-],
+"categories": [".IO", "Casual"],
 "creator": "gameVgames"
 }
 ]

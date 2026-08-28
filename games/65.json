@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "656da7021ceb41d2847cfa7d0612061c",
+"title": "Mage's Secret",
+"iframe": "https://html5.gamedistribution.com/656da7021ceb41d2847cfa7d0612061c/",
+"description": "",
+"categories": ["Merge"],
+"creator": "Mirra Games"
+},
+{
 "id": "6529282c80f84c4c905380a86d778ee8",
 "title": "Animal Royal",
 "iframe": "https://html5.gamedistribution.com/6529282c80f84c4c905380a86d778ee8/",
 "description": "",
-"categories": [
-"Battle",
-"Cards"
-],
+"categories": ["Battle", "Cards"],
 "creator": "Ultra Games Entertainment Private limited"
 },
 {
@@ -16,9 +21,7 @@
 "title": "Nine Cards Of Winter",
 "iframe": "https://html5.gamedistribution.com/65bd69abf7024736ac2fa7b528abd21e/",
 "description": "",
-"categories": [
-"Mahjong & Connect"
-],
+"categories": ["Mahjong & Connect"],
 "creator": "Lof Games"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Tank Stars",
 "iframe": "https://html5.gamedistribution.com/659090e00bfc4650899550d63f8a130d/",
 "description": "",
-"categories": [
-"Battle"
-],
+"categories": ["Battle"],
 "creator": "StoreRider"
 },
 {
@@ -36,9 +37,7 @@
 "title": "Meow Block: Color Collect!",
 "iframe": "https://html5.gamedistribution.com/655318552fce44219adae25faa4c6629/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "bestgames.com"
 },
 {
@@ -46,10 +45,7 @@
 "title": "Pyramidz2",
 "iframe": "https://html5.gamedistribution.com/651ca0101b5e4c2da461a51abd8d5772/",
 "description": "",
-"categories": [
-"Match-3",
-"Merge"
-],
+"categories": ["Match-3", "Merge"],
 "creator": "StoreRider"
 }
 ]

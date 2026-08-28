@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "b15f65390b444e91ab286faf3a1120f6",
+"title": "Moto Trials Rush",
+"iframe": "https://html5.gamedistribution.com/b15f65390b444e91ab286faf3a1120f6/",
+"description": "",
+"categories": ["Adventure", "Racing & Driving"],
+"creator": "Playgama"
+},
+{
 "id": "b16de7275fcf41dd93211f127e28273d",
 "title": "Mall Anomaly",
 "iframe": "https://html5.gamedistribution.com/b16de7275fcf41dd93211f127e28273d/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "iclickgames"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Onet Monster Book",
 "iframe": "https://html5.gamedistribution.com/b12634b876af4c14b88ce37a9319c642/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GamePush"
 },
 {
@@ -25,9 +29,7 @@
 "title": "Racing Master 3D",
 "iframe": "https://html5.gamedistribution.com/b19adff25c044cacb3accf8fbc02a5e5/",
 "description": "",
-"categories": [
-"Racing & Driving"
-],
+"categories": ["Racing & Driving"],
 "creator": "CarGames.Com"
 },
 {
@@ -35,10 +37,7 @@
 "title": "Hook Pin Jam",
 "iframe": "https://html5.gamedistribution.com/b1b399e2218a45a8b7550b8e91347ae3/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Playgama"
 },
 {
@@ -46,9 +45,7 @@
 "title": "My Castle. Merge & Story",
 "iframe": "https://html5.gamedistribution.com/b1d11769f6754c14ad36e726b998bbc5/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "Rainbow Games"
 },
 {
@@ -56,10 +53,7 @@
 "title": "Real War: Not Fake",
 "iframe": "https://html5.gamedistribution.com/b16fdfa7e3ec4368be8213a56e12058f/",
 "description": "",
-"categories": [
-"Shooter",
-"Battle"
-],
+"categories": ["Shooter", "Battle"],
 "creator": "DevDop"
 }
 ]

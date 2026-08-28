@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "d9f930a985ba4d2fb94100f6daeee6b8",
+"title": "DayCare Tycoon",
+"iframe": "https://html5.gamedistribution.com/d9f930a985ba4d2fb94100f6daeee6b8/",
+"description": "",
+"categories": ["Educational", "Simulation"],
+"creator": "Geniteam"
+},
+{
 "id": "d915f03f46804091933c3be8d17273be",
 "title": "Billiard Diamond Challenge",
 "iframe": "https://html5.gamedistribution.com/d915f03f46804091933c3be8d17273be/",
 "description": "",
-"categories": [
-"Sports",
-"Casual"
-],
+"categories": ["Sports", "Casual"],
 "creator": "Vi Games"
 },
 {
@@ -16,9 +21,7 @@
 "title": "Magic Bottles",
 "iframe": "https://html5.gamedistribution.com/d91602efd33a46d59afe4eea53f6eacf/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Clever Apps Pte. Ltd."
 },
 {
@@ -26,9 +29,7 @@
 "title": "Hopnova",
 "iframe": "https://html5.gamedistribution.com/d9a1e7343c9642988d8ec4623df4196c/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Actibands minijuegos"
 },
 {
@@ -36,9 +37,7 @@
 "title": "Grow a garden for Brainrots",
 "iframe": "https://html5.gamedistribution.com/d998b444bf69461fa03e2c053d1c38e8/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GamePush"
 },
 {
@@ -46,10 +45,7 @@
 "title": "Steal A Fish",
 "iframe": "https://html5.gamedistribution.com/d9afb8cc970c48c4b7cacef65a5aef61/",
 "description": "",
-"categories": [
-"Casual",
-"Simulation"
-],
+"categories": ["Casual", "Simulation"],
 "creator": "bestgames.com"
 }
 ]

@@ -1,13 +1,19 @@
 {
 "pages": [
 {
+"id": "2854f3f9a9244d76a577fab1e2349219",
+"title": "Mahjong Crimes - Puzzle Story",
+"iframe": "https://html5.gamedistribution.com/2854f3f9a9244d76a577fab1e2349219/",
+"description": "",
+"categories": ["Mahjong & Connect"],
+"creator": "Azerion Casual Games"
+},
+{
 "id": "28f14620b6b4490b8ca14b5ebc684175",
 "title": "Merge Beasts",
 "iframe": "https://html5.gamedistribution.com/28f14620b6b4490b8ca14b5ebc684175/",
 "description": "",
-"categories": [
-"Merge"
-],
+"categories": ["Merge"],
 "creator": "bestphysics"
 },
 {
@@ -15,9 +21,7 @@
 "title": "Vibe Colouring",
 "iframe": "https://html5.gamedistribution.com/28881625e042417fa4428c960069ca46/",
 "description": "",
-"categories": [
-"Art"
-],
+"categories": ["Art"],
 "creator": "GamePush"
 },
 {
@@ -25,9 +29,7 @@
 "title": "Ocean Pop",
 "iframe": "https://html5.gamedistribution.com/289c76b93595447ab9a7d9a70afac4ac/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Playgama"
 },
 {
@@ -35,10 +37,7 @@
 "title": "Grass Defense",
 "iframe": "https://html5.gamedistribution.com/285373716433410bbd6ecf58c3fedefb/",
 "description": "",
-"categories": [
-"Battle",
-"Strategy"
-],
+"categories": ["Battle", "Strategy"],
 "creator": "Ultra Games Entertainment Private limited"
 },
 {
@@ -46,9 +45,7 @@
 "title": "Happy Fluffy Cubes",
 "iframe": "https://html5.gamedistribution.com/28a87d97a0cc40f49226f63d844a89cd/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "GamePush"
 },
 {
@@ -56,9 +53,7 @@
 "title": "Xytrian Runner",
 "iframe": "https://html5.gamedistribution.com/280e627746f74fc6aabc06fcf57aeb84/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "LUCKY TRY"
 },
 {
@@ -66,10 +61,7 @@
 "title": "Accurate 2D",
 "iframe": "https://html5.gamedistribution.com/28cddc44643242c49335fbe7dbd4354d/",
 "description": "",
-"categories": [
-"Shooter",
-"Casual"
-],
+"categories": ["Shooter", "Casual"],
 "creator": "Starodymov Games"
 },
 {
@@ -77,9 +69,7 @@
 "title": "Cow Jam Farm puzzle",
 "iframe": "https://html5.gamedistribution.com/284894477327459b95bf8e2a54c9d681/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "PuzzleGame.Com"
 },
 {
@@ -87,10 +77,7 @@
 "title": "Color Clash",
 "iframe": "https://html5.gamedistribution.com/28a6118cbc8a44db99d0d9c687de1087/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Playful Cochon"
 }
 ]
