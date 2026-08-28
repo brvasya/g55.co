@@ -46,6 +46,8 @@ fighter=action
 fighters=action
 brawl=action
 kung=action
+impostors=action
+gladiators=action
 
 #adventure
 escape=adventure
@@ -85,6 +87,7 @@ starship=adventure
 dungeon=adventure
 dungeons=adventure
 adventures=adventure
+robber=adventure
 
 #arcade
 ball=arcade
@@ -146,6 +149,11 @@ climber=arcade
 avoid=arcade
 dodge=arcade
 jetpack=arcade
+stacking=arcade
+swinging=arcade
+avoider=arcade
+avoids=arcade
+dodger=arcade
 
 #board
 backgammon=board
@@ -163,6 +171,8 @@ yatzy=board
 bingo=board
 carrom=board
 mancala=board
+battleship=board
+battleships=board
 
 #card
 solitaire=card
@@ -238,6 +248,10 @@ drifting=driving
 derby=driving
 demolition=driving
 kart=driving
+drifters=driving
+bikers=driving
+motorbikes=driving
+karts=driving
 
 #puzzle
 2048=puzzle
@@ -343,6 +357,16 @@ shapes=puzzle
 puzzles=puzzle
 jewels=puzzle
 candies=puzzle
+squares=puzzle
+rotate=puzzle
+rotation=puzzle
+fold=puzzle
+folding=puzzle
+mirror=puzzle
+riddles=puzzle
+connecting=puzzle
+dop=puzzle
+chroma=puzzle
 
 #quiz
 math=quiz
@@ -357,6 +381,8 @@ trivia=quiz
 maths=quiz
 guess=quiz
 guessing=quiz
+sum=quiz
+algebraic=quiz
 
 #shooter
 archery=shooter
@@ -398,6 +424,8 @@ shoot=shooter
 shooting=shooter
 shooters=shooter
 guns=shooter
+archers=shooter
+arrower=shooter
 
 #simulator
 cooking=simulator
@@ -467,6 +495,7 @@ clinic=simulator
 vet=simulator
 cook=simulator
 cashier=simulator
+chefs=simulator
 
 #sports
 basketball=sports
@@ -511,6 +540,8 @@ skater=sports
 skates=sports
 darts=sports
 billiards=sports
+kicker=sports
+golfs=sports
 
 #strategy
 defense=strategy
@@ -530,6 +561,8 @@ warzone=strategy
 defender=strategy
 defenders=strategy
 td=strategy
+army=strategy
+soldiers=strategy
 
 #word
 crossword=word
