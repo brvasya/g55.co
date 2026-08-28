@@ -238,10 +238,6 @@ class CategorizerApp(tk.Tk):
         self.agent_exceptions_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Agent Exceptions", variable=self.agent_exceptions_var).pack(side="left", padx=10)
 
-        self.min_tokens_var = tk.IntVar(value=1)
-        ttk.Label(top, text="Min keyword tokens").pack(side="left", padx=(12, 4))
-        ttk.Spinbox(top, from_=1, to=5, width=3, textvariable=self.min_tokens_var).pack(side="left")
-
         ttk.Button(top, text="Scan", command=self.scan).pack(side="left", padx=10)
         ttk.Button(top, text="Move all", command=self.move_all).pack(side="left", padx=6)
 
@@ -369,16 +365,12 @@ class CategorizerApp(tk.Tk):
         self,
         title_tokens: list[str],
         keywords,
-        min_tokens: int,
     ):
         best = None
         best_priority = None
         best_score = -1
         for kw in keywords:
             kt = kw["tokens"]
-            if len(kt) < min_tokens:
-                continue
-
             hits = find_all_subseq_positions(title_tokens, kt)
             if not hits:
                 continue
@@ -398,7 +390,6 @@ class CategorizerApp(tk.Tk):
             messagebox.showwarning("No source", "Select a source category first.")
             return
 
-        min_tokens = int(self.min_tokens_var.get() or 1)
         agent_exceptions_enabled = bool(self.agent_exceptions_var.get())
 
         keywords = self.build_keyword_map()
@@ -426,7 +417,6 @@ class CategorizerApp(tk.Tk):
             best, best_priority, best_score = self.find_best_keyword_match(
                 direct_title_tokens,
                 keywords,
-                min_tokens,
             )
 
             current_priority = None
@@ -448,7 +438,6 @@ class CategorizerApp(tk.Tk):
                     best, best_priority, best_score = self.find_best_keyword_match(
                         mapped_title_tokens,
                         keywords,
-                        min_tokens,
                     )
 
                     current_priority = None
