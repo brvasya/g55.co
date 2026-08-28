@@ -147,6 +147,121 @@ function http_get_bytes(string $url, int $timeoutSeconds = 60, int $maxBytes = 2
     return [$data, "ok"];
 }
 
+function http_get_text(string $url, int $timeoutSeconds = 10, int $maxBytes = 2000000): array {
+    if (!function_exists('curl_init')) return [null, "curl_missing"];
+
+    $host = strtolower((string)parse_url($url, PHP_URL_HOST));
+    $scheme = strtolower((string)parse_url($url, PHP_URL_SCHEME));
+    if (!in_array($scheme, ['http', 'https'], true) || $host !== 'html5.gamedistribution.com') {
+        return [null, "unsupported_iframe_host"];
+    }
+
+    $ch = curl_init($url);
+    if ($ch === false) return [null, "curl_init_failed"];
+
+    $data = '';
+    $err = null;
+
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_MAXREDIRS => 5,
+        CURLOPT_TIMEOUT => $timeoutSeconds,
+        CURLOPT_CONNECTTIMEOUT => 10,
+        CURLOPT_USERAGENT => 'g55-gd-bot/1.0',
+        CURLOPT_HTTPHEADER => ['Accept: text/html,application/xhtml+xml,*/*;q=0.8'],
+        CURLOPT_SSL_VERIFYPEER => true,
+        CURLOPT_SSL_VERIFYHOST => 2,
+        CURLOPT_WRITEFUNCTION => function($ch, $chunk) use (&$data, &$err, $maxBytes) {
+            $len = strlen($chunk);
+            if (strlen($data) + $len > $maxBytes) {
+                $err = "html_too_large";
+                return 0;
+            }
+            $data .= $chunk;
+            return $len;
+        },
+    ]);
+
+    $ok = curl_exec($ch);
+    $code = (int)curl_getinfo($ch, CURLINFO_RESPONSE_CODE);
+
+    if ($ok === false) {
+        $e = curl_error($ch);
+        curl_close($ch);
+        return [null, $err ? $err : ("curl_error:" . $e)];
+    }
+
+    curl_close($ch);
+
+    if ($code < 200 || $code >= 300) return [null, "http_status:" . $code];
+    if ($data === '') return [null, "empty_body"];
+
+    return [$data, "ok"];
+}
+
+function normalize_creator_value($value): string {
+    if (is_array($value)) {
+        return trim((string)($value['name'] ?? ''));
+    }
+    return trim((string)$value);
+}
+
+function find_creator_in_json($value): string {
+    if (!is_array($value)) return '';
+
+    if (array_key_exists('creator', $value)) {
+        $creator = normalize_creator_value($value['creator']);
+        if ($creator !== '') return $creator;
+    }
+
+    foreach ($value as $child) {
+        if (!is_array($child)) continue;
+        $creator = find_creator_in_json($child);
+        if ($creator !== '') return $creator;
+    }
+
+    return '';
+}
+
+function extract_creator_name(string $html): string {
+    if (preg_match_all(
+        '~<script\b[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script>~is',
+        $html,
+        $matches
+    )) {
+        foreach ($matches[1] as $jsonText) {
+            $decoded = json_decode(trim($jsonText), true);
+            if (!is_array($decoded)) continue;
+
+            $creator = find_creator_in_json($decoded);
+            if ($creator !== '') {
+                return html_entity_decode($creator, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+            }
+        }
+    }
+
+    if (preg_match(
+        '/["\']creator["\']\s*:\s*\{[^{}]*["\']name["\']\s*:\s*["\']([^"\']+)["\']/is',
+        $html,
+        $match
+    )) {
+        return trim(html_entity_decode($match[1], ENT_QUOTES | ENT_HTML5, 'UTF-8'));
+    }
+
+    return '';
+}
+
+function fetch_creator_name(string $iframe): array {
+    list($html, $status) = http_get_text($iframe);
+    if ($html === null) return ['', $status];
+
+    $creator = extract_creator_name($html);
+    if ($creator === '') return ['', "creator_not_found"];
+
+    return [$creator, "ok"];
+}
+
 function image_from_bytes(string $bytes): array {
     if (!function_exists('imagecreatefromstring')) return [null, "gd_missing"];
     $im = @imagecreatefromstring($bytes);
@@ -262,6 +377,60 @@ function append_pages_to_shard(string $shardFile, array $newPages): array {
     return [true, "ok", $appended, count($pages)];
 }
 
+function update_creator_in_shard(string $shardFile, string $id, string $creator): array {
+    $lockPath = $shardFile . '.lock';
+    $lockFp = @fopen($lockPath, 'c+');
+    if ($lockFp === false) return [false, "lock_open_failed"];
+
+    if (!@flock($lockFp, LOCK_EX)) {
+        @fclose($lockFp);
+        return [false, "lock_failed"];
+    }
+
+    list($shardJson, $st) = read_json_file($shardFile);
+    if (!is_array($shardJson)) {
+        @flock($lockFp, LOCK_UN);
+        @fclose($lockFp);
+        return [false, $st];
+    }
+
+    $pages = extract_pages_array($shardJson);
+    $found = false;
+    $changed = false;
+
+    foreach ($pages as &$page) {
+        if (!is_array($page) || ($page['id'] ?? '') !== $id) continue;
+        $found = true;
+        if (normalize_creator_value($page['creator'] ?? '') === '') {
+            $page['creator'] = $creator;
+            $changed = true;
+        }
+        break;
+    }
+    unset($page);
+
+    if (!$found) {
+        @flock($lockFp, LOCK_UN);
+        @fclose($lockFp);
+        return [false, "game_not_found"];
+    }
+
+    if (!$changed) {
+        @flock($lockFp, LOCK_UN);
+        @fclose($lockFp);
+        return [true, "creator_already_present"];
+    }
+
+    $shardJson = ["pages" => $pages];
+    list($okWrite, $stWrite) = atomic_write_json($shardFile, $shardJson);
+
+    @flock($lockFp, LOCK_UN);
+    @fclose($lockFp);
+
+    if (!$okWrite) return [false, $stWrite];
+    return [true, "creator_updated"];
+}
+
 $sourceBase = 'https://catalog.api.gamedistribution.com/api/v2.0/rss/All/';
 $sourceUrl = $sourceBase . '?categories=All&page=' . $page;
 
@@ -314,10 +483,15 @@ $thumbH = 128;
 
 $seenIdsInRun = [];
 $existingIdsByShard = [];
+$existingCreatorsByShard = [];
 $publishPages = [];
 $created = 0;
 $skippedExistingId = 0;
 $skippedExistingThumb = 0;
+$creatorsFetched = 0;
+$creatorFetchFailed = 0;
+$creatorRepairAttempts = 0;
+$creatorsRepaired = 0;
 $errors = 0;
 $results = [];
 
@@ -354,8 +528,18 @@ foreach ($items as $item) {
 
         if ($shardReadStatus === "file_not_found") {
             $existingIdsByShard[$shard] = [];
+            $existingCreatorsByShard[$shard] = [];
         } elseif (is_array($shardJson)) {
-            $existingIdsByShard[$shard] = pages_to_id_set(extract_pages_array($shardJson));
+            $shardPages = extract_pages_array($shardJson);
+            $existingIdsByShard[$shard] = pages_to_id_set($shardPages);
+            $existingCreatorsByShard[$shard] = [];
+
+            foreach ($shardPages as $existingPage) {
+                if (!is_array($existingPage)) continue;
+                $existingId = trim((string)($existingPage['id'] ?? ''));
+                if ($existingId === '') continue;
+                $existingCreatorsByShard[$shard][$existingId] = normalize_creator_value($existingPage['creator'] ?? '');
+            }
         } else {
             $errors++;
             $results[] = [
@@ -369,7 +553,57 @@ foreach ($items as $item) {
     }
 
     if (isset($existingIdsByShard[$shard][$id])) {
-        $skippedExistingId++;
+        $existingCreator = $existingCreatorsByShard[$shard][$id] ?? '';
+
+        if ($existingCreator !== '') {
+            $skippedExistingId++;
+            continue;
+        }
+
+        $iframe = pick_iframe($item);
+        if ($iframe === '') {
+            $creatorFetchFailed++;
+            $results[] = [
+                "id" => $id,
+                "status" => "creator_repair_failed",
+                "error" => "missing_iframe",
+                "shard" => $shard
+            ];
+            continue;
+        }
+
+        $creatorRepairAttempts++;
+        list($creator, $creatorStatus) = fetch_creator_name($iframe);
+
+        if ($creator === '') {
+            $creatorFetchFailed++;
+            $results[] = [
+                "id" => $id,
+                "status" => "creator_repair_failed",
+                "creator_status" => $creatorStatus,
+                "shard" => $shard
+            ];
+            continue;
+        }
+
+        $creatorsFetched++;
+        list($repairOk, $repairStatus) = update_creator_in_shard($shardFile, $id, $creator);
+
+        if ($repairOk) {
+            if ($repairStatus === "creator_updated") $creatorsRepaired++;
+            $existingCreatorsByShard[$shard][$id] = $creator;
+        } else {
+            $errors++;
+        }
+
+        $results[] = [
+            "id" => $id,
+            "status" => $repairOk ? $repairStatus : "creator_repair_write_failed",
+            "creator" => $creator,
+            "creator_status" => $creatorStatus,
+            "repair_status" => $repairStatus,
+            "shard" => $shard
+        ];
         continue;
     }
 
@@ -435,12 +669,20 @@ foreach ($items as $item) {
         $created++;
     }
 
+    list($creator, $creatorStatus) = fetch_creator_name($iframe);
+    if ($creator !== '') {
+        $creatorsFetched++;
+    } else {
+        $creatorFetchFailed++;
+    }
+
     $publishPages[] = [
         "id" => $id,
         "title" => $title,
         "iframe" => $iframe,
         "description" => "",
-        "categories" => $categories
+        "categories" => $categories,
+        "creator" => $creator
     ];
 
     $existingIdsByShard[$shard][$id] = true;
@@ -450,7 +692,9 @@ foreach ($items as $item) {
         "status" => $thumbnailExists ? "existing_thumbnail" : "created_thumbnail",
         "thumb" => $outPath,
         "asset" => $assetUrl,
-        "shard" => $shard
+        "shard" => $shard,
+        "creator" => $creator,
+        "creator_status" => $creatorStatus
     ];
 }
 
@@ -494,6 +738,10 @@ echo json_encode([
     "created_thumbnails" => $created,
     "skipped_existing_id" => $skippedExistingId,
     "existing_thumbnails_reused" => $skippedExistingThumb,
+    "creators_fetched" => $creatorsFetched,
+    "creator_fetch_failed" => $creatorFetchFailed,
+    "creator_repair_attempts" => $creatorRepairAttempts,
+    "creators_repaired" => $creatorsRepaired,
     "errors" => $errors,
     "candidates_for_publishing_count" => count($publishPages),
     "append_status" => $appendStatus,
