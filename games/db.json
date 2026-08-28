@@ -1,13 +1,35 @@
 {
 "pages": [
 {
+"id": "db4c9e081b1b4bff80d62bfc4004c496",
+"title": "Jewel Dress Up",
+"iframe": "https://html5.gamedistribution.com/db4c9e081b1b4bff80d62bfc4004c496/",
+"description": "",
+"categories": ["Match-3"],
+"creator": "Inlogic Software"
+},
+{
+"id": "dba0fbc7df8a42c282fb68d6ebed1545",
+"title": "How To Dress Your Dragon",
+"iframe": "https://html5.gamedistribution.com/dba0fbc7df8a42c282fb68d6ebed1545/",
+"description": "",
+"categories": ["Dress-up"],
+"creator": "Rising Pixel"
+},
+{
+"id": "db903c04abc24de3b61cc1983dea4486",
+"title": "Helicopter Battle Steve 2 Player",
+"iframe": "https://html5.gamedistribution.com/db903c04abc24de3b61cc1983dea4486/",
+"description": "",
+"categories": ["Agility", "Battle"],
+"creator": "FBK"
+},
+{
 "id": "db45f820b0c24a0eb1710432fe18b63f",
 "title": "Home Match: Tile Master",
 "iframe": "https://html5.gamedistribution.com/db45f820b0c24a0eb1710432fe18b63f/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "Gamee JSC"
 },
 {
@@ -15,10 +37,7 @@
 "title": "Shotting Balls",
 "iframe": "https://html5.gamedistribution.com/db69d7374a614188848b8834284d993f/",
 "description": "",
-"categories": [
-"Agility",
-"Casual"
-],
+"categories": ["Agility", "Casual"],
 "creator": "DarknesGamesStudio"
 },
 {
@@ -26,9 +45,7 @@
 "title": "Prism Match 3D",
 "iframe": "https://html5.gamedistribution.com/dbc504babec040ae805e6cdb7c19e4e3/",
 "description": "",
-"categories": [
-"Match-3"
-],
+"categories": ["Match-3"],
 "creator": "AI Gate Labs"
 },
 {
@@ -36,9 +53,7 @@
 "title": "Pool Duel",
 "iframe": "https://html5.gamedistribution.com/db26a7860d1540089be6bb8f6bca230a/",
 "description": "",
-"categories": [
-"Sports"
-],
+"categories": ["Sports"],
 "creator": "Inlogic Software"
 },
 {
@@ -46,10 +61,7 @@
 "title": "Football Superstars 2026",
 "iframe": "https://html5.gamedistribution.com/dba31dd236944415a71960309ff0d1c3/",
 "description": "",
-"categories": [
-"Football",
-"Casual"
-],
+"categories": ["Football", "Casual"],
 "creator": "Inlogic Software"
 }
 ]

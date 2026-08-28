@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "409446fcec744caf800db61b515df98f",
+"title": "DTA: Best Thief",
+"iframe": "https://html5.gamedistribution.com/409446fcec744caf800db61b515df98f/",
+"description": "",
+"categories": ["Adventure", "Simulation"],
+"creator": "GeekPlay"
+},
+{
 "id": "40e3d57bd45f47e493f9324a537ba71c",
 "title": "3D Acrylic Nail: Nail Art Game",
 "iframe": "https://html5.gamedistribution.com/40e3d57bd45f47e493f9324a537ba71c/",
 "description": "",
-"categories": [
-"Casual",
-"Dress-up"
-],
+"categories": ["Casual", "Dress-up"],
 "creator": "Bravestars Games"
 },
 {
@@ -16,9 +21,7 @@
 "title": "Chain Puzzle",
 "iframe": "https://html5.gamedistribution.com/40ec584436da4841b9b80e9d649112e2/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GameBerry Studio"
 },
 {
@@ -26,9 +29,7 @@
 "title": "Funny Doctor Emergency",
 "iframe": "https://html5.gamedistribution.com/401c33a42c214cb09ce67ac097426ef4/",
 "description": "",
-"categories": [
-"Care"
-],
+"categories": ["Care"],
 "creator": "iclickgames"
 },
 {
@@ -36,9 +37,7 @@
 "title": "Shape Shift",
 "iframe": "https://html5.gamedistribution.com/40c397128b9c4286ba2f8a94b0b4e48f/",
 "description": "",
-"categories": [
-"Casual"
-],
+"categories": ["Casual"],
 "creator": "Orenji Spark"
 },
 {
@@ -46,9 +45,7 @@
 "title": "Fashion Makeover Dash",
 "iframe": "https://html5.gamedistribution.com/40f5033d63884627919f0fa3ecfa4bd1/",
 "description": "",
-"categories": [
-"Dress-up"
-],
+"categories": ["Dress-up"],
 "creator": "iclickgames"
 }
 ]

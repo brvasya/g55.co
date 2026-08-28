@@ -1,14 +1,19 @@
 {
 "pages": [
 {
+"id": "196df99b32324438b39a4dcf18f0f838",
+"title": "Cat Mini Restaurant",
+"iframe": "https://html5.gamedistribution.com/196df99b32324438b39a4dcf18f0f838/",
+"description": "",
+"categories": ["Simulation"],
+"creator": "yiyuan"
+},
+{
 "id": "19d86bb378c4493397397fe3b8f2f0af",
 "title": "Path ice",
 "iframe": "https://html5.gamedistribution.com/19d86bb378c4493397397fe3b8f2f0af/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "GamePush"
 },
 {
@@ -16,9 +21,7 @@
 "title": "Hidden objects: Lost Island 2",
 "iframe": "https://html5.gamedistribution.com/194bceb65bc3475e8407d6f9354c8e3b/",
 "description": "",
-"categories": [
-"Puzzle"
-],
+"categories": ["Puzzle"],
 "creator": "GamePush"
 },
 {
@@ -26,10 +29,7 @@
 "title": "Slinky Color Sort",
 "iframe": "https://html5.gamedistribution.com/19558675273b4c0c92bb03c9cfd2d4f4/",
 "description": "",
-"categories": [
-"Puzzle",
-"Casual"
-],
+"categories": ["Puzzle", "Casual"],
 "creator": "Playgama"
 },
 {
@@ -37,9 +37,7 @@
 "title": "Neon Dash: Cyber Run",
 "iframe": "https://html5.gamedistribution.com/197d1fd19c3c40a0b72aca3f14a5ee79/",
 "description": "",
-"categories": [
-"Agility"
-],
+"categories": ["Agility"],
 "creator": "Hyper Axis Games"
 },
 {
@@ -47,9 +45,7 @@
 "title": "Rainbow Friends Hide And Seek",
 "iframe": "https://html5.gamedistribution.com/193427c7c07b4ef3a1d43e7fd7fd901d/",
 "description": "",
-"categories": [
-"Adventure"
-],
+"categories": ["Adventure"],
 "creator": "PuzzleGame.Com"
 },
 {
@@ -57,10 +53,7 @@
 "title": "Office Golf",
 "iframe": "https://html5.gamedistribution.com/19c63777ed1e4653b64b2200560907fd/",
 "description": "",
-"categories": [
-"Shooter",
-"Agility"
-],
+"categories": ["Shooter", "Agility"],
 "creator": "Synk Inc."
 }
 ]
