@@ -1,6 +1,132 @@
 {
 "pages": [
 {
+"id": "9f201fb381ab42efbcc0530f9990f777",
+"title": "Emoji Guess",
+"iframe": "https://html5.gamedistribution.com/9f201fb381ab42efbcc0530f9990f777/",
+"creator": "Playgama",
+"description": "Guess emoji combinations by decoding subtle clues in timed rounds, testing pattern recognition and quick thinking. Players race against the clock to identify sequences with limited guesses, balancing speed and accuracy for score progression. The simple interface and emoji puzzle format invite teasing logic skills without complex mechanics.\n\nKey Features\n\n• Pattern recognition core mechanic  \n• Timed guess input controls  \n• Increasing difficulty levels  \n• Score progression system  \n• Minimalist emoji puzzle interface"
+},
+{
+"id": "e6d91dc44fcc44e4b4289e0277078724",
+"title": "Huggy Wuggy Guess the right door",
+"iframe": "https://html5.gamedistribution.com/e6d91dc44fcc44e4b4289e0277078724/",
+"creator": "Catom Games",
+"description": "Navigate mysterious doors and test your instincts against unpredictable outcomes in this decision-based challenge. The core gameplay revolves around selecting the correct door to avoid traps and advance through progressively difficult stages. Quick thinking and pattern recognition play key roles as you guess and survive each round, with a curious setting adding tension and suspense.\n\nKey Features\n\n• Door guessing mechanic  \n• Timed decision challenges  \n• Increasing difficulty levels  \n• Score tracking system  \n• Suspenseful puzzle atmosphere"
+},
+{
+"id": "f6a472e3eca04764b7a74fe0364e6fc9",
+"title": "Guess it",
+"iframe": "https://html5.gamedistribution.com/f6a472e3eca04764b7a74fe0364e6fc9/",
+"creator": "Ringier Axel Springer Polska",
+"description": "Identify hidden objects by selecting from rotating silhouettes on a colorful grid board. The game challenges players to match obscure shadow shapes with detailed icons in time-limited rounds. Each level introduces new silhouette puzzles, testing observation and quick decision-making for casual players and kids seeking mental exercises.\n\nKey Features\n\n• silhouette matching mechanic  \n• grid-based object selection  \n• increasing difficulty levels  \n• time-limited round system  \n• vibrant arcade-style visuals"
+},
+{
+"id": "9ccd1b85b948459b96ec8aecb0fcfb15",
+"title": "Guess the path",
+"iframe": "https://html5.gamedistribution.com/9ccd1b85b948459b96ec8aecb0fcfb15/",
+"creator": "Playtouch",
+"description": "Navigate through challenging mazes by guessing the correct path to reach the exit before time runs out. This puzzle game tests players’ intuition and memory as they select routes and avoid dead ends. Levels increase in complexity with branching corridors and hidden traps, pushing players to refine their choices under pressure.\n\nKey Features\n\n• Path selection puzzle mechanic  \n• Time-based level progression  \n• Increasing maze complexity  \n• Trial and error exploration system  \n• Minimalist maze-themed visuals"
+},
+{
+"id": "d035840a70384dc5940f42d291f70e2e",
+"title": "Guess My Sketch",
+"iframe": "https://html5.gamedistribution.com/d035840a70384dc5940f42d291f70e2e/",
+"creator": "MarketJS",
+"description": "Sketch quick shapes under time pressure to match hidden prompts and outguess opponents. The drawing mechanic uses limited strokes to reveal clues while challenging your pattern recognition in a casual, artistic setting. Compete through multiple rounds where precision and speed determine who best deciphers the secret sketches.\n\nKey Features\n\n• Timed sketch drawing mechanic  \n• Limited stroke control system  \n• Pattern recognition challenge  \n• Multiplayer guess and reveal rounds  \n• Casual artistic game environment"
+},
+{
+"id": "bf2da482e79840e28dd425cfe9c5bc5b",
+"title": "Scrape and Guess",
+"iframe": "https://html5.gamedistribution.com/bf2da482e79840e28dd425cfe9c5bc5b/",
+"creator": "Happy Kid Games",
+"description": "Guess letters and solve puzzles by revealing hidden words through strategic letter selection in this fast-paced guessing challenge. Players improve their deduction skills by interpreting partial clues and leveraging limited attempts to uncover the correct word. Each round increases complexity with varying word lengths and letter placements to test pattern recognition.\n\nKey Features\n\n• Letter selection and guessing  \n• Strategic deduction gameplay  \n• Increasing word difficulty levels  \n• Limited attempt challenge system  \n• Puzzle word recognition mechanics"
+},
+{
+"id": "eba180d539c0488a94e41b4d73b3d947",
+"title": "Celebrity Guess Bollywood",
+"iframe": "https://html5.gamedistribution.com/eba180d539c0488a94e41b4d73b3d947/",
+"creator": "MarketJS",
+"description": "Guess celebrities by recognizing their Bollywood-inspired visuals and clues, testing your memory and knowledge with timed rounds. Players identify characters through a mechanic that blends image spotting with rapid decision-making, aiming to complete levels by correctly naming each star. The game challenges speed and accuracy within an entertainment-themed guessing format.\n\nKey Features\n\n• Image-based recognition mechanic  \n• Timed guessing rounds  \n• Increasing difficulty progression  \n• Score tracking system  \n• Bollywood celebrity visuals"
+},
+{
+"id": "7d063d9cba354cb694074aa8afc928ea",
+"title": "Scratch & Guess Celebrities",
+"iframe": "https://html5.gamedistribution.com/7d063d9cba354cb694074aa8afc928ea/",
+"creator": "MarketJS",
+"description": "Scratch images to slowly reveal hidden celebrity faces and guess their identities before time runs out. Utilizing tactile scratching mechanics, the game challenges players to recognize famous personalities through partial visuals. Progression depends on unveiling more detailed facial features, pushing recognition speed and memory skills under casual themed rounds.\n\nKey Features\n\n• Precision scratch reveal mechanic  \n• Timed facial recognition challenges  \n• Increasing puzzle complexity levels  \n• Multiple guessing opportunities per round  \n• Celebrity portrait visual theme"
+},
+{
+"id": "1ff13124e0194ecf84432b4a8808fc77",
+"title": "Guess The Flag",
+"iframe": "https://html5.gamedistribution.com/1ff13124e0194ecf84432b4a8808fc77/",
+"creator": "FG Studio",
+"description": "Match flags to countries using quick deduction and timed responses in this geography challenge. Players test their memory and knowledge of national flags through progressive difficulty levels. The core mechanic revolves around identifying flags from a global collection, aiming to increase accuracy and speed while managing limited guesses.\n\nKey Features\n\n• Flag identification speed rounds  \n• Incremental difficulty stages  \n• Limited error allowance system  \n• Time-based scoring mode  \n• World geography flag database"
+},
+{
+"id": "76e1b10208ff4713afa2e7b257aab3f7",
+"title": "Guess How Many",
+"iframe": "https://html5.gamedistribution.com/76e1b10208ff4713afa2e7b257aab3f7/",
+"creator": "Physical Form",
+"description": "Estimate quantities based on visual clues and refine guesses through iterative feedback in this casual brain teaser. Players engage with dynamic numerical puzzles that challenge their estimation skills to match or approach hidden targets. The game incorporates a gradual difficulty curve that tests players’ ability to balance intuition with strategic narrowing of possibilities.\n\nKey Features\n\n• Iterative guess adjustment mechanic  \n• Visual quantity estimation puzzles  \n• Increasing challenge tiers  \n• Feedback driven accuracy refinement  \n• Minimalist numeric interface"
+},
+{
+"id": "f66ab660b85748258c70385a2f4d4bc0",
+"title": "Didi & Friends Guess What",
+"iframe": "https://html5.gamedistribution.com/f66ab660b85748258c70385a2f4d4bc0/",
+"creator": "MarketJS",
+"description": "Match objects and solve puzzles by guessing hidden items through visual clues in a colorful party-themed environment. Players engage in pattern recognition and deduction to reveal correct answers across levels that test observation skills. Timing and limited guesses add challenge, creating a lively guessing game experience.\n\nKey Features\n\n• Visual clue matching mechanic  \n• Pattern recognition gameplay  \n• Limited guess challenge system  \n• Progressive puzzle difficulty  \n• Casual party-themed graphics"
+},
+{
+"id": "765a4c74422941d19c7264ab0d5c08da",
+"title": "Sound Guess",
+"iframe": "https://html5.gamedistribution.com/765a4c74422941d19c7264ab0d5c08da/",
+"creator": "Paradine",
+"description": "Identify audio clips and match sounds using quick reaction time and pattern recognition in an unknown theme game. Players test their listening skills across escalating sound samples, aiming to pinpoint exact matches while adapting to increasingly challenging audio patterns and timing constraints.\n\nKey Features\n\n• Audio pattern matching mechanic  \n• Quick reaction input controls  \n• Progressive sound difficulty levels  \n• Time-limited matching rounds  \n• Minimalistic audio-driven interface"
+},
+{
+"id": "485ace88aed344f8b2ff6821a46e4431",
+"title": "Guess The Italian Brainrot Animals",
+"iframe": "https://html5.gamedistribution.com/485ace88aed344f8b2ff6821a46e4431/",
+"creator": "gameVgames",
+"description": "Match quirky Italian animals by deciphering their peculiar traits in this guessing game. Players analyze distinctive characteristics to identify brainrot-inspired creatures, testing knowledge and observation skills. The game challenges players with progressively tricky puzzles that require pattern recognition and deduction within a unique cultural animal theme.\n\nKey Features\n\n• Trait-based animal matching  \n• Point-and-click selection control  \n• Increasing puzzle difficulty levels  \n• Time-limited guessing rounds  \n• Italian folklore creature designs"
+},
+{
+"id": "2e40467bc4764fcbab16ebb26aa85522",
+"title": "Scratch & Guess Animals",
+"iframe": "https://html5.gamedistribution.com/2e40467bc4764fcbab16ebb26aa85522/",
+"creator": "MarketJS",
+"description": "Scratch off panels to reveal hidden animals and guess their identity based on partial images. Players rely on tactile interaction and visual clues to identify creatures from a growing collection. Each correct guess unlocks more challenging images, encouraging progression through diverse animal silhouettes. The game is designed for casual exploration and recognition skills.\n\nKey Features\n\n• Scratch reveal mechanic  \n• Touch-based image interaction  \n• Increasing image difficulty  \n• Timed guess challenge option  \n• Variety of animal silhouettes"
+},
+{
+"id": "d0d8b4f53a6645469a8ad92431bb00dc",
+"title": "Guess the Kitty",
+"iframe": "https://html5.gamedistribution.com/d0d8b4f53a6645469a8ad92431bb00dc/",
+"creator": "Agame",
+"description": "Match hidden feline silhouettes by identifying subtle shape clues in each puzzling round. Players examine faint outlines to guess the correct cat figure, testing visual acuity through gradually complex guessing stages. The core mechanic relies on silhouette recognition and deduction in a charming environment suitable for casual players and younger audiences.\n\nKey Features\n\n• silhouette matching puzzles  \n• shape clue deduction system  \n• progressive difficulty rounds  \n• time-based challenge mode  \n• whimsical cat-themed visuals"
+},
+{
+"id": "87c0be586aff42e9a94dbd959dd029f0",
+"title": "Guess the Color",
+"iframe": "https://html5.gamedistribution.com/87c0be586aff42e9a94dbd959dd029f0/",
+"creator": "New Kids Games",
+"description": "Match color swatches precisely by selecting from a palette within limited attempts to reveal the hidden sequence. This game tests memory and observation as players identify patterns without a preset theme. Levels increase in difficulty by adding more colors and reducing guesses, challenging casual players and kids to sharpen their focus and deduction skills.\n\nKey Features\n\n• Color pattern recognition mechanic  \n• Click-based palette selection control  \n• Increasing color complexity levels  \n• Limited guess attempt system  \n• Minimalistic visual presentation"
+},
+{
+"id": "30ffb939b2b84062a08df10f07d1dd29",
+"title": "Guess The Drawing",
+"iframe": "https://html5.gamedistribution.com/30ffb939b2b84062a08df10f07d1dd29/",
+"creator": "PuzzleGame.Com",
+"description": "Draw and identify sketches rapidly to beat the timer in this turn-based guessing challenge. Players rely on quick visual recognition and creative doodling to decode ambiguous drawings within limited attempts. The game sharpens pattern recognition and speed in a casual competitive setting, pushing players to interpret abstract sketches and guess the subject before time expires.\n\nKey Features\n\n• Time-limited guessing rounds  \n• Simple mouse drawing controls  \n• Progressive difficulty levels  \n• Multiplayer drawing and guessing mode  \n• Cartoon-style sketch visuals"
+},
+{
+"id": "833f77c98b1248ea918a2bde20f864bc",
+"title": "Draw and Guess",
+"iframe": "https://html5.gamedistribution.com/833f77c98b1248ea918a2bde20f864bc/",
+"creator": "DAB3Games",
+"description": "Sketch and guess opponents’ drawings under time pressure, leveraging quick interpretation and creative strokes to decode hidden words. Players alternate roles between creating images using a simple paint tool and guessing phrases through an intuitive chat interface, aiming to outscore rivals in casual, turn-based rounds designed for easy social play.\n\nKey Features\n\n• Turn-based drawing and guessing  \n• Limited palette paint mechanics  \n• Timed round challenges  \n• Chat-based word guessing  \n• Casual multiplayer interaction"
+},
+{
 "id": "24c6e19e774a463fbd9cc098b308053a",
 "title": "2 Player Math",
 "iframe": "https://html5.gamedistribution.com/24c6e19e774a463fbd9cc098b308053a/",
