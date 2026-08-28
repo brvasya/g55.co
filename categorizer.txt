@@ -33,6 +33,7 @@ fights=action
 fighter=action
 fighters=action
 brawl=action
+kung=action
 
 #adventure
 escape=adventure
@@ -101,6 +102,15 @@ jumper=arcade
 helix=arcade
 bounce=arcade
 flap=arcade
+bouncy=arcade
+bouncing=arcade
+climb=arcade
+crossy=arcade
+slope=arcade
+spiral=arcade
+stair=arcade
+stairs=arcade
+lava=arcade
 
 #board
 backgammon=board
@@ -179,6 +189,20 @@ manicure=casual
 nails=casual
 pedicure=casual
 tattoo=casual
+beauty=casual
+bride=casual
+bridal=casual
+dressup=casual
+dolly=casual
+glam=casual
+hair=casual
+hairstyles=casual
+makeover=casual
+outfits=casual
+prom=casual
+salon=casual
+stylist=casual
+wedding=casual
 
 #clicker
 idle=clicker
@@ -302,6 +326,15 @@ match3=puzzle
 matching=puzzle
 pairs=puzzle
 blocks=puzzle
+bubble=puzzle
+bubbles=puzzle
+cleaning=puzzle
+crush=puzzle
+dots=puzzle
+flow=puzzle
+line=puzzle
+pipe=puzzle
+shapes=puzzle
 
 #quiz
 math=quiz
@@ -314,6 +347,7 @@ mathematics=quiz
 multiplication=quiz
 trivia=quiz
 maths=quiz
+guess=quiz
 
 #shooter
 archery=shooter
@@ -341,6 +375,7 @@ bullet=shooter
 cannon=shooter
 cannons=shooter
 aim=shooter
+arrow=shooter
 
 #simulator
 cooking=simulator
@@ -400,6 +435,7 @@ hospital=simulator
 clinic=simulator
 vet=simulator
 cook=simulator
+cashier=simulator
 
 #sports
 basketball=sports
@@ -432,6 +468,8 @@ snowboard=sports
 volley=sports
 volleyball=sports
 baseball=sports
+goal=sports
+hoop=sports
 
 #strategy
 defense=strategy
@@ -448,6 +486,7 @@ soldier=strategy
 warfare=strategy
 warzone=strategy
 defender=strategy
+td=strategy
 
 #word
 crossword=word
