@@ -16,9 +16,7 @@
 <article>
 <section class="description <?php echo (!empty($cid)) ? 'c ' . $cid : 'c play'; ?>">
 <h1><?php echo h($h1); ?></h1>
-<?php if (empty($activeSeriesKey)): ?>
 <p><?php echo $desc; ?></p>
-<?php endif; ?>
 </section>
 <?php if (!empty($seriesCategories)): ?>
 <nav class="cluster">
