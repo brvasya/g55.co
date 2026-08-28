@@ -131,293 +131,22 @@ def tokenize_slug(s: str) -> list[str]:
     return parts
 
 
-def singularize_token(t: str) -> str:
-    t = (t or "").strip().lower()
-    if len(t) < 4:
-        return t
-
-    plural_exceptions = {
-        "dominoes": "domino",
-        "fishermen": "fisherman",
-        "heroes": "hero",
-        "mazes": "maze",
-        "smoothies": "smoothie",
-        "superheroes": "superhero",
-        "wheelies": "wheelie",
-        "zombies": "zombie",
-    }
-    if t in plural_exceptions:
-        return plural_exceptions[t]
-
-    if t.endswith("ies") and len(t) > 4:
-        return t[:-3] + "y"
-
-    if t.endswith("es") and len(t) > 4:
-        base = t[:-2]
-        if base.endswith(("s", "x", "z")) or base.endswith(("ch", "sh")):
-            return base
-
-    if t.endswith("s") and not t.endswith("ss") and len(t) > 3:
-        return t[:-1]
-
-    return t
-
-
-def gerund_to_base_token(t: str) -> str:
-    t = (t or "").strip().lower()
-    if len(t) < 6 or not t.endswith("ing"):
-        return t
-
-    stem = t[:-3]
-    if len(stem) < 3:
-        return t
-
-    if len(stem) >= 2 and stem[-1] == stem[-2] and stem[-1] not in "aeiou":
-        stem = stem[:-1]
-
-    if stem.endswith(("ac", "ag", "at", "iv", "iz", "us", "ov", "ul", "ur")):
-        return stem + "e"
-
-    return stem
-
-
-def apply_agent_exception_token(t: str) -> str:
-    t = (t or "").strip().lower()
-    return AGENT_EXCEPTIONS.get(t, t)
-
-
-def agent_noun_to_base_token(t: str) -> str:
-    t = (t or "").strip().lower()
-
-    if len(t) < 5:
-        return t
-
-    if t.endswith("ier") and len(t) > 4:
-        return t[:-3] + "y"
-
-    if t.endswith("er") and len(t) > 4:
-        stem = t[:-2]
-
-        if len(stem) >= 2 and stem[-1] == stem[-2] and stem[-1] not in "aeiou":
-            stem = stem[:-1]
-
-        if stem.endswith(("ac", "ag", "at", "iv", "iz", "us", "ov", "ul", "ur")):
-            return stem + "e"
-
-        return stem
-
-    return t
-
-
-def maybe_normalize_tokens(
-    tokens: list[str],
-    plural_enabled: bool,
-    gerund_enabled: bool,
-    agent_enabled: bool,
-    agent_exceptions_enabled: bool,
-) -> list[str]:
+def apply_agent_exceptions(tokens: list[str]) -> list[str]:
     out = []
-    for x in tokens:
-        t = x
-        if agent_exceptions_enabled:
-            t = apply_agent_exception_token(t)
-        if plural_enabled:
-            t = singularize_token(t)
-        if agent_exceptions_enabled:
-            t = apply_agent_exception_token(t)
-        if gerund_enabled:
-            t = gerund_to_base_token(t)
-        if agent_enabled:
-            t = agent_noun_to_base_token(t)
-        if plural_enabled:
-            t = singularize_token(t)
-        if agent_exceptions_enabled:
-            mapped = apply_agent_exception_token(t)
-            if mapped != t:
-                t = mapped
-                if plural_enabled:
-                    t = singularize_token(t)
-                if gerund_enabled:
-                    t = gerund_to_base_token(t)
-                if agent_enabled:
-                    t = agent_noun_to_base_token(t)
-                if plural_enabled:
-                    t = singularize_token(t)
-            else:
-                t = mapped
-        out.append(t)
-    return out
+    for token in tokens:
+        token = (token or "").strip().lower()
+        if not token:
+            continue
 
+        mapped = AGENT_EXCEPTIONS.get(token)
+        if mapped is None:
+            out.append(token)
+            continue
 
-def plural_surface_forms(t: str) -> set[str]:
-    t = (t or "").strip().lower()
-    if not t:
-        return set()
+        mapped_tokens = tokenize_slug(mapped)
+        if mapped_tokens:
+            out.extend(mapped_tokens)
 
-    if t.endswith("y") and len(t) > 1 and t[-2] not in "aeiou":
-        return {t[:-1] + "ies"}
-    if t.endswith(("s", "x", "z", "ch", "sh")):
-        return {t + "es"}
-    return {t + "s"}
-
-
-def gerund_surface_forms(t: str) -> set[str]:
-    t = (t or "").strip().lower()
-    if not t:
-        return set()
-
-    if t.endswith("ie") and len(t) > 2:
-        return {t[:-2] + "ying"}
-    if t.endswith("e") and not t.endswith(("ee", "ye")):
-        return {t[:-1] + "ing"}
-    if (
-        len(t) >= 3
-        and t[-1] not in "aeiouwxy"
-        and t[-2] in "aeiou"
-        and t[-3] not in "aeiou"
-    ):
-        return {t + t[-1] + "ing"}
-    return {t + "ing"}
-
-
-def agent_surface_forms(t: str) -> set[str]:
-    t = (t or "").strip().lower()
-    if not t:
-        return set()
-
-    if t.endswith("y") and len(t) > 1 and t[-2] not in "aeiou":
-        return {t[:-1] + "ier"}
-    if t.endswith("e"):
-        return {t + "r"}
-    if (
-        len(t) >= 3
-        and t[-1] not in "aeiouwxy"
-        and t[-2] in "aeiou"
-        and t[-3] not in "aeiou"
-    ):
-        return {t + t[-1] + "er"}
-    return {t + "er"}
-
-
-def is_usable_fused_surface(surface: str) -> bool:
-    surface = (surface or "").strip().lower()
-    if not surface or not surface.isalnum():
-        return False
-    return len(surface) >= 3 or surface in {"2d", "3d", "io", "vs"}
-
-
-def build_fused_lexicon(
-    slugs: list[str],
-    plural_enabled: bool,
-    gerund_enabled: bool,
-    agent_enabled: bool,
-    agent_exceptions_enabled: bool,
-) -> dict[str, list[tuple[str, str]]]:
-    surface_to_canonical: dict[str, set[str]] = {}
-
-    for slug in slugs:
-        for raw in tokenize_slug(slug):
-            normalized = maybe_normalize_tokens(
-                [raw], plural_enabled, gerund_enabled, agent_enabled, agent_exceptions_enabled
-            )[0]
-            if not normalized:
-                continue
-
-            surfaces = {raw, normalized}
-            if plural_enabled:
-                surfaces.update(plural_surface_forms(normalized))
-            if gerund_enabled:
-                surfaces.update(gerund_surface_forms(normalized))
-            if agent_enabled:
-                surfaces.update(agent_surface_forms(normalized))
-
-            for surface in surfaces:
-                if is_usable_fused_surface(surface):
-                    surface_to_canonical.setdefault(surface, set()).add(normalized)
-
-    by_first: dict[str, list[tuple[str, str]]] = {}
-    for surface, canonicals in surface_to_canonical.items():
-        for canonical in canonicals:
-            by_first.setdefault(surface[0], []).append((surface, canonical))
-
-    for first in by_first:
-        by_first[first].sort(key=lambda pair: (-len(pair[0]), pair[0], pair[1]))
-
-    return by_first
-
-
-def split_fused_token(
-    token: str,
-    fused_lexicon: dict[str, list[tuple[str, str]]],
-) -> list[str]:
-    token = (token or "").strip().lower()
-    if len(token) < 6 or not token.isalnum() or not fused_lexicon:
-        return []
-
-    memo = {}
-
-    def solve(pos: int):
-        if pos == len(token):
-            return [], []
-        if pos in memo:
-            return memo[pos]
-
-        best = None
-        best_rank = None
-
-        for surface, canonical in fused_lexicon.get(token[pos], []):
-            if not token.startswith(surface, pos):
-                continue
-
-            if pos == 0 and len(surface) == len(token):
-                continue
-
-            rest = solve(pos + len(surface))
-            if rest is None:
-                continue
-
-            rest_tokens, rest_lengths = rest
-            candidate_tokens = [canonical] + rest_tokens
-            candidate_lengths = [len(surface)] + rest_lengths
-
-            rank = (
-                -len(candidate_tokens),
-                sum(length * length for length in candidate_lengths),
-                tuple(candidate_lengths),
-                tuple(candidate_tokens),
-            )
-            if best_rank is None or rank > best_rank:
-                best_rank = rank
-                best = candidate_tokens, candidate_lengths
-
-        memo[pos] = best
-        return best
-
-    result = solve(0)
-    if result is None or len(result[0]) < 2:
-        return []
-    return result[0]
-
-
-def tokenize_for_matching(
-    text: str,
-    plural_enabled: bool,
-    gerund_enabled: bool,
-    agent_enabled: bool,
-    agent_exceptions_enabled: bool,
-    fused_lexicon: dict[str, list[tuple[str, str]]],
-) -> list[str]:
-    out = []
-    for raw in tokenize_slug(text):
-        fused_parts = split_fused_token(raw, fused_lexicon)
-        if fused_parts:
-            out.extend(fused_parts)
-        else:
-            out.extend(
-                maybe_normalize_tokens(
-                    [raw], plural_enabled, gerund_enabled, agent_enabled, agent_exceptions_enabled
-                )
-            )
     return out
 
 
@@ -525,15 +254,6 @@ class CategorizerApp(tk.Tk):
         self.only_unique_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Unique", variable=self.only_unique_var).pack(side="left", padx=10)
 
-        self.plurals_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(top, text="Plural", variable=self.plurals_var).pack(side="left", padx=10)
-
-        self.gerunds_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(top, text="Gerund", variable=self.gerunds_var).pack(side="left", padx=10)
-
-        self.agent_nouns_var = tk.BooleanVar(value=True)
-        ttk.Checkbutton(top, text="Er", variable=self.agent_nouns_var).pack(side="left", padx=10)
-
         self.agent_exceptions_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(top, text="Agent Exceptions", variable=self.agent_exceptions_var).pack(side="left", padx=10)
 
@@ -542,7 +262,6 @@ class CategorizerApp(tk.Tk):
         ttk.Spinbox(top, from_=1, to=5, width=3, textvariable=self.min_tokens_var).pack(side="left")
 
         ttk.Button(top, text="Scan", command=self.scan).pack(side="left", padx=10)
-        ttk.Button(top, text="Move selected", command=self.move_selected).pack(side="left", padx=6)
         ttk.Button(top, text="Move all", command=self.move_all).pack(side="left", padx=6)
 
         self.status_var = tk.StringVar(value="")
@@ -646,33 +365,23 @@ class CategorizerApp(tk.Tk):
             self.current_label_var.set("Current category: ")
             self.set_status("Load failed")
 
-    def build_keyword_map(
-        self,
-        plural_enabled: bool,
-        gerund_enabled: bool,
-        agent_enabled: bool,
-        agent_exceptions_enabled: bool,
-        fused_lexicon: dict[str, list[tuple[str, str]]],
-    ):
+    def build_keyword_map(self):
         keywords = []
         for fn in self.files:
             if fn == self.current_file:
                 continue
+
             raw_slug = raw_slug_from_filename(fn)
             slug = raw_slug.lower()
             if not slug:
                 continue
-            tokens = tokenize_for_matching(
-                raw_slug,
-                plural_enabled,
-                gerund_enabled,
-                agent_enabled,
-                agent_exceptions_enabled,
-                fused_lexicon,
-            )
+
+            tokens = tokenize_slug(raw_slug)
+            if not tokens:
+                continue
+
             keywords.append({"file": fn, "slug": slug, "tokens": tokens})
 
-        keywords.sort(key=lambda k: (len(k["tokens"]), len(k["slug"])), reverse=True)
         return keywords
 
     def find_best_keyword_match(
@@ -715,70 +424,16 @@ class CategorizerApp(tk.Tk):
 
         min_tokens = int(self.min_tokens_var.get() or 1)
         only_unique = bool(self.only_unique_var.get())
-        plural_enabled = bool(self.plurals_var.get())
-        gerund_enabled = bool(self.gerunds_var.get())
-        agent_enabled = bool(self.agent_nouns_var.get())
         agent_exceptions_enabled = bool(self.agent_exceptions_var.get())
 
-        all_slugs = [raw_slug_from_filename(fn) for fn in self.files]
-
-        direct_fused_lexicon = build_fused_lexicon(
-            all_slugs,
-            plural_enabled,
-            gerund_enabled,
-            agent_enabled,
-            False,
-        )
-        direct_keywords = self.build_keyword_map(
-            plural_enabled,
-            gerund_enabled,
-            agent_enabled,
-            False,
-            direct_fused_lexicon,
-        )
-        if not direct_keywords:
+        keywords = self.build_keyword_map()
+        if not keywords:
             messagebox.showinfo("No keywords", "No other categories found to use as keywords.")
             return
 
-        semantic_fused_lexicon = direct_fused_lexicon
-        semantic_keywords = direct_keywords
-        if agent_exceptions_enabled:
-            semantic_fused_lexicon = build_fused_lexicon(
-                all_slugs,
-                plural_enabled,
-                gerund_enabled,
-                agent_enabled,
-                True,
-            )
-            semantic_keywords = self.build_keyword_map(
-                plural_enabled,
-                gerund_enabled,
-                agent_enabled,
-                True,
-                semantic_fused_lexicon,
-            )
-
         current_raw_slug = raw_slug_from_filename(self.current_file)
         current_slug = current_raw_slug.lower()
-
-        direct_current_tokens = tokenize_for_matching(
-            current_raw_slug,
-            plural_enabled,
-            gerund_enabled,
-            agent_enabled,
-            False,
-            direct_fused_lexicon,
-        )
-        semantic_current_tokens = direct_current_tokens
-        if agent_exceptions_enabled:
-            semantic_current_tokens = tokenize_for_matching(
-                current_raw_slug,
-                plural_enabled,
-                gerund_enabled,
-                agent_enabled,
-                True,
-                semantic_fused_lexicon,
-            )
+        current_tokens = tokenize_slug(current_raw_slug)
 
         self.clear_results()
 
@@ -791,57 +446,44 @@ class CategorizerApp(tk.Tk):
             if not title:
                 continue
 
-            direct_title_tokens = tokenize_for_matching(
-                title,
-                plural_enabled,
-                gerund_enabled,
-                agent_enabled,
-                False,
-                direct_fused_lexicon,
-            )
+            direct_title_tokens = tokenize_slug(title)
 
             best, best_priority, best_score, ties = self.find_best_keyword_match(
                 direct_title_tokens,
-                direct_keywords,
+                keywords,
                 min_tokens,
             )
 
-            direct_current_priority = None
-            if direct_current_tokens:
-                direct_current_hits = find_all_subseq_positions(direct_title_tokens, direct_current_tokens)
-                if direct_current_hits:
-                    direct_current_priority = build_match_priority(
-                        direct_current_hits, direct_current_tokens, current_slug
+            current_priority = None
+            if current_tokens:
+                current_hits = find_all_subseq_positions(direct_title_tokens, current_tokens)
+                if current_hits:
+                    current_priority = build_match_priority(
+                        current_hits, current_tokens, current_slug
                     )
 
-            title_tokens = direct_title_tokens
-            current_tokens = direct_current_tokens
-            current_priority = direct_current_priority
-
+            # Literal physical category matches always take precedence.
+            # Only fall back to explicit categorizer.txt mappings when no
+            # literal target category matched.
             if best is None:
-                if direct_current_priority is not None:
+                if current_priority is not None:
                     skipped_self += 1
                     continue
 
                 if agent_exceptions_enabled:
-                    title_tokens = tokenize_for_matching(
-                        title,
-                        plural_enabled,
-                        gerund_enabled,
-                        agent_enabled,
-                        True,
-                        semantic_fused_lexicon,
-                    )
-                    current_tokens = semantic_current_tokens
+                    mapped_title_tokens = apply_agent_exceptions(direct_title_tokens)
+
                     best, best_priority, best_score, ties = self.find_best_keyword_match(
-                        title_tokens,
-                        semantic_keywords,
+                        mapped_title_tokens,
+                        keywords,
                         min_tokens,
                     )
 
                     current_priority = None
                     if current_tokens:
-                        current_hits = find_all_subseq_positions(title_tokens, current_tokens)
+                        current_hits = find_all_subseq_positions(
+                            mapped_title_tokens, current_tokens
+                        )
                         if current_hits:
                             current_priority = build_match_priority(
                                 current_hits, current_tokens, current_slug
@@ -866,10 +508,9 @@ class CategorizerApp(tk.Tk):
                         candidates += 1
                 continue
 
-            if current_priority is not None:
-                if current_priority >= best_priority:
-                    skipped_self += 1
-                    continue
+            if current_priority is not None and current_priority >= best_priority:
+                skipped_self += 1
+                continue
 
             if only_unique and ties > 0:
                 continue
@@ -951,35 +592,6 @@ class CategorizerApp(tk.Tk):
             return True, "moved"
         except Exception as e:
             return False, f"save failed: {e}"
-
-    def move_selected(self):
-        sel = self.tree.selection()
-        if not sel:
-            messagebox.showwarning("No selection", "Select one or more candidates to move.")
-            return
-
-        moved = 0
-        skipped = 0
-        errors = 0
-
-        for iid in list(sel):
-            vals = self.tree.item(iid, "values")
-            if not vals:
-                continue
-            gid = vals[0]
-            target_fn = vals[3]
-
-            ok, reason = self.move_one(gid, target_fn)
-            if ok:
-                moved += 1
-                self.tree.delete(iid)
-            else:
-                if reason in ("duplicate id in target", "id not found in current", "invalid target", "empty id"):
-                    skipped += 1
-                else:
-                    errors += 1
-
-        self.set_status(f"Move selected done. moved={moved} skipped={skipped} errors={errors}")
 
     def move_all(self):
         items = self.tree.get_children()
