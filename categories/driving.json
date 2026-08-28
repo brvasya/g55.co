@@ -1,6 +1,860 @@
 {
 "pages": [
 {
+"id": "1523756df89f4d859472c20f400e582a",
+"title": "Cargo Heavy Trailer Transport Sim",
+"iframe": "https://html5.gamedistribution.com/1523756df89f4d859472c20f400e582a/",
+"creator": "chipchop",
+"description": "Transport oversized cargo across rugged roads in this heavy trailer simulator, mastering physics-driven vehicle handling to navigate tight turns and steep inclines. Players manage trailer attachments and trailer load balance while progressing through diverse delivery routes. The challenge centers on precise control and timing to avoid damage and complete shipments efficiently.\n\nKey Features\n\n• Physics-driven heavy trailer control  \n• Trailer load balancing mechanics  \n• Route progression with delivery goals  \n• Realistic terrain and road challenges  \n• Cargo transport logistics system"
+},
+{
+"id": "19a34e696d6e40deaa2e3fc2a875b8cc",
+"title": "Traffic Manager",
+"iframe": "https://html5.gamedistribution.com/19a34e696d6e40deaa2e3fc2a875b8cc/",
+"creator": "Playtouch",
+"description": "Manage complex vehicle flow through urban intersections, timing traffic signals to prevent jams and collisions. This game tasks players with adjusting lane priorities and signal cycles to optimize traffic efficiency in growing city zones. Strategic light control forms the core challenge, requiring attention to real-time traffic volume changes and occasional emergency vehicle routing.\n\nKey Features\n\n• Traffic signal timing mechanics  \n• Lane management controls  \n• Progressive city traffic complexity  \n• Emergency vehicle prioritization  \n• Urban traffic simulation setting"
+},
+{
+"id": "d6c884e486a94cefaeb5d639415415b6",
+"title": "Traffic Control Math",
+"iframe": "https://html5.gamedistribution.com/d6c884e486a94cefaeb5d639415415b6/",
+"creator": "Lof Games",
+"description": "Manage dynamic route assignments by directing vehicles through intersections in this timed puzzle game. Players use strategic thinking to adjust traffic flow and prevent collisions, testing pattern recognition and reaction speed. Each level introduces more complex vehicle waves, increasing difficulty as you progress through urban traffic scenarios.\n\nKey Features\n\n• Intersection traffic coordination  \n• Real-time vehicle management controls  \n• Increasing wave complexity challenge  \n• Time attack scoring system  \n• Urban city traffic theme"
+},
+{
+"id": "0e42d0a4c19947ff9b14e3c5648c25b0",
+"title": "City Transport Memory",
+"iframe": "https://html5.gamedistribution.com/0e42d0a4c19947ff9b14e3c5648c25b0/",
+"creator": "STA network",
+"description": "Match and recall city transit icons while testing your memory skills in this interactive puzzle. Players identify and pair detailed bus and tram symbols on a grid, challenging their focus and accuracy. Levels introduce time constraints and increasing complexity, where quick recognition unlocks new station designs and vehicle types.\n\nKey Features\n\n• Icon matching memory mechanic  \n• Grid-based symbol arrangement  \n• Timed challenge progression  \n• Unlockable transit vehicle styles  \n• Urban public transport theme"
+},
+{
+"id": "f9dd47e73e314c1399c6cdf24def87fa",
+"title": "Transport Jigsaw Deluxe",
+"iframe": "https://html5.gamedistribution.com/f9dd47e73e314c1399c6cdf24def87fa/",
+"creator": "Lof Games",
+"description": "Arrange interlocking puzzle pieces to form detailed images of various transportation modes. This jigsaw game challenges players to complete intricate vehicle-themed scenes by fitting each piece using drag-and-drop mechanics. Progress through increasingly complex puzzles showcasing cars, planes, and trains, testing spatial reasoning and patience in a casual setting suitable for teens and kids.\n\nKey Features\n\n• Drag-and-drop piece placement  \n• Vehicle-themed puzzle imagery  \n• Increasing puzzle complexity  \n• Time-based scoring system  \n• Casual spatial reasoning challenge"
+},
+{
+"id": "f7c6da765f13485380741ff79a8b783a",
+"title": "Transport Wavy Jigsaw",
+"iframe": "https://html5.gamedistribution.com/f7c6da765f13485380741ff79a8b783a/",
+"creator": "Lof Games",
+"description": "Arrange wavy jigsaw pieces by connecting their curving edges to complete colorful puzzles. The core mechanic revolves around matching irregularly shaped tiles with smooth movement controls on a vibrant grid. Players aim to fill the board without gaps or overlaps, progressing through increasingly complex patterns. Subtle water ripple effects add a soothing, transport-inspired atmosphere.\n\nKey Features\n\n• Curved edge piece matching  \n• Drag and snap placement control  \n• Pattern completion challenges  \n• Progressive puzzle difficulty  \n• Transport-themed water ripple effects"
+},
+{
+"id": "ff6e292a8036469fa4cac548f759b631",
+"title": "Traffic Jam Hop On",
+"iframe": "https://html5.gamedistribution.com/ff6e292a8036469fa4cac548f759b631/",
+"creator": "PuzzleGame.Com",
+"description": "Hop between vehicles caught in gridlock to navigate congested streets using precise timing and quick hops. Players must master jump mechanics to avoid obstacles and reach safe zones, progressing through increasingly complex traffic patterns. The game challenges casual players to improve reflexes while maneuvering through urban traffic clusters.\n\nKey Features\n\n• Timing-based vehicle hopping  \n• Responsive movement controls  \n• Increasing traffic complexity  \n• Level progression with checkpoints  \n• Urban street traffic setting"
+},
+{
+"id": "f22a0bb48ae04b3fb4da3d02af734611",
+"title": "Crazy Traffic Control",
+"iframe": "https://html5.gamedistribution.com/f22a0bb48ae04b3fb4da3d02af734611/",
+"creator": "Boombit S.A.",
+"description": "Guide traffic through busy intersections by managing signals and vehicle flow in a challenging urban environment. Players coordinate timings and lane changes to prevent collisions while adapting to increasing traffic volumes and diverse vehicle types. Timing precision and strategic planning are key to keeping city streets moving smoothly under pressure.\n\nKey Features\n\n• Signal timing control system  \n• Vehicle flow management  \n• Increasing traffic density levels  \n• Lane switching mechanics  \n• Urban intersection setting"
+},
+{
+"id": "0b39a8903dc5432f8ab1df65dce11736",
+"title": "Air Traffic Controller",
+"iframe": "https://html5.gamedistribution.com/0b39a8903dc5432f8ab1df65dce11736/",
+"creator": "Yizhiyuan Network Technology Co., Ltd.",
+"description": "Guide multiple aircraft through complex flight patterns using radar controls while managing landing sequences at busy airports. Players coordinate takeoffs, landings, and in-air holding patterns to prevent collisions and ensure smooth traffic flow. The challenge ramps up with increasing airplane density and diverse flight paths under time pressure.\n\nKey Features\n\n• Radar-based plane navigation  \n• Air traffic sequencing controls  \n• Increasing traffic complexity  \n• Time management challenges  \n• Airport runway coordination"
+},
+{
+"id": "6f3a17094e3149939153941fca71f940",
+"title": "Air Traffic Control",
+"iframe": "https://html5.gamedistribution.com/6f3a17094e3149939153941fca71f940/",
+"creator": "MarketJS",
+"description": "Coordinate aircraft takeoffs and landings using real-time radar controls in this air traffic simulation. Players manage multiple flight paths to prevent collisions while optimizing runway scheduling under increasing traffic pressure. The core mechanic centers on directing commercial jets through congested skies, testing multitasking skills and strategic planning.\n\nKey Features\n\n• Radar-based flight coordination  \n• Dynamic airspace traffic control  \n• Increasing difficulty airwave congestion  \n• Multiple airport runway management  \n• Commercial airline simulation setting"
+},
+{
+"id": "ce3d2279ff684021a68b534e397f1122",
+"title": "Traffic Tour",
+"iframe": "https://html5.gamedistribution.com/ce3d2279ff684021a68b534e397f1122/",
+"creator": "Wolves Interactive",
+"description": "Navigate busy intersections by maneuvering a variety of vehicles through dynamic traffic to avoid collisions and keep flow steady. The game challenges players with increasingly complex road layouts where timing and precision driving are key to progressing. It blends arcade-style vehicle handling with layered traffic patterns, testing multitasking and quick decision-making in urban settings.\n\nKey Features\n\n• Multi-vehicle traffic navigation  \n• Responsive touch and keyboard controls  \n• Escalating traffic density challenges  \n• Score-based level progression  \n• Urban street driving environments"
+},
+{
+"id": "1265ebf8ad9346e59f3d87731f2d10ba",
+"title": "Traffic Control Time",
+"iframe": "https://html5.gamedistribution.com/1265ebf8ad9346e59f3d87731f2d10ba/",
+"creator": "Lof Games",
+"description": "Manage flowing traffic at busy intersections by directing vehicles safely through timed light changes in this precise control challenge. Players adjust signals to prevent collisions and optimize wait times, balancing multiple lanes of cars and trucks. Each level introduces new traffic patterns requiring quick decisions and strategic timing to keep the flow smooth and accidents minimal.\n\nKey Features\n\n• Traffic light timing mechanics  \n• Manual vehicle flow control  \n• Increasing traffic density challenges  \n• Progressive level complexity  \n• Urban traffic simulation setting"
+},
+{
+"id": "e3727b231d63472eb50f842ae36be4ea",
+"title": "Traffic Rider Legend",
+"iframe": "https://html5.gamedistribution.com/e3727b231d63472eb50f842ae36be4ea/",
+"creator": "afewanima",
+"description": "Navigate immersive city streets on a high-speed motorcycle, weaving through traffic with precise throttle and brake control to avoid collisions. The gameplay revolves around realistic bike handling and maintaining steady speed to earn points, while progressing through increasingly busy urban routes under a first-person perspective.\n\nKey Features\n\n• Physics based motorcycle control  \n• Traffic navigation challenge  \n• Progressive city route system  \n• Time trial scoring mechanics  \n• First-person rider viewpoint"
+},
+{
+"id": "168ceb63dbac46db85c447dc72248f83",
+"title": "Traffic Control",
+"iframe": "https://html5.gamedistribution.com/168ceb63dbac46db85c447dc72248f83/",
+"creator": "Inlogic Software",
+"description": "Manage traffic flow by directing vehicles through multiple road junctions in this city simulation. Players use timing and placement controls to prevent congestion and accidents, balancing road capacity and vehicle speed. The game challenges players with increasing traffic density and introduces special vehicles like emergency responders, requiring quick decision-making to keep traffic moving smoothly.\n\nKey Features\n\n• Vehicle routing mechanics  \n• Traffic light timing controls  \n• Congestion management challenges  \n• Emergency vehicle priority system  \n• Urban city road network"
+},
+{
+"id": "5f54bff529de4bb5b41d8bd19fc8eb18",
+"title": "Traffic Arrow",
+"iframe": "https://html5.gamedistribution.com/5f54bff529de4bb5b41d8bd19fc8eb18/",
+"creator": "newgamess",
+"description": "Direct traffic flow by placing directional arrows on busy intersections to prevent congestion and crashes in this fast-paced puzzle arcade. Players strategically assign arrow paths to control vehicle routes, managing increasing traffic volumes and complexity through progressive levels. The challenge lies in timing and spatial planning to maintain smooth urban traffic without collisions.\n\nKey Features\n\n• Arrow placement path control  \n• Traffic flow timing puzzles  \n• Progressive level difficulty scaling  \n• Vehicle collision avoidance system  \n• Urban street intersection theme"
+},
+{
+"id": "53b9ba9997f14e55aae157d103a8fc59",
+"title": "Traffic",
+"iframe": "https://html5.gamedistribution.com/53b9ba9997f14e55aae157d103a8fc59/",
+"creator": "ISS Game Studio",
+"description": "Manage complex intersections by directing various types of vehicles to prevent crashes and ensure smooth flow. This game challenges players with timed signals and dynamic lane changes, relying on keen timing and spatial awareness to avoid congestion. Players progress through increasingly difficult urban traffic scenarios that test multitasking and decision-making skills.\n\nKey Features\n\n• Traffic signal timing mechanic  \n• Vehicle lane switching control  \n• Increasing traffic density challenges  \n• Time-based level progression  \n• Urban road network setting"
+},
+{
+"id": "8c19092edfee4497b5fb10d83570e7d4",
+"title": "Traffic Command",
+"iframe": "https://html5.gamedistribution.com/8c19092edfee4497b5fb10d83570e7d4/",
+"creator": "ISS Game Studio",
+"description": "Manage vehicle flow through vibrant urban intersections, using timing and strategic lane control to prevent crashes. Players navigate increasingly complex junctions with traffic lights and directional commands to keep traffic moving efficiently. The core mechanic revolves around real-time traffic regulation in a city setting, aiming to avoid congestion and accidents under growing pressure.\n\nKey Features\n\n• Real-time traffic light control  \n• Directional vehicle routing  \n• Increasing traffic density challenge  \n• Progressive intersection complexity  \n• Urban road network environment"
+},
+{
+"id": "a2f912320bcd4f03a0196b8ec5000580",
+"title": "Avoid Traffic",
+"iframe": "https://html5.gamedistribution.com/a2f912320bcd4f03a0196b8ec5000580/",
+"creator": "Fun Best Games",
+"description": "Navigate busy roads by steering a small vehicle through dynamic traffic lanes, relying on precise timing to avoid crashes and keep moving. The game challenges players to master quick reflexes and lane switching to survive increasingly dense traffic flows. Each successful pass raises the difficulty, testing endurance in an urban setting filled with unpredictable vehicles.\n\nKey Features\n\n• Responsive vehicle steering controls  \n• Increasing traffic density challenges  \n• Lane-switching maneuver mechanics  \n• Endurance-based level progression  \n• Urban road traffic environment"
+},
+{
+"id": "d02f4ca8f8534439b592e2b0d47ce6e6",
+"title": "Means of Transport",
+"iframe": "https://html5.gamedistribution.com/d02f4ca8f8534439b592e2b0d47ce6e6/",
+"creator": "nau.games",
+"description": "Navigate diverse vehicles across challenging routes while mastering unique control schemes in this transport-centered game. Players focus on precise vehicle handling to reach destinations, adapting to different movement dynamics for each mode. Progression involves unlocking varied transport types to overcome increasingly complex terrain and obstacles.\n\nKey Features\n\n• Vehicle handling precision  \n• Multi-transport control mechanics  \n• Route completion challenges  \n• Progressive vehicle unlock system  \n• Varied environment navigation"
+},
+{
+"id": "97d324a37a4a4abda8bcd45be4320b2c",
+"title": "Traffic Jam",
+"iframe": "https://html5.gamedistribution.com/97d324a37a4a4abda8bcd45be4320b2c/",
+"creator": "newgamess",
+"description": "Manage congested street intersections by strategically controlling traffic lights to clear gridlock and restore flow. This puzzle-based traffic simulation challenges players to time light changes and route vehicles through multi-lane urban streets, aiming to prevent jams and keep cars moving. Skillful light switching and lane prioritization unlock progressively complex city layouts.\n\nKey Features\n\n• Traffic light timing mechanic  \n• Vehicle flow control interface  \n• Increasingly complex junction layouts  \n• Multi-lane urban street design  \n• Gridlock prevention challenge"
+},
+{
+"id": "970c372aa5dd407896d27ac916a1790c",
+"title": "Road Builder Highway Construction Game",
+"iframe": "https://html5.gamedistribution.com/970c372aa5dd407896d27ac916a1790c/",
+"creator": "MaxZoon",
+"description": "Construct roads through challenging terrain to connect cities in this highway construction simulation. Players plan and build complex road networks using strategic placement and resource management to optimize traffic flow. Careful navigation of geographical obstacles and efficient highway design are key to expanding the transportation system and meeting increasing infrastructure demands.\n\nKey Features\n\n• Terrain-based road construction  \n• Strategic resource allocation  \n• Traffic flow optimization system  \n• Progressive map expansion  \n• Urban infrastructure theme"
+},
+{
+"id": "e712e3706f694f94941309735e662704",
+"title": "US Police Prisoner Transport",
+"iframe": "https://html5.gamedistribution.com/e712e3706f694f94941309735e662704/",
+"creator": "gamefun",
+"description": "Navigate police cruisers through urban streets to safely transport high-risk prisoners in this driving simulation. The game challenges precision vehicle handling and time management under pressure. Players manage complex routes while avoiding hazards and ensuring prisoner security, progressing through increasingly difficult escort missions across multiple city zones.\n\nKey Features\n\n• Precision vehicle control mechanics  \n• Timed prisoner transport challenges  \n• Urban traffic obstacle navigation  \n• Progressive mission difficulty tiers  \n• Law enforcement escort scenarios"
+},
+{
+"id": "9c2cc101d6124ba8a937e287409441cf",
+"title": "Highway Robbers",
+"iframe": "https://html5.gamedistribution.com/9c2cc101d6124ba8a937e287409441cf/",
+"creator": "kiz10.com",
+"description": "Navigate outlaw-infested highways using a fast-paced chase and evasion mechanic to outsmart rival law enforcers. Players steer diverse getaway vehicles while managing speed and obstacles in a dynamic open road setting. The objective revolves around successfully escaping pursuers through skillful driving and timing over multiple escalating levels.\n\nKey Features\n\n• Vehicle steering and acceleration controls  \n• Pursuit evasion and obstacle navigation  \n• Tiered level difficulty scaling  \n• Time-based escape scoring system  \n• Highway chase cinematic ambiance"
+},
+{
+"id": "de232fc3c44947338e531a8ec5d12792",
+"title": "Traffic Racer2D",
+"iframe": "https://html5.gamedistribution.com/de232fc3c44947338e531a8ec5d12792/",
+"creator": "Fat Boy Studio",
+"description": "Navigate busy roads in a top-down traffic racer using simple left and right lane shifting to avoid collisions and earn points. The game challenges players to weave through dynamic vehicle traffic in a continuous, fast-paced environment. Increasing speed and vehicle density test the player’s reflexes and timing, making score accumulation the main goal.\n\nKey Features\n\n• Lane-based vehicle control  \n• Increasing traffic speed and density  \n• Score multiplier system  \n• Endless driving mode  \n• Urban street traffic setting"
+},
+{
+"id": "67ba753142cc407eb42747efc1dd25b5",
+"title": "Traffic Controller",
+"iframe": "https://html5.gamedistribution.com/67ba753142cc407eb42747efc1dd25b5/",
+"creator": "Fun Best Games",
+"description": "Guide incoming and outgoing vehicles through busy intersections by assigning their routes and preventing collisions. Players navigate dynamically changing traffic patterns to maintain smooth flow and avoid gridlock. This puzzle-based system challenges quick decision-making under pressure while managing multiple lanes in a city traffic setting.\n\nKey Features\n\n• Route assignment mechanic  \n• Real-time vehicle control  \n• Increasing traffic density levels  \n• Multiple intersection layouts  \n• Urban traffic environment"
+},
+{
+"id": "387da7e01c164deba353c0fb03ec19a8",
+"title": "Traffic Command",
+"iframe": "https://html5.gamedistribution.com/387da7e01c164deba353c0fb03ec19a8/",
+"creator": "Best Kids Games",
+"description": "Guide vehicle traffic flow by managing signals and intersections to prevent gridlock and accidents in this strategy-based browser game. Players manipulate timing and prioritize different vehicle types to maintain smooth movement across increasingly complex urban layouts. Success depends on quick decision-making and adjusting signal patterns to handle rush hour challenges and emergency vehicles.\n\nKey Features\n\n• Traffic signal timing control  \n• Intersection priority management  \n• Escalating city congestion levels  \n• Emergency vehicle override system  \n• Urban traffic environment design"
+},
+{
+"id": "4faf3a9a2d24454d9d41cb38cb1bbbe1",
+"title": "Military Transport Vehicle",
+"iframe": "https://html5.gamedistribution.com/4faf3a9a2d24454d9d41cb38cb1bbbe1/",
+"creator": "JulGames",
+"description": "Pilot heavy-duty military trucks through rugged terrain and obstacle courses using precise vehicle handling mechanics. Navigate complex routes while managing load capacity to complete transport missions efficiently. Progress through stages featuring different military vehicles, each with unique control dynamics and increasing environmental challenges.\n\nKey Features\n\n• Physics-based truck control  \n• Load and cargo management  \n• Terrain obstacle navigation  \n• Mission stage progression  \n• Military logistic transport setting"
+},
+{
+"id": "01aaf6642a9b4811a4a2f14f0eae9980",
+"title": "Highway Getaway",
+"iframe": "https://html5.gamedistribution.com/01aaf6642a9b4811a4a2f14f0eae9980/",
+"creator": "Instant Games Studio",
+"description": "Navigate high-speed police chases as you control a getaway car weaving through heavy traffic. Master precise steering and acceleration to evade pursuing vehicles while managing limited boost resources. The game challenges players to survive intense highway pursuits with dynamic traffic patterns testing reflexes and timing.\n\nKey Features\n\n• Precision vehicle steering controls  \n• Boost resource management system  \n• Dynamic multi-lane traffic patterns  \n• Pursuit evasion challenge progression  \n• Urban highway chase environment"
+},
+{
+"id": "470ac09412fe44b68909ee995b7a5fce",
+"title": "Robot Spider Transport",
+"iframe": "https://html5.gamedistribution.com/470ac09412fe44b68909ee995b7a5fce/",
+"creator": "FG Studio",
+"description": "Navigate intricate terrains using multi-legged locomotion in this strategic crawler where controlling a mechanical spider is key. Balance precise movement with load-bearing capabilities to transport cargo through complex environments. Players must master terrain adaptability and payload management to complete delivery tasks efficiently and advance through increasingly challenging stages.\n\nKey Features\n\n• Multi-legged robot movement system  \n• Cargo balancing and transport mechanics  \n• Terrain navigation challenges  \n• Progressive level difficulty scaling  \n• Industrial sci-fi visual motifs"
+},
+{
+"id": "46dfda94e5ed4e68af95c9ded9704df9",
+"title": "FZ Traffic Jam",
+"iframe": "https://html5.gamedistribution.com/46dfda94e5ed4e68af95c9ded9704df9/",
+"creator": "NoticeGames.com",
+"description": "Navigate congested urban roads by managing vehicle flows to alleviate traffic buildup. Players control diverse cars and trucks within a busy cityscape, optimizing movement patterns to reduce jams across multiple intersections. The challenge lies in timing vehicle releases and avoiding gridlocks while progressing through increasingly complex traffic layouts.\n\nKey Features\n\n• Dynamic vehicle flow control  \n• Intersection timing mechanics  \n• Progressive traffic complexity  \n• Gridlock prevention strategy  \n• Urban road environment"
+},
+{
+"id": "5f61441e0b3f44868accd01715ec7375",
+"title": "Traffic Go",
+"iframe": "https://html5.gamedistribution.com/5f61441e0b3f44868accd01715ec7375/",
+"creator": "BPTop",
+"description": "Manage multi-lane intersections by controlling vehicle flow to avoid collisions in this traffic coordination puzzle. Players must strategically time the stop-and-go signals to manage cars, trucks, and motorcycles in urban road settings. The challenge increases with faster traffic waves and complex junction layouts, testing reaction and planning skills.\n\nKey Features\n\n• Traffic signal timing mechanic  \n• Multi-vehicle flow control  \n• Increasing traffic density levels  \n• Score based on collision avoidance  \n• Urban street intersection design"
+},
+{
+"id": "1e607788225549d3b042341417dd5564",
+"title": "City Cargo Trailer Transport",
+"iframe": "https://html5.gamedistribution.com/1e607788225549d3b042341417dd5564/",
+"creator": "igroutka.ru",
+"description": "Haul oversized cargo trailers through complex city roads using precise vehicle steering mechanics and careful speed control. Navigate tight turns and traffic-filled streets to deliver loads on time while managing trailer stability and weight distribution. Players face progressively challenging routes that test their maneuvering skills and timing in a bustling urban transport setting.\n\nKey Features\n\n• Trailer steering and hitch physics  \n• Time-based cargo delivery objectives  \n• Traffic navigation and obstacle avoidance  \n• Route progression with increasing difficulty  \n• Urban city transport environment"
+},
+{
+"id": "2c913ff625694c2fb4df4b63b3151331",
+"title": "Traffic Rider",
+"iframe": "https://html5.gamedistribution.com/2c913ff625694c2fb4df4b63b3151331/",
+"creator": "Hitgames.org",
+"description": "Navigate dense city streets on a high-performance motorcycle while dodging traffic and timing lane changes with precision. This first-person riding game combines realistic bike physics with a day and night cycle that challenges players to complete missions across various routes. Progression unlocks faster bikes and more complex roads, pushing your skills through increasingly congested traffic.\n\nKey Features\n\n• First-person motorcycle riding\n• Precision lane changing controls\n• Traffic density progression\n• Time-based mission challenges\n• Urban road environment simulation"
+},
+{
+"id": "33a8145b44d94ebca96451e1d49ee92f",
+"title": "Transport Dinos To The Dino Zoo",
+"iframe": "https://html5.gamedistribution.com/33a8145b44d94ebca96451e1d49ee92f/",
+"creator": "igroutka.ru",
+"description": "Transport dinosaurs carefully from one location to another using a variety of prehistoric vehicles and tools. Players manage timing and obstacles in a side-scrolling environment where each level challenges navigation across rugged terrain. The objective focuses on safely delivering different dino species to their new zoo habitats while avoiding natural hazards and mechanical breakdowns.\n\nKey Features\n\n• Vehicle-based transport mechanics  \n• Obstacle avoidance and timing controls  \n• Increasing difficulty with terrain hazards  \n• Level progression by species delivery  \n• Prehistoric zoo setting"
+},
+{
+"id": "6f1f3aac483d41b49f819a78425114b1",
+"title": "Traffic Stop",
+"iframe": "https://html5.gamedistribution.com/6f1f3aac483d41b49f819a78425114b1/",
+"creator": "FG Studio",
+"description": "Manage traffic flow using timed signal controls to prevent congestion and accidents. The gameplay revolves around adjusting traffic lights at busy intersections to optimize vehicle movement. Each level introduces more complex road layouts and faster vehicle waves, challenging players to think strategically under pressure.\n\nKey Features\n\n• Timed traffic signal management  \n• Intersection optimization mechanics  \n• Increasing traffic density levels  \n• Score-based progression system  \n• Urban road network setting"
+},
+{
+"id": "23c132d0172e464eb5e9385c7cf8563b",
+"title": "EG Traffic Cross",
+"iframe": "https://html5.gamedistribution.com/23c132d0172e464eb5e9385c7cf8563b/",
+"creator": "EcapsGames.com",
+"description": "Navigate busy intersections by timing pedestrian crossings and vehicle flows to avoid collisions. This game challenges players to manage complex traffic patterns with precise tap controls, balancing moving cars and crossing people in a city street setting. Each level increases difficulty with more lanes and faster traffic, testing your reaction and planning skills.\n\nKey Features\n\n• Tap-based crossing control  \n• Dynamic vehicle traffic waves  \n• Increasing lane count challenges  \n• Time-limited level progression  \n• Urban street intersection theme"
+},
+{
+"id": "aa1f9b53aa144b0daa88959baf53aa69",
+"title": "EG Traffic Command",
+"iframe": "https://html5.gamedistribution.com/aa1f9b53aa144b0daa88959baf53aa69/",
+"creator": "EcapsGames.com",
+"description": "Manage dynamic traffic flows by directing vehicles through complex intersections in this browser game. The core mechanic revolves around timing traffic signals to prevent jams and collisions in an urban setting. Players must balance multiple lanes and adapt to increasing vehicle density, testing multitasking skills in progressively challenging stages.\n\nKey Features\n\n• Traffic signal timing control  \n• Vehicle flow management  \n• Increasing traffic density levels  \n• Multilane intersection coordination  \n• Urban traffic simulation environment"
+},
+{
+"id": "24de9225be524f2688497dfde4d5e3ed",
+"title": "Traffic Control",
+"iframe": "https://html5.gamedistribution.com/24de9225be524f2688497dfde4d5e3ed/",
+"creator": "yupiy",
+"description": "Manage the flow of cars and trucks by directing lanes and controlling stoplights in this browser puzzle. Players must prevent collisions while adjusting vehicle speed and lane entry to keep traffic moving smoothly. The challenge escalates with increasing vehicle density and complex intersection layouts, demanding precise timing and strategic control to avoid gridlock.\n\nKey Features\n\n• Lane switching mechanics  \n• Traffic light timing control  \n• Increasing vehicle volume levels  \n• Collision avoidance system  \n• Urban road intersection setting"
+},
+{
+"id": "cd2589ff0a5f4ad08f915ecb0cbffe12",
+"title": "Police Traffic",
+"iframe": "https://html5.gamedistribution.com/cd2589ff0a5f4ad08f915ecb0cbffe12/",
+"creator": "JulGames",
+"description": "Control traffic flow through a busy police checkpoint using timed signals and vehicle path management. Navigate emergency car prioritization and routine vehicle scanning to maintain order and safety in urban intersections. The gameplay combines strategic signaling mechanics with dynamic traffic patterns, challenging players to prevent accidents and delays.\n\nKey Features\n\n• Timed traffic signal control  \n• Emergency vehicle priority system  \n• Vehicle scanning interaction  \n• Increasing traffic volume stages  \n• Urban intersection setting"
+},
+{
+"id": "7290c13f3c29460b939a2cbba0b639fc",
+"title": "Traffic Crash",
+"iframe": "https://html5.gamedistribution.com/7290c13f3c29460b939a2cbba0b639fc/",
+"creator": "JulGames",
+"description": "Navigate chaotic intersections by controlling diverse vehicles to avoid crashes. Use precise timing and spatial awareness as you maneuver through ever-changing traffic patterns to prevent pileups. The game challenges players with escalating vehicle density and complex movement flows, demanding quick reflexes and strategic lane changes to maintain smooth traffic.\n\nKey Features\n\n• Vehicle movement timing mechanic  \n• Player-controlled lane switching  \n• Increasing traffic density challenge  \n• Progressive difficulty stages  \n• Urban road traffic setting"
+},
+{
+"id": "ec30c9a30b734e7db4a391ef8cd36b3c",
+"title": "Traffic Command",
+"iframe": "https://html5.gamedistribution.com/ec30c9a30b734e7db4a391ef8cd36b3c/",
+"creator": "CD GAMES",
+"description": "Manage busy intersections by directing vehicle flow through stoplights and lane controls, balancing traffic density without causing crashes. This is a tactical timing challenge where players coordinate multiple lanes in a city environment to prevent jams and keep cars moving smoothly. Increasing traffic speed and volume tests players’ reaction and prioritization skills as they progress through escalating rush hour levels.\n\nKey Features\n\n• Traffic signal timing control  \n• Lane management mechanics  \n• Increasing vehicle density challenges  \n• Multi-level rush hour scenarios  \n• Urban street traffic setting"
+},
+{
+"id": "50f20e298340474a8618eecc61763d2d",
+"title": "Zigzag Highway",
+"iframe": "https://html5.gamedistribution.com/50f20e298340474a8618eecc61763d2d/",
+"creator": "JulGames",
+"description": "Navigate winding roads with precise timing and reflexes in this challenging zigzag driving game. Players guide a constantly moving vehicle along twisting highway paths, aiming to stay on track as long as possible without crashing. The core mechanic hinges on sharp directional changes and speed control, testing spatial awareness and quick decision-making at increasing pace.\n\nKey Features\n\n• Tap-based directional controls  \n• Progressive speed acceleration  \n• Endless path generation system  \n• Score multiplier combo mechanics  \n• Minimalist neon highway aesthetics"
+},
+{
+"id": "15216900e8454f0bb655e22e4779c8b2",
+"title": "Crazy Traffic",
+"iframe": "https://html5.gamedistribution.com/15216900e8454f0bb655e22e4779c8b2/",
+"creator": "JulGames",
+"description": "Navigate through congested junctions by maneuvering various vehicles with precise timing in this fast-paced traffic management challenge. Players must adapt to unpredictable AI-driven cars and optimize flow to prevent crashes. Each stage introduces new road layouts and incident types, testing reflexes and strategic lane control under pressure.\n\nKey Features\n\n• Real-time traffic flow control  \n• Responsive vehicle lane switching  \n• Increasingly complex road maps  \n• Time-based challenge progression  \n• Urban street driving environment"
+},
+{
+"id": "e57c76b679a143d8affc1e7115b90322",
+"title": "Crashy Traffic",
+"iframe": "https://html5.gamedistribution.com/e57c76b679a143d8affc1e7115b90322/",
+"creator": "JulGames",
+"description": "Navigate chaotic traffic intersections by timing vehicle movements to avoid crashes. Use strategic timing to control lanes filled with various cars and trucks while managing sudden traffic bursts. The challenge ramps up as congestion increases, pushing players to balance risk and precision in fast-paced urban settings.\n\nKey Features\n\n• Traffic lane timing mechanic  \n• Vehicle movement coordination  \n• Increasing congestion difficulty  \n• Multi-lane traffic system  \n• Urban road environment"
+},
+{
+"id": "7c151f5e29eb40a591edfe1823e1d0ea",
+"title": "Highway Traffic",
+"iframe": "https://html5.gamedistribution.com/7c151f5e29eb40a591edfe1823e1d0ea/",
+"creator": "JulGames",
+"description": "Maneuver vehicles through congested highways avoiding collisions and managing traffic flow in this casual driving challenge. Using timed lane switches and speed adjustments, players must keep cars moving smoothly while handling increasing traffic density. The game features progressively difficult stages that test reaction speed and precision under pressure.\n\nKey Features\n\n• Timed lane change mechanic  \n• Traffic density escalation  \n• Collision avoidance challenges  \n• Gradual difficulty progression  \n• Urban highway driving setting"
+},
+{
+"id": "ff9536ef9ef04ac3bfef6ac27c199903",
+"title": "Traffic",
+"iframe": "https://html5.gamedistribution.com/ff9536ef9ef04ac3bfef6ac27c199903/",
+"creator": "pogames.in",
+"description": "Navigate dense intersections by timing traffic light changes and coordinating vehicle flows in this strategic browser game. Players manage multiple lanes and varied vehicle types while avoiding gridlocks and crashes. The challenge evolves through increasingly complex traffic patterns and lane merges, demanding sharp observational skills to maintain smooth transit.  \n\nKey Features\n\n• Traffic signal timing mechanic  \n• Multi-lane vehicle flow control  \n• Increasing traffic density levels  \n• Collision avoidance system  \n• Urban road intersection setting"
+},
+{
+"id": "23f2507280514beaa752f810902bdc3f",
+"title": "Air Traffic Controller",
+"iframe": "https://html5.gamedistribution.com/23f2507280514beaa752f810902bdc3f/",
+"creator": "Playtouch",
+"description": "Manage aircraft takeoff and landing sequences by directing their flight paths using radar controls. This airspace management title challenges players to avoid collisions and maintain smooth scheduling under increasing traffic density. The game progresses through diverse airport environments featuring varied runway layouts and weather conditions to test timing and multitasking skills.\n\nKey Features\n\n• Radar-guided flight path control  \n• Real-time traffic sequencing challenges  \n• Increasing air traffic volume levels  \n• Multiple airport runway configurations  \n• Weather impact on plane handling"
+},
+{
+"id": "2dd60c2625b440a5832405d4622af98d",
+"title": "2 Player 3D City Racer",
+"iframe": "https://html5.gamedistribution.com/2dd60c2625b440a5832405d4622af98d/",
+"creator": "Vitalitygames.com",
+"description": "Race against a friend in fast-paced 3D city streets, controlling sleek sports cars as you navigate tight corners and traffic obstacles. The gameplay emphasizes precise steering and acceleration mechanics to outmaneuver opponents through urban environments. Success depends on mastering vehicle handling while competing for the highest position in split-screen duels.\n\nKey Features\n\n• Real-time two-player split-screen  \n• Responsive vehicle steering controls  \n• Traffic obstacle navigation challenges  \n• Competitive lap-based progression  \n• Urban city street racing setting"
+},
+{
+"id": "fed5711667c840b3a394043324bf0def",
+"title": "Traffic Cop 3D",
+"iframe": "https://html5.gamedistribution.com/fed5711667c840b3a394043324bf0def/",
+"creator": "Kwalee",
+"description": "Manage the flow of city traffic by directing vehicles through busy intersections in this immersive 3D simulation. Players use a traffic light control system to prevent collisions and keep cars smoothly moving across multiple urban levels. Each stage increases difficulty with varied vehicle types and unpredictable pedestrian crossings, challenging quick decision-making and timing.\n\nKey Features\n\n• Traffic light timing mechanic  \n• Real-time vehicle flow control  \n• Increasing intersection complexity  \n• Pedestrian crossing hazards  \n• Urban street environment design"
+},
+{
+"id": "337302b23b5943d8bcfc501d81d50cdb",
+"title": "Traffic Jam 3D",
+"iframe": "https://html5.gamedistribution.com/337302b23b5943d8bcfc501d81d50cdb/",
+"creator": "Royale Gamers",
+"description": "Navigate congested city streets by strategically moving cars one space at a time to clear gridlocked intersections in this spatial puzzle. Each level ramps up difficulty with additional vehicle types and limited moves, challenging players to think ahead. The game tests patience and logic through intricate jam patterns in a colorful urban environment.\n\nKey Features\n\n• Grid-based vehicle movement  \n• Step-by-step traffic rearrangement  \n• Increasing puzzle complexity  \n• Limited move challenge system  \n• Urban street traffic theme"
+},
+{
+"id": "c496d5b7baad4bbd91f130448d6fae06",
+"title": "US Army Prisoner Transport Game 3D",
+"iframe": "https://html5.gamedistribution.com/c496d5b7baad4bbd91f130448d6fae06/",
+"creator": "zuma studio",
+"description": "Navigate complex prison transport convoys in a detailed 3D environment, managing realistic vehicle handling under varied terrain conditions. Control armored military trucks as you complete mission objectives that test precision driving and strategic route planning. The game challenges you to maintain secure prisoner transfer while avoiding hazards and obstacles unique to military logistics settings.\n\nKey Features\n\n• 3D military vehicle driving  \n• Convoy route management system  \n• Obstacle avoidance challenges  \n• Mission-based progression levels  \n• Tactical prison transport environment"
+},
+{
+"id": "b0c19374e9914b27a5625db58916ca7f",
+"title": "Transport Sea Animal",
+"iframe": "https://html5.gamedistribution.com/b0c19374e9914b27a5625db58916ca7f/",
+"creator": "igroutka.ru",
+"description": "Transport sea creatures across underwater routes using a variety of specialized vehicles navigating through ocean currents and obstacles. Players manage vehicle controls and timing to ensure safe delivery while adapting to dynamic aquatic conditions. The main challenge lies in balancing speed and careful maneuvering to complete levels efficiently.\n\nKey Features\n\n• Vehicle navigation through water currents  \n• Timing-based delivery mechanics  \n• Obstacle avoidance challenges  \n• Level progression with increasing difficulty  \n• Aquatic transport theme"
+},
+{
+"id": "4f0d0b45bc85403586bcb3d0e9211d04",
+"title": "Public Transport Vehicles Difference",
+"iframe": "https://html5.gamedistribution.com/4f0d0b45bc85403586bcb3d0e9211d04/",
+"creator": "STA network",
+"description": "Spot differences between pairs of public transport vehicles within a limited time, using sharp observation to pinpoint subtle visual changes. The game challenges players with various vehicle types like buses, trams, and trains, testing focus and pattern recognition through increasingly detailed scenes. Each round ramps up the difficulty by adding more complex differences to find.\n\nKey Features\n\n• Spot-the-difference mechanic on vehicles  \n• Timed observation rounds  \n• Multiple public transport vehicle types  \n• Incremental level difficulty scaling  \n• Visual detail comparison system"
+},
+{
+"id": "3eaab34223ca4b06af426393165b75bd",
+"title": "Drawer Super Racer",
+"iframe": "https://html5.gamedistribution.com/3eaab34223ca4b06af426393165b75bd/",
+"creator": "Seryas Games",
+"description": "Race custom-drawn cars along dynamic tracks where your drawing skills determine speed and handling precision. Players sketch their own vehicles, affecting movement through curves and obstacles. The challenge revolves around mastering the balance between creative design and responsive control to outpace competitors and improve lap times.\n\nKey Features\n\n• Vehicle sketching to define physics  \n• Real-time drawing based steering  \n• Progressive track complexity  \n• Time attack racing mode  \n• Hand-drawn visual style"
+},
+{
+"id": "cd033e8cf295468caa8891286b2635cb",
+"title": "GT Micro Racers",
+"iframe": "https://html5.gamedistribution.com/cd033e8cf295468caa8891286b2635cb/",
+"creator": "Breymantech",
+"description": "Race miniature cars through tight circuits using rapid reflexes and sharp cornering skills to outpace rivals. This game challenges you with time-limited laps on compact tracks filled with sharp turns and boost pads. Casual players navigate small-scale vehicles aiming for top leaderboard positions in quick, engaging races.\n\nKey Features\n\n• Precise miniature car handling  \n• Tight corner control mechanics  \n• Time trial lap challenges  \n• Local and online multiplayer modes  \n• Compact urban racing environments"
+},
+{
+"id": "29892dad85bf4e61893d0ece681d37c5",
+"title": "Night Neon Racers",
+"iframe": "https://html5.gamedistribution.com/29892dad85bf4e61893d0ece681d37c5/",
+"creator": "haiykut",
+"description": "Race neon-lit hover bikes through twisting cyberpunk city circuits in fast-paced time trial challenges. Navigate sharp turns and avoid glowing obstacles using precise boost control. Master track layouts to improve lap times and unlock new courses set in vibrant futuristic nightscapes.\n\nKey Features\n\n• Neon hover bike acceleration  \n• Precision boost and drift control  \n• Time trial leaderboard progression  \n• Multiple unlockable luminous tracks  \n• Cyberpunk night city environment"
+},
+{
+"id": "b6816d08305445e48f14a006c2c19eb4",
+"title": "Paintball Racers",
+"iframe": "https://html5.gamedistribution.com/b6816d08305445e48f14a006c2c19eb4/",
+"creator": "Agame",
+"description": "Compete in fast-paced paintball races where players navigate colorful obstacle courses with agile movement and tactical shooting. Master character steering and precision paintball firing to outpace rivals and cover targets. Levels introduce unique track layouts and timed challenges that test speed and accuracy in a vibrant paintball arena.\n\nKey Features\n\n• Precision paintball shooting mechanic  \n• Agile character movement controls  \n• Time-based race progression  \n• Competitive multiplayer mode  \n• Colorful obstacle course environments"
+},
+{
+"id": "cecfade6d8ef4fb7a4b1924452da4204",
+"title": "GT Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/cecfade6d8ef4fb7a4b1924452da4204/",
+"creator": "Fuego! Games",
+"description": "Race high-speed vehicles through busy urban roads, weaving between traffic to avoid collisions and reach checkpoints. The core gameplay focuses on precise lane-switching and timing to maintain momentum while navigating dynamic traffic patterns. Players aim to survive as long as possible while increasing their high score in a fast-paced city driving challenge.\n\nKey Features\n\n• Dynamic traffic avoidance system  \n• Responsive lane-changing controls  \n• Increasing speed difficulty scaling  \n• Time-limited checkpoint races  \n• Urban street driving environment"
+},
+{
+"id": "8748f54767044b99bc5373fc61596123",
+"title": "Police Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/8748f54767044b99bc5373fc61596123/",
+"creator": "Fuego! Games",
+"description": "Navigate high-speed police chases using precise vehicle control in urban streets, avoiding civilian traffic while pursuing offenders. The game presents progressive levels where escalating traffic density and offender AI patterns challenge your reflexes. Players engage in timed pursuits focusing on interception tactics and speed management within a city’s traffic environment.\n\nKey Features\n\n• Police vehicle pursuit mechanics  \n• Precision driving controls  \n• Increasing traffic complexity  \n• Timed chase objectives  \n• Urban traffic setting"
+},
+{
+"id": "d0b8e5ba257d4f888738a7ec722443f1",
+"title": "Crazy Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/d0b8e5ba257d4f888738a7ec722443f1/",
+"creator": "Fuego! Games",
+"description": "Navigate chaotic intersections with precision timing while controlling diverse vehicles to avoid crashes in this intense traffic management challenge. Mastering lane switching and speed adjustment is key to surviving increasingly dense traffic waves. The game tests your reflexes amid a busy urban roadway filled with unpredictable car patterns and obstacles.\n\nKey Features\n\n• Dynamic vehicle lane switching  \n• Responsive touch and keyboard controls  \n• Increasing traffic density challenges  \n• Time-based survival mode  \n• Urban traffic environment"
+},
+{
+"id": "b4d7df30b6354d92aad8ac6b6162dc74",
+"title": "Street Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/b4d7df30b6354d92aad8ac6b6162dc74/",
+"creator": "Fuego! Games",
+"description": "Navigate busy city intersections steering compact cars through timed traffic lanes in this urban racer. Players balance accelerating and braking with precise lane switching to avoid jams and collisions, mastering a progressive cityscape filled with increasingly dense vehicle streams. The challenge lies in maintaining speed while adapting to unpredictable traffic flows, testing reflexes in a vibrant street environment.\n\nKey Features\n\n• Real-time lane switching mechanic  \n• Precision throttle and brake control  \n• Increasing traffic density levels  \n• Time trial scoring system  \n• Urban street traffic setting"
+},
+{
+"id": "c45a958be3234a72abeea9deb66a5632",
+"title": "SUV Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/c45a958be3234a72abeea9deb66a5632/",
+"creator": "Fuego! Games",
+"description": "Navigate busy urban roads behind the wheel of an agile SUV, maneuvering through tight traffic and avoiding collisions. The game focuses on precise steering mechanics and timing as you progress through increasingly crowded city streets. Each level ups the challenge by introducing faster cars and complex road layouts, testing your reflexes and planning skills.\n\nKey Features\n\n• Precision steering controls  \n• Dynamic traffic patterns  \n• Increasing traffic density progression  \n• Time-based challenge modes  \n• Urban road environment"
+},
+{
+"id": "ab3a6a3d3c534770b4a3a91fff18df2b",
+"title": "Lambo Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/ab3a6a3d3c534770b4a3a91fff18df2b/",
+"creator": "Fuego! Games",
+"description": "Race luxury sports cars through busy city streets, navigating traffic with precision and timing to avoid collisions. Players steer a Lamborghini model using simple controls to weave through multiple lanes while maintaining speed and survival. The game challenges reflexes and timing in a dynamic urban traffic setting under increasing difficulty.  \n\nKey Features\n\n• Real-time vehicle lane switching  \n• Traffic avoidance tactical gameplay  \n• Progressive traffic density levels  \n• Time-based scoring system  \n• Sports car urban racing theme"
+},
+{
+"id": "c3fcad02e12544c486b1ce510ddebb16",
+"title": "Crazy Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/c3fcad02e12544c486b1ce510ddebb16/",
+"creator": "Affrica",
+"description": "Navigate congested city streets using quick reflexes and lane-switching mechanics to avoid crashing into varying traffic patterns in this fast-paced racer. Concentrate on timing and vehicle control as you weave through cars and trucks on busy urban roads to reach checkpoints and set high scores. The game challenges your prediction skills with increasingly dense traffic waves.\n\nKey Features\n\n• Responsive lane-switching controls  \n• Dynamic traffic density progression  \n• Checkpoint-based time challenges  \n• Score multiplier from close calls  \n• Urban street driving environment"
+},
+{
+"id": "3591592010a741cfa30cc90c70622d21",
+"title": "Traffic Racer Pro Online",
+"iframe": "https://html5.gamedistribution.com/3591592010a741cfa30cc90c70622d21/",
+"creator": "kiz10.com",
+"description": "Navigate busy multilane highways dodging traffic and weaving through vehicles in this fast-paced driving game. Players control a sleek car using simple steering mechanics to avoid crashes while aiming for high scores in an endless urban environment. The game challenges players with increasing traffic density and speed variations to test reflexes and timing.\n\nKey Features\n\n• Touch-based steering control  \n• Dynamic traffic density increase  \n• Endless distance scoring system  \n• Multiple vehicle customization  \n• Real-time urban highway setting"
+},
+{
+"id": "fb1ea77b8f5c495b8b5d6fc6f78bb156",
+"title": "Electric Racer",
+"iframe": "https://html5.gamedistribution.com/fb1ea77b8f5c495b8b5d6fc6f78bb156/",
+"creator": "Hihoy",
+"description": "Race futuristic electric vehicles through neon-lit tracks while managing precise throttle control and battery energy. Navigate tight corners and electric boosts to outpace opponents in dynamic environments. Each race challenges players to optimize speed and battery efficiency to secure top rankings and unlock advanced circuits.\n\nKey Features\n\n• Real-time energy management  \n• Responsive throttle and steering controls  \n• Progressive track difficulty levels  \n• Time trial and standard race modes  \n• Neon cyberpunk racing environments"
+},
+{
+"id": "b43041f3a4ad49d8a99afe42b1258567",
+"title": "Road Climb Racer",
+"iframe": "https://html5.gamedistribution.com/b43041f3a4ad49d8a99afe42b1258567/",
+"creator": "kiz10.com",
+"description": "Race custom sports cars over steep hills using precise acceleration timing and brake control to balance speed and stability. Navigate shifting terrain while maintaining momentum to complete each track section, with progressively challenging hill layouts and vehicle upgrades enhancing the driving experience. Time your climbs carefully to reach checkpoints and avoid crashes in intense uphill races.\n\nKey Features\n\n• Precise acceleration and brake control  \n• Hill terrain momentum management  \n• Progressive vehicle upgrade system  \n• Time-based checkpoint challenges  \n• Physics influenced hill climbing"
+},
+{
+"id": "767afafb674d474a86fdd4e1bb7d9868",
+"title": "Rocket Race Highway",
+"iframe": "https://html5.gamedistribution.com/767afafb674d474a86fdd4e1bb7d9868/",
+"creator": "Absolutist Ltd.",
+"description": "Navigate high-speed lanes dodging traffic and obstacles while steering a rocket-boosted car in this intense racing challenge. Players must master precise timing and lane shifts to maintain momentum and avoid crashes. The game focuses on maintaining high velocity on a dynamic highway environment filled with fast-moving vehicles.\n\nKey Features\n\n• Rocket boost speed mechanic  \n• Lane switch controls  \n• Increasing traffic density challenge  \n• Time trial progression mode  \n• Futuristic highway setting"
+},
+{
+"id": "e90404f11abc445cbc5b94fdb36a9b31",
+"title": "Coaster Racer 2",
+"iframe": "https://html5.gamedistribution.com/e90404f11abc445cbc5b94fdb36a9b31/",
+"creator": "TurboNuke",
+"description": "Race speeding roller coasters through twisting tracks, mastering gravity and momentum with precise timing and quick reflexes. Navigate sharp curves and sudden drops to maintain high velocity and avoid derailment. Progress through increasingly complex levels that test your ability to control coaster movement and secure the fastest run.\n\nKey Features\n\n• Momentum-based roller coaster physics  \n• Player-controlled speed management  \n• Progressive track difficulty stages  \n• Time attack scoring system  \n• Amusement park themed environments"
+},
+{
+"id": "d922c339d3a2493fb148766e8c670361",
+"title": "Delivery Racer",
+"iframe": "https://html5.gamedistribution.com/d922c339d3a2493fb148766e8c670361/",
+"creator": "BPTop",
+"description": "Race through tight city streets delivering packages on a fast motorcycle while managing fuel and time constraints. Navigate sharp turns and avoid traffic collisions to complete each delivery route efficiently, with increasing difficulty as new obstacles and shorter deadlines appear. Precise control and quick reflexes are essential to mastering this urban courier challenge.\n\nKey Features\n\n• Time-limited delivery routes  \n• Motorcycle physics handling  \n• Traffic obstacle avoidance  \n• Progressive route difficulty  \n• Urban cityscape environment"
+},
+{
+"id": "e5e4769cda4644a7af28760dcf9f97df",
+"title": "Speed Racer",
+"iframe": "https://html5.gamedistribution.com/e5e4769cda4644a7af28760dcf9f97df/",
+"creator": "Pro_Gaming",
+"description": "Race high-speed cars through tight circuits focusing on precision drifting and throttle control. Master sharp turns using a responsive steering mechanic while competing against time limits and rival racers on urban tracks. Unlock new vehicles and improve handling as you progress through increasingly difficult courses designed for skillful speed management.\n\nKey Features\n\n• Precision drift control system  \n• Time-based lap challenge  \n• Progressive vehicle upgrades  \n• Multiple urban racing tracks  \n• Responsive arcade-style steering"
+},
+{
+"id": "b2c9d1f49bbb420594d868c6e91cfb67",
+"title": "Rage Quit Racer",
+"iframe": "https://html5.gamedistribution.com/b2c9d1f49bbb420594d868c6e91cfb67/",
+"creator": "Drmop Games",
+"description": "Crash through chaotic tracks while mastering precise vehicle control in a high-speed kart racing experience. Navigate tight turns and avoid dynamic obstacles to outpace rivals on vibrant, cartoon-style circuits. Each race pushes reflexes and timing, testing your skill to claim victory and unlock faster, more challenging tracks.\n\nKey Features\n\n• Precision kart handling mechanics  \n• Responsive acceleration and drifting control  \n• Increasing track difficulty progression  \n• Time trial and multiplayer racing modes  \n• Bright, animated racecourse environments"
+},
+{
+"id": "4e4987a162a143e8a55edde45a9eb3bf",
+"title": "Street Racer Underground",
+"iframe": "https://html5.gamedistribution.com/4e4987a162a143e8a55edde45a9eb3bf/",
+"creator": "Inlogic Software",
+"description": "Race through neon-lit city streets using precise drifting controls to outmaneuver rivals and claim underground dominance. Players engage in intense urban street racing with customizable sport cars, mastering tight corners and aggressive acceleration to climb leaderboards. The game challenges speed and control within a gritty nighttime cityscape filled with rival crews.\n\nKey Features\n\n• Precision drifting mechanics  \n• Customizable street racing cars  \n• Progressive leaderboard rankings  \n• Time trial and chase modes  \n• Neon-lit urban race environments"
+},
+{
+"id": "200e68be9dec4d16983c26097f04b263",
+"title": "Race The Traffic",
+"iframe": "https://html5.gamedistribution.com/200e68be9dec4d16983c26097f04b263/",
+"creator": "Fat Boy Studio",
+"description": "Navigate congested urban roads by maneuvering fast cars through dense traffic in this skill-testing driving game. Players utilize precise timing and lane-switching mechanics to avoid collisions while racing against the clock. Each level offers escalating traffic density, demanding quick reflexes and strategic movement to reach the finish line under pressure.\n\nKey Features\n\n• Lane switching control system  \n• Increasing traffic density challenge  \n• Time-limited race mode  \n• Collision avoidance mechanic  \n• Urban road environment"
+},
+{
+"id": "d87c3f6b9bc6494495c0068565fc1c90",
+"title": "RacerKing",
+"iframe": "https://html5.gamedistribution.com/d87c3f6b9bc6494495c0068565fc1c90/",
+"creator": "bestgames.com",
+"description": "Race against AI opponents using precision steering on pixelated city tracks, mastering drift mechanics to gain speed boosts. Progress through multiple circuit stages featuring tight corners and randomized weather effects that influence vehicle handling. Each race challenges players to optimize acceleration timing while competing for the best lap times in a retro-inspired urban setting.\n\nKey Features\n\n• Drift based speed boost system  \n• Precision steering controls  \n• Circuit stage progression  \n• Time trial leaderboard mode  \n• Retro pixelated city environment"
+},
+{
+"id": "68903932a0074c02986773759ac83191",
+"title": "Circular Racer",
+"iframe": "https://html5.gamedistribution.com/68903932a0074c02986773759ac83191/",
+"creator": "Fun Best Games",
+"description": "Navigate tight circular tracks using precision steering in this high-speed racing challenge. Players control a single vehicle that accelerates around looping courses, aiming to beat time limits while avoiding obstacles. Each level ramps up with sharper curves and faster turns demanding quick reflexes and smooth handling for victory on the track.\n\nKey Features\n\n• Circular track racing mechanics  \n• Precision steering controls  \n• Progressive curve difficulty  \n• Time trial challenge mode  \n• Minimalistic racing environment"
+},
+{
+"id": "c625a4d26fa1415bae41759f66ba27d5",
+"title": "Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/c625a4d26fa1415bae41759f66ba27d5/",
+"creator": "ISS Game Studio",
+"description": "Navigate congested urban roads using precise lane switching and acceleration control to avoid oncoming traffic and obstacles. Maneuver a selection of vehicles through progressively challenging traffic patterns, testing reaction timing and spatial awareness. The game features realistic car models and a scoring system that tracks distance traveled without collisions. Speed and vehicle handling evolve as levels increase intensity.\n\nKey Features\n\n• Traffic avoidance core mechanic  \n• Simple touch and tilt controls  \n• Increasing traffic density challenges  \n• Distance-based scoring system  \n• Realistic car models and road environments"
+},
+{
+"id": "df764c259a7048d79e276167e4721c22",
+"title": "Miami Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/df764c259a7048d79e276167e4721c22/",
+"creator": "Fun Best Games",
+"description": "Race through busy Miami streets navigating tight traffic patterns and responsive car controls. Maneuver sports cars at high speeds while avoiding collisions to reach checkpoints under time constraints. The game challenges players with progressively dense traffic and sharp turns, set in a vibrant cityscape where precision driving is key to success.\n\nKey Features\n\n• Precision car handling mechanics  \n• Time-limited checkpoint progression  \n• Increasing traffic density challenges  \n• Responsive steering and braking controls  \n• Urban Miami street racing environment"
+},
+{
+"id": "3a0fd3bf980a424c8ca9689a145f0db5",
+"title": "Speed Racer",
+"iframe": "https://html5.gamedistribution.com/3a0fd3bf980a424c8ca9689a145f0db5/",
+"creator": "Pro_Gaming",
+"description": "Race futuristic hover cars through neon-lit urban circuits using precise drifting controls to outpace rivals. Players must master momentum-based steering mechanics to navigate tight corners and dynamic obstacles while advancing through escalating difficulty levels. The high-speed cityscape setting challenges reflexes and timing in fast-paced, skill-driven races.\n\nKey Features\n\n• Momentum-based drifting mechanics  \n• Responsive hover car steering  \n• Tiered difficulty progression  \n• Time attack and elimination modes  \n• Neon cyberpunk urban tracks"
+},
+{
+"id": "e35b205babe54a749fa6e3d5df70d85c",
+"title": "Road Racer Furious Game",
+"iframe": "https://html5.gamedistribution.com/e35b205babe54a749fa6e3d5df70d85c/",
+"creator": "wingmangames",
+"description": "Race through dynamic urban streets using drift mechanics to maintain control and speed. Maneuver a variety of customizable cars while mastering tight corners and avoiding traffic hazards. The goal is to reach checkpoints before time runs out, navigating intricate road layouts and improving your racing precision.\n\nKey Features\n\n• Drift-based steering control  \n• Time-limited checkpoint races  \n• Vehicle customization options  \n• Increasing level difficulty  \n• Urban street racing environment"
+},
+{
+"id": "d1de4f9087e24c50a3f8ff7e4c369d69",
+"title": "X Racer SciFi",
+"iframe": "https://html5.gamedistribution.com/d1de4f9087e24c50a3f8ff7e4c369d69/",
+"creator": "Fat Boy Studio",
+"description": "Race through futuristic environments mastering zero-gravity controls in this fast-paced sci-fi competition. Players pilot sleek hovercrafts with precision handling to outpace rivals and navigate complex 3D courses. The challenge lies in optimizing speed and trajectory while adapting to changing track hazards and acceleration zones.\n\nKey Features\n\n• Zero-gravity hovercraft physics  \n• Precision flight control system  \n• Dynamic obstacle navigation  \n• Time trial progression mode  \n• Sci-fi neon track aesthetics"
+},
+{
+"id": "2be980ddc8134f01a213f85d0d4b312a",
+"title": "Tunnel Racer",
+"iframe": "https://html5.gamedistribution.com/2be980ddc8134f01a213f85d0d4b312a/",
+"creator": "Parrot Games",
+"description": "Navigate twisting, neon-lit tunnels at breakneck speeds, steering a sleek hovercraft through narrow passages filled with sharp turns and hazards. Players must master precise handling and reaction timing to survive increasingly complex tunnel layouts while aiming for high scores. Progression rewards faster speeds and tighter corridors that test reflexes and control.\n\nKey Features\n\n• High-speed hovercraft maneuvering  \n• Precision steering controls  \n• Increasing tunnel complexity  \n• Score multiplier system  \n• Futuristic neon tunnel environment"
+},
+{
+"id": "9c319ae89eab40509adf30a6a4a19538",
+"title": "Speed Racer",
+"iframe": "https://html5.gamedistribution.com/9c319ae89eab40509adf30a6a4a19538/",
+"creator": "RedFoc",
+"description": "Race agile futuristic hovercars through twisting neon circuits, mastering tight cornering and boost timing to outpace rivals. Players navigate highly responsive controls in vibrant cityscapes, aiming to finish first against AI opponents across escalating tracks. Precision drifting and energy management add depth to each lap, with multiple circuit layouts offering continuous challenge.\n\nKey Features\n\n• Responsive hovercar cornering mechanics  \n• Boost and drift control system  \n• Progressive AI opponent difficulty  \n• Multiple circuit track variations  \n• Neon cyberpunk racing environments"
+},
+{
+"id": "cd548c6f5d144f0ba7eba0c751c9218e",
+"title": "Nave X Racer",
+"iframe": "https://html5.gamedistribution.com/cd548c6f5d144f0ba7eba0c751c9218e/",
+"creator": "Fun Best Games",
+"description": "Pilot a sleek spacecraft through dynamic obstacle courses in this fast-paced racer. Navigate tight turns and challenging gaps using precise thruster control to beat high-speed tracks. The game emphasizes reflex-based navigation in outer space environments, pushing players to master momentum and timing while aiming for the best completion times.\n\nKey Features\n\n• Precision thruster movement control  \n• Time-based racing challenges  \n• Dynamic space obstacle layouts  \n• Progressive track difficulty tiers  \n• Sci-fi themed racing stages"
+},
+{
+"id": "77d05ee617a642268bef56480008abb0",
+"title": "Rocket Racer",
+"iframe": "https://html5.gamedistribution.com/77d05ee617a642268bef56480008abb0/",
+"creator": "Fat Boy Studio",
+"description": "Race customizable rocket-powered vehicles through dynamic space circuits, mastering boost timing and drift controls to outrun opponents. Navigate gravity-defying tracks while upgrading thrusters to improve speed and handling. Challenge yourself in time trials or competitive multiplayer modes set in futuristic arenas filled with hazardous obstacles and tight corners.\n\nKey Features\n\n• Rocket vehicle boost mechanics  \n• Precision drift and steering control  \n• Progressive thruster upgrade system  \n• Time trial and multiplayer modes  \n• Futuristic space racing tracks"
+},
+{
+"id": "fb35d8ca8eea45da89640e9660f6a0af",
+"title": "Skull Racer",
+"iframe": "https://html5.gamedistribution.com/fb35d8ca8eea45da89640e9660f6a0af/",
+"creator": "Bnagames",
+"description": "Race customizable skeleton motorcycles through dynamic obstacle courses while mastering precise timing and agility. Navigate tight turns and avoid hazards to reach the finish line against the clock in a spooky, undead-themed world. Progressively challenging tracks push players to refine their stunt skills and maintain balance on bony rides.\n\nKey Features\n\n• Skeleton bike stunt control  \n• Precision timing steering system  \n• Increasingly complex track layouts  \n• Time trial progression mode  \n• Halloween-inspired environment design"
+},
+{
+"id": "e101b2e4316e426080d4d9265c319740",
+"title": "Water Power Boat Racer 3D",
+"iframe": "https://html5.gamedistribution.com/e101b2e4316e426080d4d9265c319740/",
+"creator": "wingmangames",
+"description": "Race agile motorboats through dynamic watercourses, mastering tight turns and wave jumps with precise 3D steering controls. Navigate challenging river tracks while balancing speed and stability to outpace rivals in fast-paced aquatic competition. Progress through increasingly complex courses that test boat handling and reflexes across scenic, natural waterways.\n\nKey Features\n\n• Physics-based boat control  \n• Responsive 3D steering mechanics  \n• Varied river track challenges  \n• Time trial and race modes  \n• Water surface interaction effects"
+},
+{
+"id": "251ea01453404673b318340c33c41a6b",
+"title": "Hover Racer",
+"iframe": "https://html5.gamedistribution.com/251ea01453404673b318340c33c41a6b/",
+"creator": "JulGames",
+"description": "Navigate high-speed hovercraft racing through futuristic tracks demanding sharp reflexes and precise control. Players pilot customizable anti-gravity racers, balancing speed and maneuverability to complete progression-based time trials. Courses twist through neon cities challenging adept handling while avoiding obstacles to reach top leaderboard positions.\n\nKey Features\n\n• Anti-gravity racer control system  \n• Time trial progression tracks  \n• Obstacle navigation mechanics  \n• Customizable vehicle upgrades  \n• Neon cyberpunk race environments"
+},
+{
+"id": "7ee23ad554c44b74b7f81e85bc4ead98",
+"title": "Sling Racer",
+"iframe": "https://html5.gamedistribution.com/7ee23ad554c44b74b7f81e85bc4ead98/",
+"creator": "JulGames",
+"description": "Swing through winding tracks using momentum and tension in this physics-based racing challenge. Players control a sling mechanism to catapult a geometric vehicle while navigating increasingly complex courses. Timing each release is crucial to maintain speed and avoid crashing, offering a test of precision reflexes. Progression unlocks new environments and track layouts that demand sharper control.\n\nKey Features\n\n• Momentum-based slingshot racing  \n• Precise timing release mechanic  \n• Increasingly complex track designs  \n• Unlockable progressive stages  \n• Minimalist geometric visuals"
+},
+{
+"id": "fa9c7fe74cc545289d86d06584b9bcc2",
+"title": "Road Racer",
+"iframe": "https://html5.gamedistribution.com/fa9c7fe74cc545289d86d06584b9bcc2/",
+"creator": "FG Studio",
+"description": "Race through dynamic urban highways maneuvering sharp turns and accelerating through checkpoints in this driving challenge. Control responsive sports cars while avoiding traffic hazards to reach the finish line under time limits. Master precise steering mechanics as difficulty scales across progressively complex tracks designed for casual players and teens. Alternate modes offer scaled challenges or relaxed driving experiences.  \n\nKey Features\n\n• Precision steering control system  \n• Time-based checkpoint challenges  \n• Progressive track difficulty levels  \n• Multiple gameplay modes for pacing  \n• Urban highway racing environment"
+},
+{
+"id": "67ba8bf45064426c837d2fc2441f829b",
+"title": "Track Racer",
+"iframe": "https://html5.gamedistribution.com/67ba8bf45064426c837d2fc2441f829b/",
+"creator": "Instant Games Studio",
+"description": "Navigate winding race tracks in a fast-paced driving challenge that tests reflexes and timing. Players maneuver sleek racing cars through varied circuits using precise steering and acceleration control. Mastering cornering and overtaking opponents is essential to climb the leaderboards and unlock new tracks. The game’s focus on tight handling and speed offers an engaging racing experience for casual players.\n\nKey Features\n\n• Precision steering mechanics  \n• Time-based race progression  \n• Unlockable circuits and cars  \n• Responsive acceleration control  \n• Competitive lap time rankings"
+},
+{
+"id": "f7adb3de0d934b03954577c4b9e5776f",
+"title": "EG Speed Racer",
+"iframe": "https://html5.gamedistribution.com/f7adb3de0d934b03954577c4b9e5776f/",
+"creator": "EcapsGames.com",
+"description": "Race through dynamic urban tracks using precise steering and acceleration controls in EG Speed Racer. Navigate sharp turns and avoid obstacles to achieve the fastest lap times on vibrant circuits. Players must master timing and vehicle handling while progressing through increasingly complex courses designed for casual racing enthusiasts.\n\nKey Features\n\n• Precision steering mechanics  \n• Time trial lap challenges  \n• Progressive track difficulty  \n• Obstacle avoidance system  \n• Urban street race environments"
+},
+{
+"id": "4c8b030fd7cc46fcaa953124d05bca68",
+"title": "Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/4c8b030fd7cc46fcaa953124d05bca68/",
+"creator": "JulGames",
+"description": "Race across busy highways in a fast-paced driving challenge where you maneuver a variety of vehicles through oncoming traffic lanes. The core mechanic emphasizes responsive steering and acceleration control while avoiding crashes. Players aim to advance by dodging cars and trucks in an endless urban road setting that tests reflexes and decision-making speed.\n\nKey Features\n\n• Responsive vehicle steering  \n• Accelerate and brake controls  \n• Increasing traffic density challenges  \n• Endless mode with distance scoring  \n• Urban highway road environment"
+},
+{
+"id": "cbc8370c60214d3db4d1f2444ed5b005",
+"title": "Turbo Racer",
+"iframe": "https://html5.gamedistribution.com/cbc8370c60214d3db4d1f2444ed5b005/",
+"creator": "Webgameapp",
+"description": "Race high-speed futuristic vehicles through dynamic circuits while mastering tight cornering and precision boosting. Navigate shifting tracks with adaptive acceleration mechanics to outpace rivals in time-limited events. Progression unlocks new performance upgrades and varied courses, offering increasing difficulty and demanding sharper reflexes from players.\n\nKey Features\n\n• Adaptive acceleration system  \n• Precision boost timing  \n• Unlockable vehicle upgrades  \n• Time-based race challenges  \n• Futuristic track environments"
+},
+{
+"id": "306b2c98461a40da84b03b8c3cafd7c3",
+"title": "X Racer",
+"iframe": "https://html5.gamedistribution.com/306b2c98461a40da84b03b8c3cafd7c3/",
+"creator": "Webgameapp",
+"description": "Race futuristic hovercraft through dynamic obstacle courses, mastering split-second boosts and sharp turns to outpace rivals. Navigate diverse track environments that test reflexes and timing while collecting power-ups to maintain the lead. Each level raises the challenge with tighter curves and faster competitors aiming for victory in thrilling speed duels.\n\nKey Features\n\n• Precision boost control system  \n• Responsive hovercraft steering  \n• Increasing track complexity  \n• Time trial and race modes  \n• Sci-fi themed environments"
+},
+{
+"id": "1f93c7357c544961a8f8ed4032dc6683",
+"title": "Traffic Racer Game 3D",
+"iframe": "https://html5.gamedistribution.com/1f93c7357c544961a8f8ed4032dc6683/",
+"creator": "Webgameapp",
+"description": "Navigate busy roads by weaving through traffic in a fast-paced 3D driving experience where reflexes and timing are key. Players control various vehicles using realistic steering mechanics to avoid collisions and complete distance challenges on endless urban highways. The game tests precision while managing speed and lane changes under dynamic traffic conditions.\n\nKey Features\n\n• Realistic 3D vehicle handling  \n• Responsive touch and keyboard controls  \n• Progressive difficulty with traffic density  \n• Distance-based scoring system  \n• Urban highway traffic environment"
+},
+{
+"id": "115edac95f86421a80550e0e93437753",
+"title": "Speed Circular Racer",
+"iframe": "https://html5.gamedistribution.com/115edac95f86421a80550e0e93437753/",
+"creator": "KidsGames4All",
+"description": "Accelerate around tight circular tracks, navigating sharp turns while maintaining momentum in this fast-paced racing game. Players rely on precise timing and angular control to avoid crashing and aim for the longest streaks of continuous laps. The core challenge centers on mastering acceleration boosts that increase speed while balancing centrifugal force on rotating platforms.\n\nKey Features\n\n• Momentum-based circular racing  \n• Angular steering controls  \n• Increasing speed boost mechanic  \n• Lap streak tracking system  \n• Neon-lit track aesthetic"
+},
+{
+"id": "324dda64aa2f48af9037e2c582bbfa3e",
+"title": "Highway Racer 3D",
+"iframe": "https://html5.gamedistribution.com/324dda64aa2f48af9037e2c582bbfa3e/",
+"creator": "GameBiz",
+"description": "Race through fast-paced 3D highways maneuvering sleek cars using precise steering and acceleration controls. Navigate traffic and avoid collisions while striving to cover longer distances and achieve high scores. Players adapt to dynamic road layouts and increasing speed challenges in immersive urban and suburban settings.\n\nKey Features\n\n• Intuitive touch steering system  \n• Dynamic traffic obstacle patterns  \n• Distance-based score progression  \n• Time attack and endless modes  \n• Urban highway environment design"
+},
+{
+"id": "6706cbef961c4dfebda0e10caae430e9",
+"title": "Blocky Traffic Racer",
+"iframe": "https://html5.gamedistribution.com/6706cbef961c4dfebda0e10caae430e9/",
+"creator": "Fr Games",
+"description": "Race through pixelated highways using blocky vehicles while navigating dynamic traffic patterns. The game challenges players to maintain speed and avoid collisions within its colorful voxel-style setting. Timing lane changes and overcoming increasing traffic density forms the core of progressing through levels and beating high scores.\n\nKey Features\n\n• Vehicle dodging with precise timing  \n• Responsive block-style car controls  \n• Increasing traffic density challenge  \n• Score-based level progression system  \n• Voxel highway visual theme"
+},
+{
+"id": "f5306bccf80c402e8a756a3f3a11d4de",
+"title": "Mini Racer",
+"iframe": "https://html5.gamedistribution.com/f5306bccf80c402e8a756a3f3a11d4de/",
+"creator": "JulGames",
+"description": "Race nimble mini cars through tight circuits using precision steering and acceleration controls. Navigate winding tracks that demand sharp reflexes and smooth handling to outpace rivals and master lap timing. The challenge intensifies as courses grow more complex, testing control finesse and quick decision-making on each swift race stage.\n\nKey Features\n\n• Precision car steering controls  \n• Progressive track difficulty levels  \n• Time-limited lap challenges  \n• Unlockable vehicle customization  \n• Compact circuit race environments"
+},
+{
+"id": "680ba0506a84460f98ef420df0efe003",
+"title": "Good Luck Racer 2",
+"iframe": "https://html5.gamedistribution.com/680ba0506a84460f98ef420df0efe003/",
+"creator": "VE-GAME",
+"description": "Navigate colorful race tracks while dodging obstacles and collecting boosters in Good Luck Racer 2. Players control a nimble vehicle that accelerates through vibrant, dynamic courses aiming to finish first or achieve high scores. The game challenges reflexes with tight turns and varying terrain, offering multiple levels that increase in difficulty and speed.\n\nKey Features\n\n• Precision driving controls  \n• Obstacle avoidance mechanics  \n• Progressive track difficulty  \n• Time attack and endless modes  \n• Bright, cartoon-style visuals"
+},
+{
+"id": "991765737ef1454abceebb0bdb1ff227",
+"title": "Tube Racer",
+"iframe": "https://html5.gamedistribution.com/991765737ef1454abceebb0bdb1ff227/",
+"creator": "8Games.Net",
+"description": "Navigate fast-paced tube networks while avoiding obstacles and mastering sharp turns in this arcade-style racing experience. Players control a futuristic hovercraft that speeds through winding tunnels, focusing on precise movement and timing to survive increasingly complex levels. Progression involves unlocking new routes and improving reaction skills against dynamic environmental hazards.\n\nKey Features\n\n• Hovercraft radial movement control  \n• Obstacle avoidance timing mechanics  \n• Multi-route level progression  \n• Increasing tunnel complexity  \n• Neon-lit futuristic setting"
+},
+{
+"id": "5ddaf1438a62469ea07bb5f3531c275e",
+"title": "EG Highway Racer",
+"iframe": "https://html5.gamedistribution.com/5ddaf1438a62469ea07bb5f3531c275e/",
+"creator": "EcapsGames.com",
+"description": "Race fast cars through busy multilane highways, dodging traffic and weaving between vehicles using precision steering and acceleration. The game challenges players to master timing and lane changes to reach checkpoints before time runs out. Speed and reflexes shape progression across increasingly complex road layouts filled with dynamic traffic patterns.\n\nKey Features\n\n• Precision vehicle steering controls  \n• Time-based checkpoint challenges  \n• Increasing traffic density levels  \n• Lane-switching mechanics  \n• Highway driving environment"
+},
+{
+"id": "f4a8dc64f88c4ff592f2673a1ab07480",
+"title": "Fidget Spinner Scifi X Racer",
+"iframe": "https://html5.gamedistribution.com/f4a8dc64f88c4ff592f2673a1ab07480/",
+"creator": "Webgameapp",
+"description": "Spin and race futuristic fidget spinners through neon-lit sci-fi tracks, balancing speed and precise control. Players navigate intense courses by mastering hover dynamics to outpace rivals, while avoiding obstacles and optimizing momentum. The game challenges quick reflexes and smooth maneuvering in a high-tech environment to claim victory across escalating levels.\n\nKey Features\n\n• Hover-based spinner control  \n• Precision steering mechanics  \n• Obstacle avoidance challenges  \n• Time trial progression system  \n• Neon sci-fi track design"
+},
+{
+"id": "8260718d5bbf48628998719c17bc4967",
+"title": "Speed Racer",
+"iframe": "https://html5.gamedistribution.com/8260718d5bbf48628998719c17bc4967/",
+"creator": "YAKPI",
+"description": "Race through narrow twisting urban tracks using responsive timing mechanics to dodge rival vehicles and obstacles. Navigate neon-lit streets while managing a boost meter to maintain top speed and outpace opponents in a series of escalating laps and time challenges. Precision steering and acceleration timing are crucial to dominate the leaderboards in this fast-paced arcade racing experience.\n\nKey Features\n\n• Timing-based acceleration control  \n• Responsive steering mechanics  \n• Lap and checkpoint progression  \n• Boost energy management system  \n• Neon city street circuits"
+},
+{
+"id": "5c8cd6b8a75245698fdac58b2320763a",
+"title": "Traffic Speed Racer",
+"iframe": "https://html5.gamedistribution.com/5c8cd6b8a75245698fdac58b2320763a/",
+"creator": "New Kids Games",
+"description": "Navigate busy city streets managing vehicle lanes and avoiding crashes in this fast-paced traffic simulation. Players use timing and quick reflexes to control cars weaving through congested intersections, aiming for high scores by sustaining smooth traffic flow. The game features incremental speed increases to ramp up difficulty as you progress through each level.\n\nKey Features\n\n• Lane switching vehicle mechanics  \n• Responsive touch or keyboard controls  \n• Increasing traffic density challenges  \n• Score multiplier timing system  \n• Urban road and traffic theme"
+},
+{
+"id": "a64a009d7ef9401bbcd9711157170d4c",
+"title": "Beat Racer Online",
+"iframe": "https://html5.gamedistribution.com/a64a009d7ef9401bbcd9711157170d4c/",
+"creator": "kiz10.com",
+"description": "Race through neon-lit tracks while dodging dynamic obstacles in this rhythm-based driving challenge. Players steer a high-speed vehicle synced to electronic beats, aiming to master timing and reflexes. Progress unlocks faster tracks and intricate patterns that test coordination and rhythm recognition in a vibrant cyber setting.\n\nKey Features\n\n• Rhythm synchronized vehicle control  \n• Obstacle dodging with timing precision  \n• Progressive speed and difficulty scaling  \n• Score multiplier based on beat accuracy  \n• Cyberpunk-inspired neon visuals"
+},
+{
+"id": "3ef07cf8a99d4790b127262110ec022e",
+"title": "Fidget Spinner X Racer",
+"iframe": "https://html5.gamedistribution.com/3ef07cf8a99d4790b127262110ec022e/",
+"creator": "Webgameapp",
+"description": "Spin customizable fidget spinners at high speeds while racing across vibrant tracks filled with dynamic obstacles and speed boosts. Players must master precise timing and smooth control to maintain momentum and outperform competitors in this fast-paced racing environment. The game challenges reaction skills through varying track layouts and rotational mechanics unique to each spinner design.\n\nKey Features\n\n• Customizable spinner components  \n• Precision timing controls  \n• Dynamic track obstacle patterns  \n• Speed boost zones and combos  \n• Colorful arcade racing environments"
+},
+{
+"id": "b97fdec737cd441797f4c390b9afe9b9",
+"title": "Hover Racer Pro",
+"iframe": "https://html5.gamedistribution.com/b97fdec737cd441797f4c390b9afe9b9/",
+"creator": "JulGames",
+"description": "Pilot fast hovercraft racers across futuristic tracks while mastering precise boost and drift controls to outpace opponents. Navigate dynamic courses featuring tight turns and airborne sections that demand sharp reflexes and timing. Progress through escalating difficulty by unlocking new hover vehicles with unique handling traits designed for competitive speed trials.\n\nKey Features\n\n• Boost and drift control system  \n• Time trial and knockout modes  \n• Unlockable hovercraft vehicles  \n• Dynamic aerial track segments  \n• Futuristic racing environments"
+},
+{
+"id": "a8d100cd1f29480190200095077cf407",
+"title": "Paper Racer",
+"iframe": "https://html5.gamedistribution.com/a8d100cd1f29480190200095077cf407/",
+"creator": "Nikitos.com",
+"description": "Race custom paper cars through dynamic obstacle courses using precise folding and flick gestures. Navigate folding patterns to control speed and direction while aiming for the fastest lap times across increasingly complex tracks. Player progression unlocks intricate paper models and diverse course hazards, challenging dexterity and timing in casual settings.\n\nKey Features\n\n• Gesture-based paper folding controls  \n• Obstacle navigation and timing challenges  \n• Unlockable advanced paper car designs  \n• Time trial and score attack modes  \n• Stylized paper craft aesthetic"
+},
+{
+"id": "54e72a15016f4245ac8f59f0a54a4d2f",
+"title": "Mini Time Racer",
+"iframe": "https://html5.gamedistribution.com/54e72a15016f4245ac8f59f0a54a4d2f/",
+"creator": "Freelance",
+"description": "Race compact vehicles through time-bending tracks featuring tight turns and speed boosts. Players must master precise drifting and acceleration to outpace rivals while navigating shifting environments that warp reality. A progression system unlocks new miniature cars and tracks, offering varying layouts and increasing difficulty to test player skill and reaction time.\n\nKey Features\n\n• Miniature car racing mechanics  \n• Drift and boost control system  \n• Time-warped track designs  \n• Unlockable vehicle customization  \n• Progressive difficulty tiers"
+},
+{
+"id": "14246e5aca0d4bfa8a8d5607c63deb7b",
+"title": "Speed Racer",
+"iframe": "https://html5.gamedistribution.com/14246e5aca0d4bfa8a8d5607c63deb7b/",
+"creator": "Physical Form",
+"description": "Race through pixelated circuits using reflex-based steering control in this retro arcade game. Players must master sharp turns and timed boosts to beat rival racers across multiple tracks, aiming for the top leaderboard spot. Skillful drifting and speed management are key to overcoming dynamic obstacles and varied track layouts.\n\nKey Features\n\n• Precision steering mechanics  \n• Boost meter timing system  \n• Progressive track difficulty  \n• Local leaderboard rankings  \n• Classic arcade racing graphics"
+},
+{
+"id": "4fb0495b9bed452cb5cb06c57b9f5a55",
+"title": "Desert Racer",
+"iframe": "https://html5.gamedistribution.com/4fb0495b9bed452cb5cb06c57b9f5a55/",
+"creator": "DAB3Games",
+"description": "Race durable dune buggies across harsh desert terrain using precision steering and throttle control. Navigate shifting sand dunes and rocky paths while collecting checkpoints to beat time challenges. The game tests vehicle handling on loose surfaces, with varied level landscapes demanding careful speed management and quick reactions.\n\nKey Features\n\n• Precision steering control system  \n• Time attack desert courses  \n• Sand dune terrain physics  \n• Checkpoint progression challenges  \n• Off-road buggy vehicle dynamics"
+},
+{
+"id": "885ed9cbf07c410995ccf298e06ca150",
+"title": "Traffic Run",
+"iframe": "https://html5.gamedistribution.com/885ed9cbf07c410995ccf298e06ca150/",
+"creator": "QkyGames",
+"description": "Navigate busy intersections with precise timing and quick lane changes in this traffic movement challenge. Maneuver various vehicles through congested roads while avoiding crashes and optimizing flow. Each level increases in traffic density and complexity, pushing your reflexes and strategic lane-switching to keep vehicles moving safely.\n\nKey Features\n\n• Vehicle lane switching mechanic  \n• Timed reflex gameplay  \n• Increasing traffic density levels  \n• Vehicle collision avoidance system  \n• Urban road traffic setting"
+},
+{
+"id": "729ff49222174df5a9e0648214acf896",
+"title": "Traffic Run Christmas",
+"iframe": "https://html5.gamedistribution.com/729ff49222174df5a9e0648214acf896/",
+"creator": "DAB3Games",
+"description": "Navigate through chaotic holiday traffic using swift reflexes to dodge cars and obstacles in this festive-themed endless runner. Players control a speeding vehicle, weaving between lanes to survive as long as possible while collecting seasonal bonuses that increase their score. The challenge ramps up with faster traffic and tighter gaps, testing timing and precision.\n\nKey Features\n\n• Lane-switching vehicle control  \n• Increasing traffic density challenge  \n• Seasonal collectible bonuses  \n• Endless survival gameplay mode  \n• Christmas traffic environment"
+},
+{
+"id": "c2d0247f67ca4333a7ea5bebf8707ef1",
+"title": "Traffic Run Online",
+"iframe": "https://html5.gamedistribution.com/c2d0247f67ca4333a7ea5bebf8707ef1/",
+"creator": "GameBiz",
+"description": "Navigate fast-paced city streets while dodging oncoming traffic in this driving challenge game. Players control a standard car with simple steering and acceleration mechanics, aiming to survive as long as possible without crashing. The game features continuous scroll levels where reflex and timing are key to maintaining high scores and unlocking new vehicles and routes.\n\nKey Features\n\n• Real-time traffic avoidance controls  \n• Incremental speed and difficulty increase  \n• Unlockable vehicle customization options  \n• Endless mode with scoring leaderboard  \n• Urban street environment setting"
+},
+{
+"id": "f38b3615d9474c00bf29c36adb8ded22",
+"title": "Traffic Rush 2018",
+"iframe": "https://html5.gamedistribution.com/f38b3615d9474c00bf29c36adb8ded22/",
+"creator": "webofgrafix",
+"description": "Manage the flow of vehicles by directing traffic at busy intersections, using timing and placement to prevent collisions. Players must control multiple lanes and prioritize vehicle movements to avoid gridlock, testing their split-second decision-making. The setting revolves around urban roads filled with various vehicle types, challenging players to keep traffic moving smoothly.\n\nKey Features\n\n• Multilane traffic control system  \n• Tap-based vehicle movement commands  \n• Increasing traffic density challenges  \n• Score-based progression levels  \n• Urban traffic theme"
+},
+{
+"id": "7b1a41d9b1394584bd9ada80c87b6956",
+"title": "Jet Racer Infinite Flight Rider Space Racing",
+"iframe": "https://html5.gamedistribution.com/7b1a41d9b1394584bd9ada80c87b6956/",
+"creator": "hitNrun games",
+"description": "Race through endless space tracks piloting sleek jet racers in this futuristic infinite flight game. Players navigate tight turns and avoid obstacles using precise airborne controls while competing for top distance scores. The core mechanic blends fast-paced aerial maneuvering with continuous level generation to test reflexes and strategy in space-themed circuits.\n\nKey Features\n\n• Infinite procedural race tracks  \n• Airborne steering and speed control  \n• Obstacle avoidance challenge  \n• Distance-based scoring system  \n• Sci-fi jet racing environment"
+},
+{
+"id": "2c3dd46c734546709d4b48d7af2652ac",
+"title": "Jungle Highway Escape",
+"iframe": "https://html5.gamedistribution.com/2c3dd46c734546709d4b48d7af2652ac/",
+"creator": "Lof Games",
+"description": "Navigate fast-moving traffic while steering a jeep through winding jungle highways, dodging obstacles and rival vehicles in a dynamic driving challenge. The game focuses on precise vehicle control and timing to avoid crashes and progress through increasingly difficult levels set in lush tropical environments. Maneuver strategically to reach checkpoints and unlock new routes.\n\nKey Features\n\n• Precision jeep steering controls  \n• Dynamic traffic obstacle patterns  \n• Progressive jungle highway levels  \n• Time-based checkpoint challenges  \n• Tropical environment visual theme"
+},
+{
+"id": "eb01fd92038d4ab9b4722aba898855ea",
+"title": "Cyber Highway Escape",
+"iframe": "https://html5.gamedistribution.com/eb01fd92038d4ab9b4722aba898855ea/",
+"creator": "Vitalitygames.com",
+"description": "Navigate fast-paced urban highways while controlling a sleek, futuristic hover bike, dodging obstacles and evading relentless cybernetic patrols. Master precise drifting and boost timing to escape ever-increasing pursuit intensity through neon-lit cityscapes. Progression unlocks new bike upgrades and challenges that test reflexes and route planning for survival in a high-tech chase.\n\nKey Features\n\n• Hover bike maneuvering mechanics  \n• Responsive drift and boost controls  \n• Increasing enemy AI difficulty  \n• Upgrade-based escape progression  \n• Neon cyberpunk highway environment"
+},
+{
+"id": "3b65eb1c59e34253828cfef0c253743d",
+"title": "Cyber Racer Battles",
+"iframe": "https://html5.gamedistribution.com/3b65eb1c59e34253828cfef0c253743d/",
+"creator": "RHM Interactive",
+"description": "Race futuristic hovercrafts through chaotic urban arenas using precision boost control and evasive maneuvers, aiming to outpace rivals in fast-paced combat circuits. Players rely on reactive steering and nitro boosts to navigate tight corners while managing weapon cooldowns. Progression unlocks new tracks and advanced vehicle upgrades for deeper tactical racing challenges.\n\nKey Features\n\n• Precision boost and drift control  \n• Vehicular combat with energy weapons  \n• Circuit progression with increasing difficulty  \n• Nitro system for speed bursts  \n• Cyberpunk urban arena setting"
+},
+{
+"id": "dee2113b932e40c69a09dc03e9cea275",
+"title": "Traffic Tap Survival",
+"iframe": "https://html5.gamedistribution.com/dee2113b932e40c69a09dc03e9cea275/",
+"creator": "GameBerry Studio",
+"description": "Navigate increasingly complex traffic patterns by tapping on vehicles to control their movement in a city street setting. The core mechanic revolves around quick reflexes and precise timing to prevent collisions and keep flows smooth. Players face escalating challenges with denser traffic waves and tighter response windows as they advance through levels.\n\nKey Features\n\n• Tap-based vehicle movement control  \n• Progressive traffic density escalation  \n• Collision avoidance timing challenge  \n• Level-based score tracking system  \n• Urban street traffic theme"
+},
+{
 "id": "cf704c95177f4bbda00fc5e2e493e037",
 "title": "Snow Race 3d Fun Racing",
 "iframe": "https://html5.gamedistribution.com/cf704c95177f4bbda00fc5e2e493e037/",
@@ -1260,13 +2114,6 @@
 "description": "Scrub and rinse detailed car models using an interactive cleaning mechanic that challenges players to restore shine under time pressure. Players control a spray nozzle and brushes to target dirt spots in a colorful, kid-friendly garage setting. The goal is to finish each level by completing all wash tasks while mastering the multitool system.  \n\nKey Features\n\n• Multitool water and brush controls  \n• Dirt spot targeting challenges  \n• Time-limited cleaning stages  \n• Progressive vehicle complexity  \n• Kid-focused colorful garage environment"
 },
 {
-"id": "d49ebbecc80f406a86a5acade3bf5b74",
-"title": "Find Toys By Car",
-"iframe": "https://html5.gamedistribution.com/d49ebbecc80f406a86a5acade3bf5b74/",
-"creator": "ravel",
-"description": "Navigate a compact car through cluttered environments searching for hidden toys scattered around detailed indoor settings. Players manipulate the vehicle’s precise controls to uncover various toy models while avoiding obstacles and limited time. Progression includes unlocking new rooms with increased puzzle complexity and diverse toy arrangements to find.\n\nKey Features\n\n• Precise car movement controls  \n• Time-limited toy discovery challenges  \n• Level progression with room unlocking  \n• Object interaction and obstacle avoidance  \n• Indoor miniature environment setting"
-},
-{
 "id": "a7106e17a98d487e86d48ae2b1f29800",
 "title": "Funny Cars Route",
 "iframe": "https://html5.gamedistribution.com/a7106e17a98d487e86d48ae2b1f29800/",
@@ -1467,13 +2314,6 @@
 "iframe": "https://html5.gamedistribution.com/9c40d22714e1452aa9bc54ba0f106688/",
 "creator": "Vitalitygames.com",
 "description": "Navigate fast-paced car battles using precision driving and weapon-based combat in urban arenas, facing increasingly tough opponents and mastering terrain challenges. Tactical movement and vehicle upgrades shape each encounter, while survival and score attacks push player skills. Levels introduce new obstacles that require adapting the driving style and combat approach. \n\nKey Features\n\n• Weaponized car combat  \n• Responsive arcade driving controls  \n• Progressive difficulty levels  \n• Survival mode with scoring system  \n• City-themed battle arenas"
-},
-{
-"id": "43fcc4a7ef1446a9b8c281b9430a9872",
-"title": "Bullet Car",
-"iframe": "https://html5.gamedistribution.com/43fcc4a7ef1446a9b8c281b9430a9872/",
-"creator": "Podge Games",
-"description": "Drive sleek, high-speed cars through tight urban tracks, mastering precise steering and rapid acceleration. Navigate challenging circuits while avoiding obstacles and opponents, pushing your reflexes and timing. The gameplay emphasizes responsive car handling and tight cornering, making each race a test of skill and focus in a vibrant cityscape.\n\nKey Features\n\n• Responsive vehicle handling system  \n• Precision steering and acceleration  \n• Progressive track difficulty levels  \n• Time attack and survival modes  \n• Urban racing environment"
 },
 {
 "id": "5bacf4c8308d43b59deafba835ffd222",
@@ -2907,13 +3747,6 @@
 "iframe": "https://html5.gamedistribution.com/a760bdc46fdf49fb9031ea5b39d67ffc/",
 "creator": "Vi Games",
 "description": "Color detailed car models using a palette of vibrant colors while selecting brushes and tools for precise application. This game centers on applying colors carefully to popular BTS-themed vehicles, challenging players to bring creativity and attention to detail in customizing each design. Players progress by completing multiple car patterns, exploring various paint styles.\n\nKey Features\n\n• Detailed vehicle coloring mechanic  \n• Brush size and color selection  \n• Pattern completion challenges  \n• Unlockable vehicle designs  \n• K-pop vehicle art theme"
-},
-{
-"id": "58d3d8f932f54faaa6c7fe1bf989dcce",
-"title": "Miracle Hidden Car",
-"iframe": "https://html5.gamedistribution.com/58d3d8f932f54faaa6c7fe1bf989dcce/",
-"creator": "MGS",
-"description": "Search for hidden cars by analyzing detailed images and subtle clues scattered across each level. Players use a unique magnifying glass mechanic to zoom and pinpoint vehicles camouflaged within complex backgrounds. The challenge lies in spotting increasingly well-concealed cars as the game progresses. Additional puzzle variations enhance the pace and add layers to visual detection.\n\nKey Features\n\n• Magnifying glass zoom mechanic  \n• Progressive image difficulty  \n• Time-limited spotting rounds  \n• Puzzle variation modes  \n• Detailed hidden vehicle art"
 },
 {
 "id": "d33bb69af77140c1aec9aacb8b2135db",
@@ -4363,13 +5196,6 @@
 "iframe": "https://html5.gamedistribution.com/c5662795ce9b4266bcb7237a81d2028a/",
 "creator": "JulGames",
 "description": "Train aim and timing through various shooting drills that test precision and reaction speed. Players engage with stationary and moving targets, utilizing a realistic bow and arrow mechanic to advance across skill levels. The challenge lies in mastering shot accuracy and timing under increasing difficulty, set within a naturalistic hunting environment.\n\nKey Features\n\n• Bow and arrow aiming system  \n• Timing-based shooting controls  \n• Progressive skill challenge levels  \n• Stationary and moving target variety  \n• Outdoor hunting range setting"
-},
-{
-"id": "64a40a53bf6c4a2fa3bf46a5ba119e8d",
-"title": "Jump Parking",
-"iframe": "https://html5.gamedistribution.com/64a40a53bf6c4a2fa3bf46a5ba119e8d/",
-"creator": "Funmoth Games",
-"description": "Leap from car to car in urban parking lots, mastering precise jump timing and landing skills to slot vehicles into tight spaces. Players navigate dynamic obstacle layouts while managing limited jump fuel, aiming to secure optimal parking spots under time pressure. Levels advance through increasingly intricate lot designs featuring compact cars and ramps. \n\nKey Features\n\n• Precision jump timing mechanics  \n• Fuel-based jump resource management  \n• Progressive parking lot challenges  \n• Timed scoring mode  \n• Urban vehicle parkour theme"
 },
 {
 "id": "d318d042a6664cbd9c1089fdbed8e614",
@@ -7227,13 +8053,6 @@
 "description": "Manage cargo loads and navigate animated truck routes through diverse puzzle challenges. Players guide trucks across colorful road grids, using strategic path planning to deliver goods while avoiding crashes. Each level introduces tighter layouts and increasing traffic, demanding precise timing and route optimization in a lively, cheerful transport environment.\n\nKey Features\n\n• Strategic route planning mechanic  \n• Interactive cargo loading controls  \n• Progressive puzzle difficulty levels  \n• Time-based delivery scoring system  \n• Vibrant truck and road theme"
 },
 {
-"id": "4994c99655a44241aef1d8eaeb515c30",
-"title": "Hidden Wrench In Trucks",
-"iframe": "https://html5.gamedistribution.com/4994c99655a44241aef1d8eaeb515c30/",
-"creator": "newgamess",
-"description": "Locate hidden tools inside detailed truck environments by carefully searching and interacting with various parts and compartments. The gameplay relies on precise observation and item spotting within realistic truck models, challenging players to uncover all concealed wrenches before time runs out or hints expire. Progressing through increasingly complex truck layouts tests attention and speed in this casual hidden object setup.\n\nKey Features\n\n• Interactive truck component exploration  \n• Point-and-click search controls  \n• Time-limited hidden tool challenges  \n• Multiple truck model variations  \n• Realistic workshop and garage setting"
-},
-{
 "id": "f581cfa9e3464575942ecfc8bc633281",
 "title": "Sand Truck",
 "iframe": "https://html5.gamedistribution.com/f581cfa9e3464575942ecfc8bc633281/",
@@ -7596,13 +8415,6 @@
 "iframe": "https://html5.gamedistribution.com/c65ad41da9964d5aa7c5e4c3f1f3d5c1/",
 "creator": "newgamess",
 "description": "Piece together detailed jigsaw puzzles featuring various snow plow trucks navigating winter environments. Players manipulate interlocking pieces to complete each truck image, improving spatial reasoning through an engaging puzzle mechanic set in chilly, snow-covered scenes. The main challenge is assembling all pieces correctly to reveal each distinct vehicle before moving to the next winter-themed puzzle.\n\nKey Features\n\n• Classic jigsaw puzzle assembly  \n• Drag and drop piece controls  \n• Progressive difficulty levels  \n• Time tracking for completion  \n• Winter vehicle imagery and scenes"
-},
-{
-"id": "055ea80acd9f4abfb988ac3d6b5cca1b",
-"title": "Hidden Snowflakes in Plow Trucks",
-"iframe": "https://html5.gamedistribution.com/055ea80acd9f4abfb988ac3d6b5cca1b/",
-"creator": "newgamess",
-"description": "Search hidden snowflakes scattered across intricate plow trucks using precise vehicle navigation and observation. Players must carefully inspect each moving plow truck to reveal all snowflakes before time runs out. This casual challenge blends careful exploration with timed puzzle progression, inviting players to sharpen their attention while progressing through increasingly complex truck layouts.\n\nKey Features\n\n• Vehicle navigation and inspection  \n• Timed discovery challenges  \n• Progressive level complexity  \n• Scoring based on thoroughness  \n• Winter-themed hidden object design"
 },
 {
 "id": "5c64cebfdadd4b85aacdb04b869ce437",

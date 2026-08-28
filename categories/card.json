@@ -1,6 +1,174 @@
 {
 "pages": [
 {
+"id": "5a3346e1be454327909c196ebb06aaea",
+"title": "Rummy Multiplayer",
+"iframe": "https://html5.gamedistribution.com/5a3346e1be454327909c196ebb06aaea/",
+"creator": "Code This Lab srl",
+"description": "Arrange cards skillfully to form valid sets and runs in competitive multiplayer rounds. Manage your hand by drawing and discarding while tracking opponents’ moves to be first to empty your cards. The turn-based matching mechanic challenges players to adapt strategies in a classic card game setting, testing quick decision-making against human rivals.\n\nKey Features\n\n• Turn-based card matching  \n• Hand management controls  \n• Progressive scoring system  \n• Online multiplayer mode  \n• Classic rummy card rules"
+},
+{
+"id": "55ed25f4945c4cf5a333cfb2d1063ebe",
+"title": "Rummy Classic",
+"iframe": "https://html5.gamedistribution.com/55ed25f4945c4cf5a333cfb2d1063ebe/",
+"creator": "Playades International LLC",
+"description": "Arrange card sets by matching sequences and sets using strategic hand management to reduce your tiles. The gameplay focuses on melding similar ranks and suits, challenging players to discard cards efficiently while anticipating opponents’ tactics. Casual players can hone their observation skills and quick decision-making in a traditional rummy environment.\n\nKey Features\n\n• Tile matching and melding system  \n• Strategic card discard mechanics  \n• Progressive hand reduction challenge  \n• Turn-based multiplayer mode  \n• Classic card game visual style"
+},
+{
+"id": "791507585c1047ada5e2c58a338ae257",
+"title": "Uno Online",
+"iframe": "https://html5.gamedistribution.com/791507585c1047ada5e2c58a338ae257/",
+"creator": "PuzzleGame.Com",
+"description": "Match and play colored cards to outsmart opponents in a card-dropping duel where strategic hand management is key. The game revolves around matching numbers or colors to clear your hand while navigating special action cards that change play order or skip turns. Targeted at casual gamers, this digital card table challenges players to be the first to empty their hand and win the round.\n\nKey Features\n\n• Color and number matching mechanic  \n• Turn-based card placement control  \n• Special action card effects  \n• Multiplayer progression rounds  \n• Classic card deck setting"
+},
+{
+"id": "a3a72cf8d87b4c2187dfa84046da9ddf",
+"title": "Texas Holdem Poker",
+"iframe": "https://html5.gamedistribution.com/a3a72cf8d87b4c2187dfa84046da9ddf/",
+"creator": "Mirra Games",
+"description": "Place strategic bets and read opponents’ moves in this card-based gameplay where managing your hand of hole cards is key. Master bluffing and hand ranking to outplay rivals in rounds of community card dealing under a classic poker table setting. The main goal is to build the strongest five-card hand while making smart raises and folds to win chips.\n\nKey Features\n\n• Hole card management  \n• Betting and bluffing mechanics  \n• Sequential community card reveal  \n• Chip stack progression system  \n• Traditional poker table visuals"
+},
+{
+"id": "bb2a8674b78f47c7a4857aaad3fe6b9d",
+"title": "Lucky Vegas Blackjack",
+"iframe": "https://html5.gamedistribution.com/bb2a8674b78f47c7a4857aaad3fe6b9d/",
+"creator": "Inlogic Software",
+"description": "Place strategic bets and make calculated decisions to outscore the dealer in this classic card game. Players rely on hand value comparison using standard blackjack rules, aiming to reach 21 or beat the dealer’s total without busting. The game sets a casino-inspired atmosphere and challenges players to optimize their plays through card counting and timely hits or stands.\n\nKey Features\n\n• Card value calculation system  \n• Player-driven hit or stand controls  \n• Dealer hand risk management  \n• Progressive betting options  \n• Casino table visual design"
+},
+{
+"id": "87dfd242c7ca4a41b15c5f4ca15134f0",
+"title": "Gin Rummy",
+"iframe": "https://html5.gamedistribution.com/87dfd242c7ca4a41b15c5f4ca15134f0/",
+"creator": "RedFoc",
+"description": "Arrange and discard cards to form sets and runs based on scoring combinations while managing your hand efficiently. Drawing and discarding strategically drives the gameplay, where the core mechanic centers on melding sequences of cards. Focused on card arrangement and hand optimization, the challenge lies in reducing deadwood points before opponents do. Play involves turn-based draws and discards with opportunities to knock and score.\n\nKey Features\n\n• sequence and set melding  \n• turn-based drawing and discarding  \n• deadwood point reduction  \n• knock mechanic scoring system  \n• classic card game ruleset"
+},
+{
+"id": "6117e3b1665d4bfca6bc3ee51f461a99",
+"title": "Las Vegas Poker",
+"iframe": "https://html5.gamedistribution.com/6117e3b1665d4bfca6bc3ee51f461a99/",
+"creator": "Inlogic Software",
+"description": "Bet on your cards and make strategic moves to outplay opponents in a digital poker setting inspired by classic casino vibes. Players manage hands and decide when to fold or raise, relying on bluffing and probability to win chips. The game challenges you to build your stack across multiple betting rounds while reading AI opponents’ tendencies.\n\nKey Features\n\n• Turn-based card betting system  \n• Player decision controls fold or raise  \n• Chip stack management progression  \n• AI opponent bluff detection  \n• Classic casino-inspired table design"
+},
+{
+"id": "9a0c4c3feee947cc8bd07f25931fcae9",
+"title": "Blackjack Vegas 21",
+"iframe": "https://html5.gamedistribution.com/9a0c4c3feee947cc8bd07f25931fcae9/",
+"creator": "MarketJS",
+"description": "Place strategic bets and manage your hand to reach 21 without busting in this classic card game variant. Players rely on timed decision-making and risk assessment to outplay the dealer using traditional blackjack rules. The gameplay centers on hitting, standing, and doubling down, with card counting subtly influencing round outcomes and player progression.\n\nKey Features\n\n• Classic blackjack hand management  \n• Hit, stand, double down controls  \n• Dealer challenge with progressive rounds  \n• Timed decision-making mechanic  \n• Traditional casino card theme"
+},
+{
+"id": "0b3894d2745a42eb98d322f38377c915",
+"title": "Social Blackjack",
+"iframe": "https://html5.gamedistribution.com/0b3894d2745a42eb98d322f38377c915/",
+"creator": "MarketJS",
+"description": "Play strategic card hands using classic blackjack rules enhanced by real-time social interaction mechanics. Players focus on decision-making around hitting, standing, and doubling down to beat the dealer’s hand, while competing with others in a digital card room environment. Multiple betting rounds and leaderboards provide ongoing progression and challenge casual gamers and teens alike.\n\nKey Features\n\n• Social multiplayer card matching  \n• Real-time player decision controls  \n• Progressive betting rounds system  \n• Competitive leaderboard tracking  \n• Classic casino card room setting"
+},
+{
+"id": "e9571879b44c4f52b747d82202b4b489",
+"title": "Blackjack King Offline",
+"iframe": "https://html5.gamedistribution.com/e9571879b44c4f52b747d82202b4b489/",
+"creator": "BestGamesFreePlay.com",
+"description": "Play cards to achieve the best hand without exceeding 21, using strategic decision-making typical of classic blackjack gameplay. Manage your bets and know when to hit or stand against virtual dealers in a series of offline rounds. The game challenges players with escalating dealer difficulty levels to test their card counting and risk assessment skills.\n\nKey Features\n\n• Classic blackjack hand strategies  \n• Tap-based card actions  \n• Increasing dealer AI difficulty  \n• Offline single-player mode  \n• Casino table visual style"
+},
+{
+"id": "80cf8e94d5af458e822afc6c9f5766e0",
+"title": "Poker with Friends",
+"iframe": "https://html5.gamedistribution.com/80cf8e94d5af458e822afc6c9f5766e0/",
+"creator": "MarketJS",
+"description": "Place strategic bets and read opponents’ moves to outsmart others in casual multiplayer poker sessions. Players manage chip stacks and adopt bluffing tactics in quick rounds of Texas Hold’em style play. The game focuses on competitive hand-ranking and timed betting phases to secure wins against friends or online rivals.\n\nKey Features\n\n• Turn-based betting mechanic  \n• Bluffing and hand reading  \n• Chip stack management  \n• Multiplayer social interactions  \n• Classic card deck simulation"
+},
+{
+"id": "7b35aa6258e940598c0a6ee2b4277fcf",
+"title": "Caribbean Stud Poker",
+"iframe": "https://html5.gamedistribution.com/7b35aa6258e940598c0a6ee2b4277fcf/",
+"creator": "Joypad Media",
+"description": "Place bets and compare your five-card hand against the dealer’s to form traditional poker combinations in this casino-style card game. The core mechanic revolves around hand ranking evaluation and strategic betting, while the setting channels classic casino ambiance. The main challenge is to outplay the dealer by achieving stronger poker hands and making savvy wagering decisions.\n\nKey Features\n\n• Five-card hand ranking system  \n• Strategic betting before dealer reveal  \n• Dealer qualification rule challenge  \n• Progressive payout multipliers  \n• Classic casino poker atmosphere"
+},
+{
+"id": "cc549241e92641ae994045451e4c7a6f",
+"title": "Blackjack Game",
+"iframe": "https://html5.gamedistribution.com/cc549241e92641ae994045451e4c7a6f/",
+"creator": "Game-Devs",
+"description": "Place strategic bets and manage card values to outscore the dealer in this classic casino card game. Players rely on quick decision-making with hit or stand choices, aiming to reach 21 without busting. The core mechanic focuses on hand total management within a traditional card table setting, challenging players to balance risk and reward effectively.\n\nKey Features\n\n• Card value calculation system  \n• Hit or stand player controls  \n• Bust and dealer comparison rules  \n• Betting and chip management  \n• Classic casino table environment"
+},
+{
+"id": "8503312b1e3a4057bd77e17263eb5849",
+"title": "Banana Poker",
+"iframe": "https://html5.gamedistribution.com/8503312b1e3a4057bd77e17263eb5849/",
+"creator": "RavalMatic",
+"description": "Stack cards strategically to outwit opponents in this quirky banana-themed poker twist. Players manage a dynamic hand of fruit-suited cards while calculating odds and bluffing to claim pots. Can you master the blend of classic poker tactics with a playful motif to dominate each round and climb the leaderboard?\n\nKey Features\n\n• Fruit-suit card classification  \n• Turn-based hand management  \n• Bluff and betting mechanics  \n• Progressive round betting system  \n• Casual fruity visual style"
+},
+{
+"id": "fd57420b624144faaa4f61077459a2c7",
+"title": "Classic Uno",
+"iframe": "https://html5.gamedistribution.com/fd57420b624144faaa4f61077459a2c7/",
+"creator": "Webgameapp",
+"description": "Play and match colorful cards using strategic hand management in a classic turn-based setting. Players must tactically play number and action cards to empty their hand before opponents, navigating forced draws and skips. The vibrant card deck and sequential play challenge quick thinking and pattern recognition in casual multiplayer rounds.\n\nKey Features\n\n• Turn-based card matching mechanics  \n• Strategic hand and color management  \n• Progressive opponent challenge levels  \n• Multiplayer and local game modes  \n• Iconic classic card deck visuals"
+},
+{
+"id": "fc6b4e70a4ab447cb9a0769565ea36d7",
+"title": "Spades",
+"iframe": "https://html5.gamedistribution.com/fc6b4e70a4ab447cb9a0769565ea36d7/",
+"creator": "MarketJS",
+"description": "Play cards strategically to outsmart opponents in this classic trick-taking game. Players must follow suit or play spades as trump to win rounds, aiming to accurately bid and capture the number of tricks they predicted. The game challenges timing and card management across multiple hands, blending careful planning with reactive tactics.\n\nKey Features\n\n• Trump suit trick-taking mechanic  \n• Bidding and trick prediction system  \n• Turn-based multiplayer rounds  \n• Score tracking and penalty rules  \n• Standard 52-card deck setup"
+},
+{
+"id": "c1307d4373224897bff809b3677b99d4",
+"title": "Blackjack Tournament",
+"iframe": "https://html5.gamedistribution.com/c1307d4373224897bff809b3677b99d4/",
+"creator": "Gamebuilt.com",
+"description": "Place strategic bets and navigate card values in a tournament-style Blackjack setting where players aim to outscore opponents without busting. The game emphasizes classic blackjack mechanics involving hand management and dealer interaction, while competing through multiple rounds to climb the leaderboard.\n\nKey Features\n\n• Classic card matching mechanic  \n• Betting and hand doubling options  \n• Progressive round elimination format  \n• Score leaderboard competition  \n• Casino table ambiance simulation"
+},
+{
+"id": "591fe1cb7215433c99c54deb614e9dd9",
+"title": "Las Vegas Blackjack",
+"iframe": "https://html5.gamedistribution.com/591fe1cb7215433c99c54deb614e9dd9/",
+"creator": "Inlogic Software",
+"description": "Place bets and decide when to hit or stand to beat the dealer’s hand in this classic card strategy game. Players must manage their hand values carefully using blackjack’s core mechanic while aiming to reach a total of 21 without busting. The setting evokes a Las Vegas casino atmosphere where card counting and risk assessment determine success.\n\nKey Features\n\n• Card value calculation system  \n• Player bet adjustment controls  \n• Dealer hand AI behavior  \n• Multi-round game progression  \n• Casino table visual theme"
+},
+{
+"id": "12ba7c31d87c4e819d132f4baedeedbf",
+"title": "Mafia Poker",
+"iframe": "https://html5.gamedistribution.com/12ba7c31d87c4e819d132f4baedeedbf/",
+"creator": "Inlogic Software",
+"description": "Play poker against AI opponents using a blend of card strategy and bluffing mechanics in a mobster-themed setting. Players aim to outsmart rival gangsters by reading tells and managing hand strength through unique Mafia-style character abilities. The challenge comes from balancing risk and reward while progressing through escalating poker rounds.\n\nKey Features\n\n• Strategic hand management  \n• Opponent behavior reading  \n• Risk-reward betting system  \n• Progressive difficulty rounds  \n• Mobster character skill cards"
+},
+{
+"id": "e930b7779ea04823b0bb898604799248",
+"title": "BLACKJACK 21",
+"iframe": "https://html5.gamedistribution.com/e930b7779ea04823b0bb898604799248/",
+"creator": "RedFoc",
+"description": "Place strategic bets and decide when to hit or stand using traditional card values in this digital twist on a classic casino card game. Players balance risk and reward as they aim to reach a total of 21 without busting, using a standard deck with familiar suits and ranks. The game offers a straightforward blackjack experience that tests your timing and decision-making.\n\nKey Features\n\n• Card value based scoring  \n• Hit or stand decision control  \n• Bust and win condition timing  \n• Single player mode against dealer AI  \n• Classic casino card deck appearance"
+},
+{
+"id": "8f2bf47f49dd440aa6394d0fea47406a",
+"title": "Blackjack Master",
+"iframe": "https://html5.gamedistribution.com/8f2bf47f49dd440aa6394d0fea47406a/",
+"creator": "Inlogic Software",
+"description": "Place strategic bets and decide when to hit or stand to outplay the dealer in this card-based challenge. The gameplay revolves around mastering hand value calculations and managing the risk of busting to reach a target score. Success depends on reading the dealer’s play style and adjusting tactics accordingly, aiming to maximize wins across multiple rounds.\n\nKey Features\n\n• Classic card comparison mechanic  \n• Player decision timing control  \n• Risk management with bust limits  \n• Multi-round score accumulation  \n• Casino table visual theme"
+},
+{
+"id": "f07403fb3a4e4278944d0b540a6de3ff",
+"title": "Poker World",
+"iframe": "https://html5.gamedistribution.com/f07403fb3a4e4278944d0b540a6de3ff/",
+"creator": "Agame",
+"description": "Manage betting rounds and chip stacks in virtual poker tables, mastering bluff timing and card reading to outplay opponents. Players engage in realistic hand ranking evaluation while aiming to build their chip count through strategic bets. Different difficulty levels adjust AI behavior, providing a gradual challenge tailored for casual card game enthusiasts.\n\nKey Features\n\n• Turn-based betting mechanics  \n• Chip management controls  \n• AI opponent difficulty scaling  \n• Classic Texas Hold’em rules  \n• Virtual card table interface"
+},
+{
+"id": "62315c8a5ddd47219a31b54149abceec",
+"title": "Blackjack King",
+"iframe": "https://html5.gamedistribution.com/62315c8a5ddd47219a31b54149abceec/",
+"creator": "Happylander Ltd",
+"description": "Place bets and challenge the dealer by strategically deciding when to hit or stand in this classic card duel. Players use standard Blackjack rules to reach a hand value close to 21 without busting, balancing risk and reward as they manage their chip stack through multiple hands in a casino setting.\n\nKey Features\n\n• Card value and hand total strategy  \n• Bet adjustment and chip management  \n• Dealer risk assessment mechanics  \n• Progressive hand-based scoring system  \n• Casino table environment visuals"
+},
+{
+"id": "1478c9ad8c9a4a1aa38880c871d10e96",
+"title": "UNO Heroes",
+"iframe": "https://html5.gamedistribution.com/1478c9ad8c9a4a1aa38880c871d10e96/",
+"creator": "Minijuegos.com",
+"description": "Match color cards strategically to outplay opponents in a dynamic multiplayer environment. Players use the classic UNO mechanic with a twist, navigating timed turns and special ability cards to be the first to empty their hand. The game offers diverse room settings and quick rounds for casual competitive fun.\n\nKey Features\n\n• Classic color matching mechanic  \n• Timed turn-based gameplay  \n• Special ability action cards  \n• Multiplayer room progression  \n• Casual party game setting"
+},
+{
 "id": "5a0b0fc8fd1e48468fe289997085b0bb",
 "title": "Jungle Solitaire",
 "iframe": "https://html5.gamedistribution.com/5a0b0fc8fd1e48468fe289997085b0bb/",
