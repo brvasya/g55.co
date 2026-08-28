@@ -6,9 +6,7 @@ from tkinter import ttk, messagebox
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CATEGORIES_DIR = os.path.join(SCRIPT_DIR, "categories")
 
-
 AGENT_EXCEPTIONS_FILE = os.path.join(SCRIPT_DIR, "categorizer.txt")
-
 
 def load_agent_exceptions(path: str) -> dict[str, str]:
     exceptions = {}
@@ -41,9 +39,7 @@ def load_agent_exceptions(path: str) -> dict[str, str]:
 
     return exceptions
 
-
 AGENT_EXCEPTIONS = load_agent_exceptions(AGENT_EXCEPTIONS_FILE)
-
 
 def list_json_files(folder: str) -> list[str]:
     out = []
@@ -56,11 +52,9 @@ def list_json_files(folder: str) -> list[str]:
     out.sort(key=lambda s: s.lower())
     return out
 
-
 def load_json_any(path: str):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
-
 
 def normalize_loaded_json(loaded):
     if isinstance(loaded, dict) and "pages" in loaded and isinstance(loaded["pages"], list):
@@ -68,7 +62,6 @@ def normalize_loaded_json(loaded):
     if isinstance(loaded, list):
         return loaded, None
     raise ValueError('Unsupported JSON format. Expected {"pages": [...]} or a list.')
-
 
 def save_json_any(path: str, pages: list[dict], wrapper):
     if wrapper is None:
@@ -78,7 +71,6 @@ def save_json_any(path: str, pages: list[dict], wrapper):
         payload = wrapper
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=0)
-
 
 def clean_page(it: dict) -> dict:
     page = {
@@ -91,11 +83,9 @@ def clean_page(it: dict) -> dict:
     page["description"] = str(it.get("description", "")).strip()
     return page
 
-
 def raw_slug_from_filename(fn: str) -> str:
     base = fn[:-5] if fn.lower().endswith(".json") else fn
     return base.strip()
-
 
 def split_camel_case_boundaries(s: str) -> str:
     s = s or ""
@@ -113,7 +103,6 @@ def split_camel_case_boundaries(s: str) -> str:
 
     return "".join(out)
 
-
 def tokenize_slug(s: str) -> list[str]:
     s = split_camel_case_boundaries((s or "").strip())
     s = s.lower().replace("-", " ")
@@ -129,7 +118,6 @@ def tokenize_slug(s: str) -> list[str]:
     if cur:
         parts.append(cur)
     return parts
-
 
 def apply_agent_exceptions(tokens: list[str]) -> list[str]:
     out = []
@@ -148,7 +136,6 @@ def apply_agent_exceptions(tokens: list[str]) -> list[str]:
             out.extend(mapped_tokens)
 
     return out
-
 
 def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[int]:
     if not tokens or not key_tokens:
@@ -176,7 +163,6 @@ def find_all_subseq_positions(tokens: list[str], key_tokens: list[str]) -> list[
 
     return sorted(hits)
 
-
 def build_match_priority(hits: list[int], key_tokens: list[str], slug: str) -> tuple[int, int, int, int]:
     first_hit = min(hits)
     return (
@@ -186,12 +172,10 @@ def build_match_priority(hits: list[int], key_tokens: list[str], slug: str) -> t
         len(slug),
     )
 
-
 def build_display_score(priority: tuple[int, int, int, int]) -> int:
     token_count, negative_first_hit, hit_count, slug_len = priority
     first_hit = -negative_first_hit
     return (token_count * 1000) + (hit_count * 50) - first_hit + slug_len
-
 
 class CategorizerApp(tk.Tk):
     def __init__(self):
@@ -609,7 +593,6 @@ class CategorizerApp(tk.Tk):
                     errors += 1
 
         self.set_status(f"Move all done. moved={moved} skipped={skipped} errors={errors}")
-
 
 if __name__ == "__main__":
     app = CategorizerApp()
