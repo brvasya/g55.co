@@ -453,9 +453,6 @@ class CategorizerApp(tk.Tk):
                         current_hits, current_tokens, current_slug
                     )
 
-            # Literal physical category matches always take precedence.
-            # Only fall back to explicit categorizer.txt mappings when no
-            # literal target category matched.
             if best is None:
                 if current_priority is not None:
                     skipped_self += 1
