@@ -1,6 +1,762 @@
 {
 "pages": [
 {
+"id": "e12afbc0080447b1a21db75d14022987",
+"title": "Guns and Blocks",
+"iframe": "https://html5.gamedistribution.com/e12afbc0080447b1a21db75d14022987/",
+"creator": "Code This Lab srl",
+"description": "Shoot and destroy colored blocks by aiming carefully in a physics-based projectile system. Players use precise timing and aim mechanics to clear increasingly complex block formations, testing both accuracy and strategy. The game challenges players to manage limited shots while progressing through puzzle-like levels centered around block elimination.\n\nKey Features\n\n• Precision aiming projectile mechanic  \n• Limited shot based challenge system  \n• Progressive block clearing stages  \n• Timer and score tracking mode  \n• Color-coded block interaction"
+},
+{
+"id": "353fea6c9bd74e65adc3c63efb52183f",
+"title": "Shoot 2048 Hexa",
+"iframe": "https://html5.gamedistribution.com/353fea6c9bd74e65adc3c63efb52183f/",
+"creator": "GameBerry Studio",
+"description": "Shoot targets by matching numbered tiles in hexagonal grids to reach higher scores and clear space. The core mechanic blends tile merging with precise shooting angles, challenging players to plan moves carefully on the hex-based board as they strive to optimize combinations. Tactical positioning and strategic merges define progression through increasingly complex hex layouts.\n\nKey Features\n\n• Hexagonal tile merging system  \n• Precision shooting angle control  \n• Progressive grid complexity levels  \n• Score optimization through combos  \n• Casual-friendly puzzle challenge"
+},
+{
+"id": "fe32711331e04b19bb734ee5a57952f4",
+"title": "Shoot N Crush",
+"iframe": "https://html5.gamedistribution.com/fe32711331e04b19bb734ee5a57952f4/",
+"creator": "CarGames.Com",
+"description": "Shoot targets using precise timing and ballistics control in this physics-based aiming challenge. Players adjust the shot trajectory to break through layered obstacles while maximizing points. The game combines a skillful projectile mechanic with varied destructible objects to test accuracy and strategic planning. Progression introduces increasingly complex target arrangements for newcomers and casual players alike.\n\nKey Features\n\n• Ballistic projectile trajectory control  \n• Destructible layered obstacle design  \n• Accuracy-based scoring challenges  \n• Progressive difficulty target layouts  \n• Casual physics aiming gameplay"
+},
+{
+"id": "e9e1d7b63b1c4570a5939aa34bfc113e",
+"title": "Shoot Block Rush 3D",
+"iframe": "https://html5.gamedistribution.com/e9e1d7b63b1c4570a5939aa34bfc113e/",
+"creator": "bestgames.com",
+"description": "Shoot moving blocks with precise timing to clear increasingly complex patterns in this fast-paced 3D environment. The core mechanic centers on aiming and shooting block formations under time pressure, testing reflexes and spatial awareness. Levels ramp up with faster block movements and tighter sequences, requiring quick strategizing to avoid failure.\n\nKey Features\n\n• Precision shooting mechanic  \n• Timed block clearance challenges  \n• Progressive difficulty with speed increase  \n• Reflex-based aiming controls  \n• Minimalistic 3D block visuals"
+},
+{
+"id": "e05a97d0f80949fe94f7ab791616f209",
+"title": "Shoot and Merge the numbers",
+"iframe": "https://html5.gamedistribution.com/e05a97d0f80949fe94f7ab791616f209/",
+"creator": "Playtouch",
+"description": "Merge numbered balls by shooting identical pairs to clear the board and maximize your score. This casual puzzle blends merge mechanics with precise aiming in a colorful arcade setting, challenging you to plan shots strategically and chain combos for higher points. Progress through increasingly complex layouts that test accuracy and merging tactics.\n\nKey Features\n\n• Number merging shot mechanic  \n• Precise angle aiming control  \n• Combo-based scoring system  \n• Progressive puzzle difficulty  \n• Bright arcade visual style"
+},
+{
+"id": "fdf2137bac9842bfbc6460a89bc6a33a",
+"title": "Shoot Bubble Deluxe",
+"iframe": "https://html5.gamedistribution.com/fdf2137bac9842bfbc6460a89bc6a33a/",
+"creator": "wingmangames",
+"description": "Shoot colored bubbles from a rotating cannon to clear clusters before they reach the bottom of the screen. The core mechanic revolves around precise aiming and matching bubble colors in a vibrant, arcade-style setting. Players must strategically plan shots to prevent the bubble wall from descending, tackling increasingly complex arrangements as levels progress.\n\nKey Features\n\n• Precision bubble shooting mechanic  \n• Color matching cluster elimination  \n• Gradually increasing difficulty levels  \n• Rotational aiming control system  \n• Arcade-style bubble popping gameplay"
+},
+{
+"id": "63d0bbcb5773431c86ef495159925f7a",
+"title": "Shoot N Merge",
+"iframe": "https://html5.gamedistribution.com/63d0bbcb5773431c86ef495159925f7a/",
+"creator": "Bofer Media (Twim Studio)",
+"description": "Merge numbered tiles by shooting matching blocks downward to combine them and clear the board. This puzzle action involves strategic aiming and timing to prevent the grid from filling up. Players navigate incremental challenges where tactical placement and merging sequences affect survival, set in a minimalistic, block-based environment.\n\nKey Features\n\n• Targeted tile shooting mechanic  \n• Number merging strategy  \n• Increasing board congestion challenge  \n• Limited move management system  \n• Abstract block puzzle setting"
+},
+{
+"id": "270ded3617104ef793e4bc8767634b9e",
+"title": "Supra Crash Shooting Fly Cars",
+"iframe": "https://html5.gamedistribution.com/270ded3617104ef793e4bc8767634b9e/",
+"creator": "BestCrazyGames.com",
+"description": "Race and crash through chaotic flying car arenas, mastering midair vehicle control and strategic shooting to dominate opponents. Players must balance aerial maneuvers with precise targeting, navigating dynamic environments filled with unpredictable hazards to outlast rivals.\n\nKey Features\n\n• Flying car combat mechanics  \n• Precision aerial shooting controls  \n• Progressive arena difficulty scaling  \n• Time attack and survival modes  \n• Futuristic urban battle settings"
+},
+{
+"id": "5bcaa426fd724efda8be890fc5118c46",
+"title": "Guns & Bottles",
+"iframe": "https://html5.gamedistribution.com/5bcaa426fd724efda8be890fc5118c46/",
+"creator": "Freak X Games",
+"description": "Shoot bottles with precise aim using a combination of firearms and quick reflexes to break all targets. The core mechanic centers on timing and accuracy as players navigate levels featuring varied bottle arrangements. Progressing through increasingly complex shooting galleries challenges aiming skills and reaction speed in this skill-based shooter aimed at casual players.\n\nKey Features\n\n• Precision aiming mechanic  \n• Rapid-fire shooting controls  \n• Increasingly difficult bottle patterns  \n• Time-limited challenge rounds  \n• Classic shooting gallery setup"
+},
+{
+"id": "1d8cf03d22f94c20935c164a9d6adf88",
+"title": "Guns vs Magic",
+"iframe": "https://html5.gamedistribution.com/1d8cf03d22f94c20935c164a9d6adf88/",
+"creator": "SMOKOKO LTD",
+"description": "Switch between wielding firearms and casting spells to defeat waves of enemies in dynamic combat arenas. Utilize a hybrid combat system that blends precise gunplay with strategic magic use to overcome various monster types. Progress through increasingly difficult levels by mastering weapon switching and spell combinations to survive challenging encounters.\n\nKey Features\n\n• Dual weapon and magic system  \n• Player-controlled targeting mechanics  \n• Level-based enemy wave progression  \n• Spell and firearm upgrade paths  \n• Dark fantasy battle arenas"
+},
+{
+"id": "761eba024a7146d3942aa878d2cba722",
+"title": "Guns and Magic",
+"iframe": "https://html5.gamedistribution.com/761eba024a7146d3942aa878d2cba722/",
+"creator": "justaliendev",
+"description": "Cast spells while wielding firearms to battle diverse enemies in a world blending sorcery and weaponry. Combine magical abilities with precision shooting to overcome waves of enchanted foes, navigating strategic combat scenarios that require quick reflexes and skillful resource management. Progress through increasingly challenging levels that test both spellcasting and marksmanship.\n\nKey Features\n\n• Hybrid spell and gun combat  \n• Tactical aiming and shooting controls  \n• Level-based enemy encounters  \n• Resource management for abilities  \n• Fantasy and technological theme mix"
+},
+{
+"id": "f910198677aa43e69a81a311a6039d68",
+"title": "Alpha Guns",
+"iframe": "https://html5.gamedistribution.com/f910198677aa43e69a81a311a6039d68/",
+"creator": "Ramblo Digital Media",
+"description": "Control agile combatants through fast-paced shooting encounters focused on precision and timing. Players navigate diverse enemy formations, relying on rapid aiming and shot placement to clear waves and advance. The gameplay emphasizes weapon versatility and adapting to dynamic battle scenarios, with occasional power-ups enhancing offensive capabilities.\n\nKey Features\n\n• Rapid fire shooting mechanics  \n• Dynamic enemy wave patterns  \n• Weapon upgrade customization  \n• Time-based survival challenges  \n• Sci-fi combat arena setting"
+},
+{
+"id": "41a4e1ebcf684817b4290059407422b0",
+"title": "Metal Guns Fury : beat em up",
+"iframe": "https://html5.gamedistribution.com/41a4e1ebcf684817b4290059407422b0/",
+"creator": "Playtouch",
+"description": "Engage in fast-paced combat using a variety of metal weapons to defeat waves of enemies in close-quarters brawling. The game focuses on combo-based beat-em-up mechanics that challenge timing and spatial awareness. Players must clear each level by mastering powerful attack chains and avoiding enemy strikes as intensity builds through continuous progression.\n\nKey Features\n\n• Combo-driven melee system  \n• Responsive movement controls  \n• Increasing enemy difficulty tiers  \n• Level progression with score tracking  \n• Industrial-themed fight arenas"
+},
+{
+"id": "f120b84c309043feaadaaefe2afd0a06",
+"title": "Double Guns",
+"iframe": "https://html5.gamedistribution.com/f120b84c309043feaadaaefe2afd0a06/",
+"creator": "BestGames",
+"description": "Wield dual pistols to engage enemies with rapid-fire shooting and precision aiming in this side-scrolling shooter. Players navigate through fast-paced combat scenarios, mastering weapon handling and timing to clear waves of foes. The challenge lies in balancing aggressive offense with strategic reload management to survive escalating enemy attacks.\n\nKey Features\n\n• Dual weapon firing system  \n• Responsive aiming controls  \n• Progressive enemy wave difficulty  \n• Timed reload mechanic  \n• Western-inspired shooting action"
+},
+{
+"id": "4d07bcfc1341459ba7c0bca58aaed98f",
+"title": "PaintWars Shoot",
+"iframe": "https://html5.gamedistribution.com/4d07bcfc1341459ba7c0bca58aaed98f/",
+"creator": "BestCrazyGames.com",
+"description": "Engage in dynamic paintball battles that test your aiming and reflexes using an array of colorful paint weapons. The game challenges you to outshoot opponents in fast-paced solo or multiplayer showdowns on vibrant arenas. Precise shooting and quick movement define the core gameplay as you compete to cover zones or eliminate foes with paint-based weaponry.\n\nKey Features\n\n• Precision aiming and shooting  \n• Real-time multiplayer matches  \n• Zone control and elimination goals  \n• Diverse paint weapon loadouts  \n• Bright, colorful arena environments"
+},
+{
+"id": "63db3ede64e343c8a9fb4f91e29b7b08",
+"title": "Fly and shoot 1. Italian Bosses",
+"iframe": "https://html5.gamedistribution.com/63db3ede64e343c8a9fb4f91e29b7b08/",
+"creator": "GamePush",
+"description": "Fly through detailed urban airspace and engage in precise shooting sequences against Italian mafia bosses using unique targeting and weapon systems. Maneuver a customizable aircraft with responsive flight controls, facing escalating challenges as you unlock new enemy types and combat scenarios across progressive levels.\n\nKey Features\n\n• Aircraft targeting and shooting mechanics  \n• Responsive flight control scheme  \n• Escalating enemy boss encounters  \n• Level-based progression system  \n• Italian crime-themed aerial combat"
+},
+{
+"id": "00f86f37c5d145678e9c41edd5980492",
+"title": "Fish Shooting Fish Hunter",
+"iframe": "https://html5.gamedistribution.com/00f86f37c5d145678e9c41edd5980492/",
+"creator": "YAD.Com",
+"description": "Control a dynamic underwater turret to aim and shoot various fish species in this shooting arcade challenge. The gameplay centers on precision targeting and shot timing, using a limited ammo supply to capture high-value aquatic targets. Progression comes from accumulating points to unlock stronger weapons and encounter rarer fish types in an ocean setting.\n\nKey Features\n\n• Turret aiming and shooting mechanic  \n• Ammo management and reload timing  \n• Score-based weapon upgrades  \n• Diverse aquatic enemy species  \n• Ocean-themed shooting gallery"
+},
+{
+"id": "aa3b0f15de544f7bbb01a13ea43af168",
+"title": "Violet Fall Fashion Shoot",
+"iframe": "https://html5.gamedistribution.com/aa3b0f15de544f7bbb01a13ea43af168/",
+"creator": "Cutedressup",
+"description": "Capture dynamic poses and style outfits using precise camera controls in a vibrant fashion shoot setting. Players compose shots by adjusting angles and timing flashes to highlight model expressions, aiming to complete themed photo challenges. The gameplay focuses on mastering photography techniques to advance through varied shoot scenarios.\n\nKey Features\n\n• Camera angle adjustment system  \n• Dynamic model pose timing  \n• Themed photo challenge progression  \n• Interactive flash trigger controls  \n• Bright fashion shoot environments"
+},
+{
+"id": "aea888c9232a440cbd4fc0d90accbf55",
+"title": "Color Shooting",
+"iframe": "https://html5.gamedistribution.com/aea888c9232a440cbd4fc0d90accbf55/",
+"creator": "Gamebol",
+"description": "Shoot colorful targets using timed precision taps in this fast-paced browser game. The gameplay revolves around matching colors to clear chains of blocks before they reach the screen’s edge, testing reflexes and strategic timing. Players advance through increasingly complex patterns, aiming to maintain streaks and boost their score under pressure.  \n\nKey Features\n\n• Color matching shooting mechanic  \n• Tap-based timing control  \n• Progressive difficulty levels  \n• Chain clearing combo system  \n• Bright arcade-style visuals"
+},
+{
+"id": "b657e6c706e649aba3a8c461871df8f7",
+"title": "Fire Balls 3D shooting",
+"iframe": "https://html5.gamedistribution.com/b657e6c706e649aba3a8c461871df8f7/",
+"creator": "IzelgueGames",
+"description": "Launch precise fireball shots to eliminate moving targets in a dynamic 3D arena. This game challenges players to aim and time their throws accurately while dodging obstacles that alter projectile paths. Progression through rounds increases difficulty with faster targets and tighter spaces, demanding sharp reflexes and strategic positioning.\n\nKey Features\n\n• 3D aiming and shooting mechanics  \n• Timing-based projectile control  \n• Increasing target speed and quantity  \n• Obstacle influenced projectile trajectories  \n• Casual arena shooting environment"
+},
+{
+"id": "cce5395b68fc457abcadb24d40e5de43",
+"title": "Baby Boss Photo Shoot",
+"iframe": "https://html5.gamedistribution.com/cce5395b68fc457abcadb24d40e5de43/",
+"creator": "Cutedressup",
+"description": "Arrange poses and adjust expressions during a lively photo session featuring a charismatic baby character. Players manipulate camera angles and timing mechanics to capture the perfect shots, navigating through varied backdrops and props. The challenge lies in managing limited time while achieving high-quality poses to unlock new scenes and outfits.\n\nKey Features\n\n• Timed camera angle adjustments  \n• Expression and pose control system  \n• Progressive backdrop and prop unlocks  \n• Score-based photo evaluation  \n• Child-friendly photography theme"
+},
+{
+"id": "4237b433eb5c4698a31e0cd0203fbbfa",
+"title": "Mini Shooters",
+"iframe": "https://html5.gamedistribution.com/4237b433eb5c4698a31e0cd0203fbbfa/",
+"creator": "Online Games io",
+"description": "Control tiny customizable combatants in fast-paced arena battles where precision shooting and quick reflexes dictate survival. Navigate compact maps using covers and dodging tactics while engaging in weapon upgrades and gradual difficulty spikes. Players face waves of agile opponents aiming to dominate the miniaturized shooter environment through tactical positioning and fast aiming.\n\nKey Features\n\n• Twin-stick shooting controls  \n• Dynamic cover-based movement  \n• Progressive weapon upgrade tree  \n• Time-limited survival mode  \n• Miniature arena battlefields"
+},
+{
+"id": "68433cf6e17346e1a91818c60028a620",
+"title": "Rooftop Shooters",
+"iframe": "https://html5.gamedistribution.com/68433cf6e17346e1a91818c60028a620/",
+"creator": "DAB3Games",
+"description": "Shoot from building to building using various projectile weapons in this fast-paced action game set across city rooftops. Players jump strategically to dodge enemy fire while managing limited ammo and timing shots for maximum effect. Levels increase in difficulty with tougher enemy snipers and dynamic weather hazards shaping the combat experience.\n\nKey Features\n\n• Precision aiming and shooting  \n• Jump and dodge movement controls  \n• Progressive enemy sniper difficulty  \n• Ammo management system  \n• Urban rooftop combat setting"
+},
+{
+"id": "5fb9c72b2cbd458c9ad4865f036dcc27",
+"title": "Crazy Shooters 2",
+"iframe": "https://html5.gamedistribution.com/5fb9c72b2cbd458c9ad4865f036dcc27/",
+"creator": "JulGames",
+"description": "Engage in fast-paced shooting challenges where precision aiming and rapid reflexes drive success. Players navigate diverse maps armed with customizable weapons to eliminate enemies while managing limited ammo and timed objectives. Various weapon loadouts and dynamic arenas keep the combat intense. Progression unlocks new gear and increasingly difficult enemy waves for strategic depth.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Customizable weapon loadouts  \n• Timed elimination objectives  \n• Progressive enemy difficulty waves  \n• Dynamic arena map designs"
+},
+{
+"id": "e2853d4420c3447bbcd6ff9a10cba665",
+"title": "2D Shooters",
+"iframe": "https://html5.gamedistribution.com/e2853d4420c3447bbcd6ff9a10cba665/",
+"creator": "JulGames",
+"description": "Engage in fast-paced shooting action across diverse 2D arenas, navigating tight spaces while dodging enemy fire. The game challenges players to master precise aiming and movement controls to survive waves of hostile opponents. Unique weapon pickups and level progression add layers of strategy and constant gameplay adaptation.\n\nKey Features\n\n• Precision aiming mechanic  \n• Responsive movement controls  \n• Wave-based enemy encounters  \n• Weapon upgrade pickups  \n• Varied arena layouts"
+},
+{
+"id": "edd9a16b481e4274aac0328601ae24c8",
+"title": "Wasteland Shooters",
+"iframe": "https://html5.gamedistribution.com/edd9a16b481e4274aac0328601ae24c8/",
+"creator": "JulGames",
+"description": "Survive intense firefights using a range of customizable firearms in this post-apocalyptic arena shooter. Maneuver through hazardous terrain while managing ammo and health to overcome waves of mutated enemies. Each level challenges players to refine their aiming and movement skills, with weapon upgrades unlocking new combat styles as the game progresses.\n\nKey Features\n\n• Custom weapon upgrade system  \n• Tactical movement and cover use  \n• Wave-based enemy assault  \n• Health and ammo resource management  \n• Post-apocalyptic wasteland setting"
+},
+{
+"id": "38ae5db3c4f44e02889d40555b5b5f42",
+"title": "Stellar Shooters",
+"iframe": "https://html5.gamedistribution.com/38ae5db3c4f44e02889d40555b5b5f42/",
+"creator": "JulGames",
+"description": "Pilot agile spacecraft through fast-paced cosmic battles, maneuvering with precision to overcome waves of alien ships. Players engage an energy-based blaster system while navigating zero-gravity environments to defend their territory. Levels escalate in difficulty with increasing enemy tactics, requiring quick reflexes and strategic weapon use to survive.\n\nKey Features\n\n• Energy blaster weapon system  \n• Zero-gravity ship maneuvering  \n• Progressive enemy wave difficulty  \n• Score multiplier combo mechanics  \n• Futuristic space combat setting"
+},
+{
+"id": "20454ead6fe14ae6bd3127efbc813bdb",
+"title": "Crazy Shooters",
+"iframe": "https://html5.gamedistribution.com/20454ead6fe14ae6bd3127efbc813bdb/",
+"creator": "JulGames",
+"description": "Shoot enemies using a variety of weapons in fast-paced multiplayer arenas where quick reflexes and strategic aiming matter. Players engage in chaotic firefights, using cover and character mobility to outlast opponents. The core mechanic revolves around precision shooting and movement, while the colorful arena setting creates an intense battleground challenge.\n\nKey Features\n\n• Precision aiming and shooting  \n• Character movement and cover use  \n• Fast-paced multiplayer matches  \n• Arena survival scoring system  \n• Colorful battleground environments"
+},
+{
+"id": "88a493976c784c9190e3374fc2a75b24",
+"title": "Toon Shooters",
+"iframe": "https://html5.gamedistribution.com/88a493976c784c9190e3374fc2a75b24/",
+"creator": "JulGames",
+"description": "Shoot interactive cartoon characters using dynamic weapon targeting in this vibrant browser game. Players aim and fire precise shots to clear waves of animated foes, mastering timing and trajectory to progress through colorful levels. The gameplay blends classic shooting mechanics with playful toon visuals, challenging players to adapt to varied enemy patterns and scoring tactics.\n\nKey Features\n\n• Precision aiming and shooting  \n• Timed projectile trajectory control  \n• Progressive wave difficulty scaling  \n• Score multiplier combo system  \n• Cartoon-themed enemy designs"
+},
+{
+"id": "bdada74b919b41358887997c76d909a1",
+"title": "Shoot And Drive",
+"iframe": "https://html5.gamedistribution.com/bdada74b919b41358887997c76d909a1/",
+"creator": "GamePush",
+"description": "Control a fast-paced armed vehicle combining shooting and driving skills while navigating dynamic environments. Players balance firing at enemies with maneuvering through obstacle-filled courses using physics-based vehicle handling. Progression includes mastering weapon aiming under pressure and overcoming increasingly complex terrain challenges for survival and score.\n\nKey Features\n\n• Hybrid shooting and driving mechanics  \n• Physics driven vehicle handling controls  \n• Increasing terrain difficulty levels  \n• Weapon aiming and firing system  \n• Score based survival challenges"
+},
+{
+"id": "b549f99723724f8a852c0bdab829faaa",
+"title": "Dino Hide N Shoot",
+"iframe": "https://html5.gamedistribution.com/b549f99723724f8a852c0bdab829faaa/",
+"creator": "bestgames.com",
+"description": "Shoot accurately to survive waves of attacking dinosaurs in prehistoric arenas using timed cover mechanics. Players must hide strategically behind natural obstacles and pop out to shoot with limited ammunition, balancing offense and defense. Each level introduces varied dino types with unique behaviors to challenge reaction speed and aiming skills.\n\nKey Features\n\n• Cover based shooting system  \n• Limited ammo resource management  \n• Progressive dino enemy types  \n• Timed shooting windows  \n• Prehistoric environment stages"
+},
+{
+"id": "8b24ff64f09d42a59ef99f660eb333fe",
+"title": "Shoot The Bottle",
+"iframe": "https://html5.gamedistribution.com/8b24ff64f09d42a59ef99f660eb333fe/",
+"creator": "MarketJS",
+"description": "Aim precisely to shoot bottles at varying distances and angles in this skill-based sharpshooting challenge. Use timing and trajectory control to knock down each bottle using a limited number of shots. Progress through increasing difficulty levels that test your accuracy and quick reflexes, set in minimalistic shooting range visuals. The challenge lies in mastering shot placement to clear stages efficiently.\n\nKey Features\n\n• Precision aiming mechanic  \n• Limited shot ammunition  \n• Progressive difficulty levels  \n• Time-based score challenges  \n• Minimalist shooting range design"
+},
+{
+"id": "e3e48cef6a944b66a3b9a63e906f573f",
+"title": "Blind Boat Shooting Master",
+"iframe": "https://html5.gamedistribution.com/e3e48cef6a944b66a3b9a63e906f573f/",
+"creator": "PuzzleGame.Com",
+"description": "Shoot targets using limited vision mechanics as you control a boat navigating through uncertain waters in this precision-based action game. Players rely on auditory and tactile clues to engage enemies without direct sight, mastering stealthy movement and timing to survive progressively challenging waves. The setting combines tense naval combat with an unconventional sensory gameplay twist that tests reaction and spatial awareness.\n\nKey Features\n\n• Blind navigation control system  \n• Sound-based enemy detection  \n• Progressive wave challenge levels  \n• Stealth and timing mechanics  \n• Naval combat with sensory limitation"
+},
+{
+"id": "9e1e76d7e90b4f27b96a4e98e0cbdbe3",
+"title": "Skibidi Toilet Shooting",
+"iframe": "https://html5.gamedistribution.com/9e1e76d7e90b4f27b96a4e98e0cbdbe3/",
+"creator": "G55.CO",
+"description": "Shoot down waves of moving targets using a rapid-fire gunner setup in a chaotic bathroom environment. Navigate through escalating stages where reaction speed and aiming precision determine survival. Each level presents quirky opponents themed around bathroom fixtures, blending fast-paced shooting with oddball humor challenges that test player focus and timing.\n\nKey Features\n\n• Rapid-fire shooting mechanics  \n• Precision aiming controls  \n• Progressive wave difficulty  \n• Reaction-based challenge system  \n• Bathroom-themed enemy designs"
+},
+{
+"id": "edbb6f867abd4426a1d0765cf899e16a",
+"title": "Bottle Shoot",
+"iframe": "https://html5.gamedistribution.com/edbb6f867abd4426a1d0765cf899e16a/",
+"creator": "Advergame Technologies Private Limited",
+"description": "Shoot moving bottles in precision aiming challenges using a firearm mechanic that tests timing and accuracy. Players must clear sequences of bottle targets that appear on different setups, progressively increasing in speed and complexity. The game emphasizes quick reflexes and strategic shooting angles, making each round a unique test of marksmanship skills.\n\nKey Features\n\n• Precision aiming shooting mechanic  \n• Timed bottle target sequences  \n• Increasing target speed difficulty  \n• Score-based progression system  \n• Classic shooting gallery setup"
+},
+{
+"id": "5e03b893d2584b59b2d6278d55b6abd7",
+"title": "SLING & SHOOT!",
+"iframe": "https://html5.gamedistribution.com/5e03b893d2584b59b2d6278d55b6abd7/",
+"creator": "Realinspirer",
+"description": "Launch precise projectiles at varying angles to hit targets in a physics-based sling shooting challenge. Players must control the tension and trajectory of their shots to clear increasingly complex levels featuring environmental obstacles. Timing and accuracy are key to mastering the unique slingshot mechanic as you progress through diverse stage layouts.\n\nKey Features\n\n• Angle-based projectile aiming  \n• Tension control shot mechanic  \n• Environmental obstacle puzzles  \n• Progressive level difficulty  \n• Casual skill challenge setting"
+},
+{
+"id": "5d9f70d49ddc408a845fe48749844034",
+"title": "Little Lily St.Patricks Day Photo Shoot",
+"iframe": "https://html5.gamedistribution.com/5d9f70d49ddc408a845fe48749844034/",
+"creator": "Cutedressup",
+"description": "Arrange themed photo setups and customize vibrant St. Patrick’s Day outfits in a colorful dress-up and photography experience. Capture perfect poses using various costume pieces and props to complete photo shoots with seasonal decorations. Experiment with wardrobe combinations as you progress through different styled scenes celebrating the festive holiday spirit.\n\nKey Features\n\n• Costume selection and mix styling  \n• Photo shoot pose adjustment controls  \n• Multiple themed scene backdrops  \n• Progressive outfit unlock system  \n• Seasonal St. Patrick’s Day elements"
+},
+{
+"id": "496719fd0d3e454f9d276590d715fd1c",
+"title": "Crazy shooting",
+"iframe": "https://html5.gamedistribution.com/496719fd0d3e454f9d276590d715fd1c/",
+"creator": "happyGames",
+"description": "Aim and shoot rapidly using diverse armaments while navigating chaotic battle arenas in this intense action shooter. Players rely on reflexive targeting mechanics to defeat waves of unpredictable enemies in a fast-paced setting. Survive through multiple escalating levels that test accuracy and speed with increasingly challenging foes.  \n\nKey Features\n\n• Precision aiming controls  \n• Rapid-fire weapon mechanics  \n• Progressive enemy wave difficulty  \n• Time-limited survival mode  \n• Vibrant urban combat environment"
+},
+{
+"id": "2e3de260b542462cb14ffd237b7edb5f",
+"title": "2K Shoot",
+"iframe": "https://html5.gamedistribution.com/2e3de260b542462cb14ffd237b7edb5f/",
+"creator": "2Play",
+"description": "Launch precision shots aiming through dynamic moving targets in a stylized basketball court environment while mastering timing and trajectory control. Players face increasing difficulty with faster hoops and shorter shot windows, testing accuracy and timing under pressure. Scoring combos unlock special shot modes to add depth to each round.\n\nKey Features\n\n• Trajectory based shooting mechanic  \n• Timing sensitive shot controls  \n• Progressive difficulty ramps  \n• Combo scoring multipliers  \n• Basketball court themed levels"
+},
+{
+"id": "9bd9654225074968aed3cdc066bf7403",
+"title": "Gangster Shooting Police Game",
+"iframe": "https://html5.gamedistribution.com/9bd9654225074968aed3cdc066bf7403/",
+"creator": "Driving games",
+"description": "Shoot from cover and target hostile police units in this urban crime shooter, using precision aiming to eliminate threats while navigating chaotic city streets. Players rely on tactical positioning and varied firearms to handle increasing waves of law enforcement enemies. Survive each level by managing limited ammunition and upgrading weapons for tougher challenges ahead.\n\nKey Features\n\n• Cover-based shooting mechanics  \n• Precision aiming controls  \n• Progressive enemy wave difficulty  \n• Weapon upgrade system  \n• Urban crime setting environment"
+},
+{
+"id": "fee6ff6a830b4c0685ff99c137d66594",
+"title": "Shooting Practice!",
+"iframe": "https://html5.gamedistribution.com/fee6ff6a830b4c0685ff99c137d66594/",
+"creator": "Realinspirer",
+"description": "Test aiming precision and timing with diverse target patterns in this shooting simulator. Players utilize controlled mouse input to adjust their shots, focusing on steady aiming and quick reflexes. Varying distance and speed present the main challenge, testing accuracy improvement over levels. The clean, straightforward range setting keeps attention on marksmanship skills.\n\nKey Features\n\n• Mouse precision aiming mechanic  \n• Timed target shooting challenges  \n• Increasing difficulty stages  \n• Score tracking and accuracy metrics  \n• Minimalist shooting range environment"
+},
+{
+"id": "9a2596feaafd4c6e8deef1da5b7a810a",
+"title": "Sheriff Shoot",
+"iframe": "https://html5.gamedistribution.com/9a2596feaafd4c6e8deef1da5b7a810a/",
+"creator": "Fun Best Games",
+"description": "Aim and shoot with precision in quick-draw duels to outlast rival gunslingers in this Western-themed shooter. Players control the timing and accuracy of their shots using a reflex-based core mechanic, striving to defeat waves of enemies in progressively challenging standoffs. Each round tests reaction speed and target prioritization, capturing the tense atmosphere of classic frontier showdowns.\n\nKey Features\n\n• Reflex-driven shooting mechanic  \n• Timed quick-draw controls  \n• Increasing enemy difficulty tiers  \n• Score-based progression system  \n• Wild West duel setting"
+},
+{
+"id": "84f53a8f745e40dea747cf358eaa1bad",
+"title": "Shoot Em All",
+"iframe": "https://html5.gamedistribution.com/84f53a8f745e40dea747cf358eaa1bad/",
+"creator": "bestgames.com",
+"description": "Fire rapid shots to eliminate waves of pixelated enemies using dynamic aim controls in this fast-paced shooter. Players navigate an array of weapon upgrades while managing limited ammo and dodging incoming attacks. Levels increase in difficulty through enemy variety and faster spawn rates, challenging reflexes and precision in timed stages.\n\nKey Features\n\n• Dynamic aiming and shooting system  \n• Diverse enemy wave patterns  \n• Progressive weapon upgrade paths  \n• Ammo management mechanics  \n• Time-based level challenges"
+},
+{
+"id": "8a2c8eee94134088a7d6b613d1549845",
+"title": "Squiden Shoot Game",
+"iframe": "https://html5.gamedistribution.com/8a2c8eee94134088a7d6b613d1549845/",
+"creator": "Lover3d",
+"description": "Blast through waves of ink-spraying enemies using precise shooting mechanics in this underwater shooter. Players navigate a squid-shaped turret that locks onto fast-moving targets while managing limited ink ammo to clear each level. The main objective is to survive increasing enemy swarms and achieve high scores with quick reflexes and steady aim.\n\nKey Features\n\n• Turret-based ink shooting  \n• Precision aiming control  \n• Progressive enemy wave difficulty  \n• Ammo management system  \n• Underwater cephalopod theme"
+},
+{
+"id": "2df4b40b825d497088a278eafc2f7137",
+"title": "LoL Shooting",
+"iframe": "https://html5.gamedistribution.com/2df4b40b825d497088a278eafc2f7137/",
+"creator": "Nanjing maileyou Network Technology Co., Ltd",
+"description": "Shoot down waves of enemies using fast reflexes and precise aiming in a dynamic arcade-style setting. Players control a futuristic laser cannon, managing rapid-fire shots to clear increasingly difficult target formations. The challenge lies in timing attacks and avoiding incoming projectiles while progressing through multiple increasingly complex levels designed for casual action gameplay.\n\nKey Features\n\n• Precision aiming and shooting  \n• Rapid-fire laser cannon control  \n• Increasing enemy wave difficulty  \n• Level-based progression system  \n• Neon sci-fi arcade theme"
+},
+{
+"id": "87f513f7f35c4676984f8177a2bfb756",
+"title": "Shooting Star Battleship",
+"iframe": "https://html5.gamedistribution.com/87f513f7f35c4676984f8177a2bfb756/",
+"creator": "Smartline-Games",
+"description": "Command enemy spaceships using strategic aiming and timed shooting in a cosmic battlefield. Players navigate a starship equipped with unique weapon systems to destroy waves of alien foes while managing energy levels and evasion maneuvers. The game challenges quick reflexes through progressive enemy patterns in outer space skirmishes.\n\nKey Features\n\n• Precision aiming shooting mechanic  \n• Energy-based weapon cooldown system  \n• Increasing enemy swarm difficulty  \n• Dynamic ship maneuver controls  \n• Outer space battle arena setting"
+},
+{
+"id": "7b45129d1295434f8cccda6a3f937b33",
+"title": "Knife Shooting",
+"iframe": "https://html5.gamedistribution.com/7b45129d1295434f8cccda6a3f937b33/",
+"creator": "Rokito Games",
+"description": "Launch precision knife throws to hit moving targets and avoid obstacles in this skill-based focus challenge. Players must time their shots and adjust aim through simple flick controls to clear sequential levels featuring increasing speed and target patterns. The core mechanic revolves around accuracy and timing under pressure, pushing reflexes in a minimalistic, competitive setting for casual players.\n\nKey Features\n\n• Flick-based aiming controls  \n• Progressive target speed levels  \n• Accuracy-driven scoring system  \n• Obstacle avoidance challenges  \n• Minimalist timing-focused gameplay"
+},
+{
+"id": "3374bcc89ea54aa6903e463f7c1d1752",
+"title": "Shooting Balls",
+"iframe": "https://html5.gamedistribution.com/3374bcc89ea54aa6903e463f7c1d1752/",
+"creator": "magnificstudios",
+"description": "Aim and shoot colored balls precisely to clear the board by matching clusters and prevent overflow. This game centers on strategic ball placement combined with timing to manage the shifting layout and avoid filling the screen. Players face escalating difficulty as new colors appear and must maintain control through rapid targeting and grouping tactics.\n\nKey Features\n\n• Color matching cluster mechanic  \n• Precision aiming controls  \n• Progressive difficulty waves  \n• Time pressure ball clearing  \n• Minimalist puzzle setting"
+},
+{
+"id": "612787264b1c4e1889d7a742aa0d1b9e",
+"title": "Shoot Blast",
+"iframe": "https://html5.gamedistribution.com/612787264b1c4e1889d7a742aa0d1b9e/",
+"creator": "SNSHUB",
+"description": "Shoot targets quickly using varied firearms in dynamic shooting arenas, relying on precision aiming and timing. Players progress by mastering different weapon types and adapting to increasing enemy speeds and patterns. The gameplay challenges reaction and accuracy, with levels introducing new shooting mechanics and scoring systems.\n\nKey Features\n\n• Diverse firearm handling mechanics  \n• Precision aiming controls  \n• Increasing enemy speed challenges  \n• Unlockable shooting arenas  \n• Score multiplier progression system"
+},
+{
+"id": "5ba1e960e5844d1782ef044fdcc65cb0",
+"title": "Shoot The Balloon",
+"iframe": "https://html5.gamedistribution.com/5ba1e960e5844d1782ef044fdcc65cb0/",
+"creator": "Fun Best Games",
+"description": "Pop balloons by aiming and timing precise shots in this casual shooting challenge, testing your reflexes and accuracy. The game uses simple click-based controls to pop colorful balloons rising at varying speeds and heights. Players aim to clear each level before time runs out, mastering balloon trajectories and shot timing to advance through increasing difficulty stages.\n\nKey Features\n\n• Precision aiming mechanic  \n• Click-to-shoot control system  \n• Timed level progression  \n• Balloon speed and size variation  \n• Casual arcade shooting style"
+},
+{
+"id": "b0679fdc670c4f0199685b411437ebd7",
+"title": "Shoot Your Nightmare: The Beginning",
+"iframe": "https://html5.gamedistribution.com/b0679fdc670c4f0199685b411437ebd7/",
+"creator": "danygames.com",
+"description": "Navigate through intense horror sequences by shooting spectral nightmares that pursue your character. Employ precise aiming mechanics to eliminate threats and advance through shadowy levels, balancing quick reflexes with cautious exploration. The game challenges players to survive eerie encounters while clearing waves of ghostly enemies, setting a tense atmosphere designed for younger and casual players alike.\n\nKey Features\n\n• Precision aiming combat system  \n• Dynamic enemy wave progression  \n• Responsive keyboard and mouse controls  \n• Survival-focused level design  \n• Atmospheric supernatural visuals"
+},
+{
+"id": "a595a2818fc549d6b3bb1d28088e9b69",
+"title": "Shooting Color",
+"iframe": "https://html5.gamedistribution.com/a595a2818fc549d6b3bb1d28088e9b69/",
+"creator": "YAD.Com",
+"description": "Shoot color-coded projectiles to clear dynamic matching puzzles in fast-paced levels. Players must chain combos by targeting clusters with precise timing to unlock new challenges. The game’s core mechanic revolves around strategic aiming and rapid color swapping to overcome increasingly complex patterns.\n\nKey Features\n\n• Color matching projectile system  \n• Responsive mouse aiming controls  \n• Progressive difficulty scaling  \n• Combo chain multiplier mechanic  \n• Vibrant arcade-style visuals"
+},
+{
+"id": "590d004ffe2b4a0c8515cd99829f5835",
+"title": "Xtreme Bottle Shoot",
+"iframe": "https://html5.gamedistribution.com/590d004ffe2b4a0c8515cd99829f5835/",
+"creator": "FG Studio",
+"description": "Shoot moving targets with precise timing and adjustable aim in this fast-paced bottle shooting challenge. Players rely on quick reflexes and controlled shooting mechanics to hit stacked glass bottles before they fall, progressing through increasingly difficult rounds with tighter time limits. The game blends classic carnival style shooting with skillful targeting for a casual-friendly experience.\n\nKey Features\n\n• Precision aiming and shooting controls  \n• Time-limited target elimination rounds  \n• Stacked bottle arrangement challenges  \n• Progressive difficulty levels  \n• Classic carnival shooting gallery ambiance"
+},
+{
+"id": "841d9624586745e4a02a955cc4631b65",
+"title": "Shoot The Watermelon",
+"iframe": "https://html5.gamedistribution.com/841d9624586745e4a02a955cc4631b65/",
+"creator": "FG Studio",
+"description": "Aim and shoot precise projectiles at moving watermelons using a timed firing mechanic to hit targets accurately. The game tests precision and timing in a simple shooting range setup, where players score points by breaking watermelons before they disappear. It challenges hand-eye coordination and quick reflexes in casual, arcade-style play.\n\nKey Features\n\n• Timed projectile shooting  \n• Precision aiming controls  \n• Increasing target speed challenge  \n• Score-based progression system  \n• Vibrant fruit target visuals"
+},
+{
+"id": "879d5b2507984ca0ae7520c1f823b852",
+"title": "Shoot or Die",
+"iframe": "https://html5.gamedistribution.com/879d5b2507984ca0ae7520c1f823b852/",
+"creator": "QkyGames",
+"description": "Take aim and fire rapidly to survive waves of relentless enemies in this fast-paced shooter experience. Players rely on precision aiming and quick reflexes to navigate dynamic combat scenarios while managing limited ammo and dodging incoming attacks. Each level ups the intensity with diverse enemy types and increasing challenges, pushing reaction skills to the limit.\n\nKey Features\n\n• Precision aiming mechanics  \n• Ammo management system  \n• Increasing enemy wave difficulty  \n• Reflex-based dodge controls  \n• Arcade-inspired shooting levels"
+},
+{
+"id": "0f985fc8d5f3443ba00d9f2d74401ee9",
+"title": "Shoot the Asteroids",
+"iframe": "https://html5.gamedistribution.com/0f985fc8d5f3443ba00d9f2d74401ee9/",
+"creator": "MarketJS",
+"description": "Shoot moving asteroids with a rotating turret in zero gravity, using precise angular controls to break apart the floating space rocks before they collide with your base. Players navigate asteroid fields while managing limited ammo to survive increasingly complex asteroid waves. High score tracking adds challenge to each session.\n\nKey Features\n\n• Turret rotation aiming mechanic  \n• Angular momentum projectile control  \n• Progressive asteroid wave difficulty  \n• Ammo conservation challenge system  \n• Space debris collision hazard"
+},
+{
+"id": "fcdab335d5274fb98d26a88536948bfc",
+"title": "Bottle Shooting Game",
+"iframe": "https://html5.gamedistribution.com/fcdab335d5274fb98d26a88536948bfc/",
+"creator": "gamesmunch.com",
+"description": "Aim and shoot at flying bottles using precise mouse control, testing your reflexes and accuracy in fast-paced rounds. You must clear each level by breaking all the bottles before time runs out. The game challenges players to quickly acquire targets with varying speeds and trajectories, making quick decision-making key for progression.\n\nKey Features\n\n• Precision aiming mechanics  \n• Mouse-driven shooting control  \n• Timed target clearance levels  \n• Increasing bottle flight speed  \n• Casual arcade shooting theme"
+},
+{
+"id": "9d38c203e3704c09a08dafb5ba7bd626",
+"title": "WW2 Tunnel Shooting",
+"iframe": "https://html5.gamedistribution.com/9d38c203e3704c09a08dafb5ba7bd626/",
+"creator": "FG Studio",
+"description": "Shoot enemies from a confined tunnel environment while managing limited ammunition and quick reflexes in this intense shooting challenge. Players target incoming threats using a scoped rifle, navigating narrow underground corridors as obstacles appear. The game tests accuracy and timing across escalating waves of enemies within the claustrophobic setting.\n\nKey Features\n\n• Scoped rifle aiming system  \n• Tunnel navigation with obstacles  \n• Ammo conservation mechanic  \n• Progressive enemy wave difficulty  \n• Underground wartime atmosphere"
+},
+{
+"id": "2d50e52824404f26be656df4c2d63b62",
+"title": "Shoot the Duck",
+"iframe": "https://html5.gamedistribution.com/2d50e52824404f26be656df4c2d63b62/",
+"creator": "Fun Best Games",
+"description": "Aim precisely with your crossbow to hit moving targets in a dynamic shooting range. The game challenges players to time their shots carefully, relying on arc-based projectile mechanics in a peaceful outdoor setting. Each successful hit improves accuracy and unlocks faster moving ducks, testing reflexes and precision under pressure.\n\nKey Features\n\n• Projectile arc aiming mechanic  \n• Timing-based shooting control  \n• Increasing target speed challenge  \n• Progressive difficulty stages  \n• Woodland hunting range setting"
+},
+{
+"id": "f87b5443b40a4221a475881eb9deef36",
+"title": "Shoot The Robbers",
+"iframe": "https://html5.gamedistribution.com/f87b5443b40a4221a475881eb9deef36/",
+"creator": "FTG",
+"description": "Shoot enemies using precision shooting mechanics to fend off robbers in fast-paced shooter encounters. Players rely on quick aiming and timing to prevent breaches, navigating through increasingly difficult levels with diverse enemy types. The game challenges players to improve their marksmanship under pressure, enhancing reaction speed and accuracy across escalating rounds.\n\nKey Features\n\n• Precision aiming and shooting  \n• Increasing enemy wave difficulty  \n• Reaction time scoring system  \n• Level progression with new challenges  \n• Urban crime shooter setting"
+},
+{
+"id": "f96c8a353db64e329150fa40b5d5a412",
+"title": "Counter Terrorist Shooting Strike",
+"iframe": "https://html5.gamedistribution.com/f96c8a353db64e329150fa40b5d5a412/",
+"creator": "gameworld",
+"description": "Engage in intense close-quarters shooting using precise aiming and quick reflexes to neutralize hostile threats. The game challenges players to master weapon handling and swift target acquisition within urban combat zones. Progress through escalating levels with varied enemy types demanding strategic positioning and rapid response.\n\nKey Features\n\n• Precision aiming and shooting mechanics  \n• Responsive player movement controls  \n• Increasing enemy difficulty tiers  \n• Level-based progression system  \n• Urban counter-terrorism setting"
+},
+{
+"id": "8381e0da5d0d4121bca91742c86018c1",
+"title": "Shoot Paint",
+"iframe": "https://html5.gamedistribution.com/8381e0da5d0d4121bca91742c86018c1/",
+"creator": "ConchGame",
+"description": "Shoot vibrant colors at dynamic moving targets using a precision aiming system. Players utilize a paint-shooting mechanic to cover surfaces while navigating obstacles, striving to complete challenging color-matching objectives. Progress unfolds through stages that introduce varied target patterns and timed shooting sequences for added intensity.\n\nKey Features\n\n• Precision paint-shooting mechanic  \n• Aiming and timing controls  \n• Progressive color targeting challenges  \n• Time-limited shooting stages  \n• Bright, colorful visual design"
+},
+{
+"id": "8c88dfe194c14c4499b6fc379164c42b",
+"title": "Carnival Balloon Shoot",
+"iframe": "https://html5.gamedistribution.com/8c88dfe194c14c4499b6fc379164c42b/",
+"creator": "Playschoolgames",
+"description": "Launch arrows to pop target balloons in a colorful carnival setting, aiming for precise shots that test timing and accuracy. Players control an aiming reticle with smooth cursor movement to hit moving clusters of balloons, progressing through increasingly challenging waves. Balloon patterns and speed variety demand steady focus and strategic shot placement to clear levels efficiently.\n\nKey Features\n\n• Precision aiming reticle control  \n• Dynamic balloon movement patterns  \n• Increasing wave difficulty progression  \n• Time-limited shooting rounds  \n• Bright carnival visual theme"
+},
+{
+"id": "ccfd188019034ea0a23b3ee9dfb2d348",
+"title": "Angry shooting Emoji",
+"iframe": "https://html5.gamedistribution.com/ccfd188019034ea0a23b3ee9dfb2d348/",
+"creator": "BestCrazyGames.com",
+"description": "Aim and shoot rapidly to clear waves of angry emoji targets using precise timing and fast reaction skills. This shooter challenges players to manage quick reloads and dodge retaliatory emoji attacks in vibrant, pop-art style arenas. Progression focuses on improving accuracy under pressure while unlocking new emoji enemy types and escalating difficulty rounds.\n\nKey Features\n\n• Rapid-fire emoji shooting  \n• Precision aiming controls  \n• Increasing enemy difficulty  \n• Time-based challenge rounds  \n• Colorful pop-art arena design"
+},
+{
+"id": "319ffbbc7bd84286bba7c615033994d0",
+"title": "AirShoot Wars",
+"iframe": "https://html5.gamedistribution.com/319ffbbc7bd84286bba7c615033994d0/",
+"creator": "BestCrazyGames.com",
+"description": "Pilot agile airships in fast-paced dogfights using precision shooting and strategic movement. Players rely on realtime aiming and dodging to outmaneuver waves of enemy crafts while progressing through escalating aerial battle zones. Survive increasingly challenging skirmishes by mastering weapon timing and positioning in this dynamic sky arena.\n\nKey Features\n\n• Real-time aiming and shooting  \n• Airship maneuver and dodge controls  \n• Progressive aerial battle zones  \n• Weapon cooldown and timing system  \n• Sky combat with enemy squadrons"
+},
+{
+"id": "830d79ee9b684c3cb15095967684cc7c",
+"title": "Shoot Your Nightmare Double Trouble",
+"iframe": "https://html5.gamedistribution.com/830d79ee9b684c3cb15095967684cc7c/",
+"creator": "kiz10.com",
+"description": "Shoot through waves of nightmare creatures using twin blasters in a fast-paced dual-shooting experience. Players manage independent weapon systems to tackle increasingly complex enemy patterns while navigating surreal dreamscapes. The goal is to survive relentless attacks while mastering simultaneous aiming and shooting mechanics under pressure.\n\nKey Features\n\n• Dual weapon aiming system  \n• Independent trigger controls  \n• Pattern-based enemy waves  \n• Progressive difficulty scaling  \n• Surreal nightmare environment"
+},
+{
+"id": "eda8eac1c54e4e3ab3ed8b73bc24aec0",
+"title": "Vox Shooting",
+"iframe": "https://html5.gamedistribution.com/eda8eac1c54e4e3ab3ed8b73bc24aec0/",
+"creator": "Jake & M3nto",
+"description": "Engage in fast-paced voxel gunplay where players navigate blocky arenas using precise aiming and quick shooting mechanics. The game emphasizes reflex-based combat with a variety of weapon types to master while progressing through escalating enemy waves. Strategic positioning and continuous target switching challenge players to survive and rack up high scores in its pixelated battleground.\n\nKey Features\n\n• Voxel-based shooting mechanics  \n• Precision aiming controls  \n• Progressive enemy wave system  \n• Score multiplier challenge  \n• Pixel art combat arenas"
+},
+{
+"id": "28366a4da4004c58bf5a2147c77bb1fe",
+"title": "Shoot the Turtle",
+"iframe": "https://html5.gamedistribution.com/28366a4da4004c58bf5a2147c77bb1fe/",
+"creator": "kiz10.com",
+"description": "Shoot precise shots using a bow and arrow to hit moving turtles across varied platforms. Players must adjust aim and timing to account for changing turtle speeds and flight paths. Each level increases complexity by introducing obstacles and faster targets, challenging reflexes and precision. Unique projectile physics and target movement keep players engaged in progressive aiming challenges.\n\nKey Features\n\n• Bow aiming and shooting mechanics  \n• Timing-based target hitting controls  \n• Increasing turtle speed difficulty  \n• Obstacle avoidance for shots  \n• Animated wildlife setting"
+},
+{
+"id": "15a775ecda7949b6a48d0ef21f4230f7",
+"title": "Robot Shooting",
+"iframe": "https://html5.gamedistribution.com/15a775ecda7949b6a48d0ef21f4230f7/",
+"creator": "JZJO.COM",
+"description": "Shoot down waves of robotic enemies using precise aiming mechanics in a pixelated arena setting. Players control a stationary turret, managing cooldowns and ammo to clear escalating robot squads. Progression involves mastering timing and weapon upgrades to withstand faster and more durable bots. Survival depends on strategic targeting and resource management throughout increasing challenge levels.\n\nKey Features\n\n• Turret aiming and shooting controls  \n• Ammo cooldown and reload management  \n• Progressive robot wave difficulty  \n• Weapon upgrade and customization system  \n• Retro pixel art arena environment"
+},
+{
+"id": "00b0adde8bb843f798933320817abd42",
+"title": "Shoot the Guy",
+"iframe": "https://html5.gamedistribution.com/00b0adde8bb843f798933320817abd42/",
+"creator": "GameOnHai",
+"description": "Shoot targets precisely using a crosshair aiming system in fast-paced shooting encounters. Players manage limited ammo to take down movement-based enemies across progressively challenging stages. Timing and accuracy shape each attempt while unlocking new shooting arenas adds varied environments to the mix.\n\nKey Features\n\n• Crosshair aiming mechanic  \n• Limited ammunition resource  \n• Sequential enemy wave challenges  \n• Stage unlocking progression  \n• Dynamic shooting arena settings"
+},
+{
+"id": "8b12bd26f641407eae979163844b711c",
+"title": "Clock Shoot Game",
+"iframe": "https://html5.gamedistribution.com/8b12bd26f641407eae979163844b711c/",
+"creator": "Instant Games Studio",
+"description": "Control precise shots with timed clicks to hit moving clock hands in a challenging accuracy test. Players engage a unique timing mechanic that requires splitting seconds perfectly as clock faces rotate, aiming to clear levels by hitting all targets quickly. The game encourages steady reflexes while advancing through increasingly complex clock designs.\n\nKey Features\n\n• Timing-based shooting mechanic  \n• Click control for precise aiming  \n• Progressive difficulty with clock rotations  \n• Score tracking for accuracy performance  \n• Minimalist clock-themed visual style"
+},
+{
+"id": "48757437abac40df930a05343e1c747c",
+"title": "Shooting Stars",
+"iframe": "https://html5.gamedistribution.com/48757437abac40df930a05343e1c747c/",
+"creator": "BestCrazyGames.com",
+"description": "Guide constellations with precise timing to navigate through dynamic shooting patterns in this arcade style space challenge. Players must master directional aiming and rapid reflex shooting to hit target clusters while avoiding hazards. Progression introduces increasingly complex star formations that test accuracy and pattern recognition, set against a cosmic backdrop.\n\nKey Features\n\n• Directional aiming shooting mechanic  \n• Reflex based target engagement  \n• Progressive star pattern complexity  \n• Score multiplier chain system  \n• Space themed visual elements"
+},
+{
+"id": "d7c335e00e914a4d8e74b98f8150805a",
+"title": "Crazy Shooting King",
+"iframe": "https://html5.gamedistribution.com/d7c335e00e914a4d8e74b98f8150805a/",
+"creator": "YAD.Com",
+"description": "Shoot rapidly with precision timing to rack up points in a fast-paced arcade challenge. Utilize a varied weapon system that tests reflexes and accuracy across dynamic stages. Players navigate intense shooting sequences aiming to clear targets efficiently and climb leaderboards in escalating difficulty modes.\n\nKey Features\n\n• Precision based shooting mechanic  \n• Rapid fire control scheme  \n• Increasing target complexity levels  \n• Score multiplier challenge system  \n• Vibrant arcade shooting theme"
+},
+{
+"id": "b40218dada2b4ecc93ecb991af1af1fd",
+"title": "Shoot Em Up",
+"iframe": "https://html5.gamedistribution.com/b40218dada2b4ecc93ecb991af1af1fd/",
+"creator": "Good Funny Game",
+"description": "Control a variety of ships in fast-paced aerial battles, dodging enemy fire with responsive movement controls. Utilize precise shooting mechanics to defeat waves of alien attackers while progressing through increasingly difficult levels. Power-ups and weapon upgrades appear to enhance firepower and survivability in this classic space combat setting.\n\nKey Features\n\n• Responsive multidirectional shooting  \n• Dynamic enemy wave patterns  \n• Upgrade-based weapon system  \n• Level progression with increasing difficulty  \n• Sci-fi space combat environment"
+},
+{
+"id": "c0d5f27e6fc542999719f4a964d2a173",
+"title": "Crazy Shoot",
+"iframe": "https://html5.gamedistribution.com/c0d5f27e6fc542999719f4a964d2a173/",
+"creator": "FG Studio",
+"description": "Control rapid firing weapons to hit moving targets with precise timing in this arcade-style shooting challenge. Players need quick reflexes and steady aim to clear waves of dynamic enemy shapes, progressing through increasingly difficult stages. The game emphasizes fast-paced shooting mechanics in a minimalist setting where the goal is high score and survival. \n\nKey Features\n\n• Precision timing shooting mechanic  \n• Dynamic moving target patterns  \n• Progressive wave difficulty system  \n• Rapid fire control scheme  \n• Minimalist arcade visual style"
+},
+{
+"id": "42e616f222564dfe985876ba5521eb77",
+"title": "Shape Shoot",
+"iframe": "https://html5.gamedistribution.com/42e616f222564dfe985876ba5521eb77/",
+"creator": "Oscar Intermed",
+"description": "Shoot and eliminate geometric shapes sprouting from multiple directions using precise aiming and quick reflexes. Players control a cursor to target various polygonal enemies, balancing timing and accuracy as shapes progressively speed up and appear in waves. Clearing each stage rewards score bonuses and increases difficulty, pushing players to sharpen their shooting efficiency and reaction speed.\n\nKey Features\n\n• Mouse-controlled aiming system  \n• Progressive wave difficulty scaling  \n• Polygonal enemy spawn patterns  \n• Precision shooting timing challenge  \n• Minimalistic geometric visual style"
+},
+{
+"id": "a42e76b779a94e49b78d419d8096a8d4",
+"title": "Shoot Up",
+"iframe": "https://html5.gamedistribution.com/a42e76b779a94e49b78d419d8096a8d4/",
+"creator": "Bnagames",
+"description": "Control a fast-paced shooter navigating dynamic arenas using diverse weaponry and precise aiming to defeat waves of enemies and improve your combat skills. Players engage in increasingly difficult levels where quick reflexes and strategic shooting are vital to advancing through stages with unique enemy types and scoring systems.\n\nKey Features\n\n• Precision aiming and shooting  \n• Wave-based enemy progression  \n• Responsive movement controls  \n• Incremental difficulty scaling  \n• Varied weapon upgrade paths"
+},
+{
+"id": "43eb7aefb2df420891322738ff48575f",
+"title": "Chicken and Crow Shoot",
+"iframe": "https://html5.gamedistribution.com/43eb7aefb2df420891322738ff48575f/",
+"creator": "igroutka.ru",
+"description": "Shoot moving targets using precision aiming and timing in a casual shooting setup. Players engage with fast-moving chickens and crows that appear across varied backgrounds, aiming to hit as many as possible before time runs out. Timing shots and quick reflexes define success as the challenge escalates through waves of winged targets.\n\nKey Features\n\n• Precision aiming mechanic  \n• Timed shooting challenges  \n• Increasing target speed  \n• Wave-based progression system  \n• Farmyard bird target theme"
+},
+{
+"id": "b22feeb7a90b434ebf84bd7f9a73cb9c",
+"title": "Watermelon Shooting",
+"iframe": "https://html5.gamedistribution.com/b22feeb7a90b434ebf84bd7f9a73cb9c/",
+"creator": "igroutka.ru",
+"description": "Shoot juicy watermelons with precise aim in this arcade style game that challenges your reflexes and accuracy. Players control a slingshot mechanism to launch projectiles at moving targets, testing timing and target prediction. Levels increase in speed and complexity, adding dynamic obstacles and scoring bonuses for streaks. The vibrant fruit-themed setting keeps gameplay visually refreshing and fast-paced.\n\nKey Features\n\n• Slingshot projectile control  \n• Timing-based target shooting  \n• Progressive speed increase  \n• Combo score multiplier system  \n• Colorful fruit target designs"
+},
+{
+"id": "078414c3e1494c439ec0b8f12d3e0dac",
+"title": "Bull Shooting",
+"iframe": "https://html5.gamedistribution.com/078414c3e1494c439ec0b8f12d3e0dac/",
+"creator": "igroutka.ru",
+"description": "Shoot targets using precision aiming mechanics in a dynamic shooting range setting where timing and accuracy are crucial. Players focus on controlling a gun’s aim to hit moving bull targets that appear abruptly, testing reflexes and precision under pressure. Progression includes increasingly difficult target patterns and speed variations that challenge aiming skills.\n\nKey Features\n\n• Precision aiming control system  \n• Moving bull target patterns  \n• Timed shooting challenges  \n• Progressive difficulty stages  \n• Reactive aiming physics"
+},
+{
+"id": "9cdf32ae78764ed88f773c33c240d2a0",
+"title": "Bottle Shooting",
+"iframe": "https://html5.gamedistribution.com/9cdf32ae78764ed88f773c33c240d2a0/",
+"creator": "JulGames",
+"description": "Aim precisely to knock down moving bottles arranged in dynamic shooting galleries. Players engage a timing-based shooting mechanic that tests reflex speed and accuracy across multiple progressively challenging stages. The game captures a casual target-shooting ambiance where clearing all the bottles unlocks new scenarios and scoring opportunities.\n\nKey Features\n\n• Precision aiming and shooting  \n• Timing-based target sequences  \n• Increasing difficulty levels  \n• Score multiplier system  \n• Casual carnival-style setting"
+},
+{
+"id": "4cca1516f30c476b8b0295a743b90934",
+"title": "Agent Shooting",
+"iframe": "https://html5.gamedistribution.com/4cca1516f30c476b8b0295a743b90934/",
+"creator": "fugames",
+"description": "Engage targets using precise aim and quick reflexes in this straightforward shooting challenge. Players rely on tactical cover usage and timed shots to eliminate waves of hostile agents. The gameplay emphasizes careful trigger control and spatial awareness to progress through increasingly difficult enemy encounters. Mastery of stealth and shooting mechanics is key to advancing stages and maintaining high scores.\n\nKey Features\n\n• Precision aiming mechanic  \n• Cover based movement system  \n• Escalating enemy wave difficulty  \n• Time limited shooting challenges  \n• Urban espionage backdrop"
+},
+{
+"id": "1b49b80db73e4805b29340ac7a660c5b",
+"title": "Watermelon Shooting 3D",
+"iframe": "https://html5.gamedistribution.com/1b49b80db73e4805b29340ac7a660c5b/",
+"creator": "8Games.Net",
+"description": "Shoot watermelons with precise 3D aiming mechanics to hit moving targets across varied distances. Players use a realistic projectile trajectory system to time shots carefully, challenging their accuracy and reaction under evolving level conditions. The game features a colorful setting that emphasizes sharp reflexes and spatial judgment.\n\nKey Features\n\n• 3D projectile trajectory aiming  \n• Precision timing challenges  \n• Progressive target speed increase  \n• Multiple level stages  \n• Vibrant fruit shooting theme"
+},
+{
+"id": "ca7341ab70ca44bd88bf447431e0c7ea",
+"title": "Classic Chicken Shooting",
+"iframe": "https://html5.gamedistribution.com/ca7341ab70ca44bd88bf447431e0c7ea/",
+"creator": "igroutka.ru",
+"description": "Aim and shoot rapidly at flying targets using precision timing and simple mouse controls in a rural farm setting. Players challenge their reflexes by targeting agile chickens that move unpredictably across the screen, testing accuracy and speed. Levels progressively introduce faster and more erratic birds, requiring quick adjustments to shooting rhythm.\n\nKey Features\n\n• Mouse-driven aiming mechanic  \n• Timed target shooting challenge  \n• Increasing bird speed difficulty  \n• Scoring based on accuracy  \n• Rustic farm backdrop"
+},
+{
+"id": "5ec260fb15084657967e9f0cde60b03d",
+"title": "Bootle Target Shooting 3D",
+"iframe": "https://html5.gamedistribution.com/5ec260fb15084657967e9f0cde60b03d/",
+"creator": "igroutka.ru",
+"description": "Aim and fire at floating bottles using precise 3D targeting mechanics to knock them down before time runs out. Players utilize steady mouse or touch controls to adjust their shots, tackling increasingly challenging bottle arrangements. The game rewards accuracy and timing through a progressive scoring system tied to rapid target elimination. Visual focus remains on crisp shooting interaction with glass bottle sets in a casual arcade style.\n\nKey Features\n\n• Precision 3D aiming controls  \n• Timed bottle knockdown challenges  \n• Progressive scoring based on accuracy  \n• Increasing target complexity levels  \n• Glass bottle arcade shooting theme"
+},
+{
+"id": "e6db90c6086041b9bf2ed31afe4a0e9f",
+"title": "Shoot The Words",
+"iframe": "https://html5.gamedistribution.com/e6db90c6086041b9bf2ed31afe4a0e9f/",
+"creator": "FG Studio",
+"description": "Shoot words rapidly before they vanish in timed typing sequences that demand precision and speed. Players engage with a word shooting mechanic where spelling accuracy clears advancing word targets. The challenge grows as word length and complexity increase, testing quick reflexes and vocabulary skills in a fast-paced setting.\n\nKey Features\n\n• Dynamic word shooting gameplay  \n• Real-time typing control  \n• Increasing difficulty levels  \n• Time-limited scoring rounds  \n• Vocabulary-based target system"
+},
+{
+"id": "d613f889b7ff46da84c88bcca8cc7dff",
+"title": "EG Shoot Robbers",
+"iframe": "https://html5.gamedistribution.com/d613f889b7ff46da84c88bcca8cc7dff/",
+"creator": "EcapsGames.com",
+"description": "Engage in tactical shooting sequences where precision aiming governs success against waves of robbers. The gameplay centers on quick reflex shooting with a focus on accurate target elimination in dynamic urban settings. Players must clear each level by neutralizing hostile robbers to restore order. Progression likely involves escalating enemy difficulty and weapon upgrades.\n\nKey Features\n\n• Precision aiming shooting mechanic  \n• Quick reflex target engagement  \n• Increasing enemy wave challenges  \n• Weapon upgrade system  \n• Urban crime scenario environment"
+},
+{
+"id": "55f0e8f672f94153b7fe028b639da46b",
+"title": "Hit Targets Shooting 2",
+"iframe": "https://html5.gamedistribution.com/55f0e8f672f94153b7fe028b639da46b/",
+"creator": "Webgameapp",
+"description": "Aim precisely as you shoot at moving and static targets to complete each level challenge. The game focuses on rapid target acquisition and timing, demanding sharp reflexes across varied shooting scenarios. Players progress by improving accuracy and speed, unlocking stages with progressively difficult target patterns and scoring goals.\n\nKey Features\n\n• Precision aiming control system  \n• Progressive target difficulty scaling  \n• Level-based shooting challenges  \n• Time-limited scoring rounds  \n• Casual arcade shooting style"
+},
+{
+"id": "0e38e52d77954f599e29741e49945606",
+"title": "Hit Targets Shooting",
+"iframe": "https://html5.gamedistribution.com/0e38e52d77954f599e29741e49945606/",
+"creator": "Webgameapp",
+"description": "Aim and shoot rapidly using precision targeting mechanics to hit moving and static objects in timed challenge stages. Players rely on sharp reflexes and controlled aiming, facing a variety of target patterns that require quick adjustments. The game emphasizes accuracy and speed improvement through level progression, making each round more complex than the last.\n\nKey Features\n\n• Precision aiming control system  \n• Timed target shooting challenges  \n• Increasing difficulty level tiers  \n• Reflex-based scoring system  \n• Varied stationary and moving targets"
+},
+{
+"id": "2d46c846afb54c9e80ea951fd515b759",
+"title": "Shoot Balls",
+"iframe": "https://html5.gamedistribution.com/2d46c846afb54c9e80ea951fd515b759/",
+"creator": "Webgameapp",
+"description": "Shoot precise shots to clear colorful spheres from a dynamic board by matching and eliminating groups using a ball-launching mechanic. Players advance through increasingly complex patterns requiring accuracy and timing to avoid overwhelming clusters. The game challenges spatial reasoning with projectile targeting combined with level-based progression that ramps up difficulty gradually.\n\nKey Features\n\n• Projectile targeting with ball physics  \n• Tap and drag shooting control  \n• Increasing maze-like sphere patterns  \n• Level progression with score thresholds  \n• Vivid color matching mechanics"
+},
+{
+"id": "9485cbd9030546d4bc6c12ca8a077bd3",
+"title": "Crazy Shoot Factory 2",
+"iframe": "https://html5.gamedistribution.com/9485cbd9030546d4bc6c12ca8a077bd3/",
+"creator": "Hack TheREALITY",
+"description": "Aim and fire precise shots using a variety of crazy weapon contraptions in this fast-paced shooting challenge. Players navigate through dynamic factory environments, mastering unique gun mechanics to hit moving targets and overcome timed shooting stages. The goal is to sharpen accuracy while dealing with unpredictable target patterns and escalating difficulty.\n\nKey Features\n\n• Diverse weapon contraption mechanics  \n• Precision aiming and shooting controls  \n• Timed level progression system  \n• Moving target challenge stages  \n• Industrial factory setting elements"
+},
+{
+"id": "9dcfea41c2714c04ba2a45638c2bc3c7",
+"title": "Crazy Shoot Factory",
+"iframe": "https://html5.gamedistribution.com/9dcfea41c2714c04ba2a45638c2bc3c7/",
+"creator": "Hack TheREALITY",
+"description": "Control rapid-fire cannons to dismantle waves of mechanical targets using precise shooting mechanics. Progress through factory-themed levels that challenge your timing and aim as you manage chaotic turret placements. The goal is to clear each stage by destroying all hostile devices before they overwhelm your defenses.\n\nKey Features\n\n• Precision shooting with turret control  \n• Progressive factory environment levels  \n• Increasing enemy complexity  \n• Time-based stage challenges  \n• Mechanical target AI patterns"
+},
+{
+"id": "623caf879993474a9c1c7bf47a4ce5cf",
+"title": "Shoot Robbers",
+"iframe": "https://html5.gamedistribution.com/623caf879993474a9c1c7bf47a4ce5cf/",
+"creator": "YAKPI",
+"description": "Shoot targeted enemies using precise aiming and timing in this action shooter. Players rely on a ranged weapon mechanic to neutralize robbers before they escape, advancing through increasingly challenging scenarios that test reflexes and accuracy. The game focuses on quick decision-making amid dynamic threats for casual players.\n\nKey Features\n\n• Ranged weapon aiming system  \n• Timed enemy neutralization  \n• Progressive challenge levels  \n• Quick reaction targeting  \n• Urban crime setting"
+},
+{
+"id": "6bfcda2bac0b42918b7a74075ecad212",
+"title": "Shoot or Die Western Duel",
+"iframe": "https://html5.gamedistribution.com/6bfcda2bac0b42918b7a74075ecad212/",
+"creator": "Playtouch",
+"description": "Engage in tense quick-draw shootouts where players rely on precise timing to outdraw their opponents in a classic western setting. The game challenges reflexes through a duel system that tests reaction speed and accuracy, while progressing through increasingly difficult AI gunmen. Players must manage their shots carefully to claim victory in each standoff.\n\nKey Features\n\n• Reaction-timed gunfire mechanic  \n• Precision aiming controls  \n• Progressive AI opponent difficulty  \n• Duel countdown timer system  \n• Old west dueling atmosphere"
+},
+{
+"id": "e81d132c4e8045ebb0a4ee97e409dd1f",
+"title": "Shoot The Box",
+"iframe": "https://html5.gamedistribution.com/e81d132c4e8045ebb0a4ee97e409dd1f/",
+"creator": "T",
+"description": "Launch precise shots to strategically break stacked crates and clear the board in this physics-based aiming challenge. Players adjust trajectories and timing to collapse boxes while managing limited ammo, advancing through levels that increase in complexity and require sharper shot accuracy.\n\nKey Features\n\n• Trajectory-based shooting mechanics  \n• Limited ammunition management  \n• Progressive level difficulty scaling  \n• Score tracking with star ratings  \n• Stacked box destruction physics"
+},
+{
+"id": "2102b4086cd643da8ee66909803a5c01",
+"title": "Duck Carnival Shoot",
+"iframe": "https://html5.gamedistribution.com/2102b4086cd643da8ee66909803a5c01/",
+"creator": "MarketJS",
+"description": "Shoot mechanical ducks across carnival-themed shooting galleries using precision aiming mechanics that test reflexes and timing. Players target moving ducks propelled along varied tracks, aiming to hit as many as possible to advance through increasingly difficult stages. The challenge lies in mastering rapid aiming adjustments while managing limited ammo to maximize scores and progression.\n\nKey Features\n\n• Precision aiming and shooting  \n• Moving target trajectory patterns  \n• Ammo management system  \n• Increasing stage difficulty levels  \n• Carnival shooting gallery setting"
+},
+{
+"id": "ef68f4f0815a4bfaabb0e43402fdee6a",
+"title": "Shoot Up!",
+"iframe": "https://html5.gamedistribution.com/ef68f4f0815a4bfaabb0e43402fdee6a/",
+"creator": "Plonga.com",
+"description": "Shoot waves of enemies using rapid-fire projectile weapons in fast-paced action sequences. Players navigate a variety of combat arenas, utilizing precise aiming mechanics to clear stages. The game features unique enemy attack patterns that require quick reflexes and adaptive shooting strategies to survive and advance through increasingly difficult levels.\n\nKey Features\n\n• Precision aiming and shooting  \n• Fast-paced enemy waves  \n• Diverse combat arenas  \n• Progressive difficulty scaling  \n• Reactive enemy attack patterns"
+},
+{
+"id": "cda5b68dd78444f8a6707ada1d70121e",
+"title": "Bottle Shoot",
+"iframe": "https://html5.gamedistribution.com/cda5b68dd78444f8a6707ada1d70121e/",
+"creator": "QkyGames",
+"description": "Aim precisely to knock down rows of glass bottles using a timed shooting mechanic that tests speed and accuracy. Each level challenges players to clear bottle arrangements with limited shots while managing recoil and aiming stability. Progression introduces varied bottle types and tighter time constraints for added difficulty.\n\nKey Features\n\n• Precision aiming and shooting  \n• Recoil control mechanic  \n• Increasingly complex bottle setups  \n• Time-limited shooting rounds  \n• Casual arcade-style targets"
+},
+{
+"id": "9d4b95c1fdd546949e72db44adb86c30",
+"title": "Shooting at Buddies",
+"iframe": "https://html5.gamedistribution.com/9d4b95c1fdd546949e72db44adb86c30/",
+"creator": "DAB3Games",
+"description": "Launch precise shots against multiple targets in a fast-paced shooting environment that sharpens aim and timing. Utilizing mouse-controlled aiming and quick reflexes, players face varied moving targets with increasing speed and complexity for higher scores. Levels advance with tighter accuracy demands, encouraging skill improvement across casual gameplay sessions.\n\nKey Features\n\n• Mouse-driven aiming mechanics  \n• Progressive target speed scaling  \n• Time-based accuracy challenges  \n• Score multiplier combos system  \n• Minimalist shooting gallery setting"
+},
+{
+"id": "0116a514e0574482bcfa6e9e514fdb6e",
+"title": "Fruit Shoot Boom",
+"iframe": "https://html5.gamedistribution.com/0116a514e0574482bcfa6e9e514fdb6e/",
+"creator": "Dob5 Games",
+"description": "Aim and shoot bursting projectiles to slice waves of colorful fruits flying across dynamic stages. Utilizing timed projectile launches as the core mechanic, players must clear targets efficiently while mastering trajectory and timing. Levels increase in speed and variety, testing precision and reaction in a vivid fruit-themed environment.\n\nKey Features\n\n• Projectile aiming and timing  \n• Fruit slicing target mechanics  \n• Increasing stage difficulty  \n• Score multiplier progression  \n• Colorful arcade visual style"
+},
+{
+"id": "48321e37acbd41b4930284dd627c9ab2",
+"title": "Cyber Shooting",
+"iframe": "https://html5.gamedistribution.com/48321e37acbd41b4930284dd627c9ab2/",
+"creator": "New Kids Games",
+"description": "Navigate fast-paced combat scenarios using precision aiming and reaction-based shooting in this arcade-style game. Players must eliminate waves of digital drones while managing reload times and movement to survive increasingly difficult levels. Tactics focus on sharp reflexes and adapting to enemy attack patterns in futuristic arenas designed for skill progression.\n\nKey Features\n\n• Precision aiming shoot mechanics  \n• Reactive enemy wave patterns  \n• Reload timing management  \n• Progressive difficulty tiers  \n• Neon cyber arena environments"
+},
+{
+"id": "b998de8700924c469b6b86ac1de16ec3",
+"title": "Shooting Heads",
+"iframe": "https://html5.gamedistribution.com/b998de8700924c469b6b86ac1de16ec3/",
+"creator": "WI Games",
+"description": "Aim carefully to eliminate moving targets by shooting precise headshots, navigating fast-paced challenges in each stage. This game tests accuracy with timed sequences and limited ammo, requiring quick reflexes to clear enemies efficiently. Progress through increasingly difficult rounds to sharpen sharpshooting skills while managing limited weapon resources.\n\nKey Features\n\n• Precision shooting with headshot focus  \n• Timed target elimination rounds  \n• Limited ammo resource management  \n• Increasing difficulty progression system  \n• Visual cues for target identification"
+},
+{
+"id": "59a47721876344f386d546a2c26a9e42",
+"title": "Shoot Run Monster Hunting",
+"iframe": "https://html5.gamedistribution.com/59a47721876344f386d546a2c26a9e42/",
+"creator": "bestgames.com",
+"description": "Navigate fast-paced levels while shooting waves of monstrous creatures in this browser game. Players rely on precise aiming using a variety of firearms to survive relentless enemy attacks. The game challenges reflexes across escalating stages filled with aggressive monster types, combining running and shooting mechanics for continuous action.\n\nKey Features\n\n• Dual-stick shooter controls  \n• Diverse monster enemy waves  \n• Progressive stage difficulty  \n• Weapon upgrade system  \n• Urban nightscape setting"
+},
+{
+"id": "51ed7f3acb9f4483bd3fbc259995adc6",
+"title": "Shoot & Bounce",
+"iframe": "https://html5.gamedistribution.com/51ed7f3acb9f4483bd3fbc259995adc6/",
+"creator": "Momo Games",
+"description": "Launch precise shots and exploit rebound trajectories to clear dynamic targets in this physics-based puzzle challenge. Players must master angle control and timing to navigate increasingly complex levels filled with reflective surfaces. Each stage tests spatial awareness and strategic shot planning to achieve maximum clearance while optimizing bounce pathways.\n\nKey Features\n\n• Angle-based shooting mechanic  \n• Precision timing controls  \n• Progressive level complexity  \n• Reflective surface puzzles  \n• Physics-driven projectile behavior"
+},
+{
+"id": "e8d9a0d0fa4e47cfa4d721692da1935b",
+"title": "Shoot And Run",
+"iframe": "https://html5.gamedistribution.com/e8d9a0d0fa4e47cfa4d721692da1935b/",
+"creator": "YAD.Com",
+"description": "Shoot and dodge through fast-paced levels while making split-second shots in this action-driven platformer. Utilize precise timing and quick reflexes to overcome enemy patterns and environmental hazards. The game challenges players to balance rapid movement with accurate aiming as they advance through increasingly difficult stages.\n\nKey Features\n\n• Precision shooting mechanics  \n• Responsive platform movement  \n• Enemy wave progression  \n• Time-based scoring system  \n• Urban obstacle environments"
+},
+{
+"id": "f0a5ee1aaf7849baa02f0a97f11643b3",
+"title": "Blocky Shooting Arena 3D Pixel Combat",
+"iframe": "https://html5.gamedistribution.com/f0a5ee1aaf7849baa02f0a97f11643b3/",
+"creator": "BestCrazyGames.com",
+"description": "Engage in fast-paced pixel gunfights across dynamic 3D arenas, using precise aiming and quick reflexes to outshoot opponents. Navigate blocky environments that encourage tactical movement and cover utilization. Survive waves of pixelated enemies or face off against other players in intense combat challenges designed to test your shooting accuracy and agility.\n\nKey Features\n\n• pixel-based shooting mechanics  \n• dynamic arena movement controls  \n• escalating enemy wave challenges  \n• player versus player combat mode  \n• stylized low-poly pixel graphics"
+},
+{
+"id": "483afadadbf943c8b2ec7d4594da012b",
+"title": "Shooting Zombie fps Xtreme Good vs Bad Boys",
+"iframe": "https://html5.gamedistribution.com/483afadadbf943c8b2ec7d4594da012b/",
+"creator": "BestCrazyGames.com",
+"description": "Shoot through waves of enemies using precise firearm handling in this intense first-person shooter. Players engage in fast-paced combat against distinct factions of good and bad boys, leveraging weapon aiming mechanics and reaction time to survive. Progression unfolds across urban battle zones, challenging players to adapt and clear increasingly tough enemy groups.\n\nKey Features\n\n• Precision aiming gunplay  \n• First-person shooter controls  \n• Progressive enemy wave difficulty  \n• Urban combat environment  \n• Faction-based adversary variety"
+},
+{
+"id": "2a9c6a25adbb425faa2aeeb994422735",
+"title": "Shoot the Zombie",
+"iframe": "https://html5.gamedistribution.com/2a9c6a25adbb425faa2aeeb994422735/",
+"creator": "KidsGames4All",
+"description": "Shoot waves of zombies using precise aiming and timed shooting mechanics to survive endless enemy hordes. Players rely on different firearm types and reload strategies in a dark post-apocalyptic setting while clearing successive levels. Survival depends on quick reflexes and strategic target prioritization.\n\nKey Features\n\n• Precision shooting controls  \n• Diverse firearm mechanics  \n• Increasing enemy wave difficulty  \n• Reload timing and ammo management  \n• Dark post-apocalyptic atmosphere"
+},
+{
 "id": "2d12e019394b41b4b46a49220b32bcfc",
 "title": "Wild animal hunting",
 "iframe": "https://html5.gamedistribution.com/2d12e019394b41b4b46a49220b32bcfc/",
@@ -573,13 +1329,6 @@
 "iframe": "https://html5.gamedistribution.com/1ed322af998c49f49a23b5788fe48ec6/",
 "creator": "SDV Imants Klava",
 "description": "Navigate fast-paced shooting arenas using precise aiming and rapid-fire mechanics to survive waves of enemy combatants. Engage in dynamic gunplay where reaction speed and positioning dominate the challenge, while progressing through increasingly difficult levels packed with diverse foes to defeat. The game emphasizes quick reflexes and strategic shooting in a high-intensity environment designed for casual players.\n\nKey Features\n\n• Rapid-fire aiming system  \n• Responsive movement controls  \n• Progressive enemy wave escalation  \n• Time-limited survival mode  \n• Urban combat arena setting"
-},
-{
-"id": "8ea22ffce8ca4977998fae49af2dcced",
-"title": "Basket Cannon",
-"iframe": "https://html5.gamedistribution.com/8ea22ffce8ca4977998fae49af2dcced/",
-"creator": "RHM Interactive",
-"description": "Launch basketballs with precision aiming to score hoops under timed conditions in this physics-based shooting challenge. Players control a cannon that adjusts angle and power, requiring skillful targeting through increasingly complex shot sequences. The game features multiple rounds where players must clear scores to progress and unlock new levels with varied basket placements.\n\nKey Features\n\n• Precision aiming cannon controls  \n• Adjustable shot power system  \n• Increasing difficulty rounds  \n• Score-based progression unlocking  \n• Basketball hoop positioning variation"
 },
 {
 "id": "f4833b75d03641d1815d201fd12ecf64",
