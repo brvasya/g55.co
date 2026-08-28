@@ -84,6 +84,7 @@ spaceship=adventure
 starship=adventure
 dungeon=adventure
 dungeons=adventure
+adventures=adventure
 
 #arcade
 ball=arcade
@@ -139,6 +140,12 @@ spiral=arcade
 stair=arcade
 stairs=arcade
 lava=arcade
+swing=arcade
+climbing=arcade
+climber=arcade
+avoid=arcade
+dodge=arcade
+jetpack=arcade
 
 #board
 backgammon=board
@@ -169,6 +176,7 @@ poker=card
 rummy=card
 uno=card
 spades=card
+cards=card
 
 #clicker
 idle=clicker
@@ -223,6 +231,13 @@ traffic=driving
 transport=driving
 transporter=driving
 highway=driving
+driver=driving
+drive=driving
+stunts=driving
+drifting=driving
+derby=driving
+demolition=driving
+kart=driving
 
 #puzzle
 2048=puzzle
@@ -325,6 +340,9 @@ flows=puzzle
 line=puzzle
 pipe=puzzle
 shapes=puzzle
+puzzles=puzzle
+jewels=puzzle
+candies=puzzle
 
 #quiz
 math=quiz
@@ -376,6 +394,10 @@ aim=shooter
 aimer=shooter
 arrow=shooter
 arrows=shooter
+shoot=shooter
+shooting=shooter
+shooters=shooter
+guns=shooter
 
 #simulator
 cooking=simulator
@@ -483,6 +505,12 @@ volleyball=sports
 baseball=sports
 goal=sports
 hoop=sports
+basket=sports
+skating=sports
+skater=sports
+skates=sports
+darts=sports
+billiards=sports
 
 #strategy
 defense=strategy
@@ -514,3 +542,5 @@ typing=word
 wordmeister=word
 wordscapes=word
 wordy=word
+words=word
+letters=word
