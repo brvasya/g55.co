@@ -28,10 +28,7 @@ echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
 foreach ($pages as $p) {
   $loc = $base . "/game.php?id=" . q($p['id']);
 
-  echo "  <url>\n";
-  echo "    <loc>" . xml_e($loc) . "</loc>\n";
-  echo "    <lastmod>" . xml_e($today) . "</lastmod>\n";
-  echo "  </url>\n";
+  echo "<url><loc>" . xml_e($loc) . "</loc><lastmod>" . xml_e($today) . "</lastmod></url>\n";
 }
 
 echo "</urlset>\n";
