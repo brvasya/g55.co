@@ -681,7 +681,6 @@ foreach ($items as $item) {
         "id" => $id,
         "title" => $title,
         "iframe" => $iframe,
-        "description" => "",
         "categories" => $categories,
         "creator" => $creator
     ];
