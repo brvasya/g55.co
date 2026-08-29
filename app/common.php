@@ -131,7 +131,7 @@ function load_site_index(): array {
     $categories[] = [
       'id' => $cluster['id'],
       'name' => $cluster['name'],
-      'description' => 'Play free ' . $cluster['name'] . ' games online on G55.CO.',
+      'description' => 'Play free ' . $headingName . ' games online on G55.CO.',
     ];
   }
 
