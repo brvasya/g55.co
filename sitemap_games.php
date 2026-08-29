@@ -28,39 +28,24 @@ if ($n < 1) {
   exit;
 }
 
-$index = load_site_index();
-$categories = get_categories_sorted($index);
+$games = load_all_games();
 
 $perSitemap = 10000;
 $start = ($n - 1) * $perSitemap;
-$end = $start + $perSitemap;
+$pages = array_slice($games, $start, $perSitemap);
 
 $today = date('Y-m-d');
 
 echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
 echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
 
-$count = 0;
+foreach ($pages as $p) {
+  $loc = $base . "/game.php?id=" . q($p['id']);
 
-foreach ($categories as $c) {
-  $cid = $c['id'];
-  list($_, $pages) = load_category_pages($cid);
-
-  foreach ($pages as $p) {
-    $pid = $p['id'];
-
-    if ($count >= $start && $count < $end) {
-      $loc = $base . "/game.php?id=" . q($pid);
-
-      echo "  <url>\n";
-      echo "    <loc>" . xml_e($loc) . "</loc>\n";
-      echo "    <lastmod>" . xml_e($today) . "</lastmod>\n";
-      echo "  </url>\n";
-    }
-
-    $count++;
-    if ($count >= $end) break 2;
-  }
+  echo "  <url>\n";
+  echo "    <loc>" . xml_e($loc) . "</loc>\n";
+  echo "    <lastmod>" . xml_e($today) . "</lastmod>\n";
+  echo "  </url>\n";
 }
 
 echo "</urlset>\n";
