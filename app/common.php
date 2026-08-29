@@ -204,7 +204,28 @@ function build_game_series_clusters(array $pages): array {
         $clusters[$key][] = $page;
     }
 
-    return keep_multi_game_clusters($clusters);
+    $clusters = array_filter(
+        $clusters,
+        fn($group) => count($group) >= 2
+    );
+
+    foreach ($pages as $page) {
+        $firstKey = detect_game_series_key($page['title']);
+        $words = array_unique(array_filter(
+            explode(' ', normalize_game_series_title($page['title']))
+        ));
+
+        foreach ($words as $key) {
+            if ($key === $firstKey || !isset($clusters[$key])) {
+                continue;
+            }
+
+            $page['_series_key'] = $key;
+            $clusters[$key][] = $page;
+        }
+    }
+
+    return array_values($clusters);
 }
 
 function keep_multi_game_clusters(array $clusters): array {
