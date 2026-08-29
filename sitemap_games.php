@@ -50,7 +50,7 @@ foreach ($categories as $c) {
     $pid = $p['id'];
 
     if ($count >= $start && $count < $end) {
-      $loc = $base . "/game.php?id=" . q($pid) . "&c=" . q($cid);
+      $loc = $base . "/game.php?id=" . q($pid);
 
       echo "  <url>\n";
       echo "    <loc>" . xml_e($loc) . "</loc>\n";
