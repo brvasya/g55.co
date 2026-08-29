@@ -32,6 +32,11 @@ echo "    <loc>" . xml_e($base . "/sitemap_creators.php") . "</loc>\n";
 echo "    <lastmod>" . xml_e($today) . "</lastmod>\n";
 echo "  </sitemap>\n";
 
+echo "  <sitemap>\n";
+echo "    <loc>" . xml_e($base . "/sitemap_series.php") . "</loc>\n";
+echo "    <lastmod>" . xml_e($today) . "</lastmod>\n";
+echo "  </sitemap>\n";
+
 for ($i = 1; $i <= $pageSitemaps; $i++) {
   echo "  <sitemap>\n";
   echo "    <loc>" . xml_e($base . "/sitemap_games.php?n=" . $i) . "</loc>\n";
