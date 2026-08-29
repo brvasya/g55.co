@@ -27,10 +27,7 @@ foreach ($categories as $c) {
   foreach ($series as $s) {
     $loc = $base . $s['url'];
 
-    echo "  <url>\n";
-    echo "    <loc>" . xml_e($loc) . "</loc>\n";
-    echo "    <lastmod>" . xml_e($today) . "</lastmod>\n";
-    echo "  </url>\n";
+    echo "<url><loc>" . xml_e($loc) . "</loc><lastmod>" . xml_e($today) . "</lastmod></url>\n";
   }
 }
 
