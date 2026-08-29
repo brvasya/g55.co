@@ -84,14 +84,14 @@ $creatorLinks = cluster_links_except_current($currentCreatorCluster, $page['id']
 $pageTitle = $page['title'];
 $title = $pageTitle . ' ▶ Play Free ' . $cat['name'] . ' Game Online';
 
-$metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $page['description'])[0]));
+$desc = 'Play free ' . $pageTitle . (!empty($page['creator']) ? ' by ' . $page['creator'] : '') . ', a ' . $cat['name'] . ' game, online on G55.CO.';
+$metaDesc = $desc;
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id);
 $imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
 $iframeSrc = $page['iframe'];
 $sandbox = ' sandbox="allow-scripts allow-same-origin allow-pointer-lock"';
 
 $h1 = $pageTitle;
-$desc = $page['description'];
 
 $prevPage = null;
 $nextPage = null;
