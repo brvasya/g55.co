@@ -15,18 +15,7 @@ function q($s): string {
 
 $base = 'https://g55.co';
 
-if (!isset($_GET['n'])) {
-  http_response_code(400);
-  echo 'Missing n';
-  exit;
-}
-
-$n = (int)$_GET['n'];
-if ($n < 1) {
-  http_response_code(400);
-  echo 'Invalid n';
-  exit;
-}
+$n = max(1, (int)($_GET['n'] ?? 1));
 
 $perSitemap = 10000;
 $pages = array_slice(load_all_games(), ($n - 1) * $perSitemap, $perSitemap);
