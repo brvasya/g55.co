@@ -1,6 +1,27 @@
 {
 "pages": [
 {
+"id": "45af7a66facc4ea7bb7572715b9d0e10",
+"title": "sokoban puzzle game",
+"iframe": "https://html5.gamedistribution.com/45af7a66facc4ea7bb7572715b9d0e10/",
+"categories": ["Puzzle"],
+"creator": "GameBox"
+},
+{
+"id": "45408603e10348e78d7fb508fc729216",
+"title": "Kingdom Puzzles",
+"iframe": "https://html5.gamedistribution.com/45408603e10348e78d7fb508fc729216/",
+"categories": ["Puzzle", "Strategy"],
+"creator": "Lof Games"
+},
+{
+"id": "456f704eee7d49968166305719a6ae6b",
+"title": "Space Raider",
+"iframe": "https://html5.gamedistribution.com/456f704eee7d49968166305719a6ae6b/",
+"categories": ["Shooter"],
+"creator": "FatKat Games"
+},
+{
 "id": "45ee0f9898f8401c8961ff506e88fbe0",
 "title": "Sudoku Garden",
 "iframe": "https://html5.gamedistribution.com/45ee0f9898f8401c8961ff506e88fbe0/",
