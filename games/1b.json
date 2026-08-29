@@ -1,6 +1,20 @@
 {
 "pages": [
 {
+"id": "1b3229bbbf6d4c519e216e8228b5d0a8",
+"title": "Bubble Plopper",
+"iframe": "https://html5.gamedistribution.com/1b3229bbbf6d4c519e216e8228b5d0a8/",
+"categories": ["Bubble Shooter"],
+"creator": "Sanoma"
+},
+{
+"id": "1b24904690c649aeae32cbac62d1b405",
+"title": "Word Search with hints",
+"iframe": "https://html5.gamedistribution.com/1b24904690c649aeae32cbac62d1b405/",
+"categories": ["Puzzle", "Casual"],
+"creator": "GamePush"
+},
+{
 "id": "1b8ef1841fa84b20a28fd2596ea7472a",
 "title": "Number Bubble Shooter",
 "iframe": "https://html5.gamedistribution.com/1b8ef1841fa84b20a28fd2596ea7472a/",
