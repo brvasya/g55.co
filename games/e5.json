@@ -1,6 +1,34 @@
 {
 "pages": [
 {
+"id": "e5e3e1642a64474eb3487809a88dd479",
+"title": "Kitty Quiz",
+"iframe": "https://html5.gamedistribution.com/e5e3e1642a64474eb3487809a88dd479/",
+"categories": ["Quiz"],
+"creator": "Agame"
+},
+{
+"id": "e524d731080549ccba2de03a01c1b276",
+"title": "Spider Solitaire HTML5",
+"iframe": "https://html5.gamedistribution.com/e524d731080549ccba2de03a01c1b276/",
+"categories": ["Cards"],
+"creator": "CMC Online s.r.o."
+},
+{
+"id": "e5d49c034cfe44f78e3657ad8a0dd597",
+"title": "Miner Block Game",
+"iframe": "https://html5.gamedistribution.com/e5d49c034cfe44f78e3657ad8a0dd597/",
+"categories": ["Puzzle"],
+"creator": "Code This Lab srl"
+},
+{
+"id": "e59baa804b75447fb35a3892d9b07348",
+"title": "Food Hidden Stars",
+"iframe": "https://html5.gamedistribution.com/e59baa804b75447fb35a3892d9b07348/",
+"categories": ["Puzzle"],
+"creator": "Vi Games"
+},
+{
 "id": "e51736773abe451890187b0728dfd66a",
 "title": "Amazing FreeCell Solitaire",
 "iframe": "https://html5.gamedistribution.com/e51736773abe451890187b0728dfd66a/",
