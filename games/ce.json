@@ -1,6 +1,20 @@
 {
 "pages": [
 {
+"id": "ce48aa563bf54682ba21b0cd3ee8864e",
+"title": "2048: Puzzle Classic",
+"iframe": "https://html5.gamedistribution.com/ce48aa563bf54682ba21b0cd3ee8864e/",
+"categories": ["Puzzle"],
+"creator": "Holger Sindbaek"
+},
+{
+"id": "cefdee07fa214ae0b94da28b7f9d4058",
+"title": "Sudoku Blocks",
+"iframe": "https://html5.gamedistribution.com/cefdee07fa214ae0b94da28b7f9d4058/",
+"categories": ["Puzzle"],
+"creator": "MarketJS"
+},
+{
 "id": "ce11bc1609214775b28920f6c2629d48",
 "title": "Quadcopter FX Simulator",
 "iframe": "https://html5.gamedistribution.com/ce11bc1609214775b28920f6c2629d48/",
