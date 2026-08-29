@@ -36,56 +36,100 @@ function category_pages_pagination(array $allPages, int $perPage = 64, string $p
   ];
 }
 
-function category_url(string $cid, ?int $p = null, string $seriesKey = ''): string {
-  $url = 'https://g55.co/?c=' . rawurlencode($cid);
-  if ($seriesKey !== '') $url .= '&t=' . rawurlencode($seriesKey);
+function category_url(string $cid, ?int $p = null, string $seriesKey = '', string $creator = ''): string {
+  if ($creator !== '') {
+    $url = 'https://g55.co/?by=' . rawurlencode($creator);
+  } else {
+    $url = 'https://g55.co/?c=' . rawurlencode($cid);
+    if ($seriesKey !== '') $url .= '&t=' . rawurlencode($seriesKey);
+  }
   if ($p !== null && $p > 1) $url .= '&p=' . (int) $p;
   return $url;
 }
 
 $hasC = isset($_GET['c']);
+$hasCreator = isset($_GET['by']);
 $seriesCategories = [];
 
-if ($hasC) {
-  $cid = clean_slug($_GET['c']);
-  if ($cid === '' || !isset($catMap[$cid])) {
-    header('Location: /', true, 302);
-    exit;
-  }
-
-  $cat = $catMap[$cid];
-  list(, $pages) = load_category_pages($cid);
-
-  $seriesClusters = build_game_series_clusters($pages);
-  $seriesCategories = build_game_series_categories($seriesClusters, $cid);
+if ($hasCreator || $hasC) {
   $activeSeriesKey = '';
   $activeSeriesTitle = '';
-  $displayPages = $pages;
+  $creatorName = '';
 
-  if (isset($_GET['t'])) {
-    if (!is_string($_GET['t'])) {
-      header('Location: /?c=' . rawurlencode($cid), true, 302);
+  if ($hasCreator) {
+    if (!is_string($_GET['by'])) {
+      header('Location: /', true, 302);
       exit;
     }
 
-    $activeSeriesCluster = find_game_cluster_for_series_key($seriesClusters, $_GET['t']);
+    $creatorClusters = build_creator_clusters(load_all_games());
+    $creatorCluster = find_game_cluster_for_creator($creatorClusters, $_GET['by']);
 
-    if (!$activeSeriesCluster) {
-      header('Location: /?c=' . rawurlencode($cid), true, 302);
+    if (!$creatorCluster) {
+      header('Location: /', true, 302);
       exit;
     }
 
-    $activeSeriesKey = series_cluster_key($activeSeriesCluster);
-    $activeSeriesTitle = series_cluster_title($activeSeriesCluster);
-    $displayPages = $activeSeriesCluster;
+    $creatorName = trim((string)$creatorCluster[0]['creator']);
+    $displayPages = $creatorCluster;
+    $headingName = $creatorName;
+  } else {
+    $cid = clean_slug($_GET['c']);
+    if ($cid === '' || !isset($catMap[$cid])) {
+      header('Location: /', true, 302);
+      exit;
+    }
+
+    $cat = $catMap[$cid];
+    list(, $pages) = load_category_pages($cid);
+
+    $seriesClusters = build_game_series_clusters($pages);
+    $seriesCategories = build_game_series_categories($seriesClusters, $cid);
+    $displayPages = $pages;
+
+    if (isset($_GET['t'])) {
+      if (!is_string($_GET['t'])) {
+        header('Location: /?c=' . rawurlencode($cid), true, 302);
+        exit;
+      }
+
+      $activeSeriesCluster = find_game_cluster_for_series_key($seriesClusters, $_GET['t']);
+
+      if (!$activeSeriesCluster) {
+        header('Location: /?c=' . rawurlencode($cid), true, 302);
+        exit;
+      }
+
+      $activeSeriesKey = series_cluster_key($activeSeriesCluster);
+      $activeSeriesTitle = series_cluster_title($activeSeriesCluster);
+      $displayPages = $activeSeriesCluster;
+    }
+
+    $headingName = $cat['name'];
+
+    if ($activeSeriesTitle !== '') {
+      $normalizedCategoryName = normalize_game_series_title($cat['name']);
+      $seriesAlreadyInCategoryName = $normalizedCategoryName === $activeSeriesKey
+        || strpos($normalizedCategoryName, $activeSeriesKey . ' ') === 0;
+
+      if (!$seriesAlreadyInCategoryName) {
+        $headingName = $activeSeriesTitle . ' ' . $headingName;
+      }
+    }
   }
 
   $pager = category_pages_pagination($displayPages, 64, 'p');
   $pageNum = $pager['page'];
 
-  $canonical = category_url($cid, $pageNum, $activeSeriesKey);
-  $prevUrl = $pager['has_prev'] ? category_url($cid, $pageNum - 1, $activeSeriesKey) : null;
-  $nextUrl = $pager['has_next'] ? category_url($cid, $pageNum + 1, $activeSeriesKey) : null;
+  if ($hasCreator) {
+    $canonical = category_url('', $pageNum, '', $creatorName);
+    $prevUrl = $pager['has_prev'] ? category_url('', $pageNum - 1, '', $creatorName) : null;
+    $nextUrl = $pager['has_next'] ? category_url('', $pageNum + 1, '', $creatorName) : null;
+  } else {
+    $canonical = category_url($cid, $pageNum, $activeSeriesKey);
+    $prevUrl = $pager['has_prev'] ? category_url($cid, $pageNum - 1, $activeSeriesKey) : null;
+    $nextUrl = $pager['has_next'] ? category_url($cid, $pageNum + 1, $activeSeriesKey) : null;
+  }
 
   $gridItems = [];
   foreach ($pager['items'] as $p) {
@@ -93,23 +137,11 @@ if ($hasC) {
       'id' => $p['id'],
       'title' => $p['title'],
       'image' => 'https://cdn.g55.co/' . $p['id'] . '.png',
-      'category' => $cid,
+      'category' => $hasCreator ? category_id_from_name($p['categories'][0]) : $cid,
     ];
   }
 
   $count = $pager['total_items'];
-  $headingName = $cat['name'];
-
-  if ($activeSeriesTitle !== '') {
-    $normalizedCategoryName = normalize_game_series_title($cat['name']);
-    $seriesAlreadyInCategoryName = $normalizedCategoryName === $activeSeriesKey
-      || strpos($normalizedCategoryName, $activeSeriesKey . ' ') === 0;
-
-    if (!$seriesAlreadyInCategoryName) {
-      $headingName = $activeSeriesTitle . ' ' . $headingName;
-    }
-  }
-
   $h1 = ($count > 0 ? number_format($count) . ' ' : '') . $headingName . ' Games';
   if ($pageNum > 1) $h1 .= ' Page ' . $pageNum;
 
