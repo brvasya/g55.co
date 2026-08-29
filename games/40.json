@@ -1,6 +1,20 @@
 {
 "pages": [
 {
+"id": "40ac5aea85eb4fc1b74f5aa57f94e38b",
+"title": "2048 Classic Edition",
+"iframe": "https://html5.gamedistribution.com/40ac5aea85eb4fc1b74f5aa57f94e38b/",
+"categories": ["Puzzle"],
+"creator": "Playtouch"
+},
+{
+"id": "40031a282f2a416ea36bb4ccee5e87eb",
+"title": "Bubble Pop Adventures",
+"iframe": "https://html5.gamedistribution.com/40031a282f2a416ea36bb4ccee5e87eb/",
+"categories": ["Adventure"],
+"creator": "MarketJS"
+},
+{
 "id": "400379067936430f95991ce6a8a5127d",
 "title": "Dont Touch the Pixel",
 "iframe": "https://html5.gamedistribution.com/400379067936430f95991ce6a8a5127d/",
