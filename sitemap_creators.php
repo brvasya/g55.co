@@ -24,10 +24,6 @@ echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
 
 foreach ($creatorClusters as $cluster) {
   $creator = trim((string)($cluster[0]['creator'] ?? ''));
-  if ($creator === '') {
-    continue;
-  }
-
   $loc = $base . "/?by=" . q($creator);
 
   echo "  <url>\n";
