@@ -28,11 +28,8 @@ if ($n < 1) {
   exit;
 }
 
-$games = load_all_games();
-
 $perSitemap = 10000;
-$start = ($n - 1) * $perSitemap;
-$pages = array_slice($games, $start, $perSitemap);
+$pages = array_slice(load_all_games(), ($n - 1) * $perSitemap, $perSitemap);
 
 $today = date('Y-m-d');
 
