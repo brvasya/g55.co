@@ -11,15 +11,7 @@ function xml_e($s): string {
 
 $base = 'https://g55.co';
 
-$index = load_site_index();
-$categories = get_categories_sorted($index);
-
-$allPageCount = 0;
-foreach ($categories as $c) {
-  $cid = $c['id'];
-  list($_, $pages) = load_category_pages($cid);
-  $allPageCount += count($pages);
-}
+$allPageCount = count(load_all_games());
 
 $perSitemap = 10000;
 $pageSitemaps = (int)ceil($allPageCount / $perSitemap);
