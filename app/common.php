@@ -293,3 +293,19 @@ function build_creator_clusters(array $pages): array {
 
     return keep_multi_game_clusters($clusters);
 }
+
+function find_game_cluster_for_creator(array $clusters, string $creator): array {
+    $creator = strtolower(trim($creator));
+
+    if ($creator === '') {
+        return [];
+    }
+
+    foreach ($clusters as $cluster) {
+        if (strtolower(trim((string)($cluster[0]['creator'] ?? ''))) === $creator) {
+            return $cluster;
+        }
+    }
+
+    return [];
+}
