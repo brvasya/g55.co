@@ -5,17 +5,26 @@ require_once 'common.php';
 $index = load_site_index();
 $categories = get_categories_sorted($index);
 
-if (!isset($_GET['id'], $_GET['c'])) {
+if (!isset($_GET['id'])) {
   header('Location: /', true, 302);
   exit;
 }
 
 $id = clean_slug($_GET['id']);
-$cid = clean_slug($_GET['c']);
+$cid = isset($_GET['c']) ? clean_slug($_GET['c']) : '';
 
-if ($id === '' || $cid === '') {
+if ($id === '' || (isset($_GET['c']) && $cid === '')) {
   header('Location: /', true, 302);
   exit;
+}
+
+if ($cid === '') {
+  foreach (load_all_games() as $game) {
+    if ($game['id'] === $id) {
+      $cid = category_id_from_name($game['categories'][0]);
+      break;
+    }
+  }
 }
 
 $cat = null;
@@ -76,7 +85,7 @@ $pageTitle = $page['title'];
 $title = $pageTitle . ' ▶ Play Free ' . $cat['name'] . ' Game Online';
 
 $metaDesc = trim(preg_replace('/\s+/', ' ', preg_split('/key features/i', $page['description'])[0]));
-$canonical = 'https://g55.co/game.php?id=' . rawurlencode($id) . '&c=' . rawurlencode($cid);
+$canonical = 'https://g55.co/game.php?id=' . rawurlencode($id);
 $imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
 $iframeSrc = $page['iframe'];
 $sandbox = ' sandbox="allow-scripts allow-same-origin allow-pointer-lock"';
