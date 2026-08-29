@@ -23,11 +23,6 @@ $today = date('Y-m-d');
 echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
 echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
 
-echo "  <url>\n";
-echo "    <loc>" . xml_e($base . "/") . "</loc>\n";
-echo "    <lastmod>" . xml_e($today) . "</lastmod>\n";
-echo "  </url>\n";
-
 foreach ($categories as $c) {
   $cid = $c['id'];
   $loc = $base . "/?c=" . q($cid);
