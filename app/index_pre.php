@@ -113,7 +113,7 @@ if ($hasC) {
   $h1 = ($count > 0 ? number_format($count) . ' ' : '') . $headingName . ' Games';
   if ($pageNum > 1) $h1 .= ' Page ' . $pageNum;
 
-  $desc = $cat['description'];
+  $desc = 'Play free ' . $headingName . ' games online on G55.CO.';
   $title = $h1 . ' ▶ Play Free Online';
   $metaDesc = strip_tags($desc);
 
