@@ -1,6 +1,20 @@
 {
 "pages": [
 {
+"id": "ef53683d27f74dc38f75f407ff351bc0",
+"title": "CodeQuest",
+"iframe": "https://html5.gamedistribution.com/ef53683d27f74dc38f75f407ff351bc0/",
+"categories": ["Puzzle"],
+"creator": "SyntaxForge"
+},
+{
+"id": "efa7f45d308f48e9a3f3dc641b83556c",
+"title": "Closed City",
+"iframe": "https://html5.gamedistribution.com/efa7f45d308f48e9a3f3dc641b83556c/",
+"categories": ["Agility"],
+"creator": "GamePush"
+},
+{
 "id": "ef711682d87f412fa9d21670c90c34c1",
 "title": "Just Mahjong",
 "iframe": "https://html5.gamedistribution.com/ef711682d87f412fa9d21670c90c34c1/",
