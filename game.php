@@ -39,7 +39,7 @@
 </section>
 <?php if ($seriesLinks): ?>
 <nav class="cluster">
-<h2>More <?php echo h($currentSeriesTitle); ?> Games</h2>
+<h2>More <a href="/?c=<?php echo rawurlencode($cid); ?>&t=<?php echo rawurlencode(series_cluster_key($currentSeriesCluster)); ?>"><?php echo h($currentSeriesTitle); ?> Games</a></h2>
 <section class="grid">
 <?php foreach ($seriesLinks as $p): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h('https://cdn.g55.co/' . $p['id'] . '.png'); ?>);" href="/game.php?id=<?php echo rawurlencode($p['id']); ?>&c=<?php echo rawurlencode($cid); ?>"><span class="<?php echo rawurlencode($cid); ?>"><?php echo h($p['title']); ?></span></a>
