@@ -155,6 +155,3 @@ if ($pageIndex !== -1) {
         $radius++;
     }
 }
-
-$moreText = 'More ' . $cat['name'] . ' Games';
-$moreHref = '/?c=' . rawurlencode($cid);
