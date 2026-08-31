@@ -15,7 +15,7 @@ function q($s): string {
 
 $base = 'https://g55.co';
 
-$n = max(1, (int)($_GET['n'] ?? 1));
+$n = (int)$_GET['n'];
 
 $perSitemap = 10000;
 $pages = array_slice(load_all_games(), ($n - 1) * $perSitemap, $perSitemap);
