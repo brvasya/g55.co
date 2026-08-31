@@ -89,7 +89,6 @@ $metaDesc = $desc;
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id);
 $imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
 $iframeSrc = $page['iframe'] . '?gd_sdk_referrer_url=' . $canonical;
-$sandbox = ' sandbox="allow-scripts allow-same-origin allow-pointer-lock"';
 
 $h1 = $pageTitle;
 
