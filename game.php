@@ -25,7 +25,7 @@
 </aside><?php */?>
 <div class="embed">
 <button class="fullscreen" onclick="document.querySelector('.embed iframe')?.requestFullscreen();" title="Fullscreen"></button>
-<iframe<?php echo $sandbox; ?> src="<?php echo h($iframeSrc); ?>" scrolling="no" allowfullscreen></iframe>
+<iframe src="<?php echo h($iframeSrc); ?>" scrolling="no" allowfullscreen></iframe>
 </div>
 <aside class="tower_r">
 <div class="ads"><script async src="/js/336x280.js"></script></div>
