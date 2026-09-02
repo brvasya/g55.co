@@ -7,13 +7,15 @@ body {
     overflow-x: hidden;
 }
 header {
+    top: 0;
     width: 70%;
     height: 90px;
     margin-bottom: 25px;
     display: flex;
-    position: relative;
+    position: sticky;
     align-items: center;
     background-color: #666;
+    z-index: 1;
 }
 header:after {
     content: "";
