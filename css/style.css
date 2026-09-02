@@ -10,10 +10,10 @@ header {
     top: 0;
     width: 70%;
     height: 90px;
-    margin-bottom: 25px;
     display: flex;
     position: sticky;
     align-items: center;
+    margin-bottom: 25px;
     background-color: #666;
     z-index: 10;
 }
