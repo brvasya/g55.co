@@ -9,7 +9,7 @@ body {
 header {
     top: 0;
     width: 70%;
-    height: 90px;
+    height: 80px;
     display: flex;
     position: sticky;
     align-items: center;
@@ -19,10 +19,10 @@ header {
 }
 header:after {
     content: "";
-    right: -90px;
+    right: -80px;
     position: absolute;
-    border-top: 90px solid #666;
-    border-right: 90px solid transparent;
+    border-top: 80px solid #666;
+    border-right: 80px solid transparent;
 }
 article {
     display: flex;
