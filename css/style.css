@@ -135,9 +135,6 @@ p {
 .description.c {
     order: unset;
 }
-.cluster {
-    order: 3;
-}
 .tower_l {
     width: 160px;
     height: 600px !important;
