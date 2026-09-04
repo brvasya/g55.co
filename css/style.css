@@ -187,7 +187,6 @@ p {
     aspect-ratio: 170 / 128;
     overflow: hidden;
     border-radius: 10px;
-    box-sizing: border-box;
     background-size: cover;
     background-color: #222;
     transition: transform 0.2s ease;
@@ -195,7 +194,8 @@ p {
  --cols: 2;
 }
 .thumbnail:hover {
-    border: 3px solid #fff !important;
+    outline: 3px solid #fff;
+    outline-offset: -3px;
     transform: scale(1.02);
 }
 .thumbnail span {
