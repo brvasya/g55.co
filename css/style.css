@@ -23,10 +23,6 @@ header:after {
     border-top: 80px solid #666;
     border-right: 80px solid transparent;
 }
-article {
-    display: flex;
-    flex-direction: column;
-}
 footer {
     margin-top: 30px;
     background-color: #222;
