@@ -63,7 +63,7 @@
 <?php endif; ?>
 <?php if (!empty($seriesCategories)): ?>
 <nav class="cluster">
-<h2>Related Category Tags</h2>
+<h2>Related <?php echo h($cat['name']); ?> Tags</h2>
 <ul class="series">
 <?php foreach ($seriesCategories as $series): ?>
 <li><a class="tag" href="<?php echo h($series['url']); ?>"><?php echo h($series['title']); ?></a></li>
