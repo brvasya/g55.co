@@ -131,7 +131,7 @@ p {
     margin: 15px 15px 0;
     border: 15px solid #222;
     border-radius: 5px;
-    background-size: 50px;
+    background-position: left;
     background-color: #222;
     background-repeat: no-repeat;
     white-space: pre-line;
