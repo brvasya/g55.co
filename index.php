@@ -23,7 +23,6 @@
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
 <?php endforeach; ?>
 </section>
-</article>
 <?php if (!empty($pager) && $pager['total_pages'] > 1): ?>
 <nav class="pagination">
 <?php if ($pager['has_prev']): ?>
@@ -34,6 +33,7 @@
 <?php endif; ?>
 </nav>
 <?php endif; ?>
+</article>
 <?php if (!empty($seriesCategories)): ?>
 <nav class="cluster">
 <h2>Related Category Tags</h2>
