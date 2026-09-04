@@ -14,8 +14,7 @@
 <body>
 <?php include 'header.php'; ?>
 <main>
-<article>
-<div class="game">
+<article class="game">
 <section class="description <?php echo rawurlencode($cid); ?>">
 <h1><?php echo h($h1); ?><?php if (!empty($page['creator'])): ?><span> by <?php echo h($page['creator']); ?></span><?php endif; ?></h1>
 <p><?php echo h($desc); ?></p>
@@ -33,7 +32,7 @@
 </div>
 <a class="tag <?php echo rawurlencode($cid); ?>" href="/?c=<?php echo rawurlencode($cid); ?>">More <?php echo h($cat['name']); ?> Games</a>
 </aside>
-</div>
+</article>
 <nav class="pagination">
 <?php if ($prevUrl): ?>
 <a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
@@ -62,7 +61,6 @@
 </section>
 </nav>
 <?php endif; ?>
-</article>
 <?php if (!empty($seriesCategories)): ?>
 <nav class="cluster">
 <h2>Related Category Tags</h2>
