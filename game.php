@@ -15,14 +15,11 @@
 <?php include 'header.php'; ?>
 <main>
 <article>
+<div class="game">
 <section class="description <?php echo rawurlencode($cid); ?>">
 <h1><?php echo h($h1); ?><?php if (!empty($page['creator'])): ?><span> by <?php echo h($page['creator']); ?></span><?php endif; ?></h1>
 <p><?php echo h($desc); ?></p>
 </section>
-<section class="game">
-<?php /*?><aside class="tower_l">
-<script async src="/js/160x600.js"></script>
-</aside><?php */?>
 <div class="embed">
 <button class="fullscreen" onclick="document.querySelector('.embed iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe sandbox="allow-scripts allow-same-origin allow-pointer-lock" src="<?php echo h($iframeSrc); ?>" scrolling="no" allowfullscreen></iframe>
@@ -36,7 +33,15 @@
 </div>
 <a class="tag <?php echo rawurlencode($cid); ?>" href="/?c=<?php echo rawurlencode($cid); ?>">More <?php echo h($cat['name']); ?> Games</a>
 </aside>
-</section>
+</div>
+<nav class="pagination">
+<?php if ($prevUrl): ?>
+<a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
+<?php endif; ?>
+<?php if ($nextUrl): ?>
+<a class="tag" href="<?php echo h($nextUrl); ?>">Next: <?php echo h($nextTitle); ?></a>
+<?php endif; ?>
+</nav>
 <?php if ($seriesLinks): ?>
 <nav class="cluster">
 <h2>More <a href="/?c=<?php echo rawurlencode($cid); ?>&t=<?php echo rawurlencode(series_cluster_key($currentSeriesCluster)); ?>"><?php echo h($currentSeriesTitle); ?> Games</a></h2>
@@ -68,14 +73,6 @@
 </nav>
 <?php endif; ?>
 </article>
-<nav class="pagination">
-<?php if ($prevUrl): ?>
-<a class="tag" href="<?php echo h($prevUrl); ?>">Prev: <?php echo h($prevTitle); ?></a>
-<?php endif; ?>
-<?php if ($nextUrl): ?>
-<a class="tag" href="<?php echo h($nextUrl); ?>">Next: <?php echo h($nextTitle); ?></a>
-<?php endif; ?>
-</nav>
 </main>
 <?php include 'footer.php'; ?>
 </body>
