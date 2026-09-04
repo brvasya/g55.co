@@ -95,7 +95,6 @@ p {
 }
 .game {
     gap: 10px;
-    height: 600px;
     margin: 15px;
     display: flex;
 }
@@ -142,9 +141,6 @@ p {
 }
 .cluster {
     order: 3;
-}
-.cluster .grid {
-    padding-top: 0;
 }
 .tower_l {
     width: 160px;
