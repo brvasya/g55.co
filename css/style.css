@@ -219,18 +219,6 @@ p {
 .thumbnail span:hover {
     opacity: 1;
 }
-.gsc-search-button {
-    width: 75px !important;
-    height: 30px;
-    cursor: pointer;
-    margin-left: 0 !important;
-    border-radius: 0 5px 5px 0 !important;
-    border-color: #333 !important;
-    background-color: #333 !important;
-}
-.gsc-search-button:hover {
-    opacity: 0.9;
-}
 .gsc-search-box {
     margin: 0 !important;
 }
@@ -324,8 +312,9 @@ header, li {
 header:after, .tower_l, .ads, #___gcse_0 {
     display: none;
 }
-h1 {
+h1, h2 {
     overflow: hidden;
+    text-align: center;
     text-overflow: ellipsis;
     white-space: nowrap;
 }
