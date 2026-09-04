@@ -93,6 +93,7 @@ p {
     gap: 10px;
     margin: 15px;
     display: flex;
+    flex-wrap: wrap;
 }
 .tower_l, .embed, .ads {
     background-color: #222;
@@ -121,9 +122,8 @@ p {
     background: #333 !important;
 }
 .description {
-    width: calc(100% - 210px);
+    width: 100%;
     padding: 0 75px;
-    margin: 15px;
     border: 15px solid #222;
     border-radius: 5px;
     background-position: left;
@@ -133,7 +133,8 @@ p {
     order: 2;
 }
 .description.c {
-    order: unset;
+    width: calc(100% - 210px);
+    margin: 15px;
 }
 .tower_l {
     width: 160px;
