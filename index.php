@@ -18,16 +18,6 @@
 <h1><?php echo h($h1); ?></h1>
 <p><?php echo $desc; ?></p>
 </section>
-<?php if (!empty($seriesCategories)): ?>
-<nav class="cluster">
-<h2>Related Category Tags</h2>
-<ul class="series">
-<?php foreach ($seriesCategories as $series): ?>
-<li><a class="tag" href="<?php echo h($series['url']); ?>"><?php echo h($series['title']); ?></a></li>
-<?php endforeach; ?>
-</ul>
-</nav>
-<?php endif; ?>
 <section class="grid">
 <?php foreach ($gridItems as $it): ?>
 <a class="thumbnail" style="background-image: url(<?php echo h($it['image']); ?>);" href="/game.php?id=<?php echo rawurlencode($it['id']); ?>&c=<?php echo rawurlencode($it['category']); ?>"><span class="<?php echo rawurlencode($it['category']); ?>"><?php echo h($it['title']); ?></span></a>
@@ -42,6 +32,16 @@
 <?php if ($pager['has_next']): ?>
 <a class="tag" href="<?php echo h($nextUrl) ?>">Next Page</a>
 <?php endif; ?>
+</nav>
+<?php endif; ?>
+<?php if (!empty($seriesCategories)): ?>
+<nav class="cluster">
+<h2>Related Category Tags</h2>
+<ul class="series">
+<?php foreach ($seriesCategories as $series): ?>
+<li><a class="tag" href="<?php echo h($series['url']); ?>"><?php echo h($series['title']); ?></a></li>
+<?php endforeach; ?>
+</ul>
 </nav>
 <?php endif; ?>
 </main>
