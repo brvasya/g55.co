@@ -2,7 +2,7 @@
 
 header('Content-Type: application/json; charset=utf-8');
 
-$limit = 10;
+$limit = (int)$_GET['limit'];
 
 function verify_swf(string $url): array {
     if (!function_exists('curl_init')) return ['', "curl_missing"];
