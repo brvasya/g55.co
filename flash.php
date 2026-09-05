@@ -80,6 +80,8 @@ function verify_swf(string $url): array {
 }
 
 function is_permanent_swf_failure(string $status): bool {
+    if (str_starts_with($status, 'curl_error:')) return true;
+
     if (in_array($status, [
         'invalid_url',
         'not_direct_swf',
