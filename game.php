@@ -21,7 +21,11 @@
 </section>
 <div class="embed">
 <button class="fullscreen" onclick="this.nextElementSibling.requestFullscreen();" title="Fullscreen"></button>
+<?php if (str_contains(strtolower($page['iframe']), '.swf')): ?>
+<embed src="<?php echo h($page['iframe']); ?>">
+<?php else: ?>
 <iframe sandbox="allow-scripts allow-same-origin allow-pointer-lock" src="<?php echo h($iframeSrc); ?>" scrolling="no" allowfullscreen></iframe>
+<?php endif; ?>
 </div>
 <aside class="tower_r">
 <div class="ads"><script async src="/js/336x280.js"></script></div>
