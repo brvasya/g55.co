@@ -558,11 +558,6 @@ foreach ($items as $item) {
 
     if (isset($failedChecks[$flashpointId])) {
         $skippedCachedFailure++;
-        $results[] = [
-            "id" => $id,
-            "status" => "cached_skip",
-            "error" => $failedChecks[$flashpointId]
-        ];
         continue;
     }
 
