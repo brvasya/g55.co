@@ -79,6 +79,25 @@ function verify_swf(string $url): array {
     return [$finalUrl, "ok"];
 }
 
+function is_permanent_swf_failure(string $status): bool {
+    if (in_array($status, [
+        'invalid_url',
+        'not_direct_swf',
+        'invalid_swf_signature',
+        'cors_denied',
+        'https_required',
+    ], true)) {
+        return true;
+    }
+
+    if (preg_match('/^http_status:(\d{3})$/', $status, $matches)) {
+        $code = (int)$matches[1];
+        return $code >= 400 && $code < 500 && !in_array($code, [408, 425, 429], true);
+    }
+
+    return false;
+}
+
 function read_json_file(string $path): array {
     if (!is_file($path)) return [null, "file_not_found"];
 
@@ -234,6 +253,39 @@ function atomic_write_json(string $path, array $data): array {
         return [false, "rename_failed"];
     }
 
+    return [true, "ok"];
+}
+
+function merge_failed_checks(string $cacheFile, array $newFailures): array {
+    if ($newFailures === []) return [true, "unchanged"];
+
+    $lockFp = @fopen($cacheFile . '.lock', 'c+');
+    if ($lockFp === false) return [false, "lock_open_failed"];
+
+    if (!@flock($lockFp, LOCK_EX)) {
+        @fclose($lockFp);
+        return [false, "lock_failed"];
+    }
+
+    list($failedChecks, $status) = read_json_file($cacheFile);
+    if ($status === "file_not_found") {
+        $failedChecks = [];
+    } elseif (!is_array($failedChecks)) {
+        @flock($lockFp, LOCK_UN);
+        @fclose($lockFp);
+        return [false, $status];
+    }
+
+    foreach ($newFailures as $id => $reason) {
+        $failedChecks[$id] = $reason;
+    }
+
+    list($okWrite, $writeStatus) = atomic_write_json($cacheFile, $failedChecks);
+
+    @flock($lockFp, LOCK_UN);
+    @fclose($lockFp);
+
+    if (!$okWrite) return [false, $writeStatus];
     return [true, "ok"];
 }
 
@@ -394,16 +446,32 @@ $items = $data;
 
 $gamesDir = __DIR__ . '/games';
 $cdnDir = '/var/www/webroot/cdn';
+$failedCacheFile = __DIR__ . '/flash_failed.json';
 $thumbW = 170;
 $thumbH = 128;
+
+list($failedChecks, $failedCacheReadStatus) = read_json_file($failedCacheFile);
+if ($failedCacheReadStatus === "file_not_found") {
+    $failedChecks = [];
+} elseif (!is_array($failedChecks)) {
+    http_response_code(500);
+    echo json_encode([
+        "ok" => false,
+        "error" => $failedCacheReadStatus,
+        "failure_cache_file" => $failedCacheFile
+    ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+    exit;
+}
 
 $seenIdsInRun = [];
 $existingIdsByShard = [];
 $existingCreatorsByShard = [];
+$newFailedChecks = [];
 $publishPages = [];
 $created = 0;
 $skippedExistingId = 0;
 $skippedExistingThumb = 0;
+$skippedCachedFailure = 0;
 $creatorRepairAttempts = 0;
 $creatorsRepaired = 0;
 $skippedInvalidSwf = 0;
@@ -486,11 +554,25 @@ foreach ($items as $item) {
         continue;
     }
 
+    if (isset($failedChecks[$flashpointId])) {
+        $skippedCachedFailure++;
+        $results[] = [
+            "id" => $id,
+            "status" => "cached_skip",
+            "error" => $failedChecks[$flashpointId]
+        ];
+        continue;
+    }
+
     $swfUrl = trim($item['launchCommand']);
     list($iframe, $swfStatus) = verify_swf($swfUrl);
 
     if ($iframe === '') {
         $skippedInvalidSwf++;
+        if (is_permanent_swf_failure($swfStatus)) {
+            $failedChecks[$flashpointId] = $swfStatus;
+            $newFailedChecks[$flashpointId] = $swfStatus;
+        }
         $results[] = [
             "id" => $id,
             "status" => "skipped",
@@ -522,6 +604,8 @@ foreach ($items as $item) {
 
         if (hash('sha256', $bytes) === 'd13bdf73830bf70468a562c4d5be78ce05d598b811d0c8dc19550ffbd38b8a6b') {
             $skippedMissingScreenshot++;
+            $failedChecks[$flashpointId] = 'missing_screenshot';
+            $newFailedChecks[$flashpointId] = 'missing_screenshot';
             $results[] = [
                 "id" => $id,
                 "status" => "skipped",
@@ -581,6 +665,9 @@ foreach ($items as $item) {
     ];
 }
 
+list($failedCacheOk, $failedCacheWriteStatus) = merge_failed_checks($failedCacheFile, $newFailedChecks);
+if (!$failedCacheOk) $errors++;
+
 $pagesByShard = [];
 foreach ($publishPages as $p) {
     $shard = game_shard($p['id']);
@@ -605,12 +692,13 @@ foreach ($pagesByShard as $shard => $pages) {
     ];
 }
 
-if (!$appendOk) http_response_code(502);
+if (!$appendOk || !$failedCacheOk) http_response_code(502);
 
 $appendStatus = $appendOk ? "ok" : "partial_failure";
+$ok = $appendOk && $failedCacheOk;
 
 echo json_encode([
-    "ok" => $appendOk,
+    "ok" => $ok,
     "limit" => $limit,
     "source_url" => $sourceUrl,
     "games_dir" => $gamesDir,
@@ -621,10 +709,15 @@ echo json_encode([
     "created_thumbnails" => $created,
     "skipped_existing_id" => $skippedExistingId,
     "existing_thumbnails_reused" => $skippedExistingThumb,
+    "skipped_cached_failure" => $skippedCachedFailure,
     "creator_repair_attempts" => $creatorRepairAttempts,
     "creators_repaired" => $creatorsRepaired,
     "skipped_invalid_swf" => $skippedInvalidSwf,
     "skipped_missing_screenshot" => $skippedMissingScreenshot,
+    "failure_cache_file" => $failedCacheFile,
+    "failure_cache_status" => $failedCacheWriteStatus,
+    "failure_cache_entries" => count($failedChecks),
+    "new_failures_cached" => count($newFailedChecks),
     "errors" => $errors,
     "candidates_for_publishing_count" => count($publishPages),
     "append_status" => $appendStatus,
