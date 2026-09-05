@@ -20,7 +20,7 @@
 <p><?php echo h($desc); ?></p>
 </section>
 <div class="embed">
-<button class="fullscreen" onclick="document.querySelector('.embed iframe')?.requestFullscreen();" title="Fullscreen"></button>
+<button class="fullscreen" onclick="this.nextElementSibling.requestFullscreen();" title="Fullscreen"></button>
 <iframe sandbox="allow-scripts allow-same-origin allow-pointer-lock" src="<?php echo h($iframeSrc); ?>" scrolling="no" allowfullscreen></iframe>
 </div>
 <aside class="tower_r">
