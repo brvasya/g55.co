@@ -305,7 +305,7 @@ header:after, .tower_l, .ads, #___gcse_0 {
 footer div {
     justify-content: center;
 }
-.description {
+.description, .description.c {
     width: unset;
     padding: unset;
     background-size: 0;
