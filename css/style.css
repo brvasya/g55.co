@@ -161,7 +161,7 @@ p {
     width: calc(100% - 346px);
     display: flex;
 }
-.embed iframe {
+.embed > :not(button) {
     border: 0;
     width: 100%;
     height: 600px;
