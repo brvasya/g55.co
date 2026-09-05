@@ -106,7 +106,7 @@ p {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 5px;
 }
 .series .tag {
     padding: 10px 20px;
