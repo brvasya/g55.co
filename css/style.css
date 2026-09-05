@@ -133,7 +133,7 @@ p {
     order: 2;
 }
 .description.c {
-    width: calc(100% - 210px);
+    width: unset;
     margin: 15px;
 }
 .tower_l {
@@ -305,16 +305,14 @@ header:after, .tower_l, .ads, #___gcse_0 {
 footer div {
     justify-content: center;
 }
-.description, .description.c {
-    width: unset;
+.description {
     padding: unset;
     background-size: 0;
 }
 .logo {
     margin: 0 auto;
 }
-.game, .categories {
-    height: unset;
+.categories {
     flex-direction: column;
 }
 .embed {
@@ -322,7 +320,7 @@ footer div {
 }
 .tower_r {
     gap: 10px;
-    width: unset;
+    width: 100%;
     height: unset;
 }
 }
