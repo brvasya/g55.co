@@ -130,7 +130,7 @@ p {
     background-color: #222;
     background-repeat: no-repeat;
     white-space: pre-line;
-    order: 2;
+    order: 1;
 }
 .description.c {
     width: unset;
@@ -322,5 +322,6 @@ footer div {
     gap: 10px;
     width: 100%;
     height: unset;
+    order: 2;
 }
 }
