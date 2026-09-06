@@ -22,7 +22,7 @@
 <div class="embed">
 <button class="fullscreen" onclick="this.nextElementSibling.requestFullscreen();" title="Fullscreen"></button>
 <?php if (str_contains(strtolower($page['iframe']), '.swf')): ?>
-<embed src="<?php echo h($page['iframe']); ?>" allownetworking="internal">
+<embed src="<?php echo h($page['iframe']); ?>" allownetworking="internal" onloadedmetadata="const m=this.ruffle().metadata;this.style.width=m.width+'px';this.style.height=m.height+'px';">
 <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 <?php else: ?>
 <iframe sandbox="allow-scripts allow-same-origin allow-pointer-lock" src="<?php echo h($iframeSrc); ?>" scrolling="no" allowfullscreen></iframe>
