@@ -20,13 +20,8 @@
 <p><?php echo h($desc); ?></p>
 </section>
 <div class="embed">
-<button class="fullscreen" onclick="this.nextElementSibling.requestFullscreen();" title="Fullscreen"></button>
-<?php if (str_contains(strtolower($page['iframe']), '.swf')): ?>
-<embed src="<?php echo h($page['iframe']); ?>" allownetworking="internal" onloadedmetadata="const m=this.ruffle().metadata;this.style.width=m.width+'px';this.style.height=m.height+'px';">
-<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-<?php else: ?>
+<button class="fullscreen" onclick="document.querySelector('.embed iframe')?.requestFullscreen();" title="Fullscreen"></button>
 <iframe sandbox="allow-scripts allow-same-origin allow-pointer-lock" src="<?php echo h($iframeSrc); ?>" scrolling="no" allowfullscreen></iframe>
-<?php endif; ?>
 </div>
 <aside class="tower_r">
 <div class="ads"><script async src="/js/336x280.js"></script></div>
