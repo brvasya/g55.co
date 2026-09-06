@@ -553,7 +553,7 @@ foreach ($items as $item) {
         }
     }
 
-    if (isset($existingIdsByShard[$shard][$id])) {
+    if (isset($existingIdsByShard[$shard][$id]) && is_file($cdnDir . '/' . $id . '.png')) {
         $existingCreator = $existingCreatorsByShard[$shard][$id] ?? '';
 
         if ($existingCreator !== '') {
