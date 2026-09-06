@@ -94,7 +94,7 @@ function is_permanent_swf_failure(string $status): bool {
 
     if (preg_match('/^http_status:(\d{3})$/', $status, $matches)) {
         $code = (int)$matches[1];
-        return $code >= 400 && $code < 500 && !in_array($code, [408, 425, 429], true);
+        return $code >= 400 && $code < 600 && !in_array($code, [408, 425, 429], true);
     }
 
     return false;
