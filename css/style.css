@@ -48,7 +48,6 @@ button {
 }
 code {
     padding: 10px;
-    margin-left: 10px;
     border-radius: 5px;
     overflow: hidden;
     font-weight: normal;
@@ -177,6 +176,7 @@ p {
     height: 600px;
 }
 .embed-code {
+    gap: inherit;
     width: 100%;
     display: flex;
 }
