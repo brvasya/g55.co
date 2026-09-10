@@ -65,7 +65,7 @@ foreach (glob($sourceDir . '/*', GLOB_ONLYDIR) as $dir) {
         'id'         => $id,
         'title'      => $title,
         'iframe'     => 'https://html5.g55.co/' . $slug . '/',
-        'categories' => ['Exclusive'],
+        'categories' => ['Embeddable HTML5'],
         'creator'    => 'G55.CO'
     ];
 
