@@ -48,6 +48,11 @@ function append_to_shard(string $gamesDir, array $game): void {
 
 foreach (glob($sourceDir . '/*', GLOB_ONLYDIR) as $dir) {
     $slug = basename($dir);
+
+    if ($slug === 'engine') {
+        continue;
+    }
+
     $id   = md5($slug);
 
     if (game_exists($gamesDir, $id, $existingIds)) {
