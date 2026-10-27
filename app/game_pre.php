@@ -84,7 +84,7 @@ $creatorLinks = cluster_links_except_current($currentCreatorCluster, $page['id']
 $pageTitle = $page['title'];
 $title = $pageTitle . ' ▶ Play Free ' . $cat['name'] . ' Game Online';
 
-$desc = $page['description'];
+$desc = $page['description'] ?? '';
 $metaDesc = $desc;
 $canonical = 'https://g55.co/game.php?id=' . rawurlencode($id);
 $imageSrc = 'https://cdn.g55.co/' . $page['id'] . '.png';
