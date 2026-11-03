@@ -5,693 +5,792 @@
 "title": "Twin Catch",
 "iframe": "https://html5.gamedistribution.com/569359f879164ecb9e2d896a49288c26/",
 "categories": ["Casual"],
-"creator": "Jsen"
+"creator": "Jsen",
+"description": "Twin Catch gives you one control for two paddles. Slide Mina on the left and Pino on the right mirrors her movement, so every adjustment has to account for both streams of falling orbs. Keep catching them to build a score multiplier. Golden stars add points, shields cover a missed catch, and hearts restore a life. The orbs come faster as the run goes on."
 },
 {
 "id": "56f9b8255cdc484a94b55b706a106790",
 "title": "Arrow Slide",
 "iframe": "https://html5.gamedistribution.com/56f9b8255cdc484a94b55b706a106790/",
 "categories": ["Puzzle"],
-"creator": "MakStatic Studio"
+"creator": "MakStatic Studio",
+"description": "Clear the board in Arrow Slide by sending each winding tile out in the direction of its arrow. A tap sets the whole tile moving, so trace its route to the edge first. If another piece blocks the way, the collision costs a life. Start with the arrows that have an open exit, then use the spaces they leave to untangle the rest of the board."
 },
 {
 "id": "560f896d260d4ad4a14e4e64466ec043",
 "title": "Order of Operation Challenge",
 "iframe": "https://html5.gamedistribution.com/560f896d260d4ad4a14e4e64466ec043/",
 "categories": ["Puzzle", "Educational"],
-"creator": "Lof Games"
+"creator": "Lof Games",
+"description": "Order of Operation Challenge gives you four answers for each arithmetic expression. Work through parentheses and exponents first, then handle multiplication and division from left to right before doing the same for addition and subtraction. Choose among Easy, Normal, Hard, and Pro. A set of 15 questions takes you to the next level, with more experience points available on the harder settings."
 },
 {
 "id": "56f1b5e636354b24a39f4c0845af5dd2",
 "title": "Drop Animals",
 "iframe": "https://html5.gamedistribution.com/56f1b5e636354b24a39f4c0845af5dd2/",
 "categories": ["Merge"],
-"creator": "Momo Games"
+"creator": "Momo Games",
+"description": "In Drop Animals, place each animal block where it can merge with another of the same color. A merge grows the animal, and a block that reaches its final form pops to free up room. Look for drops that can start a chain of merges while working toward the current level's objective."
 },
 {
 "id": "567ad47ea5d04edaaa29a80cd9f9d1a3",
 "title": "Solitaire Farm Seasons 5",
 "iframe": "https://html5.gamedistribution.com/567ad47ea5d04edaaa29a80cd9f9d1a3/",
 "categories": ["Cards"],
-"creator": "SOFTGAMES – Mobile Entertainment Services GmbH"
+"creator": "SOFTGAMES – Mobile Entertainment Services GmbH",
+"description": "Solitaire Farm Seasons 5 alternates card puzzles with work on a farm. Clear a layout by playing a card one rank above or below the current discard. Draw from the spare stack when the board offers no useful move. Between rounds, plant and harvest crops for coins, take on daily tasks, or change the look of the farmhouse."
 },
 {
 "id": "5612231ac5184ecda617c334cbb46878",
 "title": "Dead Paradise",
 "iframe": "https://html5.gamedistribution.com/5612231ac5184ecda617c334cbb46878/",
 "categories": ["Racing & Driving", "Shooter"],
-"creator": "SMOKOKO LTD"
+"creator": "SMOKOKO LTD",
+"description": "Drive an armed car through the wasteland in Dead Paradise, shooting at enemies while you try to reach the end of each route. Spend coins from finished levels on armor, engine and fuel improvements, or stronger missiles. You can buy other vehicles as you earn more. Missions and daily tasks give you extra ways to fund a car that can survive the next stretch."
 },
 {
 "id": "564098c5f7f34dd989db1f4c650e7a66",
 "title": "Metal Bay Top Blade Power",
 "iframe": "https://html5.gamedistribution.com/564098c5f7f34dd989db1f4c650e7a66/",
 "categories": ["Battle", "Casual"],
-"creator": "woozjoo"
+"creator": "woozjoo",
+"description": "In Metal Bay Top Blade Power, steer a spinning metal top around an arena seen from above. Hits depend on how the tops collide, so build up speed and choose the angle of approach before making contact. Manage your spin as you fight. Sometimes circling away gives you a better opening than immediately charging into another clash."
 },
 {
 "id": "56b5cb9b86014d5f8bf726ca5c4ff06e",
 "title": "Match Fighter",
 "iframe": "https://html5.gamedistribution.com/56b5cb9b86014d5f8bf726ca5c4ff06e/",
 "categories": ["Battle", "Match-3"],
-"creator": "GameDev.Land"
+"creator": "GameDev.Land",
+"description": "Match Fighter turns a tile board into a martial arts duel. Make matches to land strikes on the opponent facing your fighter, and build combos to fuel special moves. Each new opponent gives you another fight to win through the puzzle board, so look for a sequence of matches that can build momentum beyond the current hit."
 },
 {
 "id": "561d4a2d831d4630a9c29b2c51a3a5bf",
 "title": "Climb Up!",
 "iframe": "https://html5.gamedistribution.com/561d4a2d831d4630a9c29b2c51a3a5bf/",
 "categories": ["Adventure"],
-"creator": "NISHAD_Games"
+"creator": "NISHAD_Games",
+"description": "Climb Up! puts a mountain between you and a gift waiting at the summit. Work your way upward around obstacles and across slippery surfaces where it is easy to lose your footing. Watch the terrain before committing to the next part of the ascent, especially when a difficult patch leaves little room to adjust."
 },
 {
 "id": "56af2f447f87410b98c4aefce76b3166",
 "title": "Candy Carver",
 "iframe": "https://html5.gamedistribution.com/56af2f447f87410b98c4aefce76b3166/",
 "categories": ["Adventure"],
-"creator": "GMG"
+"creator": "GMG",
+"description": "Carve a shape out of Dalgona candy in Candy Carver. Follow the outline of a star, umbrella, or another design without cracking the piece. A steady hand helps you keep the shape intact, while timed stages add pressure to finish before the clock runs out."
 },
 {
 "id": "560c947287314c239dce4608fdb9c59c",
 "title": "Overflowing Palette",
 "iframe": "https://html5.gamedistribution.com/560c947287314c239dce4608fdb9c59c/",
 "categories": ["Puzzle"],
-"creator": "GamePush"
+"creator": "GamePush",
+"description": "In Overflowing Palette, choose colors to spread across the board until every tile has been filled. The regular puzzles give you a limited number of moves, so consider how much territory a color will open up before choosing it. Try endless mode to play without a move counter, or use the editor to make a board and share it with other players."
 },
 {
 "id": "56e2d741d80d4873905aff16d8cfee0f",
 "title": "Tow N Go",
 "iframe": "https://html5.gamedistribution.com/56e2d741d80d4873905aff16d8cfee0f/",
 "categories": ["Racing & Driving", "Simulation"],
-"creator": "Kwalee"
+"creator": "Kwalee",
+"description": "Drive a tow truck in Tow N Go and collect cars left in marked no-parking areas. You can pull several vehicles in one trip to earn more money, but you still have to get the truck through traffic. Keep an eye on the crossing as well as the road, since a passing train can cut your haul short."
 },
 {
 "id": "5663a7467cf441d9b4604a890ed0f1ed",
 "title": "Tung Tung Sahur: Obby Challenge",
 "iframe": "https://html5.gamedistribution.com/5663a7467cf441d9b4604a890ed0f1ed/",
 "categories": ["Adventure", "Agility"],
-"creator": "Nexus"
+"creator": "Nexus",
+"description": "Guide Tung Tung Sahur through an obstacle course inspired by Italian Brainrot. Use WASD to move, the mouse to look around, and Space to jump across gaps and past traps. Look at where the next platform ends before jumping so you have room to set up the following move."
 },
 {
 "id": "56e831b341064111bba5f281952a03ca",
 "title": "Darts Master:Cartoon 3D",
 "iframe": "https://html5.gamedistribution.com/56e831b341064111bba5f281952a03ca/",
 "categories": ["Casual"],
-"creator": "soundlygame"
+"creator": "soundlygame",
+"description": "Take on a series of dart competitions in Darts Master:Cartoon 3D. Aim your throws at the board and work through the challenges as you add more darts to your collection. Each round gives you another chance to practice placing a throw where you want it."
 },
 {
 "id": "56220d1f1e96477baa832d0403dc6270",
 "title": "Fashion Battle for Survival",
 "iframe": "https://html5.gamedistribution.com/56220d1f1e96477baa832d0403dc6270/",
 "categories": ["Puzzle", "Dress-up"],
-"creator": "DL-studio"
+"creator": "DL-studio",
+"description": "Fashion Battle for Survival starts with a timed memory round. Turn over cards, remember where you saw each design, and match the pairs before the clock runs out. A completed round opens up the dress-up part of the game, where you can put together a look for the main character."
 },
 {
 "id": "566d727ed5b345169b06a85e0431ea4f",
 "title": "Ink Inc Tattoo",
 "iframe": "https://html5.gamedistribution.com/566d727ed5b345169b06a85e0431ea4f/",
 "categories": ["Casual"],
-"creator": "PuzzleGame.Com"
+"creator": "PuzzleGame.Com",
+"description": "Take the chair as the tattoo artist in Ink Inc Tattoo. Each client brings in a reference design, and your job is to reproduce its lines and colors on their skin. Look closely at the shapes before you trace them, then fill the different parts with the colors shown in the request."
 },
 {
 "id": "563fddda58264c4a9c025f8ab2f529f3",
 "title": "Crafty Town Merge City",
 "iframe": "https://html5.gamedistribution.com/563fddda58264c4a9c025f8ab2f529f3/",
 "categories": ["Casual", "Simulation"],
-"creator": "bestgames.com"
+"creator": "bestgames.com",
+"description": "Start with modest houses in Crafty Town Merge City and build up to a castle. Combine matching buildings to create a more developed structure, then make room for the next buildings you need. As the merges add up, the small settlement takes shape as a kingdom."
 },
 {
 "id": "563a3f252c6e4ef8a7fa4a59b9f47c5c",
 "title": "Geometry Rush 4D",
 "iframe": "https://html5.gamedistribution.com/563a3f252c6e4ef8a7fa4a59b9f47c5c/",
 "categories": ["Casual"],
-"creator": "GameBiz"
+"creator": "GameBiz",
+"description": "Guide a customizable character through the geometric courses in Geometry Rush 4D. Jump past traps and use the game's dash to cover ground quickly. Watch the course ahead as it changes so you can time your movement for the next obstacle."
 },
 {
 "id": "569091b7e4f349499a0186938f0e4a72",
 "title": "Angry City Smasher",
 "iframe": "https://html5.gamedistribution.com/569091b7e4f349499a0186938f0e4a72/",
 "categories": ["Simulation"],
-"creator": "CarGames.Com"
+"creator": "CarGames.Com",
+"description": "Control a giant gorilla in Angry City Smasher and take on two jobs in each stage. Fight the rival monster that comes after you, then demolish the required number of buildings. When several buildings stand close together, the gorilla's Ultimate Smash can damage the area and bring down more than one in a single attack."
 },
 {
 "id": "566a3a6a293f464299216a53166aa2d7",
 "title": "Slope Emoji 2",
 "iframe": "https://html5.gamedistribution.com/566a3a6a293f464299216a53166aa2d7/",
 "categories": ["Agility", "Casual"],
-"creator": "GM - Good Media"
+"creator": "GM - Good Media",
+"description": "Steer a rolling emoji down an endless course in Slope Emoji 2. The track keeps throwing obstacles and changes of direction at you, so look beyond the ball to see where you need to steer next. Pick up Likes along the way to unlock more emoji faces to roll with."
 },
 {
 "id": "563f3a264e3c4be9981886e445844b0e",
 "title": "Giant Sushi Merge Master Game",
 "iframe": "https://html5.gamedistribution.com/563f3a264e3c4be9981886e445844b0e/",
 "categories": ["Merge"],
-"creator": "Artem Lanin"
+"creator": "Artem Lanin",
+"description": "In Giant Sushi Merge Master Game, drop pieces of sushi into the play area and bring matching pieces together to make a larger one. Each new piece changes the pile and the gaps in it. Pick a landing spot that helps the current merge while leaving space for the sushi that comes after it."
 },
 {
 "id": "563d213a640d40a78854ec29d6e59688",
 "title": "Happy Boss Pull Pin",
 "iframe": "https://html5.gamedistribution.com/563d213a640d40a78854ec29d6e59688/",
 "categories": ["Puzzle", "Casual", "Strategy"],
-"creator": "MarketJS"
+"creator": "MarketJS",
+"description": "Guide your boss to the diamonds in Happy Boss Pull Pin by deciding which pin to remove first. Each pin separates parts of the puzzle, so opening the wrong passage can put lava or darts in the boss's path. Study the compartments before pulling anything, then open a route that gets him to the gems safely."
 },
 {
 "id": "56bdfe8235be4828ba4dc15b44a79b59",
 "title": "FlyWay Duo Race",
 "iframe": "https://html5.gamedistribution.com/56bdfe8235be4828ba4dc15b44a79b59/",
 "categories": ["Racing & Driving", "Agility"],
-"creator": "RHM Interactive"
+"creator": "RHM Interactive",
+"description": "Drive for distance in FlyWay Duo Race, either solo or with a second player. Take ramps to jump between stretches of the road in the sky, then steer around obstacles when you land. Pick up diamonds on the way and use them to buy different cars from the shop."
 },
 {
 "id": "560821a853464562a003412b3770c105",
 "title": "Mumbai Crime Simulator",
 "iframe": "https://html5.gamedistribution.com/560821a853464562a003412b3770c105/",
 "categories": ["Simulation"],
-"creator": "Instant Games Studio"
+"creator": "Instant Games Studio",
+"description": "Mumbai Crime Simulator sends you into the city as a third-person shooter. Work through missions against the criminals attacking Mumbai and clear each assignment to move on to the next. Keep track of the mission objective as you fight your way through the city."
 },
 {
 "id": "56e27caa4c424fc8b9254273f264583f",
 "title": "Garten of Rainbow Monsters",
 "iframe": "https://html5.gamedistribution.com/56e27caa4c424fc8b9254273f264583f/",
 "categories": ["Battle"],
-"creator": "goolgames"
+"creator": "goolgames",
+"description": "Play as Jack or Sara in Garten of Rainbow Monsters and fight through stages of cartoon monsters. Use your attacks against foes such as BanBan, Blue, Huggy Wuggy, and Jumbo Josh as you make your way deeper into the garden. The final stage ends with a boss fight."
 },
 {
 "id": "56a90693f11c42b6813baadb06383eec",
 "title": "Nitro Street Run 2",
 "iframe": "https://html5.gamedistribution.com/56a90693f11c42b6813baadb06383eec/",
 "categories": ["Racing & Driving"],
-"creator": "Gameloft SE"
+"creator": "Gameloft SE",
+"description": "Nitro Street Run 2 offers four ways to race. Go for the finish in Classic Race, take on rivals in Takedown, shake a pursuit in Escape the Cops, or face a head-to-head contest in Duels. Use the upgrade system to improve your car as you move between events."
 },
 {
 "id": "561cf9d00d094958a975d9293b31d36e",
 "title": "Become a referee",
 "iframe": "https://html5.gamedistribution.com/561cf9d00d094958a975d9293b31d36e/",
 "categories": ["Football"],
-"creator": "Ringier Axel Springer Polska"
+"creator": "Ringier Axel Springer Polska",
+"description": "Take a seat at the VAR screen in Become a referee. The quiz shows ten football situations from the pitch and asks you to make a call in each one. Watch the play unfold, then use what you saw and what you know about the rules to make the assistant referee's decision."
 },
 {
 "id": "5631209b2c004fe1ad5902d9dd68dff7",
 "title": "NOVA Covered Ops",
 "iframe": "https://html5.gamedistribution.com/5631209b2c004fe1ad5902d9dd68dff7/",
 "categories": ["Adventure"],
-"creator": "Gameloft SE"
+"creator": "Gameloft SE",
+"description": "Play as Kal Wardin in NOVA Covered Ops after a plea from Yelena brings him back to Earth. The campaign takes you through 14 stages across two settings. Pick up power-ups and special weapons as you advance through the missions and fight to save humanity."
 },
 {
 "id": "565c24d740e0465ca3f27eef8f4f279a",
 "title": "Balloons Creator",
 "iframe": "https://html5.gamedistribution.com/565c24d740e0465ca3f27eef8f4f279a/",
 "categories": ["Casual"],
-"creator": "Gamebol"
+"creator": "Gamebol",
+"description": "Balloons Creator challenges you to fill a container with balloons without spilling too many over the edges. Make balloons in bursts and give them a moment to settle before adding more. Reach the target line to clear the stage, then work out how much to release in the next container."
 },
 {
 "id": "56ccd9b31a5d47c793cb86876920b924",
 "title": "Food Gang Run",
 "iframe": "https://html5.gamedistribution.com/56ccd9b31a5d47c793cb86876920b924/",
 "categories": ["Agility"],
-"creator": "TapTapking.com"
+"creator": "TapTapking.com",
+"description": "Make a break for the kitchen exit in Food Gang Run as a tomato, banana, or broccoli. Dodge flying doughnuts, sword-wielding sushi, and pizza slices with cannons. Pick up weapons along the way to fight back, and watch for bigger enemies such as armed pumpkins as you work through the levels."
 },
 {
 "id": "5620c7b45c9c456c93269400395a02c0",
 "title": "Count Masters Clash Pusher 3D",
 "iframe": "https://html5.gamedistribution.com/5620c7b45c9c456c93269400395a02c0/",
 "categories": ["Strategy"],
-"creator": "bestgames.com"
+"creator": "bestgames.com",
+"description": "Build up a stickman crowd in Count Masters Clash Pusher 3D before it reaches the boss. Guide the group toward pickups that add runners and away from obstacles that shrink your advantage. The strength of the crowd at the finish matters, so consider which route leaves you with the most fighters for the final clash."
 },
 {
 "id": "5678b7e348c841049377958ed7b00860",
 "title": "Red Light Green Light",
 "iframe": "https://html5.gamedistribution.com/5678b7e348c841049377958ed7b00860/",
 "categories": ["Casual"],
-"creator": "PuzzleGame.Com"
+"creator": "PuzzleGame.Com",
+"description": "Red Light Green Light is a stop-and-go race with obstacles between you and the finish. Move when the signal allows it and stop as the countdown ends. Getting caught moving sends you back to the start. Aim for a place in the top three and unlock new skins as you play."
 },
 {
 "id": "56ce081e5ca54baf85dbe7d0c5eab923",
 "title": "Princess Villains",
 "iframe": "https://html5.gamedistribution.com/56ce081e5ca54baf85dbe7d0c5eab923/",
 "categories": ["Dress-up"],
-"creator": "DL-studio"
+"creator": "DL-studio",
+"description": "Give familiar princesses a villain makeover in Princess Villains. Start with dark makeup, then choose a gown with red or gold detailing to set the look. Add a cloak, wings, a potion, or a magic staff to decide whether the character looks ready for a royal entrance or a spell."
 },
 {
 "id": "568c0f00b53844a19bceb4c7ad4de18a",
 "title": "Healing Rush",
 "iframe": "https://html5.gamedistribution.com/568c0f00b53844a19bceb4c7ad4de18a/",
 "categories": ["Casual"],
-"creator": "Dats Games"
+"creator": "Dats Games",
+"description": "Run a hospital in Healing Rush and treat patients with unusual illnesses. Check what medicine each person needs and get it to them quickly. As you take care of more patients, build up the hospital so you can handle the next wave of people looking for treatment."
 },
 {
 "id": "56a421dfbf76416fbc83465c86089ab9",
 "title": "Juicy Run",
 "iframe": "https://html5.gamedistribution.com/56a421dfbf76416fbc83465c86089ab9/",
 "categories": ["Casual"],
-"creator": "YAD.Com"
+"creator": "YAD.Com",
+"description": "Cut a path through rows of fruit in Juicy Run with a spinning, toothed gear. Hold the control to send out shadow copies of the gear that cut a wider path through the fruit. Time their release for the groups you want to slice as the run carries you forward."
 },
 {
 "id": "562cce5513044dfb9de268df27c0ed46",
 "title": "Stick War: New Age",
 "iframe": "https://html5.gamedistribution.com/562cce5513044dfb9de268df27c0ed46/",
 "categories": ["Adventure"],
-"creator": "Hihoy"
+"creator": "Hihoy",
+"description": "Guide an armed stickman through Stick War: New Age. Fight enemies along the route and use your weapon to break obstacles that can be destroyed. Swinging spiked balls, spinning blades, and moving rocks still have to be avoided, so look for a gap in their movement before crossing."
 },
 {
 "id": "56a1b70622004ac29f49241461a0c620",
 "title": "Hero Telekinesis",
 "iframe": "https://html5.gamedistribution.com/56a1b70622004ac29f49241461a0c620/",
 "categories": ["Adventure"],
-"creator": "GoGoMan"
+"creator": "GoGoMan",
+"description": "Pick up scenery with your mind in Hero Telekinesis and throw it at attackers. You can knock down archer towers and fling the broken parts, or send an explosive barrel into a group. Shielded enemies can deflect your attacks and bosses wear armor, so choose your projectiles and openings while arrows are flying toward you."
 },
 {
 "id": "56530612328541f58e4654d743ba8cbe",
 "title": "Emoji Match 3",
 "iframe": "https://html5.gamedistribution.com/56530612328541f58e4654d743ba8cbe/",
 "categories": ["Match-3"],
-"creator": "tinyDream"
+"creator": "tinyDream",
+"description": "Slide rows or columns of faces in Emoji Match 3 to line up at least three of the same emoji. Moving one face also shifts its neighbors, so check where the rest of the row or column will land. Look across the board for a move that brings matching faces together."
 },
 {
 "id": "56d1af545f6b43ea9f66147567d140f5",
 "title": "Scary Monsters Coloring",
 "iframe": "https://html5.gamedistribution.com/56d1af545f6b43ea9f66147567d140f5/",
 "categories": ["Art"],
-"creator": "STA network"
+"creator": "STA network",
+"description": "Choose from eight drawings in Scary Monsters Coloring and use the 23-color palette to fill in the creatures. Work quickly if you are aiming for a high score, or spend time picking different colors for the small details. The game also lets you save the picture you color."
 },
 {
 "id": "5630367ed9bc4a6297b328874e6e6378",
 "title": "ONet Halloween Links",
 "iframe": "https://html5.gamedistribution.com/5630367ed9bc4a6297b328874e6e6378/",
 "categories": ["Mahjong & Connect"],
-"creator": "GamesFine.com"
+"creator": "GamesFine.com",
+"description": "Find matching Halloween tiles in ONet Halloween Links and remove each pair by linking them along a path with up to two right-angle turns. Some boards shift their remaining tiles after a match, so look again when the layout changes. There are 27 stages, with a bonus for finishing before time expires."
 },
 {
 "id": "56da8a54fe204845b34ccff750d4a60b",
 "title": "Fireboy And Watergirl 6: Fairy Tales",
 "iframe": "https://html5.gamedistribution.com/56da8a54fe204845b34ccff750d4a60b/",
 "categories": ["Adventure"],
-"creator": "Septimaniac"
+"creator": "Septimaniac",
+"description": "In Fireboy And Watergirl 6: Fairy Tales, guide both characters through a temple with help from fairies. Work the levers and buttons, collect diamonds, and figure out how to get through each room within the target time. Play through the 30 puzzles by yourself or share control of the two characters with a friend."
 },
 {
 "id": "562082247afb4b75a379cf8f428d1d2e",
 "title": "Crazy Drift",
 "iframe": "https://html5.gamedistribution.com/562082247afb4b75a379cf8f428d1d2e/",
 "categories": ["Racing & Driving"],
-"creator": "QkyGames"
+"creator": "QkyGames",
+"description": "Slide around turns in Crazy Drift and collect the checkpoints scattered through each course. The obstacles make some approaches tighter than they first look. Set up the car's angle before a turn, then guide it around the hazards and toward the next checkpoint without hitting anything."
 },
 {
 "id": "5652b83b68b1444ea1296683369ac6c6",
 "title": "Blob Runner 3D",
 "iframe": "https://html5.gamedistribution.com/5652b83b68b1444ea1296683369ac6c6/",
 "categories": ["Casual"],
-"creator": "YAD.Com"
+"creator": "YAD.Com",
+"description": "Guide a moving blob through an obstacle course in Blob Runner 3D. Gather pieces of slime to grow, and steer away from hazards that cut the blob down. If a collision costs you part of your body, look for more slime along the route to build yourself back up before the finish."
 },
 {
 "id": "560fc8d53620417c929240a538d546c2",
 "title": "Miami Super Drive",
 "iframe": "https://html5.gamedistribution.com/560fc8d53620417c929240a538d546c2/",
 "categories": ["Racing & Driving"],
-"creator": "G55.CO"
+"creator": "G55.CO",
+"description": "Pick one of seven supercars in Miami Super Drive and steer it through the city streets. Look for checkpoints as you drive and choose your approach to each turn so you can hit the next marker. The objective is to collect every checkpoint on the course."
 },
 {
 "id": "56937ba005ce40278af29cc60786b6c9",
 "title": "Climb the Ladder",
 "iframe": "https://html5.gamedistribution.com/56937ba005ce40278af29cc60786b6c9/",
 "categories": ["Casual"],
-"creator": "bestgames.com"
+"creator": "bestgames.com",
+"description": "In Climb the Ladder, keep reaching upward on a ladder that never ends. Time each change of hands to keep climbing as the rungs get trickier. Link clean moves together for combos and see how high you can push your score before a missed reach ends the run."
 },
 {
 "id": "56488b2cbb424dd18e72b656e7b70362",
 "title": "Arrow Twist",
 "iframe": "https://html5.gamedistribution.com/56488b2cbb424dd18e72b656e7b70362/",
 "categories": ["Casual"],
-"creator": "QkyGames"
+"creator": "QkyGames",
+"description": "In Arrow Twist, the arrow changes direction as you watch. Tap while its point faces the way you want it to go and the arrow moves along that line. Wait for the next useful angle before tapping again and see how far you can keep it moving."
 },
 {
 "id": "56bf921f5e504ac0ac8a5f85d771c653",
 "title": "Idle Ants",
 "iframe": "https://html5.gamedistribution.com/56bf921f5e504ac0ac8a5f85d771c653/",
 "categories": ["Simulation"],
-"creator": "YAD.Com"
+"creator": "YAD.Com",
+"description": "Put a colony to work in Idle Ants. Send your ants to dismantle whatever appears above ground, from eggs and other bugs to meals and even airplanes. The colony earns money as it consumes objects, giving you a way to build up the workforce for whatever it takes apart next."
 },
 {
 "id": "564c9fb908244aa382f64a89fc6b0524",
 "title": "Baby Hazel Doctor Dressup",
 "iframe": "https://html5.gamedistribution.com/564c9fb908244aa382f64a89fc6b0524/",
 "categories": ["Dress-up"],
-"creator": "Baby Hazel"
+"creator": "Baby Hazel",
+"description": "Get Hazel ready for the hospital in Baby Hazel Doctor Dressup. Choose a white coat, a nursing cap, shoes, and a hairstyle, then give her the medical tools you want her to carry. The activity is about assembling her outfit and equipment before she goes to see her patients."
 },
 {
 "id": "560c40acf464444baef7988a188dc5c1",
 "title": "TikTok girls vs Likee girls",
 "iframe": "https://html5.gamedistribution.com/560c40acf464444baef7988a188dc5c1/",
 "categories": ["Dress-up"],
-"creator": "DL-studio"
+"creator": "DL-studio",
+"description": "Style two social media creators in TikTok girls vs Likee girls. Marinet makes short dance and singing clips for TikTok, while Milana prefers hair and makeup tutorials on Likee. Choose looks that suit what each girl likes to film, then see how the two styles compare."
 },
 {
 "id": "565e4e32a89b455f98b4483524167118",
 "title": "Happy Christmas Slide",
 "iframe": "https://html5.gamedistribution.com/565e4e32a89b455f98b4483524167118/",
 "categories": ["Puzzle"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "Happy Christmas Slide turns three festive pictures into sliding puzzles. Choose a picture and a board with three, four, or five tiles along each side, then shift the pieces until the scene is whole. The larger boards give you more pieces to keep track of while working the picture back into place."
 },
 {
 "id": "56879bf190094c62a0a6dce3e1795fb2",
 "title": "Tappy Flappy Trump",
 "iframe": "https://html5.gamedistribution.com/56879bf190094c62a0a6dce3e1795fb2/",
 "categories": ["Casual"],
-"creator": "Vi Games"
+"creator": "Vi Games",
+"description": "In Tappy Flappy Trump, keep a flying cartoon Trump in the air as he travels toward the goal. Guide him through rings, pick up coronavirus icons, and steer clear of the obstacles in between. The course gets tougher across five levels."
 },
 {
 "id": "56e05f4f239f457d8c9b48e2fc4395cf",
 "title": "Golden Goal With Buddies",
 "iframe": "https://html5.gamedistribution.com/56e05f4f239f457d8c9b48e2fc4395cf/",
 "categories": ["Football"],
-"creator": "MarketJS"
+"creator": "MarketJS",
+"description": "Golden Goal With Buddies is a live multiplayer penalty shootout. Swipe upward to kick and see how many goals you can put away while your opponent takes their shots. Challenge a friend or match with another player, then aim to finish the round with the higher score."
 },
 {
 "id": "563ed088b0e0445e9d43f2e32a5510f9",
 "title": "Pixel Adventure",
 "iframe": "https://html5.gamedistribution.com/563ed088b0e0445e9d43f2e32a5510f9/",
 "categories": ["Adventure"],
-"creator": "igroutka.ru"
+"creator": "igroutka.ru",
+"description": "Guide a pixel-art character through the platforming levels in Pixel Adventure. Move with the left and right arrows and press Space to jump. Time each leap around hazards such as spikes and saws, and watch where you will land when there is an enemy on the next stretch."
 },
 {
 "id": "56ed7afdece44364a447a6aa9b556a4b",
 "title": "Death Copter",
 "iframe": "https://html5.gamedistribution.com/56ed7afdece44364a447a6aa9b556a4b/",
 "categories": ["Shooter"],
-"creator": "igroutka.ru"
+"creator": "igroutka.ru",
+"description": "Take a seat behind the machine gun in Death Copter. From the helicopter, look for targets below, bring the sights onto them, and fire. The action takes place in 3D, so you have to keep finding a clear line of fire as the view from the aircraft changes."
 },
 {
 "id": "56027aa91e78430a958c617359a060ea",
 "title": "4x4 Insects",
 "iframe": "https://html5.gamedistribution.com/56027aa91e78430a958c617359a060ea/",
 "categories": ["Puzzle"],
-"creator": "Lof Games"
+"creator": "Lof Games",
+"description": "Put scrambled insect pictures back together in 4x4 Insects. Use the finished cartoon shown on the right as your reference, then move the pieces on the board to match it. Compare the insect's outline and the details at the edges of each piece to work out which tiles belong together."
 },
 {
 "id": "566ceb9f832e4521b34367fee9cd58e7",
 "title": "Motorcycle and Girls Slide",
 "iframe": "https://html5.gamedistribution.com/566ceb9f832e4521b34367fee9cd58e7/",
 "categories": ["Puzzle"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "Motorcycle and Girls Slide offers three pictures to solve as sliding puzzles. Pick an image and one of the three board modes, then move the shuffled tiles until the scene is restored. Look for details that continue from one tile to the next to place parts of the motorcycle and the figures."
 },
 {
 "id": "567f67fcceaa492bb17eaffbe6d97d0f",
 "title": "Connect The Balls",
 "iframe": "https://html5.gamedistribution.com/567f67fcceaa492bb17eaffbe6d97d0f/",
 "categories": ["Mahjong & Connect"],
-"creator": "Extra Games"
+"creator": "Extra Games",
+"description": "Connect The Balls asks you to link balls of the same color before the timer runs out. Scan the board for groups you can connect, then move on to the next color. Try to include as many matching balls as you can while there is time left."
 },
 {
 "id": "565db37e57674c1d9fba3d727671568e",
 "title": "Pool 8 Ball Mania",
 "iframe": "https://html5.gamedistribution.com/565db37e57674c1d9fba3d727671568e/",
 "categories": ["Sports"],
-"creator": "Inlogic Software"
+"creator": "Inlogic Software",
+"description": "Play a rack of eight-ball in Pool 8 Ball Mania against a computer player or a friend. Set up the cue ball, use the aiming guide to line up the shot, and clear your group before going for the eight. The angle of each shot also affects where the cue ball ends up for your next turn."
 },
 {
 "id": "5602f52eee7c4897ad21059f8c69ebd5",
 "title": "Doll And Animal Child Games",
 "iframe": "https://html5.gamedistribution.com/5602f52eee7c4897ad21059f8c69ebd5/",
 "categories": ["Puzzle"],
-"creator": "babygames.com"
+"creator": "babygames.com",
+"description": "Doll And Animal Child Games brings Masha and the Bear into a collection of thirteen short learning games. Masha, in her pink sundress, introduces the collection. Children can switch between the mini-games and work through a different small activity each time."
 },
 {
 "id": "56fd31953a584184ad82e9ea522198a1",
 "title": "Lucky Looter",
 "iframe": "https://html5.gamedistribution.com/56fd31953a584184ad82e9ea522198a1/",
 "categories": ["Casual"],
-"creator": "BPTop"
+"creator": "BPTop",
+"description": "Sneak past police patrols in Lucky Looter and gather as much loot as you can. Drag to move the thief, then release to duck into a box when a patrol comes close. Watch which way the officers are headed before coming out of hiding and making a dash for the next item."
 },
 {
 "id": "565bc6db14634ac19b47878cfe5bed04",
 "title": "Nail Art Design",
 "iframe": "https://html5.gamedistribution.com/565bc6db14634ac19b47878cfe5bed04/",
 "categories": ["Art"],
-"creator": "crazyschoolgames"
+"creator": "crazyschoolgames",
+"description": "Work on a manicure in Nail Art Design. Use brushes and colors to paint the nails, then add stickers to give each nail its own details. Rings and hand tattoos are also available if you want the design to extend beyond the polish."
 },
 {
 "id": "56592a34c54440fd94b0e6d4eebeb845",
 "title": "Sky Roller Online",
 "iframe": "https://html5.gamedistribution.com/56592a34c54440fd94b0e6d4eebeb845/",
 "categories": ["Casual"],
-"creator": "YAD.Com"
+"creator": "YAD.Com",
+"description": "Sky Roller Online moves your skater forward automatically. Your job is to spread or bring in their legs so the skates stay on a clear path around obstacles. Watch both sides of the course, and pick up diamonds on runs to unlock different skater looks."
 },
 {
 "id": "569e39f7c047413692be364d8b45ccb0",
 "title": "Railroad Crossing Mania Game",
 "iframe": "https://html5.gamedistribution.com/569e39f7c047413692be364d8b45ccb0/",
 "categories": ["Adventure"],
-"creator": "wingmangames"
+"creator": "wingmangames",
+"description": "Railroad Crossing Mania Game puts you in charge of the traffic at a railway crossing. Lower the barriers as a train approaches so cars wait clear of the tracks, then reopen the road once the train has passed. Keep an eye on both the tracks and the waiting traffic when you time the gates."
 },
 {
 "id": "56428441436e4135a822f68a592fc64f",
 "title": "Ludo Multiplayer Challenge",
 "iframe": "https://html5.gamedistribution.com/56428441436e4135a822f68a592fc64f/",
 "categories": ["Boardgames"],
-"creator": "Vi Games"
+"creator": "Vi Games",
+"description": "Play Ludo Multiplayer Challenge against a friend. Roll the die, choose which piece to advance, and guide your pieces around the board toward home. Watch the spaces occupied by your opponent and decide whether to move a piece that is already out or bring another one into play."
 },
 {
 "id": "56fc317c064f49cfb740b07e8b39a7fa",
 "title": "Flappy Soccer Ball",
 "iframe": "https://html5.gamedistribution.com/56fc317c064f49cfb740b07e8b39a7fa/",
 "categories": ["Football"],
-"creator": "Fun Best Games"
+"creator": "Fun Best Games",
+"description": "Keep a soccer ball airborne in Flappy Soccer Ball and guide it along a route through the air. Time each lift so the ball stays at the height the route calls for, then let it drop when you need to line up with a lower opening."
 },
 {
 "id": "56ad5360675740b3b5d588b64b6e24b0",
 "title": "Pool 8 Ball",
 "iframe": "https://html5.gamedistribution.com/56ad5360675740b3b5d588b64b6e24b0/",
 "categories": ["Sports"],
-"creator": "Best Kids Games"
+"creator": "Best Kids Games",
+"description": "Pool 8 Ball has a solo game against the clock and a two-player mode on one device. Aim the cue and pocket balls under standard eight-ball rules. When playing with a friend, plan the next shot as you clear your group and leave the eight ball for last."
 },
 {
 "id": "566b95e436c54f5ba4cdebdf48f6a339",
 "title": "Lets Kill Jeff The Killer Jeffs Revenge 2020",
 "iframe": "https://html5.gamedistribution.com/566b95e436c54f5ba4cdebdf48f6a339/",
 "categories": ["Adventure"],
-"creator": "kiz10.com"
+"creator": "kiz10.com",
+"description": "Lets Kill Jeff The Killer Jeffs Revenge 2020 gives you two sides of the same horror story. As a soldier, search an abandoned town for eight rusty knives and try to kill Jeff. Play as Jeff instead and you have to fight off the soldiers, gather eight hearts, and open a gate to the Mystic dimension to escape."
 },
 {
 "id": "56a4576e808d41bf998754fe86504622",
 "title": "Never Stop",
 "iframe": "https://html5.gamedistribution.com/56a4576e808d41bf998754fe86504622/",
 "categories": ["Casual"],
-"creator": "JZJO.COM"
+"creator": "JZJO.COM",
+"description": "Never Stop sends a tiny runner along a course made of rotating beams. Watch the protruding branches and time your movement so the runner can get past them without hitting one. Read the position of the next beam as you go and see how long you can keep the run alive."
 },
 {
 "id": "565f2ece78f449738659f3750bc7314c",
 "title": "BasketballDunk.io",
 "iframe": "https://html5.gamedistribution.com/565f2ece78f449738659f3750bc7314c/",
 "categories": [".IO"],
-"creator": "Instant Games Studio"
+"creator": "Instant Games Studio",
+"description": "Shoot for the hoop in BasketballDunk.io. Each basket adds to your score, so work on lining up one shot after another. Choose endless mode when you want to keep going for a higher total, or switch to the levels to take the baskets in separate challenges."
 },
 {
 "id": "56333b3e4a314c83b8e19443d6c9810a",
 "title": "Bomber Truck",
 "iframe": "https://html5.gamedistribution.com/56333b3e4a314c83b8e19443d6c9810a/",
 "categories": ["Racing & Driving"],
-"creator": "newgamess"
+"creator": "newgamess",
+"description": "Carry an explosive load over rough ground in Bomber Truck. Balance the truck over bumps and changes in slope so the bomb stays in the back. Each stage also has a time limit, so you have to keep moving while slowing down enough to protect the cargo."
 },
 {
 "id": "561b8b27714b4d689b022f0d38a77b90",
 "title": "HTML5 Parking Car",
 "iframe": "https://html5.gamedistribution.com/561b8b27714b4d689b022f0d38a77b90/",
 "categories": ["Racing & Driving"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "HTML5 Parking Car gives you ten courses that end at a marked parking spot. Steer the car around walls and parked vehicles, then line it up with the space and pull in without a collision. A quick, clean park earns a better score."
 },
 {
 "id": "568f9c67cc454272afc4953f36c7283a",
 "title": "Color Band 3D",
 "iframe": "https://html5.gamedistribution.com/568f9c67cc454272afc4953f36c7283a/",
 "categories": ["Art"],
-"creator": "8Games.Net"
+"creator": "8Games.Net",
+"description": "Color Band 3D asks you to feed colored cubes into a saw while keeping the white cubes intact. Drag the blocks to control what reaches the blade, and look for where the colors change before you move a group. Cut the right cubes to advance to the next stage."
 },
 {
 "id": "56c9ccfe1b524f9388502e4f9a1bdfbd",
 "title": "Spin The Wheel",
 "iframe": "https://html5.gamedistribution.com/56c9ccfe1b524f9388502e4f9a1bdfbd/",
 "categories": ["Casual"],
-"creator": "MarketJS"
+"creator": "MarketJS",
+"description": "Start with five turns in Spin The Wheel and see how much virtual cash you can collect. The wheel can land on multipliers or a jackpot, and a bonus spin can keep the round going after your starting turns run low. Watch for the wheel to glow when the boost improves your odds of a bigger prize."
 },
 {
 "id": "5642504b532b453eaf0b733a80eb4e1e",
 "title": "Bus Parking Simulator 3D",
 "iframe": "https://html5.gamedistribution.com/5642504b532b453eaf0b733a80eb4e1e/",
 "categories": ["Simulation"],
-"creator": "Instant Games Studio"
+"creator": "Instant Games Studio",
+"description": "Take the driver's seat in Bus Parking Simulator 3D. Guide the bus into the marked spot across a series of courses that get tighter as you progress. Give yourself room to turn and consider where the back of the bus will swing before lining it up with the space."
 },
 {
 "id": "567e9596770a4a4c9425f66ab8ccca2f",
 "title": "Spill the Beer!",
 "iframe": "https://html5.gamedistribution.com/567e9596770a4a4c9425f66ab8ccca2f/",
 "categories": ["Casual"],
-"creator": "Ricreator"
+"creator": "Ricreator",
+"description": "Spill the Beer! is a physics puzzle in which you use a falling ball to knock over a glass. Drag the ball into position, then release it so it lands where you want. Change the drop point if the first hit leaves the glass standing."
 },
 {
 "id": "562ea05d249e4341965bb2b93a6fd8d5",
 "title": "Cube Defence",
 "iframe": "https://html5.gamedistribution.com/562ea05d249e4341965bb2b93a6fd8d5/",
 "categories": ["Casual"],
-"creator": "Playschoolgames"
+"creator": "Playschoolgames",
+"description": "Pick your targets by color in Cube Defence. Shoot the red cubes and leave the blue ones alone because they give you life. Keep hitting the right cubes to build a combo and add bonus points to your score. See how high you can get before your lives run out."
 },
 {
 "id": "56a134f7059a437bacd44abbd9bdc090",
 "title": "Fly Car Stunt 2",
 "iframe": "https://html5.gamedistribution.com/56a134f7059a437bacd44abbd9bdc090/",
 "categories": ["Battle"],
-"creator": "RHM Interactive"
+"creator": "RHM Interactive",
+"description": "Race along elevated tracks in Fly Car Stunt 2 on your own or against a friend. Use nitro to keep your car airborne longer between stretches of road. The 12 courses have traps such as swinging hammers, saws, and electrical hazards, so keep an eye on what is ahead before you use a boost."
 },
 {
 "id": "564f5c5b20914c67b8c328b5098c5faf",
 "title": "Impossible Truck Driving Simulator 3D",
 "iframe": "https://html5.gamedistribution.com/564f5c5b20914c67b8c328b5098c5faf/",
 "categories": ["Racing & Driving"],
-"creator": "igroutka.ru"
+"creator": "igroutka.ru",
+"description": "Take a heavy truck onto tracks high in the air in Impossible Truck Driving Simulator 3D. The height makes a poor turn costly, and the long vehicle needs room to line up with each part of the route. Judge your speed and steering to carry the truck through the course without driving off the edge."
 },
 {
 "id": "56c7831062ed4ddc9d350bbcf6f467b7",
 "title": "1 Line",
 "iframe": "https://html5.gamedistribution.com/56c7831062ed4ddc9d350bbcf6f467b7/",
 "categories": ["Casual"],
-"creator": "Webgameapp"
+"creator": "Webgameapp",
+"description": "Trace the figure in 1 Line by drawing a single continuous stroke. Plan where to start before following the connections between points. The puzzle is to cover the whole figure without lifting your stroke or retracing a segment, so consider where a path will leave you before you take it."
 },
 {
 "id": "565624ddbe6948559c1d66d5ef7f74ad",
 "title": "Desert Rally",
 "iframe": "https://html5.gamedistribution.com/565624ddbe6948559c1d66d5ef7f74ad/",
 "categories": ["Casual"],
-"creator": "MarketJS"
+"creator": "MarketJS",
+"description": "Drive a jeep through timed desert tracks in Desert Rally. Drag left or right to steer from a view behind the vehicle. Watch the bends ahead and make small corrections as you go, since a poor line through a turn costs time on the way to the finish."
 },
 {
 "id": "56fd64c45b5c4eb59adc6e09086cb891",
 "title": "Speed challenge Colors Game",
 "iframe": "https://html5.gamedistribution.com/56fd64c45b5c4eb59adc6e09086cb891/",
 "categories": ["Casual"],
-"creator": "Playtouch"
+"creator": "Playtouch",
+"description": "Control a dot in Speed challenge Colors Game while geometric shapes move across the play area. Use the up and down arrows to change your position, and press the left arrow to shoot. Read the paths of incoming shapes to decide when to move into line and when to fire."
 },
 {
 "id": "56b01c3265ae487b88db3f2659701312",
 "title": "Princess Black Wedding Dress",
 "iframe": "https://html5.gamedistribution.com/56b01c3265ae487b88db3f2659701312/",
 "categories": ["Dress-up"],
-"creator": "Unify Media Inc."
+"creator": "Unify Media Inc.",
+"description": "Style Moana and Rapunzel for their weddings in Princess Black Wedding Dress. Both want a black gown, and you get to choose how each bride wears it. Try pink and white eye shadow or cherry lipstick on Moana, then pair the makeup with a dress that suits her look."
 },
 {
 "id": "56713ae478064cd184168033f1fa6ac7",
 "title": "What's Inside?",
 "iframe": "https://html5.gamedistribution.com/56713ae478064cd184168033f1fa6ac7/",
 "categories": ["Puzzle"],
-"creator": "Physical Form"
+"creator": "Physical Form",
+"description": "What's Inside? tests how well you can follow objects as they fall into a box. Watch which ones go in and keep track of what stays there. When it is time to answer, use the sequence you remember to identify what is still inside."
 },
 {
 "id": "566e69f135e247af94e90b635a7906f6",
 "title": "Aqua Bubble Shooter",
 "iframe": "https://html5.gamedistribution.com/566e69f135e247af94e90b635a7906f6/",
 "categories": ["Bubble Shooter"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "Aim a bubble launcher in Aqua Bubble Shooter and group bubbles of the same color to pop them. Each stage has a target, so look for shots that help reach it while opening space for the next bubble. Aim for a color group you can reach instead of adding a bubble where it has nothing to match."
 },
 {
 "id": "5670339f017f4daaa63cc9d4bb66bcd2",
 "title": "Helix Bump",
 "iframe": "https://html5.gamedistribution.com/5670339f017f4daaa63cc9d4bb66bcd2/",
 "categories": ["Casual"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "Rotate the tower in Helix Bump to guide a bouncing ball through gaps in the platforms. Keep watching the rings below as the ball drops, and steer clear of the dangerous sections. The tower continues as long as you can keep finding a way down."
 },
 {
 "id": "5671ef99daf0420db877aa094c0abb5d",
 "title": "Rome Fashion Girls",
 "iframe": "https://html5.gamedistribution.com/5671ef99daf0420db877aa094c0abb5d/",
 "categories": ["Dress-up"],
-"creator": "igroutka.ru"
+"creator": "igroutka.ru",
+"description": "Build a wardrobe for your avatar in Rome Fashion Girls. Shop for pieces you like, then combine them into outfits for different style challenges. Try a new pairing from the closet when the same pieces need to fit a different look, and use each challenge to shape your avatar's personal style."
 },
 {
 "id": "569f1119875b4442ba032532da9d14cc",
 "title": "Bridal Shower Party for Moana",
 "iframe": "https://html5.gamedistribution.com/569f1119875b4442ba032532da9d14cc/",
 "categories": ["Dress-up"],
-"creator": "Games Banner Network"
+"creator": "Games Banner Network",
+"description": "Help Moana's friends put together a princess-themed celebration in Bridal Shower Party for Moana. Choose what the maids of honor will wear, then put together a look for Moana as the bride. The outfits can share a party theme while giving the guest of honor a look of her own."
 },
 {
 "id": "564aa314160349eda832c5de159d3315",
 "title": "Hero Tales",
 "iframe": "https://html5.gamedistribution.com/564aa314160349eda832c5de159d3315/",
 "categories": ["Adventure"],
-"creator": "Playtouch"
+"creator": "Playtouch",
+"description": "Fight through a fantasy world in Hero Tales, where defeating a monster costs some of your own life. Look for bananas, hearts, and little apples to recover health between enemies. Your route depends on keeping enough life in reserve to survive the next fight."
 },
 {
 "id": "56329abbed594a508db3b15ad7e5366a",
 "title": "COLORUID",
 "iframe": "https://html5.gamedistribution.com/56329abbed594a508db3b15ad7e5366a/",
 "categories": ["Casual"],
-"creator": "Roman Parada"
+"creator": "Roman Parada",
+"description": "Turn the whole board one color in COLORUID before running out of moves. Choose where to apply each color change as well as which color to use. Nearby pieces can shift when a group changes, so the position of one move can affect the options available for the next."
 },
 {
 "id": "56d381e297f34ffba3c697fbd8630b65",
 "title": "Monster Truck Jigsaw Challenge",
 "iframe": "https://html5.gamedistribution.com/56d381e297f34ffba3c697fbd8630b65/",
 "categories": ["Jigsaw"],
-"creator": "Vi Games"
+"creator": "Vi Games",
+"description": "Choose a monster truck picture in Monster Truck Jigsaw Challenge and put it together at your own pace. Each image has easy, medium, and hard settings, and the game gives you time to study the pieces without a countdown. Use bodywork, tires, and background details to see which edges join."
 },
 {
 "id": "56ff422d9ba04fdeb62d25f7d89816e4",
 "title": "Hop Quest",
 "iframe": "https://html5.gamedistribution.com/56ff422d9ba04fdeb62d25f7d89816e4/",
 "categories": ["Battle"],
-"creator": "kiz10.com"
+"creator": "kiz10.com",
+"description": "Hop Quest sends you across platforms filled with traps. Time your jumps to move toward the exit, and use the attack and defend moves when you meet trouble on a platform. Pick up gold coins during your attempts to unlock more heroes for later runs."
 },
 {
 "id": "56f07f6ff1bb43e5a745e95684c03caf",
 "title": "Cube Ninja",
 "iframe": "https://html5.gamedistribution.com/56f07f6ff1bb43e5a745e95684c03caf/",
 "categories": ["Agility", "Casual"],
-"creator": "Onduck Games"
+"creator": "Onduck Games",
+"description": "Flip gravity in Cube Ninja to move between the floor and ceiling as obstacles come up. A tap or click changes which surface the ninja travels along, so look ahead before switching sides. Grab sushi when it is safe to reach for a score bonus."
 },
 {
 "id": "56608e2b292142dca9bc5e39b5aa5bf2",
 "title": "Move Forward",
 "iframe": "https://html5.gamedistribution.com/56608e2b292142dca9bc5e39b5aa5bf2/",
 "categories": ["Puzzle"],
-"creator": "Epic Runes"
+"creator": "Epic Runes",
+"description": "In Move Forward, step from tile to tile until the board is clear and you are back where you started. You can move one square up, down, left, or right at a time. Work out a return route before taking the first step, especially when traps block some approaches."
 },
 {
 "id": "5641e1f8019d48c1ac7a45b4fe588034",
 "title": "Undead Drive",
 "iframe": "https://html5.gamedistribution.com/5641e1f8019d48c1ac7a45b4fe588034/",
 "categories": ["Racing & Driving"],
-"creator": "Agame"
+"creator": "Agame",
+"description": "Get behind the wheel in Undead Drive and try to escape as zombies close in. Use the car to run them down as you make your way through the outbreak. Keep steering through the crowds while looking for a route that lets the car continue toward safety."
 },
 {
 "id": "56bcdc35fa6443358d5e1345e7340c1a",
 "title": "Ice Princess Doll Creator",
 "iframe": "https://html5.gamedistribution.com/56bcdc35fa6443358d5e1345e7340c1a/",
 "categories": ["Art"],
-"creator": "Oscar Intermed"
+"creator": "Oscar Intermed",
+"description": "Design a doll in Ice Princess Doll Creator, then dress her for different occasions. Start by choosing how the doll looks. Once the design is ready, use the wardrobe to change her outfit from one event to the next and see how the same doll looks in different styles."
 },
 {
 "id": "5601979fea4a4ca0a52abe29a4ddce8f",
 "title": "Sports Heads: Football Championship 2016",
 "iframe": "https://html5.gamedistribution.com/5601979fea4a4ca0a52abe29a4ddce8f/",
 "categories": ["Football"],
-"creator": "Agame"
+"creator": "Agame",
+"description": "Sports Heads: Football Championship 2016 gives you 90 seconds to outscore your opponent in a head-to-head football match. Get the ball into the other goal and watch for power-ups as play continues. Some improve your chances on the pitch, while others make the match harder for your opponent."
 },
 {
 "id": "562f6000935f42ee95c45bfd7c6cfd1b",
 "title": "Tris VIP Dolly Makeup",
 "iframe": "https://html5.gamedistribution.com/562f6000935f42ee95c45bfd7c6cfd1b/",
 "categories": ["Dress-up"],
-"creator": "GlossyPlay"
+"creator": "GlossyPlay",
+"description": "Get Tris ready for a VIP night in Tris VIP Dolly Makeup. Open boxes to reveal eye shadows, blushes, and lipsticks, then use what you find to build a look around her style. Try different combinations as you open more boxes and work toward the game's achievements."
 },
 {
 "id": "566f49dad4f141a4a2f8e56fb0c9ce05",
 "title": "Holiday Spa",
 "iframe": "https://html5.gamedistribution.com/566f49dad4f141a4a2f8e56fb0c9ce05/",
 "categories": ["Casual"],
-"creator": "Play Belle Games"
+"creator": "Play Belle Games",
+"description": "Holiday Spa gives you a model to style with makeup, hair, and accessories. Combine eye shadow, lashes, blush, and lipstick, then use face paint or gems if the look calls for them. Finish with a hairstyle that goes with the makeup, whether you are going for a runway look or something suited to a wedding."
 },
 {
 "id": "569877d3778747359457369ad224a7f0",
 "title": "Superdoll Washing Capes",
 "iframe": "https://html5.gamedistribution.com/569877d3778747359457369ad224a7f0/",
 "categories": ["Dress-up"],
-"creator": "SisiGames"
+"creator": "SisiGames",
+"description": "Help a superhero with her laundry in Superdoll Washing Capes. Separate the whites from the colored clothes, then put the capes through the wash. Hang the wet capes to dry and use the iron to finish the job so the superhero has a tidy wardrobe again."
 }
 ]
 }
