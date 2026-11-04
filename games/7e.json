@@ -5,658 +5,752 @@
 "title": "2048 Decks",
 "iframe": "https://html5.gamedistribution.com/7ed65185b3d64a6c9a23781176a04db9/",
 "categories": ["Puzzle", "Quiz"],
-"creator": "HF Studio"
+"creator": "HF Studio",
+"description": "Plan around a visible deck in 2048 Decks. Each drag shifts tiles one square, and equal tiles merge when the one in front can't move. Use the three upcoming tiles to plan."
 },
 {
 "id": "7e89bf1cdaba49abaaa39ae0f227be71",
 "title": "Boys vs Girls",
 "iframe": "https://html5.gamedistribution.com/7e89bf1cdaba49abaaa39ae0f227be71/",
 "categories": ["Adventure", "Simulation"],
-"creator": "MarketJS"
+"creator": "MarketJS",
+"description": "Follow the classroom rivalry in Boys vs Girls. Take on school disputes over things like class elections, rumors, and snacks as small disagreements become outsized competitions."
 },
 {
 "id": "7e5fa050cf904c779fe39bd4cffa7760",
 "title": "Dragon Egg Master",
 "iframe": "https://html5.gamedistribution.com/7e5fa050cf904c779fe39bd4cffa7760/",
 "categories": ["Puzzle"],
-"creator": "BUSIDOL"
+"creator": "BUSIDOL",
+"description": "Sort eggs into nests by color in Dragon Egg Master. Move the eggs between nests until each group matches, then see the dragons hatch as you progress."
 },
 {
 "id": "7e86037ddb88415687479f0adebf5bf0",
 "title": "Jelly Monsters Link Puzzle",
 "iframe": "https://html5.gamedistribution.com/7e86037ddb88415687479f0adebf5bf0/",
 "categories": ["Puzzle"],
-"creator": "Todos For Games"
+"creator": "Todos For Games",
+"description": "Connect two identical jelly monsters in Jelly Monsters Link Puzzle. Think about which pairs open useful paths and work through each board until all of its monsters are gone."
 },
 {
 "id": "7e5efdcdc8d84b2291c0febe8de5e638",
 "title": "Worm Puzzle Snake Apple",
 "iframe": "https://html5.gamedistribution.com/7e5efdcdc8d84b2291c0febe8de5e638/",
 "categories": ["Adventure", "Puzzle"],
-"creator": "PuzzleGame.Com"
+"creator": "PuzzleGame.Com",
+"description": "Guide a snake through traps in Worm Puzzle Snake Apple. Work out how its body fits through the level, then choose a route that takes it to the apple."
 },
 {
 "id": "7e7b6107748646f2b18f69bf535663b6",
 "title": "Merge Lagoon",
 "iframe": "https://html5.gamedistribution.com/7e7b6107748646f2b18f69bf535663b6/",
 "categories": ["Merge"],
-"creator": "Clever Apps Pte. Ltd."
+"creator": "Clever Apps Pte. Ltd.",
+"description": "Help Lucy restore a seaside resort in Merge Lagoon. Combine items to get what you need for repairs, then reopen buildings and meet more characters as the island story unfolds."
 },
 {
 "id": "7e943bed895146b0a6939bb7c92a8e7c",
 "title": "Bricks Balls Breaker",
 "iframe": "https://html5.gamedistribution.com/7e943bed895146b0a6939bb7c92a8e7c/",
 "categories": ["Casual", "Strategy"],
-"creator": "Playgama"
+"creator": "Playgama",
+"description": "Launch balls at bricks in Bricks Balls Breaker. Pick angles that reach several bricks on a shot and clear the field before the growing layout gets in your way."
 },
 {
 "id": "7eccd8515acf46ed965dcf7d22fd00f1",
 "title": "Turbo Stunt Racing",
 "iframe": "https://html5.gamedistribution.com/7eccd8515acf46ed965dcf7d22fd00f1/",
 "categories": ["Racing & Driving"],
-"creator": "Playgama"
+"creator": "Playgama",
+"description": "Race over ramps and around traps in Turbo Stunt Racing. Control acceleration and steering through each course, then upgrade cars as you take on more rivals."
 },
 {
 "id": "7e56aaba8636419ca9931494fc0ef65c",
 "title": "Super Star Animal Salon",
 "iframe": "https://html5.gamedistribution.com/7e56aaba8636419ca9931494fc0ef65c/",
 "categories": ["Casual", "Simulation"],
-"creator": "Yiv.Com"
+"creator": "Yiv.Com",
+"description": "Style the visitors in Super Star Animal Salon. Use the salon tools on furry, feathered, and scaly clients and give each one a look that suits it."
 },
 {
 "id": "7e16468a56634988a48fb8d6661285d4",
 "title": "Finger Soccer Tournament",
 "iframe": "https://html5.gamedistribution.com/7e16468a56634988a48fb8d6661285d4/",
 "categories": ["Sports", "Casual"],
-"creator": "Playgama"
+"creator": "Playgama",
+"description": "Move your paddle to defend the goal in Finger Soccer Tournament. Score more than the opposing team in the solo tournament, or play the two-player mode on a mobile device."
 },
 {
 "id": "7e02319e692c47b0b0eb47ba3f153f37",
 "title": "Tiles Matching",
 "iframe": "https://html5.gamedistribution.com/7e02319e692c47b0b0eb47ba3f153f37/",
 "categories": ["Mahjong & Connect", "Match-3"],
-"creator": "Andles Games"
+"creator": "Andles Games",
+"description": "Pick tiles that can form a trio in Tiles Matching. Use the visible pieces to plan which ones to collect first, and clear the board through a series of matches."
 },
 {
 "id": "7ed6f14336f94414a38f89da673bbfa7",
 "title": "Obby 3D Sprunki Parkour",
 "iframe": "https://html5.gamedistribution.com/7ed6f14336f94414a38f89da673bbfa7/",
 "categories": ["Agility", "Simulation"],
-"creator": "kiz10.com"
+"creator": "kiz10.com",
+"description": "Cross moving platforms and narrow ledges in Obby 3D Sprunki Parkour. Time jumps around the obstacles and pick up coins and power-ups on your way through the course."
 },
 {
 "id": "7ed505972426420c9c6c958ee1a7b758",
 "title": "Flappy Rush",
 "iframe": "https://html5.gamedistribution.com/7ed505972426420c9c6c958ee1a7b758/",
 "categories": ["Casual"],
-"creator": "atupdev"
+"creator": "atupdev",
+"description": "Hold to hover and release to fall in Flappy Rush. Find the height that clears each obstacle and follow the changing route as you work through the musical levels."
 },
 {
 "id": "7ec72d890bde4256b02f8222a6545b4c",
 "title": "Halloween Challenge",
 "iframe": "https://html5.gamedistribution.com/7ec72d890bde4256b02f8222a6545b4c/",
 "categories": ["Adventure"],
-"creator": "Pro_Gaming"
+"creator": "Pro_Gaming",
+"description": "Tap bats before they escape with the candy in Halloween Challenge. Watch where each one is headed and react quickly, since letting even one get away ends the run."
 },
 {
 "id": "7e0d4ac309994e2b9be602835c88b0c2",
 "title": "Mega Ramps Ultimate Car Races",
 "iframe": "https://html5.gamedistribution.com/7e0d4ac309994e2b9be602835c88b0c2/",
 "categories": ["Racing & Driving", ".IO"],
-"creator": "Best Free Games"
+"creator": "Best Free Games",
+"description": "Take stunt cars onto high ramps in Mega Ramps Ultimate Car Races. Steer through the courses and line up each approach before sending the car over a jump."
 },
 {
 "id": "7ea5afdd37a64eac95cb0d7600d46065",
 "title": "COINs",
 "iframe": "https://html5.gamedistribution.com/7ea5afdd37a64eac95cb0d7600d46065/",
 "categories": ["Puzzle", "Agility"],
-"creator": "Synk Inc."
+"creator": "Synk Inc.",
+"description": "Build lines of ten identical coins in COINs. Each completed line gives you a coin one number higher. Move and add coins as needed to reach number ten quickly."
 },
 {
 "id": "7ebe2db7107c4d1db78aad447fb2bc3c",
 "title": "Grand Theft NY",
 "iframe": "https://html5.gamedistribution.com/7ebe2db7107c4d1db78aad447fb2bc3c/",
 "categories": ["Adventure"],
-"creator": "kiz10.com"
+"creator": "kiz10.com",
+"description": "Explore a 3D city as a thief in Grand Theft NY. Follow the arrows to checkpoints around New York and decide how to cross the open map to reach your assignments."
 },
 {
 "id": "7e150881bd90410391cd7efbe8e51d87",
 "title": "Parkour Block obby",
 "iframe": "https://html5.gamedistribution.com/7e150881bd90410391cd7efbe8e51d87/",
 "categories": ["Puzzle"],
-"creator": "IT-Hype"
+"creator": "IT-Hype",
+"description": "Cross block-built obstacle courses in Parkour Block obby. Steer and jump between platforms, collect diamonds to buy skins, and try to reach the end ahead of the other runners."
 },
 {
 "id": "7e94247ebeb74ed4a8577bb97eda9138",
 "title": "Body Care Simulator",
 "iframe": "https://html5.gamedistribution.com/7e94247ebeb74ed4a8577bb97eda9138/",
 "categories": ["Casual"],
-"creator": "YAD.Com"
+"creator": "YAD.Com",
+"description": "Choose one of four treatments in Body Care Simulator. Use the tools for a foot spa, manicure, lip care, or ear cleaning and work through the steps for that activity."
 },
 {
 "id": "7e46bcbce73349e283971cc6666709a2",
 "title": "Komera",
 "iframe": "https://html5.gamedistribution.com/7e46bcbce73349e283971cc6666709a2/",
 "categories": ["Puzzle"],
-"creator": "Catom Games"
+"creator": "Catom Games",
+"description": "Copy the picture on the left in Komera. Use the controls to adjust angle, size, and position before the countdown expires. New controls are added as the levels get harder."
 },
 {
 "id": "7eae0ee261024d5d96ab0323250a00f7",
 "title": "Best Classic Spider Solitaire",
 "iframe": "https://html5.gamedistribution.com/7eae0ee261024d5d96ab0323250a00f7/",
 "categories": ["Cards"],
-"creator": "Agame"
+"creator": "Agame",
+"description": "Build eight runs from king down to ace in Best Classic Spider Solitaire. Move cards between columns to reveal hidden ones and work toward runs you can clear."
 },
 {
 "id": "7e1a325865f141bab73c690ab778ab80",
 "title": "Stacktris 2048",
 "iframe": "https://html5.gamedistribution.com/7e1a325865f141bab73c690ab778ab80/",
 "categories": ["Puzzle"],
-"creator": "Mirra Games"
+"creator": "Mirra Games",
+"description": "Stack falling numbered cubes in Stacktris 2048. Place cubes so identical values touch and merge, and leave enough room to work toward a cube worth 2048."
 },
 {
 "id": "7e6081ee99794640aa94aa77fa629c03",
 "title": "Novice Fisherman",
 "iframe": "https://html5.gamedistribution.com/7e6081ee99794640aa94aa77fa629c03/",
 "categories": ["Casual"],
-"creator": "UznGames"
+"creator": "UznGames",
+"description": "Move your boat with the left and right arrows in Novice Fisherman and cast with down. Catch fish before time runs out and use bombs when sharks approach."
 },
 {
 "id": "7eec3cf91f004dec9ff94ccc6a231c2f",
 "title": "Sniper King 2D The Dark City",
 "iframe": "https://html5.gamedistribution.com/7eec3cf91f004dec9ff94ccc6a231c2f/",
 "categories": ["Shooter"],
-"creator": "BestGameSpot"
+"creator": "BestGameSpot",
+"description": "Complete sniper assignments in Sniper King 2D The Dark City. Read the objective before you aim, and work out which shot meets it while keeping the operation quiet."
 },
 {
 "id": "7e388bf0aff94e9c834d69ad2e8e6c0d",
 "title": "Stylish Crop Top Trends",
 "iframe": "https://html5.gamedistribution.com/7e388bf0aff94e9c834d69ad2e8e6c0d/",
 "categories": ["Dress-up"],
-"creator": "Cutedressup"
+"creator": "Cutedressup",
+"description": "Style Noah, Willow, and Dee Dee around crop tops in Stylish Crop Top Trends. Try different summer outfits and see how each top changes the rest of the look."
 },
 {
 "id": "7ead15d6b27247ad81581082add4241d",
 "title": "Hamster Pop",
 "iframe": "https://html5.gamedistribution.com/7ead15d6b27247ad81581082add4241d/",
 "categories": ["Mahjong & Connect"],
-"creator": "Inlogic Software"
+"creator": "Inlogic Software",
+"description": "Send hamster tiles into the tray in Hamster Pop. Three of the same animal clear together, so look for a match before the limited space at the bottom fills."
 },
 {
 "id": "7e866049885645aa91e1fff120b8267d",
 "title": "2048 Wooden Edition",
 "iframe": "https://html5.gamedistribution.com/7e866049885645aa91e1fff120b8267d/",
 "categories": ["Puzzle"],
-"creator": "Playtouch"
+"creator": "Playtouch",
+"description": "Slide wooden tiles around the board in 2048 Wooden Edition. Combine equal numbers to double them and keep the grid open as you work toward 2048."
 },
 {
 "id": "7e910cee97df406ba928811d4d2a675d",
 "title": "Stunt Biker 3D",
 "iframe": "https://html5.gamedistribution.com/7e910cee97df406ba928811d4d2a675d/",
 "categories": ["Racing & Driving"],
-"creator": "Royale Gamers"
+"creator": "Royale Gamers",
+"description": "Take a bike through stunt courses in Stunt Biker 3D. Use WASD or the arrows to steer and press Shift for nitro when the next section gives you room."
 },
 {
 "id": "7efd25cb099644258adbbadf6df2ccb6",
 "title": "Ice Cream Candy",
 "iframe": "https://html5.gamedistribution.com/7efd25cb099644258adbbadf6df2ccb6/",
 "categories": ["Casual"],
-"creator": "Pidomtech"
+"creator": "Pidomtech",
+"description": "Match candies and sea creatures in Ice Cream Candy. Aim for the level goal and make groups of four or more to create tiles that can blast larger areas."
 },
 {
 "id": "7e4a4cbb41ac408286a05242f8033296",
 "title": "Zombie Mission X",
 "iframe": "https://html5.gamedistribution.com/7e4a4cbb41ac408286a05242f8033296/",
 "categories": ["Shooter"],
-"creator": "RHM Interactive"
+"creator": "RHM Interactive",
+"description": "Rescue Emily and Silver's friends in Zombie Mission X. Move through a winter setting taken over by zombies and find the captives as you work through the mission."
 },
 {
 "id": "7e5f17f6b84c451a9f545ea8d358e750",
 "title": "TRZ Battleship",
 "iframe": "https://html5.gamedistribution.com/7e5f17f6b84c451a9f545ea8d358e750/",
 "categories": ["Battle"],
-"creator": "trezegames"
+"creator": "trezegames",
+"description": "Fire at squares in the enemy grid in TRZ Battleship. Take turns and use the hits you get to trace each ship. Sink the entire opposing fleet before yours is destroyed."
 },
 {
 "id": "7ec3fbfa9f2a425ba69df5e975572ee6",
 "title": "Princess Gala Host",
 "iframe": "https://html5.gamedistribution.com/7ec3fbfa9f2a425ba69df5e975572ee6/",
 "categories": ["Dress-up"],
-"creator": "Top Girl Games"
+"creator": "Top Girl Games",
+"description": "Prepare Cinderella to present a gala in Princess Gala Host. Choose her makeup and find a formal outfit, then see how the whole look works before she goes onstage."
 },
 {
 "id": "7ecf65e39795427e9092f43d1e49f5bd",
 "title": "Frozen Sam",
 "iframe": "https://html5.gamedistribution.com/7ecf65e39795427e9092f43d1e49f5bd/",
 "categories": ["Casual"],
-"creator": "YAD.Com"
+"creator": "YAD.Com",
+"description": "Freeze opponents with one hand in Frozen Sam, then fire with the other to break the ice. Click or tap to use the two abilities against the enemies in front of you."
 },
 {
 "id": "7eb19cef319e41769ff6905d41df567c",
 "title": "Animals Memory",
 "iframe": "https://html5.gamedistribution.com/7eb19cef319e41769ff6905d41df567c/",
 "categories": ["Casual"],
-"creator": "Polar Games"
+"creator": "Polar Games",
+"description": "Turn over animal cards in Animals Memory and remember what you see. Match identical pictures to clear each layout, and work through ten levels of memory puzzles."
 },
 {
 "id": "7e70abbf3be244649b594c3f72d97c13",
 "title": "Super Heroes Ball",
 "iframe": "https://html5.gamedistribution.com/7e70abbf3be244649b594c3f72d97c13/",
 "categories": ["Adventure"],
-"creator": "kiz10.com"
+"creator": "kiz10.com",
+"description": "Take a superhero through the levels in Super Heroes Ball. Start with Spider-Man and recover the Infinity Gems as you work toward a showdown with Thanos."
 },
 {
 "id": "7e63a3b5a8654cddb51802092c490b78",
 "title": "Lucky Tap",
 "iframe": "https://html5.gamedistribution.com/7e63a3b5a8654cddb51802092c490b78/",
 "categories": ["Agility"],
-"creator": "FTG"
+"creator": "FTG",
+"description": "Choose the red or blue pill in Lucky Tap. A correct guess lets you continue. Try to keep the streak going and see how many rounds luck takes you through."
 },
 {
 "id": "7eefb8e21c304af5a9b84be91745801f",
 "title": "Princess Magic Gradient",
 "iframe": "https://html5.gamedistribution.com/7eefb8e21c304af5a9b84be91745801f/",
 "categories": ["Dress-up"],
-"creator": "DL-studio"
+"creator": "DL-studio",
+"description": "Style Eliza and Milana in Princess Magic Gradient. Try spring clothes with bright gradients or geometric patterns, and pair them with a hairstyle and makeup."
 },
 {
 "id": "7e6a39fc477e4e78b7ac17f511ac1921",
 "title": "Circle Collector",
 "iframe": "https://html5.gamedistribution.com/7e6a39fc477e4e78b7ac17f511ac1921/",
 "categories": ["Puzzle"],
-"creator": "MBG Network"
+"creator": "MBG Network",
+"description": "Collect colored balls in Circle Collector using the three controls at the bottom. Watch the gray circle and time your pickups so the balls don't collide with it."
 },
 {
 "id": "7ebbc28e7ce84291a12c94586c444a59",
 "title": "Xmas Triple Mahjong",
 "iframe": "https://html5.gamedistribution.com/7ebbc28e7ce84291a12c94586c444a59/",
 "categories": ["Mahjong & Connect"],
-"creator": "Lof Games"
+"creator": "Lof Games",
+"description": "Find three matching holiday tiles in Xmas Triple Mahjong. Pick tiles with two sides open and plan which triples to clear first. Use a hint when a layout stalls."
 },
 {
 "id": "7eda2be289604aa89f3b97df59661bfe",
 "title": "Hide N Seek!",
 "iframe": "https://html5.gamedistribution.com/7eda2be289604aa89f3b97df59661bfe/",
 "categories": ["Casual"],
-"creator": "bestgames.com"
+"creator": "bestgames.com",
+"description": "Switch roles in Hide N Seek! Evade the seekers and collect diamonds as a runner, or become the captor and search the maze for the people hiding there."
 },
 {
 "id": "7ea34716b7204752adf88e7aa7a292ab",
 "title": "Funny Monkeys Coloring",
 "iframe": "https://html5.gamedistribution.com/7ea34716b7204752adf88e7aa7a292ab/",
 "categories": ["Art"],
-"creator": "STA network"
+"creator": "STA network",
+"description": "Paint eight monkey pictures in Funny Monkeys Coloring. Choose from 23 colors, work quickly if you want a higher score, and save the picture when you're finished."
 },
 {
 "id": "7e63b48d8be64ecea137aa91a0addb4a",
 "title": "ball runner game",
 "iframe": "https://html5.gamedistribution.com/7e63b48d8be64ecea137aa91a0addb4a/",
 "categories": ["Casual"],
-"creator": "hitNrun games"
+"creator": "hitNrun games",
+"description": "Steer a rolling ball through obstacle courses in ball runner game. Look ahead for objects blocking the route and guide the ball past them to keep moving toward the finish."
 },
 {
 "id": "7e856fd39fcd470f9e3f4775fd0f0365",
 "title": "Solitaire 13in1 Collection",
 "iframe": "https://html5.gamedistribution.com/7e856fd39fcd470f9e3f4775fd0f0365/",
 "categories": ["Cards"],
-"creator": "Inlogic Software"
+"creator": "Inlogic Software",
+"description": "Choose from thirteen solitaire variants in Solitaire 13in1 Collection. Play Klondike, FreeCell, or another layout, then follow that variant's rules to clear the cards."
 },
 {
 "id": "7e93a59bee854f75a1586e601a619ecb",
 "title": "Jet Sky Water Boat Racing Game",
 "iframe": "https://html5.gamedistribution.com/7e93a59bee854f75a1586e601a619ecb/",
 "categories": ["Racing & Driving"],
-"creator": "ideagames"
+"creator": "ideagames",
+"description": "Ride a jet ski in Jet Sky Water Boat Racing Game. Follow the race course and steer around opponents as you try to pull ahead on the water."
 },
 {
 "id": "7e28fce8127e4b71b596671556a8ecaa",
 "title": "Real Apple Catcher Extreme fruit catcher surprise",
 "iframe": "https://html5.gamedistribution.com/7e28fce8127e4b71b596671556a8ecaa/",
 "categories": ["Art"],
-"creator": "GameZing"
+"creator": "GameZing",
+"description": "Catch falling fruit in Real Apple Catcher Extreme fruit catcher surprise. Keep up with the apples as they fall and meet the target before the clock runs out to advance."
 },
 {
 "id": "7e276459fd2c4bd98b2f47d0e8236964",
 "title": "Friendship Puzzle",
 "iframe": "https://html5.gamedistribution.com/7e276459fd2c4bd98b2f47d0e8236964/",
 "categories": ["Puzzle"],
-"creator": "Playschoolgames"
+"creator": "Playschoolgames",
+"description": "Put together pictures about friendship in Friendship Puzzle. Pick from twelve designs and three difficulty settings, then use the mouse to fit the pieces back into place."
 },
 {
 "id": "7e1dd319db88443280a2628f92d6e1e7",
 "title": "Car Transporter Ship Simulator",
 "iframe": "https://html5.gamedistribution.com/7e1dd319db88443280a2628f92d6e1e7/",
 "categories": ["Simulation"],
-"creator": "8Games.Net"
+"creator": "8Games.Net",
+"description": "Take cars across the sea in Car Transporter Ship Simulator. Control the ferry with WASD or the arrows and guide the cargo along its delivery route."
 },
 {
 "id": "7eb9064c218a491090ee39cb3778b7c9",
 "title": "21 Solitaire",
 "iframe": "https://html5.gamedistribution.com/7eb9064c218a491090ee39cb3778b7c9/",
 "categories": ["Cards"],
-"creator": "Joypad Media"
+"creator": "Joypad Media",
+"description": "Try to reach 21 without going over in 21 Solitaire. Choose a basic game to focus on card totals or try a mode that adds virtual side bets."
 },
 {
 "id": "7e545f3ea2a54fae961d2a91be659b64",
 "title": "Corona Virus.io",
 "iframe": "https://html5.gamedistribution.com/7e545f3ea2a54fae961d2a91be659b64/",
 "categories": [".IO"],
-"creator": "Royale Gamers"
+"creator": "Royale Gamers",
+"description": "Play a fictional defender virus in Corona Virus.io. Hit rivals with your nose and avoid letting them run into you as you work toward the biggest nose."
 },
 {
 "id": "7eefd333b9994e32940417efbb8084b9",
 "title": "Jump Rocky Jump",
 "iframe": "https://html5.gamedistribution.com/7eefd333b9994e32940417efbb8084b9/",
 "categories": ["Agility"],
-"creator": "newgamess"
+"creator": "newgamess",
+"description": "Help Rocky reach higher platforms in Jump Rocky Jump. Use the mouse or arrow keys and aim for the next landing to keep scoring as you climb."
 },
 {
 "id": "7e0332c53c1d4044a60bab150219dda4",
 "title": "Killer Assassin",
 "iframe": "https://html5.gamedistribution.com/7e0332c53c1d4044a60bab150219dda4/",
 "categories": ["Casual"],
-"creator": "BPTop"
+"creator": "BPTop",
+"description": "Slip through shadows in Killer Assassin to avoid the guards' flashlights. Approach each target from a hidden route and take them out one at a time without being seen."
 },
 {
 "id": "7e5f2d550b824b9ebde0789d065b9290",
 "title": "Brick Block",
 "iframe": "https://html5.gamedistribution.com/7e5f2d550b824b9ebde0789d065b9290/",
 "categories": ["Puzzle"],
-"creator": "DiHits"
+"creator": "DiHits",
+"description": "Drop falling blocks into the right positions in Brick Block. Complete horizontal lines to clear room and keep the remaining stack ready for the next shape."
 },
 {
 "id": "7e2b0f510f384e16a4326c8fc7e165fd",
 "title": "Love is Sweet Valentine 2 Puzzle",
 "iframe": "https://html5.gamedistribution.com/7e2b0f510f384e16a4326c8fc7e165fd/",
 "categories": ["Puzzle"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "Reassemble six romantic images in Love is Sweet Valentine 2 Puzzle. Choose from four piece counts and look for connecting shapes as the Valentine scenes take form."
 },
 {
 "id": "7e99a73398a24e3c94e1bf90b9279397",
 "title": "Online Ice Cream Coloring",
 "iframe": "https://html5.gamedistribution.com/7e99a73398a24e3c94e1bf90b9279397/",
 "categories": ["Art"],
-"creator": "MGS"
+"creator": "MGS",
+"description": "Color ice cream illustrations in Online Ice Cream Coloring. Use the mouse to pick shades for the scoops and toppings, then try a different palette on the next drawing."
 },
 {
 "id": "7e4a5b7cc2bb45e299e81eafc3f8c788",
 "title": "Make All Equal",
 "iframe": "https://html5.gamedistribution.com/7e4a5b7cc2bb45e299e81eafc3f8c788/",
 "categories": ["Puzzle"],
-"creator": "Lof Games"
+"creator": "Lof Games",
+"description": "Swap numbers between boxes in Make All Equal until every box adds up to the target. Check what a swap does to both totals before choosing another pair."
 },
 {
 "id": "7e2b554e42254c4c8759acff92089d18",
 "title": "Fairy Princess Jigsaw",
 "iframe": "https://html5.gamedistribution.com/7e2b554e42254c4c8759acff92089d18/",
 "categories": ["Jigsaw"],
-"creator": "New Kids Games"
+"creator": "New Kids Games",
+"description": "Piece together fairy illustrations in Fairy Princess Jigsaw. Solve pictures in order to unlock the next one and choose from 25, 49, or 100 pieces."
 },
 {
 "id": "7e18b3dddd554e92bcb4127e02939da1",
 "title": "Great Guru Jigsaw",
 "iframe": "https://html5.gamedistribution.com/7e18b3dddd554e92bcb4127e02939da1/",
 "categories": ["Jigsaw"],
-"creator": "Shunda Inc"
+"creator": "Shunda Inc",
+"description": "Solve one of twelve jigsaws in Great Guru Jigsaw. Choose 25, 49, or 100 pieces and use the edges or familiar details to help restore the picture."
 },
 {
 "id": "7e24fd2d97214709908d64d92c3d758e",
 "title": "Kardashians Do Christmas",
 "iframe": "https://html5.gamedistribution.com/7e24fd2d97214709908d64d92c3d758e/",
 "categories": ["Dress-up"],
-"creator": "Unify Media Inc."
+"creator": "Unify Media Inc.",
+"description": "Get Kendall, Kylie, and Kim ready for dinner in Kardashians Do Christmas. Browse outfits for each sister and put together three looks for the holiday gathering."
 },
 {
 "id": "7e4b1e485a0248fea8239ebc387203a2",
 "title": "ZombieHunter.IO",
 "iframe": "https://html5.gamedistribution.com/7e4b1e485a0248fea8239ebc387203a2/",
 "categories": [".IO"],
-"creator": "Bin Studio"
+"creator": "Bin Studio",
+"description": "Fight zombies for experience in ZombieHunter.IO. Move with WASD or the arrows and press F to boost. Survive the undead and the other players to be the last one standing."
 },
 {
 "id": "7e7799c97247464bb555dbe95ec8d2fc",
 "title": "Christmas Mahjong",
 "iframe": "https://html5.gamedistribution.com/7e7799c97247464bb555dbe95ec8d2fc/",
 "categories": ["Mahjong & Connect"],
-"creator": "Lof Games"
+"creator": "Lof Games",
+"description": "Clear matching Christmas tiles in Christmas Mahjong. Look for pairs with the required open sides, and remove tiles that expose more of the board as you go."
 },
 {
 "id": "7ea337f570874322b84ff9f2ac59c638",
 "title": "Super Bouncing Ball",
 "iframe": "https://html5.gamedistribution.com/7ea337f570874322b84ff9f2ac59c638/",
 "categories": ["Casual"],
-"creator": "Plug in Digital"
+"creator": "Plug in Digital",
+"description": "Drop a bouncing ball into the bricks in Super Bouncing Ball. Pick a starting point that gives it room to bounce through several blocks and keep clearing the field."
 },
 {
 "id": "7ec1216a890342d5919f4c2f18b507f0",
 "title": "Tropical Tennis",
 "iframe": "https://html5.gamedistribution.com/7ec1216a890342d5919f4c2f18b507f0/",
 "categories": ["Casual"],
-"creator": "FG Studio"
+"creator": "FG Studio",
+"description": "Drag the mouse to hit the ball in Tropical Tennis. Change the direction of your shots to send the ball away from the opponent and win the rally."
 },
 {
 "id": "7e542f1eeea448da95763e04b94ca344",
 "title": "Zombie at Dentist",
 "iframe": "https://html5.gamedistribution.com/7e542f1eeea448da95763e04b94ca344/",
 "categories": ["Shooter"],
-"creator": "newgamess"
+"creator": "newgamess",
+"description": "Treat a zombie patient's teeth in Zombie at Dentist. Use the tools at the dental chair to work through the problems you find and finish her appointment."
 },
 {
 "id": "7ee23ad554c44b74b7f81e85bc4ead98",
 "title": "Sling Racer",
 "iframe": "https://html5.gamedistribution.com/7ee23ad554c44b74b7f81e85bc4ead98/",
 "categories": ["Racing & Driving"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "Sling the car around corners in Sling Racer. Click to grab an anchor as you reach a bend, then line up the next turn and see how far you can travel."
 },
 {
 "id": "7e131d2e28a54f38b60747688f823f5e",
 "title": "BMW 1 Series UK Puzzle",
 "iframe": "https://html5.gamedistribution.com/7e131d2e28a54f38b60747688f823f5e/",
 "categories": ["Puzzle"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "Rebuild pictures of a BMW in BMW 1 Series UK Puzzle. Choose from six images and four piece counts, using the bodywork and wheels to identify neighboring pieces."
 },
 {
 "id": "7e0dc3f75b8740cb9f8ffd85f2b1f85e",
 "title": "Happy Crayons",
 "iframe": "https://html5.gamedistribution.com/7e0dc3f75b8740cb9f8ffd85f2b1f85e/",
 "categories": ["Art"],
-"creator": "MarketJS"
+"creator": "MarketJS",
+"description": "Color templates such as a turtle or teddy bear in Happy Crayons. Choose brush sizes and colors as you work, with the outlines keeping the paint within the picture."
 },
 {
 "id": "7e9b70ac145844aaba2f829ff1434fb4",
 "title": "Renault Zoe Puzzle",
 "iframe": "https://html5.gamedistribution.com/7e9b70ac145844aaba2f829ff1434fb4/",
 "categories": ["Puzzle"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "Complete jigsaws of the Renault Zoe in Renault Zoe Puzzle. Select one of six images and a piece count, then join details from the car and its surroundings."
 },
 {
 "id": "7e6a8f27a2464689ab190740c03bd2fe",
 "title": "Helix Down",
 "iframe": "https://html5.gamedistribution.com/7e6a8f27a2464689ab190740c03bd2fe/",
 "categories": ["Casual"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "Rotate the tower in Helix Down to make a path for the ball. Use A and D or swipe with the mouse to line up the gaps as you descend."
 },
 {
 "id": "7e449c113a6449eabc91d4910360ab6b",
 "title": "Clay Craft 3D Pottery",
 "iframe": "https://html5.gamedistribution.com/7e449c113a6449eabc91d4910360ab6b/",
 "categories": ["Casual"],
-"creator": "Royale Gamers"
+"creator": "Royale Gamers",
+"description": "Carve a pot to match the target in Clay Craft 3D Pottery. Drag along its sides to shape the clay and keep the tool away from the blue area."
 },
 {
 "id": "7eaef4a3d04444b2b3bf27f42285f123",
 "title": "BTS Helicopter Coloring",
 "iframe": "https://html5.gamedistribution.com/7eaef4a3d04444b2b3bf27f42285f123/",
 "categories": ["Art"],
-"creator": "Vi Games"
+"creator": "Vi Games",
+"description": "Pick a helicopter drawing in BTS Helicopter Coloring. Try different brushes and colors on the cockpit, body, and rotors before choosing another picture to work on."
 },
 {
 "id": "7eb51290f39a40ebb0203fb1e373f915",
 "title": "Snakeskin Pattern Fashion",
 "iframe": "https://html5.gamedistribution.com/7eb51290f39a40ebb0203fb1e373f915/",
 "categories": ["Dress-up"],
-"creator": "Unify Media Inc."
+"creator": "Unify Media Inc.",
+"description": "Build outfits around snakeskin prints in Snakeskin Pattern Fashion. Try makeup and a hairstyle for Jasmine, then find another way to use the same pattern trend for Harley Quinn."
 },
 {
 "id": "7e472f30ed64466c9345c3cd67f955ef",
 "title": "Princess Roller Skating Style",
 "iframe": "https://html5.gamedistribution.com/7e472f30ed64466c9345c3cd67f955ef/",
 "categories": ["Dress-up"],
-"creator": "MGS"
+"creator": "MGS",
+"description": "Prepare a skating competition in Princess Roller Skating Style. Clean and decorate the stage, then choose outfits for Poppy and Ava before they take to the rink."
 },
 {
 "id": "7e26bbb944484d6e89d45b569f846e60",
 "title": "Motorbike Traffic",
 "iframe": "https://html5.gamedistribution.com/7e26bbb944484d6e89d45b569f846e60/",
 "categories": ["Agility"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "Ride through traffic in Motorbike Traffic. Choose among three bikes and four modes, then watch for space to move as the vehicles ahead change position."
 },
 {
 "id": "7e6db75f627c4420bcf3d16a7e9124b9",
 "title": "EG RTS Battle",
 "iframe": "https://html5.gamedistribution.com/7e6db75f627c4420bcf3d16a7e9124b9/",
 "categories": ["Battle"],
-"creator": "EcapsGames.com"
+"creator": "EcapsGames.com",
+"description": "Deploy giants, archers, and knights in EG RTS Battle. Select and move units as enemy forces spawn, and keep attackers from getting through to your castles."
 },
 {
 "id": "7ef5370e240a430cbc56aef1c6a58d58",
 "title": "Animal Daycare",
 "iframe": "https://html5.gamedistribution.com/7ef5370e240a430cbc56aef1c6a58d58/",
 "categories": ["Care"],
-"creator": "8Games.Net"
+"creator": "8Games.Net",
+"description": "Care for pets in Animal Daycare. Use the mouse to work through the grooming and treatment activities and give each visitor the attention it needs."
 },
 {
 "id": "7efbd3449078484eb445299a882b328d",
 "title": "Smash the Politicians",
 "iframe": "https://html5.gamedistribution.com/7efbd3449078484eb445299a882b328d/",
 "categories": ["Casual"],
-"creator": "New Kids Games"
+"creator": "New Kids Games",
+"description": "Pop balloons carrying politicians' faces in Smash the Politicians. Try to beat your score, but watch for Kim Jong-un's balloon. Popping it three times ends the run."
 },
 {
 "id": "7e17c108dc14477aa8c553ba432599fb",
 "title": "Line Circle",
 "iframe": "https://html5.gamedistribution.com/7e17c108dc14477aa8c553ba432599fb/",
 "categories": ["Casual"],
-"creator": "Webgameapp"
+"creator": "Webgameapp",
+"description": "Guide a circle through lines in Line Circle. Time your movement as each line reaches you and keep clearing them to work toward a higher score."
 },
 {
 "id": "7eed62f73bd9429095e7c50776457bd5",
 "title": "Fish Rescue",
 "iframe": "https://html5.gamedistribution.com/7eed62f73bd9429095e7c50776457bd5/",
 "categories": ["Boardgames"],
-"creator": "Playtouch"
+"creator": "Playtouch",
+"description": "Draw a route to the anemone in Fish Rescue. Guide the small fish home while steering the path away from bigger fish that block the way."
 },
 {
 "id": "7e32ede989e44545aad05551b966d5f3",
 "title": "Mermaid Or Princess",
 "iframe": "https://html5.gamedistribution.com/7e32ede989e44545aad05551b966d5f3/",
 "categories": ["Dress-up"],
-"creator": "Oscar Intermed"
+"creator": "Oscar Intermed",
+"description": "Dress Elisa as both a mermaid and a princess in Mermaid Or Princess. Style each version for its special event and decide which finished look you prefer."
 },
 {
 "id": "7e30875c404b442eb12597175bdb85dc",
 "title": "Backgammon Multiplayer",
 "iframe": "https://html5.gamedistribution.com/7e30875c404b442eb12597175bdb85dc/",
 "categories": ["Boardgames"],
-"creator": "Code This Lab srl"
+"creator": "Code This Lab srl",
+"description": "Move checkers around the points in Backgammon Multiplayer. Play against the computer, face someone online, or share a device with a friend for a local match."
 },
 {
 "id": "7efd7d3c2484402986a84d9ddcc56b45",
 "title": "Color Challenge",
 "iframe": "https://html5.gamedistribution.com/7efd7d3c2484402986a84d9ddcc56b45/",
 "categories": ["Casual"],
-"creator": "DarknesGamesStudio"
+"creator": "DarknesGamesStudio",
+"description": "Match colors by changing yours in Color Challenge. Watch what comes next and switch to the corresponding color so you can keep making pairs and raising the score."
 },
 {
 "id": "7e83dead6eaf42b99178d5e7f4149f3d",
 "title": "Mommy Doctor Check Up",
 "iframe": "https://html5.gamedistribution.com/7e83dead6eaf42b99178d5e7f4149f3d/",
 "categories": ["Dress-up"],
-"creator": "SisiGames"
+"creator": "SisiGames",
+"description": "Take an expectant mother through a visit in Mommy Doctor Check Up. Check her temperature and blood pressure, measure her belly, then give her vitamins and choose a belly tattoo."
 },
 {
 "id": "7e5b2235596f4b86b8ff9824a1f97da0",
 "title": "Line Climber",
 "iframe": "https://html5.gamedistribution.com/7e5b2235596f4b86b8ff9824a1f97da0/",
 "categories": ["Casual"],
-"creator": "QkyGames"
+"creator": "QkyGames",
+"description": "Bounce upward from platform to platform in Line Climber. Steer the ball past spikes and turret fire, collect stars along the way, and cross the dotted line to finish the stage."
 },
 {
 "id": "7e6640177a114a37a1049bddf0e3c2dd",
 "title": "Silly Snakes",
 "iframe": "https://html5.gamedistribution.com/7e6640177a114a37a1049bddf0e3c2dd/",
 "categories": [".IO", "Casual"],
-"creator": "webofgrafix"
+"creator": "webofgrafix",
+"description": "Grow your snake by eating others in Silly Snakes. Move around the arena and watch where rivals are going so you can look for openings to take advantage of."
 },
 {
 "id": "7ef0de0c1c8c4d5e9d9b9928ea2c4ab2",
 "title": "Princess Space Suit",
 "iframe": "https://html5.gamedistribution.com/7ef0de0c1c8c4d5e9d9b9928ea2c4ab2/",
 "categories": ["Dress-up"],
-"creator": "MGS"
+"creator": "MGS",
+"description": "Outfit Elsa and Rapunzel for work outside the station in Princess Space Suit. Choose equipment for each princess before they head out to fix the problem on the spacecraft."
 },
 {
 "id": "7e2e56736eef49f78220605798903354",
 "title": "Snail Bob 5 HTML5",
 "iframe": "https://html5.gamedistribution.com/7e2e56736eef49f78220605798903354/",
 "categories": ["Adventure"],
-"creator": "Agame"
+"creator": "Agame",
+"description": "Help Bob reach the exit of each stage in Snail Bob 5 HTML5. Click parts of the environment to change the route and use the keys to turn or speed him up."
 },
 {
 "id": "7ec66bda2dea4b86b4e9ce4f92e4228e",
 "title": "Animal Hidden Stars",
 "iframe": "https://html5.gamedistribution.com/7ec66bda2dea4b86b4e9ce4f92e4228e/",
 "categories": ["Puzzle"],
-"creator": "Vi Games"
+"creator": "Vi Games",
+"description": "Spot five stars hidden in each scene in Animal Hidden Stars. Check the animal pictures closely, then select every star to unlock the next image."
 },
 {
 "id": "7e1d1e47d33e4685b8b7a9d98a3dd924",
 "title": "Adam and Eve: Adam the Ghost",
 "iframe": "https://html5.gamedistribution.com/7e1d1e47d33e4685b8b7a9d98a3dd924/",
 "categories": ["Adventure"],
-"creator": "Agame"
+"creator": "Agame",
+"description": "Help Adam learn to haunt in Adam and Eve: Adam the Ghost. Click or tap objects to see what changes and find a way to give people in each scene a scare."
 },
 {
 "id": "7e6d42d4952e4de1aa9a2928b72b8df1",
 "title": "PewPewIO.online",
 "iframe": "https://html5.gamedistribution.com/7e6d42d4952e4de1aa9a2928b72b8df1/",
 "categories": [".IO"],
-"creator": "WI Games"
+"creator": "WI Games",
+"description": "Fight for space in PewPewIO.online. Collect bonuses and use slides to rush in or retreat. Switch on Push mode to ram a rival or reposition across the arena."
 },
 {
 "id": "7ee9da4c85fd44f986d90971f9388fac",
 "title": "Trial Rush",
 "iframe": "http://html5.gamedistribution.com/7ee9da4c85fd44f986d90971f9388fac/",
 "categories": ["Racing & Driving"],
-"creator": "Casual_Azerion_Old"
+"creator": "Casual_Azerion_Old",
+"description": "Ride a motorcycle through stunt tracks in Trial Rush. Judge the approach to each jump and keep the bike under control through the demanding parts of the course."
 },
 {
 "id": "7efefea55869411db22571b44559fd27",
 "title": "Candy Hero",
 "iframe": "https://html5.gamedistribution.com/7efefea55869411db22571b44559fd27/",
 "categories": ["Match-3"],
-"creator": "Agame"
+"creator": "Agame",
+"description": "Help a superhero deal with an oversized candy supply in Candy Hero. Make groups of three to clear sweets before the pile grows too large."
 },
 {
 "id": "7ebd9713cf7d41be80c5d8b8c87786fa",
 "title": "Super Sudoku",
 "iframe": "https://html5.gamedistribution.com/7ebd9713cf7d41be80c5d8b8c87786fa/",
 "categories": ["Puzzle"],
-"creator": "Agame"
+"creator": "Agame",
+"description": "Solve the grids in Super Sudoku by filling in missing digits. Use the existing numbers to check that each row, column, and box can hold one of each."
 },
 {
 "id": "7e125947f7e84a4392ce1ac3efcc361e",
 "title": "Princess Wardrobe Perfect Date",
 "iframe": "https://html5.gamedistribution.com/7e125947f7e84a4392ce1ac3efcc361e/",
 "categories": ["Dress-up"],
-"creator": "Racz Ioan Paul II"
+"creator": "Racz Ioan Paul II",
+"description": "Get a princess ready in Princess Wardrobe Perfect Date. Choose her makeup and haircut, then finish the look with clothes and accessories for the date."
 },
 {
 "id": "7e19f4281790457ca8264a08b376f5a6",
 "title": "Love Battle",
 "iframe": "https://html5.gamedistribution.com/7e19f4281790457ca8264a08b376f5a6/",
 "categories": ["Battle"],
-"creator": "Play Belle Games"
+"creator": "Play Belle Games",
+"description": "Help Elsa choose between two suitors in Love Battle. Follow the rivalry between Jack and Joe and decide which one you think is the better match for her."
 }
 ]
 }
