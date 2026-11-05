@@ -5,630 +5,720 @@
 "title": "Block Slide",
 "iframe": "https://html5.gamedistribution.com/fd87802acd154aae8a4425c061dc528b/",
 "categories": ["Puzzle"],
-"creator": "KridaX"
+"creator": "KridaX",
+"description": "Block Slide moves every block at once when you choose a direction. Slide them until a wall or another block stops them, then bring each onto its matching target. Work around mechanics such as teleporters, sticky pieces and conveyor tiles as the levels develop."
 },
 {
 "id": "fd5ae555f42e4dac872819ed9125616c",
 "title": "Stickman Adventure",
 "iframe": "https://html5.gamedistribution.com/fd5ae555f42e4dac872819ed9125616c/",
 "categories": ["Adventure"],
-"creator": "Yizhiyuan Network Technology Co., Ltd."
+"creator": "Yizhiyuan Network Technology Co., Ltd.",
+"description": "Stickman Adventure sends a hero through different settings to rescue captured friends. Move past traps and attack the monsters blocking the route. Use the arrow keys and Space, or the displayed buttons, to keep the adventure moving."
 },
 {
 "id": "fdbf380d1035480482a3133391a6360d",
 "title": "Arrow Escape: Puzzle",
 "iframe": "https://html5.gamedistribution.com/fdbf380d1035480482a3133391a6360d/",
 "categories": ["Puzzle"],
-"creator": "GamePush"
+"creator": "GamePush",
+"description": "Arrow Escape: Puzzle asks you to clear a board by removing its arrows in the right order. Each can move only toward its pointed end when the route is open. Release the unblocked arrows first to make room for those still trapped."
 },
 {
 "id": "fdc27f2a01054e3db5d8ca70057d2cc2",
 "title": "Mr Bounce",
 "iframe": "https://html5.gamedistribution.com/fdc27f2a01054e3db5d8ca70057d2cc2/",
 "categories": ["Puzzle", "Casual"],
-"creator": "Eyestorm Pte. LTD."
+"creator": "Eyestorm Pte. LTD.",
+"description": "Mr Bounce is a physics puzzle about drawing a path for a bouncing character. Shape the line to control the rebound and get around the obstacles ahead. Consider where the next collision will send the character before finishing the route."
 },
 {
 "id": "fde0930bb7fc49dbaa01ed881e3e40ce",
 "title": "Zooma Dragon",
 "iframe": "https://html5.gamedistribution.com/fde0930bb7fc49dbaa01ed881e3e40ce/",
 "categories": ["Casual"],
-"creator": "Starodymov Games"
+"creator": "Starodymov Games",
+"description": "Zooma Dragon puts you in control of a dragon firing colored balls into a moving chain. Make matching groups and clear the chain before any ball reaches the hole. Switch between the two available shots when another color offers a better placement."
 },
 {
 "id": "fd9aafb2f496453795583c8a29ac34ac",
 "title": "Craft Block World Building",
 "iframe": "https://html5.gamedistribution.com/fd9aafb2f496453795583c8a29ac34ac/",
 "categories": ["Simulation"],
-"creator": "YAD.Com"
+"creator": "YAD.Com",
+"description": "Craft Block World Building lets you create structures and shape a world made of cubes. Build and design your surroundings, then explore the landscape. A drivable car gives you another way to travel through the blocky terrain."
 },
 {
 "id": "fd1a94ebbb2141d1adf2d9e3629abcf3",
 "title": "Italian Brainrot Clicker",
 "iframe": "https://html5.gamedistribution.com/fd1a94ebbb2141d1adf2d9e3629abcf3/",
 "categories": ["Casual"],
-"creator": "GM Media"
+"creator": "GM Media",
+"description": "Italian Brainrot Clicker turns taps on the main character into the game's brainrot resource. Keep clicking to build the total and unlock more of its strange meme creatures. Follow the idle progression as the available characters expand."
 },
 {
 "id": "fd4056d6ea6b419b83c05d01c74075b3",
 "title": "Brawl Bros Squad",
 "iframe": "https://html5.gamedistribution.com/fd4056d6ea6b419b83c05d01c74075b3/",
 "categories": ["Shooter"],
-"creator": "GamePush"
+"creator": "GamePush",
+"description": "Brawl Bros Squad is a third-person shooter with weapon changes, grenades and jumping. Move through the combat area, aim and fire at opposing characters, then reload between encounters. Choose a skin and use the available equipment to stay in the fight."
 },
 {
 "id": "fd9317037d2c44efb6e56d2e26f446cf",
 "title": "The Superhero League",
 "iframe": "https://html5.gamedistribution.com/fd9317037d2c44efb6e56d2e26f446cf/",
 "categories": ["Adventure", "Puzzle"],
-"creator": "PuzzleGame.Com"
+"creator": "PuzzleGame.Com",
+"description": "The Superhero League turns fights against villains into physics-based puzzles. Hold and drag to set up throws, using objects and the hero's abilities against the enemies. Choose an angle that clears the threats while keeping innocent characters out of danger."
 },
 {
 "id": "fd9ae4555ec44797b666214107e07b7f",
 "title": "Cougar Simulator: Big Cats",
 "iframe": "https://html5.gamedistribution.com/fd9ae4555ec44797b666214107e07b7f/",
 "categories": ["Adventure", "Simulation"],
-"creator": "CyberGoldfinch"
+"creator": "CyberGoldfinch",
+"description": "Cougar Simulator Big Cats lets you control a cougar in an open animal world. Hunt, complete quests and improve skills while exploring different habitats. Customize the cat, find a mate and raise a family that can assist with hunting and battles."
 },
 {
 "id": "fd590b333360447eb367a9abfa7424b0",
 "title": "Fight for the Tree",
 "iframe": "https://html5.gamedistribution.com/fd590b333360447eb367a9abfa7424b0/",
 "categories": ["Battle", "Simulation"],
-"creator": "yiyuan"
+"creator": "yiyuan",
+"description": "Fight for the Tree puts you in a campaign to protect trees and rescue captured saplings. Your character attacks automatically while battles generate experience and resources. Develop the fighter and explore additional maps as you work through the rescue objectives."
 },
 {
 "id": "fdc2d7e2832141c3a197dc8d47296b06",
 "title": "Animal Merge: Bubble Shooter",
 "iframe": "https://html5.gamedistribution.com/fdc2d7e2832141c3a197dc8d47296b06/",
 "categories": ["Bubble Shooter", "Merge"],
-"creator": "Playgama"
+"creator": "Playgama",
+"description": "Animal Merge Bubble Shooter combines aiming with creature evolution. Pull back an animal bubble and release it toward an identical one to create an upgraded form. Keep making merges toward the final animal, using special tools when a level becomes difficult."
 },
 {
 "id": "fdb5658c4298427cbb99911f713c377c",
 "title": "Master of 3 Tiles",
 "iframe": "https://html5.gamedistribution.com/fdb5658c4298427cbb99911f713c377c/",
 "categories": ["Match-3"],
-"creator": "Playgama"
+"creator": "Playgama",
+"description": "Master of 3 Tiles asks you to find and collect three identical picture tiles at a time. Completed triplets disappear, opening more of the arrangement. Plan the selection order so you can remove every tile and finish the level."
 },
 {
 "id": "fd8ad948b534420caced19c62764019f",
 "title": "Crazy Plane Landing",
 "iframe": "https://html5.gamedistribution.com/fd8ad948b534420caced19c62764019f/",
 "categories": ["Agility", "Casual"],
-"creator": "Boombit S.A."
+"creator": "Boombit S.A.",
+"description": "Crazy Plane Landing challenges you to launch an aircraft and bring it down successfully. Use the mouse to control the launch and boost, then steer through the flight. Judge the approach carefully so the final landing avoids a crash."
 },
 {
 "id": "fdf1b9b4c4cf49048c02314500360a9d",
 "title": "Guess Word",
 "iframe": "https://html5.gamedistribution.com/fdf1b9b4c4cf49048c02314500360a9d/",
 "categories": ["Casual"],
-"creator": "PuzzleGame.Com"
+"creator": "PuzzleGame.Com",
+"description": "Guess Word gives you six attempts to identify a hidden word. Read the changing letter colors after each guess and use those clues to narrow the possibilities. Choose among the available modes and work toward the answer before the attempts run out."
 },
 {
 "id": "fd69b241a26948a7b6a8d8e6747e24e3",
 "title": "Excavator Simulator 3D",
 "iframe": "https://html5.gamedistribution.com/fd69b241a26948a7b6a8d8e6747e24e3/",
 "categories": ["Racing & Driving", "Simulation"],
-"creator": "CarGames.Com"
+"creator": "CarGames.Com",
+"description": "Excavator Simulator 3D puts construction vehicles and interchangeable attachments under your control. Dig, lift, clamp or handle other tasks using the machine suited to the job. Complete missions efficiently to earn money for additional vehicles and challenges."
 },
 {
 "id": "fd640bb1693c4746b79e5d6dab91488e",
 "title": "Cannon Blast - The Last Stand",
 "iframe": "https://html5.gamedistribution.com/fd640bb1693c4746b79e5d6dab91488e/",
 "categories": ["Casual"],
-"creator": "Vallisubia Studios"
+"creator": "Vallisubia Studios",
+"description": "Cannon Blast The Last Stand gives you a cannon to defend against an advancing army. Adjust elevation and aim, charge a shot and fire at the approaching force. Collect coins to buy upgrades and prepare for the next attack."
 },
 {
 "id": "fdedbc8bb114409b84e1d1ff853291ee",
 "title": "Divinex",
 "iframe": "https://html5.gamedistribution.com/fdedbc8bb114409b84e1d1ff853291ee/",
 "categories": ["Art", "Mahjong & Connect"],
-"creator": "LUCKY TRY"
+"creator": "LUCKY TRY",
+"description": "Divinex is a matching puzzle played on a field you can rotate. Turn the arrangement to reach tiles with the same design and remove them in pairs. Complete levels to unlock more avatars and backgrounds, using bonuses to help with difficult layouts."
 },
 {
 "id": "fd8440d9ed374f06b745cb299cb61819",
 "title": "Christmas Maze Mania",
 "iframe": "https://html5.gamedistribution.com/fd8440d9ed374f06b745cb299cb61819/",
 "categories": ["Puzzle"],
-"creator": "Lof Games"
+"creator": "Lof Games",
+"description": "Christmas Maze Mania asks you to guide Santa through mazes to deliver gifts to waiting children. Study the passages and choose an efficient route around the walls. Work through the holiday levels using the mouse, touch input or arrow keys."
 },
 {
 "id": "fd27002e2b1b44d5a7f97ce435d7ea45",
 "title": "Melty time",
 "iframe": "https://html5.gamedistribution.com/fd27002e2b1b44d5a7f97ce435d7ea45/",
 "categories": ["Mahjong & Connect"],
-"creator": "Synk Inc."
+"creator": "Synk Inc.",
+"description": "Melty Time asks you to connect pairs of identical sweets along a clear path. The connection can use up to three straight horizontal or vertical segments. Choose matches that open useful routes so the remaining sweets do not become trapped."
 },
 {
 "id": "fd52a6c1c1834fe3b8918cb7b96918bd",
 "title": "Jungle Match",
 "iframe": "https://html5.gamedistribution.com/fd52a6c1c1834fe3b8918cb7b96918bd/",
 "categories": ["Puzzle"],
-"creator": "Agame"
+"creator": "Agame",
+"description": "Jungle Match takes fruit, plants and vegetables into objective-based matching puzzles. Bring three identical pieces together to collect them and complete the requested task. Keep track of the move allowance shown beside the board before committing to the next match."
 },
 {
 "id": "fd1daaf9dc614076bb774768300862e4",
 "title": "Ragdoll Fighter",
 "iframe": "https://html5.gamedistribution.com/fd1daaf9dc614076bb774768300862e4/",
 "categories": ["Battle"],
-"creator": "bestgames.com"
+"creator": "bestgames.com",
+"description": "Ragdoll Fighter puts two physics-based fighters against each other with separate health bars. Move your character into range and attack with hands, feet or available weapons. Keep dealing damage while protecting the health needed to survive the duel."
 },
 {
 "id": "fdf4ef64d7e84e0780be6fc6802fa4a8",
 "title": "Rescue Rangers",
 "iframe": "https://html5.gamedistribution.com/fdf4ef64d7e84e0780be6fc6802fa4a8/",
 "categories": ["Adventure"],
-"creator": "MaruBeto"
+"creator": "MaruBeto",
+"description": "Rescue Rangers traps two characters inside a desert temple. Move and jump through the surroundings while using their cooperation to solve the puzzles ahead. Find a route that gets the pair past the obstacles and toward an escape."
 },
 {
 "id": "fd5f903d4b93483e809891046eb0b180",
 "title": "Subway FPS",
 "iframe": "https://html5.gamedistribution.com/fd5f903d4b93483e809891046eb0b180/",
 "categories": ["Shooter"],
-"creator": "Instant Games Studio"
+"creator": "Instant Games Studio",
+"description": "Subway FPS puts you in a first-person defense against attackers arriving in waves. Aim and fire at the enemies entering the subway area. Keep track of their approach while trying to clear the current wave and survive the next assault."
 },
 {
 "id": "fdaf4c4170dc47ddba698926886ede02",
 "title": "Rainbow Girls Christmas Party",
 "iframe": "https://html5.gamedistribution.com/fdaf4c4170dc47ddba698926886ede02/",
 "categories": ["Dress-up"],
-"creator": "Cutedressup"
+"creator": "Cutedressup",
+"description": "Rainbow Girls Christmas Party helps Skyler and Sunny prepare outfits for a party at Rainbow High. Explore the available clothing and accessories to give each friend her own festive appearance. Finish both looks before they join the celebration."
 },
 {
 "id": "fddd9e1858554fb7b46d22e899679089",
 "title": "Home Makeover",
 "iframe": "https://html5.gamedistribution.com/fddd9e1858554fb7b46d22e899679089/",
 "categories": ["Match-3"],
-"creator": "tinyDream"
+"creator": "tinyDream",
+"description": "Home Makeover combines matching puzzles with renovating houses. Match candies, create power-ups and complete boards to keep the project moving. Choose furniture and decorative details as you develop homes in bright, sunny settings."
 },
 {
 "id": "fdad3a2ed1a64c25af26805fa209ed33",
 "title": "Idle Painter",
 "iframe": "https://html5.gamedistribution.com/fdad3a2ed1a64c25af26805fa209ed33/",
 "categories": ["Simulation"],
-"creator": "Tattva Studio"
+"creator": "Tattva Studio",
+"description": "Idle Painter turns making pictures into an art business. Click to paint, earn money and improve the speed and efficiency of later work. Discover additional shapes and styles as you build up the collection of finished paintings."
 },
 {
 "id": "fdc1359f87784264b9292a2709bed4a4",
 "title": "Mahjong Pirate Plunder Journey",
 "iframe": "https://html5.gamedistribution.com/fdc1359f87784264b9292a2709bed4a4/",
 "categories": ["Mahjong & Connect"],
-"creator": "Playtouch"
+"creator": "Playtouch",
+"description": "Mahjong Pirate Plunder Journey sends you through Caribbean-themed tile boards in search of treasure. Remove identical pairs to finish a level, aiming to avoid hints and beat the time target for extra stars. Unlock more layouts and try the daily challenge for additional rewards."
 },
 {
 "id": "fd74263a513045f7b5d1415224cea3b9",
 "title": "Pixel Crash 3D",
 "iframe": "https://html5.gamedistribution.com/fd74263a513045f7b5d1415224cea3b9/",
 "categories": ["Racing & Driving"],
-"creator": "GameBiz"
+"creator": "GameBiz",
+"description": "Pixel Crash 3D puts you in a block-styled driving world with racing and collisions. Use the arrow keys or WASD to control the car through the available environment. Practice handling the vehicle while working through the driving challenges."
 },
 {
 "id": "fdf3ea11fa954f62a81494790a6b6ce1",
 "title": "Empire Island",
 "iframe": "https://html5.gamedistribution.com/fdf3ea11fa954f62a81494790a6b6ce1/",
 "categories": ["Strategy"],
-"creator": "Podge Games"
+"creator": "Podge Games",
+"description": "Empire Island asks you to build a population, collect taxes and defend an island through advancing technological eras. Place structures and weapons against increasingly sophisticated attacks. Add defenses such as mines or use destructive powers when enemy forces threaten the settlement."
 },
 {
 "id": "fd377a883f674f768741cc111fb1c80b",
 "title": "Zombie Clash 3D",
 "iframe": "https://html5.gamedistribution.com/fd377a883f674f768741cc111fb1c80b/",
 "categories": ["Shooter"],
-"creator": "Freeway Interactive"
+"creator": "Freeway Interactive",
+"description": "Zombie Clash 3D sends a band of harlequins into an abandoned circus occupied by zombies. Fight with a shotgun or explosive-arrow crossbow and bring the Scarecrow dummy to the enemy base. Improve the weapons and unlock skins as the battle continues."
 },
 {
 "id": "fdc3f7783ba24be48f5cf244d6ce0aca",
 "title": "Crazy Seagull",
 "iframe": "https://html5.gamedistribution.com/fdc3f7783ba24be48f5cf244d6ce0aca/",
 "categories": ["Casual"],
-"creator": "Xpresate Studio"
+"creator": "Xpresate Studio",
+"description": "Crazy Seagull pits a small plane against a fast-moving seagull in a contest for balloons. Steer by touching the screen and reach the balloons before your opponent. Keep adjusting the flight path to stay competitive with the bird."
 },
 {
 "id": "fd5980d2238e429aa5af3103815e0b46",
 "title": "Bouncy GO",
 "iframe": "https://html5.gamedistribution.com/fd5980d2238e429aa5af3103815e0b46/",
 "categories": ["Casual"],
-"creator": "Sakura Games"
+"creator": "Sakura Games",
+"description": "Bouncy GO asks you to move through obstacle-filled levels by holding the mouse button. Release to stop when a hazard blocks the way, then continue when the route opens. Time the starts and pauses to reach the end safely."
 },
 {
 "id": "fd8f50bc8b3248a0b5b2acf6aa3ad60e",
 "title": "Running On Christmas",
 "iframe": "https://html5.gamedistribution.com/fd8f50bc8b3248a0b5b2acf6aa3ad60e/",
 "categories": ["Casual"],
-"creator": "MBG Network"
+"creator": "MBG Network",
+"description": "Running on Christmas follows a panda through a winter forest toward Santa's house. Jump over traps and deal with the trolls and goblins along the path. Watch for moving hazards as well as fixed ones, since the panda has limited lives."
 },
 {
 "id": "fd9dc7eb5f7142f69171546b738766f5",
 "title": "Sweet Baby Girl Cleanup Messy School",
 "iframe": "https://html5.gamedistribution.com/fd9dc7eb5f7142f69171546b738766f5/",
 "categories": ["Dress-up"],
-"creator": "Yiv.Com"
+"creator": "Yiv.Com",
+"description": "Sweet Baby Girl Cleanup Messy School lets you help Chloe, Katie and Justin restore their school. Clean areas such as the classrooms, bathroom, playground, observatory and chemistry lab. Work through the different cleanup activities to get each space ready again."
 },
 {
 "id": "fdec018129c14dcdb5ff534ac7ff4e2c",
 "title": "Draw Weapons Rush",
 "iframe": "https://html5.gamedistribution.com/fdec018129c14dcdb5ff534ac7ff4e2c/",
 "categories": ["Casual"],
-"creator": "YAD.Com"
+"creator": "YAD.Com",
+"description": "Draw Weapons Rush lets you design the weapons used during an action run. Drag to draw a shape, move with the joystick and fight enemies on the way to the finish. Switch between the available weapon types when another design suits the next encounter."
 },
 {
 "id": "fd9b0d45958f48c683bf57c09ab8ffeb",
 "title": "Cute Piranha Jigsaw Puzzles",
 "iframe": "https://html5.gamedistribution.com/fd9b0d45958f48c683bf57c09ab8ffeb/",
 "categories": ["Puzzle"],
-"creator": "Vi Games"
+"creator": "Vi Games",
+"description": "Cute Piranha Jigsaw Puzzles offers twelve fish-themed picture challenges. Move the shaped pieces into place and reconnect the piranhas and their surroundings. Use the outlines and matching colors to rebuild each selected image."
 },
 {
 "id": "fdbc6168a4c94b7595c96e49c4dd62b5",
 "title": "Math Boxing Comparison",
 "iframe": "https://html5.gamedistribution.com/fdbc6168a4c94b7595c96e49c4dd62b5/",
 "categories": ["Educational"],
-"creator": "MathNook"
+"creator": "MathNook",
+"description": "Math Boxing Comparison makes correct number comparisons your way of landing punches. Choose less than, greater than or equal for the two displayed numbers. A mistake or slow response costs a life, while later rounds give you less time and larger values."
 },
 {
 "id": "fdc53cbb755243509b7a7722597ea11c",
 "title": "WW2 Cold War Game Fps",
 "iframe": "https://html5.gamedistribution.com/fdc53cbb755243509b7a7722597ea11c/",
 "categories": ["Shooter"],
-"creator": "BestCrazyGames.com"
+"creator": "BestCrazyGames.com",
+"description": "WW2 Cold War Game FPS puts soldiers and military vehicles into a period-themed battlefield. Move on foot or control available machines, aim with the mouse and switch weapons during combat. Fight alongside or against other players using the equipment provided."
 },
 {
 "id": "fd5e034c9e404edd8f2ce02131362c2a",
 "title": "Car Mechanic Auto Workshop Repair Garage",
 "iframe": "https://html5.gamedistribution.com/fd5e034c9e404edd8f2ce02131362c2a/",
 "categories": ["Puzzle"],
-"creator": "MaxZoon"
+"creator": "MaxZoon",
+"description": "Car Mechanic Auto Workshop Repair Garage lets you restore old cars through workshop tasks. Remove and replace parts, repair dents and paint the bodywork. Work through the assembly and finishing stages to turn a damaged vehicle into a renewed one."
 },
 {
 "id": "fdf3e792ac834a428ff3df4cdfa23216",
 "title": "Masked Forces VS Coronavirus",
 "iframe": "https://html5.gamedistribution.com/fdf3e792ac834a428ff3df4cdfa23216/",
 "categories": ["Battle"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "Masked Forces vs Coronavirus turns mutated viruses into targets for an action shooter. Move, jump and switch weapons while fighting the creatures. Choose among Kill, Night Kill, Find Artifacts and Survival for different mission objectives."
 },
 {
 "id": "fda860369f1248afa07e1e6c370edca0",
 "title": "Kart Fever",
 "iframe": "https://html5.gamedistribution.com/fda860369f1248afa07e1e6c370edca0/",
 "categories": ["Racing & Driving"],
-"creator": "Smartline-Games"
+"creator": "Smartline-Games",
+"description": "Kart Fever puts you in a customizable go-kart for track time challenges. Steer through corners, jump when needed and hold Space to drift. Refine the racing line and try to complete the course faster on another attempt."
 },
 {
 "id": "fd38b49398aa4db893413b4aef0e7839",
 "title": "Real Chess",
 "iframe": "https://html5.gamedistribution.com/fd38b49398aa4db893413b4aef0e7839/",
 "categories": ["Boardgames"],
-"creator": "TrendyGames"
+"creator": "TrendyGames",
+"description": "Real Chess offers matches against a second player or an adjustable computer opponent. Choose a six-by-six or eight-by-eight board and a two-dimensional or three-dimensional view. Move the pieces legally and develop a position that forces checkmate."
 },
 {
 "id": "fd0cab305b564486a38ed12a084d376b",
 "title": "Zoo Mahjongg Deluxe",
 "iframe": "https://html5.gamedistribution.com/fd0cab305b564486a38ed12a084d376b/",
 "categories": ["Mahjong & Connect"],
-"creator": "Lof Games"
+"creator": "Lof Games",
+"description": "Zoo Mahjongg Deluxe asks you to remove identical pairs of animal tiles. Select only tiles with a free left or right side and uncover the pieces underneath. Find a partner for every tile to clear the level's layout."
 },
 {
 "id": "fd87fa74db814fc5827d9d8be7b9dc42",
 "title": "2 Squares",
 "iframe": "https://html5.gamedistribution.com/fd87fa74db814fc5827d9d8be7b9dc42/",
 "categories": ["Puzzle"],
-"creator": "newgamess"
+"creator": "newgamess",
+"description": "2 Squares challenges you to rotate a central pair of colored squares as more approach from different directions. Match the receiving square's color to the incoming one. Use the arrow keys or the displayed rotation buttons to keep the sequence going."
 },
 {
 "id": "fd8bf05af992497d903c3f961b562589",
 "title": "The Classic UNO Cards Game: Online Version",
 "iframe": "https://html5.gamedistribution.com/fd8bf05af992497d903c3f961b562589/",
 "categories": ["Cards"],
-"creator": "LDGEngineering"
+"creator": "LDGEngineering",
+"description": "The Classic UNO Cards Game Online Version pits you against computer-controlled opponents. Match the discard pile by color, number or symbol, and draw when you have no playable card. Remember the UNO button when one card remains as you race to empty your hand."
 },
 {
 "id": "fd2e6f362b5f4b06a66e89f9e192a0aa",
 "title": "Dream Dolly Designer",
 "iframe": "https://html5.gamedistribution.com/fd2e6f362b5f4b06a66e89f9e192a0aa/",
 "categories": ["Casual"],
-"creator": "igroutka.ru"
+"creator": "igroutka.ru",
+"description": "Dream Dolly Designer lets you put together a doll of your own. Explore the available design choices and combine them into a character you like. Try another combination to create a different finished doll."
 },
 {
 "id": "fd3cdfd45cad40c2bb675784a9a21bd3",
 "title": "Christmas Matching",
 "iframe": "https://html5.gamedistribution.com/fd3cdfd45cad40c2bb675784a9a21bd3/",
 "categories": ["Match-3"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "Christmas Matching is a timed puzzle about lining up seasonal items. Make groups of at least three, or use larger matches to gain extra time and special pieces. Combine the bonuses to keep clearing the board before the clock expires."
 },
 {
 "id": "fd659a85ea0848c997c016e033b26799",
 "title": "Cursed Treasure 2",
 "iframe": "https://html5.gamedistribution.com/fd659a85ea0848c997c016e033b26799/",
 "categories": ["Adventure", "Strategy"],
-"creator": "IriySoft"
+"creator": "IriySoft",
+"description": "Cursed Treasure 2 puts you on the defenders' side protecting magical gems from heroes. Build towers belonging to orcs, demons and the undead along the attackers' paths. Use spells and improvements to stop each wave from reaching the treasure."
 },
 {
 "id": "fdaa02acbc214c7db291886f2d9d42a3",
 "title": "Bird Flap UP",
 "iframe": "https://html5.gamedistribution.com/fdaa02acbc214c7db291886f2d9d42a3/",
 "categories": ["Casual"],
-"creator": "Good Funny Game"
+"creator": "Good Funny Game",
+"description": "Bird Flap Up challenges you to keep a bird climbing through moving obstacles. Use mouse input to control the flight and pass through safe gaps while collecting gold. React to the changing barriers before the next hazard closes the way."
 },
 {
 "id": "fdf2137bac9842bfbc6460a89bc6a33a",
 "title": "Shoot Bubble Deluxe",
 "iframe": "https://html5.gamedistribution.com/fdf2137bac9842bfbc6460a89bc6a33a/",
 "categories": ["Shooter"],
-"creator": "wingmangames"
+"creator": "wingmangames",
+"description": "Shoot Bubble Deluxe offers bubble-clearing challenges in puzzle and arcade modes. Aim at matching colors and fire to remove groups from the field. Use the available boosters when they help clear a difficult part of the arrangement."
 },
 {
 "id": "fdda3d111d70438080dff4b5b538b889",
 "title": "Baby Hazel Preschool Picnic",
 "iframe": "https://html5.gamedistribution.com/fdda3d111d70438080dff4b5b538b889/",
 "categories": ["Care"],
-"creator": "Baby Hazel"
+"creator": "Baby Hazel",
+"description": "Baby Hazel Preschool Picnic follows Hazel preparing for a school trip to a waterpark. Pack the necessary items, join the bus ride and help with the children's games. Continue the outing through the water-slide activities once the group arrives."
 },
 {
 "id": "fdd70a3dfd994860b5c8e10b3ba0bd40",
 "title": "Tactical Hero",
 "iframe": "https://html5.gamedistribution.com/fdd70a3dfd994860b5c8e10b3ba0bd40/",
 "categories": ["Casual"],
-"creator": "Ricreator"
+"creator": "Ricreator",
+"description": "Tactical Hero turns a two-person team into a shooting duel. Move and fire to eliminate the opposing side, aiming to score five times and win the match. Play solo or use separate controls to challenge a friend."
 },
 {
 "id": "fd99ec932e7a4197b0edd98f76c75deb",
 "title": "Super 3D World Adventure",
 "iframe": "https://html5.gamedistribution.com/fd99ec932e7a4197b0edd98f76c75deb/",
 "categories": ["Adventure"],
-"creator": "BestCrazyGames"
+"creator": "BestCrazyGames",
+"description": "Super 3D World Adventure sends a character through a three-dimensional platform course. Click to jump over obstacles and gather coins along the route. Spend the collected coins on additional characters for later attempts."
 },
 {
 "id": "fd31124e18104a609a98f6beb661c0f3",
 "title": "Halloween Patterns",
 "iframe": "https://html5.gamedistribution.com/fd31124e18104a609a98f6beb661c0f3/",
 "categories": ["Puzzle"],
-"creator": "Lof Games"
+"creator": "Lof Games",
+"description": "Halloween Patterns asks you to identify the missing item in a repeating sequence. Drag the correct object into its place and continue to the next pattern. Complete as many of the seasonal arrangements as you can within three minutes."
 },
 {
 "id": "fdb6d797b11d40c0ac2a04e89191db38",
 "title": "Larva Jump",
 "iframe": "https://html5.gamedistribution.com/fdb6d797b11d40c0ac2a04e89191db38/",
 "categories": ["Casual"],
-"creator": "fugames"
+"creator": "fugames",
+"description": "Larva Jump follows a larva crossing patches of grass above the water. Read the displayed prompts and click to make the next jump. Keep the character landing on safe ground while working toward the destination."
 },
 {
 "id": "fd637eaff5134363a9c6448151b41f40",
 "title": "Offroad Cycle 3D Racing Simulator",
 "iframe": "https://html5.gamedistribution.com/fd637eaff5134363a9c6448151b41f40/",
 "categories": ["Racing & Driving"],
-"creator": "igroutka.ru"
+"creator": "igroutka.ru",
+"description": "Offroad Cycle 3D Racing Simulator puts a bicycle on off-road racing routes. Use WASD to steer and control the ride, then brake before a difficult section. Switch the camera when you want another view of the terrain ahead."
 },
 {
 "id": "fda636542fdc488eaa6eff36e699cbb5",
 "title": "Baby Hazel Fun Time",
 "iframe": "https://html5.gamedistribution.com/fda636542fdc488eaa6eff36e699cbb5/",
 "categories": ["Care"],
-"creator": "Baby Hazel"
+"creator": "Baby Hazel",
+"description": "Baby Hazel Fun Time begins with Hazel waking up ready for the day. Help with her morning activities, attend to her needs and offer the toys she wants. Follow her responses to keep the playtime moving happily."
 },
 {
 "id": "fdae69c326c746af98fa5d267222a945",
 "title": "City Car Parking",
 "iframe": "https://html5.gamedistribution.com/fdae69c326c746af98fa5d267222a945/",
 "categories": ["Adventure"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "City Car Parking gives you different cars to maneuver through parking levels. Drive with WASD and follow the route toward the designated parking spot. Keep the car under control around obstacles so you can complete the current mission."
 },
 {
 "id": "fdf0504d87b94e12ad2b03bef5e2eaf9",
 "title": "Bank Cash Transit 3D Security Van Simulator 2018",
 "iframe": "https://html5.gamedistribution.com/fdf0504d87b94e12ad2b03bef5e2eaf9/",
 "categories": ["Simulation"],
-"creator": "igroutka.ru"
+"creator": "igroutka.ru",
+"description": "Bank Cash Transit 3D Security Van Simulator 2018 gives you a cash-transport route between a bank and its ATMs. Drive the security van to the required locations and complete the delivery tasks. Keep the vehicle under control while carrying the load through the streets."
 },
 {
 "id": "fd9caa2d417d4116bf80b16ca3dd01b7",
 "title": "Drifting Sedan Puzzle",
 "iframe": "https://html5.gamedistribution.com/fd9caa2d417d4116bf80b16ca3dd01b7/",
 "categories": ["Puzzle"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "Drifting Sedan Puzzle offers six sedan pictures as jigsaws at four difficulty settings. Choose 16, 36, 64 or 100 pieces and reconnect the selected image. Match the cars' bodywork, wheels and surroundings to restore the complete scene."
 },
 {
 "id": "fd12b2a8de9f4dadac4654e5cbe608f0",
 "title": "Cabriolet Roadster Puzzle",
 "iframe": "https://html5.gamedistribution.com/fd12b2a8de9f4dadac4654e5cbe608f0/",
 "categories": ["Puzzle"],
-"creator": "WillingGames.com"
+"creator": "WillingGames.com",
+"description": "Cabriolet Roadster Puzzle turns six open-top car pictures into jigsaws. Select a piece count from 16 to 100 and place the scattered sections correctly. Work from recognizable vehicle details toward the remaining background pieces."
 },
 {
 "id": "fd57420b624144faaa4f61077459a2c7",
 "title": "Classic Uno",
 "iframe": "https://html5.gamedistribution.com/fd57420b624144faaa4f61077459a2c7/",
 "categories": ["Cards"],
-"creator": "Webgameapp"
+"creator": "Webgameapp",
+"description": "Classic Uno asks you to empty a hand of colored cards before the other players. Match the card on the discard pile by color or value and draw when needed. Choose when to use special cards to change the course of play."
 },
 {
 "id": "fd0d67556e564c9a9e65040717d8f0e2",
 "title": "BTS Trucks Coloring",
 "iframe": "https://html5.gamedistribution.com/fd0d67556e564c9a9e65040717d8f0e2/",
 "categories": ["Art"],
-"creator": "Vi Games"
+"creator": "Vi Games",
+"description": "BTS Trucks Coloring gives you cartoon truck drawings to decorate with a brush. Select colors and apply them to the different parts of the vehicle. Experiment with another combination to give the chosen truck a different appearance."
 },
 {
 "id": "fdc5363254e84d5c8f7c8aa05e5bc10e",
 "title": "Panda Commander",
 "iframe": "https://html5.gamedistribution.com/fdc5363254e84d5c8f7c8aa05e5bc10e/",
 "categories": ["Casual"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "Panda Commander is an aerial action game with attacking aircraft and boss encounters. Move through the flight area, fire at enemies and stay away from their weapons. Use upgrades to strengthen the equipment before taking on the next battle."
 },
 {
 "id": "fdee059e9f124051a407994aceb9bb78",
 "title": "EG Fruit Snake",
 "iframe": "https://html5.gamedistribution.com/fdee059e9f124051a407994aceb9bb78/",
 "categories": ["Adventure"],
-"creator": "EcapsGames.com"
+"creator": "EcapsGames.com",
+"description": "EG Fruit Snake adds a time limit to a colorful snake game. Steer with WASD or touch controls and collect fruit to add more time. Keep finding the next fruit so the countdown does not end the run."
 },
 {
 "id": "fdf3e9f0d0d14ca5bbb6e14b17c3cd43",
 "title": "Sack Race Online",
 "iframe": "https://html5.gamedistribution.com/fdf3e9f0d0d14ca5bbb6e14b17c3cd43/",
 "categories": ["Racing & Driving"],
-"creator": "Arcade Lemon"
+"creator": "Arcade Lemon",
+"description": "Sack Race Online puts your character in a sack race against other competitors. Tap to jump along the route and try to cross the finish line first. Use the wizard icon to slow an opponent when the race becomes close."
 },
 {
 "id": "fdad7279c2594d1f9b288f973f5f38ea",
 "title": "Checkers Legend",
 "iframe": "https://html5.gamedistribution.com/fdad7279c2594d1f9b288f973f5f38ea/",
 "categories": ["Boardgames"],
-"creator": "Inlogic Software"
+"creator": "Inlogic Software",
+"description": "Checkers Legend brings diagonal moves and jumping captures to a configurable checkers board. Advance your pieces while looking for opportunities to take opposing ones. Adjust the rule settings to choose the variant you want to play."
 },
 {
 "id": "fda4711f8e7e44c0bac74230b5d8438b",
 "title": "Picture Quiz",
 "iframe": "https://html5.gamedistribution.com/fda4711f8e7e44c0bac74230b5d8438b/",
 "categories": ["Quiz"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "Picture Quiz uses illustrated questions as an English-learning challenge. Examine each picture and choose the answer that identifies it. Work through the levels while checking the visual details before making a selection."
 },
 {
 "id": "fdabe2942813464d9460166e75ba211e",
 "title": "Stickman Swing Star",
 "iframe": "https://html5.gamedistribution.com/fdabe2942813464d9460166e75ba211e/",
 "categories": ["Casual"],
-"creator": "Webgameapp"
+"creator": "Webgameapp",
+"description": "Stickman Swing Star asks you to travel between points using a swinging hook. Attach, swing and launch toward the next position along the route. Complete each level quickly while keeping the stickman on a safe path to the finish."
 },
 {
 "id": "fde6933c732245dfbcf5fd0ff22e1709",
 "title": "Farm Clash 3D",
 "iframe": "https://html5.gamedistribution.com/fde6933c732245dfbcf5fd0ff22e1709/",
 "categories": ["Strategy"],
-"creator": "Freeway Interactive"
+"creator": "Freeway Interactive",
+"description": "Farm Clash 3D puts an armed cowboy into a three-dimensional farm battle. Move around the combat area, jump or crouch to adjust position and fire at the opposing fighters. Keep watching the routes between cover as the firefight develops."
 },
 {
 "id": "fd4ba5943b8e44fab6c51e0cc90fc857",
 "title": "Slide Warriors",
 "iframe": "https://html5.gamedistribution.com/fd4ba5943b8e44fab6c51e0cc90fc857/",
 "categories": ["Battle"],
-"creator": "RHM Interactive"
+"creator": "RHM Interactive",
+"description": "Slide Warriors lets you build a three-character team from barbarians, mages and healers. Send the selected warriors into a platform arena and use their roles to challenge the opposing side. Play against the game or set up a match with a second player."
 },
 {
 "id": "fddc1edc97e04bd19c2a8d3fb5d3feee",
 "title": "Break Liner",
 "iframe": "https://html5.gamedistribution.com/fddc1edc97e04bd19c2a8d3fb5d3feee/",
 "categories": ["Casual"],
-"creator": "F2K2.com"
+"creator": "F2K2.com",
+"description": "Break Liner asks you to time taps so the moving piece breaks through lines along its route. Watch the next section and avoid the red lines. Keep choosing safe openings to continue the attempt."
 },
 {
 "id": "fd4692446a444a67b32ffc396efdf0b9",
 "title": "Rise Up Up",
 "iframe": "https://html5.gamedistribution.com/fd4692446a444a67b32ffc396efdf0b9/",
 "categories": ["Adventure"],
-"creator": "4j.com"
+"creator": "4j.com",
+"description": "Rise Up Up makes a movable ball your shield for an ascending balloon. Push falling obstacles away before they hit the balloon underneath. Keep checking the space above it as you work through the levels."
 },
 {
 "id": "fd933f4f35ee462f899526f8a1e4749c",
 "title": "Princess Christmas Night",
 "iframe": "https://html5.gamedistribution.com/fd933f4f35ee462f899526f8a1e4749c/",
 "categories": ["Art"],
-"creator": "Oscar Intermed"
+"creator": "Oscar Intermed",
+"description": "Princess Christmas Night helps princesses decorate a Christmas tree for their winter celebration. Pick ornaments and arrange the available holiday details around the tree. Choose gifts to complete the festive setting."
 },
 {
 "id": "fd32e5bb0c1e4db796e3ff1d50f63b1a",
 "title": "Mermaid Princess: Underwater Games",
 "iframe": "https://html5.gamedistribution.com/fd32e5bb0c1e4db796e3ff1d50f63b1a/",
 "categories": ["Adventure"],
-"creator": "8Games.Net"
+"creator": "8Games.Net",
+"description": "Mermaid Princess Underwater Games combines several activities in an underwater setting. Help clean oil and rubbish, feed fish and solve picture puzzles, then try dress-up and decoration options. Choose another activity to continue exploring the mermaid's surroundings."
 },
 {
 "id": "fd117b75232e429c82d08ee09788f58e",
 "title": "Cars Movement",
 "iframe": "https://html5.gamedistribution.com/fd117b75232e429c82d08ee09788f58e/",
 "categories": ["Casual"],
-"creator": "T"
+"creator": "T",
+"description": "Cars Movement asks you to clear approaching cars with matching-colored shots. Choose the right color and launch a piece toward the next vehicle in the line. A wrong match or a car reaching the danger area ends the attempt."
 },
 {
 "id": "fde61411fc044ed681d9561a7cbad3dc",
 "title": "Perfect Popular Braids",
 "iframe": "https://html5.gamedistribution.com/fde61411fc044ed681d9561a7cbad3dc/",
 "categories": ["Dress-up"],
-"creator": "igirlgames"
+"creator": "igirlgames",
+"description": "Perfect Popular Braids lets you choose from four braided hairstyles and work through a hair-care routine. Follow the styling steps to create the selected braid. Finish the updo after preparing the character's hair with the available products."
 },
 {
 "id": "fdf776d4e3f34b2c88e4d9649560024c",
 "title": "World Crafts",
 "iframe": "https://html5.gamedistribution.com/fdf776d4e3f34b2c88e4d9649560024c/",
 "categories": ["Adventure"],
-"creator": "JulGames"
+"creator": "JulGames",
+"description": "World Crafts gives you a block-built space to shape into your own environment. Place and arrange the available building elements to create structures and scenery. Explore different designs as you develop the world around the character."
 },
 {
 "id": "fd9631b5858a49708a2186e4918209ce",
 "title": "Crazy Rich Asian Princesses",
 "iframe": "https://html5.gamedistribution.com/fd9631b5858a49708a2186e4918209ce/",
 "categories": ["Dress-up"],
-"creator": "Unify Media Inc."
+"creator": "Unify Media Inc.",
+"description": "Crazy Rich Asian Princesses lets you style Jasmine and Mulan through a dress-up wardrobe. Choose dresses or coordinated separates, then adjust their hairstyles and accessories. Give each princess a different finished look from the available fashion pieces."
 },
 {
 "id": "fd474c79cd5f49959cc7547719268eb0",
 "title": "Frog Super Bubbles",
 "iframe": "https://html5.gamedistribution.com/fd474c79cd5f49959cc7547719268eb0/",
 "categories": ["Bubble Shooter"],
-"creator": "Gaming Club"
+"creator": "Gaming Club",
+"description": "Frog Super Bubbles asks you to match colored balls before the approaching field reaches the frog. Keep clearing matching groups as the balls advance at regular intervals. Open space around the frog while trying to build a higher score."
 },
 {
 "id": "fdf07353f312406fb3af272ff0843333",
 "title": "Become a dentist",
 "iframe": "https://html5.gamedistribution.com/fdf07353f312406fb3af272ff0843333/",
 "categories": ["Care"],
-"creator": "Playtouch"
+"creator": "Playtouch",
+"description": "Become a Dentist is a fictional clinic game that puts you in charge of the pictured dental tools. Attend to the patients and follow the prompts to work through their treatment activities. Complete the current visit before helping the next character."
 },
 {
 "id": "fd14d47d895548e79c2c7bf75746d1ea",
 "title": "PewDie Challenge Tuber",
 "iframe": "https://html5.gamedistribution.com/fd14d47d895548e79c2c7bf75746d1ea/",
 "categories": ["Casual"],
-"creator": "Princess Girls"
+"creator": "Princess Girls",
+"description": "PewDie Challenge Tuber sends a character through a platform adventure filled with spikes, fire and other hazards. Run, jump and duck to get past the obstacles and confront enemies. Work through the different worlds while protecting the character's remaining lives."
 },
 {
 "id": "fd28693ffbd84822a0d2ce5919c697e3",
 "title": "Sven's Quest",
 "iframe": "https://html5.gamedistribution.com/fd28693ffbd84822a0d2ce5919c697e3/",
 "categories": ["Adventure"],
-"creator": "Kizi"
+"creator": "Kizi",
+"description": "Sven's Quest follows a hero through a retro-style role-playing adventure. Fight monsters with a sword and keep the character away from damaging attacks. Work through the dangers along the route while helping Sven continue his quest."
 },
 {
 "id": "fd780a41b40e419dbca1ba8f8dcfaa8f",
 "title": "Avoider",
 "iframe": "https://html5.gamedistribution.com/fd780a41b40e419dbca1ba8f8dcfaa8f/",
 "categories": ["Casual"],
-"creator": "Onduck Games"
+"creator": "Onduck Games",
+"description": "Avoider challenges you to steer a player icon away from incoming arrows. Touch the screen to change position and find a gap between the threats. Keep dodging to extend the run and increase the score."
 },
 {
 "id": "fd8a77a93efe4ba7866db4837640f472",
 "title": "Jewel Explode",
 "iframe": "https://html5.gamedistribution.com/fd8a77a93efe4ba7866db4837640f472/",
 "categories": ["Puzzle"],
-"creator": "Inlogic Software"
+"creator": "Inlogic Software",
+"description": "Jewel Explode asks you to line up matching jewels horizontally or vertically. Make groups of at least three, create stronger combinations for power-ups and complete each level's goals. Try the turn-based challenges while working toward a higher score."
 },
 {
 "id": "fde0ed339c1c4d358cb836f6eb8d8b58",
 "title": "Cricket Fielder Challenge Game",
 "iframe": "https://html5.gamedistribution.com/fde0ed339c1c4d358cb836f6eb8d8b58/",
 "categories": ["Football"],
-"creator": "Code This Lab srl"
+"creator": "Code This Lab srl",
+"description": "Cricket Fielder Challenge Game puts catching gloves under your control. Move them into the ball's path to make a catch and defend the wicket. Watch the incoming flight before choosing where to position the gloves."
 },
 {
 "id": "fde4f8ddea414a08a76aae2ed38e77dd",
 "title": "Spearmen Hunters",
 "iframe": "https://html5.gamedistribution.com/fde4f8ddea414a08a76aae2ed38e77dd/",
 "categories": ["Casual"],
-"creator": "kiz10.com"
+"creator": "kiz10.com",
+"description": "Spearmen Hunters gives you a tribe to protect from attacking enemies. Aim your spear attacks and eliminate as many opponents as possible. Choose a one-player game or bring in a second player for the hunt."
 },
 {
 "id": "fddfe12517cb401c866192bea7e21d49",
 "title": "Equestria Girls Avatar Maker",
 "iframe": "https://html5.gamedistribution.com/fddfe12517cb401c866192bea7e21d49/",
 "categories": ["Adventure"],
-"creator": "Kawaii Games"
+"creator": "Kawaii Games",
+"description": "Equestria Girls Avatar Maker lets you recreate familiar characters or design someone new. Adjust features, skin color, hair and clothing, then add shoes and accessories. Use the color choices, including hair gradients, to personalize the finished avatar."
 },
 {
 "id": "fd313afa925c4b488607cb96f73d9995",
 "title": "Angie Spring Wedding!",
 "iframe": "https://html5.gamedistribution.com/fd313afa925c4b488607cb96f73d9995/",
 "categories": ["Dress-up"],
-"creator": "Oscar Intermed"
+"creator": "Oscar Intermed",
+"description": "Angie Spring Wedding helps Angie and her partner choose outfits for their spring ceremony. Browse bridal dresses for Angie, then select a suit for the groom. Coordinate both looks to complete the couple's wedding preparation."
 }
 ]
 }
