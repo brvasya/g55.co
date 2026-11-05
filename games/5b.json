@@ -5,7 +5,8 @@
 "title": "Checkmate Rewind",
 "iframe": "https://html5.gamedistribution.com/5bf895364d864ec8ac65831b880833b6/",
 "categories": ["Puzzle"],
-"creator": "vlaber"
+"creator": "vlaber",
+"description": "Checkmate Rewind turns a completed chess position into a puzzle you solve backward. Undo moves, restore captured pieces, and reverse special actions such as castling, en passant, and pawn promotion. Each case requires you to reconstruct the starting position within an exact move allowance.\n\nEight introductory lessons explain how the backward moves work before you tackle fifty-five handcrafted cases. The puzzles range from brief mistakes to recognizable opening traps. A daily case drawn from a real Lichess game adds another position to investigate. The challenge is to identify a valid history for the board rather than choose the next attacking move."
 },
 {
 "id": "5b860c0a807f448795175900610f016c",

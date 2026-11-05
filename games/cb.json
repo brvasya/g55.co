@@ -5,7 +5,8 @@
 "title": "Fruity 2048",
 "iframe": "https://html5.gamedistribution.com/cb94f21602c64dff95e347fdac3b0380/",
 "categories": ["Puzzle", "Casual"],
-"creator": "Mad Data"
+"creator": "Mad Data",
+"description": "Fruity 2048 is a fruit-themed sliding puzzle about combining identical tiles. Swipe to move the pieces and merge matching pairs into larger fruit. Keep creating the next fruit in the sequence as you work toward the watermelon and the 2048 goal.\n\nSpace on the board becomes the main constraint. Every move should support another useful combination before the grid fills up. Look at which pairs can meet after a swipe and try to leave room for the next step in the merging chain."
 },
 {
 "id": "cbc14b888f584959b3f0d5b9d6be0310",

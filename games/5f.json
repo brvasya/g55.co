@@ -5,14 +5,16 @@
 "title": "Eggxel-Pop",
 "iframe": "https://html5.gamedistribution.com/5f77742a4c6846d2a39b5e6d2595b75c/",
 "categories": ["Puzzle", "Casual"],
-"creator": "fengji"
+"creator": "fengji",
+"description": "Eggxel-Pop is a 3D puzzle in which colored eggs supply ammunition for clearing voxel creatures. Select an egg from the front row and load it into a cannon. It removes exposed pixels of the corresponding color, while the number on the egg shows its remaining shots.\n\nNine colors and one hundred voxel creatures create different combinations to work through. More difficult stages introduce linked eggs, making selection and launch-slot management more important. Plan which visible color to clear next and keep the cannons moving so you can reveal the creation beneath, layer by layer."
 },
 {
 "id": "5fd814dbfb03459e8a3840e72cb12636",
 "title": "Sortica",
 "iframe": "https://html5.gamedistribution.com/5fd814dbfb03459e8a3840e72cb12636/",
 "categories": ["Puzzle"],
-"creator": "Azerion Casual Games"
+"creator": "Azerion Casual Games",
+"description": "Sortica is a tile-sorting puzzle in which each type of pattern belongs in its own container. Tap a stack to select its top piece, then choose a holder containing the matching pattern or an empty space. Move pieces between holders until every container is filled correctly.\n\nOnly the exposed tile is available, making the order of your transfers important. An empty holder gives you room to rearrange stacks and reach a piece underneath. There is no time limit, so you can inspect the patterns and work through each handmade arrangement at your own pace."
 },
 {
 "id": "5f6d1ed91bfb4419ba3f14adddb5ee4e",
