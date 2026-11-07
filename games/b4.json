@@ -5,7 +5,8 @@
 "title": "Chess Marathon",
 "iframe": "https://html5.gamedistribution.com/b4b2316e67f84fceb5c9400cc5782d29/",
 "categories": ["Puzzle"],
-"creator": "Ibrahim Aleisawi"
+"creator": "Ibrahim Aleisawi",
+"description": "Chess Marathon turns chess movement into a race up a board stretching across 1,000 ranks. You begin as a pawn, and every move you make is answered by a legal move from the black pieces. Meanwhile, the board falls apart behind you, adding pressure to keep advancing.\n\nCapturing an opponent changes your piece into the one you took. A knight capture gives you its jumping movement, while taking a rook lets you slide along the board. Reaching a gold rank promotes you to a queen. Choose captures with your next moves in mind: each transformation changes how you can continue the run."
 },
 {
 "id": "b434d014d65640d8a1582af70665f0d5",
