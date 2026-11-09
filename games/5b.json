@@ -5,7 +5,8 @@
 "title": "Trap the Bear",
 "iframe": "https://html5.gamedistribution.com/5b0c27e3304b41afbe95cc5d4db023de/",
 "categories": ["Puzzle", "Strategy"],
-"creator": "Vagstech"
+"creator": "Vagstech",
+"description": "Trap the Bear is a turn-based puzzle in which you guide stranded penguins around a polar bear on an Arctic ice floe. Move one penguin a single step along a snowy path, then let the bear take its turn. The bear can move to another position or jump over an adjacent penguin to capture it.\n\nYour objective is to surround the bear and leave it without a legal move before it captures too many penguins. Plan each step around the bear's possible response and the positions of the remaining crew."
 },
 {
 "id": "5bf895364d864ec8ac65831b880833b6",
