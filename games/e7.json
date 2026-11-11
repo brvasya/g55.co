@@ -5,7 +5,8 @@
 "title": "The Butler Didn't Do It",
 "iframe": "https://html5.gamedistribution.com/e778de959ef747499146b309578a0990/",
 "categories": ["Puzzle"],
-"creator": "myminiapps"
+"creator": "myminiapps",
+"description": "The Butler Didn't Do It is a deduction puzzle about identifying a murderer from witness statements and a crime scene map. Read the suspects' testimony, then place each person so that every statement is true. Each row and column must contain exactly one person.\n\nOnce the placement fits all the clues, the suspect occupying the victim's zone is the killer. Each case has a single solution that can be reached through logic. The game offers several difficulty levels and boards ranging from 6 by 6 to 10 by 10, with larger layouts giving you more positions and statements to reconcile."
 },
 {
 "id": "e724b3defeeb4823867e7e87e996cccb",
