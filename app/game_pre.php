@@ -82,7 +82,7 @@ $currentCreatorTitle = $currentCreatorCluster ? trim((string)($page['creator'] ?
 $creatorLinks = cluster_links_except_current($currentCreatorCluster, $page['id']);
 
 $pageTitle = $page['title'];
-$title = $pageTitle . ' ▶ Play Free ' . $cat['name'] . ' Game Online';
+$title = $pageTitle . ' ▶ Play Free Online';
 
 $desc = $page['description'] ?? '';
 $metaDesc = $desc;
