@@ -5,14 +5,16 @@
 "title": "Clean!",
 "iframe": "https://html5.gamedistribution.com/6a868c048633494d80ffac6fc9fee3e6/",
 "categories": ["Match-3"],
-"creator": "Pro Mobile"
+"creator": "Pro Mobile",
+"description": "Clean! is a hexagonal tile puzzle about clearing every piece from the board. Tap a tile to change its color; adjacent tiles of the same color change along with it. When three matching tiles meet, they disappear immediately.\n\nRemoving groups requires care because leaving an isolated tile can make the level impossible to finish. Think about which pieces will remain after a match, as well as the group you are clearing now. Later levels introduce new tile types, while bonus stages let you trigger large bursts of disappearing color with a tap."
 },
 {
 "id": "6a14d361b83d4a709c1d47db5ff750c3",
 "title": "Arrows Cube",
 "iframe": "https://html5.gamedistribution.com/6a14d361b83d4a709c1d47db5ff750c3/",
 "categories": ["Puzzle", "Casual"],
-"creator": "harooty"
+"creator": "harooty",
+"description": "Arrows Cube is a 3D logic puzzle in which you remove arrows from a cube. An arrow can travel only in its indicated direction and needs an unobstructed path. Rotate the cube to inspect its sides, then choose an order that clears the arrows within the allowed number of moves.\n\nDouble-headed arrows, turning tiles, and reversers introduce additional rules to consider. You can collect coins and stars, unlock constellations, and use hints when you need help. There is no timer, leaving you time to examine the cube before committing to a move."
 },
 {
 "id": "6aaca36de3234d57a7337c9fbdac8e36",
